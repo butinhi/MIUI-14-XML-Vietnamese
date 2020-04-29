@@ -158,4 +158,8 @@
 		<item>Sử dụng quyền</item>
 		<item>Hành vi nhạy cảm</item>
 	</string-array>
+	<string-array name="priority_storage_entries">
+		<item>Bộ nhớ trong</item>
+		<item>Bộ nhớ ngoài</item>
+	</string-array>>
 </resources>

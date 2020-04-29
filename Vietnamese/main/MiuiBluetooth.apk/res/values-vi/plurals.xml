@@ -6,4 +6,7 @@
 	<plurals name="fast_connect_reset_air2_se">
 		<item quantity="other">Nhấn và giữ cảm ứng trên một trong hai tai nghe trong %1$d giây</item>
 	</plurals>
+	<plurals name="wifi_tether_connected_summary">
+		<item quantity="other">%1$d thiết bị đã kết nối</item>
+	</plurals>>
 </resources>

@@ -1,26 +1,5 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <resources>
-    <plurals name="sent_frequency_per_day">
-        <item quantity="other">%d thông báo một ngày</item>
-    </plurals>
-    <plurals name="sent_frequency_per_week">
-        <item quantity="other">%d thông báo một tuần</item>
-    </plurals>
-	<plurals name="last_sent_time_minute">
-		<item quantity="other">%d phút trước</item>
-	</plurals>
-	<plurals name="last_sent_time_day">
-		<item quantity="other">%d ngày trước</item>
-	</plurals>
-	<plurals name="last_sent_time_hour">
-		<item quantity="other">%d giờ trước</item>
-	</plurals>
-	<plurals name="last_sent_time_month">
-		<item quantity="other">%d tháng trước</item>
-	</plurals>
-	<plurals name="last_sent_time_week">
-		<item quantity="other">%d tuần trước</item>
-	</plurals>
 	<plurals name="abbrev_a_hour_ago">
 		<item quantity="other">1 giờ trước</item>
 	</plurals>
@@ -60,9 +39,6 @@
 	<plurals name="abbrev_less_than_one_minute_ago">
 		<item quantity="other">Vừa xong</item>
 	</plurals>
-	<plurals name="mtrl_badge_content_description">
-		<item quantity="other">%d thông báo mới</item>
-	</plurals>
 	<plurals name="in_less_than_one_minute">
 		<item quantity="other">Tức thì</item>
 	</plurals>
@@ -75,5 +51,5 @@
 	<plurals name="in_num_minutes">
 		<item quantity="other">trong %d phút</item>
 		<item quantity="one">trong 1 phút</item>
-	</plurals>>
+	</plurals>
 </resources>

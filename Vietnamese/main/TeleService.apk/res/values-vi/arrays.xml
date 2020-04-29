@@ -383,4 +383,10 @@
 		<item>LTE</item>
 		<item>Chế độ ba</item>
 	</string-array>
+	<string-array name="bluetooth_avrcp_version_values">
+		<item>avrcp14</item>
+		<item>avrcp13</item>
+		<item>avrcp15</item>
+		<item>avrcp16</item>
+	</string-array>>
 </resources>

@@ -1695,4 +1695,10 @@ Ghi chú: Chỉ cho phiên bản Ubuntu 8.04!"</item>
 		<item>Quan trọng</item>
 		<item>Không quan trọng</item>
 	</string-array>
+	<string-array name="bluetooth_avrcp_version_values">
+		<item>avrcp14</item>
+		<item>avrcp13</item>
+		<item>avrcp15</item>
+		<item>avrcp16</item>
+	</string-array>>
 </resources>
