@@ -341,4 +341,18 @@
 	<string name="abc_capital_on">BẬT</string>
 	<string name="abc_search_hint">Tìm kiếm…</string>
 	<string name="abc_searchview_description_clear">Xóa truy vấn</string>
+	<string name="v7_preference_off">TẮT</string>
+	<string name="miuix_sbl_tracking_progress_labe_refreshing">Đang làm mới</string>
+	<string name="preference_copied">\"%1$s\" đã sao chép vào clipboard.</string>
+	<string name="miuix_sbl_tracking_progress_labe_release_to_refresh">Thả ra để làm mới</string>
+	<string name="miuix_sbl_tracking_progress_labe_up_refresh">Đang làm mới</string>
+	<string name="v7_preference_on">BẬT</string>
+	<string name="miuix_sbl_tracking_progress_labe_refreshed">Đã làm mới</string>
+	<string name="not_set">Chưa đặt</string>
+	<string name="miuix_sbl_tracking_progress_labe_up_none">Đừng làm vậy</string>
+	<string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">Thất bại</string>
+	<string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Kéo xuống để làm mới</string>
+	<string name="miuix_sbl_tracking_progress_labe_up_nodata">Không có dữ liệu</string>
+	<string name="copy">Sao chép</string>
+	<string name="expand_button_title">Nâng cao</string>>
 </resources>

@@ -2891,4 +2891,25 @@ Luôn sử dụng số này"</string>
 	<string name="kt_lte_msim_emm_cause_19_22">SIM %d đang đăng ký mạng… Chờ một vài phút rồi thử lại.</string>
 	<string name="lgu_emm_cause_2">Yêu cầu kích hoạt. Đến gặp trung tâm dịch vụ khách hàng (+82-2-3416-7010).</string>
 	<string name="lgu_msim_emm_cause_others">"SIM %d không thể kết nối mạng. Đến gặp trung tâm dịch vụ khách hàng (+82-2-3416-7010)."</string>
+	<string name="wifi_security_short_wpa">WPA</string>
+	<string name="miuix_sbl_tracking_progress_labe_refreshing">Đang làm mới</string>
+	<string name="process_kernel_label">Hệ điều hành Android</string>
+	<string name="miuix_sbl_tracking_progress_labe_release_to_refresh">Thả ra để làm mới</string>
+	<string name="miuix_sbl_tracking_progress_labe_up_refresh">Đang làm mới</string>
+	<string name="wifi_security_short_wpa_wpa2">WPA/WPA2</string>
+	<string name="wifi_security_wpa">WPA PSK</string>
+	<string name="miuix_sbl_tracking_progress_labe_refreshed">Đã làm mới</string>
+	<string name="bluetooth_talkback_bluetooth">Bluetooth</string>
+	<string name="wifi_security_short_wpa2">WPA2</string>
+	<string name="wifi_security_wpa2">WPA2 PSK</string>
+	<string name="miuix_sbl_tracking_progress_labe_up_none">Đừng làm vậy</string>
+	<string name="wifi_security_wep">WEP</string>
+	<string name="password">Mật khẩu</string>
+	<string name="wifi_security_short_eap">802.1x</string>
+	<string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Kéo xuống để làm mới</string>
+	<string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">Thất bại</string>
+	<string name="miuix_sbl_tracking_progress_labe_up_nodata">Không có dữ liệu</string>
+	<string name="wifi_security_owe">Mở tăng cường</string>
+	<string name="wifi_security_short_wep">WEP</string>
+	<string name="wifi_security_passpoint">Passpoint</string>>
 </resources>

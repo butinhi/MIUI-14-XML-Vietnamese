@@ -250,4 +250,6 @@ Bạn phải đồng ý với Chính sách Riêng tư Kika trước khi sử d�
 	<string name="permission_login_introduction">Để đăng nhập và quản lý tài khoản hệ thống</string>
 	<string name="permission_location">Truy cập thông tin vị trí:</string>
 	<string name="data_traffic_enable_dialog_title">"Nếu bạn không kết nối Wi-Fi ngay, thiết bị của bạn sẽ sử dụng dữ liệu di động. Dùng dữ liệu di động sẽ phát sinh chi phí."</string>
+	<string name="poco_launcher_user_agreement">Thỏa thuận Người dùng Trình khởi chạy POCO</string>
+	<string name="poco_launcher_privacy_policy">Chính sách Riêng tư Trình khởi chạy POCO</string>>
 </resources>

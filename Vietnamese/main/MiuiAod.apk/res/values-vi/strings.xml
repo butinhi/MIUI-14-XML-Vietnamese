@@ -432,4 +432,10 @@ d/M"</string>
 	<string name="the_armys_day">Ngày Quân Đội</string>
 	<string name="time_picker_dialog_title">Đặt thời gian</string>
 	<string name="add_from_album">Thêm từ Thư viện</string>
+	<string name="v7_preference_off">TẮT</string>
+	<string name="not_set">Chưa đặt</string>
+	<string name="preference_copied">\"%1$s\" đã sao chép vào clipboard.</string>
+	<string name="v7_preference_on">BẬT</string>
+	<string name="copy">Sao chép</string>
+	<string name="expand_button_title">Nâng cao</string>>
 </resources>

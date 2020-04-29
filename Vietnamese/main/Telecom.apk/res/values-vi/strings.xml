@@ -706,4 +706,16 @@ Chất lượng phát"</string>
 	<string name="bluetooth_select_a2dp_codec_lhdc_latency">Codec Âm thanh Bluetooth LHDC: Độ trễ</string>
 	<string name="bluetooth_select_a2dp_codec_lhdc_playback_quality">Codec Âm thanh Bluetooth LHDC: Chất lượng phát</string>
 	<string name="volume_boost_text">Tăng âm lượng thành công</string>
+	<string name="wifi_security_wpa2">WPA2 PSK</string>
+	<string name="wifi_security_short_wpa2">WPA2</string>
+	<string name="wifi_security_short_wpa">WPA</string>
+	<string name="wifi_security_wep">WEP</string>
+	<string name="wifi_security_short_eap">802.1x</string>
+	<string name="process_kernel_label">Hệ điều hành Android</string>
+	<string name="wifi_security_owe">Mở tăng cường</string>
+	<string name="wifi_security_short_wpa_wpa2">WPA/WPA2</string>
+	<string name="wifi_security_short_wep">WEP</string>
+	<string name="wifi_security_wpa">WPA PSK</string>
+	<string name="wifi_security_passpoint">Passpoint</string>
+	<string name="bluetooth_talkback_bluetooth">Bluetooth</string>>
 </resources>

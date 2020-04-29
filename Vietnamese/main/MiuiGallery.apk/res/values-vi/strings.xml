@@ -2218,4 +2218,18 @@ Chụp nhiều ảnh bạn của bạn hơn!"</string>
 	<string name="filter_sky_dynamic_muguang">Hoàng hôn</string>
 	<string name="vlog_template_rule_importing">Đang nhập…</string>
 	<string name="operation_move">Di chuyển</string>
+	<string name="v7_preference_off">TẮT</string>
+	<string name="actionbar_button_up_description">Quay lại</string>
+	<string name="preference_copied">\"%1$s\" đã sao chép vào clipboard.</string>
+	<string name="help_content">Nếu bạn không thể tìm thấy thiết bị bạn cần, yêu cầu người khác bật Mi Share.</string>
+	<string name="miuix_sbl_tracking_progress_labe_release_to_refresh">Thả ra để làm mới</string>
+	<string name="v7_preference_on">BẬT</string>
+	<string name="mi_drop">Xiaomi Mi Drop</string>
+	<string name="not_set">Chưa đặt</string>
+	<string name="help">Xem trợ giúp</string>
+	<string name="clearable_edittext_clear_description">Xóa</string>
+	<string name="time_picker_dialog_title">Đặt giờ</string>
+	<string name="expand_button_title">Nâng cao</string>
+	<string name="copy">Sao chép</string>
+	<string name="miuix_appcompat_cloud_state_disabled">Đồng bộ với đám mây đã tắt</string>>
 </resources>

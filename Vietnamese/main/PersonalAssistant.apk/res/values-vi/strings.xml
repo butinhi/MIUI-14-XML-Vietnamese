@@ -1845,4 +1845,6 @@ Nếu không có dự phòng, số điện thoại bị quên hoặc bị khóa,
 	<string name="access_deselect">Đã bỏ chọn %s</string>
 	<string name="trip_required_info">Bắt buộc</string>
 	<string name="app_version_name">"Phiên bản App vault: "</string>
+	<string name="miuishare_qzone_title">Qzone</string>
+	<string name="miuishare_weibo_title">Weibo</string>>
 </resources>

@@ -1258,4 +1258,16 @@ Nếu thiết bị của bạn nằm trong danh sách này, bạn có thể thê
 	<string name="snore_detection_guide_one_description">Âm thanh sẽ được ghi lại trong khi bạn ngủ. Học máy cho phép Sức khỏe Xiaomi phát hiện tiếng ngáy, nói mơ và tiếng ồn lớn và lưu các bản ghi âm trên thiết bị của bạn.</string>
 	<string name="tb_gender_select_unchecked">Giới tính %1$s, chạm để chọn</string>
 	<string name="achieve_stand_goals">Đạt mục tiêu đứng</string>
+	<string name="miuix_sbl_tracking_progress_labe_refreshing">Đang làm mới</string>
+	<string name="miuix_sbl_tracking_progress_labe_up_none">Đừng làm vậy</string>
+	<string name="fmt_time_24hour_minute">H:mm</string>
+	<string name="fmt_date_numeric_year_month">M-yyyy</string>
+	<string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">Thất bại</string>
+	<string name="miuix_sbl_tracking_progress_labe_release_to_refresh">Thả ra để làm mới</string>
+	<string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Kéo xuống để làm mới</string>
+	<string name="miuix_sbl_tracking_progress_labe_up_refresh">Đang làm mới</string>
+	<string name="fmt_time_24hour_minute_second">H:mm:ss</string>
+	<string name="miuix_sbl_tracking_progress_labe_up_nodata">Không có dữ liệu</string>
+	<string name="fmt_time_24hour_minute_second_millis">H:mm:ss.S</string>
+	<string name="miuix_sbl_tracking_progress_labe_refreshed">Đã làm mới</string>>
 </resources>

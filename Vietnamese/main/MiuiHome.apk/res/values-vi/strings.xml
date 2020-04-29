@@ -566,4 +566,11 @@
 	<string name="recents_tv_small_window_text">Ứng dụng cửa sổ nhỏ</string>
 	<string name="small_window_toast">Thêm tối đa 10 ứng dụng</string>
 	<string name="small_window_edit_title">Chỉnh sửa các ứng dụng cửa sổ nhỏ thường dùng</string>
+	<string name="v7_preference_off">TẮT</string>
+	<string name="not_set">Chưa đặt</string>
+	<string name="preference_copied">\"%1$s\" đã sao chép vào clipboard.</string>
+	<string name="miuix_sbl_tracking_progress_labe_release_to_refresh">Thả ra để làm mới</string>
+	<string name="v7_preference_on">BẬT</string>
+	<string name="expand_button_title">Nâng cao</string>
+	<string name="copy">Sao chép</string>>
 </resources>

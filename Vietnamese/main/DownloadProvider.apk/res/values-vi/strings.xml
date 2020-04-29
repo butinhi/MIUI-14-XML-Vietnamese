@@ -99,4 +99,5 @@ Chạm %s  để bắt đầu tải xuống nội dung này vào lần tiếp th
     <string name="channel_waiting">Đang chờ tải xuống</string>
 	<string name="download_filesize_unknown">Không xác định</string>
     <string name="notification_dld_msg">Quản lý ứng dụng đang được tải xuống</string>
+	<string name="download_running_percent">Đang tải xuống, %d%%</string>>
 </resources>
