@@ -1,0 +1,6 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+    <string name="google_base_app_install_choice">\"%s\" yêu cầu Khung dịch vụ Google để hoạt động bình thường, tải xuống và cài đặt?</string>
+	<string name="pref_mi_sim_settings">Cài đặt SIM Mi</string>
+    <string name="cta_dialog_msg">Bảo mật cần kết nối mạng để cập nhật, và cũng cần truy cập dịch vụ vị trí để hoạt động bình thường</string>
+</resources>

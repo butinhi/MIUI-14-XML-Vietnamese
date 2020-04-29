@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="order_time">
+        <item quantity="other">%1$s phút</item>
+        <item quantity="zero">%1$s phút</item>
+        <item quantity="one">%1$s phút</item>
+    </plurals>
+    <plurals name="package_residual_minute">
+        <item quantity="other">Còn lại %s phút</item>
+        <item quantity="zero">Còn lại %s phút</item>
+        <item quantity="one">Còn lại %s phút</item>
+    </plurals>
+    <plurals name="remain_deadline_hint">
+        <item quantity="other">(Giới hạn %s phút)</item>
+        <item quantity="zero">(Giới hạn %s phút)</item>
+        <item quantity="one">(Giới hạn %s phút)</item>
+    </plurals>
+    <plurals name="remain_talk_time">
+        <item quantity="other">phút</item>
+        <item quantity="zero">phút</item>
+        <item quantity="one">phút</item>
+    </plurals>
+    <plurals name="use_history_deduct_minute">
+        <item quantity="other">%1$s phút</item>
+        <item quantity="zero">%1$s phút</item>
+        <item quantity="one">%1$s phút</item>
+    </plurals>
+    <plurals name="use_history_duration_min">
+        <item quantity="other">%1$s phút</item>
+        <item quantity="zero">%1$s phút</item>
+        <item quantity="one">%1$s phút</item>
+    </plurals>
+</resources>

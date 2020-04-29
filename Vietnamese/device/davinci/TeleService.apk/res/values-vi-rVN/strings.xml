@@ -1,0 +1,5 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+	<string name="not_a_valid_port">Số cổng phải trong khoảng từ 1000 đến 65534.</string>
+	<string name="fdn_invalid_number">SQĐS không được cập nhật do số vượt quá 20 chữ số.</string>
+</resources>

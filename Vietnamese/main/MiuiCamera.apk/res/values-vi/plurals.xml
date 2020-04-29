@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="accessibility_focus_face_detect">
+        <item quantity="other">Đã lấy nét. %d khuôn mặt đã nhận diện</item>
+    </plurals>
+	<plurals name="toast_burst_snap_finished_summary">
+        <item quantity="other">Hoàn tất chụp liên tiếp, đã chụp %1$s ảnh</item>
+    </plurals>
+	<plurals name="delete_selection">
+		<item quantity="other">Xóa mục đã chọn?</item>
+	</plurals>
+</resources>

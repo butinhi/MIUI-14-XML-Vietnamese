@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="trans_succeed_survey_title">
+        <item>Đánh giá tổng thể</item>
+        <item>Thời gian chuyển</item>
+        <item>Sự đơn giản của quá trình</item>
+        <item>Sự rõ ràng của hướng dẫn</item>
+    </string-array>
+    <string-array name="trans_succeed_rating_hint">
+        <item>Rất không hài lòng</item>
+        <item>Hơi không hài lòng</item>
+        <item>Bình thường</item>
+        <item>Hơi hài lòng</item>
+        <item>Rất hài lòng</item>
+    </string-array>
+    <string-array name="trans_cancel_survey_title">
+        <item>Đánh giá tổng thể</item>
+        <item>Thời gian chuyển</item>
+        <item>Sự đơn giản của quá trình</item>
+        <item>Sự rõ ràng của hướng dẫn</item>
+        <item>Tính năng này hữu ích</item>
+    </string-array>
+</resources>

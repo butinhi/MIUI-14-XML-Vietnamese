@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="pref_summary_manage_sim_messages">Quản lý tin nhắn được lưu trữ trên thẻ SIM của bạn</string>
+    <string name="pref_title_manage_sim_messages">Quản lý tin nhắn trên thẻ SIM</string>
+    <string name="sim_empty">Không có tin nhắn trên thẻ SIM.</string>
+</resources>

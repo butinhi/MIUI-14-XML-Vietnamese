@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="karaoke_descriptions">
+        <item>Có bài hát nào cho phép bạn nhẹ nhàng theo dõi không...</item>
+        <item>Tôi hát cô ấy say sưa... Tôi hát cô ấy đau lòng...</item>
+        <item>Bất kể niềm vui hay nỗi buồn...Kara vẫn cứ là ok...</item>
+        <item>Cái micro làm tôi muốn chinh phục...</item>
+        <item>Bạn thích thế giới im lặng... Vậy thế giới ai lắng nghe bạn...</item>
+        <item>May mắn thay, tôi đã có bài hát tình yêu đầu tiên...</item>
+        <item>Hôm qua rất gần... Hôm nay rất xa... Lặng nghe âm thanh của đêm...</item>
+        <item>Bạn có Jazz, tôi dùng Rock và Hiphop...</item>
+        <item>Hát lên sự nhiệt tình của bạn. Giang tay ra, để tôi ôm giấc mơ của bạn...</item>
+        <item>Đây là một bản tình ca nhỏ, chim bồ câu trắng hát lên tình yêu chúng ta...</item>
+        <item>Tôi nghĩ mình rất phù hợp để trở thành ca sĩ. Tuổi trẻ tung bay trong gió...</item>
+    </string-array>
+    <string-array name="xiaoai_tips">
+        <item>Jay Chou</item>
+        <item>Tìm kiếm "Tương lai khó quên"</item>
+        <item>Phát nhạc cục bộ</item>
+    </string-array>
+	<string-array name="recommendation_desc_week">
+		<item>Khuyến nghị Chủ nhật</item>
+		<item>Khuyến nghị Thứ hai</item>
+		<item>Khuyến nghị Thứ ba</item>
+		<item>Khuyến nghị Thứ tư</item>
+		<item>Khuyến nghị Thứ năm</item>
+		<item>Khuyến nghị Thứ sáu</item>
+		<item>Khuyến nghị Thứ bảy</item>
+	</string-array>
+</resources>

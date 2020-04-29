@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+	<string name="disable_service_message">Nhấn OK sẽ dừng %1$s.</string>
+    <string name="sim_change_data_title">Thay đổi SIM dữ liệu?</string>
+    <string name="sim_change_data_message">Sử dụng %1$s thay cho %2$s đối với dữ liệu di động?</string>		
+    <string name="wifi_calling_off_explanation">Khi gọi qua Wi-Fi bật, điện thoại của bạn có thể định tuyến cuộc gọi qua mạng Wi-Fi hoặc mạng của nhà cung cấp dịch vụ, tùy thuộc vào tùy chọn của bạn và tín hiệu nào mạnh hơn. Trước khi bật tính năng này, hãy hỏi nhà cung cấp dịch vụ của bạn về phí và các chi tiết khác.</string>		
+    <string name="battery_tip_dialog_message">Điện thoại của bạn sử dụng nhiều hơn bình thường. Pin có thể hết sớm hơn dự kiến.
+    Top %1$d ứng dụng bạn sử dụng gần đây:</string>		
+    <string name="accessibility_vibration_summary">Chuông %1$s, chạm %2$s</string>		
+</resources>

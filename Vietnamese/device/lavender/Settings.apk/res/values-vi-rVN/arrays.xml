@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<resources>
+	<string-array name="bluetooth_a2dp_codec_summaries">
+        <item>Sử dụng lựa chọn hệ thống (Mặc định)</item>
+		<item>SBC</item>
+		<item>AAC</item>
+		<item>Qualcomm® aptX™ audio</item>
+		<item>Qualcomm® aptX™ HD audio</item>
+		<item>LDAC</item>
+		<item>Qualcomm® aptX™ Adaptive audio</item>
+		<item>LHDC</item>
+		<item>Bật codec tùy chọn</item>
+        <item>Tắt codec tùy chọn</item>
+	</string-array>
+	<string-array name="bluetooth_a2dp_codec_titles">
+        <item>Sử dụng lựa chọn hệ thống (Mặc định)</item>
+		<item>SBC</item>
+		<item>AAC</item>
+		<item>Qualcomm® aptX™ audio</item>
+		<item>Qualcomm® aptX™ HD audio</item>
+		<item>LDAC</item>
+		<item>Qualcomm® aptX™ Adaptive audio</item>
+		<item>LHDC</item>
+		<item>Bật codec tùy chọn</item>
+        <item>Tắt codec tùy chọn</item>
+	</string-array>
+	<string-array name="dark_ui_mode_entries">
+		<item>Tự động (Dựa trên thời gian trong ngày)</item>
+		<item>Luôn bật</item>
+		<item>Luôn tắt</item>
+	</string-array>
+</resources>

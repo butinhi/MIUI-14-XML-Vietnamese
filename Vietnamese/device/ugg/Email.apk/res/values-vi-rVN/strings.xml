@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+    <string formatted="false" name="account_settings_login_dialog_reason_fmt">"Không thể đăng nhập vào %s. Máy chủ nói: %s"</string>
+	<string formatted="false" name="photo_view_count">%d của %d</string>
+	<string formatted="false" name="reply_attribution">Lúc %s, %s viết:</string>
+	<string name="login_err_message">Mật khẩu bạn nhập không chính xác. Bạn có thể cần mã xác thực để đăng nhập. Nếu bạn cần khôi phục mật khẩu, truy cập https://email.163.com/ để thấy tùy chọn cho bạn.</string>
+</resources>

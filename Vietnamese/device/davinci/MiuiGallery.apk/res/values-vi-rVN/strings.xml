@@ -1,0 +1,4 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+	<string name="backup_pause_title">Sao lưu trong %s</string>
+</resources>

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Dịch vụ Nfc</string>
+    <string name="nfcUserLabel">Nfc</string>
+    <string name="accessibility_nfc_enabled">Đã bật NFC.</string>
+    <string name="tap_to_beam">Nhấn để truyền</string>
+    <string name="beam_progress">Tia đến...</string>
+    <string name="beam_outgoing">Đang chiếu...</string>
+    <string name="beam_complete">Hoàn tất chiếu</string>
+    <string name="beam_failed">Chiếu chưa hoàn tất</string>
+    <string name="beam_canceled">Chiếu bị hủy</string>
+    <string name="cancel">Hủy</string>
+    <string name="beam_tap_to_view">Nhấn để xem</string>
+    <string name="beam_handover_not_supported">Thiết bị của người nhận không hỗ trợ truyền tệp lớn qua quá trình chiếu.</string>
+    <string name="beam_try_again">Nhóm các thiết bị lại với nhau lần nữa</string>
+    <string name="beam_busy">Beam hiện đang bận. Hãy thử lại khi quá trình truyền trước đây hoàn tất.</string>
+    <string name="device">thiết bị</string>
+    <string name="connecting_peripheral">Đang kết nối %1$s</string>
+    <string name="connected_peripheral">Đã kết nối %1$s</string>
+    <string name="connect_peripheral_failed">Không thể kết nối %1$s</string>
+    <string name="disconnecting_peripheral">Đang ngắt kết nối %1$s</string>
+    <string name="disconnected_peripheral">Đã ngắt kết nối %1$s</string>
+    <string name="pairing_peripheral">Đang ghép nối %1$s</string>
+    <string name="pairing_peripheral_failed">Không thể ghép nối %1$s</string>
+    <string name="failed_to_enable_bt">Không thể bật Bluetooth</string>
+    <string name="confirm_pairing">Bạn có chắc chắn muốn ghép nối thiết bị Bluetooth %1$s không?</string>
+    <string name="pair_yes">Có</string>
+    <string name="pair_no">Không</string>
+    <string name="tap_again_to_pay">Nhấn lại để thanh toán bằng %1$s</string>
+    <string name="tap_again_to_complete">Nhấn lại để hoàn tất bằng %1$s</string>
+    <string name="transaction_failure">Không thể hoàn tất giao dịch này bằng %1$s.</string>
+    <string name="could_not_use_app">Không thể sử dụng %1$s.</string>
+    <string name="pay_with">Thanh toán bằng</string>
+    <string name="complete_with">Hoàn tất bằng</string>
+    <string name="default_pay_app_removed">Dịch vụ yêu thích của bạn để nhấn và thanh toán đã bị xóa. Chọn dịch vụ khác?</string>
+    <string name="ask_nfc_tap">Chạm vào thiết bị khác để hoàn thành</string>
+    <string name="wifi_connect">Kết nối</string>
+    <string name="status_unable_to_connect">Không thể kết nối với mạng</string>
+    <string name="status_wifi_connected">Đã kết nối</string>
+    <string name="title_connect_to_network">Kết nối mạng</string>
+    <string name="prompt_connect_to_network">Kết nối với mạng %1$s?</string>
+    <string name="beam_requires_nfc_enabled">Android Beam yêu cầu bật NFC. Bạn có muốn bật NFC không?</string>
+	<string name="android_beam">Android Beam</string>
+	<string name="nfc_enabled_dialog">"Nfc đang tắt. 
+Bạn có muốn bật cho Dịch vụ NFC"</string>
+	<string name="no">Không</string>
+	<string name="permdesc_nfcReceiveEvent">Cho phép ứng dụng nhận thông tin về giao dịch NFC đang thực hiện</string>
+	<string name="permlab_nfcReceiveEvent">Nhận thức về giao dịch NFC</string>
+	<string name="beam_requires_external_storage_permission">Ứng dụng khong có quyền Bộ nhớ mở rộng. Điều này cần để Truyền tệp tin này</string>
+	<string name="permgrouplab_NFC">NFC-Kết nối trường gần</string>
+	<string name="permgroupdesc_NFC">Truy cập các tính năng NFC khác nhau</string>
+	<string name="tag_dispatch_failed">Không có ứng dụng hỗ trợ cho Thẻ NFC này</string>
+	<string name="action_confirm_url_open">Mở đường dẫn</string>
+	<string name="summary_confirm_url_open">Điện thoại của bạn nhận một đường dẫn qua NFC:</string>
+	<string name="tag_read_error">Lỗi đọc NFC. Thử lại.</string>
+	<string name="title_confirm_url_open">Mở đường dẫn?</string>
+</resources>

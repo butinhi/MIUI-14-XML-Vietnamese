@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="title_charger_over_voltage">Quá điện áp bộ sạc</string>
+    <string name="title_battery_over_temperature">Quá nhiệt độ pin</string>
+    <string name="title_over_current_protection">Quá mức bảo vệ dòng điện</string>
+    <string name="title_battery_over_voltage">Quá điện áp pin</string>
+    <string name="title_safety_timer_timeout">Quá thời gian sạc pin</string>
+    <string name="title_battery_low_temperature">Nhiệt độ pin thấp</string>
+    <string name="msg_charger_over_voltage">Bộ sạc của bạn vượt quá điện áp, hãy ngắt bộ sạc!</string>
+    <string name="msg_battery_over_temperature">Pin của bạn vượt quá nhiệt độ, hãy tháo pin ra!</string>
+    <string name="msg_over_current_protection">Pin của bạn vượt quá mức bảo vệ dòng điện, hãy tháo pin ra!</string>
+    <string name="msg_battery_over_voltage">Pin của bạn vượt quá điện áp, hãy tháo pin ra!</string>
+    <string name="msg_safety_timer_timeout">Thời gian sạc pin quá lâu, hãy ngắt bộ sạc!</string>
+    <string name="msg_battery_low_temperature">Nhiệt độ pin quá thấp, hãy rút bộ sạc!</string>
+    <string name="btn_ok_msg">Báo lại</string>
+    <string name="btn_cancel_msg">Hủy bỏ</string>
+</resources>

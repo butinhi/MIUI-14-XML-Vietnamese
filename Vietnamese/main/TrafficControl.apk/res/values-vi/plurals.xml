@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="v2_background_data_usage_this_month">
+        <item quantity="other">%1$d ứng dụng %2$s nào sử dụng dữ liệu nền tháng này.</item>
+        <item quantity="zero">%1$d ứng dụng đã sử dụng dữ liệu nền tháng này.</item>
+        <item quantity="one">%1$d ứng dụng %2$s nào sử dụng dữ liệu nền tháng này.</item>
+        <item quantity="two">%1$d ứng dụng %2$s nào sử dụng dữ liệu nền tháng này.</item>
+        <item quantity="few">%1$d ứng dụng %2$s nào sử dụng dữ liệu nền tháng này.</item>
+        <item quantity="many">%1$d ứng dụng %2$s nào sử dụng dữ liệu nền tháng này.</item>
+    </plurals>
+    <plurals name="v2_background_data_usage_this_week">
+        <item quantity="other">%1$d ứng dụng được sử dụng %2$s trên nền tuần này.</item>
+        <item quantity="zero">%1$d ứng dụng được sử dụng dữ liệu trên nền tuần này.</item>
+        <item quantity="one">%1$d ứng dụng được sử dụng %2$s trên nền tuần này.</item>
+        <item quantity="two">%1$d ứng dụng được sử dụng %2$s trên nền tuần này.</item>
+        <item quantity="few">%1$d ứng dụng được sử dụng %2$s trên nền tuần này.</item>
+        <item quantity="many">%1$d ứng dụng được sử dụng %2$s trên nền tuần này.</item>
+    </plurals>
+    <plurals name="v2_background_data_usage_today">
+        <item quantity="other">%1$d ứng dụng đã sử dụng %2$s trên nền hôm nay.</item>
+        <item quantity="zero">%1$d ứng dụng đã sử dụng dữ liệu nền hôm nay.</item>
+        <item quantity="one">%1$d ứng dụng đã sử dụng %2$s trên nền hôm nay.</item>
+        <item quantity="two">%1$d ứng dụng đã sử dụng %2$s trên nền hôm nay.</item>
+        <item quantity="few">%1$d ứng dụng đã sử dụng %2$s trên nền hôm nay.</item>
+        <item quantity="many">%1$d ứng dụng đã sử dụng %2$s trên nền hôm nay.</item>
+    </plurals>
+    <plurals name="v2_mn_active_passes">
+        <item quantity="other">%d thẻ đang hoạt động</item>
+        <item quantity="zero">%d thẻ đang hoạt động</item>
+        <item quantity="one">%d thẻ đang hoạt động</item>
+        <item quantity="two">%d thẻ đang hoạt động</item>
+        <item quantity="few">%d thẻ đang hoạt động</item>
+        <item quantity="many">%d thẻ đang hoạt động</item>
+    </plurals>
+    <plurals name="v2_plurals_days">
+        <item quantity="other">%d ngày</item>
+        <item quantity="zero">%d ngày</item>
+        <item quantity="one">%d ngày</item>
+        <item quantity="two">%d ngày</item>
+        <item quantity="few">%d ngày</item>
+        <item quantity="many">%d ngày</item>
+    </plurals>
+    <plurals name="v2_plurals_hours">
+        <item quantity="other">%d giờ</item>
+        <item quantity="zero">%d giờ</item>
+        <item quantity="one">%d giờ</item>
+        <item quantity="two">%d giờ</item>
+        <item quantity="few">%d giờ</item>
+        <item quantity="many">%d giờ</item>
+    </plurals>
+    <plurals name="v2_plurals_minutes">
+        <item quantity="other">%d phút</item>
+        <item quantity="zero">%d phút</item>
+        <item quantity="one">%d phút</item>
+        <item quantity="two">%d phút</item>
+        <item quantity="few">%d phút</item>
+        <item quantity="many">%d phút</item>
+    </plurals>
+    <plurals name="v2_plurals_seconds">
+        <item quantity="other">%d giây</item>
+        <item quantity="zero">%d giây</item>
+        <item quantity="one">%d giây</item>
+        <item quantity="two">%d giây</item>
+        <item quantity="few">%d giây</item>
+        <item quantity="many">%d giây</item>
+    </plurals>
+    <plurals name="v2_plurals_weeks">
+        <item quantity="other">%d tuần</item>
+        <item quantity="zero">%d tuần</item>
+        <item quantity="one">%d tuần</item>
+        <item quantity="two">%d tuần</item>
+        <item quantity="few">%d tuần</item>
+        <item quantity="many">%d tuần</item>
+    </plurals>
+    <plurals name="v2_timeline_allbackground_data_apps">
+        <item quantity="other">%d ứng dụng khác</item>
+        <item quantity="zero">%d ứng dụng khác</item>
+        <item quantity="one">%d ứng dụng khác</item>
+        <item quantity="two">%d ứng dụng khác</item>
+        <item quantity="few">%d ứng dụng khác</item>
+        <item quantity="many">%d ứng dụng khác</item>
+    </plurals>
+</resources>

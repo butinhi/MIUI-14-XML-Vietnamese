@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="special_locale_names_global">
+        <item>Tiếng Trung giản thể</item>
+        <item>Tiếng Trung phồn thể (Đài Loan)</item>
+        <item>Tiếng Trung phồn thể (Hồng Kông)</item>
+        <item>Español (América)</item>
+        <item>Português (Brasil)</item>
+    </string-array>
+    <string-array name="other_settings_auto_update_entries">
+        <item>WiFi và dữ liệu di động</item>
+        <item>Chỉ WiFi</item>
+        <item>Tắt</item>
+    </string-array>
+</resources>

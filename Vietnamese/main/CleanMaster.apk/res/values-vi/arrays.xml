@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="cache_sort_type">
+        <item>Kích thước</item>
+        <item>Tên</item>
+    </string-array>
+    <string-array name="large_file_sort_type">
+        <item>Kích thước</item>
+        <item>Tên</item>
+    </string-array>
+    <string-array name="installed_app_sort_type">
+        <item>Thường dùng</item>
+        <item>Kích thước</item>
+    </string-array>
+    <string-array name="auto_clean_size">
+        <item>100 MB</item>
+        <item>300 MB</item>
+        <item>500 MB</item>
+        <item>1 GB</item>
+    </string-array>
+    <string-array name="auto_process_mode">
+        <item>Nhắc nhở bằng thông báo</item>
+        <item>Dọn dẹp trong nền</item>
+        <item>Hiển thị thông báo sau khi dọn dẹp</item>
+    </string-array>
+    <string-array name="cache_clean_menu">
+        <item>Dọn dẹp tập tin này</item>
+        <item>Xem vị trí tập tin</item>
+    </string-array>
+    <string-array name="trash_clean_menu">
+        <item>Dọn dẹp tập tin này</item>
+        <item>Xem vị trí tập tin</item>
+    </string-array>
+    <string-array name="video_clean_menu">
+        <item>Dọn dẹp tập tin này</item>
+        <item>Mở</item>
+    </string-array>
+    <string-array name="empty_floder_clean_menu">
+        <item>Dọn dẹp</item>
+    </string-array>
+    <string-array name="apk_clean_menu">
+        <item>Dọn dẹp</item>
+        <item>Cài đặt ứng dụng này</item>
+        <item>Xem trong thư mục</item>
+    </string-array>
+    <string-array name="long_add_menu">
+        <item>Thêm vào danh sách ngoại lệ</item>
+    </string-array>
+    <string-array name="long_add_app_menu">
+        <item>Thêm ứng dụng vào danh sách ngoại lệ</item>
+    </string-array>
+    <string-array name="app_clean_menu">
+        <item>Gỡ cài đặt</item>
+    </string-array>
+    <string-array name="auto_alert_apps_time">
+        <item>Mỗi 7 ngày</item>
+        <item>Mỗi 15 ngày</item>
+        <item>Mỗi 30 ngày</item>
+    </string-array>
+    <string-array name="wechat_menu_delete">
+        <item>Xóa</item>
+    </string-array>
+    <string-array name="wechat_menu_delete_whitelist">
+        <item>Xóa</item>
+    </string-array>
+    <string-array name="wechat_menu_delete_whitelist_view">
+        <item>Xóa</item>
+        <item>Xem</item>
+    </string-array>
+    <string-array name="auto_clean_time">
+        <item>Mỗi ngày</item>
+        <item>Mỗi 3 ngày</item>
+        <item>Mỗi 7 ngày</item>
+        <item>Mỗi 15 ngày</item>
+    </string-array>
+    <string-array name="low_memory_clean_menu">
+        <item>Dọn dẹp</item>
+    </string-array>
+    <string-array name="scan_engine">
+        <item>Clean Master</item>
+        <item>Tencent</item>
+    </string-array>
+	<string-array name="wechat_sort">
+        <item>Ngày</item>
+        <item>Kích thước</item>
+    </string-array>
+</resources>

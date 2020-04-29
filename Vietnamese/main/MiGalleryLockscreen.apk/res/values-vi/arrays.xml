@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<resources>
+	<string-array name="feature_desc">
+		<item>Sửa một số vấn đề đã biết.</item>
+	</string-array>
+	<string-array name="month12">
+		<item>Tháng Một</item>
+		<item>Tháng Hai</item>
+		<item>Tháng Ba</item>
+		<item>Tháng Tư</item>
+		<item>Tháng Năm</item>
+		<item>Tháng Sáu</item>
+		<item>Tháng Bảy</item>
+		<item>Tháng Tám</item>
+		<item>Tháng Chín</item>
+		<item>Tháng Mười</item>
+		<item>Tháng Mười Một</item>
+		<item>Tháng Mười Hai</item>
+	</string-array>
+	<string-array name="account_user_gender_name">
+		<item>Nam</item>
+		<item>Nữ</item>
+	</string-array>
+</resources>

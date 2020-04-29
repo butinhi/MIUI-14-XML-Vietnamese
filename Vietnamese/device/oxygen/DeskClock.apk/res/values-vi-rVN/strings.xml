@@ -1,0 +1,5 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+    <string name="timer_alert_alert_silenced">Hẹn giờ im lặng sau %1$s.</string>
+	<string name="alarm_alert_alert_silenced">Báo thức im lặng sau %1$s.</string>
+</resources>

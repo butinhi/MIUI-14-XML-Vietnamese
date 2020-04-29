@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Quản lý nhiệt MTK</string>
+    <string name="coolers">Bộ làm mát</string>
+    <string name="thermal_sensors">Cảm biến nhiệt</string>
+    <string name="thermal_protection">Bảo vệ nhiệt</string>
+    <string name="thermal_policy_file_colon">"Tập tin Chính sách Nhiệt: "</string>
+    <string name="apply_new_thermal_policy">Áp dụng Chính sách Nhiệt mới</string>
+    <string name="tz_device_info">Thông tin thiết bị TZ</string>
+    <string name="thermal_logger">Bản ghi nhiệt độ</string>
+    <string name="alert_dialog_two_buttons_title">Cảnh báo nhiệt!</string>
+    <string name="alert_dialog_two_buttons_message">Điện thoại cần để nguội ngay!</string>
+    <string name="alert_dialog_ok">Ok</string>
+    <string name="alert_dialog_cancel">Hủy</string>
+</resources>

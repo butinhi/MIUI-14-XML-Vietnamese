@@ -1,0 +1,4 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+    <string name="impunity_declaration_content">"Máy quét yêu cầu một số quyền để truy cập máy ảnh của bạn và chụp ảnh. Máy quét cũng cần kết nối mạng để hoạt động bình thường. Bạn được coi là đã đọc và đồng ý với %1$sChính sách Riêng tư%2$s của chúng tôi khi bạn chạm vào \"Đồng ý\" dưới đây."</string>
+</resources>

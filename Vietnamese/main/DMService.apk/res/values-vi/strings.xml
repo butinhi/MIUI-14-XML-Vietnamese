@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">DMService</string>
+    <string name="register_success">Đã đăng ký thành công</string>
+    <string name="decode_error">Giải mã lỗi, đăng ký thất bại!</string>
+    <string name="check_error">Kiểm tra lỗi, đăng ký thất bại!</string>
+    <string name="register_failed">Đăng ký thất bại!</string>
+</resources>

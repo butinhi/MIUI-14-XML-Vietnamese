@@ -1,0 +1,6 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+	<string name="bugreport_dialog_submit_content">"Bạn đang lưu nhật ký trên thiết bị này. Nhật ký có thể chứa thông tin cá nhân và dữ liệu vị trí của bạn. Không chia sẻ nhật ký với bất kỳ ai nếu bạn không muốn thông tin bị lộ"</string>
+	<string name="submit_dialog_content">"Phản hồi của bạn, cũng như tệp đính kèm và nhật ký sẽ được gửi tới máy chủ MIUI. Nó có thể chứa thông tin cá nhân và dữ liệu vị trí của bạn."</string>
+	<string name="submit_dialog_content_global">"Phản hồi của bạn, cùng với tệp đính kèm (nếu có) và nhật ký (bạn có thể bỏ chọn ô checkbox nếu không muốn tải lên) sẽ được gửi lên máy chủ MIUI và một phần hạn chế Diễn đàn MIUI dành cho các nhà phát triển. Thông tin về hoạt động diễn đàn của bạn cũng được thu thập để phân tích và liên lạc. Nhật ký có thể chứa thông tin cá nhân và dữ liệu vị trí của bạn."</string>
+</resources>

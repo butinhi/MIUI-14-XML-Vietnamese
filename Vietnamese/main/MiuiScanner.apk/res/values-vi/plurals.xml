@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<resources>
+	<plurals name="choosed">
+		<item quantity="other">Đã chọn %1$d mục</item>
+	</plurals>
+</resources>

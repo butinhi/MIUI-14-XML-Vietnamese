@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="call_waiting_settings">Cài đặt cuộc gọi chờ</string>
+    <string name="call_forwarding_settings">Cài đặt cuộc gọi chuyển tiếp</string>
+    <string name="labelCFU">Luôn chuyển tiếp</string>
+    <string name="messageCFU">Luôn dùng số này</string>
+    <string name="labelCFB">Khi bận</string>
+    <string name="messageCFB">Số khi bận</string>
+    <string name="labelCFNRy">Khi không trả lời</string>
+    <string name="messageCFNRy">Số khi không trả lời</string>
+    <string name="labelCFNRc">Khi không liên lạc được</string>
+    <string name="messageCFNRc">Số khi không liên lạc được</string>
+    <string name="labelCF">Cuộc gọi chuyển tiếp</string>
+    <string name="labelCW">Cuộc gọi chờ</string>
+    <string name="labelCFNRc_cdma">Chuyển mặc nhiên</string>
+    <string name="CFActivate">Kích hoạt</string>
+    <string name="CFDeactivate">Hủy kích hoạt</string>
+    <string name="null_phone_number">Số điện thoại không được để trống!</string>
+    <string name="labelCFDeactAll">Hủy kích hoạt tất cả</string>
+    <string name="enable">Bật</string>
+    <string name="disable">Tắt</string>
+    <string name="change_num">Cập nhật</string>
+    <string name="selectContact">Chọn liên hệ</string>
+</resources>

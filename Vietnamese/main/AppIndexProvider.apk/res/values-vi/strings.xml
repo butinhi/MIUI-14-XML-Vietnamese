@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_label">Cài đặt</string>
+    <string name="search_label">Cài đặt</string>
+    <string name="application_desc">Ứng dụng</string>
+    <string name="settings_description">Cài đặt</string>
+</resources>

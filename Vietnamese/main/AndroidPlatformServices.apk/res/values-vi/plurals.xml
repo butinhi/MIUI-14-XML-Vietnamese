@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="auth_d2d_source_notification_text">
+        <item quantity="other">Thiết bị này đã được sử dụng để thiết lập ^1 bằng Tài khoản Google của bạn và dữ liệu của các tài khoản này</item>
+        <item quantity="one">Thiết bị này đã được sử dụng để thiết lập ^1 bằng Tài khoản Google của bạn và dữ liệu của tài khoản này</item>
+    </plurals>
+    <plurals name="smartdevice_d2d_setting_up_accounts_and_data_text">
+        <item quantity="other">Đang sao chép T.khoản Google và dữ liệu của bạn…</item>
+        <item quantity="one">Đang sao chép T.khoản Google và dữ liệu của bạn…</item>
+    </plurals>
+    <plurals name="smartdevice_d2d_source_notification_generic_text">
+        <item quantity="other">Thiết bị này đã được sử dụng để thiết lập một thiết bị khác bằng dữ liệu và các Tài khoản Google của bạn</item>
+        <item quantity="one">Thiết bị này đã được sử dụng để thiết lập một thiết bị khác bằng dữ liệu và Tài khoản Google của bạn</item>
+    </plurals>
+    <plurals name="smartdevice_d2d_source_notification_text">
+        <item quantity="other">Thiết bị này đã được dùng để thiết lập ^1 bằng dữ liệu và Tài khoản Google của bạn</item>
+        <item quantity="one">Thiết bị này đã được dùng để thiết lập ^1 bằng dữ liệu và Tài khoản Google của bạn</item>
+    </plurals>
+    <plurals name="uncertified_notification_expiring_content">
+        <item quantity="other">Các ứng dụng và dịch vụ của Google sẽ ngừng hoạt động trong %d ngày nữa. Nhấn để tìm hiểu thêm.</item>
+        <item quantity="one">Các ứng dụng và dịch vụ của Google sẽ ngừng hoạt động trong %d ngày nữa. Nhấn để tìm hiểu thêm.</item>
+    </plurals>
+</resources>

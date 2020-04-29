@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="server_list_entries">
+        <item>Máy chủ thử nghiệm</item>
+        <item>Máy chủ trực tuyến</item>
+    </string-array>
+    <string-array name="version_list_entries">
+        <item>Bản ổn định</item>
+        <item>Bản thử nghiệm</item>
+    </string-array>
+</resources>

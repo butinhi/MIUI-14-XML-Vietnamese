@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="detailed_am_pm_names">
+        <item>SA</item>
+        <item>SA</item>
+        <item>SA</item>
+        <item>CH</item>
+        <item>CH</item>
+        <item>CH</item>
+        <item>CH</item>
+    </string-array>
+    <string-array name="alarm_in_future">
+        <item>Báo thức trong 1 phút nữa</item>
+        <item>Báo thức trong %1$s nữa</item>
+        <item>Báo thức trong %2$s nữa</item>
+        <item>Báo thức trong %1$s %2$s nữa</item>
+        <item>Báo thức trong %3$s nữa</item>
+        <item>Báo thức trong %1$s %3$s nữa</item>
+        <item>Báo thức trong %2$s %3$s nữa</item>
+        <item>Báo thức trong %1$s %2$s %3$s nữa</item>
+    </string-array>
+    <string-array name="contact_entries">
+        <item>Tên</item>
+        <item>Biệt hiệu</item>
+        <item>Điện thoại</item>
+        <item>Email</item>
+        <item>Cơ quan</item>
+        <item>IM</item>
+        <item>Điện thoại SIP</item>
+        <item>Ngày sinh</item>
+        <item>Website</item>
+        <item>Địa chỉ</item>
+        <item>Ghi chú</item>
+    </string-array>
+</resources>

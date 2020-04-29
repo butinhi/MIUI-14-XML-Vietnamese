@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="server_list_entries">
+        <item>Máy chủ thử nghiệm</item>
+        <item>Máy chủ trực tuyến</item>
+    </string-array>
+    <string-array name="version_list_entries">
+        <item>Bản ổn định</item>
+        <item>Bản thử nghiệm</item>
+    </string-array>
+	<string-array name="playback_streaming_quality">
+		<item>Tự động</item>
+		<item>Thấp</item>
+		<item>Trung bình</item>
+		<item>Cao</item>
+		<item>Rất cao</item>
+	</string-array>
+	<string-array name="feedback_tag_list">
+		<item>Lỗi</item>
+		<item>Gợi ý</item>
+		<item>Khác</item>
+	</string-array>
+	<string-array name="lang_detect">
+		<item>Trung</item>
+		<item>Phồn thể</item>
+		<item>Tiếng Anh</item>
+		<item>Hàn</item>
+		<item>Nhật</item>
+		<item>Pháp</item>
+	</string-array>
+	<string-array name="account_user_gender_name">
+		<item>Nam</item>
+		<item>Nữ</item>
+	</string-array>
+</resources>

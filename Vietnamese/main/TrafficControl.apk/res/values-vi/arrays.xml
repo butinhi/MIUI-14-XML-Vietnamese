@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="v2_pref_basic_savings_entries">
+        <item>Cao</item>
+        <item>Trung bình</item>
+        <item>Thấp</item>
+        <item>Tắt</item>
+    </string-array>
+</resources>

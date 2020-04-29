@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="settings">Cài đặt</string>
+	<string name="start_test_off">Bắt đầu Kiểm tra (TẮT)</string>
+	<string name="action_settings">Cài đặt</string>
+	<string name="break_loop_when_error">Thoát vòng lặp khi có lỗi xảy ra</string>
+	<string name="loops">Vòng lặp</string>
+	<string name="msg_permission_steps">"Bạn đã tắt quyền, vui lòng cho phép quyền từ "&lt;b&gt;Cài đặt&lt;/b&gt; -&gt; &lt;b&gt;Ứng dụng&lt;/b&gt; -&gt; &lt;i&gt;Menu&lt;/i&gt; -&gt; &lt;i&gt;Hiển thị hệ thống&lt;/i&gt; -&gt; &lt;b&gt;Tự động gọi&lt;/b&gt; -&gt; &lt;b&gt;Quyền&lt;/b&gt; để bật tất cả các quyền</string>
+	<string name="cold">Lạnh</string>
+	<string name="hot">Nóng</string>
+	<string name="speaker_enable">Bật Loa khi gọi</string>
+	<string name="delete">Xóa</string>
+	<string name="phone_call">Thời lượng cuộc gọi</string>
+	<string name="start_test_on">Dừng kiểm tra (BẬT)</string>
+	<string name="app_name">Tự động gọi</string>
+	<string name="warm">Ấm</string>
+	<string name="end_call">Thời lượng dừng cuộc gọi</string>
+	<string name="phone">Điện thoại</string>
+	<string name="phone_edit">Thoát</string>
+	<string name="speaker_disable">Thời gian tắt loa (giây): 4</string>
+	<string name="continue_test">Tiếp tục</string>
+	<string name="full">Đầy dủ</string>
+</resources>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="original_registry_results">
+        <item>Thành công</item>
+        <item>Giải mã lỗi</item>
+        <item>Kiểm tra lỗi</item>
+    </string-array>
+</resources>

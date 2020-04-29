@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">SysoptApplication</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Cài đặt</string>
+    <string name="google_base_app_install_choice">\"%s\" yêu cầu các ứng dụng Khung dịch vụ của Google để hoạt động bình thường, tải về và cài đặt?</string>
+</resources>

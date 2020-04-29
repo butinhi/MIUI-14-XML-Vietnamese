@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+	<plurals name="llks_tools_smart_devices_data">
+		<item quantity="other">%d thiết bị</item>
+	</plurals>
+	<plurals name="feed_article_entrance_title">
+		<item quantity="other">%d bài viết về chủ đề này</item>
+	</plurals>
+	<plurals name="llks_tools_remote_control_data">
+		<item quantity="other">%d mục</item>
+	</plurals>
+</resources>

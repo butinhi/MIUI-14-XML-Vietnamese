@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="all_month_str">
+        <item>Thg 1</item>
+        <item>Thg 2</item>
+        <item>Thg 3</item>
+        <item>Thg 4</item>
+        <item>Thg 5</item>
+        <item>Thg 6</item>
+        <item>Thg 7</item>
+        <item>Thg 8</item>
+        <item>Thg 9</item>
+        <item>Thg 10</item>
+        <item>Thg 11</item>
+        <item>Thg 12</item>
+    </string-array>
+    <string-array name="calendar_remind_string_array">
+        <item>Tối nay</item>
+        <item>Ngày mai</item>
+        <item>Cuối tuần</item>
+        <item>Tuần tới</item>
+        <item>Tháng tới</item>
+        <item>Chọn ngày</item>
+    </string-array>
+    <string-array name="compose_modes">
+        <item>Trả lời</item>
+        <item>Trả lời tất cả</item>
+        <item>Chuyển tiếp</item>
+    </string-array>
+    <string-array name="general_preference_text_zoom_summary_array">
+        <item>Rất nhỏ</item>
+        <item>Nhỏ</item>
+        <item>Bình thường</item>
+        <item>Lớn</item>
+        <item>Rất lớn</item>
+    </string-array>
+    <string-array name="menu_att_mgr_sort_string_array">
+        <item>Đã xem gần đây</item>
+        <item>Định dạng</item>
+        <item>Tên</item>
+        <item>Người gửi</item>
+        <item>Thời gian nhận</item>
+    </string-array>
+    <string-array name="moveto_folder_sections">
+        <item>Hệ thống</item>
+        <item>Thường dùng</item>
+        <item>Tất cả Thư mục</item>
+    </string-array>
+    <string-array name="prefEntries_autoAdvance">
+        <item>Tin nhắn mới hơn</item>
+        <item>Tin nhắn cũ hơn</item>
+        <item>Hộp thư đến</item>
+    </string-array>
+    <string-array name="signature_normal_string_array_next">
+        <item>Địa chỉ:</item>
+        <item>Điện thoại:</item>
+        <item>Tên:</item>
+        <item>Email:</item>
+        <item>Di động:</item>
+        <item>WeChat:</item>
+        <item>Fax:</item>
+        <item>Mã Bưu chính:</item>
+    </string-array>
+    <string-array name="signature_special_string_array_next">
+        <item>Cảm ơn,</item>
+        <item>Trân trọng</item>
+        <item>Gửi từ của tôi</item>
+        <item>Email gốc</item>
+        <item>Gửi từ của tôi</item>
+        <item>Gửi từ</item>
+        <item>Từ</item>
+        <item>Email này</item>
+        <item>Từ chối trách nhiệm</item>
+        <item>Miễn trừ Trách nhiệm Email</item>
+    </string-array>
+	<string-array name="signature_special_string_array">
+		<item>Khước từ:</item>
+		<item>Khước từ Email</item>
+		<item>Đã gửi qua WPSMail</item>
+		<item>Gửi từ</item>
+		<item>Gửi với</item>
+		<item>Cảm ơn,</item>
+		<item>Trân trọng</item>
+	</string-array>
+	<string-array name="prefEntries_contact_add">
+		<item>Tất cả</item>
+		<item>Chỉ người gửi</item>
+	</string-array>
+</resources>

@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+    <string name="kg_failed_attempts_almost_at_login" formatted="false">"Bạn đã %d lần vẽ không chính xác hình mở khóa của mình. Sau %d lần thử không thành công nữa, bạn sẽ được yêu cầu mở khóa điện thoại bằng tài khoản email.
+
+Vui lòng thử lại sau %d giây."</string>
+	<string name="kg_failed_attempts_almost_at_wipe" formatted="false">Bạn đã %d lần mở khóa điện thoại không đúng cách. Sau %d lần mở khóa không thành công nữa, điện thoại sẽ được đặt lại về mặc định ban đầu và tất cả dữ liệu người dùng sẽ bị mất.</string>
+	<string name="kg_too_many_failed_password_attempts_dialog_message" formatted="false">"You have incorrectly typed your password %d times. 
+
+Try again in %d seconds."</string>
+	<string name="kg_too_many_failed_pattern_attempts_dialog_message" formatted="false">"Bạn đã %d lần nhập sai mật khẩu. 
+
+Hãy thử lại sau %d giây."</string>
+	<string name="kg_too_many_failed_pin_attempts_dialog_message" formatted="false">"Bạn đã %d lần nhập sai mã PIN. 
+
+Hãy thử lại sau %d giây."</string>
+    <string name="lockscreen_failed_attempts_almost_at_wipe" formatted="false">Bạn đã mở khóa điện thoại không đúng cách %d lần. Sau %d lần mở khóa không thành công nữa, điện thoại sẽ được đặt lại về mặc định ban đầu và tất cả dữ liệu người dùng sẽ bị mất.</string>
+	<string name="lockscreen_failed_attempts_almost_glogin" formatted="false">"Bạn đã %d lần vẽ không chính xác hình mở khóa. Sau %d lần thử không thành công nữa, bạn sẽ được yêu cầu mở khóa điện thoại bằng thông tin đăng nhập Google của bạn.
+
+Vui lòng thử lại sau %d giây."</string>
+	<string name="lockscreen_too_many_failed_attempts_dialog_message" formatted="false">"Bạn đã %d lần vẽ không chính xác hình mở khóa. 
+
+Vui lòng thử lại sau %d giây."</string>
+	<string name="lockscreen_too_many_failed_password_attempts_dialog_message" formatted="false">"Bạn đã %d lần nhập sai mật khẩu. 
+
+Hãy thử lại sau %d giây."</string>
+	<string name="lockscreen_too_many_failed_pin_attempts_dialog_message" formatted="false">"Bạn đã nhập sai mã PIN %d lần. 
+
+Hãy thử lại sau %d giây."</string>
+</resources>

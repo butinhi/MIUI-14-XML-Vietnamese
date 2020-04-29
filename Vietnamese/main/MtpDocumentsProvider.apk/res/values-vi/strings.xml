@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_label">Máy chủ MTP</string>
+    <string name="downloads_app_label">Tải xuống</string>
+    <string name="accessing_notification_title">Truy cập tệp từ %1$s</string>
+    <string name="error_busy_device">"Thiết bị kia đang bận. Bạn không thể chuyển tệp cho đến khi thiết bị đó khả dụng."</string>
+    <string name="error_locked_device">Không tìm thấy tệp. Thiết bị kia có thể bị khóa. Nếu đúng, mở khóa và thử lại.</string>
+</resources>

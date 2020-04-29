@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="day_index">
+        <item quantity="other">%1$d ngày</item>
+    </plurals>
+    <plurals name="goal_format_with_unit">
+        <item quantity="other">Mục tiêu: %1$d bước</item>
+    </plurals>
+    <plurals name="goal_unit">
+        <item quantity="other">" bước"</item>
+    </plurals>
+    <plurals name="menstruation_sum_days">
+        <item quantity="other">Chu kỳ %1$d ngày</item>
+    </plurals>
+    <plurals name="step_num_format">
+        <item quantity="other">%1$d bước</item>
+    </plurals>
+    <plurals name="steps_format">
+        <item quantity="other">%1$d</item>
+    </plurals>
+    <plurals name="subtitle_add_record">
+        <item quantity="other">Bạn đã không ghi lại %1$d ngày. Ghi lại chu kỳ của bạn để dự đoán được chính xác hơn.</item>
+    </plurals>
+    <plurals name="subtitle_menstruation_continued_days">
+        <item quantity="other">Chu kỳ này kéo dài tổng cộng %1$d ngày</item>
+    </plurals>
+    <plurals name="subtitle_menstruation_cycle_days">
+        <item quantity="other">Ngày %1$d của chu kỳ kinh nguyệt này</item>
+    </plurals>
+    <plurals name="sum_cycle_days">
+        <item quantity="other">Chu kỳ %1$d ngày</item>
+    </plurals>
+    <plurals name="times_format">
+        <item quantity="other">%1$d lần</item>
+    </plurals>
+    <plurals name="title_menstruation_day">
+        <item quantity="other">Ngày %1$d của chu kỳ</item>
+    </plurals>
+    <plurals name="title_menstruation_margin_next_time_days">
+        <item quantity="other">%1$d ngày nữa đến chu kỳ tiếp theo</item>
+    </plurals>
+    <plurals name="title_menstruation_predict_period">
+        <item quantity="other">Dự tính ngày %1$d của chu kỳ</item>
+    </plurals>
+    <plurals name="unit_days">
+        <item quantity="other">" ngày"</item>
+    </plurals>
+    <plurals name="user_age_display_format_year">
+        <item quantity="other">%1$d tuổi</item>
+    </plurals>
+	<plurals name="mtrl_badge_content_description">
+		<item quantity="other">%d thông báo mới</item>
+	</plurals>
+	<plurals name="dialog_choose_items">
+		<item quantity="other">Đã chọn %1$d mục</item>
+	</plurals>
+	<plurals name="goal_unit_with_number">
+		<item quantity="other">%1$d bước</item>
+	</plurals>
+	<plurals name="dialog_delete_records_confirm">
+		<item quantity="other">Xóa %1$d bản ghi?</item>
+	</plurals>
+	<plurals name="last_measure_date_interval">
+		<item quantity="other">%1$d ngày kể từ lần cân cuối cùng</item>
+	</plurals>
+	<plurals name="last_measure_day_body_weight">
+		<item quantity="other">%1$d ngày kể từ lần cân cuối cùng</item>
+	</plurals>
+	<plurals name="mesens_card_title_days">
+		<item quantity="other">Ngày %1$d</item>
+	</plurals>
+	<plurals name="daily_suggestions_steps">
+		<item quantity="other">Đi bộ ít nhất %1$d bước mỗi ngày</item>
+	</plurals>
+	<plurals name="mesens_card_title_day_in_predict">
+		<item quantity="other">Ngày %1$d (mong đợi)</item>
+	</plurals>
+	<plurals name="title_today_exercise_steps">
+		<item quantity="other">%1$d bước hôm nay</item>
+	</plurals>
+	<plurals name="mesens_card_title_predict_date">
+		<item quantity="other">Chu kỳ tiếp theo trong %1$d ngày</item>
+	</plurals>
+	<plurals name="sleep_management_exp_hours">
+		<item quantity="other">"Cài đặt hiện tại không đảm bảo bạn ngủ %1$d giờ mỗi ngày. Bạn cần nhiều hơn thế."</item>
+	</plurals>
+	<plurals name="sleep_goal_by_hour">
+		<item quantity="other">Mục tiêu: %1$d giờ</item>
+	</plurals>
+	<plurals name="hours">
+		<item quantity="other">"%1$d giờ "</item>
+	</plurals>
+	<plurals name="minutes">
+		<item quantity="other">%1$d phút</item>
+	</plurals>
+	<plurals name="abbrev_a_hour_ago">
+		<item quantity="other">1 giờ trước</item>
+	</plurals>
+	<plurals name="abbrev_half_hour_ago">
+		<item quantity="other">Nửa giờ trước</item>
+	</plurals>
+	<plurals name="less_than_one_minute_ago">
+		<item quantity="other">Vừa xong</item>
+	</plurals>
+	<plurals name="abbrev_in_a_hour">
+		<item quantity="other">Trong 1 giờ</item>
+	</plurals>
+	<plurals name="in_a_hour">
+		<item quantity="other">Trong 1 giờ</item>
+	</plurals>
+	<plurals name="num_minutes_ago">
+		<item quantity="other">%d phút trước</item>
+		<item quantity="one">1 phút trước</item>
+	</plurals>
+	<plurals name="in_half_hour">
+		<item quantity="other">Trong nửa giờ</item>
+	</plurals>
+	<plurals name="half_hour_ago">
+		<item quantity="other">Nửa giờ trước</item>
+	</plurals>
+	<plurals name="a_hour_ago">
+		<item quantity="other">1 giờ trước</item>
+	</plurals>
+	<plurals name="abbrev_in_num_minutes">
+		<item quantity="other">trong %d phút</item>
+		<item quantity="one">trong 1 phút</item>
+	</plurals>
+	<plurals name="abbrev_num_minutes_ago">
+		<item quantity="other">%d phút trước</item>
+		<item quantity="one">1 phút trước</item>
+	</plurals>
+	<plurals name="abbrev_less_than_one_minute_ago">
+		<item quantity="other">Vừa xong</item>
+	</plurals>
+	<plurals name="in_less_than_one_minute">
+		<item quantity="other">Tức thì</item>
+	</plurals>
+	<plurals name="minutes_ago">
+		<item quantity="other">%1$d phút trước</item>
+	</plurals>
+	<plurals name="abbrev_in_half_hour">
+		<item quantity="other">Trong nửa giờ</item>
+	</plurals>
+	<plurals name="abbrev_in_less_than_one_minute">
+		<item quantity="other">Tức thì</item>
+	</plurals>
+	<plurals name="in_num_minutes">
+		<item quantity="other">trong %d phút</item>
+		<item quantity="one">trong 1 phút</item>
+	</plurals>
+	<plurals name="dream_talk_segment_unit">
+		<item quantity="other">bản ghi</item>
+	</plurals>
+	<plurals name="time_duration_minute">
+		<item quantity="other">%1$d phút</item>
+	</plurals>
+	<plurals name="time_duration_minute_standard">
+		<item quantity="other">%1$d-%2$d phút</item>
+	</plurals>
+	<plurals name="time_duration_hour_int">
+		<item quantity="other">%d giờ</item>
+	</plurals>
+	<plurals name="time_duration_time">
+		<item quantity="other">%1$d lần</item>
+	</plurals>
+	<plurals name="time_duration_hour_float">
+		<item quantity="other">%1$.2f giờ</item>
+	</plurals>
+	<plurals name="time_duration_compare_standard">
+		<item quantity="other">≤%1$d phút</item>
+	</plurals>
+	<plurals name="count_duration_standard">
+		<item quantity="other">%1$d-%2$d lần</item>
+	</plurals>
+	<plurals name="dream_talk_segment">
+		<item quantity="other">%1$d bản ghi</item>
+	</plurals>
+	<plurals name="time_duration_hour_standard">
+		<item quantity="other">%1$.1f-%2$.1f giờ</item>
+	</plurals>
+	<plurals name="unit_times">
+		<item quantity="other">" lần"</item>
+	</plurals>
+</resources>

@@ -1,0 +1,5 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+	<string name="life_card_gas_bill_secondary">Hôm nay</string>
+	<string name="trip_card_hotel_secondary">Nhận phòng hôm nay</string>
+</resources>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Chức năng nền hệ thống</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Cài đặt</string>
+    <string name="activity_title_fakecell">Bảo vệ chống kết nối giả</string>
+    <string name="detect_fakecell">Nhận biết SMS từ các trạm giả</string>
+    <string name="forbidden_fakecell">"Không kết nối với các trạm giả"</string>
+    <string name="forbidden_fakecell_summary">Ngăn chặn điện thoại của bạn khỏi kết nối với các trạm giả</string>
+    <string name="support_forbidden_fakecell">Chú ý: Hạn chế kết nối tới các trạm giả có thể làm giảm tín hiệu trong khu vực có sóng yếu.</string>
+    <string name="not_support_forbidden_fakecell">"Thiết bị của bạn không hỗ trợ chip bảo vệ khỏi các trạm giả."</string>
+    <string name="restart_details">Để kích hoạt hoặc vô hiệu hóa các trạm bảo vệ giả được yêu cầu phải khởi động lại điện thoại để có hiệu lực, bạn có muốn khởi động lại điện thoại ngay?</string>
+    <string name="restart_later">Khởi động lại sau</string>
+    <string name="restart_now">Khởi động lại ngay</string>
+    <string name="first_function">Cung cấp để xác định và ngăn chặn các trạm cơ sở kết nối giả</string>
+    <string name="second_function">Bảo vệ tài sản người dùng</string>
+    <string name="point">Cảnh báo rủi ro: có một xác suất nhất định dẫn đến việc không có tín hiệu điện thoại di động ở vùng sâu vùng xa</string>
+    <string name="start_protect">Mở trạm bảo vệ giả</string>
+    <string name="stop_protect">Đóng trạm bảo vệ giả</string>
+</resources>

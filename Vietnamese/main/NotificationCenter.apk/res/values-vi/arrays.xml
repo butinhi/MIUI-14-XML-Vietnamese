@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<resources>
+	<string-array name="drop_down_menu">
+		<item>Sắp xếp theo thời gian nhận</item>
+		<item>Sắp xếp theo số thông báo</item>
+		<item>Ứng dụng có thể hiển thị thông báo</item>
+		<item>Ứng dụng không thể hiển thị thông báo</item>
+	</string-array>
+	<string-array name="lock_screen_display_rules_no_password">
+		<item>Hiển thị nội dung thông báo</item>
+		<item>Không hiển thị thông báo màn hình khóa</item>
+	</string-array>
+	<string-array name="lock_screen_display_rules_with_password">
+		<item>Hiển thị nội dung thông báo</item>
+		<item>Hiển thị thông báo nhưng ẩn nội dung</item>
+		<item>Không hiển thị thông báo màn hình khóa</item>
+	</string-array>
+</resources>

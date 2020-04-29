@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="reason_type">
+        <item>Lừa đảo</item>
+        <item>Nội dung khiêu dâm hoặc bất hợp pháp</item>
+        <item>Thư rác</item>
+        <item>Khác</item>
+        <item>Hủy</item>
+    </string-array>
+	<string-array name="contact_entries">
+        <item>Tên</item>
+        <item>Biệt danh</item>
+        <item>Điện thoại</item>
+        <item>E-mail</item>
+        <item>Tổ chức</item>
+        <item>IM</item>
+        <item>Điện thoại SIP</item>
+        <item>Sinh nhật</item>
+        <item>Trang Web</item>
+        <item>Địa chỉ</item>
+        <item>Ghi chú</item>
+        <item>Quan hệ</item>
+    </string-array>
+    <string-array name="entries_mms_validity_period">
+        <item>Tối đa</item>
+        <item>2 ngày</item>
+    </string-array>
+    <string-array name="entries_sms_validity_period">
+        <item>Chưa đặt</item>
+        <item>1 giờ</item>
+        <item>6 giờ</item>
+        <item>12 giờ</item>
+        <item>1 ngày</item>
+        <item>Tối đa</item>
+    </string-array>
+    <string-array name="prefEntries_vibrateWhen">
+        <item>Luôn luôn</item>
+        <item>Chỉ khi im lặng</item>
+        <item>Không bao giờ</item>
+    </string-array>
+    <string-array name="resent_via_entries_mms">
+        <item>SMS</item>
+        <item>Tin nhắn Mi</item>
+    </string-array>
+    <string-array name="resent_via_entries_sms">
+        <item>SMS</item>
+        <item>Tin nhắn Mi</item>
+    </string-array>
+    <string-array name="select_dialog_items">
+        <item>1 giây</item>
+        <item>2 giây</item>
+        <item>3 giây</item>
+        <item>4 giây</item>
+        <item>5 giây</item>
+        <item>6 giây</item>
+        <item>7 giây</item>
+        <item>8 giây</item>
+        <item>9 giây</item>
+        <item>10 giây</item>
+        <item>Khác</item>
+    </string-array>
+    <string-array name="switch_sdk">
+        <item>Tin nhắn Mi</item>
+        <item>Tin nhắn Thông minh CMCC</item>
+    </string-array>
+    <string-array name="wild_msg_sync_options">
+        <item>Đồng bộ tất cả tin nhắn</item>
+        <item>Đồng bộ tin nhắn từ thẻ SIM được chọn</item>
+    </string-array>
+	<string-array name="recv_type">
+		<item>Nhận và thông báo</item>
+		<item>Chỉ nhận</item>
+		<item>Từ chối</item>
+	</string-array>
+	<string-array name="rcs_message_fallback">
+		<item>Không bao giờ hỏi và luôn luôn gửi như SMS</item>
+		<item>Không bao giờ hỏi và không bao giờ gửi như SMS</item>
+		<item>Luôn hỏi</item>
+	</string-array>
+
+	<string-array name="rcs_video_quality_setting">
+		<item>Luôn hỏi</item>
+		<item>Không bao giờ thay đổi kích thước</item>
+		<item>Luôn thay đổi kích thước theo tùy chọn đã chọn, sau đó lưu dưới dạng giá trị mặc định</item>
+	</string-array>
+	<string-array name="rcs_picture_quality_setting">
+		<item>Luôn hỏi</item>
+		<item>Không bao giờ thay đổi kích thước</item>
+		<item>Luôn thay đổi kích thước theo tùy chọn đã chọn, sau đó lưu dưới dạng giá trị mặc định</item>
+	</string-array>
+	<string-array name="rcs_ft_fallback">
+		<item>Không bao giờ hỏi và luôn luôn gửi như đường dẫn SMS</item>
+		<item>Không bao giờ hỏi và không bao giờ gửi như đường dẫn SMS</item>
+		<item>Luôn hỏi</item>
+	</string-array>
+	<string-array name="message_sending_method">
+		<item>Dịch vụ Tin nhắn được đề xuất</item>
+		<item>SMS, MMS</item>
+		<item>RCS chat, Chuyển tệp RCS</item>
+	</string-array>
+	<string-array name="dialog_choice_specific_correct_as_normal">
+		<item>Tin nhắn khuyễn mại từ %s</item>
+		<item>Tin nhắn dịch vụ nhà mạng từ %s</item>
+		<item>Tin nhắn tài chính từ %s</item>
+	</string-array>
+</resources>

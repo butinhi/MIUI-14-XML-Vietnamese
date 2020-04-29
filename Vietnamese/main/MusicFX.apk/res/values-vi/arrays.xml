@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<resources>
+	<string-array name="reverb_preset_list">
+		<item>Không</item>
+		<item>Phòng nhỏ</item>
+		<item>Phòng vừa</item>
+		<item>Phòng rộng</item>
+		<item>Hội trường vừa</item>
+		<item>Hội trường rộng</item>
+		<item>Dội ngược</item>
+	</string-array>
+</resources>

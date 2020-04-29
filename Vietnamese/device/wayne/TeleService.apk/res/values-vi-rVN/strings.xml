@@ -1,0 +1,4 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+	<string formatted="false" name="enter_input">Tin nhắn USSD phải trong khoảng %d tới %d ký tự. Vui lòng thử lại.</string>
+</resources>

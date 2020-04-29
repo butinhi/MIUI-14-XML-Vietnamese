@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="account_user_gender_name">
+        <item>Nam</item>
+        <item>Nữ</item>
+    </string-array>
+    <string-array name="education">
+        <item>Trung học</item>
+        <item>Trung cấp</item>
+        <item>Phổ thông trung học</item>
+        <item>Trung cấp</item>
+        <item>Đại học</item>
+        <item>Thạc sĩ</item>
+        <item>Tiến sĩ</item>
+    </string-array>
+    <string-array name="income">
+        <item>&lt; 2,000 Tệ</item>
+        <item>2,001~4,000 Tệ</item>
+        <item>4,001~6,000 Tệ</item>
+        <item>6,001~8,000 Tệ</item>
+        <item>8,001~12,000 Tệ</item>
+        <item>> 12,000 Tệ</item>
+    </string-array>
+    <string-array name="question_no1">
+        <item>Gia đình</item>
+        <item>Tên bà ngoại</item>
+        <item>Tên ông ngoại</item>
+        <item>Tên ông nội</item>
+        <item>Tên bà nội</item>
+        <item>Sinh nhật cha</item>
+        <item>Sinh nhật mẹ</item>
+        <item>Tuổi của cha mẹ bạn cách nhau bao nhiêu (năm và tháng)?</item>
+    </string-array>
+    <string-array name="question_no2">
+        <item>Trường cũ</item>
+        <item>Tên thầy chủ nhiệm hồi trung học của bạn?</item>
+        <item>Tên thầy chủ nhiệm hồi tiểu học của bạn?</item>
+        <item>Mã số sinh viên hồi đại học của bạn</item>
+        <item>Tên người bạn cùng phòng thời đại học là gì?</item>
+        <item>Tên của thầy hướng dẫn ở trường đại học là gì?</item>
+    </string-array>
+    <string-array name="question_no3">
+        <item>Thông tin cá nhân</item>
+        <item>Cha mẹ gọi bạn biệt danh là gì?</item>
+        <item>6 số cuối của hộ chiếu</item>
+        <item>Bạn sinh ở bệnh viện nào?</item>
+        <item>Tên người bạn tốt nhất của bạn là gì?</item>
+    </string-array>
+    <string-array name="question_no4">
+        <item>Lần đầu</item>
+        <item>Tên của thú cưng đầu tiên của bạn là gì?</item>
+        <item>Tên của bạn gái/bạn trai đầu tiên của bạn là gì?</item>
+        <item>Tên công ty bạn làm việc đầu tiên là gì?</item>
+    </string-array>
+    <string-array name="question_no5">
+        <item>Tình trạng hôn nhân</item>
+        <item>Bạn kết hôn khi nào?</item>
+        <item>Tên vợ/chồng của bạn</item>
+        <item>Sinh nhật vợ/chồng của bạn</item>
+    </string-array>
+</resources>

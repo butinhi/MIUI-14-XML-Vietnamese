@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Dịch vụ ANT HAL</string>
+    <string name="permdesc_antradio">Cho phép ứng dụng trực tiếp cấu hình vô tuyến ANT. Ứng dụng độc hại có thể ngăn chặn dịch vụ vô tuyến ANT từ trình cung cấp chức năng ANT cho các ứng dụng khác.</string>
+    <string name="permlab_antradio">sử dụng phần cứng ANT</string>
+    <string name="permdesc_ant">Cho phép ứng dụng giao tiếp với các thiết bị ANT bằng cách sử dụng các dịch vụ proxy. Ứng dụng độc hại có thể lấy được thông tin từ, hoặc chuyển đến thiết bị ANT khác mà bạn không biết.</string>
+    <string name="permlab_ant">sử dụng giao diện vô tuyến ANT</string>
+    <string name="permdesc_antAdmin">Cho phép ứng dụng trực tiếp cấu hình vô tuyến ANT thông qua các dịch vụ proxy. Ứng dụng độc hại có thể ngăn chặn các ứng dụng ANT khác khỏi kết nối đến các thiết bị ANT.</string>
+    <string name="permlab_antAdmin">kiểm soát cấu hình vô tuyến ANT</string>
+</resources>

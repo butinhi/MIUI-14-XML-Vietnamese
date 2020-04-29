@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="bootup_mode">
+        <item>Hai SIM</item>
+        <item>SIM1</item>
+        <item>SIM2</item>
+    </string-array>
+    <string-array name="gprs_mode_1">
+        <item>SIM1</item>
+        <item>Chưa kết nối dữ liệu</item>
+        <item>Cancel</item>
+    </string-array>
+    <string-array name="gprs_mode_2">
+        <item>SIM2</item>
+        <item>Chưa kết nối dữ liệu</item>
+        <item>Cancel</item>
+    </string-array>
+    <string-array name="new_search_engines">
+        <item>--</item>
+        <item>yahoo_vn--Yahoo! Việt Nam--vn.yahoo.com--search_engine_yahoo--https://vn.search.yahoo.com/search?ei={inputEncoding}&amp;.tsrc=mtkandroid&amp;p={searchTerms}--UTF-8--http://sugg.vn.search.yahoo.com/gossip-vn/?output=fxjson&amp;command={searchTerms}</item>
+        <item>google--Google--google.com--search_engine_google--http://www.google.com/m?hl={language}&amp;ie={inputEncoding}&amp;source=android-browser&amp;q={searchTerms}--UTF-8--http://www.google.com/complete/search?hl={language}&amp;json=true&amp;q={searchTerms}</item>
+    </string-array>
+</resources>

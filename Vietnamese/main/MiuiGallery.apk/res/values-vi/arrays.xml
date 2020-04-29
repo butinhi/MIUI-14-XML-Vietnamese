@@ -1,0 +1,223 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="baby_sexy">
+        <item>Trai</item>
+        <item>Gái</item>
+    </string-array>
+    <string-array name="collage_month">
+        <item>Thg 1</item>
+        <item>Thg 2</item>
+        <item>Thg 3</item>
+        <item>Thg 4</item>
+        <item>Thg 5</item>
+        <item>Thg 6</item>
+        <item>Thg 7</item>
+        <item>Thg 8</item>
+        <item>Thg 9</item>
+        <item>Thg 10</item>
+        <item>Thg 11</item>
+        <item>Thg 12</item>
+    </string-array>
+    <string-array name="owner_relation">
+        <item>Cha</item>
+        <item>Mẹ</item>
+        <item>Ông nội</item>
+        <item>Bà nội</item>
+        <item>Ông ngoại</item>
+        <item>Bà ngoại</item>
+    </string-array>
+    <string-array name="relation_with_me">
+        <item>Tôi</item>
+        <item>Con cái</item>
+        <item>Gia đình</item>
+        <item>Đồng nghiệp</item>
+        <item>Bạn học</item>
+        <item>Bạn bè</item>
+        <item>Chưa thiết lập</item>
+    </string-array>
+    <string-array name="sharer_relation_addressive">
+        <item>Cha</item>
+        <item>Mẹ</item>
+        <item>Ông nội</item>
+        <item>Bà nội</item>
+        <item>Ông ngoại</item>
+        <item>Bà ngoại</item>
+    </string-array>
+	<string-array name="month">
+        <item>Tháng 1</item>
+        <item>Tháng 2</item>
+        <item>Tháng 3</item>
+        <item>Tháng 4</item>
+        <item>Tháng 5</item>
+        <item>Tháng 6</item>
+        <item>Tháng 7</item>
+        <item>Tháng 8</item>
+        <item>Tháng 9</item>
+        <item>Tháng 10</item>
+        <item>Tháng 11</item>
+        <item>Tháng 12</item>
+    </string-array>
+	<string-array name="season">
+        <item>Mùa xuân</item>
+        <item>Mùa hè</item>
+        <item>Mùa thu</item>
+        <item>Mùa đông</item>
+    </string-array>
+	<string-array name="weekend_title">
+        <item>Cuối tuần qua</item>
+        <item>Ngày để nhớ</item>
+        <item>Sự kiện hàng ngày</item>
+        <item>Bình thường &amp; Phi thường</item>
+    </string-array>
+	<string-array name="card_last_week_day">
+        <item>Thứ Hai vừa qua</item>
+        <item>Thứ Ba vừa qua</item>
+        <item>Thứ Tư vừa qua</item>
+        <item>Thứ Năm vừa qua</item>
+        <item>Thứ Sáu vừa qua</item>
+    </string-array>
+    <string-array name="chinese_holiday_last_year">
+        <item>"Đêm Giao thừa vừa qua"</item>
+        <item>Tết vừa qua</item>
+        <item>Tết Nguyên tiêu vừa qua</item>
+        <item>Tết Đoan ngọ vừa qua</item>
+        <item>Lễ hội Qixi vừa qua</item>
+        <item>Trung thu vừa qua</item>
+    </string-array>
+    <string-array name="chinese_holiday_past_year">
+        <item>"Đêm Giao thừa qua các năm"</item>
+        <item>Tết qua các năm</item>
+        <item>Tết Nguyên tiêu qua các năm</item>
+        <item>Tết Đoan ngọ qua các năm</item>
+        <item>Lễ hội Qixi qua các năm</item>
+        <item>Trung thu qua các năm</item>
+    </string-array>
+    <string-array name="holiday_last_year">
+        <item>"Ngày tết vừa qua"</item>
+        <item>"Ngày Valentine vừa qua"</item>
+        <item>Ngày Quốc tế Lao động vừa qua</item>
+        <item>"Ngày Quốc tế Thiếu nhi vừa qua"</item>
+        <item>Ngày Quốc khánh vừa qua</item>
+        <item>Ngày giáng sinh vừa qua</item>
+    </string-array>
+    <string-array name="holiday_past_year">
+        <item>"Tết qua các năm"</item>
+        <item>"Valentine qua các năm"</item>
+        <item>Quốc tế Lao qua các năm</item>
+        <item>"Quốc tế Thiếu qua các năm"</item>
+        <item>Quốc khánh qua các năm</item>
+        <item>Giáng sinh qua các năm</item>
+    </string-array>
+    <string-array name="month_last_year">
+        <item>Tháng giêng vừa qua</item>
+        <item>Tháng hai vừa qua</item>
+        <item>Tháng ba vừa qua</item>
+        <item>Tháng tư vừa qua</item>
+        <item>Tháng năm vừa qua</item>
+        <item>Tháng sáu vừa qua</item>
+        <item>Tháng bảy vừa qua</item>
+        <item>Tháng tám vừa qua</item>
+        <item>Tháng chín vừa qua</item>
+        <item>Tháng mười vừa qua</item>
+        <item>Tháng mười một vừa qua</item>
+        <item>Tháng mười hai vừa qua</item>
+    </string-array>
+    <string-array name="season_last_year">
+        <item>Xuân vừa qua</item>
+        <item>Hè vừa qua</item>
+        <item>Thu vừa qua</item>
+        <item>Đông vừa qua</item>
+    </string-array>
+    <string-array name="month_past_year">
+        <item>Kỷ niệm tháng giêng</item>
+        <item>Kỷ niệm tháng hai</item>
+        <item>Kỷ niệm tháng ba</item>
+        <item>Kỷ niệm tháng tư</item>
+        <item>Kỷ niệm tháng năm</item>
+        <item>Kỷ niệm tháng sáu</item>
+        <item>Kỷ niệm tháng bảy</item>
+        <item>Kỷ niệm tháng tám</item>
+        <item>Kỷ niệm tháng chín</item>
+        <item>Kỷ niệm tháng mười</item>
+        <item>Kỷ niệm tháng mười một</item>
+        <item>Kỷ niệm tháng mười hai</item>
+    </string-array>
+    <string-array name="season_past_year">
+        <item>Kỷ niệm mùa xuân</item>
+        <item>Kỷ niệm mùa hè</item>
+        <item>Kỷ niệm mùa thu</item>
+        <item>Kỷ niệm mùa đông</item>
+    </string-array>
+    <string-array name="season_recap">
+        <item>Tóm tắt mùa xuân</item>
+        <item>Tóm tắt mùa hè</item>
+        <item>Tóm tắt mùa thu</item>
+        <item>Tóm tắt mùa đông</item>
+    </string-array>
+	<string-array name="last_month">
+        <item>Tháng 1</item>
+        <item>Tháng 2</item>
+        <item>Tháng 3</item>
+        <item>Tháng 4</item>
+        <item>Tháng 5</item>
+        <item>Tháng 6</item>
+        <item>Tháng 7</item>
+        <item>Tháng 8</item>
+        <item>Tháng 9</item>
+        <item>Tháng 10</item>
+        <item>Tháng 11</item>
+        <item>Tháng 12</item>
+    </string-array>
+	<string-array name="activities_title">
+        <item>Ngày đặc biệt</item>
+        <item>Ngày để nhớ</item>
+        <item>Khoảnh khắc tỏa sáng</item>
+    </string-array>
+    <string-array name="parties_title">
+        <item>Cùng nhau</item>
+        <item>Thời gian tuyệt vời</item>
+        <item>Đồng thanh</item>
+    </string-array>
+    <string-array name="sports_title">
+        <item>Di chuyển về trước</item>
+        <item>Tràn trề năng lượng</item>
+    </string-array>
+	<string-array name="last_weekend_title">
+        <item>Cuối tuần của tôi</item>
+        <item>Mảnh ghép cuộc sống</item>
+        <item>Kỷ niệm cuối tuần</item>
+    </string-array>
+	<string-array name="search_voice_assistant_suggestion">
+		<item>Giúp tôi tìm ảnh thẻ căn cước</item>
+		<item>Tôi muốn xem ảnh chụp ở Hồ Gươm</item>
+		<item>Tìm ảnh có văn bản</item>
+		<item>Tìm ảnh hội xuân vừa qua</item>
+		<item>Tìm ảnh của tôi với mẹ ở bãi biển tháng trước</item>
+	</string-array>
+	<string-array name="backup_automatically_key_words">
+		<item>Sao lưu ảnh</item>
+		<item>Đồng bộ ảnh với Xiaomi Cloud</item>
+	</string-array>
+	<string-array name="menu_copy_or_move">
+		<item>Di chuyển</item>
+		<item>Sao chép</item>
+		<item>Hủy</item>
+	</string-array>
+	<string-array name="last_year_group_people">
+		<item>Bạn mới và bạn cũ</item>
+		<item>"Những cuộc gặp gỡ năm ngoái"</item>
+	</string-array>
+	<string-array name="recent_group_people">
+		<item>Cùng nhau</item>
+		<item>Sự ràng buộc</item>
+	</string-array>
+	<string-array name="last_week_baby_title">
+		<item>Thời gian để chơi</item>
+		<item>"Cuối tuần của Kiddo"</item>
+		<item>Con nhỏ</item>
+	</string-array>
+	<string-array name="three_month_baby_title">
+		<item>Chúng lớn nhanh quá</item>
+		<item>"Ảnh của Kiddo"</item>
+	</string-array>
+</resources>

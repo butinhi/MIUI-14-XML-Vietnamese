@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="select_items">
+        <item quantity="other">%1$d đã chọn</item>
+    </plurals>
+    <plurals name="app_list_total">
+        <item quantity="other">%d ứng dụng</item>
+    </plurals>
+    <plurals name="power_config_ultimate_on_count">
+        <item quantity="other">%1$d bước để chuyển sang chế độ Tối đa</item>
+    </plurals>
+    <plurals name="power_config_ultimate_off_count">
+        <item quantity="other">Còn %1$d bước để tắt chế độ Tối đa</item>
+    </plurals>
+    <plurals name="power_config_ultimate_unlock_count">
+        <item quantity="other">Hoàn tất %1$d bước để mở khóa tất cả các mục</item>
+    </plurals>
+	<plurals name="search_app_count_txt_na">
+        <item quantity="other">Tìm kiếm %d ứng dụng</item>
+    </plurals>
+</resources>

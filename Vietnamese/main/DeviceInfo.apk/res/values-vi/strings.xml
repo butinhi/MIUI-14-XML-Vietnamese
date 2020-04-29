@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Thông tin thiết bị</string>
+    <string name="device_info_unknown">Không biết</string>
+    <string name="model_number">Số hiệu đời máy</string>
+    <string name="hardware_version">Phiên bản phần cứng</string>
+    <string name="baseband_version">Phiên bản Baseband</string>
+    <string name="prl_version">Phiên bản PRL</string>
+    <string name="android_version">Phiên bản Android</string>
+    <string name="software_version">Phiên bản phần mềm</string>
+    <string name="my_number">Số điện thoại của tôi</string>
+    <string name="meta_info">Phiên bản Meta</string>
+</resources>

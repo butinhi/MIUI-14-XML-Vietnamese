@@ -1,0 +1,6 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+    <string name="carousel_declaration_cta">"Tạp chí Khóa màn hình yêu cầu kết nối mạng để hoạt động bình thường. Để truy cập nội dung trực tuyến, bạn cần đồng ý với &lt;a href='http://www.miui.com/res/doc/privacy/cn.html'&gt;Chính sách Riêng tư&lt;/a&gt; của chúng tôi. Đồng ý?"</string>
+	<string name="summary">"Đồng ý với &lt;a href='http://www.miui.com/res/doc/privacy/en.html'&gt;Chính sách Riêng tư&lt;/a&gt; của chúng tôi để xem nội dung trực tuyến. Nếu bạn không đồng ý, hình nền trên máy vẫn khả dụng."</string>
+	<string name="summary_international">"Bằng cách sử dụng tính năng này, bạ đang đồng ý với &lt;a href ='http://www.miui.com/res/doc/eula.html?lang=en_US'&gt;Thỏa thuận Người dùng&lt;/a&gt; và &lt;a href='http://www.miui.com/res/doc/privacy/en.html'&gt;Chính sách Riêng tư&lt;/a&gt; của chúng tôi. Tính năng này cần kết nối mạng để hoạt động bình thường.​"</string>
+</resources>

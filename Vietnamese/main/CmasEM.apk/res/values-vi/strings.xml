@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">CMAS</string>
+    <string name="cmas">CMAS</string>
+    <string name="cmas_rmt_title">Hiển thị Cảnh báo RMT</string>
+    <string name="cmas_rmt_summary">Hiển thị cảnh báo RMT</string>
+    <string name="cmas_exercise_title">Hiển thị cảnh báo tập thể dục</string>
+    <string name="cmas_exercise_summary">Hiển thị cảnh báo tập thể dục</string>
+</resources>

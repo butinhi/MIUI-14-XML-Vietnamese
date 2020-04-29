@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="enabled_for_pad_entries">
+        <item>Đã tắt</item>
+        <item>Đã bật</item>
+        <item>Tạm thời hiển thị trong chế độ màn hình ngang</item>
+    </string-array>
+    <string-array name="motion_behavior_entries">
+        <item>Trượt</item>
+        <item>Chạm</item>
+    </string-array>
+</resources>

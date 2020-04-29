@@ -1,0 +1,4 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+    <string name="hide_mode_desc">Khi ứng dụng chạy dưới nền, các hoạt động của nó sẽ được theo dõi để giảm mức sử dụng pin</string>
+</resources>

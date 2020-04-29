@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="alarm_set">
+        <item>Báo thức sẽ kêu sau gần 1 phút nữa.</item>
+        <item>Báo thức sẽ kêu sau %1$s.</item>
+        <item>Báo thức sẽ kêu sau %2$s.</item>
+        <item>Báo thức sẽ kêu sau %1$s và %2$s.</item>
+        <item>Báo thức sẽ kêu sau %3$s.</item>
+        <item>Báo thức sẽ kêu sau %1$s và %3$s.</item>
+        <item>Báo thức sẽ kêu sau %2$s và %3$s.</item>
+        <item>Báo thức sẽ kêu sau %1$s %2$s và %3$s.</item>
+    </string-array>
+    <string-array name="auto_silence_entries">
+        <item>Không bao giờ</item>
+        <item>1 phút</item>
+        <item>5 phút</item>
+        <item>10 phút</item>
+        <item>15 phút</item>
+        <item>20 phút</item>
+        <item>25 phút</item>
+        <item>30 phút</item>
+    </string-array>
+    <string-array name="snooze_duration_entries">
+        <item>1 phút</item>
+        <item>5 phút</item>
+        <item>10 phút</item>
+        <item>15 phút</item>
+        <item>20 phút</item>
+        <item>25 phút</item>
+        <item>30 phút</item>
+    </string-array>
+    <string-array name="volume_button_setting_entries">
+        <item>Không</item>
+        <item>Báo lại</item>
+        <item>Bỏ qua</item>
+    </string-array>
+    <string-array name="alarm_in_furture">
+        <item>Đổ chuông báo thức sau 1 phút</item>
+        <item>Báo thức sau %1$s</item>
+        <item>Báo thức sau %2$s</item>
+        <item>Báo thức sau %1$s %2$s</item>
+        <item>Báo thức sau %3$s</item>
+        <item>Báo thức sau %1$s %3$s</item>
+        <item>Báo thức sau %2$s %3$s</item>
+        <item>Báo thức sau %1$s %2$s %3$s</item>
+    </string-array>
+    <string-array name="alarm_repeat_type">
+        <item>Một lần</item>
+        <item>Hàng ngày</item>
+        <item>Ngày làm việc</item>
+        <item>Ngày nghỉ</item>
+        <item>Thứ hai đến thứ sáu</item>
+        <item>Tùy chỉnh</item>
+    </string-array>
+    <string-array name="alarm_repeat_type_no_workdays">
+        <item>Một lần</item>
+        <item>Hàng ngày</item>
+        <item>Thứ hai đến Thứ sáu</item>
+        <item>Tùy chỉnh</item>
+    </string-array>
+    <string-array name="aqi_value">
+        <item>Trong lành</item>
+        <item>Tốt</item>
+        <item>Ô nhiễm nhẹ</item>
+        <item>Ô nhiễm vừa</item>
+        <item>Ô nhiễm nặng</item>
+        <item>Ô nhiễm nghiêm trọng</item>
+    </string-array>
+    <string-array name="days">
+        <item>Hôm qua</item>
+        <item>Hôm nay</item>
+        <item>Ngày mai</item>
+    </string-array>
+    <string-array name="weather_tips_value">
+        <item>Giảm hoạt động ngoài trời</item>
+        <item>Chú ý đường trơn</item>
+        <item>Trời mưa bão, hãy cẩn thận!</item>
+        <item>Không khí ô nhiễm, nhớ mang khẩu trang!</item>
+        <item>Đem theo ô khi bạn ra ngoài</item>
+        <item>Hãy cẩn thận khi đi ra ngoài</item>
+        <item>Sắp có bão cát, hãy mang khẩu trang!</item>
+        <item>Chúc bạn ngày mới tốt lành!</item>
+        <item>Bão cát đang đến, đeo mặt nạ.</item>
+        <item>Chúc một ngày tốt lành!</item>
+    </string-array>
+	<string-array name="timer_duration">
+        <item>Tổng %1$s</item>
+        <item>Tổng %2$s</item>
+        <item>Tổng %1$s %2$s</item>
+        <item>Tổng %3$s</item>
+        <item>Tổng %1$s %3$s</item>
+        <item>Tổng %2$s %3$s</item>
+        <item>Tổng %1$s %2$s %3$s</item>
+    </string-array>
+	<string-array name="stat_volume_button_behaviors">
+        <item>Không</item>
+        <item>Đổ chuông sau</item>
+        <item>Đóng</item>
+    </string-array>
+	<string-array name="clock_bg_setting_entries">
+		<item>Trắng</item>
+		<item>Đen</item>
+		<item>Tự động</item>
+	</string-array>
+	<string-array name="days_of_week">
+		<item>CN</item>
+		<item>T2</item>
+		<item>T3</item>
+		<item>T4</item>
+		<item>T5</item>
+		<item>T6</item>
+		<item>T7</item>
+	</string-array>
+	<string-array name="bedtime_guide_repeat_type">
+		<item>Thứ hai đến Thứ sáu</item>
+		<item>Mỗi ngày</item>
+		<item>Ngày làm việc</item>
+	</string-array>
+	<string-array name="bedtime_repeat_entries">
+		<item>Mỗi ngày</item>
+		<item>Thứ hai đến Thứ sáu</item>
+		<item>Ngày làm việc</item>
+		<item>Tùy chỉnh</item>
+	</string-array>
+	<string-array name="notification_adv_time_entries">
+		<item>Tại thời gian đã đặt</item>
+		<item>15 phút trước đó</item>
+		<item>30 phút trước đó</item>
+		<item>1 giờ trước đó</item>
+		<item>Không</item>
+	</string-array>
+</resources>

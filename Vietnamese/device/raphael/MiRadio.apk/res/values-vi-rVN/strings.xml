@@ -1,0 +1,5 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+    <string name="impunity_declaration_content">Bạn phải đọc và đồng ý với %1$s và %2$s của chúng tôi trước khi sử dụng sản phẩm này.</string>
+	<string name="subscribe_empty_hint">Mục bạn thêm vào ưa thích sẽ xuất hiện ở đây.</string>
+</resources>

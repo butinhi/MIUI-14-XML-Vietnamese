@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Whetstone</string>
+    <string name="permstep_label">Đọc các bước</string>
+    <string name="permstep_description">Cho phép ứng dụng đọc thông tin các bước điện thoại của bạn</string>
+</resources>

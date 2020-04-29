@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="micloud_entrance_titleArray">
+        <item>Đồng bộ dữ liệu ứng dụng</item>
+        <item>Sao lưu bố cục Màn hình chính</item>
+        <item>Sao lưu cài đặt hệ thống</item>
+        <item>Tìm thiết bị</item>
+    </string-array>
+    <string-array name="micloud_entrance_subtitleArray">
+        <item>Đồng bộ liên hệ, tin nhắn, ghi chú, lịch, và nhiều thứ khác</item>
+        <item>Sao lưu ứng dụng, bố cục Màn hình chính, và hình nền</item>
+        <item>Sao lưu cài đặt quan trọng, bao gồm Wi-Fi và hiển thị</item>
+        <item>Khóa thiết bị của bạn từ xa nếu máy bị mất</item>
+    </string-array>
+	<string-array name="korea_permission_groups_descriptions">
+        <item>Để nhận dạng mục đã đồng bộ</item>
+        <item>Để đồng bộ tin nhắn</item>
+        <item>Để đồng bộ liên hệ</item>
+        <item>Để đồng bộ sự kiện lịch</item>
+        <item>Để đồng bộ mục với dịch vụ sử dụng bộ nhớ</item>
+    </string-array>
+    <string-array name="korea_permission_groups_names">
+        <item>Điện thoại</item>
+        <item>Tin nhắn</item>
+        <item>Liên hệ</item>
+        <item>Lịch</item>
+        <item>Bộ nhớ</item>
+    </string-array>
+	<string-array name="settings_search_contacts">
+		<item>Đồng bộ danh bạ với Xiaomi Cloud</item>
+		<item>Bật/Cài dặt đồng bộ</item>
+		<item>Danh bạ; Lịch sử cuộc gọi; Đám mây; Đồng bộ hóa, Dịch vụ đám mây; Xiaomi Cloud</item>
+	</string-array>
+	<string-array name="settings_search_sms">
+		<item>Đồng bộ tin nhắn với Xiaomi Cloud</item>
+		<item>Bật/Cài dặt đồng bộ</item>
+		<item>Tin nhắn, SMS, MMS, Đám mây, Đồng bộ hóa, Dịch vụ đám mây; Xiaomi Cloud</item>
+	</string-array>
+	<string-array name="settings_search_gallery">
+		<item>Đồng bộ Thư viện với Xiaomi Cloud</item>
+		<item>Bật/Cài dặt đồng bộ</item>
+		<item>Thư viện ảnh, Ảnh; Đám mây; Đồng bộ hóa, Dịch vụ đám mây; Xiaomi Cloud</item>
+	</string-array>
+	<string-array name="settings_search_dial">
+		<item>Đồng bộ lịch sử cuộc gọi với Xiaomi Cloud</item>
+		<item>Bật/Cài dặt đồng bộ</item>
+		<item>Lịch sử cuộc gọi; Đám mây; Đồng bộ hóa; Dịch vụ đám mây; Xiaomi Cloud</item>
+	</string-array>
+	<string-array name="settings_search_recorder">
+		<item>Đồng bộ ghi âm với Xiaomi Cloud</item>
+		<item>Bật/Cài dặt đồng bộ</item>
+		<item>Ghi âm; Đám mây, Đồng bộ hóa, Dịch vụ đám mây; Xiaomi Cloud</item>
+	</string-array>
+	<string-array name="settings_search_music">
+		<item>Đồng bộ nhạc với Xiaomi Cloud</item>
+		<item>Bật đồng bộ</item>
+		<item>Âm nhạc, Đám mây, Đồng bộ hóa, Dịch vụ đám mây; Xiaomi Cloud</item>
+	</string-array>
+	<string-array name="settings_search_notes">
+		<item>Đồng bộ ghi chú với Xiaomi Cloud</item>
+		<item>Bật đồng bộ</item>
+		<item>Ghi chú; Đám mây; Đồng bộ hóa; Dịch vụ đám mây; Xiaomi Cloud</item>
+	</string-array>
+	<string-array name="settings_search_wlan">
+		<item>Đồng bộ Cài đặt Wi-Fi với Xiaomi Cloud</item>
+		<item>Bật đồng bộ</item>
+		<item>Wi-Fi, wifi; Wi-Fi; Đám mây, Đồng bộ hóa, Dịch vụ đám mây; Xiaomi Cloud</item>
+	</string-array>
+	<string-array name="settings_search_calendar">
+		<item>Đồng bộ Lịch với Xiaomi Cloud</item>
+		<item>Bật đồng bộ</item>
+		<item>Lịch; Đám mây; Đồng bộ hóa; Dịch vụ đám mây; Xiaomi Cloud</item>
+	</string-array>
+	<string-array name="settings_search_browser">
+		<item>Đồng bộ Trình duyệt với Xiaomi Cloud</item>
+		<item>Bật đồng bộ</item>
+		<item>Trình duyệt; Đám mây, Đồng bộ hóa, Dịch vụ đám mây; Xiaomi Cloud</item>
+	</string-array>
+	<string-array name="settings_search_security">
+		<item>Đồng bộ Bảo mật với Xiaomi Cloud</item>
+		<item>Bật đồng bộ</item>
+		<item>Bảo mật; Đám mây, Đồng bộ hóa, Dịch vụ đám mây; Xiaomi Cloud</item>
+	</string-array>
+	<string-array name="settings_search_personal_assistant">
+		<item>Đồng bộ App vault với Xiaomi Cloud</item>
+		<item>Bật đồng bộ</item>
+		<item>App Vault, Thẻ, Đám mây; Đồng bộ hóa, Dịch vụ đám mây; Xiaomi Cloud</item>
+	</string-array>
+	<string-array name="settings_search_sync_manage">
+		<item>Xiaomi Cloud. Tất cả Dịch vụ Mi ở một nơi.</item>
+		<item>Truy cập ảnh, liên hệ, tin nhắn và thiết bị của bạn từ mọi nơi</item>
+		<item>Hết bộ nhớ, Thành viên, Bộ nhớ, Dung lượng bộ nhớ, Đám mây, Đồng bộ hóa, Dịch vụ đám mây; Xiaomi Cloud, Thùng rác; Các mục đã xóa; Bảo mật</item>
+	</string-array>
+	<string-array name="settings_search_find_phone">
+		<item>Tìm thiết bị</item>
+		<item>Xóa dữ liệu và khóa thiết bị của bạn nếu bị mất</item>
+		<item>Tìm thiết bị; Mất; Đám mây; Đồng bộ hóa, Dịch vụ đám mây; Xiaomi Cloud</item>
+	</string-array>
+	<string-array name="settings_search_find_pad">
+		<item>Tìm thiết bị</item>
+		<item>Xóa dữ liệu và khóa thiết bị của bạn nếu bị mất</item>
+		<item>Tìm thiết bị; Mất; Đám mây; Đồng bộ hóa, Dịch vụ đám mây; Xiaomi Cloud</item>
+	</string-array>
+	<string-array name="settings_search_recycle_bin">
+		<item>Mục đã xóa trong Xiaomi Cloud</item>
+		<item>Khôi phục liên hệ, ảnh, tin nhắn và hơn thế</item>
+		<item>Thùng rác; Các mục đã xóa; Thùng rác; Khôi phục; Dịch vụ đám mây; Xiaomi Cloud</item>
+	</string-array>
+	<string-array name="settings_search_subscribe_vip">
+		<item>Thành viên Xiaomi Cloud</item>
+		<item>Nâng cấp Thành viên, nhận thêm dung lượng và bảo mật dữ liệu của bạn</item>
+		<item>Hết bộ nhớ, Thành viên, Bộ nhớ, Dung lượng bộ nhớ; Đám mây; Đồng bộ hóa;Các dịch vụ đám mây; Xiaomi Cloud; Mega; Ultra; VIP, Sao lưu, Sao lưu, Khôi phục; Thùng rác, Các mục đã xóa; Thùng rác</item>
+	</string-array>
+	<string-array name="settings_search_backup_setting">
+		<item>Sao lưu Màn hình chính vào Xiaomi Cloud</item>
+		<item>Sao lưu Bố cục Màn hình chính, danh sách ứng dụng đã cài và cài đặt hệ thống</item>
+		<item>Đám mây; Sao lưu; Sao lưu; Dịch vụ đám mây; Xiaomi Cloud, Màn hình chính, Bố cục, Ứng dụng; Cài đặt, Tần suất sao lưu; Quản lý sao lưu; Khôi phục</item>
+	</string-array>
+	<string-array name="settings_search_backup_manage">
+		<item>Sao lưu</item>
+		<item>Mục đã sao lưu</item>
+		<item>Đám mây; Sao lưu; Sao lưu; Dịch vụ đám mây; Xiaomi Cloud, Màn hình chính, Bố cục, Ứng dụng; Quản lý sao lưu; Khôi phục</item>
+	</string-array>
+	<string-array name="settings_search_restore_device">
+		<item>Khôi phục các mục từ Xiaomi Cloud</item>
+		<item>Tải mục đã sao lưu vào thiết bị</item>
+		<item>Đám mây; Sao lưu; Sao lưu; Khôi phục; Dịch vụ đám mây; Xiaomi Cloud</item>
+	</string-array>
+	<string-array name="user_detail_fixed_items">
+		<item>Xem mục đã đồng bộ</item>
+		<item>Chi tiết lưu trữ</item>
+	</string-array>
+	<string-array name="priv_dialog_sync_runtime_perm_desc">
+		<item>Để đồng bộ sự kiện</item>
+		<item>Để đồng bộ tin nhắn</item>
+		<item>Để đồng bộ tin nhắn</item>
+		<item>Để đồng bộ liên hệ</item>
+		<item>Để đồng bộ liên hệ</item>
+		<item>Để lưu các mục vào thiết bị (v.d. ảnh, video, bài hát)</item>
+	</string-array>
+	<string-array name="priv_dialog_finddevice_runtime_perm_desc">
+		<item>Để nhận dạng thiết bị của bạn</item>
+		<item>Để định vị thiết bị của bạn và chuyển sang Chế độ đánh mất</item>
+	</string-array>
+	<string-array name="privacy_dialog_sync_runtime_perm_desc">
+		<item>Để đồng bộ sự kiện</item>
+		<item>Để đồng bộ tin nhắn</item>
+		<item>Để đồng bộ tin nhắn</item>
+		<item>Để đồng bộ liên hệ</item>
+		<item>Để đồng bộ liên hệ</item>
+		<item>Để lưu các mục vào thiết bị (v.d. ảnh, video, bài hát)</item>
+	</string-array>
+</resources>

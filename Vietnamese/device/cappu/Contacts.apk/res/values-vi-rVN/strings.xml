@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+    <string name="confirm_delete_contact_all_call_logs">Xóa lịch sử cuộc gọi?</string>
+	<string name="pick_new_photo">Chọn ảnh mới từ Thư viện</string>
+	<string name="pick_photo">Chọn ảnh từ Thư viện</string>
+	<string name="progress_notifier_message" formatted="false">Đang nhập %s/%s: %s</string>
+	<string name="vcard_import_failed">"Không thể nhập vCard."</string>
+</resources>

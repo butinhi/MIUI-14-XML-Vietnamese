@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="voice_unlock_continue_label">Tiếp tục</string>
+	<string name="voice_command_record_non_first_recording">LẶP LẠI lệnh giọng nói của bạn.</string>
+	<string name="voice_unlock_setup_intro_header">Ghi lệnh giọng nói</string>
+	<string name="voice_command_record_description_command">Mở khóa màn hình và khởi chạy %1$s</string>
+	<string name="during_call_title">Ghi âm không khả dụng</string>
+	<string name="voice_unlock_command">Lệnh mở khóa</string>
+	<string name="command_summary">Mở khóa và khởi chạy %1$s</string>
+	<string name="voice_wake_up_command_summary">Đánh thức và khởi chạy %1$s</string>
+	<string name="vow_recording_no_speaker">LẶP LẠI \"%1$s\".</string>
+	<string name="voice_unlock_retry_label">Thử lại</string>
+	<string name="vow_setup_intro_no_speaker">Lặp lại \"%1$s\" 5 lần.</string>
+	<string name="voice_command_record_one_round_exist">Gần giống với lệnh thoại sẵn có. Vui lòng thử lệnh khác.</string>
+	<string name="voice_command_secondary">Chạy %1$s sau khi mở khóa</string>
+	<string name="voice_unlock_setup_end_all_done">"Đã xong."</string>
+	<string name="vow_one_round_ok">Đã hiểu. Chạm TIẾP TỤC và đọc lệnh của bạn</string>
+	<string name="voice_command_record_one_round_ok">ĐÃ HIỂU.</string>
+	<string name="stop_playing_message">Vui lòng dừng phát đa phương tiện trước khi ghi âm.</string>
+	<string name="voice_wake_up_command_title">Đánh thức %1$s</string>
+	<string name="reset_command_prompt_last">Chỉ lệnh thoại được đặt lại. Khóa màn hình sẽ đổi thành Trình chiếu.</string>
+	<string name="vow_record_first_recording_with_speaker">"Vui lòng ĐỌC lệnh thoại.
+Đề xuất 4-6 âm tiết."</string>
+	<string name="voice_command_record_first_recording">"Vui lòng ĐỌC lệnh.
+Đề xuất 3-6 âm tiết."</string>
+	<string name="reinforce_command_action">Củng cố lệnh</string>
+	<string name="play_command_action">Phát lệnh</string>
+	<string name="voice_wakeup_setup_end_prompt">Để đánh thức điện thoại, chỉ cần đọc lệnh thoại khi màn hình TẮT.</string>
+	<string name="voice_unlock_options_title">Tùy chọn</string>
+	<string name="time_out_title">Hết giờ</string>
+	<string name="voice_command_record_one_round_weak">"Không thể nghe rõ giọng của bạn. Vui lòng thử lại."</string>
+	<string name="voice_wake_up_set">Đánh thức bằng giọng nói</string>
+	<string name="voice_service_error_title">Lỗi dịch vụ giọng nói!</string>
+	<string name="voice_command_launch_app_title">Chạy ứng dụng</string>
+	<string name="vow_setup_intro_with_speaker">Đọc một lệnh 4-6 âm tiết, sau đó lặp lại 3-6 lần.</string>
+	<string name="voice_command_primary">Chạy %1$s</string>
+	<string name="voice_unlock_setup_intro">Đọc một lệnh 3-6 âm tiết, sau đó lặp lại 3-6 lần.</string>
+	<string name="vow_done_label">Xong</string>
+	<string name="voice_unlock_setup_end_prompt">Để mở khóa điện thoại, chỉ cần đọc lệnh thoại của bạn.</string>
+	<string name="voice_command_record_different_with_customized">Bạn đã đọc một lệnh khác với lệnh đã tùy chỉnh. Vui lòng nói \" %1$s\".</string>
+	<string name="voice_command_record_one_round_diff">Bạn đã đọc một lệnh khác với lệnh trước.</string>
+	<string name="unlock_set_unlock_mode_voice_weak">Mở khóa bằng giọng nói</string>
+	<string name="reset_command_title">Đặt lại lệnh</string>
+	<string name="reinforce_command_action_summary">Ghi lệnh để cải thiện độ chính xác</string>
+	<string name="stop_playing_title">Dừng phát đa phương tiện</string>
+	<string name="reset_command_action">Đặt lại lệnh</string>
+	<string name="during_call_message">Ghi lệnh thoại không khả dụng khi đang gọi.</string>
+	<string name="voice_unlock_cancel_label">Hủy</string>
+	<string name="reset_command_prompt">Lệnh hiện tại sẽ bị đặt lại, và không thể khôi phục.</string>
+	<string name="voice_command_record_recording_ok">Lệnh thoại được đặt thành công.</string>
+	<string name="pass_word_file_missing">"Không thể phát lệnh thoại."</string>
+	<string name="modify_command_action">Chỉnh sửa lệnh</string>
+	<string name="voice_command_record_description_unlock_screen">Mở khóa màn hình</string>
+	<string name="voice_command_record_prepare">Đang chuẩn bị, vui lòng chờ...</string>
+	<string name="voice_command_select_title">Chọn lệnh</string>
+	<string name="voice_unlock_record_label">Ghi âm</string>
+	<string name="voice_command_record_introdution">Chạm nút GHI ÂM và ĐỌC lệnh thoại của bạn.</string>
+	<string name="voice_command_customize">Tùy chỉnh</string>
+	<string name="voice_command3">Lệnh đánh thức 3</string>
+	<string name="voice_command2">Lệnh đánh thức 2</string>
+	<string name="voice_command_record_one_round_noisy">Quá ồn khi bắt giọng nói của bạn. Vui lòng thử lại.</string>
+	<string name="voice_command1">Lệnh đánh thức 1</string>
+	<string name="time_out_message">Không có giọng nói trong 5 giây. Vui lòng thử lại.</string>
+</resources>

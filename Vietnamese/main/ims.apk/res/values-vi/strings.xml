@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="incoming_call_failed_low_battery">Cuộc gọi đến thất bại do pin yếu.</string>
+    <string name="device_is_hd_capable">SIM %1$d có khả năng HD</string>
+    <string name="hd_icon_header_app_name">" "</string>
+    <string name="device_is_volte_capable">SIM %1$d có khả năng VoLTE</string>
+    <string name="call_hold_label">Giữ cuộc gọi :</string>
+    <string name="call_resume_label">Khôi phục cuộc gọi :</string>
+    <string name="error_msg_failed">Thất bại</string>
+    <string name="error_msg_cancelled">Đã hủy</string>
+    <string name="error_msg_reinvite_collision">Khử va chạm</string>
+    <string name="handover_from_wifi_to_lte">Đang chuyển sang mạng LTE cho chất lượng tốt hơn</string>
+    <string name="wifi_calling_on">Bật gọi Wifi</string>
+    <string name="wifi_calling_off">Tắt gọi Wifi</string>
+    <string name="wifi_calling_enable_dialog_title">Bật gọi Wifi?</string>
+    <string name="wifi_calling_enable_dialog_msg">Gọi và nhận cuộc gọi thông qua Wifi bằng tài khoản Jio của bạn. Xem lại thông tin cuộc gọi khẩn cấp của nhà mạng để hiểu về giới hạn cuộc gọi khẩn cấp qua Wifi. Khi bạn tham gia một mạng, thông tin về quốc gia nơi kết nối mạng được tạo sẽ được gửi đến nhà mạng cho chi tiết ví dụ như thanh toán.</string>
+    <string name="wifi_calling_enable_dialog_cancel">Hủy</string>
+    <string name="wifi_calling_enable_dialog_enable">Bật</string>
+</resources>

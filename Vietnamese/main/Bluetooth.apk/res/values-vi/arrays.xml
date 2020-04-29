@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="ble_profile_mi_band">
+        <item>Rung khi đổ chuông</item>
+        <item>Rung khi nhận tin nhắn</item>
+        <item>Rung khi báo thức</item>
+    </string-array>
+    <string-array name="ble_profile_mi_key">
+        <item>Chụp ảnh</item>
+        <item>Tìm điện thoại</item>
+        <item>Tìm MiKey</item>
+    </string-array>
+    <string-array name="ble_package_names">
+        <item></item>
+        <item>Mi Fit</item>
+        <item></item>
+    </string-array>
+</resources>

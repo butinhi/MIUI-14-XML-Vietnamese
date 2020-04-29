@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Cài đặt SVI</string>
+    <string name="svi_settings_title">Cài đặt Màn Hình SVI</string>
+    <string name="svi_enable_title">Bật màn hình SVI</string>
+    <string name="svi_enable_summary_on">Tăng cường xem dựa trên điều kiện môi trường xung quanh</string>
+    <string name="svi_enable_summary_off">Kinh nghiệm xem sẽ không được tăng cường cho các điều kiện môi trường xung quanh</string>
+    <string name="svi_version_title">Phiên bản SVI</string>
+</resources>

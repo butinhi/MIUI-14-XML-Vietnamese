@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="wallpaper_vis1">Trình hiển thị</string>
+    <string name="wallpaper_vis2">Dạng sóng</string>
+    <string name="wallpaper_vis3">Phổ</string>
+    <string name="wallpaper_vis4">Đồng hồ VU</string>
+    <string name="wallpaper_vis5">Nhiều</string>
+    <string name="wallpapers">Hình nền Kiểu trực quan cho Nhạc</string>
+    <string name="author">๖ۣۜßεℓ™ - MIUI.VN</string>
+    <string name="vis2_desc">Vẽ làn sóng âm thanh của bất kỳ bản nhạc đang phát nào.</string>
+    <string name="vis3_desc">Hiển thị phổ tần số của bất kỳ bản nhạc đang phát nào.</string>
+    <string name="vis4_desc">Mô phỏng đồng hồ đo âm thanh dạng tương tự.</string>
+    <string name="vis5_desc">Tất cả hình ảnh hóa nhạc với nhau, xoay chậm trong 3D.</string>
+</resources>

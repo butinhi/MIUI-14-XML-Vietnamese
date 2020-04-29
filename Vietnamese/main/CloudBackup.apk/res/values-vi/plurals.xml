@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="cloud_backup_detail_frequence_day">
+        <item quantity="other">Sao lưu mỗi %d ngày</item>
+    </plurals>
+    <plurals name="cloud_backup_detail_manage_summary">
+        <item quantity="other">%1$s sao lưu, kích thước: %2$s</item>
+    </plurals>
+    <plurals name="restoring_file_tile">
+        <item quantity="other">Đang khôi phục %d tập tin</item>
+    </plurals>
+	<plurals name="restore_app_order_prior">
+        <item quantity="other">Ưu tiên cao: %d ứng dụng</item>
+    </plurals>
+    <plurals name="restore_app_order_normal">
+        <item quantity="other">Ưu tiên thông thường: %d ứng dụng</item>
+    </plurals>
+    <plurals name="restore_app_order_installed">
+        <item quantity="other">%d ứng dụng trên thiết bị này</item>
+    </plurals>
+</resources>

@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="otherLabels">
+        <item>Tổ chức</item>
+        <item>Ghi chú</item>
+    </string-array>
+	<string-array name="jia_zi">
+		<item>Giáp Tý</item>
+		<item>Ất Sửu</item>
+		<item>Bính Dần</item>
+		<item>Đinh Mão</item>
+		<item>Mậu Thìn</item>
+		<item>Kỷ Tỵ</item>
+		<item>Canh Ngọ</item>
+		<item>Quý Mùi</item>
+		<item>Nhâm Thân</item>
+		<item>Quý Dậu</item>
+		<item>Giáp Tuất</item>
+		<item>Ất Hợi</item>
+		<item>Bính Tý</item>
+		<item>Đinh Sửu</item>
+		<item>Mậu Dần</item>
+		<item>Kỷ Mão</item>
+		<item>Canh Thìn</item>
+		<item>Quý Tỵ</item>
+		<item>Nhâm Ngọ</item>
+		<item>Quý Mùi</item>
+		<item>Giáp Thân</item>
+		<item>Ất Dậu</item>
+		<item>Bính Tuất</item>
+		<item>Đinh Hợi</item>
+		<item>Mậu Tý</item>
+		<item>Kỷ Sửu</item>
+		<item>Canh Dần</item>
+		<item>Quý Mão</item>
+		<item>Nhâm Thìn</item>
+		<item>Quý Tỵ</item>
+		<item>Giáp Ngọ</item>
+		<item>Ất Mùi</item>
+		<item>Bính Thân</item>
+		<item>Đinh Dậu</item>
+		<item>Mậu Tuất</item>
+		<item>Kỷ Hợi</item>
+		<item>Canh Tý</item>
+		<item>Quý Sửu</item>
+		<item>Nhâm Dần</item>
+		<item>Quý Mão</item>
+		<item>Giáp Thìn</item>
+		<item>Ất Tỵ</item>
+		<item>Bính Ngọ</item>
+		<item>Đinh Mùi</item>
+		<item>Mậu Thân</item>
+		<item>Kỷ Dậu</item>
+		<item>Canh Tuất</item>
+		<item>Quý Hợi</item>
+		<item>Nhâm Tý</item>
+		<item>Quý Sửu</item>
+		<item>Giáp Dần</item>
+		<item>Ất Mão</item>
+		<item>Bính Thìn</item>
+		<item>Đinh Tỵ</item>
+		<item>Mậu Ngọ</item>
+		<item>Kỷ Mùi</item>
+		<item>Canh Thân</item>
+		<item>Quý Dậu</item>
+		<item>Nhâm Tuất</item>
+		<item>Quý Hợi</item>
+	</string-array>
+	<string-array name="tian_gan">
+		<item>"Giáp "</item>
+		<item>"Ất "</item>
+		<item>"Bính "</item>
+		<item>"Đinh "</item>
+		<item>"Mậu "</item>
+		<item>"Kỷ "</item>
+		<item>"Canh "</item>
+		<item>"Tân "</item>
+		<item>"Nhâm "</item>
+		<item>"Quý "</item>
+	</string-array>
+	<string-array name="di_zhi">
+		<item>Tý</item>
+		<item>Sửu</item>
+		<item>Dần</item>
+		<item>Mão</item>
+		<item>Thìn</item>
+		<item>Tỵ</item>
+		<item>Ngọ</item>
+		<item>Mùi</item>
+		<item>Thân</item>
+		<item>Dậu</item>
+		<item>Tuất</item>
+		<item>Hợi</item>
+	</string-array>
+</resources>

@@ -1,0 +1,4 @@
+<resources>
+    <string name="date_format">EEEE, d MMMM</string>
+    <string name="emergency_call">Gọi khẩn cấp</string>
+</resources>

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+   <string name="about_content">"Phiên bản: 2.1.1
+
+
+ Sử dụng Perfdump:
+ 1. Chế độ phát hiện jank thủ công được thiết kế cho game.
+
+ 2. Chế độ 30FPS được thiết kế cho game hoặc video 30FPS. Nó có thể kiểm tra khung hình có mượt không. Nếu không mượt (vấn đề nhanh/chậm khung hình), nó sẽ được coi là jank. Vì vậy giá trị FPS được sửa đổi trong chế độ này, không phải FPS chung.
+
+ 3. Chế độ tự động sẽ ẩn giao diện lớp phủ. Bạn có thể đặt ngưỡng lưu nhật ký tự động.
+
+
+"</string>
+    <string name="action_about">Tìm hiểu thêm</string>
+    <string name="action_jank_setting">Cài đặt phát hiện Jank</string>
+    <string name="action_misc_setting">Cài đặt khác</string>
+    <string name="action_other_log_setting">Cài đặt nhật ký khác</string>
+    <string name="action_trace_setting">Cài đặt Systrace</string>
+    <string name="am">Quản lý activity</string>
+    <string name="app">Ứng dụng</string>
+    <string name="atrace_start">Bắt đầu Systrace</string>
+    <string name="audio">Âm thanh</string>
+    <string name="auto_save_mode">Chế độ tự động [Games, TV-out, TouchLatency:Ball]</string>
+    <string name="database">Cơ sở dữ liệu</string>
+    <string name="freq">Xung nhịp CPU</string>
+    <string name="gfx">Đồ họa</string>
+    <string name="hint_alpha_setting">Cài đặt lớp phủ alpha</string>
+    <string name="hint_auto_dump_trace">Tự động dump systrace nếu FPS thấp hơn:</string>
+    <string name="hint_edit_text">Kích thước bộ đệm theo dõi (KB)</string>
+    <string name="hint_enable_bugreport">báo cáo lỗi [ ! Tốn thời gian ]</string>
+    <string name="hint_enable_dumpsys">dumpsys [ ! Tốn thời gian ]</string>
+    <string name="hint_icon_hidden">Ẩn biểu tượng Perfdump trong Trình khởi chạy, và thoát</string>
+    <string name="hint_icon_hidden_title">Tùy chỉnh biểu tượng Perfdump</string>
+    <string name="hint_layer_option">Danh sách lớp:</string>
+    <string name="hint_screencap_fps_record">Chụp màn hình khi bắt đầu/dừng ghi FPS</string>
+    <string name="hint_screencap_trace">Chụp màn hình khi bắt đầu dump systrace</string>
+    <string name="hint_tracezip">Nén hoặc không nén theo dõi</string>
+    <string name="idle">CPU nghỉ</string>
+    <string name="input">Đầu vào</string>
+    <string name="irq">Sự kiện IRQ</string>
+    <string name="manual_detect">Chế độ thủ công [Games]</string>
+    <string name="manual_detect30">Chế độ thủ công [Trường hợp 30FPS: khung hình nhanh/chậm]</string>
+    <string name="memreclaim">Thu hồi bộ nhớ</string>
+    <string name="other_log_hint">Lưu thêm nhật ký với systrace</string>
+    <string name="pagecache">Trang cache</string>
+    <string name="pm">Trình quản lý gói</string>
+    <string name="power">Quản lý năng lượng</string>
+    <string name="property">Công cụ Hiệu suất bởi Qualcomm Technologies, Inc.</string>
+    <string name="regulators">Bộ điều chỉnh</string>
+    <string name="res">Tải tài nguyên</string>
+    <string name="save">Lưu</string>
+    <string name="sched">Lịch trình CPU</string>
+    <string name="sm">Quản lý đồng bộ</string>
+    <string name="ss">Máy chủ hệ thống</string>
+    <string name="subtitle1">Phát hiện Jank</string>
+    <string name="subtitle2">Ghi systrace</string>
+    <string name="sync">Đồng bộ hóa</string>
+    <string name="tracezip">Nén theo dõi với định dạng atrace</string>
+    <string name="view">Xem hệ thống</string>
+    <string name="wm">Trình quản lý Cửa sổ</string>
+    <string name="workq">Công việc</string>
+	<string name="hint_fps_mode">Chọn chế độ Game FPS</string>
+	<string name="hint_vsync_mode">Chọn chế độ HW-Vsync</string>
+	<string name="mode_other">Khác:</string>
+	<string name="trace_dump_mode">Chế độ hiện dấu vết</string>
+</resources>

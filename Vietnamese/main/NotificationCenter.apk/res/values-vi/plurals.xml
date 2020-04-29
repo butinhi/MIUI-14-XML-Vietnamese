@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="sent_frequency_per_day">
+        <item quantity="other">%d thông báo một ngày</item>
+    </plurals>
+    <plurals name="sent_frequency_per_week">
+        <item quantity="other">%d thông báo một tuần</item>
+    </plurals>
+	<plurals name="last_sent_time_minute">
+		<item quantity="other">%d phút trước</item>
+	</plurals>
+	<plurals name="last_sent_time_day">
+		<item quantity="other">%d ngày trước</item>
+	</plurals>
+	<plurals name="last_sent_time_hour">
+		<item quantity="other">%d giờ trước</item>
+	</plurals>
+	<plurals name="last_sent_time_month">
+		<item quantity="other">%d tháng trước</item>
+	</plurals>
+	<plurals name="last_sent_time_week">
+		<item quantity="other">%d tuần trước</item>
+	</plurals>
+</resources>

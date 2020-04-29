@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<resources>
+	<string-array name="nav_double_click_time_entries">
+		<item>Tắt</item>
+		<item>80</item>
+		<item>100</item>
+		<item>120</item>
+		<item>140</item>
+		<item>160</item>
+		<item>180</item>
+		<item>200</item>
+		<item>250</item>
+		<item>300</item>
+		<item>350</item>
+		<item>400</item>
+		<item>450</item>
+		<item>500</item>
+	</string-array>
+	<string-array name="safe_class_entries_for_oswego_m">
+		<item>Cao hơn</item>
+		<item>Bình thường</item>
+		<item>Thấp hơn</item>
+	</string-array>
+	<string-array name="authenticate_order_summary">
+		<item>Kết hợp ưu tiên bằng ngón tay gần nhất</item>
+		<item>Nhấn ngón tay để đăng ký trước</item>
+		<item>Nhấn ngón tay để đăng ký và xác định đầu tiên</item>
+	</string-array>
+	<string-array name="authenticate_order_entries">
+		<item>Kết hợp ưu tiên bằng ngón tay gần nhất</item>
+		<item>Nhấn ngón tay để đăng ký trước</item>
+		<item>Nhấn ngón tay để đăng ký và xác định đầu tiên</item>
+	</string-array>
+	<string-array name="support_nav_mode_entries">
+		<item>Tắt</item>
+		<item>Cấp độ</item>
+		<item>Dọc</item>
+		<item>Tất cả</item>
+	</string-array>
+	<string-array name="safe_class_summary">
+		<item>Cao nhất</item>
+		<item>Cao hơn</item>
+		<item>Bình thường</item>
+		<item>Thấp hơn</item>
+		<item>Thấp nhất</item>
+	</string-array>
+	<string-array name="progress_style_array">
+		<item>Tỷ lệ phần trăm</item>
+		<item>Điểm số</item>
+	</string-array>
+	<string-array name="security_level_array">
+		<item>Thấp</item>
+		<item>Trung bình</item>
+		<item>Cao</item>
+	</string-array>
+	<string-array name="nav_long_press_time_entries">
+		<item>Tắt</item>
+		<item>600</item>
+		<item>650</item>
+		<item>700</item>
+		<item>750</item>
+		<item>800</item>
+		<item>850</item>
+		<item>900</item>
+		<item>950</item>
+		<item>1000</item>
+	</string-array>
+	<string-array name="safe_class_entries_for_milan_series">
+		<item>Cao nhất</item>
+		<item>Cao hơn</item>
+		<item>Bình thường</item>
+		<item>Thấp hơn</item>
+		<item>Thấp nhất</item>
+	</string-array>
+	<string-array name="support_nav_mode_entries_milan_f_series">
+		<item>Tắt</item>
+		<item>Cấp độ</item>
+		<item>Dọc</item>
+		<item>Ngang và dọc</item>
+		<item>Áp lực</item>
+		<item>Cấp độ và áp lực</item>
+		<item>Dọc và áp lực</item>
+		<item>Tất cả</item>
+	</string-array>
+	<string-array name="progress_sample_data_type_array">
+		<item>Dữ liệu thô</item>
+		<item>Dữ liệu hình ảnh</item>
+	</string-array>
+</resources>

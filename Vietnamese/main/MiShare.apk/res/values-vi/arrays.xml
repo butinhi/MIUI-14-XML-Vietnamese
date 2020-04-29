@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="permissions_desc">
+        <item>Để truy cập và lưu ảnh, ứng dụng, và các tệp khác, cũng như chuyển các tệp đó</item>
+        <item>Để truyền tệp qua Bluetooth và Wi-Fi</item>
+    </string-array>
+</resources>

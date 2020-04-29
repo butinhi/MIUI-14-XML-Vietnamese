@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="folder_operations">
+        <item>Đổi tên</item>
+        <item>Xóa</item>
+    </string-array>
+    <string-array name="attachment_chooser">
+        <item>Máy ảnh</item>
+        <item>Thư viện</item>
+    </string-array>
+    <string-array name="note_sort_way">
+        <item>Sắp xếp theo ngày tạo</item>
+        <item>Sắp xếp theo ngày chỉnh sửa</item>
+    </string-array>
+    <string-array name="contact_entries">
+        <item>Tên</item>
+        <item>Biệt danh</item>
+        <item>Điện thoại</item>
+        <item>E-mail</item>
+        <item>Công ty</item>
+        <item>IM</item>
+        <item>Điện thoại SIP</item>
+        <item>Sinh nhật</item>
+        <item>Trang web</item>
+        <item>Địa chỉ</item>
+        <item>Ghi chú</item>
+    </string-array>
+    <string-array name="font_size_names">
+        <item>Nhỏ</item>
+        <item>Vừa</item>
+        <item>Lớn</item>
+        <item>Đại</item>
+    </string-array>
+    <string-array name="welcome_notes_content">
+        <item>"Chào mừng sử dụng Ghi chú
+"</item>
+        <item>"Tạo ghi chú
+Chạm vào dấu cộng để tạo ghi chú."</item>
+        <item>"Chọn mẫu
+Sử dụng mẫu để thay đổi nền và phong cách cho ghi chú.
+Chạm phím bên phải ở phía dưới của ghi chú để chọn mẫu."</item>
+        <item>"Tạo thư mục
+Sắp xếp ghi chú trong thư mục.
+Có hai cách để tạo thư mục:
+1. Chạm biểu tượng thư mục ở góc trên bên phải, và sau đó chạm dấu cộng.
+2. Chạm giữ ghi chú đến khi menu pop-up xuất hiện, và chọn \"Chuyển đến\" - \"Thư mục mới\"."</item>
+        <item>"Ẩn ghi chú
+Bảo vệ ghi chú cá nhân bằng mật khẩu.
+Có hai cách để ẩn ghi chú:
+1. Chạm phím \"Thêm\" ở góc trên bên phải của ghi chú, và chọn \"Ẩn\".
+2. Chạm giữ ghi chú đến khi menu pop-up xuất hiện, và chọn \"Ẩn\"."</item>
+        <item>"Và thêm nhiều tính năng tuyệt vời!
+  - Hình ảnh, bản liệt kê, nhắc nhở.
+
+Thêm ảnh
+Chạm biểu tượng ảnh ở phía dưới để thêm ảnh.
+Bạn có thể chụp ảnh hoặc chọn ảnh từ Thư viện.
+Khi ghi chú có ảnh bên trong, hình ảnh này sẽ được thu nhỏ và hiển thị trên trang chính ghi chú khi ở chế độ xem dạng lưới.
+
+Tạo bản liệt kê
+Hộp chọn là yếu tố cần thiết để tạo danh sách các việc cần làm.
+Chạm vào biểu tượng hộp chọn ở phía dưới ghi chú để thêm hộp chọn vào đoạn văn bản.
+Đánh dấu vào hộp khi việc đã thực hiện xong.
+
+Đặt nhắc nhở
+Đặt nhắc nhở trực tiếp từ ghi chú.
+Chạm \"Thêm\" ở góc trên bên phải của ghi chú, chọn \"Nhắc nhở\", đặt thời gian.
+"</item>
+    </string-array>
+	<string-array name="first_guide_contents">
+        <item>Chào mừng sử dụng Ghi chú!</item>
+        <item>Tạo ghi chú</item>
+        <item>Bạn có thể sử dụng văn bản, ảnh, và ghi âm giọng nói trong ghi chú của bạn. Một thư viện phong phú về kiểu chữ và phông chữ sẽ làm cho những nét vẽ nguệch ngoạc của bạn trông tuyệt đẹp.</item>
+        <item>Checklist và Nhắc nhở tới để giúp khi bạn cần công cụ cơ bản và hiệu quả để lập kế hoạch cho chuyến đi tiếp theo hoặc lên một danh sách tạp hóa.</item>
+        <item>Chia sẻ ghi chú</item>
+        <item>Bạn có thể chụp ảnh màn hình cuộn trong Ghi chú tự động, và chia sẻ với bạn bè</item>
+        <item>Tạo &amp; chuyển giữa các thư mục</item>
+        <item>Nhấn vào mũi tên bên dưới để tạo thư mục mới hoặc chuyển giữa các thư mục đã có.</item>
+    </string-array>
+
+	<string-array name="second_guide_contents">
+        <item>Ghi chú bằng giọng nói</item>
+        <item>Tạo ghi chú giọng nói bằng công cụ chuyển giọng nói thành văn bản tích hợp, đính kèm ghi âm vào ghi chú.</item>
+    </string-array>
+    <string-array name="second_guide_contents_pad_or_inter">
+        <item>Ghi chú bằng giọng nói</item>
+        <item>Bạn có thể tạo ghi chú bằng giọng nói ngay bây giờ. Chỉ cần nhấn vào biểu tượng, ghi âm lại, và lưu tệp âm thanh lại trong ghi chú của bạn.</item>
+    </string-array>
+ 
+</resources>

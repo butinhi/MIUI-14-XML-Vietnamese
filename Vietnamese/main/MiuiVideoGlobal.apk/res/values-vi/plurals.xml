@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="subtitle_offset_advance_times">
+        <item quantity="other">Phụ đề về trước %.1f giây</item>
+    </plurals>
+    <plurals name="subtitle_offset_delay_times">
+        <item quantity="other">Phụ đề trễ %.1f giây</item>
+    </plurals>
+    <plurals name="subtitle_onlinesub_size_float_kb">
+        <item quantity="other">Kích thước: %.2fKB</item>
+    </plurals>
+    <plurals name="v_video_count">
+        <item quantity="other">%d video</item>
+    </plurals>
+	<plurals name="subscriber">
+		<item quantity="other">"%s người đăng ký"</item>
+	</plurals>
+	<plurals name="lv_subtitle_offset_advance_times">
+		<item quantity="other">Phụ đề sẽ được hiển thị sớm hơn %.1f giây</item>
+	</plurals>
+	<plurals name="lv_subtitle_offset_delay_times">
+		<item quantity="other">Phụ đề sẽ được hiển thị muộn hơn %.1f giây</item>
+	</plurals>
+	<plurals name="lv_subtitle_onlinesub_size_float_kb">
+		<item quantity="other">Kích thước: %.2fKB</item>
+	</plurals>
+	<plurals name="lv_video_count">
+		<item quantity="other">%d video</item>
+	</plurals>
+	<plurals name="ovp_detail_v_video_count">
+		<item quantity="other">%d video</item>
+	</plurals>
+	<plurals name="ovp_home_item_unit">
+		<item quantity="other">%d video</item>
+	</plurals>
+	<plurals name="pw_comment_count">
+		<item quantity="other">%d bình luận</item>
+	</plurals>
+	<plurals name="pw_comment_sub_count">
+		<item quantity="other">%d câu trả lời</item>
+	</plurals>
+	<plurals name="pw_comment_view_all_comment">
+		<item quantity="other">Xem tất cả %d bình luận</item>
+	</plurals>
+	<plurals name="plus_search_result_title">
+		<item quantity="other">%2$s kết quả cho \"%1$s\"</item>
+	</plurals>
+	<plurals name="plus_player_subtitle_online_size">
+		<item quantity="other">Kích thước tệp: %.2fKB</item>
+	</plurals>
+	<plurals name="plus_serval_pictures">
+		<item quantity="other">%d ảnh</item>
+	</plurals>
+	<plurals name="plus_serval_videos">
+		<item quantity="other">%d video</item>
+	</plurals>
+	<plurals name="plus_edit_top_titletext">
+		<item quantity="other">Đã chọn %s mục</item>
+	</plurals>
+	<plurals name="plus_edit_delete_comfire_text">
+		<item quantity="other">Xóa %s mục ngay?</item>
+	</plurals>
+	<plurals name="feed_back_home">
+		<item quantity="other">Quay lại trang chủ trong %1$d giây…</item>
+	</plurals>
+	<plurals name="notice_user_banned">
+		<item quantity="other">Nội dung của bạn chứa các mục (%1$s) vi phạm tiêu chuẩn cộng đồng của chúng tôi. Tài khoản của bạn đã bị khóa %2$d ngày cho đến %3$s.</item>
+	</plurals>
+	<plurals name="comment_model_watch_reply">
+		<item quantity="other">Xem %d phản hồi</item>
+	</plurals>
+</resources>

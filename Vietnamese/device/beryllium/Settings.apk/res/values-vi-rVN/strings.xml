@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <string name="battery_summary">%1$s sử dụng từ lần sạc cuối cùng</string>
+  <string name="app_permissions_summary">Ứng dụng đang sử dụng %1$s</string>
+  <string name="bluetooth_ask_enablement_and_discovery">%1$s muốn bật Bluetooth và đặt điện thoại của bạn ở chế độ hiển thị với các thiết bị khác trong %1$d giây.</string>
+  <string name="bluetooth_ask_enablement_and_lasting_discovery">%1$s muốn bật Bluetooth và đặt điện thoại của bạn ở chế độ hiển thị với các thiết bị khác. Bạn có thể thay đổi cài đặt này sau trong cài đặt Bluetooth.</string>
+		<string name="location_on_summary">BẬT / %1$s</string>
+</resources>

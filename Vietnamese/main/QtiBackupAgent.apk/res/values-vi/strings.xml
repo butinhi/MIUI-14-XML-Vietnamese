@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Đại lý sao lưu</string>
+    <string name="action_settings">Cài đặt</string>
+    <string name="backup_sms_mms">Sao lưu SMS/MMS</string>
+    <string name="backup_contacts">Sao lưu danh bạ</string>
+</resources>

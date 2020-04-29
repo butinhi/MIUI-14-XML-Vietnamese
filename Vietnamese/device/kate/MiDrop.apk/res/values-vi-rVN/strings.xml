@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+	<string name="j_">"Giới thiệu phiên bản %1$s
+Kích thước: %2$s"</string>
+	<string name="ja">"Giới thiệu phiên bản %1$s
+Kích thước cập nhật Delta: %2$s"</string>
+	<string name="jb">%1$s cập nhật!</string>
+</resources>

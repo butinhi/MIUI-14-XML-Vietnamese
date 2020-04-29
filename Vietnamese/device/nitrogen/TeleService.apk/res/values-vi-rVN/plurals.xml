@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<resources>
+	<plurals name="auto_answer_summary_delay">
+		<item quantity="other">Trễ: %s giây</item>
+	</plurals>
+</resources>

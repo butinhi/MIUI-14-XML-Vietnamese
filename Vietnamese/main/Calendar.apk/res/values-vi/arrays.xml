@@ -1,0 +1,684 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="change_response_labels">
+        <item>Chỉ sự kiện này</item>
+        <item>Tất cả sự kiện trong hàng loạt sự kiện</item>
+    </string-array>
+    <string-array name="delete_repeating_labels">
+        <item>Chỉ sự kiện này</item>
+        <item>Sự kiện này và các sự kiện trong tương lai</item>
+        <item>Tất cả sự kiện</item>
+    </string-array>
+    <string-array name="ordinal_labels">
+        <item>đầu tiên</item>
+        <item>thứ hai</item>
+        <item>thứ ba</item>
+        <item>thứ tư</item>
+        <item>cuối cùng</item>
+    </string-array>
+    <string-array name="prefEntries_alerts_vibrateWhen">
+        <item>Luôn luôn</item>
+        <item>Chỉ khi ở chế độ im lặng</item>
+        <item>Không bao giờ</item>
+    </string-array>
+    <string-array name="preferences_week_start_day_labels">
+        <item>Theo địa phương</item>
+        <item>Thứ bảy</item>
+        <item>Chủ nhật</item>
+        <item>Thứ hai</item>
+    </string-array>
+    <string-array name="response_labels1">
+        <item>Không có phản hồi</item>
+        <item>Có</item>
+        <item>Có thể</item>
+        <item>Không</item>
+    </string-array>
+    <string-array name="timezone_labels">
+        <item>Quần đảo Marshall</item>
+        <item>Quần đảo Midway</item>
+        <item>Hawaii</item>
+        <item>Alaska</item>
+        <item>Thái Bình Dương</item>
+        <item>Tijuana</item>
+        <item>Arizona</item>
+        <item>Chihuahua</item>
+        <item>Múi giờ miền núi (MT)</item>
+        <item>Trung Mỹ</item>
+        <item>Giờ Trung Tâm</item>
+        <item>Mexico City</item>
+        <item>Saskatchewan</item>
+        <item>Bogota</item>
+        <item>Múi giờ miền đông (ET)</item>
+        <item>Venezuela</item>
+        <item>Múi giờ Đại Tây Dương (Barbados)</item>
+        <item>Múi giờ Đại Tây Dương (Canada)</item>
+        <item>Manaus</item>
+        <item>Santiago</item>
+        <item>Newfoundland</item>
+        <item>Brasilia</item>
+        <item>Buenos Aires</item>
+        <item>Greenland</item>
+        <item>Montevideo</item>
+        <item>Trung - Đại Tây Dương</item>
+        <item>Azores</item>
+        <item>Quần đảo Cape Verde</item>
+        <item>Casablanca</item>
+        <item>Luân Đôn, Dublin</item>
+        <item>Amsterdam, Berlin</item>
+        <item>Belgrade</item>
+        <item>Brussels</item>
+        <item>Sarajevo</item>
+        <item>Windhoek</item>
+        <item>Tây Phi</item>
+        <item>Amman, Jordan</item>
+        <item>Athens, Istanbul</item>
+        <item>Beirut, Lebanon</item>
+        <item>Cairo</item>
+        <item>Helsinki</item>
+        <item>Jerusalem</item>
+        <item>Minsk</item>
+        <item>Harare</item>
+        <item>Baghdad</item>
+        <item>Moscow</item>
+        <item>Kuwait</item>
+        <item>Nairobi</item>
+        <item>Tehran</item>
+        <item>Baku</item>
+        <item>Tbilisi</item>
+        <item>Yerevan</item>
+        <item>Dubai</item>
+        <item>Kabul</item>
+        <item>Islamabad, Karachi</item>
+        <item>"Ural'sk"</item>
+        <item>Yekaterinburg</item>
+        <item>Kolkata</item>
+        <item>Sri Lanka</item>
+        <item>Kathmandu</item>
+        <item>Astana</item>
+        <item>Yangon</item>
+        <item>Krasnoyarsk</item>
+        <item>Bangkok</item>
+        <item>Bắc Kinh</item>
+        <item>Hồng Kông</item>
+        <item>Irkutsk</item>
+        <item>Kuala Lumpur</item>
+        <item>Perth</item>
+        <item>Đài Bắc</item>
+        <item>Seoul</item>
+        <item>Tokyo, Osaka</item>
+        <item>Yakutsk</item>
+        <item>Adelaide</item>
+        <item>Darwin</item>
+        <item>Brisbane</item>
+        <item>Hobart</item>
+        <item>Sydney, Canberra</item>
+        <item>Vladivostok</item>
+        <item>Guam</item>
+        <item>Magadan</item>
+        <item>Auckland</item>
+        <item>Fiji</item>
+        <item>Tonga</item>
+    </string-array>
+    <string-array name="aquarius_info">
+        <item>aquarius</item>
+        <item>Cung Bảo Bình</item>
+        <item>20/01 - 18/2</item>
+    </string-array>
+    <string-array name="aries_info">
+        <item>cung bạch dương</item>
+        <item>Cung Bạch Dương</item>
+        <item>21/03-19/04</item>
+    </string-array>
+    <string-array name="cancer_info">
+        <item>cung cự giải</item>
+        <item>Cung Cự Giải</item>
+        <item>22/06 - 22/07</item>
+    </string-array>
+    <string-array name="capricorn_info">
+        <item>capricorn</item>
+        <item>Cung Ma Kết</item>
+        <item>22/12 - 19/01</item>
+    </string-array>
+    <string-array name="date_calculate_spinner">
+        <item>Về trước</item>
+        <item>Về sau</item>
+    </string-array>
+    <string-array name="default_reminder_labels">
+        <item>Vào thời gian sự kiện</item>
+        <item>Trước 5 phút</item>
+        <item>Trước 10 phút</item>
+        <item>Trước 15 phút</item>
+        <item>Trước 30 phút</item>
+        <item>Trước 1 giờ</item>
+        <item>Trước 1 ngày</item>
+        <item>Trước 2 ngày</item>
+        <item>Trước 1 tuần</item>
+    </string-array>
+    <string-array name="gemini_info">
+        <item>cung song tử</item>
+        <item>Cung Song Tử</item>
+        <item>21/05 - 21/06</item>
+    </string-array>
+    <string-array name="leo_info">
+        <item>cung sư tử</item>
+        <item>Cung Sư Tử</item>
+        <item>23/07 - 22/08</item>
+    </string-array>
+    <string-array name="libra_info">
+        <item>cung thiên bình</item>
+        <item>Cung Thiên Bình</item>
+        <item>23/09 - 23/10</item>
+    </string-array>
+    <string-array name="pisces_info">
+        <item>pisces</item>
+        <item>Cung Song Ngư</item>
+        <item>19/2 - 20/03</item>
+    </string-array>
+    <string-array name="repeat_choose_day">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+        <item>13</item>
+        <item>14</item>
+        <item>15</item>
+        <item>16</item>
+        <item>17</item>
+        <item>18</item>
+        <item>19</item>
+        <item>20</item>
+        <item>21</item>
+        <item>22</item>
+        <item>23</item>
+        <item>24</item>
+        <item>25</item>
+        <item>26</item>
+        <item>27</item>
+        <item>28</item>
+        <item>29</item>
+        <item>30</item>
+        <item>31</item>
+    </string-array>
+    <string-array name="repeat_choose_end">
+        <item>Không bao giờ</item>
+        <item>Thời gian</item>
+        <item>Số lần</item>
+    </string-array>
+    <string-array name="repeat_choose_month">
+        <item>Thg 1</item>
+        <item>Thg 2</item>
+        <item>Thg 3</item>
+        <item>Thg 4</item>
+        <item>Thg 5</item>
+        <item>Thg 6</item>
+        <item>Thg 7</item>
+        <item>Thg 8</item>
+        <item>Thg 9</item>
+        <item>Thg 10</item>
+        <item>Thg 11</item>
+        <item>Thg 12</item>
+    </string-array>
+    <string-array name="repeat_choose_week_left">
+        <item>lần thứ nhất</item>
+        <item>lần thứ 2</item>
+        <item>lần thứ 3</item>
+        <item>lần thứ 4</item>
+        <item>lần cuối</item>
+    </string-array>
+    <string-array name="repeat_choose_week_right">
+        <item>Thứ hai - Thứ sáu</item>
+        <item>Cuối tuần</item>
+        <item>Cả tuần</item>
+    </string-array>
+    <string-array name="repeat_choose_weekday">
+        <item>Th 2</item>
+        <item>Th 3</item>
+        <item>Th 4</item>
+        <item>Th 5</item>
+        <item>Th 6</item>
+        <item>Th 7</item>
+        <item>CN</item>
+    </string-array>
+    <string-array name="repeat_countdown">
+        <item>Không bao giờ</item>
+        <item>Hàng tháng</item>
+        <item>Hàng năm</item>
+    </string-array>
+    <string-array name="repeat_frequency_spinner">
+        <item>ngày</item>
+        <item>tuần</item>
+        <item>tháng</item>
+        <item>năm</item>
+    </string-array>
+    <string-array name="sagittarius_info">
+        <item>cung nhân mã</item>
+        <item>Cung Nhân Mã</item>
+        <item>23/11 - 21/12</item>
+    </string-array>
+    <string-array name="scorpio_info">
+        <item>cung bọ cạp</item>
+        <item>Cung Bọ Cạp</item>
+        <item>24/10 - 22/11</item>
+    </string-array>
+    <string-array name="taurus_info">
+        <item>cung kim ngưu</item>
+        <item>Cung Kim Ngưu</item>
+        <item>20/04 - 20/05</item>
+    </string-array>
+    <string-array name="travel_reminder_minutes_labels">
+        <item>3 giờ trước</item>
+        <item>4 giờ trước</item>
+        <item>5 giờ trước</item>
+        <item>6 giờ trước</item>
+        <item>1 ngày trước</item>
+    </string-array>
+    <string-array name="virgo_info">
+        <item>cung xử nữ</item>
+        <item>Cung Xử Nữ</item>
+        <item>23/08 - 22/09</item>
+    </string-array>
+    <string-array name="week_header_name">
+        <item>CN</item>
+        <item>T2</item>
+        <item>T3</item>
+        <item>T4</item>
+        <item>T5</item>
+        <item>T6</item>
+        <item>T7</item>
+    </string-array>
+    <string-array name="widget_style_list">
+        <item>Trong suốt</item>
+        <item>Nền trắng</item>
+    </string-array>
+    <string-array name="fortune_gender">
+        <item>Nam</item>
+        <item>Nữ</item>
+    </string-array>
+    <string-array name="availability">
+        <item>Bận</item>
+        <item>Có thể</item>
+        <item>Chưa biết</item>
+    </string-array>
+    <string-array name="buttons_list">
+        <item>Ngày</item>
+        <item>Tuần</item>
+        <item>Tháng</item>
+        <item>Lịch biểu</item>
+    </string-array>
+    <string-array name="delete_repeating_labels_no_selected">
+        <item>Sự kiện này &amp; các sự kiện trong tương lai</item>
+        <item>Tất cả sự kiện</item>
+    </string-array>
+    <string-array name="preferences_default_reminder_labels">
+        <item>Không nhắc nhở</item>
+        <item>Vào thời gian sự kiện</item>
+        <item>Trước 1 phút</item>
+        <item>Trước 5 phút</item>
+        <item>Trước 10 phút</item>
+        <item>Trước 15 phút</item>
+        <item>Trước 20 phút</item>
+        <item>Trước 25 phút</item>
+        <item>Trước 30 phút</item>
+        <item>Trước 45 phút</item>
+        <item>Trước 1 giờ</item>
+        <item>Trước 2 giờ</item>
+        <item>Trước 3 giờ</item>
+        <item>Trước 12 giờ</item>
+        <item>Trước 1 ngày</item>
+        <item>Trước 2 ngày</item>
+        <item>Trước 1 tuần</item>
+    </string-array>
+    <string-array name="quick_response_defaults">
+        <item>Đang chạy chỉ muộn vài phút.</item>
+        <item>Sẽ ở đó sau khoảng 10 phút.</item>
+        <item>Hãy tiến hành và bắt đầu mà không có tôi.</item>
+        <item>Rất tiếc, tôi không thu xếp được. Chúng ta phải lên lịch lại.</item>
+    </string-array>
+    <string-array name="reminder_methods_labels">
+        <item>Thông báo</item>
+        <item>Email</item>
+        <item>SMS</item>
+        <item>Báo thức</item>
+    </string-array>
+    <string-array name="reminder_minutes_labels">
+        <item>Vào thời gian sự kiện</item>
+        <item>Trước 1 phút</item>
+        <item>Trước 5 phút</item>
+        <item>Trước 10 phút</item>
+        <item>Trước 15 phút</item>
+        <item>Trước 20 phút</item>
+        <item>Trước 25 phút</item>
+        <item>Trước 30 phút</item>
+        <item>Trước 45 phút</item>
+        <item>Trước 1 giờ</item>
+        <item>Trước 2 giờ</item>
+        <item>Trước 3 giờ</item>
+        <item>Trước 12 giờ</item>
+        <item>Trước 1 ngày</item>
+        <item>Trước 2 ngày</item>
+        <item>Trước 1 tuần</item>
+    </string-array>
+    <string-array name="visibility">
+        <item>Mặc định</item>
+        <item>Riêng tư</item>
+        <item>Công khai</item>
+    </string-array>
+    <string-array name="repeat_frequency_spinner_plural">
+        <item>ngày</item>
+        <item>tuần</item>
+        <item>tháng</item>
+        <item>năm</item>
+    </string-array>
+    <string-array name="miui_preferences_default_reminder_labels">
+        <item>Không nhắc nhở</item>
+        <item>Vào thời gian sự kiện</item>
+        <item>Trước 5 phút</item>
+        <item>Trước 10 phút</item>
+        <item>Trước 15 phút</item>
+        <item>Trước 30 phút</item>
+        <item>Trước 1 giờ</item>
+        <item>Trước 1 ngày</item>
+        <item>Trước 2 ngày</item>
+        <item>Trước 1 tuần</item>
+    </string-array>
+    <string-array name="miui_reminder_minutes_labels">
+        <item>Không nhắc nhở</item>
+        <item>Vào thời gian sự kiện</item>
+        <item>Trước 5 phút</item>
+        <item>Trước 10 phút</item>
+        <item>Trước 15 phút</item>
+        <item>Trước 30 phút</item>
+        <item>Trước 1 giờ</item>
+        <item>Trước 1 ngày</item>
+        <item>Trước 2 ngày</item>
+        <item>Trước 1 tuần</item>
+    </string-array>
+    <string-array name="online_reminder_minutes_labels">
+        <item>Vào thời gian sự kiện</item>
+        <item>Trước 5 phút</item>
+        <item>Trước 10 phút</item>
+        <item>Trước 15 phút</item>
+        <item>Trước 30 phút</item>
+        <item>Trước 1 giờ</item>
+        <item>Trước 1 ngày</item>
+        <item>Trước 2 ngày</item>
+        <item>Trước 1 tuần</item>
+    </string-array>
+    <string-array name="online_reminder_minutes_labels_allday">
+        <item>9:00SA hôm đó</item>
+        <item>9:00SA hôm qua</item>
+        <item>9:00SA - 2 ngày trước</item>
+        <item>9:00SA - 3 ngày trước</item>
+        <item>9:00SA - 1 tuần tước</item>
+    </string-array>
+	<string-array name="edit_event_dislike">
+        <item>Không có loại sự kiện tôi muốn tạo</item>
+        <item>Quá nhiều cài đặt, không muốn điền vào</item>
+        <item>Một vài thông tin thiết lập không thể xác định</item>
+        <item>Cần xem lại</item>
+        <item>Không nói</item>
+    </string-array>
+	<string-array name="di_zhi">
+        <item>"Giáp "</item>
+        <item>"Ất "</item>
+        <item>"Bính "</item>
+        <item>"Đinh "</item>
+        <item>"Mậu "</item>
+        <item>"Kỷ "</item>
+        <item>"Canh "</item>
+		<item>"Tân "</item>
+        <item>"Nhâm "</item>
+        <item>"Quý "</item>
+    </string-array>
+	<string-array name="tian_gan">
+        <item>Tý</item>
+        <item>Sửu</item>
+        <item>Dần</item>
+        <item>Mão</item>
+        <item>Thìn</item>
+        <item>Tỵ</item>
+        <item>Ngọ</item>
+        <item>Mùi</item>
+        <item>Thân</item>
+        <item>Dậu</item>
+        <item>Tuất</item>
+        <item>Hợi</item>
+    </string-array>
+	<string-array name="jia_zi">
+        <item>Giáp Tý</item>
+        <item>Ất Sửu</item>
+        <item>Bính Dần</item>
+        <item>Đinh Mão</item>
+        <item>Mậu Thìn</item>
+        <item>Kỷ Tỵ</item>
+        <item>Canh Ngọ</item>
+        <item>Quý Mùi</item>
+        <item>Nhâm Thân</item>
+        <item>Quý Dậu</item>
+        <item>Giáp Tuất</item>
+        <item>Ất Hợi</item>
+        <item>Bính Tý</item>
+        <item>Đinh Sửu</item>
+        <item>Mậu Dần</item>
+        <item>Kỷ Mão</item>
+        <item>Canh Thìn</item>
+        <item>Quý Tỵ</item>
+        <item>Nhâm Ngọ</item>
+        <item>Quý Mùi</item>
+        <item>Giáp Thân</item>
+        <item>Ất Dậu</item>
+        <item>Bính Tuất</item>
+        <item>Đinh Hợi</item>
+        <item>Mậu Tý</item>
+        <item>Kỷ Sửu</item>
+        <item>Canh Dần</item>
+        <item>Quý Mão</item>
+        <item>Nhâm Thìn</item>
+        <item>Quý Tỵ</item>
+        <item>Giáp Ngọ</item>
+        <item>Ất Mùi</item>
+        <item>Bính Thân</item>
+        <item>Đinh Dậu</item>
+        <item>Mậu Tuất</item>
+        <item>Kỷ Hợi</item>
+        <item>Canh Tý</item>
+        <item>Quý Sửu</item>
+        <item>Nhâm Dần</item>
+        <item>Quý Mão</item>
+        <item>Giáp Thìn</item>
+        <item>Ất Tỵ</item>
+        <item>Bính Ngọ</item>
+        <item>Đinh Mùi</item>
+        <item>Mậu Thân</item>
+        <item>Kỷ Dậu</item>
+        <item>Canh Tuất</item>
+        <item>Quý Hợi</item>
+        <item>Nhâm Tý</item>
+        <item>Quý Sửu</item>
+        <item>Giáp Dần</item>
+        <item>Ất Mão</item>
+        <item>Bính Thìn</item>
+        <item>Đinh Tỵ</item>
+        <item>Mậu Ngọ</item>
+        <item>Kỷ Mùi</item>
+        <item>Canh Thân</item>
+        <item>Quý Dậu</item>
+        <item>Nhâm Tuất</item>
+        <item>Quý Hợi</item>
+    </string-array>
+	<string-array name="aqi_level_simple_desc">
+        <item>Tuyệt vời</item>
+        <item>Tốt</item>
+        <item>Nhẹ</item>
+        <item>Trung bình</item>
+        <item>Nặng</item>
+        <item>Nghiêm trọng</item>
+    </string-array>
+	<string-array name="entryvalues_settings_debug">
+        <item>Không</item>
+        <item>Xuất và gửi nhật ký</item>
+        <item>Tạo nhật ký và lưu vào tập tin</item>
+        <item>Xem ID thiết bị thống kê</item>
+		<item>Cập nhật cấu hình máy chủ tức thì</item>
+    </string-array>
+	<string-array name="fortune_random_name">
+        <item>Wang Wei</item>
+        <item>Li Dong</item>
+        <item>Sun Hui</item>
+        <item>Li Jun</item>
+        <item>Zhou Yong</item>
+        <item>Zheng Jian</item>
+        <item>Huang Hai</item>
+        <item>Zheng Feifei</item>
+        <item>Cheng Jie</item>
+        <item>Song Xiaobao</item>
+        <item>Guo Degang</item>
+    </string-array>
+	<string-array name="preferences_skip_reminders_labels">
+		<item>Chỉ khi bị từ chối</item>
+		<item>Khi bị từ chối hoặc không phản hồi</item>
+	</string-array>
+	<string-array name="repeat_by_nth_sun">
+		<item>Vào mỗi Chủ nhật đầu tiên</item>
+		<item>Vào mỗi Chủ nhật lần thứ hai</item>
+		<item>Vào mỗi Chủ nhật lần thứ ba</item>
+		<item>Vào mỗi Chủ nhật lần thứ tư</item>
+		<item>Vào mỗi Chủ nhật cuối cùng</item>
+	</string-array>
+	<string-array name="repeat_by_nth_mon">
+		<item>Vào mỗi Thứ hai đầu tiên</item>
+		<item>Vào mỗi Thứ hai lần thứ hai</item>
+		<item>Vào mỗi Thứ hai lần thứ ba</item>
+		<item>Vào mỗi Thứ hai lần thứ tư</item>
+		<item>Vào mỗi Thứ hai cuối cùng</item>
+	</string-array>
+	<string-array name="repeat_by_nth_tues">
+		<item>Vào mỗi Thứ ba đầu tiên</item>
+		<item>Vào mỗi Thứ ba lần thứ hai</item>
+		<item>Vào mỗi Thứ ba lần thứ ba</item>
+		<item>Vào mỗi Thứ ba lần thứ tư</item>
+		<item>Vào mỗi Thứ ba cuối cùng</item>
+	</string-array>
+	<string-array name="repeat_by_nth_wed">
+		<item>Vào mỗi Thứ tư đầu tiên</item>
+		<item>Vào mỗi Thứ tư lần thứ hai</item>
+		<item>Vào mỗi Thứ tư lần thứ ba</item>
+		<item>Vào mỗi Thứ tư lần thứ tư</item>
+		<item>Vào mỗi Thứ tư cuối cùng</item>
+	</string-array>
+	<string-array name="repeat_by_nth_thurs">
+		<item>Vào mỗi Thứ năm đầu tiên</item>
+		<item>Vào mỗi Thứ năm lần thứ hai</item>
+		<item>Vào mỗi Thứ năm lần thứ ba</item>
+		<item>Vào mỗi Thứ năm lần thứ tư</item>
+		<item>Vào mỗi Thứ năm cuối cùng</item>
+	</string-array>
+	<string-array name="repeat_by_nth_fri">
+		<item>Vào mỗi Thứ sáu đầu tiên</item>
+		<item>Vào mỗi Thứ sáu lần thứ hai</item>
+		<item>Vào mỗi Thứ sáu lần thứ ba</item>
+		<item>Vào mỗi Thứ sáu lần thứ tư</item>
+		<item>Vào mỗi Thứ sáu cuối cùng</item>
+	</string-array>
+	<string-array name="repeat_by_nth_sat">
+		<item>Vào mỗi Thứ bảy đầu tiên</item>
+		<item>Vào mỗi Thứ bảy lần thứ hai</item>
+		<item>Vào mỗi Thứ bảy lần thứ ba</item>
+		<item>Vào mỗi Thứ bảy lần thứ tư</item>
+		<item>Vào mỗi Thứ bảy cuối cùng</item>
+	</string-array>
+	<string-array name="default_reminder_later_time_labels">
+        <item>5 phút</item>
+        <item>10 phút</item>
+        <item>15 phút</item>
+        <item>30 phút</item>
+		<item>1 tiếng</item>
+    </string-array>
+	<string-array name="repeat_monthly_on_day_count_values">
+        <item>Thứ hai đầu tiên</item>
+        <item>Thứ ba đầu tiên</item>
+        <item>Thứ tư đầu tiên</item>
+        <item>Thứ năm đầu tiên</item>
+        <item>Thứ sáu đầu tiên</item>
+        <item>Thứ bảy đầu tiên</item>
+        <item>Chủ nhật đầu tiên</item>
+        <item>Thứ hai thứ hai</item>
+        <item>Thứ ba thứ hai</item>
+        <item>Thứ tư thứ hai</item>
+        <item>Thứ năm thứ hai</item>
+        <item>Thứ sáu thứ hai</item>
+        <item>Thứ bảy thứ hai</item>
+        <item>Chủ nhật thứ hai</item>
+        <item>Thứ hai thứ ba</item>
+        <item>Thứ ba thứ ba</item>
+        <item>Thứ tư thứ ba</item>
+        <item>Thứ năm thứ ba</item>
+        <item>Thứ sáu thứ ba</item>
+        <item>Thứ bảy thứ ba</item>
+        <item>Chủ nhật thứ ba</item>
+        <item>Thứ hai thứ tư</item>
+        <item>Thứ ba thứ tư</item>
+        <item>Thứ tư thứ tư</item>
+        <item>Thứ năm thứ tư</item>
+        <item>Thứ sáu thứ tư</item>
+        <item>Thứ bảy thứ tư</item>
+        <item>Chủ nhật thứ tư</item>
+        <item>Thứ hai cuối cùng</item>
+        <item>Thứ ba cuối cùng</item>
+        <item>Thứ tư cuối cùng</item>
+        <item>Thứ năm cuối cùng</item>
+        <item>Thứ sáu cuối cùng</item>
+        <item>Thứ bảy cuối cùng</item>
+        <item>Chủ nhật cuối cùng</item>
+    </string-array>
+	<string-array name="close_alarm_repeating_labels">
+		<item>Chỉ lần này</item>
+		<item>Tắt lời nhắc lặp lại</item>
+	</string-array>
+	<string-array name="open_alarm_repeating_labels">
+		<item>Chỉ lần này</item>
+		<item>Đặt lời nhắc lặp lại</item>
+	</string-array>
+	<string-array name="prefEntries_alerts_popup">
+		<item>Tắt</item>
+		<item>Cho tất cả sự kiện</item>
+		<item>Cho sự kiện liên quan nhất</item>
+	</string-array>
+	<string-array name="prefEntries_alerts_popup_new">
+		<item>Tắt</item>
+		<item>Cho tất cả sự kiện</item>
+		<item>Cho sự kiện nhạy cảm với thời gian</item>
+	</string-array>
+	<string-array name="response_labels2">
+		<item>"Không phản hồi"</item>
+		<item>Xác nhận</item>
+		<item>Quyết định sau</item>
+		<item>Từ chối</item>
+	</string-array>
+	<string-array name="panchang_weeks">
+        <item>Chủ nhật</item>
+        <item>Thứ hai</item>
+        <item>Thứ ba</item>
+        <item>Thứ tư</item>
+        <item>Thứ năm</item>
+        <item>Thứ sáu</item>
+        <item>Thứ bảy</item>
+     </string-array>
+	 <string-array name="week_array">
+		<item>Chủ nhật</item>
+		<item>Thứ hai</item>
+		<item>Thứ ba</item>
+		<item>Thứ tư</item>
+		<item>Thứ năm</item>
+		<item>Thứ sáu</item>
+		<item>Thứ bảy</item>
+	</string-array>
+</resources>

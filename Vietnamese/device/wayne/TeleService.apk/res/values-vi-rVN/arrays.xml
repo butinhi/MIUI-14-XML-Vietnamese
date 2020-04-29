@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+	<string-array name="bluetooth_a2dp_codec_summaries">
+		<item>Sử dụng lựa chọn hệ thống (Mặc định)</item>
+		<item>SBC</item>
+		<item>AAC</item>
+		<item>Qualcomm® aptX™ audio</item>
+		<item>Qualcomm® aptX™ HD audio</item>
+		<item>LDAC</item>
+		<item>Qualcomm® aptX™ Adaptive audio</item>
+		<item>Bật Codec Tùy chọn</item>
+		<item>Tắt Codec Tùy chọn</item>
+	</string-array>
+	<string-array name="bluetooth_a2dp_codec_titles">
+		<item>Sử dụng lựa chọn hệ thống (Mặc định)</item>
+		<item>SBC</item>
+		<item>AAC</item>
+		<item>Qualcomm® aptX™ audio</item>
+		<item>Qualcomm® aptX™ HD audio</item>
+		<item>LDAC</item>
+		<item>Qualcomm® aptX™ Adaptive audio</item>
+		<item>Bật Codec Tùy chọn</item>
+		<item>Tắt Codec Tùy chọn</item>
+	</string-array>
+</resources>

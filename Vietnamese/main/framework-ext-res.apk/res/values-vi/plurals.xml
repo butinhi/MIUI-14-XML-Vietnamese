@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<resources>
+	<plurals name="file_type_detail_count">
+		<item quantity="other">%1$d tệp tin</item>
+	</plurals>
+</resources>

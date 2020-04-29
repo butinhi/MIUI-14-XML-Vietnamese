@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="app_name">Thông báo</string>
+	<string name="default_list_type">Sắp xếp theo thời gian nhận</string>
+	<string name="disable_float_notification">"Thông báo nổi không được cho phép"</string>
+	<string name="disable_lockscreen_notification">"Thông báo màn hình khóa không được cho phép"</string>
+	<string name="disable_show_badge_notification">"Nhãn thông báo không được cho phép"</string>
+	<string name="enable_float_notification">Thông báo nổi được cho phép</string>
+	<string name="enable_lockscreen_notification">Thông báo màn hình khóa được cho phép</string>
+	<string name="enable_show_badge_notification">Nhãn thông báo được cho phép</string>
+	<string name="expandable_under_keyguard">Mở Bảng thông báo trên Màn hình khóa</string>
+	<string name="float_notifications">Thông báo nổi</string>
+	<string name="hint_search_all">Tìm kiếm ứng dụng</string>
+	<string name="hint_search_in_disabled_apps">"Tìm ứng dụng không thể hiển thị thông báo"</string>
+	<string name="hint_search_in_enabled_apps">Tìm ứng dụng có thể hiển thị thông báo</string>
+	<string name="list_title_disable_notification">"Không cho phép thông báo"</string>
+	<string name="loading">Chỉ vài giây…</string>
+	<string name="lock_screen_display_rules">Định dạng</string>
+	<string name="lock_screen_tip_toast">Cho phép thông báo Màn hình khóa trong \"Định dạng\"</string>
+	<string name="lockscreen_notifications">Thông báo màn hình khóa</string>
+	<string name="not_sent_recently">Không phải gần đây</string>
+	<string name="notch_and_status_bar_setting">Tai thỏ &amp; thanh trạng thái</string>
+	<string name="notification_display_setting">Bảng thông báo</string>
+	<string name="notification_display_style">Kiểu thông báo</string>
+	<string name="notification_fold_summary">Tất cả thông báo không quan trọng sẽ xuất hiện trong thư mục riêng</string>
+	<string name="notification_fold_title">Thư mục thông báo</string>
+	<string name="notification_manager">Thông báo ứng dụng</string>
+	<string name="notification_style_android">Android</string>
+	<string name="notification_style_miui">MIUI</string>
+	<string name="off">Tắt</string>
+	<string name="on">Bật</string>
+	<string name="settings_guide_title">Cần thêm cài đặt?</string>
+	<string name="show_badge_notifications">Nhãn thông báo</string>
+	<string name="status_bar_setting">Thanh trạng thái</string>
+	<string name="summary_disable_float_notification">"Thông báo nổi không được cho phép"</string>
+	<string name="summary_disable_lockscreen_notification">"Thông báo màn hình khóa không được cho phép"</string>
+	<string name="summary_disable_show_badge_notification">"Nhãn thông báo không được cho phép"</string>
+	<string name="summary_enable_float_notification">Thông báo nổi được cho phép</string>
+	<string name="summary_enable_lockscreen_notification">Thông báo màn hình khóa được cho phép</string>
+	<string name="summary_enable_show_badge_notification">Nhãn thông báo được cho phép</string>
+	<string name="summary_float_enable_notification_first">Cho phép thông báo để có thể bật thông báo nổi</string>
+	<string name="summary_lock_screen_enable_notification_first">Cho phép thông báo để có thể bật thông báo màn hình khóa</string>
+	<string name="summary_show_badge_enable_notification_first">Cho phép thông báo để có thể bật nhãn thông báo</string>
+	<string name="expand_top_notification">Mở rộng thông báo trên cùng</string>
+	<string name="last_sent_time_second">Vừa xong</string>
+</resources>

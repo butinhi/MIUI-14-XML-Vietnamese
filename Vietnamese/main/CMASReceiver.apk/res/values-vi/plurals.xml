@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="message_view_selected_message_count">
+        <item quantity="other">Đã chọn %d</item>
+        <item quantity="one">Đã chọn %d</item>
+    </plurals>
+    <plurals name="confirm_delete_broadcast">
+        <item quantity="other">%1$s cảnh báo vừa chọn sẽ bị xóa</item>
+        <item quantity="one">1 cảnh báo vừa chọn sẽ bị xóa</item>
+    </plurals>
+</resources>

@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+	<string-array name="ai_scene_names">
+        <item>Khoảng không</item>
+        <item>Tài liệu</item>
+        <item>Hoa</item>
+        <item>Thực phẩm</item>
+        <item>Ppt</item>
+        <item>Bầu trời</item>
+        <item>Hoàng hôn mặt trời</item>
+        <item>Mèo</item>
+        <item>Chó</item>
+        <item>Cây xanh</item>
+        <item>Cảnh đêm</item>
+        <item>Cảnh tuyết rơi</item>
+        <item>Bên bờ biển</item>
+        <item>Mùa thu</item>
+        <item>Dưới ánh nến</item>
+        <item>Xe</item>
+        <item>Đồng cỏ</item>
+        <item>Lá phong</item>
+        <item>Thịt</item>
+        <item>Tòa nhà</item>
+        <item>Thành phố</item>
+        <item>Mây</item>
+        <item>Ngày nhiều mây</item>
+        <item>Chân dung đèn nền</item>
+        <item>Hình bóng</item>
+        <item>Chân dung</item>
+        <item>Trang sức</item>
+        <item>Hình ảnh Phật</item>
+        <item>Bò</item>
+        <item>Cà ri</item>
+        <item>Xe máy</item>
+        <item>Đền</item>
+        <item>Bãi biển</item>
+        <item>Dưới nước</item>
+    </string-array>
+</resources>

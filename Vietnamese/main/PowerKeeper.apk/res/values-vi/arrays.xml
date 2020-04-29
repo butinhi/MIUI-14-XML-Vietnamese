@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="hmode_app_groups">
+        <item>Tùy chỉnh</item>
+        <item>Tiết kiệm Pin</item>
+    </string-array>
+    <string-array name="thermal_entries">
+        <item>Chế độ điều khiển nhiệt độ mặc định</item>
+        <item>Chế độ hiệu suất</item>
+    </string-array>
+    <string-array name="thermal_summaries">
+        <item>Chế độ điều khiển nhiệt độ hiện tại</item>
+        <item>Chế độ hiệu suất hiện tại</item>
+		<item>Không hỗ trợ trong chế độ Siêu tiết kiệm pin</item>
+    </string-array>
+    <string-array name="power_mode_entries">
+        <item>Hiệu suất</item>
+        <item>Cân bằng</item>
+    </string-array>
+    <string-array name="group_name_translate">
+        <item>Mặc định</item>
+        <item>Chế độ Ẩn</item>
+        <item>Chế độ đọc</item>
+        <item>Chế độ phương tiện</item>
+    </string-array>
+    <string-array name="event_name_translate">
+        <item>Ứng dụng đang chạy trong nền trước</item>
+        <item>Màn hình bật</item>
+        <item>Màn hình tắt</item>
+        <item>Màn hình tắt quá 10 phút</item>
+        <item>Toàn màn hình</item>
+        <item>Thoát toàn màn hình</item>
+        <item>Ứng dụng đang chạy trong nền</item>
+        <item>Điện thoại đang được sạc</item>
+        <item>Điện thoại không được sạc</item>
+        <item>Điện thoại trạng thái chờ</item>
+    </string-array>
+    <string-array name="action_name_translate">
+        <item>Độ sáng màn hình tốt đa</item>
+        <item>Tần số CPU cao nhất</item>
+        <item>Chế độ hiển thị</item>
+        <item>Sử dụng CPU</item>
+        <item>Kết nối dữ liệu</item>
+        <item>Vị trí</item>
+        <item>Thông báo đầu tiên</item>
+        <item>Thông báo màn hình khóa</item>
+        <item>Hạn chế kết nối dữ liệu nền</item>
+    </string-array>
+    <string-array name="action_param_translate">
+        <item>Không</item>
+        <item>Mặc định</item>
+        <item>Ảnh</item>
+        <item>Phim</item>
+        <item>Tiết kiệm pin</item>
+        <item>Cân bằng</item>
+        <item>Hiệu suất</item>
+        <item>Bật</item>
+        <item>Tắt</item>
+        <item>Tức thì</item>
+        <item>Sau 10 phút</item>
+        <item>Sau 30 phút</item>
+        <item>Khi màn hình tắt</item>
+    </string-array>
+    <string-array name="app_groups">
+        <item>Chế độ này</item>
+        <item>Chưa chọn</item>
+        <item>Trong chế độ khác</item>
+    </string-array>
+    <string-array name="power_checker_group_prefix">
+        <item>Bây giờ</item>
+        <item>Nền</item>
+        <item>Gần đây</item>
+    </string-array>
+    <string-array name="power_checker_recent_group_titles">
+        <item>Chặn chế độ ngủ sâu</item>
+        <item>Chặn chế độ ngủ</item>
+        <item>Đang tìm Wi-Fi</item>
+        <item>Sử dụng GPS</item>
+        <item>CPU chiếm dụng cao</item>
+        <item>Đánh thức thiết bị thường xuyên</item>
+    </string-array>
+    <string-array name="power_checker_running_group_titles">
+        <item>Chặn chế độ ngủ sâu</item>
+        <item>Chặn chế độ ngủ</item>
+        <item>Đang tìm Wi-Fi</item>
+        <item>Sử dụng GPS</item>
+        <item>CPU chiếm dụng cao</item>
+        <item>Đánh thức thiết bị thường xuyên</item>
+    </string-array>
+	<string-array name="emode_app_groups">
+        <item>Ứng dụng hệ thống</item>
+        <item>Ứng dụng khác</item>
+        <item>Ứng dụng đã chọn</item>
+    </string-array>
+    <string-array name="hmode_app_classify1">
+        <item>Tùy chỉnh</item>
+        <item>Tiết kiệm Pin MIUI</item>
+    </string-array>
+    <string-array name="hmode_app_classify2">
+        <item>Ứng dụng hoạt động</item>
+        <item>Ứng dụng chế độ ngủ</item>
+    </string-array>
+    <string-array name="pc_manage_active_app_items">
+        <item>Lập tức ngủ</item>
+        <item>Tiết kiệm pin</item>
+    </string-array>
+</resources>

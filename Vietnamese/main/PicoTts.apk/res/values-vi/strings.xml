@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Pico TTS</string>
+    <string name="eng_usa_sample">Đây là một ví dụ về tổng hợp giọng nói bằng tiếng Anh với Pico.</string>
+    <string name="eng_gbr_sample">Đây là một ví dụ về tổng hợp giọng nói bằng tiếng Anh với Pico.</string>
+    <string name="fra_fra_sample">Đây là một ví dụ về tổng hợp giọng nói bằng tiếng Pháp với Pico.</string>
+    <string name="deu_deu_sample">Đây là một ví dụ về tổng hợp giọng nói bằng tiếng Đức với Pico.</string>
+    <string name="ita_ita_sample">Đây là một ví dụ về tổng hợp giọng nói bằng tiếng Ý với Pico.</string>
+    <string name="spa_esp_sample">Đây là một ví dụ về tổng hợp giọng nói bằng tiếng Tây Ban Nha với Pico.</string>
+    <string name="installed">Đã cài đặt</string>
+    <string name="not_installed">Chưa cài đặt</string>
+</resources>

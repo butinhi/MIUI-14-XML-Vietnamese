@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<resources>
+	<string name="add_frequent_phrases">Thêm cụm từ thường dùng</string>
+	<string name="delete_frequent_phrases">Xóa cụm từ thường dùng</string>
+	<string name="delete_frequent_phrases_confirm">Xóa cụm từ thường dùng đã chọn?</string>
+	<string name="edit_frequent_phrases">Sửa cụm từ thường dùng</string>
+	<string name="frequent_phrases_des">Nhập cụm từ thường dùng chỉ với một vài cú chạm khi đang sửa văn bản</string>
+	<string name="frequent_phrases_size_exceeded">Có thể thêm tới %1$d cụm từ thường dùng. Xóa cụm từ không cần thiết để thêm nhiều hơn.</string>
+	<string name="menu_add_frequent_phrases">Thêm</string>
+	<string name="menu_delete">Xóa</string>
+	<string name="menu_edit">Sửa</string>
+	<string name="sync_phrase_label">Cụm từ thường dùng</string>
+</resources>

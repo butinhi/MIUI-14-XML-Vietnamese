@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="someone_send_somefile_files">
+        <item quantity="other">%1$s đang gửi %2$d tệp đến bạn…</item>
+    </plurals>
+    <plurals name="success_receive_file_files">
+        <item quantity="other">Đã nhận %2$d tệp từ %1$s. Chạm để xem.</item>
+    </plurals>
+    <plurals name="send_file_success_detail_files">
+        <item quantity="other">Gửi %1$s tệp thành công</item>
+    </plurals>
+    <plurals name="send_file_success_detail_images">
+        <item quantity="other">Gửi %1$s ảnh thành công</item>
+    </plurals>
+    <plurals name="file_type_detail_count">
+        <item quantity="other">%1$d tệp</item>
+    </plurals>
+    <plurals name="start_receive_files_images">
+        <item quantity="other">Nhận %2$d ảnh từ %1$s…</item>
+    </plurals>
+    <plurals name="someone_send_file_to_you_files">
+        <item quantity="other">%1$s đang gửi %2$d tệp đến bạn…</item>
+    </plurals>
+    <plurals name="someone_send_somefile_images">
+        <item quantity="other">%1$s đang gửi %2$d ảnh đến bạn…</item>
+    </plurals>
+    <plurals name="success_receive_file_images">
+        <item quantity="other">Đã nhận %2$d ảnh từ %1$s. Chạm để xem.</item>
+    </plurals>
+    <plurals name="start_receive_files_files">
+        <item quantity="other">Đang nhận %2$d tệp từ %1$s…</item>
+    </plurals>
+    <plurals name="someone_send_file_to_you_images">
+        <item quantity="other">%1$s đang gửi %2$d ảnh đến bạn…</item>
+    </plurals>
+    <plurals name="send_files_to_device_files">
+        <item quantity="other">Đang chuẩn bị gửi %2$d tập tin đến %1$s…</item>
+    </plurals>
+    <plurals name="send_files_to_device_images">
+        <item quantity="other">Đang chuẩn bị gửi %2$d ảnh đến %1$s…</item>
+    </plurals>
+    <plurals name="start_send_files_to_device_files">
+        <item quantity="other">Đang gửi %2$d tập tin đến %1$s…</item>
+    </plurals>
+    <plurals name="start_send_files_to_device_images">
+        <item quantity="other">Đang gửi %2$d ảnh đến %1$s…</item>
+    </plurals>
+</resources>

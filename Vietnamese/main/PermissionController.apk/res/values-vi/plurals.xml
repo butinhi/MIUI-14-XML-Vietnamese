@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<resources>
+	<plurals name="additional_permissions_more">
+		<item quantity="other">%1$d quyền khác</item>
+		<item quantity="one">%1$d quyền khác</item>
+	</plurals>
+	<plurals name="permission_usage_bar_label">
+		<item quantity="other">%s ứng dụng</item>
+		<item quantity="one">1 ứng dụng</item>
+	</plurals>
+	<plurals name="permission_usage_permission_filter_subtitle">
+		<item quantity="other">%s ứng dụng</item>
+		<item quantity="one">1 ứng dụng</item>
+	</plurals>
+	<plurals name="days">
+		<item quantity="other">%s ngày</item>
+	</plurals>
+	<plurals name="hours">
+		<item quantity="other">%s giờ</item>
+	</plurals>
+	<plurals name="minutes">
+		<item quantity="other">%s phút</item>
+	</plurals>
+	<plurals name="seconds">
+		<item quantity="other">%s giây</item>
+	</plurals>
+</resources>

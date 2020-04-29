@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MiuiDaemon</string>
+    <string name="action_settings">Cài đặt</string>
+	<string name="submit_dialog_title">Có lỗi xảy ra</string>
+    <string name="submit_dialog_content">Tải lên nhật ký để giúp chúng tôi xác định và giải quyết vấn đề này? Nhật ký có thể chứa thông tin cá nhân của bạn, bao gồm thông tin vị trí của bạn.</string>
+    <string name="not_show_again">Tự động tải lên lần sau</string>
+    <string name="submit_dialog_cancel">Hủy</string>
+    <string name="submit_dialog_confirm">Tải lên</string>
+</resources>

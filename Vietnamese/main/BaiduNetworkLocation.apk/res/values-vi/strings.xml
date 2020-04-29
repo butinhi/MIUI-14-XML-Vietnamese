@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Vị trí mạng</string>
+    <string name="app_label">Vị trí mạng</string>
+    <string name="location_warning_title">Đồng ý vị trí</string>
+    <string name="location_warning_title_first">Đồng ý vị trí</string>
+    <string name="location_warning_title_close">Đồng ý vị trí</string>
+    <string name="location_warning_message">"Khi chức năng trình cung cấp vị trí mạng được mở, bạn sẽ cho phép dịch vụ trình cung cấp vị trí mạng Baidu thu thập dữ liệu vị trí ẩn danh. Một số dữ liệu có thể được mã hóa và lưu trữ trên thiết bị của bạn. Mã hóa và thu thập có thể xảy ra ngay cả khi không có ứng dụng đang chạy. Bạn sẽ bị tính phí cho dữ liệu lưu lượng truy cập. Dữ liệu đã mã hóa và thu thập sẽ được sử dụng để lấy thông tin vị trí, nâng cao hiệu suất và độ chính xác. Chúng tôi hứa dữ liệu thu thập được sẽ không được cung cấp cho người khác hoặc được sử dụng cho các mục đích khác, ngoại trừ để làm dịch vụ. Dữ liệu được thu thập bao gồm các nội dung sau: 
+- ID, Cường độ tín hiệu của Wi-Fi để được khảo sát từ ngoại vi; 
+- ID, Cường độ tín hiệu để được khảo sát từ trạm cơ sở ngoại vi (cho GSM); 
+- ID, Cường độ tín hiệu để được khảo sát từ trạm cơ sở ngoại vi (cho CDMA)."</string>
+    <string name="location_close_warning_message">Đóng dịch vụ vị trí mạng sẽ làm cho bất kỳ ứng dụng không thể truy cập vị trí.</string>
+    <string name="location_first_warning_message">Để mang lại cho bạn một trải nghiệm người dùng tốt hơn, hệ thống sẽ mở dịch vụ vị trí mạng.</string>
+    <string name="location_warning_title_1">Đồng ý vị trí</string>
+    <string name="location_warning_title_first_1">Đồng ý vị trí</string>
+    <string name="location_warning_title_close_1">Đồng ý vị trí</string>
+    <string name="location_warning_message_1">"Cho phép dịch vụ vị trí của Baidu thu thập dữ liệu vị trí ẩn danh. Một số dữ liệu có thể được lưu trữ trên thiết bị của bạn, và thu thập có thể xảy ra ngay cả khi không có ứng dụng đang chạy. Phí sử dụng dữ liệu có thể được áp dụng trong quá trình này."</string>
+    <string name="always_wifi_scan_tip_tittle">Luôn cho phép</string>
+    <string name="always_wifi_scan_tip_content">Cho phép dịch vụ vị trí mạng và các ứng dụng để quét Wi-Fi, ngay cả khi Wi-Fi bị tắt</string>
+    <string name="agree">Đồng ý</string>
+    <string name="disagree">Từ chối</string>
+    <string name="close_agree">OK</string>
+    <string name="close_disagree">Không</string>
+</resources>

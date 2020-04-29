@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="arr_prompt_label">
+        <item>Hợp lý</item>
+        <item>Dài</item>
+        <item>Quá dài</item>
+    </string-array>
+    <string-array name="arr_sedentary_reminder">
+        <item>Đã đến lúc di chuyển!</item>
+        <item>Tìm hiểu thêm</item>
+        <item>Uống một ít nước và đi lại.</item>
+        <item>Tìm hiểu thêm</item>
+        <item>Leo cầu thang</item>
+        <item>Tìm hiểu thêm</item>
+        <item>Không ngồi quá lâu</item>
+        <item>Tìm hiểu thêm</item>
+    </string-array>
+    <string-array name="arr_time_label">
+        <item>1 giờ</item>
+        <item>2 giờ</item>
+    </string-array>
+    <string-array name="pager_titles">
+        <item>Ngày</item>
+        <item>Tuần</item>
+        <item>Tháng</item>
+    </string-array>
+    <string-array name="run_in_background_state">
+        <item>Không hạn chế</item>
+        <item>Giới hạn hoạt động nền</item>
+        <item>Dừng sau 10 phút</item>
+        <item>Không bao giờ</item>
+    </string-array>
+    <string-array name="week_label">
+        <item>CN</item>
+        <item>T2</item>
+        <item>T3</item>
+        <item>T4</item>
+        <item>T5</item>
+        <item>T6</item>
+        <item>T7</item>
+    </string-array>
+	<string-array name="splash_loading">
+		<item>Đang tính toán mục tiêu hoạt động…</item>
+		<item>Mục tiêu hoạt động: %1$d bước</item>
+		<item>Bạn đã đi %1$d bước hôm nay</item>
+		<item>Đang tính toán mục tiêu giấc ngủ…</item>
+		<item>Mục tiêu giấc ngủ: %1$d giờ</item>
+		<item>Chưa có dữ liệu giấc ngủ</item>
+		<item>Đang mở Sức khỏe Mi</item>
+	</string-array>
+	<string-array name="week">
+		<item>Chủ nhật</item>
+		<item>Thứ hai</item>
+		<item>Thứ ba</item>
+		<item>Thứ tư</item>
+		<item>Thứ năm</item>
+		<item>Thứ sáu</item>
+		<item>Thứ bảy</item>
+	</string-array>
+	<string-array name="stand_guide_page_content1">
+		<item>Ít vận động gây ra nhiều vấn đề sức khỏe. Nếu không thể giảm tổng thời gian ngồi một chỗ, các hoạt động đứng không liên tục có thể cải thiện hiệu quả các vấn đề ít vận động.</item>
+		<item>Trợ lý đứng giúp người ít vận động đứng ít nhất 1 phút mỗi giờ, để đạt được mục tiêu đứng 12 giờ mỗi ngày và tránh xa nguy cơ của cuộc sống ít vận động.</item>
+		<item>Nhấn Tiếp tục để hiểu và mở Trợ lý đứng.</item>
+	</string-array>
+	<string-array name="stand_guide_page_content2">
+		<item>Trợ lý đứng tự động ghi lại trạng thái đứng bằng cách phát hiện trạng thái sử dụng của điện thoại di động. Khi không phát hiện thấy hoạt động đứng trong vòng 1 giờ, một thông báo sẽ được gửi để nhắc nhở bạn đứng hoặc thêm một bản ghi thủ công.</item>
+		<item>Xác nhận kích hoạt sẽ đồng thời cho phép phát hiện đứng và nhắc nhở đứng.</item>
+	</string-array>
+</resources>

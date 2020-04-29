@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="operatorDescs">
+        <item>ngoặc trái</item>
+        <item>ngoặc phải</item>
+        <item>giai thừa</item>
+        <item>lôgarit tự nhiên</item>
+        <item>lôgarit</item>
+        <item>căn bậc 2</item>
+        <item>chia với</item>
+        <item>nhân với</item>
+        <item>cộng</item>
+        <item>trừ</item>
+        <item>dấu chấm</item>
+        <item>số mũ</item>
+        <item>tang</item>
+        <item>sin</item>
+        <item>cos</item>
+        <item>pi</item>
+        <item>bằng</item>
+    </string-array>
+    <string-array name="mortgage_repayment">
+        <item>Trả góp mỗi kỳ bằng nhau</item>
+        <item>Trả góp giảm dần</item>
+    </string-array>
+    <string-array name="unit_data_order_time_">
+        <item>năm</item>
+        <item>tuần</item>
+        <item>ngày</item>
+        <item>giờ</item>
+        <item>phút</item>
+        <item>giây</item>
+        <item>ms</item>
+        <item>us</item>
+        <item>ps</item>
+    </string-array>
+	<string-array name="height_array">
+		<item>cm</item>
+		<item>m</item>
+		<item>Feet</item>
+		<item>Inch</item>
+	</string-array>
+	<string-array name="weight_array">
+		<item>Kilôgam</item>
+		<item>Pound</item>
+	</string-array>
+</resources>

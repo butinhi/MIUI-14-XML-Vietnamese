@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_label">Báo cáo lỗi KLO</string>
+    <string name="passport_xiaomi_account_dspt">Sử dụng tài khoản Mi của bạn để đăng nhập vào Xiaomi Cloud, cửa hàng chủ đề MIUI, và các dịch vụ Mi khác, từ bất cứ đâu.</string>
+    <string name="action_settings">Cài đặt</string>
+    <string name="later">Để sau</string>
+    <string name="notification_update_new_version">Có bản cập nhật mới</string>
+    <string name="notification_update_now">Cập nhật ngay</string>
+    <string name="title">Công cụ sưu tập bản ghi lỗi</string>
+    <string name="btn_not_upload">Không tải lên</string>
+    <string name="btn_upload">Tải lên</string>
+    <string name="btn_cancel">Hủy</string>
+    <string name="btn_done">Hoàn tất</string>
+    <string name="btn_failed">Thất bại, thoát</string>
+    <string name="noti_title">Bản ghi lỗi đã được tạo</string>
+    <string name="noti_body">Tạo một bản ghi lỗi</string>
+    <string name="noti_btn_text">Tải lên</string>
+    <string name="mem_collect_text_1_1">"Chào mừng bạn sử dụng MIUI thử nghiệm, chúng tôi đang đối phó với các vấn đề không đủ bộ nhớ gần đây, và thấy rằng "</string>
+    <string name="mem_collect_text_1_2">có thể vấn đề bộ nhớ.</string>
+    <string name="mem_collect_text_2_1">"Chúng tôi đã lưu "</string>
+    <string name="mem_collect_text_2_2">"tập tin bộ nhớ trên điện thoại của bạn, hy vọng bạn có thể giúp chúng tôi bằng cách tải lên các tập tin này. "</string>
+    <string name="mem_collect_text_3">Chúng tôi sẽ đảm bảo an toàn dữ liệu riêng tư cá nhân của bạn.</string>
+    <string name="mem_collect_text_thx">"Tải lên hoàn tất.
+Cảm ơn sự hỗ trợ của bạn!"</string>
+    <string name="to_turn_on_wifi">Vui lòng bật Wi-Fi</string>
+    <string name="ramdump_notification_title">Ramdump đã tạo</string>
+    <string name="ramdump_notification_text">Vui lòng thu thập bản ghi</string>
+</resources>

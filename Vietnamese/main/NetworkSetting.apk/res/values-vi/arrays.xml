@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="original_carrier_names">
+        <item>CHINA MOBILE</item>
+        <item>CHINA UNICOM</item>
+        <item>China Mobile</item>
+        <item>China Unicom</item>
+        <item>China Telecom</item>
+        <item>China Mobile</item>
+        <item>China Unicom</item>
+        <item>China Telecom</item>
+        <item>CMCC</item>
+        <item>Đang tìm kiếm dịch vụ</item>
+    </string-array>
+	<string-array name="enabled_networks_choices_subsidy_locked">
+        <item>Chỉ LTE</item>
+        <item>GSM/WCDMA/LTE</item>
+    </string-array>
+	    <string-array name="cdma_system_select_choices">
+        <item>Chỉ ở nhà</item>
+        <item>Tự động</item>
+    </string-array>
+	    <string-array name="preferred_network_mode_gsm_wcdma_choices">
+        <item>Chỉ GSM</item>
+        <item>Chỉ WCDMA</item>
+        <item>GSM/WCDMA ưa thích</item>
+    </string-array>
+	    <string-array name="preferred_network_mode_choices_world_mode">
+        <item>Toàn cầu</item>
+        <item>LTE / CDMA</item>
+        <item>LTE / GSM / UMTS</item>
+    </string-array>
+	<string-array name="uplmn_prefer_network_mode_td_choices">
+        <item>GSM</item>
+        <item>TD-SCDMA</item>
+        <item>LTE</item>
+        <item>Chế độ ba</item>
+    </string-array>
+    <string-array name="uplmn_prefer_network_mode_w_choices">
+        <item>GSM</item>
+        <item>WCDMA</item>
+        <item>LTE</item>
+        <item>Chế độ ba</item>
+    </string-array>
+</resources>
