@@ -9981,7 +9981,6 @@ Sao chép tệp tin sao lưu vào thiết bị của bạn (MIUI-backup-AllBacku
 	<string name="face_unlock_open_eye">Vui lòng mở to mắt</string>
 	<string name="kilobyte_per_second">KB/s</string>
 	<string name="face_unlock_reveal_eye">Hãy để đôi mắt được nhìn rõ</string>
-	<string name="process_kernel_label">Hệ điều hành Android</string>
 	<string name="miuix_sbl_tracking_progress_labe_release_to_refresh">Thả ra để làm mới</string>
 	<string name="size_kilo_byte">KB</string>
 	<string name="miuix_sbl_tracking_progress_labe_up_refresh">Đang làm mới</string>

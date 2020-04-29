@@ -3606,7 +3606,6 @@ Sau khi được đặt, nếu bạn đóng ứng dụng, các quyền sẽ tr�
 	<string name="usage_type_gps">GPS</string>
 	<string name="im">IM</string>
 	<string name="abc_action_bar_home_description">Vào Trang bắt đầu</string>
-	<string name="exo_track_resolution">%1$d × %2$d</string>
 	<string name="empty_title_installed_apps">Trống</string>
 	<string name="abc_searchview_description_submit">Gửi truy vấn</string>
 	<string name="abc_searchview_description_query">Tìm kiếm truy vấn</string>
@@ -3624,9 +3623,7 @@ Sau khi được đặt, nếu bạn đóng ứng dụng, các quyền sẽ tr�
 	<string name="preference_copied">\"%1$s\" đã sao chép vào clipboard.</string>
 	<string name="gigabyteShort">GB</string>
 	<string name="megabyteShort">MB</string>
-	<string name="exo_track_bitrate">%1$.2f Mb/giây</string>
 	<string name="abc_searchview_description_voice">Tìm kiếm giọng nói</string>
-	<string name="ellipsis">…</string>
 	<string name="abc_activity_chooser_view_see_all">Xem tất cả</string>
 	<string name="abc_action_mode_done">Hoàn tất</string>
 	<string name="optional_permissions">Quyền tùy chọn</string>

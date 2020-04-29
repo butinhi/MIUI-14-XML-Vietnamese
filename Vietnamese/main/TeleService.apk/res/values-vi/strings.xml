@@ -2893,7 +2893,6 @@ Luôn sử dụng số này"</string>
 	<string name="lgu_msim_emm_cause_others">"SIM %d không thể kết nối mạng. Đến gặp trung tâm dịch vụ khách hàng (+82-2-3416-7010)."</string>
 	<string name="wifi_security_short_wpa">WPA</string>
 	<string name="miuix_sbl_tracking_progress_labe_refreshing">Đang làm mới</string>
-	<string name="process_kernel_label">Hệ điều hành Android</string>
 	<string name="miuix_sbl_tracking_progress_labe_release_to_refresh">Thả ra để làm mới</string>
 	<string name="miuix_sbl_tracking_progress_labe_up_refresh">Đang làm mới</string>
 	<string name="wifi_security_short_wpa_wpa2">WPA/WPA2</string>
@@ -2904,7 +2903,6 @@ Luôn sử dụng số này"</string>
 	<string name="wifi_security_wpa2">WPA2 PSK</string>
 	<string name="miuix_sbl_tracking_progress_labe_up_none">Đừng làm vậy</string>
 	<string name="wifi_security_wep">WEP</string>
-	<string name="password">Mật khẩu</string>
 	<string name="wifi_security_short_eap">802.1x</string>
 	<string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Kéo xuống để làm mới</string>
 	<string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">Thất bại</string>

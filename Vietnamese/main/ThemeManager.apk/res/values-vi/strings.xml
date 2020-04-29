@@ -935,6 +935,4 @@ Kích thước cập nhật Delta: %2$s"</string>
     <string name="title_home_miwallpaper_home_screen_effects">Hiệu ứng Màn hình chính</string>
     <string name="title_system_audio_alarm_resource">Báo thức hệ thống</string>
     <string name="try_tap">Chạm để xem trước</string>
-	<string name="exo_track_bitrate">%1$.2f Mb/giây</string>
-	<string name="exo_track_resolution">%1$d × %2$d</string>>
 </resources>
