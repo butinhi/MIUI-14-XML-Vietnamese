@@ -726,5 +726,22 @@ Hãy chắc chắn bạn nhớ tất cả câu trả lời."</string>
 	<string name="miuix_sbl_tracking_progress_labe_up_nodata">Không có dữ liệu</string>
 	<string name="expand_button_title">Nâng cao</string>
 	<string name="copy">Sao chép</string>
-	<string name="mi_health">Sức khỏe Mi</string>>
+	<string name="mi_health">Sức khỏe Mi</string>
+	<string name="action_retry">Thử lại</string>
+	<string name="state_loading">Chỉ vài giây…</string>
+	<string name="health_action_update">Cập nhật</string>
+	<string name="health_action_install">Cài đặt</string>
+	<string name="cloud_description_normal">Đã dùng</string>
+	<string name="health_state_not_support">Không hỗ trợ trên phiên bản này</string>
+	<string name="health_state_not_installed">Chưa được cài đặt</string>
+	<string name="passport_google_login_disagree">Tài khoản Mi</string>
+	<string name="health_action_activate">Kích hoạt</string>
+	<string name="state_data_error">"Không thể lấy dữ liệu"</string>
+	<string name="account_user_id_show">Tài khoản Mi: %s</string>
+	<string name="passport_google_login_agree">Tài khoản Google</string>
+	<string name="cloud_description_closed">Đã dùng | Đồng bộ tắt</string>
+	<string name="health_description_normal">Các bước</string>
+	<string name="passport_google_login_failed">"Không thể đăng nhập bằng Google. Đăng nhập trực tiếp vào Tài khoản Mi của bạn."</string>
+	<string name="health_state_not_activated">Chưa kích hoạt</string>
+	<string name="passport_google_login">Đăng nhập với Tài khoản Google đã dùng trước đó?</string>
 </resources>

@@ -1846,5 +1846,22 @@ Nếu không có dự phòng, số điện thoại bị quên hoặc bị khóa,
 	<string name="trip_required_info">Bắt buộc</string>
 	<string name="app_version_name">"Phiên bản App vault: "</string>
 	<string name="miuishare_qzone_title">Qzone</string>
-	<string name="miuishare_weibo_title">Weibo</string>>
+	<string name="miuishare_weibo_title">Weibo</string>
+	<string name="app_debug_settings_toast_switch_error">Lỗi chuyển đổi môi trường</string>
+	<string name="app_debug_settings">Cài đặt Gỡ lỗi ứng dụng</string>
+	<string name="bluetooth_card_btm_btn_shrink">Ẩn</string>
+	<string name="app_debug_settings_vaid_summary">(Chạm để sao chép VAID)</string>
+	<string name="app_debug_settings_id_title">Truy vấn ID thiết bị</string>
+	<string name="bluetooth_item_double_battery_level_left_invalid">L: Không có dữ liệu</string>
+	<string name="bluetooth_item_double_battery_level_box_invalid">Box: Không có dữ liệu</string>
+	<string name="bluetooth_card_title">Sử dụng pin</string>
+	<string name="app_debug_settings_host_title">Chuyển đổi môi trường máy chủ</string>
+	<string name="app_debug_settings_copied_to_clipboard">Đã sao chép vào clipboard</string>
+	<string name="app_debug_settings_online_title">Trực tuyến</string>
+	<string name="bluetooth_setting_brief">Xem thông tin sử dụng pin của thiết bị đã kết nối</string>
+	<string name="bluetooth_item_double_battery_level_right_invalid">R: Không có dữ liệu</string>
+	<string name="app_debug_settings_oaid_summary">(Chạm để sao chép OAID)</string>
+	<string name="app_debug_settings_preview_title">Xem trước</string>
+	<string name="bluetooth_card_btm_btn_more">Thêm thiết bị</string>
+	<string name="express_provider_mimall">Cửa hàng Mi</string>
 </resources>

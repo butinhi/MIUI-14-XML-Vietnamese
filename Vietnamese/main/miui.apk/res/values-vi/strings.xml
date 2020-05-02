@@ -362,4 +362,5 @@
     <string name="select_all_description">Chọn tất cả</string>
     <string name="user_experience_program">Chương trình Trải nghiệm Người dùng</string>
 	<string name="search_action_mode_cancel">Hủy</string>
+	<string name="date_picker_lunar">Âm lịch</string>
 </resources>

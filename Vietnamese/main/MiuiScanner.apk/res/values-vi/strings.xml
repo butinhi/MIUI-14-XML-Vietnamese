@@ -468,4 +468,8 @@ bạn muốn quét gì với Mi AI"</string>
 	<string name="create_again">Làm mới</string>
 	<string name="scanHistory_open">Bật</string>
 	<string name="createQRCode_save">Lưu</string>
+	<string name="qureyGoods">Tìm kiếm sản phẩm</string>
+	<string name="queryGoodsFailed">"Không tìm thấy thông tin sản phẩm"</string>
+	<string name="downloadAiVison">Cài đặt trình cắm để sử dụng tính năng này</string>
+	<string name="translation_type_chat">Hội thoại</string>
 </resources>

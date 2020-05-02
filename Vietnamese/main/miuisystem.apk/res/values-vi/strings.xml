@@ -226,4 +226,27 @@
 	<string name="birdcicada_preview">Âm thanh tự nhiên 2</string>
 	<string name="waterdrop_preview">Âm thanh tự nhiên 1</string>
 	<string name="windchime">Chuông gió</string>
+	<string name="miui_clock_city_name_second">Đồng hồ thứ hai</string>
+	<string name="wallpaper_group_dynamic_nebula_title">Tinh vân động</string>
+	<string name="wallpaper_group_minimalist_scenery_title">Chủ nghĩa tối giản</string>
+	<string name="wallpaper_group_natural_texture_title">Mẫu tự nhiên</string>
+	<string name="miui_clock_city_name_local">Địa phương</string>
+	<string name="wallpaper_group_red_mars_subtitle">NASA, JPL, Đại học Arizona</string>
+	<string name="miui_lock_screen_large_date">"EEE
+dd/MM"</string>
+	<string name="digitaluniverse">Vũ trụ kỹ thuật số (âm thanh nổi)</string>
+	<string name="miui_lock_screen_large_date_12">"EEE
+dd/MM"</string>
+	<string name="atlantis">Atlantis (âm thanh nổi)</string>
+	<string name="wallpaper_group_geometric_title">Hình học</string>
+	<string name="wallpaper_group_red_mars_title">Sao Hỏa</string>
+	<string name="wallpaper_group_black_white_title">Trắng đen</string>
+	<string name="miui_lock_screen_date">EEEE dd/MM</string>
+	<string name="wallpaper_group_natural_texture_subtitle">Tom Hegen và những người khác</string>
+	<string name="miui_lock_screen_date_12">EEEE dd/MM</string>
+	<string name="reveries">Mơ tưởng (âm thanh nổi)</string>
+	<string name="miui_lock_screen_date_two_lines">"EEEE
+dd/MM"</string>
+	<string name="miui_lock_screen_date_two_lines_12">"EEEE
+dd/MM"</string>
 </resources>

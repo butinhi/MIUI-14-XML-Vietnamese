@@ -2447,5 +2447,5 @@ Bạn có muốn đóng trang không?"</string>
 	<string name="fingerprint_repeat_area">Di chuyển ngón tay của bạn để ghi lại tất cả các phần của vân tay</string>
 	<string name="miaudiovisual_notification_summary">Bật để hiển thị hiệu ứng trên Màn hình khóa</string>
 	<string name="miaudiovisual_notification_title">Âm thanh và hiệu ứng hình ảnh</string>
-	<string name="status_bar_ethernet">Internet</string>>
+	<string name="status_bar_ethernet">Internet</string>
 </resources>

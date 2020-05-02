@@ -602,5 +602,5 @@ Tốc độ lấy mẫu"</string>
 	<string name="wifi_verbose_logging_summary">Tăng cấp độ nhật ký Wi‑Fi, hiển thị RSSI trên mỗi SSID trong danh sách mạng Wi‑Fi.</string>
 	<string name="wifi_coverage_extend">Bật tính năng mở rộng phạm vi phủ sóng WLAN</string>
 	<string name="mobile_data_always_on_summary">Luôn giữ dữ liệu di động kích hoạt, thậm chí khi Wi‑Fi đang kích hoạt (để chuyển đổi mạng nhanh).</string>
-	<string name="wifi_coverage_extend_summary">Bật phạm vi phủ sóng WLAN bằng Điểm truy cập di động</string>>
+	<string name="wifi_coverage_extend_summary">Bật phạm vi phủ sóng WLAN bằng Điểm truy cập di động</string>
 </resources>

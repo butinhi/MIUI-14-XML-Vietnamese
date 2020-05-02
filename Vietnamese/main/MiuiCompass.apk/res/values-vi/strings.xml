@@ -93,4 +93,5 @@
 	<string name="copy">Sao chép</string>
 	<string name="expand_button_title">Nâng cao</string>
 	<string name="abc_searchview_description_clear">Xóa truy vấn</string>
+	<string name="cta_agree_desc">Cho phép ứn dụng này kết nối mạng và cấp quyền tùy chọn để có thể sử dụng tất cả các tính năng.</string>
 </resources>

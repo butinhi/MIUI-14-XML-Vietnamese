@@ -1201,4 +1201,8 @@ Xem qua trang đề xuất!"</string>
 	<string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Kéo để làm mới</string>
 	<string name="miuix_sbl_tracking_progress_labe_up_nodata">Không có dữ liệu</string>
 	<string name="dialog_title_correct_as_normal">Chuyển sang tin nhắn thông thường</string>
+	<string name="classifing">Đang nhóm tin nhắn…</string>
+	<string name="tab_finance">Tài chính</string>
+	<string name="tab_promotions">Khuyến mại</string>
+	<string name="tab_message">Tin nhắn</string>
 </resources>

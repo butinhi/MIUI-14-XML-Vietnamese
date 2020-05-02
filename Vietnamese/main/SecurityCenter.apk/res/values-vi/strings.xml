@@ -3629,5 +3629,5 @@ Sau khi được đặt, nếu bạn đóng ứng dụng, các quyền sẽ tr�
 	<string name="optional_permissions">Quyền tùy chọn</string>
 	<string name="size_mega_byte">MB</string>
 	<string name="priority_storage_app_settings">Dữ liệu sẽ được lưu vào %1$s</string>
-	<string name="storage_wizard_format_confirm_v2_action">Định dạng ^1</string>>
+	<string name="storage_wizard_format_confirm_v2_action">Định dạng ^1</string>
 </resources>

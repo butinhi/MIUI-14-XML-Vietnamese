@@ -153,4 +153,8 @@
         <item>mph</item>
         <item>kn</item>
     </string-array>
+	<string-array name="dislike_alert_dialog_selectitems">
+		<item>Không hứng thú</item>
+		<item>Chất lượng nội dung thấp</item>
+	</string-array>
 </resources>

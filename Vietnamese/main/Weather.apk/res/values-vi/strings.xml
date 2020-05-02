@@ -468,5 +468,22 @@ Chạm vào màn hình để thêm thủ công hoặc định vị lại thành 
 	<string name="exo_controls_next_description">Bản nhạc tiếp theo</string>
 	<string name="exo_controls_pause_description">Tạm dừng</string>
 	<string name="exo_track_surround_7_point_1">Âm thanh vòm 7.1</string>
-	<string name="exo_track_unknown">Không xác định</string>>
+	<string name="exo_track_unknown">Không xác định</string>
+	<string name="weather_main_aqi_desc">Chất lượng không khí</string>
+	<string name="miuix_sbl_tracking_progress_labe_refreshing">Đang làm mới…</string>
+	<string name="weather_main_minute_hour">Xác suất mưa trong 2 giờ</string>
+	<string name="dislike_alert_dialog_title">Tại sao bạn không muốn thấy nội dung này?</string>
+	<string name="miuix_sbl_tracking_progress_labe_up_refresh">Chỉ vài giây…</string>
+	<string name="aqi_24_hours_desc">Dự báo chất lượng không khí trong 24 giờ</string>
+	<string name="request_cta_connect_net">Vui lòng đồng ý các quyền cần thiết cho ứng dụng kết nối mạng</string>
+	<string name="aqi_48_hours_desc">Dự báo chất lượng không khí trong 48 giờ</string>
+	<string name="miuix_sbl_tracking_progress_labe_refreshed">Đã làm mới</string>
+	<string name="miuix_sbl_tracking_progress_labe_up_none">"Đó là tất cả"</string>
+	<string name="aqi_15_days_desc">Dự báo chất lượng không khí trong 15 ngày</string>
+	<string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">"Không thể tải"</string>
+	<string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Kéo xuống để làm mới</string>
+	<string name="weather_main_speak_tips">Bấm để phát thời tiết bằng giọng nói</string>
+	<string name="miuix_sbl_tracking_progress_labe_up_nodata">"Đó là tất cả"</string>
+	<string name="thanku_for_feedback">Cảm ơn phản hồi của bạn, bạn có thể mở lại video thời tiết trong trang cài đặt</string>
+	<string name="aqi_5_days_desc">Dự báo chất lượng không khí trong 5 ngày</string>
 </resources>

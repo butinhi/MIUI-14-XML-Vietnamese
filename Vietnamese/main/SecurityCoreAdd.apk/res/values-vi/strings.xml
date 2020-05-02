@@ -515,5 +515,7 @@ Hãy chắc chắn tên của cơ quan bạn chính xác. Đọc và đồng ý 
 	<string name="miuix_sbl_tracking_progress_labe_up_none">Đừng làm vậy</string>
 	<string name="abc_action_mode_done">Hoàn tất</string>
 	<string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Kéo xuống để làm mới</string>
-	<string name="miuix_sbl_tracking_progress_labe_up_nodata">Không có dữ liệu</string>>
+	<string name="miuix_sbl_tracking_progress_labe_up_nodata">Không có dữ liệu</string>
+	<string name="secondspace_homepage">"Đặt khóa màn hình được chỉ định cho Không gian thứ hai.
+Phân tách và bảo mật dữ liệu của bạn."</string>
 </resources>

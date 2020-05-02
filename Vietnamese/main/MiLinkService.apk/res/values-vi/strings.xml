@@ -125,4 +125,22 @@ Kết nối cả điện thoại của bạn và màn hình mở rộng vào cù
 Ghi chú: Các TV Mi cũ có thể không hỗ trợ chiếu qua mạng khác nhau.
 2. Nếu bạn đang sử dụng TV, set-top boxe, hoặc máy chiếu của các hãng khác, kết nối cả điện thoại và màn hình mở rộng vào cùng mạng Wi-Fi.
 Nếu cả hai thiết bị không thể kết nối tới cùng một mạng, bật Miracast trên màn hình mở rộng của bạn. Tên của tính năng Miracast có thể khác nhau tùy hãng."</string>
+	<string name="privacy_positive">Đồng ý</string>
+	<string name="privacy_permission_location_desc">Nhận thông tin về các thiết bị có thể sàng lọc gần đó</string>
+	<string name="privacy_permission_optional">Quyền tùy chọn</string>
+	<string name="privacy_permission_necessary_desc">Các dịch vụ và chức năng cơ bản cho ứng dụng</string>
+	<string name="privacy_permission_ble_desc">Sử dụng Bluetooth để quét các thiết bị có khả năng chiếu màn hình gần đó</string>
+	<string name="privacy_permission_ble">Bật/tắt Bluetooth</string>
+	<string name="privacy_negative">Thoát</string>
+	<string name="privacy_permission_necessary">Quyền cần thiết</string>
+	<string name="toast_turn_off_hotspot_before_cast">Tắt điểm phát di động trước khi truyền</string>
+	<string name="privacy_permission_wlan">Bật/tắt Wi-Fi</string>
+	<string name="privacy_permission_wlan_desc">Sử dụng mạng Wi-Fi để quét các thiết bị có khả năng chiếu màn hình gần đó</string>
+	<string name="privacy_permission_location">Nhận thông tin vị trí thiết bị</string>
+	<string name="privacy_explain">Chào mừng bạn sử dụng màn hình chiếu, bạn có thể sử dụng ứng dụng này để đồng bộ hóa màn hình điện thoại di động với TV / TV box / chiếu và các thiết bị màn hình lớn khác trong thời gian thực. Trong quá trình sử dụng ứng dụng này, chúng tôi sẽ kết nối mạng và yêu cầu các quyền sau:</string>
+	<string name="privacy_permission_optional_desc">Được sử dụng cho các chức năng bổ sung, sẽ áp dụng cho bạn khi bạn sử dụng các chức năng liên quan</string>
+	<string name="privacy_permission_nfc_desc">Sử dụng NFC để kết nối thiết bị bạn muốn truyền</string>
+	<string name="toast_nfc_dont_move">"Đừng di chuyển điện thoại ra chỗ khác"</string>
+	<string name="privacy_title">Thông báo người dùng</string>
+	<string name="dialog_nfc_cast_wifi_off">Bật Wi-Fi để có thể truyền qua NFC. Bật ngay?</string>
 </resources>

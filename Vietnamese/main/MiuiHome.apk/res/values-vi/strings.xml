@@ -572,5 +572,12 @@
 	<string name="miuix_sbl_tracking_progress_labe_release_to_refresh">Thả ra để làm mới</string>
 	<string name="v7_preference_on">BẬT</string>
 	<string name="expand_button_title">Nâng cao</string>
-	<string name="copy">Sao chép</string>>
+	<string name="copy">Sao chép</string>
+	<string name="miuix_sbl_tracking_progress_labe_refreshing">Đang làm mới…</string>
+	<string name="miuix_sbl_tracking_progress_labe_up_none">"Đó là tất cả"</string>
+	<string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">"Không thể tải mục"</string>
+	<string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Kéo xuống để làm mới</string>
+	<string name="miuix_sbl_tracking_progress_labe_up_refresh">Chỉ vài giây…</string>
+	<string name="miuix_sbl_tracking_progress_labe_up_nodata">"Đó là tất cả"</string>
+	<string name="miuix_sbl_tracking_progress_labe_refreshed">Đã làm mới</string>
 </resources>

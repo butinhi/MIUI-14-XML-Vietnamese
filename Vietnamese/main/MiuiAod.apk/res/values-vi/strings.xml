@@ -437,5 +437,9 @@ d/M"</string>
 	<string name="preference_copied">\"%1$s\" đã sao chép vào clipboard.</string>
 	<string name="v7_preference_on">BẬT</string>
 	<string name="copy">Sao chép</string>
-	<string name="expand_button_title">Nâng cao</string>>
+	<string name="expand_button_title">Nâng cao</string>
+	<string name="super_wallpaper_date_lunar">"e N
+'năm' YY"</string>
+	<string name="super_wallpaper_date">"EEa
+dd/M"</string>
 </resources>

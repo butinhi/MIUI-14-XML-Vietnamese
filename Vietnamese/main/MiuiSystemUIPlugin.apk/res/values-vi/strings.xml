@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="already_in_small_freeform">Một vài ứng dụng đã mở trong cửa sổ nổi</string>
+	<string name="quick_settings_hang_on">Bạn có thể sử dụng cửa sổ nổi</string>
+	<string name="no_avaliable_application">Không có ứng dụng khả dụng</string>
+	<string name="quick_settings_hang_label">Cửa sổ nổi</string>
+</resources>

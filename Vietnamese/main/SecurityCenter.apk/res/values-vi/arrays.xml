@@ -161,5 +161,35 @@
 	<string-array name="priority_storage_entries">
 		<item>Bộ nhớ trong</item>
 		<item>Bộ nhớ ngoài</item>
-	</string-array>>
+	</string-array>
+	<string-array name="perm_intercept_notification">
+		<item>Đọc tất cả thông báo, bao gồm nội dung tin nhắn của bạn và các mục khác có thể chứa thông tin cá nhân</item>
+		<item>Hạn chế quyền thông báo cho một vài ứng dụng</item>
+		<item>Mô phỏng khai thác thông báo và mở ứng dụng</item>
+		<item>Bật hoặc tắt Chế độ Không làm phiền</item>
+	</string-array>
+	<string-array name="daily_brand">
+		<item>Tùy chỉnh</item>
+		<item>Thẻ Mi Fan</item>
+		<item>Thẻ Xiao Tiansheng</item>
+		<item>Thẻ Tencent King</item>
+	</string-array>
+	<string-array name="perm_intercept_statitics">
+		<item>Thu thập dữ liệu về sở thích và hành vi của bạn bằng cách tìm hiểu những ứng dụng bạn sử dụng và tần suất sử dụng chúng</item>
+		<item>Truy cập cài đặt ngôn ngữ liên quan đến nhà cung cấp dịch vụ của bạn và các chi tiết khác</item>
+	</string-array>
+	<string-array name="debug_open_intercept">
+		<item>Có thể truy cập và chỉnh sửa các tệp tin trên thiết bị của bạn bằng máy tính.</item>
+		<item>Được cài đặt các ứng dụng mà không có sự cho phép rõ ràng từ bạn.</item>
+		<item>"Bạn sẽ có thể theo dõi và ghi lại nội dung màn hình của bạn từ xa."</item>
+		<item>Có thể truy cập thông tin chi tiết về thiết bị của bạn.</item>
+	</string-array>
+	<string-array name="perm_intercept_unknown_source">
+		<item>"Các ứng dụng của bên thứ ba không được xác minh bởi GetApps có thể gây ra nhiều sự cố và làm giảm tính ổn định của hệ thống."</item>
+		<item>Một số ứng dụng của bên thứ ba có thể chứa phần mềm độc hại khiến dữ liệu cá nhân của bạn gặp rủi ro.</item>
+	</string-array>
+	<string-array name="miui_optimization_close_intercept">
+		<item>Quan trọng: Nhiều ứng dụng hệ thống có thể không hoạt động đúng cách.</item>
+		<item>Bố cục văn bản, tài khoản và nội dung có thể không được hiển thị chính xác.</item>
+	</string-array>
 </resources>

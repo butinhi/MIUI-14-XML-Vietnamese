@@ -627,5 +627,5 @@ Kích thước: %2$s"</string>
 	<string name="abc_search_hint">Tìm kiếm...</string>
 	<string name="expand_button_title">Nâng cao</string>
 	<string name="copy">Sao chép</string>
-	<string name="abc_searchview_description_clear">Xóa truy vấn</string>>
+	<string name="abc_searchview_description_clear">Xóa truy vấn</string>
 </resources>

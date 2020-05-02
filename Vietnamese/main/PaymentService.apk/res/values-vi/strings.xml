@@ -798,4 +798,8 @@ Gửi mã này cho người giám sát."</string>
 	<string name="resend_email_reach_limit_title">Quá nhiều lần thử</string>
 	<string name="service_error">Lỗi máy chủ</string>
 	<string name="account_bind_secure_email_title">Thêm email khôi phục</string>
+	<string name="mibi_permanently_denied_perm_camera">Cho phéo Máy ảnh trong Cài đặt để sử dụng tính năng này.</string>
+	<string name="open_settings">Đến Cài đặt</string>
+	<string name="request_camera_permission_message">Dịch vụ này cần phải xin phép bạn như sau, chúng tôi sẽ tuân thủ nghiêm ngặt các luật liên quan để bảo vệ thông tin cá nhân của bạn: &lt;br&gt;&lt;br&gt;&lt;b&gt; Truy cập Máy ảnh: trải nghiệm dịch vụ ghi hình thời gian thực để cài đặt Ảnh đại diện &lt;/b&gt;&lt;br&gt;&lt;br&gt; Nếu bạn không đồng ý gọi các quyền trên, chức năng này sẽ không hoạt động đúng, nhưng nó sẽ không ảnh hưởng đến việc bạn sử dụng các chức năng cơ bản của ứng dụng này. Bạn có thể chọn tắt cuộc gọi cấp phép ở trên trong cài đặt hệ thống để rút lại sự đồng ý của bạn.</string>
+	<string name="mibi_permanently_denied_perm_send_sms">Cho phép gửi SMS trong Cài đặt để sử dụng tính năng này.</string>
 </resources>

@@ -879,5 +879,5 @@ Gửi mã này cho người giám sát."</string>
 	<string name="mtrl_picker_range_header_only_end_selected">Ngày bắt đầu – %1$s</string>
 	<string name="mtrl_picker_date_header_unselected">Ngày đã chọn</string>
 	<string name="mtrl_picker_invalid_format_example">Ví dụ: %1$s</string>
-	<string name="mtrl_picker_save">Lưu</string>>
+	<string name="mtrl_picker_save">Lưu</string>
 </resources>

@@ -350,5 +350,7 @@ Ngoài ra, bạn có thể tắt Chế độ đơn giản và thử lại."</str
 	<string name="miuix_sbl_tracking_progress_labe_up_none">Đừng làm vậy</string>
 	<string name="abc_action_mode_done">Hoàn tất</string>
 	<string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Kéo xuống để làm mới</string>
-	<string name="miuix_sbl_tracking_progress_labe_up_nodata">Không có dữ liệu</string>>
+	<string name="miuix_sbl_tracking_progress_labe_up_nodata">Không có dữ liệu</string>
+	<string name="miui_clear_apks_summary">Tổng %s</string>
+	<string name="miui_clear_apks_title">Tự động xóa gói cài đặt</string>
 </resources>

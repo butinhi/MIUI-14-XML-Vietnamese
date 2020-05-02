@@ -313,5 +313,57 @@
 	<string name="solar_term_heavy_snow">Đại Tuyết</string>
 	<string name="chinese_symbol_animals_dog">Tuất</string>
 	<string name="pm">CH</string>
-	<string name="the_fifth_day">Ngày Thứ năm</string>>
+	<string name="the_fifth_day">Ngày Thứ năm</string>
+	<string name="wallpaper_setting_online_wallpaper_none_title">Khám phá hình nền</string>
+	<string name="saturn_title">Vành đai Sao Thổ</string>
+	<string name="saturn_summary">Các vành đai Sao Thổ tạo nên cảnh tượng đáng kinh ngạc nhất trong Hệ Mặt Trời</string>
+	<string name="super_wallpaper_setting_view_height_title">Độ cao</string>
+	<string name="wallpaper_setting_lock_screen_wallpaper_banner_button_text">Màn hình khóa</string>
+	<string name="wallpaper_setting_title">Hình nền</string>
+	<string name="miui_lock_screen_large_date">"EEE
+dd/M"</string>
+	<string name="super_wallpaper_list_label">Siêu hình nền</string>
+	<string name="wallpaper_setting_super_wallpaper_more_button_text">Thêm</string>
+	<string name="wallpaper_setting_home_wallpaper_banner_button_text">Màn hình chính</string>
+	<string name="mars_position_content_1">"Dòng chảy dốc định kỳ (RSL) là dòng chảy hoạt động trên các sườn dốc sao Hỏa ấm áp có thể gây ra do thấm nước. RSL trong Hale Crater có màu đỏ đỏ khác thường so với hầu hết RSL, có lẽ do các hợp chất sắt bị oxy hóa, như rỉ sét.
+
+NASA/JPL/Đại học Arizona"</string>
+	<string name="mars_position_content_0">"Vùng này chứa các vách đá, cao nguyên và các thung lũng rộng bằng phẳng, được cho là do các sông băng phủ đầy mảnh vụn. Khoáng vật sét cũng đã được phát hiện ở đây, rất đáng quan tâm trong việc tìm kiếm bằng chứng về sự sống trên Sao Hỏa cổ đại.
+
+NASA/JPL/Đại học Arizona"</string>
+	<string name="super_wallpaper_setting_apply_success_toast">Áp dụng thành công</string>
+	<string name="mars_summary">Các sa mạc rộng lớn trên sao Hỏa luôn khiến nhân loại phải khiếp sợ</string>
+	<string name="miui_lock_screen_date_12">EEEE, d MMMM</string>
+	<string name="saturn_super_wallpaper_label">Sao Thổ</string>
+	<string name="miui_lock_screen_date_two_lines">"EEEE
+d MMMM"</string>
+	<string name="miui_lock_screen_date_two_lines_12">"EEEE
+d MMMM"</string>
+	<string name="miui_clock_city_name_local">Cục bộ</string>
+	<string name="game_view_content_description">Xem trò chơi</string>
+	<string name="mars_position_content_2">"Mawrth Vallis là một kênh nước cổ xưa với những tảng đá giàu màu đất sét sáng màu. Khoáng vật sét dễ dàng bảo tồn sự sống vi mô trên Trái đất, vì vậy có lẽ dấu vết của sự sống cổ xưa có thể được tìm thấy tại Mawrth.
+
+NASA/JPL/Đại học Arizona"</string>
+	<string name="miui_lock_screen_large_date_12">"EEE
+dd/M"</string>
+	<string name="super_wallpaper_setting_coordinate_title">Tọa độ</string>
+	<string name="wallpaper_setting_find_more_text">Thêm hình nền trực tuyến</string>
+	<string name="super_wallpaper_setting_choose_position_btn_text">Chọn vị trí</string>
+	<string name="earth_title">Nhà</string>
+	<string name="mars_super_wallpaper_label">Sao Hỏa</string>
+	<string name="earth_summary">Trái đất là cái nôi của nền văn minh nhân loại</string>
+	<string name="wallpaper_setting_online_wallpaper_actionbar_title">Hình nền trực tuyến</string>
+	<string name="miui_lock_screen_date">EEEE, d MMMM</string>
+	<string name="mars_position_title_0">"Khu vực Nilosyrtis
+Mensae"</string>
+	<string name="mars_position_title_1">"Núi Trung tâm
+của
+Hale Crater"</string>
+	<string name="earth_super_wallpaper_label">Trái đất</string>
+	<string name="mars_position_title_2">"Miệng núi lửa trong
+Mawrth Vallis"</string>
+	<string name="mars_title">Hành tinh đỏ</string>
+	<string name="wallpaper_setting_super_wallpaper_banner_title">Siêu hình nền</string>
+	<string name="super_wallpaper_setting_apply_super_wallpaper_button_text">Áp dụng</string>
+	<string name="wallpaper_setting_online_wallpaper_title">Hình nền trực tuyến</string>
 </resources>

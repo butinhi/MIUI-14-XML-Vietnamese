@@ -1285,4 +1285,9 @@ Vui lòng gửi mã này cho kỹ thuật viên."</string>
 	<string name="pause_play">Tạm dừng phát</string>
 	<string name="feedback_toast">"Kênh phản hồi của Đài Xiaomi là cộng đồng Xiaomi
 Đến với Cộng đồng Xiaomi"</string>
+	<string name="open_settings">Tới Cài đặt</string>
+	<string name="request_camera_permission_message">Dịch vụ này cần phải xin phép bạn như sau, chúng tôi sẽ tuân thủ nghiêm ngặt các luật liên quan để bảo vệ thông tin cá nhân của bạn: &lt;br&gt;&lt;br&gt;&lt;b&gt; Truy cập Máy ảnh: trải nghiệm dịch vụ ghi hình thời gian thực để cài đặt Ảnh đại diện &lt;/b&gt;&lt;br&gt;&lt;br&gt; Nếu bạn không đồng ý gọi các quyền trên, chức năng này sẽ không hoạt động đúng, nhưng nó sẽ không ảnh hưởng đến việc bạn sử dụng các chức năng cơ bản của ứng dụng này. Bạn có thể chọn tắt cuộc gọi cấp phép ở trên trong cài đặt hệ thống để rút lại sự đồng ý của bạn.</string>	<string name="tab_all_list">All</string>
+	<string name="subscribe">Đăng ký</string>
+	<string name="all_chapter_count">Tổng số %d tập</string>
+	<string name="tab_voice">Giọng nói</string>
 </resources>

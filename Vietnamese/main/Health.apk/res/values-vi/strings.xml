@@ -1269,5 +1269,5 @@ Nếu thiết bị của bạn nằm trong danh sách này, bạn có thể thê
 	<string name="fmt_time_24hour_minute_second">H:mm:ss</string>
 	<string name="miuix_sbl_tracking_progress_labe_up_nodata">Không có dữ liệu</string>
 	<string name="fmt_time_24hour_minute_second_millis">H:mm:ss.S</string>
-	<string name="miuix_sbl_tracking_progress_labe_refreshed">Đã làm mới</string>>
+	<string name="miuix_sbl_tracking_progress_labe_refreshed">Đã làm mới</string>
 </resources>

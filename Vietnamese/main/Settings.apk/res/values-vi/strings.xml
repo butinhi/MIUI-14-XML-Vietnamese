@@ -10011,5 +10011,202 @@ Sao chép tệp tin sao lưu vào thiết bị của bạn (MIUI-backup-AllBacku
 	<string name="structure_face_data_input_error_expose_features">Không nhìn rõ các phần khuôn mặt</string>
 	<string name="content_description_menu_button">Menu</string>
 	<string name="size_mega_byte">MB</string>
-	<string name="unlock_failed">Lỗi nội bộ</string>>
+	<string name="unlock_failed">Lỗi nội bộ</string>
+	<string name="storage_use_title">Đã dùng</string>
+	<string name="freeform_guide_move_title">Di chuyển cửa sổ nổi xung quanh</string>
+	<string name="allow_oaid_used_desc">"Ứng dụng sẽ không thể truy cập bất kỳ ID nào trừ khi bạn cho phép một cách rõ ràng. Một số tính năng đề xuất cá nhân có thể không hoạt động đúng khi tính năng này được bật."</string>
+	<string name="structure_face_data_input_up">Tìm kiếm</string>
+	<string name="multi_face_number_reach_limit">"Không thể thêm dữ liệu cho nhiều hơn 2 khuôn mặt"</string>
+	<string name="freeform_guide_notification_drop_down_title">Đang mở cửa sổ nổi</string>
+	<string name="structure_face_unlock_not_same_person">"Bạn phải tự hoàn thành tất cả các bước. Đừng đổi chỗ với ai."</string>
+	<string name="face_unlock_success_show_message_msg">Chỉ hiển thị nguồn thông báo khi thiết bị khóa và thêm chi tiết thông báo khi khuôn mặt được xác thực</string>
+	<string name="wifi_security_short_none_owe">Không/OWE</string>
+	<string name="structure_face_unlock_model_dialog_enable">Bật</string>
+	<string name="dark_mode_contrast_hint">Tự động điều chỉnh màu sắc và độ tương phản thấp hơn khi giảm độ sáng</string>
+	<string name="flash_drive_backup_disable">Kết nối thiết bị USB trước</string>
+	<string name="sos_privacy_dialog_message_new_version">"SOS khẩn cấp cho phép bạn chia sẻ vị trí của mình trong thời gian thực và gửi tin nhắn văn bản đến các liên hệ khẩn cấp của bạn.
+Chúng tôi sẽ bảo vệ thông tin cá nhân của bạn theo luật pháp, quy định và chính sách bảo mật có liên quan.
+Lưu ý rằng ứng dụng này cần kết nối với internet và yêu cầu các quyền sau để thu thập thông tin cá nhân của bạn:
+• Truy cập bộ nhớ
+Để lưu danh bạ khẩn cấp
+• Truy cập danh bạ
+Để đánh dấu danh bạ là liên lạc khẩn cấp
+• Gửi tin nhắn SMS
+Để gửi tin nhắn văn bản đến các liên hệ khẩn cấp
+• Truy cập vị trí
+Để chia sẻ vị trí của bạn với các liên hệ khẩn cấp
+Nếu bạn không đồng ý cấp các quyền đó hoặc chia sẻ và tải lên thông tin cá nhân của mình, bạn sẽ không thể sử dụng ứng dụng này. Bạn có thể chọn tắt hoặc không sử dụng SOS khẩn cấp trong những trường hợp như vậy.
+Trước khi sử dụng dịch vụ của chúng tôi, hãy đọc và đồng ý với %s của chúng tôi."</string>
+	<string name="face_data_introduction_title">Nhận diện khuôn mặt</string>
+	<string name="miui_face_enroll_success">"Bạn có thể mở khóa thiết bị này bằng dữ liệu khuôn mặt của bạn.
+Tiếp tục truy cập cài đặt bổ sung."</string>
+	<string name="face_unlock_stay_away_screen">Cách màn hình từ 20-45cm</string>
+	<string name="face_unlock_offset_top">Nâng điện thoại lên một chút</string>
+	<string name="miui_accessibility_asr_summary">Phiên âm và lưu văn bản</string>
+	<string name="regional_screen_shot">Ảnh chụp màn hình một phần</string>
+	<string name="face_data_suggesstion_second">"Đảm bảo tất cả các phần khuôn mặt của bạn không bị che bởi vật nào và nhìn thấy rõ ràng. Khuôn mặt của bạn cũng cần được chiếu sáng tốt."</string>
+	<string name="backup_at_once">Sao lưu</string>
+	<string name="face_data_input_title">Thêm dữ liệu khuôn mặt</string>
+	<string name="clear_data_alert_info">Tất cả sao lưu được lưu trên thiết bị này sẽ bị xóa vĩnh viễn. Sao lưu các mục quan trọng vào máy tính và Xiaomi Cloud trước khi bạn tiếp tục.</string>
+	<string name="three_gesture_long_press">Nhấn và giữ bằng %d ngón tay</string>
+	<string name="face_unlock_success_stay_screen_msg">Ở lại Màn hình khóa sau khi khuôn mặt được xác thực. Vuốt lên để mở Màn hình chính.</string>
+	<string name="wifi_security_none_owe">Không/Enhanced Open</string>
+	<string name="use_control_panel">Sử dụng Trung tâm điều khiển</string>
+	<string name="dark_mode_contrast">Tự động điều chỉnh độ tương phản</string>
+	<string name="structure_face_data_manage_delete_msg">Xóa dữ liệu khuôn mặt 3D</string>
+	<string name="face_data_manage_unlock_msg">Mở khóa thiết bị bằng dữ liệu khuôn mặt của bạn</string>
+	<string name="freeform_guide_notification_drop_down_summary">Nhấn giữ và kéo xuống thanh hành động của một thông báo</string>
+	<string name="multi_face_delete_message">Chú ý</string>
+	<string name="nfc_repair_btn_retry">Thử lại</string>
+	<string name="face_data_input_cancel_msg">"Không thể thêm dữ liệu khuôn mặt"</string>
+	<string name="face_unlock_rotated_right">Quay đầu sang trái</string>
+	<string name="structure_face_modules_abnormal_msg">"Không thể ghi dữ liệu khuôn mặt do lỗi mô-đun quang. Khởi động lại thiết bị và thử lại."</string>
+	<string name="structure_face_unlock_tof_covered">"Không thể thêm dữ liệu khuôn mặt. Di chuyển ra xa màn hình hơn."</string>
+	<string name="face_data_input_ok">Xong</string>
+	<string name="face_unlock_offset_bottom">Hạ thấp điện thoại một chút</string>
+	<string name="structure_face_modules_abnormal_title">Lỗi mô-đun quang</string>
+	<string name="face_unlock_success_show_message_title">Hiển thị chi tiết thông báo sau khi xác thực khuôn mặt</string>
+	<string name="gps_description_global">Hệ thống định vị đa vệ tinh (%s) không được hỗ trợ</string>
+	<string name="micloud_service_summary">Đồng bộ danh sách ứng dụng, sao lưu cài đặt hệ thống và Bố cục Màn hình chính</string>
+	<string name="structure_face_unlock_model_dialog_notenable">Không, cảm ơn</string>
+	<string name="freeform_guide_move_summary">Nhấn và giữ thanh hàn động của cửa sổ nổi để di chuyển</string>
+	<string name="operation_guide_title">Hướng dẫn</string>
+	<string name="nfc_repair_fail_desc">Đã xảy ra lỗi khiến chức năng NFC không được khôi phục. Thử lại.</string>
+	<string name="face_data_input_camera_ok">Đang tải máy ảnh…</string>
+	<string name="structure_face_unlock_model2d_dialog_title">Đang bật nhận diện 2D</string>
+	<string name="structure_face_data_input_timeout_title">Thử lại</string>
+	<string name="structure_face_data_suggestion_text">"Hãy chắc chắn rằng tất cả các phần trên khuôn mặt của bạn được nhìn thấy rõ ràng. Không đội mũ, đeo kính râm hoặc các phụ kiện khác có thể che mặt bạn trong khi ghi dữ liệu khuôn mặt 3D. Hãy chắc chắn rằng khuôn mặt của bạn cũng được chiếu sáng đều."</string>
+	<string name="structure_face_hardware_abnormal_title">Lỗi phần cứng</string>
+	<string name="sos_phone_call_privacy_dialog_message_confirm">Cho phép</string>
+	<string name="structure_face_unlock_model_other_msg_3d">Nhận diện 3D</string>
+	<string name="structure_face_unlock_model3d_dialog_msg">"Nhận diện 2D sẽ bị tắt. Dữ liệu khuôn mặt 2D của bạn sẽ bị xóa. Bạn vẫn có thể thêm dữ liệu khuôn mặt 3D. Bật nhận diện 3D?"</string>
+	<string name="turn_off_keyguard_password_title">Tắt khóa màn hình</string>
+	<string name="nfc_repair_ongoing">"Đang khôi phục… Đừng rời trang này."</string>
+	<string name="continue_reset_factory">Khôi phục cài đặt gốc</string>
+	<string name="face_data_siggesstion_next">Tiếp theo</string>
+	<string name="structure_face_unlock_model2d_dialog_msg">"Nhận diện 3D sẽ bị tắt. Dữ liệu khuôn mặt 3D của bạn sẽ bị xóa. Bạn vẫn có thể thêm dữ liệu khuôn mặt 2D. Bật nhận diện 2D?"</string>
+	<string name="device_of_someone">"%2$s của %1$s"</string>
+	<string name="face_data_suggesstion_first">Vấn đề bảo mật: Mở khóa bằng khuôn mặt kém an toàn hơn mã PIN, mật khẩu hoặc mẫu hình. Thiết bị của bạn có thể được mở khóa bằng ảnh của bạn, cũng như bởi những người hoặc vật thể có ngoại hình tương tự.</string>
+	<string name="face_unlock_rise">Hạ thấp đầu của bạn</string>
+	<string name="nfc_repair_title">Khôi phục tính năng NFC</string>
+	<string name="structure_face_data_delete_fail">"Không thể xóa dữ liệu khuôn mặt 3D. Thử lại."</string>
+	<string name="structure_face_hardware_abnormal_msg">"Xảy ra lỗi phần cứng. Khởi động lại thiết bị. Nếu điều đó không giúp được gì, gọi 400–100–5678 để được hỗ trợ."</string>
+	<string name="face_unlock_by_notification_screen_on_title">Cho phép Mở khóa khuôn mặt khi màn hình sáng lên</string>
+	<string name="structure_face_unlock_model_other_title">Nhận diện khuôn mặt</string>
+	<string name="face_data_introduction_next">Tiếp theo</string>
+	<string name="device_oaid_desc">Thay vìThay vì số nhận dạng thực của bạn, MIUI sẽ cung cấp ID ảo (OAID) cho các ứng dụng của bên thứ ba. Nó ngăn các ứng dụng theo dõi hành vi và sở thích của bạn và bảo vệ quyền riêng tư của bạn.</string>
+	<string name="structure_face_data_ir_input_face">Di chuển đầu của bạn một chút</string>
+	<string name="structure_face_delete_data_dialog_msg_retry">Thử lại</string>
+	<string name="structure_face_unlock_model3d_dialog_title">Đang bật nhận diện 3D</string>
+	<string name="face_unlock_offset_left">Di chuyển sang phải</string>
+	<string name="structure_face_data_input_error_keep_inface">Giữ khuôn mặt bạn ở trong khung</string>
+	<string name="face_unlock_success_show_message_dialog_title">Thông báo màn hình khóa</string>
+	<string name="structure_face_unlock_model_other_msg_2d">Nhận diện 2D</string>
+	<string name="computer_backup_title">Máy tính</string>
+	<string name="structure_face_hardware_abnormal_btn">Đã hiểu</string>
+	<string name="nfc_repair_btn_yes">Có</string>
+	<string name="computer_backup_summary">Sao lưu và khôi phục các mục bằng máy tính</string>
+	<string name="oaid_string">"ID ảo hiện tại:
+%1s"</string>
+	<string name="face_data_manage_unlock_title">Mở khóa bằng dữ liệu khuôn mặt</string>
+	<string name="multi_face_input">Thêm dữ liệu khuôn mặt</string>
+	<string name="structure_face_unlock_model_other">Khác</string>
+	<string name="restore_oaid_positive_step">Khôi phục (%1$d)</string>
+	<string name="phone_backup_summary">Sao lưu và khôi phục các mục trên thiết bị này</string>
+	<string name="flash_drive_backup_enable">Sử dụng thiết bị USB để sao lưu hoặc khôi phục các mục</string>
+	<string name="password_and_security">Mật khẩu &amp; bảo mật</string>
+	<string name="nfc_repair_btn_reboot_later">Để sau</string>
+	<string name="dialog_backup_title">Cập nhật sao lưu trước khi tiến hành khôi phục cài đặt gốc?</string>
+	<string name="other_password">Mật khẩu khác</string>
+	<string name="face_data_manage_unlock_slide_msg">Thay thế vuốt để mở khóa bằng mở khóa khuôn mặt</string>
+	<string name="privacy_protection">Bảo vệ riêng tư</string>
+	<string name="backup_more_settings">Cài đặt</string>
+	<string name="multi_face_delete_show_message">Xóa dữ liệu khuôn mặt ngay?</string>
+	<string name="nfc_repair_summary">Sửa vấn đề ngăn bạn sử dụng tính năng NFC</string>
+	<string name="face_unlock_success_stay_screen_title">Ở lại Màn hình khóa sau khi mở</string>
+	<string name="detail_question">Chi tiết</string>
+	<string name="face_unlock_sc_status">Kéo màn hình xuống để mở máy ảnh</string>
+	<string name="nfc_repair_btn_reboot">Khởi động lại</string>
+	<string name="nfc_repair_pass_title">Khôi phục thành công</string>
+	<string name="face_data_input_structure_title">Dữ liệu khuôn mặt 3D</string>
+	<string name="structure_face_unlock_model_other_suggestion_2d">Nhận dạng khuôn mặt 2D kém an toàn hơn so với mẫu hình, mã PIN hoặc mật khẩu. Khi tính năng này được bật, thiết bị của bạn có thể được mở khóa bằng ảnh của bạn, cũng như những người hoặc vật thể trông giống bạn.</string>
+	<string name="freeform_guide_slide_up_to_close_summary">Vuốt lên từ thanh hành động của cửa sổ nổi</string>
+	<string name="bottom_function_settings">Tính năng của nút mở rộng</string>
+	<string name="face_unlock_success_show_message_dialog_negative_btn">Không, cảm ơn</string>
+	<string name="face_data_manage_delete_msg">Xóa dữ liệu khuôn mặt</string>
+	<string name="freeform_guide_move_to_small_freeform_window_summary">Kéo cửa sổ nổi tới góc màn hình</string>
+	<string name="face_data_input_camera_fail">"Không thể tải máy ảnh"</string>
+	<string name="face_unlock_down">Ngẩng đầu lên một chút</string>
+	<string name="freeform_guide_drop_down_to_fullscreen_title">Xem cửa sổ nổi trong chế độ toàn màn hình</string>
+	<string name="face_data_input_ok_title">Thêm thành công</string>
+	<string name="sound_assist_title">Trợ lý âm thanh</string>
+	<string name="sos_phone_call_privacy_dialog_message">"Để gọi cho các số liên lạc khẩn cấp của bạn và phát bản ghi SOS, ứng dụng này cần có các quyền sau:
+• Gọi điện
+Để thực hiện cuộc gọi đến danh bạ khẩn cấp của bạn
+• Theo dõi trạng thái thiết bị
+Để phát ghi âm SOS khi liên lạc khẩn cấp của bạn nhận
+Nếu bạn không đồng ý cấp các quyền đó, bạn sẽ không thể sử dụng một số tính năng của ứng dụng này; tuy nhiên, chức năng cơ bản của nó vẫn sẽ có sẵn cho bạn. Bạn luôn có thể chọn tắt tính năng này."</string>
+	<string name="nfc_repair_action_desc">Chạm \"&lt;b&gt;Khôi phục&lt;/b&gt;"\" để sửa vấn đề ngăn bạn sử dụng tính năng NFC. Không rời trang hiện tại khi khôi phục tính năng NFC. Khởi động lại thiết bị để áp dụng thay đổi."</string>
+	<string name="multi_face_input_success_name_title">Tên</string>
+	<string formatted="false" name="nfc_repair_confirm_desc">"Bạn có gặp bất kỳ vấn đề nào dưới đây không?
+%d. Bạn không thể thêm hoặc ghi thẻ NFC.
+%d. Thẻ NFC của bạn không hoạt động.
+%d. Các tính năng NFC khác không chạy."</string>
+	<string name="restore_oaid_dialog_content">ID nhận dạng ảo của bạn hiện đang được nhiều ứng dụng sử dụng. Nếu bạn đặt lại ID, điều đó có thể khiến một số dữ liệu người dùng ứng dụng không chính xác hoặc bị mất. Bạn có chắc chắn đặt lại ID nhận dạng ảo không??</string>
+	<string name="nfc_repair_action_btn">Khôi phục</string>
+	<string name="structure_face_data_introduction_back">Quay lại</string>
+	<string name="structure_face_delete_data_dialog_title">"Không thể chạy Máy ảnh"</string>
+	<string name="sos_phone_log_privacy_dialog_message">"Ứng dụng này cần có quyền truy cập vào lịch sử cuộc gọi của bạn để có thể chia sẻ nó với các liên hệ khẩn cấp của bạn.
+Nếu bạn không đồng ý cấp các quyền đó, bạn sẽ không thể sử dụng một số tính năng của ứng dụng này; tuy nhiên, chức năng cơ bản của nó vẫn sẽ có sẵn cho bạn. Bạn luôn có thể chọn tắt tính năng này."</string>
+	<string name="face_data_apply_for_category_title">Mở khóa bằng dữ liệu khuôn mặt</string>
+	<string name="structure_face_delete_data_dialog_msg">"Không thể chạy Máy ảnh và xem trước. Thử lại."</string>
+	<string name="face_unlock_category_title">Tùy chọn khóa màn hình</string>
+	<string name="feedback_btn_text">Gửi phản hồi</string>
+	<string name="cloud_category_text">Đám mây</string>
+	<string name="custom_color">Tùy chỉnh</string>
+	<string name="phone_backup_title">Thiết bị di động</string>
+	<string name="change_lock_screen_password_title">Thay đổi khóa màn hình</string>
+	<string name="multi_face_list">Dữ liệu khuôn mặt</string>
+	<string name="face_unlock_offset_right">Quay sang trái</string>
+	<string name="structure_face_data_input_down">Cúi đầu xuống một chút</string>
+	<string name="structure_face_data_input_timeout_msg">"Không thể ghi. Thử lại."</string>
+	<string name="structure_face_data_introduction_title">Thêm dữ liệu khuôn mặt 3D</string>
+	<string name="face_unlock_rotated_left">Quay đầu sang phải</string>
+	<string name="nfc_repair_pass_desc">Khởi động lại thiết bị để áp dụng thay đổi.</string>
+	<string name="rgb_face_data_manage_delete_msg">Xóa dữ liệu khuôn mặt 2D</string>
+	<string name="freeform_guide_slide_up_to_close_title">Đóng cửa sổ nổi</string>
+	<string name="multi_face_name_prefix">"Khuôn mặt "</string>
+	<string name="face_unlock_success_show_message_toast">Thông báo sẽ được hiển thị trên Màn hình khóa</string>
+	<string name="structure_face_modules_abnormal_btn">Khởi động lại</string>
+	<string name="face_data_manage_unlock_liftcamera_msg">Sau khi màn hình sáng lên, vuốt lên để mở khóa thiết bị bằng dữ liệu khuôn mặt.</string>
+	<string name="structure_face_data_input_left">Quay đầu sang trái</string>
+	<string name="default_keyboard">Mặc định</string>
+	<string name="freeform_guide_move_to_small_freeform_window_title">Thu nhỏ cửa sổ nổi</string>
+	<string name="nfc_repair_btn_no">Không</string>
+	<string name="face_unlock_close_screen">Đến gần màn hình hơn</string>
+	<string name="face_data_introduction_msg">Dữ liệu khuôn mặt có thể sử dụng để mở khóa thiết bị hoặc xác minh danh tính của bạn. Thêm Mật khẩu khóa màn hình trước khi thêm dữ liệu khuôn mặt.</string>
+	<string name="multi_face_input_reach_upper_limit">"Không thể thêm dữ liệu khuôn mặt. Chờ một vài phút rồi thử lại."</string>
+	<string name="face_unlock_quality">"Không thể thấy rõ mặt bạn"</string>
+	<string name="nfc_repair_fail_title">"Không thể khôi phục"</string>
+	<string name="freeform_guide_drop_down_to_fullscreen_summary">Nhấn giữ và kéo xuống thanh hành động của một cửa sổ nổi</string>
+	<string name="face_unlock_success_show_message_dialog_msg">Cho phép Thông báo màn hình khóa để có thể xem chúng trên Màn hình khóa.</string>
+	<string name="bluetooth_device_nearby_title">Thiết bị gần đây</string>
+	<string name="face_data_apply_for_keyguard_title">Màn hình khóa</string>
+	<string name="face_data_manage_delete">Xóa dữ liệu khuôn mặt?</string>
+	<string name="face_unlock_success_show_message_dialog_positive_btn">Cho phép</string>
+	<string name="structure_face_unlock_model_other_suggestion_3d">"Nhận dạng khuôn mặt 3D tương đối an toàn. Rất có khả năng thiết bị của bạn có thể được mở khóa bằng ảnh của bạn khi tính năng này được bật. Tuy nhiên, nó có thể được mở khóa bởi những người hoặc vật thể trông giống bạn."</string>
+	<string name="structure_face_data_input_right">Quay đầu sang phải</string>
+	<string name="device_oaid_title">ID ảo</string>
+	<string name="help_and_feedback_title">Trợ giúp và phản hồi</string>
+	<string name="freeform_guide_settings">Cửa sổ nổi</string>
+	<string name="face_data_siggesstion_next_time">Tiếp theo (%d giây)</string>
+	<string name="freeform_vedio_description">"·Nhấn giữ và kéo xuống một thông báo để mở nó trong cửa sổ nổi.
+·Chạm \"Cửa sổ nổi\" trong Gần đây để chọn ứng dụng."</string>
+	<string name="face_unlock_by_notification_screen_on_msg">Bạn có thể mở khóa thiết bị bằng dữ liệu khuôn mặt bất cứ khi nào màn hình sáng lên để nhận thông báo đến. Điều này có thể tiêu hao pin nhanh hơn.</string>
+	<string name="structure_face_data_suggestion_warning_text">Lưu ý: Sử dụng dữ liệu khuôn mặt 3D kém an toàn hơn một chút so với sử dụng mật khẩu. Những người hoặc vật thể trông rất giống bạn có thể mở khóa thiết bị của bạn.</string>
+	<string name="sound_assist_summary">Tùy chỉnh cài đặt âm thanh của bạn</string>
+	<string name="face_data_manage_delete_sure">"Bạn sẽ không thể mở khóa thiết bị bằng dữ liệu khuôn mặt của bạn nếu xóa."</string>
+	<string name="face_unlock">Mở khóa khuôn mặt</string>
+	<string name="current_password">Khóa màn hình hiện tại</string>
+	<string name="structure_face_data_introduction_msg">Dữ liệu khuôn mặt 3D cho phép bạn mở khóa thiết bị và xác minh danh tính của bạn. Bạn cần đặt mật khẩu trước khi sử dụng tính năng này.</string>
 </resources>

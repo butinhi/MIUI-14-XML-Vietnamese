@@ -1419,10 +1419,10 @@ Chụp nhiều ảnh bạn của bạn hơn!"</string>
     <string name="card_title_activities">Sự kiện</string>
     <string name="card_title_annual_events">Những bữa tiệc của tôi trong %1$s</string>
     <string name="card_title_annual_foods">Ngon lành %1$s</string>
-    <string name="card_title_annual_pets">Bàn chân lông trong %1$s</string>
+    <string name="card_title_annual_pets">Thú cưng trong %1$s</string>
     <string name="card_title_annual_travel">Chuyến đi của tôi trong %1$s</string>
     <string name="card_title_monthly_foods">Ngon</string>
-    <string name="card_title_monthly_pets">Bàn chân lông</string>
+    <string name="card_title_monthly_pets">Thú cưng</string>
     <string name="card_title_party">Tiệc tùng</string>
     <string name="card_title_pastyear_activities">Sự kiện năm ngoái</string>
     <string name="card_title_pastyear_party">Các bữa tiệc năm ngoái</string>
@@ -2231,5 +2231,5 @@ Chụp nhiều ảnh bạn của bạn hơn!"</string>
 	<string name="time_picker_dialog_title">Đặt giờ</string>
 	<string name="expand_button_title">Nâng cao</string>
 	<string name="copy">Sao chép</string>
-	<string name="miuix_appcompat_cloud_state_disabled">Đồng bộ với đám mây đã tắt</string>>
+	<string name="miuix_appcompat_cloud_state_disabled">Đồng bộ với đám mây đã tắt</string>
 </resources>

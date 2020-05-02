@@ -26,4 +26,8 @@
     <string-array name="disable_package_replacement">
         <item>Tắt tên gói</item>
     </string-array>
+	<string-array name="wallpaper_version">
+		<item>Trực quan trung quốc</item>
+		<item>IC phương Đông</item>
+	</string-array>
 </resources>

@@ -717,5 +717,5 @@ Dữ liệu chưa được nhập phải được nhập lại."</string>
 	<string name="abc_action_mode_done">Hoàn tất</string>
 	<string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Kéo xuống để làm mới</string>
 	<string name="miuix_sbl_tracking_progress_labe_up_nodata">Không có dữ liệu</string>
-	<string name="size_mega_byte">MB</string>>
+	<string name="size_mega_byte">MB</string>
 </resources>

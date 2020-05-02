@@ -114,4 +114,13 @@
 	<string name="system_print_service_help">Tìm hiểu về In</string>
 	<string name="copies_decrease">Sao chép -1</string>
 	<string name="copies_increase">Sao chép +1</string>
+	<string name="activity_jump_market_alert_install_positive_button">Cài đặt</string>
+	<string name="activity_convert_pdf_alert_title">Chuyển đổi tập tin trước khi in…</string>
+	<string name="activity_jump_market_alert_install_message">"Cài đặt WPS Office để chuyển đổi tập tin này và chuẩn bị in. Bạn cần phải in lại từ đầu sau khi cài đặt hoàn tất. Cài đặt ngay?"</string>
+	<string name="activity_jump_market_alert_update_message">"Cập nhật WPS Office để chuyển đổi tập tin này và chuẩn bị in. Bạn cần phải in lại từ đầu sau khi cài đặt hoàn tất. Cập nhật ngay?"</string>
+	<string name="activity_convert_pdf_alert_message">Chuyển đổi tập tin được cung cấp bởi WPS Office</string>
+	<string name="activity_jump_market_alert_title">Chú ý</string>
+	<string name="wps_convert_too_large_and_wait_toast_text">Chuyển đổi có thể lâu hơn dự kiến vì kích thước tệp tin lớn. Đang chuyển đổi…</string>
+	<string name="wps_convert_error_toast_text">"Không thể chuyển đổi tập tin vì lỗi định dạng"</string>
+	<string name="activity_jump_market_alert_update_positive_button">Cập nhật</string>
 </resources>
