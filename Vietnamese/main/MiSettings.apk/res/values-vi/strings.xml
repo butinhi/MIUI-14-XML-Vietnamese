@@ -605,4 +605,57 @@
 	<string name="pm">CH</string>
 	<string name="screen_fps_summary_power_save">Sử dụng tỷ lệ cố định tiêu thụ ít năng lượng hơn</string>
 	<string name="the_fifth_day">Ngày Thứ năm</string>
+	<string name="control_center_title_new">Đã dùng hôm nay</string>
+	<string name="usage_new_home_unlock_equals_text">Giống hôm qua</string>
+	<string name="usage_runtime_per_des_title">"Thêm và xóa tệp trên bộ nhớ trong của thiết bị"</string>
+	<string name="usage_new_home_week_category_title">Danh mục ứng dụng</string>
+	<string name="usage_new_home_average">"Trung bình "</string>
+	<string name="usage_new_home_compare_text1">Nhiều hơn hôm qua %.2f</string>
+	<string name="usage_new_home_which_week">Tuần %d</string>
+	<string name="usage_runtime_per_des_summary">Để lưu thống kê Thời gian sử dụng màn hình của bạn</string>
+	<string name="normal_mode">Thường</string>
+	<string name="anti_flicker_mode">Chống nháy</string>
+	<string name="usage_new_home_compare_text2">Ít hơn hôm qua %.2f</string>
+	<string name="usage_new_home_compare_text3">Giống hôm qua</string>
+	<string name="anti_flicker_mode_summary">Giảm nhấp nháy trong điều kiện ánh sáng yếu để giảm mỏi mắt. Một số yếu tố có thể không được hiển thị chính xác.</string>
+	<string name="anti_flicker_title">Chế độ chống nháy</string>
+	<string name="usage_permisison_agree_desc_p">Để cung cấp cho bạn Thời gian Màn hình và thống kê chế độ Tập trung, ứng dụng này cần thu thập dữ liệu sau: số lần bạn mở khóa thiết bị, danh sách ứng dụng của bạn cùng với thời lượng sử dụng tương ứng, số lần màn hình của bạn sáng lên, và cài đặt chế độ Tập trung.</string>
+	<string name="usage_permisison_agree_desc_o">Để cung cấp cho bạn số liệu thống kê Thời gian màn hình, ứng dụng này cần thu thập dữ liệu sau: số lần bạn mở khóa thiết bị, danh sách các ứng dụng của bạn cùng với thời lượng sử dụng tương ứng.</string>
+	<string name="usage_new_home_update">Thay đổi</string>
+	<string name="usage_new_home_week_compare_text2">Ít hơn tuần trước %.2f</string>
+	<string name="usage_new_home_week_compare_text1">Nhiều hơn tuần trước %.2f</string>
+	<string name="usage_new_home_day_category_title">Danh mục ứng dụng</string>
+	<string name="focus_mode_timer_exist">Phiên này đã tồn tại</string>
+	<string name="low_light_preview">Xem trước thiếu sáng</string>
+	<string name="normal_mode_summary">"Không giảm nhấp nháy trong điều kiện thiếu sáng"</string>
+	<string name="usage_new_home_day_title">Ngày</string>
+	<string name="anti_flicker_mode_categroy">Chế độ</string>
+	<string name="usage_optional_summary">"Các quyền này được yêu cầu khi bạn sử dụng tính năng bổ sung."</string>
+	<string name="usage_new_home_date_day_title">%s | Thời lượng sử dụng</string>
+	<string formatted="false" name="usage_permission_double_link">&lt;Data&gt;"Ứng dụng này cần kết nối với internet và thu thập dữ liệu cá nhân cần thiết để có thể hoạt động bình thường. Để hiểu đầy đủ quyền của bạn với tư cách là người dùng cũng như cách chúng tôi sử dụng dữ liệu của bạn, đọc và đồng ý với &lt;a href='%1s'&gt;Thỏa thuận Người dùng&lt;/a&gt; và &lt;a href='%2s'&gt;Chính sách Riêng tư&lt;/a&gt; của chúng tôi."&lt;/Data&gt;</string>
+	<string name="focus_mode_timer_delete">Xóa</string>
+	<string name="usage_new_home_show_more_data_summary">Bạn cũng có thể giới hạn thời gian màn hình cho từng ứng dụng</string>
+	<string formatted="false" name="focus_mode_timer_pick_dialog_summary">%d đến %d phút</string>
+	<string name="usage_new_home_week_usage_title">Ứng dụng riêng lẻ</string>
+	<string name="usage_new_home_unused">"Không sử dụng"</string>
+	<string name="usage_new_home_current_week">Tuần này</string>
+	<string name="usage_optional_title">Quyền tùy chọn</string>
+	<string name="usage_new_home_day_usage_title">Ứng dụng riêng lẻ</string>
+	<string name="usage_new_home_week_equals_text">Giống tuần trước</string>
+	<string name="usage_new_home_dashboard">Trang chủ</string>
+	<string name="usage_permission_title">Chú ý</string>
+	<string name="control_center_title">Thời gian màn hình hôm nay</string>
+	<string name="usage_new_home_week_title">Tuần</string>
+	<string name="usage_new_home_category">Danh mục</string>
+	<string name="usage_new_home_week_unlock_equals_text">Giống tuần trước</string>
+	<string name="usage_runtime_summary">Các quyền dưới đây được yêu cầu để khiến tính năng và dịch vụ cơ bản của ứng dụng này hoạt động được.</string>
+	<string name="usage_new_home_name">Tên</string>
+	<string name="focus_mode_custom_time">Tùy chỉnh thời lượng</string>
+	<string name="focus_mode_timer_pick_dialog_title">Nhập thời lượng</string>
+	<string name="focus_mode_timer_add_limit">Bạn có thể thêm tới %d hẹn giờ tùy chỉnh</string>
+	<string name="usage_runtime_title">Quyền bắt buộc</string>
+	<string name="usage_new_home_first_unlock">Lần mở khóa đầu tiên: %s</string>
+	<string name="usage_new_home_show_more_data_title">Xem thêm thống kê</string>
+	<string name="usage_permission_main_desc">"Chào mừng bạn đến Thời gian màn hình!
+Ứng dụng này cần kết nối mạng và yêu cầu các quyền dưới đây để hoạt động bình thường:"</string>
 </resources>

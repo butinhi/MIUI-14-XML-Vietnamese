@@ -717,5 +717,51 @@ Dữ liệu chưa được nhập phải được nhập lại."</string>
 	<string name="abc_action_mode_done">Hoàn tất</string>
 	<string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Kéo xuống để làm mới</string>
 	<string name="miuix_sbl_tracking_progress_labe_up_nodata">Không có dữ liệu</string>
-	<string name="size_mega_byte">MB</string>
+	<string name="new_usb_disconnect_dialog_title">"Không thể tìm thấy ổ USB"</string>
+	<string name="new_britem_audio">Âm thanh</string>
+	<string name="new_more_settings_label">Cài đặt bổ sung</string>
+	<string name="new_tab_pc_backup">Sao lưu vào máy tính</string>
+	<string name="new_usb_disconnect_dialog_message">Kết nối ổ USB trước.</string>
+	<string name="new_select_pic">Ảnh</string>
+	<string name="new_select_tencent">QQ và WeChat</string>
+	<string name="new_britem_other">Khác</string>
+	<string name="new_select_message">SMS, liên hệ, và lịch sử cuộc gọi</string>
+	<string name="new_local_detail_description">"Ghi chú:
+%1$d. Chép bản sao lưu vào máy tính của bạn để tránh mất dữ liệu. %2$s.
+%3$d. Bản sao lưu sẽ được lưu vào MIUI-Backup-AllBackup."</string>
+	<string name="new_britem_pic">Ảnh</string>
+	<string name="new_usb_detail_description">"Ghi chú:
+%1$d. Phương pháp này cho phép sao lưu ứng dụng bên thứ ba và dữ liệu ứng dụng.
+%2$d. Đảm bảo ổ USB đủ dung lượng để lưu bản sao lưu."</string>
+	<string name="new_usb_tab_backup">Sao lưu vào ổ USB</string>
+	<string name="new_pc_title">Sao chép bản sao lưu</string>
+	<string name="new_local_click_to_jump">Chạm để xem hướng dẫn chi tiết</string>
+	<string name="new_britem_doc">Tệp tin</string>
+	<string name="new_local_tab_backup">Sao lưu vào thiết bị di động</string>
+	<string name="new_local_button_restore">Khôi phục</string>
+	<string name="new_select_third_data">Dữ liệu ứng dụng bên thứ ba</string>
+	<string name="new_pc_backup_summary4">Ghi chú: bạn cũng có thể sao chép ảnh và video từ MIUI-DCIM.</string>
+	<string name="new_pc_backup_summary2">Kết nối thiết bị di động của bạn vào máy tính bằng cáp USB.</string>
+	<string name="new_pc_backup_summary1">Chọn mục và chạm \"Sao lưu\".</string>
+	<string name="new_select_third_apk">Ứng dụng bên thứ ba</string>
+	<string name="new_local_button_backup">Sao lưu</string>
+	<string name="new_select_file">Âm thanh, video, và tệp tin</string>
+	<string name="new_low_storage_title">Không đủ dung lượng lưu trữ</string>
+	<string name="new_tab_pc_restore">Khôi phục từ máy tính</string>
+	<string name="new_pc_backup_content1">%1$d. Mở \"%2$s\".</string>
+	<string name="new_usb_tab_restore">Khôi phục từ ổ USB</string>
+	<string name="new_pc_backup_content2">%d. Chờ đến khi tất cả các mục được sao lưu.</string>
+	<string name="new_confirm_enable_encrypt_content">"MIUI liên kết sao lưu đã mã hóa với Tài khoản Mi của bạn. Bạn sẽ phải đăng nhập vào Tài khoản Mi của bạn để khôi phục từ các bản sao lưu đó."</string>
+	<string name="new_pc_backup_content3">%d. Tìm bản sao lưu trong MIUI-Backup-AllBackup.</string>
+	<string name="new_pc_backup_content4">%d. Sao chép tệp vào máy tính của bạn.</string>
+	<string name="new_select_third">Ứng dụng bên thứ ba và dữ liệu ứng dụng</string>
+	<string name="new_pc_restore_content3">%1$d. Mở \"%2$s\" và chọn mục để khôi phục.</string>
+	<string name="new_usb_select_data_no_space">Chỉ %s bộ nhớ khả dụng trên ổ USB của bạn. Giải phóng thêm dung lượng.</string>
+	<string name="new_confirm_enable_encrypt_title">Mã hóa</string>
+	<string name="new_select_system">Dữ liệu ứng dụng hệ thống khác</string>
+	<string name="new_pc_restore_content1">%d. Kết nối thiết bị di động vào máy tính bằng cáp USB.</string>
+	<string name="new_local_tab_restore">Khôi phục từ thiết bị di động</string>
+	<string name="new_pc_restore_content2">%d. Sao chép bản sao lưu từ máy tính của bạn vào MIUI-Backup-AllBackup.</string>
+	<string name="new_task_finished">Xong</string>
+	<string name="new_pc_backup_restore_link">Thiết bị di động</string>
 </resources>

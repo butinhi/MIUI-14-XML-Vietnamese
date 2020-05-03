@@ -32,5 +32,8 @@
 	</plurals>
 	<plurals name="mtrl_badge_content_description">
 		<item quantity="other">%d thông báo mới</item>
-	</plurals>>
+	</plurals>
+	<plurals name="photo_count">
+		<item quantity="other">%s ảnh</item>
+	</plurals>
 </resources>

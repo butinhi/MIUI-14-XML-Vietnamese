@@ -175,5 +175,5 @@
 	<plurals name="in_num_minutes">
 		<item quantity="other">trong %d phút</item>
 		<item quantity="one">trong 1 phút</item>
-	</plurals>>
+	</plurals>
 </resources>

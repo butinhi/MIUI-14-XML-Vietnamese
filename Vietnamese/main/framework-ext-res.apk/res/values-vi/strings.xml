@@ -298,4 +298,11 @@
 	<string name="input_method_clipboard_check_more_add_to_phrase">Thêm cụm từ thường xuyên</string>
 	<string name="input_method_clipboard_checkbox_cancle">Hủy</string>
 	<string name="input_method_clipboard_checkbox_confirm">Xóa</string>
+	<string name="device_status_failed">"Không thể gửi"</string>
+	<string name="device_status_waiting">Đang chờ…</string>
+	<string name="device_status_sending">Đang gửi…</string>
+	<string name="open_close_tip_content">Để đóng cửa sổ nổi, nhấn giữ thanh hành động và vuốt lên</string>
+	<string name="open_close_tip_action">Đã hiểu</string>
+	<string name="device_status_success">Gửi thành công</string>
+	<string name="security_share_text">Bảo vệ riêng tư</string>
 </resources>

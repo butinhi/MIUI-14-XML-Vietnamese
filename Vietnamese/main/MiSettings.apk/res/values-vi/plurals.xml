@@ -141,5 +141,14 @@
 	<plurals name="in_num_minutes">
 		<item quantity="other">trong %d phút</item>
 		<item quantity="one">trong 1 phút</item>
-	</plurals>>
+	</plurals>
+	<plurals name="usage_new_home_total_unlocks">
+		<item quantity="other">Đã mở khóa %d lần</item>
+	</plurals>
+	<plurals name="usage_new_home_total_week_unlocks">
+		<item quantity="other">Đã mở khóa %d lần</item>
+	</plurals>
+	<plurals name="usage_new_home_avg_unlockc">
+		<item quantity="other">Trung bình %.2f lần mỗi ngày</item>
+	</plurals>
 </resources>

@@ -449,4 +449,23 @@ sau khi Sức khỏe Mi phân tích đủ dữ liệu"</string>
 	<string name="miuix_sbl_tracking_progress_labe_up_nodata">Không có dữ liệu</string>
 	<string name="expand_button_title">Nâng cao</string>
 	<string name="copy">Sao chép</string>
+	<string name="life_post_setting_open_listen_news_title">Nghe tin tức vào buổi sáng</string>
+	<string name="worldcolock_time_date">dd/MM/yyyy</string>
+	<string name="add_timer">Hẹn giờ thường xuyên</string>
+	<string name="worldclock_second_time">Thời gian trong %s</string>
+	<string name="reach_upper_limit">"Không thể thêm hẹn giờ"</string>
+	<string name="current_stopwatch_time">Thời điểm hiện tại</string>
+	<string name="life_post_setting_video_news_remind">Vui lòng cài đặt phiên bản mới nhất của Xiaomi Music để tận hưởng dịch vụ tin tức buổi sáng</string>
+	<string name="worldclock_local_time">Giờ địa phương</string>
+	<string name="already_exist">Hẹn giờ này đã tồn tại</string>
+	<string name="sleep_analysis_chart_date_format">dd/MM</string>
+	<string name="city_time_contrast_desc">Chạm để so sánh thời gian ở các thành phố khác nhau</string>
+	<string name="timer_item_delete">Xóa</string>
+	<string name="system_permission_agree_desc">Cho phép ứng dụng này kết nối mạng để sử dụng tất cả tính năng của nó.</string>
+	<string name="system_permission_main_purpose">Xem thời gian, cài đặt báo thức và hẹn giờ, sử dụng đồng hồ bấm giờ</string>
+	<string name="shut_down_alarm_no_news">Tắt đồng hồ báo thức không thể tận hưởng dịch vụ tin tức buổi sáng</string>
+	<string name="listen_news_msg">Đồng hồ cần được kết nối mạng để cung cấp dịch vụ tin tức buổi sáng. Bạn có đồng ý không?</string>
+	<string name="life_post_setting_open_listen_news_summary">Sau khi bật, Life Daily sẽ cho bạn xem thẻ tin tức</string>
+	<string name="click_listen_news_container">Bấm vào thẻ tin tức buổi sáng</string>
+	<string name="install_news_app_error">Cài đặt lỗi</string>
 </resources>

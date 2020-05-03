@@ -1270,4 +1270,32 @@ Nếu thiết bị của bạn nằm trong danh sách này, bạn có thể thê
 	<string name="miuix_sbl_tracking_progress_labe_up_nodata">Không có dữ liệu</string>
 	<string name="fmt_time_24hour_minute_second_millis">H:mm:ss.S</string>
 	<string name="miuix_sbl_tracking_progress_labe_refreshed">Đã làm mới</string>
+	<string name="per_time_minutes1">" mỗi phút"</string>
+	<string name="exercise_heart_rate">Nhip tim</string>
+	<string name="welcome_exercise_description">Mang theo thiết bị để tự động theo dõi tập luyện</string>
+	<string name="exercise_heart_rate_range">Khoảng nhịp tim</string>
+	<string name="title_select_birthday_description">"Chúng tôi sẽ điều chỉnh dịch vụ theo tuổi của bạn"</string>
+	<string name="sleep_detection_question_one_title_1">"Tại sao giấc ngủ ngắn và giấc ngủ sâu không được ghi lại?"</string>
+	<string name="welcome_sedentary_description">"Sức khỏe Xiaomi có thể nhắc bạn đứng khi bạn ngồi quá lâu"</string>
+	<string name="exercise_speed">Tốc độ</string>
+	<string name="sleep_detection_question_one_answer_1">"Phân tích giấc ngủ sâu dựa vào dữ liệu chuyển động cơ thể được thu thập bởi các cảm biến trên điện thoại di động. Các điều kiện sau đây có thể dẫn đến không có kết quả phân tích giấc ngủ: 
+1. Thu thập dữ liệu thất bại. Thu thập và tính toán dữ liệu có thể không được thực hiện bình thường do tắt điện thoại di động hoặc không đủ năng lượng trong khi ngủ. 
+2. Phân tích dữ liệu thất bại. Có thể là điện thoại di động được đặt cách xa cơ thể hoặc tĩnh, dẫn đến chuyển động cơ thể được thu thập là không rõ ràng, và các đặc điểm giấc ngủ sâu không thể được phân tích tạm thời. Chúng tôi sẽ tiếp tục tối ưu hóa thuật toán."</string>
+	<string name="welcome_sleep_description">Đặt điện thoại bên cạnh bạn để tìm hiểu về chu kỳ giấc ngủ của bạn vào buổi sáng</string>
+	<string name="welcome_sleep">Phân tích chu kỳ ngủ</string>
+	<string name="guide_exit">Thoát Sức khỏe Xiaomi</string>
+	<string name="title_select_gender_description">"Chúng tôi sẽ điều chỉnh dịch vụ theo giới tính của bạn"</string>
+	<string name="title_select_weight_description">Nó sẽ làm thống kê của chúng tôi chính xác hơn</string>
+	<string name="guide_exit_description">"Chúng tôi không thể cung cấp dịch vụ cho những người chưa tròn 14 tuổi. Đảm bảo bạn đang sử dụng thiết bị này với sự cho phép của người giám hộ hợp pháp của bạn. Nhấn vào nút bên dưới để thoát khỏi ứng dụng."</string>
+	<string name="title_select_height_description">Nó sẽ làm thống kê của chúng tôi chính xác hơn</string>
+	<string name="guide_exit_title">Bạn có thể sử dụng Sức khỏe Xiaomi sau khi bạn được 14 tuổi</string>
+	<string name="altitude_range">Độ cao</string>
+	<string name="welcome_exercise">Theo dõi tập luyện</string>
+	<string name="welcome_start_use">Bắt đầu</string>
+	<string name="date_format_yyyy_m_d_h_m">dd/MM/yyyy HH:mm</string>
+	<string name="date_format_m_d_h_m">dd-MM HH:mm</string>
+	<string name="sleep_deep_light_no_data_improvement">Các tính năng ngủ sâu không được xác định và các nỗ lực sẽ được thực hiện để tối ưu hóa thuật toán.</string>
+	<string name="sleep_deep_light_no_data">Không có bản ghi ngủ sâu</string>
+	<string name="welcome_sedentary">Tiếp tục di chuyển</string>
+	<string name="tb_stand_wm_column_click">%1$s. Nghỉ giải lao: %2$d. %3$s.</string>
 </resources>

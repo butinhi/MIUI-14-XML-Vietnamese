@@ -19,7 +19,7 @@
         <item>4,001~6,000 Tệ</item>
         <item>6,001~8,000 Tệ</item>
         <item>8,001~12,000 Tệ</item>
-        <item>> 12,000 Tệ</item>
+        <item> 12,000 Tệ</item>
     </string-array>
     <string-array name="question_no1">
         <item>Gia đình</item>

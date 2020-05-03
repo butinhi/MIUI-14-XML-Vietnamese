@@ -558,4 +558,7 @@
 	<plurals name="show_bluetooth_devices">
 		<item quantity="other">%1$d thiết bị đã kết nối</item>
 	</plurals>
+	<plurals name="saved_network_checked_num">
+		<item quantity="other">Đã chọn %d mục</item>
+	</plurals>
 </resources>

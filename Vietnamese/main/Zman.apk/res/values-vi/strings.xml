@@ -1,4 +1,24 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="v7_preference_off">TẮT</string>
+	<string name="once_settings_subtitle">Bạn muốn chia sẻ mục đã chọn như thế nào?</string>
+	<string name="settings_tip">Vào Thư viện &gt; Cài đặt để xem thêm tùy chọn</string>
+	<string name="once_settings_camera_ttile">Chia sẻ không có siêu dữ liệu</string>
+	<string name="settings_share_enable_summary">Mục bạn chia sẻ lên WeChat sẽ xuất hiện với huy hiệu MIUI</string>
+	<string name="first_settings_default_camera_title">Mặc định chia sẻ không có siêu dữ liệu</string>
+	<string name="once_settings_location_title">Chia sẻ không có thông tin vị trí</string>
+	<string name="settings_share_info">Dưới đây là các tùy chọn chia sẻ an toàn có sẵn cho các mục được chia sẻ từ Thư viện và Trình quản lý tệp:</string>
+	<string name="settings_title">Chia sẻ an toàn</string>
+	<string name="first_settings_default_location_title">Mặc định chia sẻ không có thông tin vị trí</string>
+	<string name="first_settings_share_enable_subtitle">Mục bạn chia sẻ lên WeChat sẽ xuất hiện với huy hiệu MIUIe</string>
+	<string name="first_settings_share_enable">Thêm huy hiệu \"Chia sẻ an toàn\"</string>
+	<string name="settings_image_camera_summary">Kiểu thiết bị, siêu dữ liệu, v.v.</string>
+	<string name="first_settings_subtitle">Đây là các tùy chọn chia sẻ an toàn có sẵn cho bạn:</string>
+	<string name="first_settings_default_location_subtitle">Gỡ thông tin vị trí từ ảnh đã chia sẻ</string>
+	<string name="settings_camera_subtitle_no">Không có siêu dữ liệu</string>
+	<string name="settings_location_subtitle_no">Không có thông tin vị trí</string>
+	<string name="once_settings_title">Bảo vệ riêng tư</string>
+	<string name="first_settings_title">Bảo vệ riêng tư của bạn</string>
+	<string name="settings_show_detail">Xem chi tiết</string>
+	<string name="text_security">Riêng tư</string>
 </resources>

@@ -9,4 +9,7 @@
 	<plurals name="delete_selection">
 		<item quantity="other">Xóa mục đã chọn?</item>
 	</plurals>
+	<plurals name="clone_guide_tip2">
+		<item quantity="other">Bạn có thể tạo đến %d bản sao một lúc.</item>
+	</plurals>
 </resources>

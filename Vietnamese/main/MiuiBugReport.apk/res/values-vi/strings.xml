@@ -628,4 +628,20 @@ Kích thước: %2$s"</string>
 	<string name="expand_button_title">Nâng cao</string>
 	<string name="copy">Sao chép</string>
 	<string name="abc_searchview_description_clear">Xóa truy vấn</string>
+	<string name="feedback_answer_detail_feedback_unresolved">Không</string>
+	<string name="miuix_sbl_tracking_progress_labe_refreshing">Đang làm mới…</string>
+	<string name="feedback_answer_detail_submit_dialog_content">"Bạn có thể mô tả vấn đề bạn gặp phải và chúng tôi sẽ cố sửa nó. Gửi phản hồi?"</string>
+	<string name="miuix_sbl_tracking_progress_labe_up_refresh">Chỉ vài giây…</string>
+	<string name="feedback_answer_detail_relative_question">Điều này có thể liên quan</string>
+	<string name="feedback_answer_detail_feedback_resolved">Có</string>
+	<string name="feedback_edit_popup_window_related_title">Điều này có thể liên quan</string>
+	<string name="miuix_sbl_tracking_progress_labe_refreshed">Đã làm mới</string>
+	<string name="feedback_answer_detail_submit_dialog_title">Gửi phản hồi?</string>
+	<string name="miuix_sbl_tracking_progress_labe_up_none">"Đó là tất cả"</string>
+	<string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">"Không thể tải"</string>
+	<string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Kéo xuống để làm mới</string>
+	<string name="feedback_answer_detail_submit_dialog_confirm">Gửi</string>
+	<string name="miuix_sbl_tracking_progress_labe_up_nodata">"Đó là tất cả"</string>
+	<string name="feedback_answer_detail_feedback_title">Điều này có ích cho bạn?</string>
+	<string name="feedback_answer_detail_feedback_result">Cảm ơn phản hồi của bạn!</string>
 </resources>

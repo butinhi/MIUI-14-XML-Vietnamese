@@ -69,4 +69,7 @@
 	<plurals name="comment_model_watch_reply">
 		<item quantity="other">Xem %d phản hồi</item>
 	</plurals>
+	<plurals name="notification_close_tip">
+		<item quantity="other">Tính năng này sẽ được tắt trong %s ngày</item>
+	</plurals>
 </resources>

@@ -21,4 +21,7 @@
     <plurals name="dirty_note_count">
         <item quantity="other">%d ghi chú</item>
     </plurals>
+	<plurals name="health_description_title_suffix">
+		<item quantity="other">" bước"</item>
+	</plurals>
 </resources>

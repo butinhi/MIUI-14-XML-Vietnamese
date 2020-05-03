@@ -402,4 +402,37 @@ Nếu bạn bật dữ liệu di động lại, nhà mạng sẽ tính phí bổ
 	<plurals name="app_behavior_desc_virtual">
 		<item quantity="other">%3$d tin nhắn trống đã được trả trong khoảng %1$s-%2$s</item>
 	</plurals>
+	<plurals name="privacy_permission_summary">
+		<item quantity="other">%s ứng dụng có quyền truy cập vĩnh viễn</item>
+	</plurals>
+	<plurals name="app_behavior_desc_deny_minute">
+		<item quantity="other">Đã từ chối %2$d lần lúc %1$s</item>
+	</plurals>
+	<plurals name="app_behavior_desc_allow_minute">
+		<item quantity="other">Đã cho phép %2$d lần lúc %1$s</item>
+	</plurals>
+	<plurals name="power_off_warning_button_ok_time">
+		<item quantity="other">Đã hiểu (%d giây)</item>
+	</plurals>
+	<plurals name="app_behavior_desc_virtual_minute">
+		<item quantity="other">Đã trả về %2$d tin nhắn rỗng lúc %1$s</item>
+	</plurals>
+	<plurals name="app_behavior_wakepath_multiple">
+		<item quantity="other">%1$1s đã chạy %2$d ứng dụng</item>
+	</plurals>
+	<plurals name="pc_battery_history_minute">
+		<item quantity="other">" phút"</item>
+	</plurals>
+	<plurals name="app_behavior_wakepath_multiple_single">
+		<item quantity="other">Ứng dụng này đã chạy %1$d ứng dụng khác</item>
+	</plurals>
+	<plurals name="pc_battery_history_hour">
+		<item quantity="other">" giờ"</item>
+	</plurals>
+	<plurals name="power_off_warning_notification_message">
+		<item quantity="other">Thiết bị của bạn sẽ tắt trong %d giây. Kết nối bộ sạc.</item>
+	</plurals>
+	<plurals name="privacy_pop_times">
+		<item quantity="other">%s lần</item>
+	</plurals>
 </resources>

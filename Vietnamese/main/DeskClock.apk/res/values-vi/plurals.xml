@@ -82,4 +82,13 @@
 	<plurals name="sleep_duration_hour_avg">
 		<item quantity="other">%1$s giờ</item>
 	</plurals>
+	<plurals name="worldcolock_timezone_gap_slow">
+		<item quantity="other">%s giờ sau</item>
+	</plurals>
+	<plurals name="minute_text">
+		<item quantity="other">" phút"</item>
+	</plurals>
+	<plurals name="worldcolock_timezone_gap_fast">
+		<item quantity="other">%s giờ trước</item>
+	</plurals>
 </resources>

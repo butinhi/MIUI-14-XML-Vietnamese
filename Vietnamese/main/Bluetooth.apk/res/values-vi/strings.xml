@@ -255,4 +255,6 @@
 	<string name="repair_for_phonebook_access_version_comp">Ghép nối lại để dùng Tương thích phiên bản Truy cập danh bạ</string>
 	<string name="status_no_sd_card_default">Không có thẻ SD. Lắp thẻ SD để lưu tệp đã truyền.</string>
 	<string name="status_no_sd_card_nosdcard">Không có USB.</string>
+	<string name="switch_audio_notification_content">Thiết bị xuất âm thanh hiện tại:</string>
+	<string name="switch_audio_notification_title">Kết nối thiết bị</string>
 </resources>

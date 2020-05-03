@@ -359,4 +359,23 @@ Bạn cần phải cài đặt phiên bản MIUI của nhà phát triển để 
 	<string name="virtual_reject_notice_content">Một phản hồi trống đã được gửi tới ứng dụng để bảo vệ thông tin cá nhân của bạn</string>
 	<string name="virtual_reject_notice_title_phonestate">%1$s đang cố truy cập thông tin thiết bị</string>
 	<string name="virtual_reject_notice_title_calendar">%1$s đang cố truy cập lịch</string>
+	<string name="HIPS_Perm_Intl_group_name_camera">Máy ảnh</string>
+	<string name="HIPS_Perm_Intl_group_desc_auto_start">Tự khởi chạy ứng dụng dưới nền</string>
+	<string name="HIPS_Perm_Intl_group_desc_calendar">Truy cập sự kiện lịch</string>
+	<string name="HIPS_Perm_Intl_group_name_audio_recorder">Micro</string>
+	<string name="HIPS_Perm_Intl_group_name_storage">Lưu trữ</string>
+	<string name="HIPS_Perm_Intl_group_desc_call_log">Truy cập và chỉnh sửa lịch sử cuộc gọi</string>
+	<string name="HIPS_Perm_Intl_group_name_auto_start">Tự khởi chạy</string>
+	<string name="HIPS_Perm_Intl_group_desc_camera">Chụp ảnh và quay phim</string>
+	<string name="permission_group_title_sensitive_privacy_related">Quyền nhạy cảm</string>
+	<string name="HIPS_Perm_Intl_group_name_call_log">Lịch sử cuộc gọi</string>
+	<string name="HIPS_Perm_Intl_group_desc_contact">Sửa và xóa liên hệ</string>
+	<string name="HIPS_Perm_Intl_group_desc_location">Truy cập vị trí chính xác (Dựa trên mạng và GPS)</string>
+	<string name="HIPS_Perm_Intl_group_name_location">Vị trí</string>
+	<string name="HIPS_Perm_Intl_group_desc_storage">"Thêm và xóa tệp trên bộ nhớ trong của thiết bị"</string>
+	<string name="permission_list_include">"Bao gồm những điều dưới đây:
+"</string>
+	<string name="HIPS_Perm_Intl_group_name_calendar">Lịch</string>
+	<string name="HIPS_Perm_Intl_group_name_contact">Liên hệ</string>
+	<string name="HIPS_Perm_Intl_group_desc_audio_recorder">Ghi âm và gọi điện</string>
 </resources>

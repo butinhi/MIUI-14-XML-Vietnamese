@@ -181,4 +181,16 @@
 	<plurals name="unit_times">
 		<item quantity="other">" lần"</item>
 	</plurals>
+	<plurals name="duration_unit_second_format">
+		<item quantity="other">%1$d giây</item>
+	</plurals>
+	<plurals name="duration_unit_hour_format">
+		<item quantity="other">%1$d giờ</item>
+	</plurals>
+	<plurals name="length_unit_meter_format">
+		<item quantity="other">%1$d mét</item>
+	</plurals>
+	<plurals name="duration_unit_minute_format">
+		<item quantity="other">%1$d phút</item>
+	</plurals>
 </resources>

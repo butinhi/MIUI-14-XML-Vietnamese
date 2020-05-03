@@ -41,4 +41,7 @@
 	<plurals name="durationSeconds">
 		<item quantity="other">%1$d giây</item>
 	</plurals>
+	<plurals name="number_items">
+		<item quantity="other">%s mục</item>
+	</plurals>
 </resources>

@@ -603,4 +603,11 @@ Tốc độ lấy mẫu"</string>
 	<string name="wifi_coverage_extend">Bật tính năng mở rộng phạm vi phủ sóng WLAN</string>
 	<string name="mobile_data_always_on_summary">Luôn giữ dữ liệu di động kích hoạt, thậm chí khi Wi‑Fi đang kích hoạt (để chuyển đổi mạng nhanh).</string>
 	<string name="wifi_coverage_extend_summary">Bật phạm vi phủ sóng WLAN bằng Điểm truy cập di động</string>
+	<string name="wifi_no_internet">"Không thể kết nối mạng"</string>
+	<string name="perm_ble_des">Truy cập Cài đặt BLE</string>
+	<string name="perm_ble_lab">Truy cập Cài đặt BLE</string>
+	<string name="wifi_connected_mac_randomization_summary">MAC ngẫu nhiên khi kết nối tới mạng Wi-Fi</string>
+	<string name="force_hw_ui_summary">Bắt buộc sử dụng GPU để vẽ 2d</string>
+	<string name="force_hw_ui">Bắt buộc vẽ GPU</string>
+	<string name="power_remaining_duration_only_short">Còn lại %1$s</string>
 </resources>

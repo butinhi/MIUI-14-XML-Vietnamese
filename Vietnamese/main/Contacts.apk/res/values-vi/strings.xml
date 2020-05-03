@@ -1870,4 +1870,8 @@ Chọn một trong các tùy chọn sau:"</string>
 	<string name="chinese_symbol_animals_dog">Tuất</string>
 	<string name="pm">CH</string>
 	<string name="the_fifth_day">Ngày Thứ năm</string>
+	<string name="callrecordview_menu_aiphone">Cuộc gọi AI</string>
+	<string name="month_march_shortest">T3</string>
+	<string name="month_may_shortest">T5</string>
+	<string name="monday_shortest">Th 2</string>
 </resources>

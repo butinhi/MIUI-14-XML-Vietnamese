@@ -1281,4 +1281,23 @@ Gia nhập cùng 170 triệu Mi Fan!"</string>
 	<string name="abc_action_mode_done">Hoàn tất</string>
 	<string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Kéo xuống để làm mới</string>
 	<string name="miuix_sbl_tracking_progress_labe_up_nodata">Không có dữ liệu</string>
+	<string name="optional_change_wifi">Để quản lý tệp tin từ xa qua Wi-Fi</string>
+	<string name="aggree_desc">Cho phép ứng dụng này kết nối mạng và cấp các quyền bắt buộc được liệt kê bên trên.</string>
+	<string name="sort_hint_name">Sắp xếp theo tên</string>
+	<string name="view_type">Xem</string>
+	<string name="guide_newfunc_content">Giờ bạn có thể lọc theo định dạng tệp tin, sắp xếp các mục, và chuyển giữa các chế độ xem bằng cách chạm vào lối tắt.</string>
+	<string name="sort_hint_time">Sắp xếp theo thời gian</string>
+	<string name="guide_newfunc_title">Tính năng mới</string>
+	<string name="refresh_success">Đã làm mới</string>
+	<string name="fab_menu_ball">Bong bóng nhanh</string>
+	<string name="release_enter_private">Thả ra để mở thư mục riêng tư</string>
+	<string name="fab_menu_sort">Sắp xếp</string>
+	<string name="refreshing">Đang làm mới</string>
+	<string name="imm_str_storage">Lưu trữ</string>
+	<string name="load_more_fail">Không thể tải</string>
+	<string name="sort_hint_type">Sắp xếp theo loại</string>
+	<string name="release_refresh">Thả ra để làm mới</string>
+	<string name="pull_to_refresh">Kéo xuống để làm mới</string>
+	<string name="refresh_fail">Làm mới thất bại</string>
+	<string name="pull_to_enter_private">Kéo xuống để mở thư mục riêng tư</string>
 </resources>

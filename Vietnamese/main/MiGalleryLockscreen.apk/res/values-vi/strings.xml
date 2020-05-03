@@ -880,4 +880,23 @@ Gửi mã này cho người giám sát."</string>
 	<string name="mtrl_picker_date_header_unselected">Ngày đã chọn</string>
 	<string name="mtrl_picker_invalid_format_example">Ví dụ: %1$s</string>
 	<string name="mtrl_picker_save">Lưu</string>
+	<string name="shield_tag_ceil">"Không thể chặn thêm mục"</string>
+	<string name="miuix_sbl_tracking_progress_labe_refreshing">Đang làm mới…</string>
+	<string name="miui_lock_screen_large_date_12">"EEE
+dd/MM"</string>
+	<string name="miuix_sbl_tracking_progress_labe_up_refresh">Chỉ vài giây…</string>
+	<string name="miuix_sbl_tracking_progress_labe_refreshed">Đã làm mới</string>
+	<string name="miuix_sbl_tracking_progress_labe_up_none">"Đó là tất cả"</string>
+	<string name="miui_lock_screen_date">EEEE, d MMMM</string>
+	<string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">"Không thể tải"</string>
+	<string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Kéo xuống để làm mới</string>
+	<string name="miuix_sbl_tracking_progress_labe_up_nodata">"Đó là tất cả"</string>
+	<string name="miui_lock_screen_large_date">"EEE
+dd/M"</string>
+	<string name="miui_lock_screen_date_12">EEEE, d MMMM</string>
+	<string name="tb_collapse_desc">Ẩn menu \"Chia sẻ\"</string>
+	<string name="miui_lock_screen_date_two_lines">"EEEE
+d MMMM"</string>
+	<string name="miui_lock_screen_date_two_lines_12">"EEEE
+d MMMM"</string>
 </resources>

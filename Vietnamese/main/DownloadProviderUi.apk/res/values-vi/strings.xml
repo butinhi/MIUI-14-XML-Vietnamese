@@ -580,4 +580,20 @@ Tăng tốc tải xuống giữa các thiết bị."</string>
 	<string name="abc_searchview_description_voice">Tìm kiếm giọng nói</string>
 	<string name="abc_activity_chooser_view_see_all">Xem tất cả</string>
 	<string name="abc_action_mode_done">Hoàn tất</string>
+	<string name="miuix_sbl_tracking_progress_labe_refreshing">Đang làm mới…</string>
+	<string name="no_net">"Không thể kết nối mạng"</string>
+	<string name="xl_vip_quarter_price">%1$s Mi Coin mỗi tháng (3 tháng)</string>
+	<string formatted="false" name="h5_net_error">"Không thể tải %s (%s)"</string>
+	<string name="xl_vip_semiannual_price">%1$s Mi Coin mỗi tháng (6 tháng)</string>
+	<string name="miuix_sbl_tracking_progress_labe_up_refresh">Chỉ vài giây…</string>
+	<string name="xlunbind_sub_title">Gỡ bỏ Tài khoản Xunlei của bạn và thêm Tài khoản Mi</string>
+	<string name="miuix_sbl_tracking_progress_labe_refreshed">Đã làm mới</string>
+	<string name="xl_vip_month_price">%1$s Mi Coin mỗi tháng (1 tháng)</string>
+	<string name="miuix_sbl_tracking_progress_labe_up_none">"Đó là tất cả"</string>
+	<string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">"Không thể tải"</string>
+	<string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Kéo xuống để làm mới</string>
+	<string name="miuix_sbl_tracking_progress_labe_up_nodata">"Đó là tất cả"</string>
+	<string name="dialog_delete_positive">Xóa</string>
+	<string name="xl_vip_annual_price">%1$s Mi Coin mỗi tháng (12 tháng)</string>
+	<string name="h5_net_error_tip">"Không thể mở liên kết"</string>
 </resources>

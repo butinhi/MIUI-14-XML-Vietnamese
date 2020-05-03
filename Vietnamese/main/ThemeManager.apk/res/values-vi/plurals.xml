@@ -103,4 +103,29 @@
 		<item quantity="other">trong %d phút</item>
 		<item quantity="one">trong 1 phút</item>
 	</plurals>
+	<plurals name="icon_batch_updating_text">
+		<item quantity="other">Đang cập nhật %1$d biểu tượng…</item>
+	</plurals>
+	<plurals name="de_author_theme_amount">
+		<item quantity="other">%1$d mục</item>
+	</plurals>
+	<plurals name="aod_batch_has_update_text">
+		<item quantity="other">Cập nhật cho %1$d chủ đề khả dụng</item>
+		<item quantity="one">Một bản cập nhật cho %1$d chủ đề khả dụng</item>
+	</plurals>
+	<plurals name="aod_batch_updating_text">
+		<item quantity="other">Đang cập nhật %1$d chủ đề</item>
+	</plurals>
+	<plurals name="icon_batch_has_update_text">
+		<item quantity="other">Cập nhật cho %1$d biểu tượng khả dụng</item>
+	</plurals>
+	<plurals name="de_author_fans_amount">
+		<item quantity="other">%1$d fan</item>
+	</plurals>
+	<plurals name="de_icon_count">
+		<item quantity="other">%1$d biểu tượng</item>
+	</plurals>
+	<plurals name="de_more_comment">
+		<item quantity="other">%1$d bình luận nữa</item>
+	</plurals>
 </resources>

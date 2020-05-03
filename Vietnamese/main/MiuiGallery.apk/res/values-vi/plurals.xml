@@ -330,4 +330,7 @@
 	<plurals name="picker_file_will_download">
 		<item quantity="other">Đang tải xuống %d tệp còn lại</item>
 	</plurals>
+	<plurals name="album_member">
+		<item quantity="other">%s người có thể thấy album này</item>
+	</plurals>
 </resources>
