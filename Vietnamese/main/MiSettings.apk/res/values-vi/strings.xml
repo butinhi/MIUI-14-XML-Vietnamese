@@ -304,7 +304,7 @@
 	<string name="steady_on_screen_setting">Giới hạn thời gian cho các phiên không bị gián đoạn</string>
 	<string name="steady_on_screen_notify">Thông báo về việc sử dụng không bị gián đoạn</string>
 	<string name="cu_confirm">Đặt</string>
-	<string name="usage_home_premission_second_summary_double_link_suffix" formatted="false">&lt;Data&gt;"Trước khi sử dụng ứng dụng này, đọc và đồng ý với &lt;a href='%1s'&gt;Thỏa thuận Người dùng&lt;/a&gt; và &lt;a href='%2s'&gt;Chính sách Riêng tư&lt;/a&gt; của chúng tôi."&lt;/Data&gt;</string>
+	<string name="usage_home_premission_second_summary_double_link_suffix" formatted="false">&lt;Data&gt;"Trước khi sử dụng ứng dụng này, đọc và đồng ý với &lt;a href=\"%1s\"&gt;Thỏa thuận Người dùng&lt;/a&gt; và &lt;a href=\"%2s\"&gt;Chính sách Riêng tư&lt;/a&gt; của chúng tôi."&lt;/Data&gt;</string>
 	<string name="chinese_day_20">20</string>
 	<string name="month_november_short">Tháng 11</string>
 	<string name="v7_preference_off">TẮT</string>
@@ -632,7 +632,7 @@
 	<string name="anti_flicker_mode_categroy">Chế độ</string>
 	<string name="usage_optional_summary">"Các quyền này được yêu cầu khi bạn sử dụng tính năng bổ sung."</string>
 	<string name="usage_new_home_date_day_title">%s | Thời lượng sử dụng</string>
-	<string formatted="false" name="usage_permission_double_link">&lt;Data&gt;"Ứng dụng này cần kết nối với internet và thu thập dữ liệu cá nhân cần thiết để có thể hoạt động bình thường. Để hiểu đầy đủ quyền của bạn với tư cách là người dùng cũng như cách chúng tôi sử dụng dữ liệu của bạn, đọc và đồng ý với &lt;a href='%1s'&gt;Thỏa thuận Người dùng&lt;/a&gt; và &lt;a href='%2s'&gt;Chính sách Riêng tư&lt;/a&gt; của chúng tôi."&lt;/Data&gt;</string>
+	<string formatted="false" name="usage_permission_double_link">&lt;Data&gt;"Ứng dụng này cần kết nối với internet và thu thập dữ liệu cá nhân cần thiết để có thể hoạt động bình thường. Để hiểu đầy đủ quyền của bạn với tư cách là người dùng cũng như cách chúng tôi sử dụng dữ liệu của bạn, đọc và đồng ý với &lt;a href=\"%1s\"&gt;Thỏa thuận Người dùng&lt;/a&gt; và &lt;a href=\"%2s\"&gt;Chính sách Riêng tư&lt;/a&gt; của chúng tôi."&lt;/Data&gt;</string>
 	<string name="focus_mode_timer_delete">Xóa</string>
 	<string name="usage_new_home_show_more_data_summary">Bạn cũng có thể giới hạn thời gian màn hình cho từng ứng dụng</string>
 	<string formatted="false" name="focus_mode_timer_pick_dialog_summary">%d đến %d phút</string>
