@@ -2255,5 +2255,4 @@ d MMMM"</string>
 	<string name="notification_aggregate_text">Đánh dấu thông báo từ %1$s là không quan trọng</string>
 	<string name="small_window_guide_title">Cửa sổ nổi</string>
 	<string name="status_bar_clock_date_weekday_format">EEE dd/MM</string>
-	<string name="process_kernel_label">Hệ điều hành Android</string>
 </resources>

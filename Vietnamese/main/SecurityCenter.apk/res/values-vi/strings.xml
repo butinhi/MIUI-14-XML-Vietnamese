@@ -3863,12 +3863,9 @@ Sau khi được đặt, nếu bạn đóng ứng dụng, các quyền sẽ tr�
 	<string name="storage_app_list_activity_title">Chi tiết ứng dụng</string>
 	<string name="storage_space_release_hint">Cần thêm không gian lưu trữ?</string>
 	<string name="storage_app_detail_activity_title">Bộ nhớ chiếm dụng</string>
-	<string name="exo_track_bitrate">%1$.2f Mb/giây</string>
-	<string name="exo_track_resolution">%1$d × %2$d</string>
 	<string name="storage_app_detail_sdcard">Dữ liệu ứng dụng</string>
 	<string name="storage_app_space_details_entry">Xem chi tiết ứng dụng</string>
 	<string name="storage_app_detail_clear_all_data">Xóa tất cả dữ liệu</string>
-	<string name="ellipsis">…</string>
 	<string name="storage_item_clean_name">Giải phóng bộ nhớ</string>
 	<string name="storage_app_detail_wechat_session">"Xóa lịch sử chat WeChat"</string>
 	<string name="storage_item_apk_name">APK</string>

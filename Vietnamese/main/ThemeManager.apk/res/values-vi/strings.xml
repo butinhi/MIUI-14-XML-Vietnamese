@@ -1251,7 +1251,6 @@ Chạm vào đây để đăng nhập."</string>
 	<string name="the_lantern_festival">Tết Nguyên tiêu</string>
 	<string name="chinese_month_december">12</string>
 	<string name="mtrl_badge_numberless_content_description">Thông báo mới</string>
-	<string name="exo_track_resolution">%1$d × %2$d</string>
 	<string name="fmt_date_short_year_month">MMM, yyyy</string>
 	<string name="the_anniversary_of_lifting_martial_law">Kỷ niệm nâng cao thiết quân luật</string>
 	<string name="the_dragon_boat_festival">Tết Đoan ngọ</string>
@@ -1273,7 +1272,6 @@ Chạm vào đây để đăng nhập."</string>
 	<string name="fmt_chinese_date">e t N</string>
 	<string name="mtrl_picker_navigate_to_year_description">Chuyển đến năm %1$s</string>
 	<string name="earthly_branches_xu">Tuất</string>
-	<string name="exo_track_bitrate">%1$.2f Mb/giây</string>
 	<string name="chinese_digit_five">5</string>
 	<string name="earthly_branches_chen">Thìn</string>
 	<string name="chinese_month_february">2</string>

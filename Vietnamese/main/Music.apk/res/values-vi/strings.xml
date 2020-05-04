@@ -1813,6 +1813,4 @@ Bạn có thể tìm thấy tất cả các bài hát của bạn ở một nơi
 	<string name="fmt_date_numeric_year_month">M-yyyy</string>
 	<string name="fmt_time_24hour_minute_second">H:mm:ss</string>
 	<string name="fmt_time_24hour_minute_second_millis">H:mm:ss.S</string>
-	<string name="exo_track_bitrate">%1$.2f Mb/giây</string>
-	<string name="exo_track_resolution">%1$d × %2$d</string>
 </resources>
