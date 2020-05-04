@@ -312,10 +312,10 @@ Tăng tốc tải xuống giữa các thiết bị."</string>
     <string name="xl_privilege_support">Đa thiết bị</string>
     <string name="xl_privilege_storage_info">Đủ dung lượng trống cho tất cả tải xuống</string>
     <string name="xl_vip_combo">Gói thành viên</string>
-    <string name="xl_vip_annual">Năm: %1$s Mi Credit × 12</string>
-    <string name="xl_vip_semiannual">6 tháng: %1$s Mi Credit × 6</string>
-    <string name="xl_vip_quarter">Quý: %1$s Mi Credit × 3</string>
-    <string name="xl_vip_month">Tháng: %1$s Mi Credit × 1</string>
+    <string name="xl_vip_annual">Gói năm</string>
+    <string name="xl_vip_semiannual">Gói nửa năm</string>
+    <string name="xl_vip_quarter">Gói quý</string>
+    <string name="xl_vip_month">Gói tháng</string>
     <string name="xl_month_vip_open">Thành viên tháng (%1$s Mi Credit)</string>
     <string name="xl_annual_vip_open">Thành viên năm (%1$s Mi Credit hoặc %2$s hàng tháng)</string>
     <string name="xl_month_vip_renew">Gia hạn 1 tháng (%1$s Mi Credit)</string>
@@ -596,4 +596,5 @@ Tăng tốc tải xuống giữa các thiết bị."</string>
 	<string name="dialog_delete_positive">Xóa</string>
 	<string name="xl_vip_annual_price">%1$s Mi Coin mỗi tháng (12 tháng)</string>
 	<string name="h5_net_error_tip">"Không thể mở liên kết"</string>
+	<string name="abc_action_menu_overflow_description">Thêm tùy chọn</string>
 </resources>

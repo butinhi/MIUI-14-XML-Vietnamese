@@ -518,4 +518,5 @@ Hãy chắc chắn tên của cơ quan bạn chính xác. Đọc và đồng ý 
 	<string name="miuix_sbl_tracking_progress_labe_up_nodata">Không có dữ liệu</string>
 	<string name="secondspace_homepage">"Đặt khóa màn hình được chỉ định cho Không gian thứ hai.
 Phân tách và bảo mật dữ liệu của bạn."</string>
+	<string name="abc_action_menu_overflow_description">Thêm tùy chọn</string>
 </resources>

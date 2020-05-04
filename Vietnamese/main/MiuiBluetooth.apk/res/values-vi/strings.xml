@@ -610,4 +610,7 @@ Tốc độ lấy mẫu"</string>
 	<string name="force_hw_ui_summary">Bắt buộc sử dụng GPU để vẽ 2d</string>
 	<string name="force_hw_ui">Bắt buộc vẽ GPU</string>
 	<string name="power_remaining_duration_only_short">Còn lại %1$s</string>
+	<string name="wifi_security_short_none_owe">Không/OWE</string>
+	<string name="wifi_security_none_owe">Không/Enhanced Open</string>
+	<string name="unknown">Chưa biết</string>
 </resources>

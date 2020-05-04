@@ -60,7 +60,7 @@
     <string name="callAgain">Gọi lần nữa</string>
     <string name="callBack">Gọi lại</string>
     <string name="callDetailTitle">Chi tiết cuộc gọi</string>
-    <string name="callDetailsDurationFormat" formatted="false">%s phút %s giây</string>
+    <string name="callDetailsDurationFormat">%1$s phút %2$s giây</string>
     <string name="callShortcutActivityTitle">Chọn một số để gọi</string>
     <string name="call_assistant">Gọi %s</string>
     <string name="call_callback">Gọi số gọi lại</string>
@@ -360,17 +360,17 @@ Danh thiếp sẽ tắt"</string>
     <string name="device_paired_dialog_title">Đang lấy liên hệ…</string>
     <string name="device_pairing_dialog_message">Đang ghép nối…</string>
     <string name="device_pairing_dialog_title">Ghép nối thiết bị</string>
-    <string name="device_transfer_by_bluetooth_message" formatted="false">"%d. Bật Bluetooth trên thiết bị khác. 
+    <string name="device_transfer_by_bluetooth_message">"%1$d. Bật Bluetooth trên thiết bị khác. 
 
 - Bluetooth có thể được tìm thấy trong cài đặt mạng trên thiết bị Android. 
 - Trên thiết bị iOS, Bluetooth nằm trong Cài đặt. 
 
-%d. Chế độ Hiện với thiết bị khác cần được bật trên thiết bị Android. 
+%2$d. Chế độ Hiện với thiết bị khác cần được bật trên thiết bị Android. 
 
-%d. Chạm \"Tiếp theo\", và cho phép truy cập Liên hệ."</string>
-    <string name="device_transfer_by_sim_message" formatted="false">"%d. Lưu liên hệ từ thẻ SIM trên thiết bị khác; 
+%3$d. Chạm \"Tiếp theo\", và cho phép truy cập Liên hệ."</string>
+    <string name="device_transfer_by_sim_message">"%1$d. Lưu liên hệ từ thẻ SIM trên thiết bị khác; 
 
-%d. Mở cài đặt trong ứng dụng Liên hệ, và sau đó vào \"Nhập/Xuất liên hệ\" -- \"Nhập từ thẻ SIM\", chạm giữ bất kỳ liên hệ trên SIM để chọn, chọn tất cả liên hệ cần thiết, và chạm \"Nhập\"."</string>
+%2$d. Mở cài đặt trong ứng dụng Liên hệ, và sau đó vào \"Nhập/Xuất liên hệ\" -- \"Nhập từ thẻ SIM\", chạm giữ bất kỳ liên hệ trên SIM để chọn, chọn tất cả liên hệ cần thiết, và chạm \"Nhập\"."</string>
     <string name="device_version_header_bluetooth">Nhập qua Bluetooth</string>
     <string name="device_version_header_no_bluetooth">Nhập qua thẻ SIM</string>
     <string name="dial">Quay số</string>
@@ -448,13 +448,13 @@ Danh thiếp sẽ tắt"</string>
 Nguyên nhân: \"%s\""</string>
     <string name="exporting_contact_failed_title">Không thể xuất</string>
     <string name="exporting_contact_list_message">Đang xuất đến %s.</string>
-    <string name="exporting_contact_list_progress" formatted="false">%s/%s liên hệ</string>
+    <string name="exporting_contact_list_progress">%1$s/%2$s liên hệ</string>
     <string name="exporting_contact_list_title">Đang xuất dữ liệu liên hệ</string>
     <string name="exporting_vcard_canceled_title">Xuất %s bị hủy.</string>
     <string name="exporting_vcard_finished_title">Xuất %s hoàn tất.</string>
     <string name="external_profile_title">Hồ sơ %1$s của tôi</string>
     <string name="fail_reason_could_not_initialize_exporter">Không thể khởi động trình xuất: \"%s\".</string>
-    <string name="fail_reason_could_not_open_file" formatted="false">Không thể mở \"%s: %s.</string>
+    <string name="fail_reason_could_not_open_file">"Không thể mở \"%1$s\": %2$s."</string>
     <string name="fail_reason_error_occurred_during_export">Một lỗi xảy ra trong quá trình xuất: \"%s\".</string>
     <string name="fail_reason_failed_to_collect_vcard_meta_info">Không thể thu thập thông tin của tập tin vCard.</string>
     <string name="fail_reason_failed_to_read_files">Một hoặc nhiều tập tin không thể nhập (%s).</string>
@@ -1011,7 +1011,7 @@ Nguyên nhân: \"%s\""</string>
     <string name="simContacts_title">Liên hệ trên thẻ SIM</string>
     <string name="sim_account_name">SIM</string>
     <string name="sim_capacity">Xem dung lượng thẻ SIM</string>
-    <string name="sim_capacity_content" formatted="false">Tổng %d | Đã dùng %d</string>
+    <string name="sim_capacity_content">Tổng %1$d | Đã dùng %2$d</string>
     <string name="sim_card_no_free_space_message">Không đủ dung lượng</string>
     <string name="sim_card_no_free_space_title">Thẻ SIM đầy</string>
     <string name="sim_contact_existing">Liên hệ đã tồn tại</string>
@@ -1036,8 +1036,8 @@ Nguyên nhân: \"%s\""</string>
     <string name="smart_group_company_label">Công ty</string>
     <string name="smart_group_company_unavailable">Không có thông tin công ty</string>
     <string name="smart_group_frequency_1">Trong tháng qua</string>
-    <string name="smart_group_frequency_2" formatted="false">%d đến %d tháng</string>
-    <string name="smart_group_frequency_3" formatted="false">%d đến %d tháng</string>
+    <string name="smart_group_frequency_2">%1$d đến %2$d tháng</string>
+    <string name="smart_group_frequency_3">%1$d đến %2$d tháng</string>
     <string name="smart_group_frequency_4">Trên %d tháng trước</string>
     <string name="smart_group_frequency_label">Gần đây</string>
     <string name="smart_group_label">Nhóm thông minh</string>
@@ -1871,7 +1871,8 @@ Chọn một trong các tùy chọn sau:"</string>
 	<string name="pm">CH</string>
 	<string name="the_fifth_day">Ngày Thứ năm</string>
 	<string name="callrecordview_menu_aiphone">Cuộc gọi AI</string>
-	<string name="month_march_shortest">T3</string>
-	<string name="month_may_shortest">T5</string>
-	<string name="monday_shortest">Th 2</string>
+	<string name="month_march_shortest">Thg 3</string>
+	<string name="month_may_shortest">Thg 5</string>
+	<string name="monday_shortest">T2</string>
+	<string name="abc_action_menu_overflow_description">Thêm tùy chọn</string>
 </resources>

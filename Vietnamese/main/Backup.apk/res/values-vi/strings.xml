@@ -764,4 +764,6 @@ Dữ liệu chưa được nhập phải được nhập lại."</string>
 	<string name="new_pc_restore_content2">%d. Sao chép bản sao lưu từ máy tính của bạn vào MIUI-Backup-AllBackup.</string>
 	<string name="new_task_finished">Xong</string>
 	<string name="new_pc_backup_restore_link">Thiết bị di động</string>
+	<string name="size_mega_byte">MB</string>
+	<string name="abc_action_menu_overflow_description">Thêm tùy chọn</string>
 </resources>

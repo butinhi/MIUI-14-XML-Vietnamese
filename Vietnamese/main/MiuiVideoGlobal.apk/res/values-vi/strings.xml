@@ -1862,4 +1862,6 @@ Gửi mã này cho người giám sát."</string>
 	<string name="galleryplus_gallery_video_item3_default_text">Cảm xúc</string>
 	<string name="galleryplus_v_dialog_hint_not_null">"Tên tệp không được trống"</string>
 	<string name="galleryplus_double_tap_to_higher_definition">Chạm lại hai lần để mở xem trước HD</string>
+	<string name="passport_can_not_receive_verification_code">"Không nhận được mã xác thực?"</string>
+	<string name="lock_screen">Màn hình khóa</string>
 </resources>

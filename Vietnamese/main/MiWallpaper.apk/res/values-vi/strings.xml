@@ -366,4 +366,5 @@ Mawrth Vallis"</string>
 	<string name="wallpaper_setting_super_wallpaper_banner_title">Siêu hình nền</string>
 	<string name="super_wallpaper_setting_apply_super_wallpaper_button_text">Áp dụng</string>
 	<string name="wallpaper_setting_online_wallpaper_title">Hình nền trực tuyến</string>
+	<string name="abc_action_menu_overflow_description">Thêm tùy chọn</string>
 </resources>

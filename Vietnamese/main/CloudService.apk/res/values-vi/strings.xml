@@ -881,4 +881,5 @@ Nếu bạn không đồng ý cấp các quyền đó hoặc chia sẻ và tải
 	<string name="storage_upgrade_card_summary">Thêm dung lượng lưu trữ đám mây</string>
 	<string name="storage_upgrade_card_title">Nâng cấp gói của bạn</string>
 	<string name="mi_drive_not_publish_toast">Mi Drive sẽ sớm khả dụng</string>
+	<string name="abc_action_menu_overflow_description">Thêm tùy chọn</string>
 </resources>

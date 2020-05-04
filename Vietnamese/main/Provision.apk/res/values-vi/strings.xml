@@ -258,7 +258,7 @@ Bạn phải đồng ý với Chính sách Riêng tư Kika trước khi sử d�
 	<string name="terms_of_use_lable_default_input_method_mint">"
 
 Bạn cần đọc và đồng ý với Chính sách Riêng tư Mint Keyboard trước khi sử dụng tính năng này."</string>
-	<string name="service_policy_download">&lt;Data&gt;Trước khi sử dụng dịch vụ của chúng tôi, đọc và đồng ý với &amp;lt;a href=%1$s&amp;gt;Chính sách Riêng tư Xunlei&amp;lt;/a &amp;gt;.&lt;/Data&gt;</string>
+	<string name="service_policy_download">&lt;Data&gt;Trước khi sử dụng dịch vụ của chúng tôi, đọc và đồng ý với &lt;a href=%1$s&gt;Chính sách Riêng tư Xunlei&lt;/a &gt;.&lt;/Data&gt;</string>
 	<string name="service_name_fast_pairing">Liên kết Mi</string>
 	<string name="disagreement_abnormal_running_fast_pairing">"Nếu bạn không đồng ý cấp các quyền đó, bạn sẽ không thể sử dụng ứng dụng này. Bạn có thể chọn hạn chế quyền trong Cài đặt trong những trường hợp như vậy."</string>
 </resources>

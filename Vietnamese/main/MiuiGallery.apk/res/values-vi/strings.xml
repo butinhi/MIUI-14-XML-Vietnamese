@@ -2239,7 +2239,7 @@ Chụp nhiều ảnh bạn của bạn hơn!"</string>
 	<string name="album_sort_type_name_asc">Từ A tới Z</string>
 	<string name="filter_general_warm">Ấm áp</string>
 	<string name="filter_general_df">Trong trẻo</string>
-	<string name="month_may_shortest">T5</string>
+	<string name="month_may_shortest">Thg 5</string>
 	<string name="filter_movie_nordic">Bắc Âu</string>
 	<string name="multi_view_tip_button_text">Đã hiểu</string>
 	<string name="filter_movie_encounter">Gặp gỡ</string>
@@ -2248,7 +2248,7 @@ Chụp nhiều ảnh bạn của bạn hơn!"</string>
 	<string name="empty_description_conditions_new">"Đảm bảo bạn chụp đủ ảnh, kết nối bộ sạc, và tắt màn hình để khiến các mục xuất hiện ở đây sớm hơn."</string>
 	<string name="filter_category_movie">Phim</string>
 	<string name="macarons_download_dialog_title">Tải xuống trình cắm</string>
-	<string name="month_march_shortest">T3</string>
+	<string name="month_march_shortest">Thg 3</string>
 	<string name="filter_general_japanese">Phấn màu</string>
 	<string name="filter_general_pink">Hồng</string>
 	<string name="filter_movie_wonderful">Kỳ diệu</string>
@@ -2267,7 +2267,7 @@ Chụp nhiều ảnh bạn của bạn hơn!"</string>
 	<string name="filter_general_softdrink">Nước ngọt</string>
 	<string name="filter_general_portrait">Chân dung</string>
 	<string name="filter_movie_film">Phim</string>
-	<string name="monday_shortest">Th 2</string>
+	<string name="monday_shortest">T2</string>
 	<string name="filter_movie_blackglod">Đỗ quyên</string>
 	<string name="macarons_download_dialog_message">Tải trình cắm họa tiết ma thuật ngay?</string>
 	<string name="vlog_filter_rixi">Phấn màu</string>
@@ -2302,4 +2302,8 @@ Chụp nhiều ảnh bạn của bạn hơn!"</string>
 	<string name="security_share_subtitle_hide">Đã gỡ thông tin vị trí</string>
 	<string name="macarons_download_success">Tải xuống trình cắm thành công</string>
 	<string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Kéo xuống để làm mới</string>
+	<string name="device_status_failed">"Không thể gửi"</string>
+	<string name="device_status_waiting">Đang chờ…</string>
+	<string name="device_status_sending">Đang gửi…</string>
+	<string name="device_status_success">Gửi thành công</string>
 </resources>

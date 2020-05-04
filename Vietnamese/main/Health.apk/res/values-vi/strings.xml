@@ -1298,4 +1298,5 @@ Nếu thiết bị của bạn nằm trong danh sách này, bạn có thể thê
 	<string name="sleep_deep_light_no_data">Không có bản ghi ngủ sâu</string>
 	<string name="welcome_sedentary">Tiếp tục di chuyển</string>
 	<string name="tb_stand_wm_column_click">%1$s. Nghỉ giải lao: %2$d. %3$s.</string>
+	<string name="altitude">Độ cao</string>
 </resources>

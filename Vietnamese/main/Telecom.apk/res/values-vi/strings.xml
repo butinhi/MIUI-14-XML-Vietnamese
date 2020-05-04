@@ -717,4 +717,5 @@ Chất lượng phát"</string>
 	<string name="wifi_security_wpa">WPA PSK</string>
 	<string name="wifi_security_passpoint">Passpoint</string>
 	<string name="bluetooth_talkback_bluetooth">Bluetooth</string>
+	<string name="process_kernel_label">Hệ điều hành Android</string>
 </resources>

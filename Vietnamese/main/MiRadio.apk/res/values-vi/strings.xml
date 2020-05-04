@@ -1290,4 +1290,5 @@ Vui lòng gửi mã này cho kỹ thuật viên."</string>
 	<string name="subscribe">Đăng ký</string>
 	<string name="all_chapter_count">Tổng số %d tập</string>
 	<string name="tab_voice">Giọng nói</string>
+	<string name="tab_video_list">Video</string>
 </resources>

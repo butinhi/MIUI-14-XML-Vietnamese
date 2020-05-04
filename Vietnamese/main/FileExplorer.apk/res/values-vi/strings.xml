@@ -1300,4 +1300,5 @@ Gia nhập cùng 170 triệu Mi Fan!"</string>
 	<string name="pull_to_refresh">Kéo xuống để làm mới</string>
 	<string name="refresh_fail">Làm mới thất bại</string>
 	<string name="pull_to_enter_private">Kéo xuống để mở thư mục riêng tư</string>
+	<string name="abc_action_menu_overflow_description">Thêm tùy chọn</string>
 </resources>

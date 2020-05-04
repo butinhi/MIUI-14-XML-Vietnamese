@@ -194,4 +194,10 @@
 	<string name="eq_jazz">Jazz</string>
 	<string name="switch_audio_dialog_title">Chuyển âm thanh tới</string>
 	<string name="switch_audio_device_phone">Thiết bị này</string>
+	<string name="sound_assist_title">Trợ lý âm thanh</string>
+	<string name="abc_action_menu_overflow_description">Thêm tùy chọn</string>
+	<string name="sound_assist_key_summary">Điều chỉnh âm thanh cho từng ứng dụng khi nhiều ứng dụng phát âm thanh đồng bộ</string>
+	<string name="multi_music_coexistence_title">Nhiều nguồn âm thanh</string>
+	<string name="multi_music_coexistence_summary">"Không điều chỉnh âm lượng phương tiện khi thông báo đến hoặc khi âm thanh từ nguồn khác được phát"</string>
+	<string name="sound_assist_key_title">Điều chỉnh âm thanh phương tiện trong ứng dụng khác</string>
 </resources>

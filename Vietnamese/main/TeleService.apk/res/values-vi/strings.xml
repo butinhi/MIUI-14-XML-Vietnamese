@@ -2924,4 +2924,8 @@ Luôn sử dụng số này"</string>
 	<string name="msim_setting_set_package">Chọn gói cước</string>
 	<string name="ai_assistant_not_installed">Cài đặt Trợ lý cuộc gọi AI trước</string>
 	<string name="msim_setting_no_sim_number">Chưa đặt</string>
+	<string name="password">Mật khẩu</string>
+	<string name="transport">Giao thức</string>
+	<string name="preferred_network_mode_wcdma_only">Chỉ WCDMA</string>
+	<string name="preferred_network_mode_gsm_only">Chỉ GSM</string>
 </resources>

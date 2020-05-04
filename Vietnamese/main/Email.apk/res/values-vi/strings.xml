@@ -1282,4 +1282,12 @@ Chờ đến khi đồng bộ hoàn toàn hoặc xem tin nhắn trên máy tính
 	<string name="expand_slide">Mở rộng thanh trượt</string>
 	<string name="show_contact_address">Hiển thị địa chỉ liên hệ email</string>
 	<string name="go_to_mail_content">Xem thư</string>
+	<string name="mailbox_name_server_sent">Đã gửi</string>
+	<string name="mailbox_name_server_starred">Đã đánh dấu sao</string>
+	<string name="conversation_content_provider">Nhà cung cấp Nội dung Trò chuyện</string>
+	<string name="account_cache_provider">Nhà cung cấp Bộ đệm Tài khoản</string>
+	<string name="mailbox_name_server_drafts">Nháp</string>
+	<string name="mailbox_name_server_inbox">Hộp thư đến</string>
+	<string name="mailbox_name_server_trash">Thùng rác</string>
+	<string name="mailbox_name_server_all_unread">Chưa đọc</string>
 </resources>

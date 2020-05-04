@@ -555,7 +555,7 @@
 	<string name="accessibility_recent_task_enter">Đã mở</string>
 	<string name="recents_abc_text">Thả ra</string>
 	<string name="small_window_empty">Chọn ứng dụng để thêm từ bên dưới</string>
-	<string name="small_window_edit_content">Thêm tối đa 10 ứng dụng cửa sổ nhỏ thường dùng</string>
+	<string name="small_window_edit_content">Bạn có thể thêm tối đa %d ứng dụng</string>
 	<string name="load_end">Không còn dữ liệu</string>
 	<string name="recents_smallwindow_text">Thả ra</string>
 	<string name="small_window_button_complete">Hoàn tất</string>
@@ -564,7 +564,7 @@
 	<string name="small_window_title_text">Nhấn vào đây để mở các ứng dụng cửa sổ nhỏ</string>
 	<string name="small_window_select_title">Chọn ứng dụng để thêm từ bên dưới</string>
 	<string name="recents_tv_small_window_text">Ứng dụng cửa sổ nhỏ</string>
-	<string name="small_window_toast">Thêm tối đa 10 ứng dụng</string>
+	<string name="small_window_toast">Bạn có thể thêm tối đa %d ứng dụng</string>
 	<string name="small_window_edit_title">Chỉnh sửa các ứng dụng cửa sổ nhỏ thường dùng</string>
 	<string name="v7_preference_off">TẮT</string>
 	<string name="not_set">Chưa đặt</string>

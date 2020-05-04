@@ -3517,14 +3517,14 @@ Video sẽ được lưu trong Tăng tốc Trò chơi &gt; Khoảnh khắc quan 
 	<string name="app_behavior_key_location">Vị trí</string>
 	<string name="app_behavior_time_today">Hôm nay</string>
 	<string name="app_behavior_start_from_app_single">Được %1s khởi chạy</string>
-	<string name="app_behavior_notification_location_two">%1s và 1 ứng dụng khác đang truy cập vị trí của bạn</string>
+	<string formatted="false" name="app_behavior_notification_location_two">%1s và %2s đang truy cập vị trí của bạn</string>
 	<string name="app_behavior_notification_audio_now_one">%1s đang ghi âm</string>
 	<string name="app_behavior_settings_privacy_tips">Hiển thị thông báo khi ứng dụng đọc/ghi thông tin nhạy cảm dưới nền (liên hệ, lịch sử cuộc gọi, v.v...)</string>
 	<string name="app_behavior_start_from_recent_single">Bắt đầu từ nhiệm vụ gần đây</string>
 	<string name="app_behavior_settings_perm_tips">Hiển thị một thông báo trên thanh trạng thái khi ứng dụng sử dụng một trong những quyền dưới đây:</string>
 	<string name="app_behavior_notification_camera_one">%1s đang sử dụng máy ảnh</string>
 	<string name="app_behavior_start_from_notification">%1s khởi chạy từ thông báo</string>
-	<string name="app_behavior_notification_audio_now_two">%1s và 1 ứng dụng khác đang ghi âm</string>
+	<string formatted="false" name="app_behavior_notification_audio_now_two">%1s và %2s đang ghi âm</string>
 	<string name="app_behavior_notification_location_one">%1s đang truy cập vị trí của bạn</string>
 	<string name="app_behavior_settings_category_perm">Nhắc nhở sử dụng quyền</string>
 	<string name="app_perm_manager_service">Dịch vụ quản lý quyền</string>
@@ -3537,7 +3537,7 @@ Video sẽ được lưu trong Tăng tốc Trò chơi &gt; Khoảnh khắc quan 
 	<string name="app_behavior_start_from_launcher">%1s khởi chạy từ biểu tượng trên Màn hình chính</string>
 	<string name="app_behavior_settings_category_privacy">Bảo vệ thông tin riêng tư</string>
 	<string name="notify_channel_name_behavior">Hành vi ứng dụng</string>
-	<string name="app_behavior_notification_camera_two">%1s và 1 ứng dụng khác đang sử dụng máy ảnh</string>
+	<string formatted="false" name="app_behavior_notification_camera_two">%1s vaf %2s đang chụp ảnh</string>
 	<string name="warningcenter_mijia_alert_close">Đóng</string>
 	<string name="warningcenter_alert_home">Vị trí</string>
 	<string name="warningcenter_mijia_alert_view_device">Xem thiết bị</string>
@@ -3683,7 +3683,7 @@ Sau khi được đặt, nếu bạn đóng ứng dụng, các quyền sẽ tr�
 	<string name="privacy_permission_status">Quyền đang sử dụng</string>
 	<string name="privacy_provision_back">Quay lại</string>
 	<string name="privacy_other_permission_manage_title">Quyền khác</string>
-	<string name="system_permission_declare_meanwhile_privacy_policy">&lt;Data&gt;Đồng thời, để hiểu đầy đủ quyền của bạn với tư cách là người dùng cũng như cách chúng tôi sử dụng dữ liệu của bạn, hãy đọc và đồng ý với &amp;lt;a href=\"%1$s\"&amp;gt;Chính sách Riêng tư&amp;lt;/a&amp;gt; của chúng tôi.&lt;/Data&gt;</string>
+	<string name="system_permission_declare_meanwhile_privacy_policy">&lt;Data&gt;Đồng thời, để hiểu đầy đủ quyền của bạn với tư cách là người dùng cũng như cách chúng tôi sử dụng dữ liệu của bạn, hãy đọc và đồng ý với &lt;a href=\"%1$s\"&gt;Chính sách Riêng tư&lt;/a&gt; của chúng tôi.&lt;/Data&gt;</string>
 	<string name="intl_perm_notification_content">Điều chỉnh cài đặt quyền</string>
 	<string name="usb_mount">Kết nối thiết bị USB</string>
 	<string formatted="false" name="app_behavior_start_from_app">%1s được khởi chạy bởi %2s</string>
@@ -3786,7 +3786,7 @@ Sau khi được đặt, nếu bạn đóng ứng dụng, các quyền sẽ tr�
 	<string name="privacy_permission_record">Ghi âm</string>
 	<string name="privacy_permission_call">Truy cập hoặc chỉnh sửa lịch sử cuộc gọi</string>
 	<string name="privacy_mask_title">ID nhận dạng ảo được bật</string>
-	<string name="system_permission_declare_meanwhile_user_agreement">&lt;Data&gt;Đồng thời, để hiểu đầy đủ quyền của bạn với tư cách là người dùng cũng như cách chúng tôi sử dụng dữ liệu của bạn, hãy đọc và đồng ý &amp;lt;a href=\"%1$s\"&amp;gt;Thỏa thuận Người dùng&amp;lt;/a&amp;gt; của chúng tôi.&lt;/Data&gt;</string>
+	<string name="system_permission_declare_meanwhile_user_agreement">&lt;Data&gt;Đồng thời, để hiểu đầy đủ quyền của bạn với tư cách là người dùng cũng như cách chúng tôi sử dụng dữ liệu của bạn, hãy đọc và đồng ý &lt;a href=\"%1$s\"&gt;Thỏa thuận Người dùng&lt;/a&gt; của chúng tôi.&lt;/Data&gt;</string>
 	<string name="mtp_ptp_mode_summary">MTP hoặc PTP được kích hoạt</string>
 	<string name="privacy_danger_permission_warning">Quyền rủi ro cao</string>
 	<string name="storage_app_detail_uninstall_dialog_title">Gỡ cài đặt ngay?</string>
@@ -3837,7 +3837,7 @@ Sau khi được đặt, nếu bạn đóng ứng dụng, các quyền sẽ tr�
 	<string name="miuix_sbl_tracking_progress_labe_refreshed">Đã làm mới</string>
 	<string name="app_behavior_this_run">Một lần</string>
 	<string name="miuix_sbl_tracking_progress_labe_up_none">"Đó là tất cả"</string>
-	<string name="system_permission_declare_meanwhile_double_link">&lt;Data&gt;Đồng thời, để hiểu đầy đủ quyền của bạn với tư cách là người dùng cũng như cách chúng tôi sử dụng dữ liệu của bạn, hãy đọc và đồng ý với &amp;lt;a href=\"%1$s\"&amp;gt;Thỏa thuận Người dùng&amp;lt;/a&amp;gt; và &amp;lt;a href=\"%2$s\"&amp;gt;Chính sách Riêng tư&amp;lt;/a&amp;gt; của chúng tôi.&lt;/Data&gt;</string>
+	<string name="system_permission_declare_meanwhile_double_link">&lt;Data&gt;Đồng thời, để hiểu đầy đủ quyền của bạn với tư cách là người dùng cũng như cách chúng tôi sử dụng dữ liệu của bạn, hãy đọc và đồng ý với &lt;a href=\"%1$s\"&gt;Thỏa thuận Người dùng&lt;/a&gt; và &lt;a href=\"%2$s\"&gt;Chính sách Riêng tư&lt;/a&gt; của chúng tôi.&lt;/Data&gt;</string>
 	<string name="intl_perm_intro_message">Chạm để điều chỉnh cài đặt quyền nhằm mục đích tránh rò rỉ dữ liệu</string>
 	<string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Kéo xuống để làm mới</string>
 	<string name="privacy_provision_more">Tìm hiểu thêm về bảo vệ quyền riêng tư</string>
@@ -3845,4 +3845,35 @@ Sau khi được đặt, nếu bạn đóng ứng dụng, các quyền sẽ tr�
 	<string name="privacy_pop_call">Đã truy cập lịch sử cuộc gọi hôm nay</string>
 	<string name="pc_battery_history_total_consumption_title">Tổng tiêu thụ pin</string>
 	<string name="privacy_location_info_title">Thông tin vị trí</string>
+	<string name="storage_app_detail_cache">Bộ đệm</string>
+	<string name="storage_item_system_name">Hệ thống</string>
+	<string name="storage_app_detail_manage_space">%s - Quản lý dung lượng lưu trữ</string>
+	<string name="storage_app_detail_uninstall_app">Gỡ cài đặt ứng dụng</string>
+	<string name="storage_app_detail_third_clean_size">Giải phóng %s</string>
+	<string name="storage_item_doc_name">Tài liệu</string>
+	<string name="storage_app_list_desc">Bộ nhớ chiếm dụng: %s</string>
+	<string name="storage_app_detail_system">Kích thước ứng dụng</string>
+	<string name="storage_item_audio_name">Âm thanh</string>
+	<string name="storage_activity_title">Dung lượng lưu trữ</string>
+	<string name="storage_app_detail_clear_cache">Xóa bộ đệm</string>
+	<string name="storage_app_detail_wechat_cleaner">Dọn dẹp WeChat</string>
+	<string name="storage_available_total_size">%1$s của %2$s khả dụng</string>
+	<string name="storage_app_detail_total">Tổng bộ nhớ chiếm dụng</string>
+	<string name="storage_deepclean_entry">Dọn dẹp sâu</string>
+	<string name="storage_app_list_activity_title">Chi tiết ứng dụng</string>
+	<string name="storage_space_release_hint">Cần thêm không gian lưu trữ?</string>
+	<string name="storage_app_detail_activity_title">Bộ nhớ chiếm dụng</string>
+	<string name="exo_track_bitrate">%1$.2f Mb/giây</string>
+	<string name="exo_track_resolution">%1$d × %2$d</string>
+	<string name="storage_app_detail_sdcard">Dữ liệu ứng dụng</string>
+	<string name="storage_app_space_details_entry">Xem chi tiết ứng dụng</string>
+	<string name="storage_app_detail_clear_all_data">Xóa tất cả dữ liệu</string>
+	<string name="ellipsis">…</string>
+	<string name="storage_item_clean_name">Giải phóng bộ nhớ</string>
+	<string name="storage_app_detail_wechat_session">"Xóa lịch sử chat WeChat"</string>
+	<string name="storage_item_apk_name">APK</string>
+	<string name="storage_item_picture_name">Ảnh</string>
+	<string name="storage_item_appdata_name">Ứng dụng và dữ liệu</string>
+	<string name="storage_item_other_name">Khác</string>
+	<string name="abc_action_menu_overflow_description">Thêm tùy chọn</string>
 </resources>
