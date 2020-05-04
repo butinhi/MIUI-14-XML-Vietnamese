@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 	<plurals name="usage_state_hour">
-		<item quantity="other">%d giờ</item>
+		<item quantity="other">"%d giờ "</item>
 	</plurals>
 	<plurals name="usage_state_hour24">
-		<item quantity="other">%d giờ</item>
+		<item quantity="other">"%d giờ "</item>
 	</plurals>
 	<plurals name="usage_state_hour_text">
 		<item quantity="other">" giờ"</item>
@@ -79,7 +79,7 @@
 		<item quantity="other">≈%s giờ</item>
 	</plurals>
 	<plurals name="usage_stats_remain_hour">
-		<item quantity="other">%s giờ</item>
+		<item quantity="other">"%s giờ "</item>
 	</plurals>
 	<plurals name="usage_stats_remain_miunte">
 		<item quantity="other">%s phút</item>

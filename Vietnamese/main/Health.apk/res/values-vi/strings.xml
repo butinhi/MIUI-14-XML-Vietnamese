@@ -487,7 +487,7 @@ Nếu bạn quyết định xóa dữ liệu sức khỏe của bạn sau khi b�
 	<string name="sync_set_network">Cài đặt mạng</string>
 	<string name="last_sync_time">Lần đồng bộ cuối: %1$s</string>
 	<string name="guide_other_data_sync_title">Đồng bộ dữ liệu từ thiết bị khác</string>
-	<string name="add_data_source">Đang thêm nguồn dữ liệu</string>
+	<string name="add_data_source">Thêm nguồn dữ liệu</string>
 	<string name="delete_origin_data_description">Xóa tất cả dữ liệu tạo bởi %1$s?</string>
 	<string name="device_data_sync">Đồng bộ dữ liệu sức khỏe</string>
 	<string name="add_data_source_description">"Thêm dữ liệu sức khỏe tạo bởi thiết bị khác vào Sức khỏe Mi để tăng độ chính xác của thống kê và nhận được lời khuyên sức khỏe phù hợp hơn.

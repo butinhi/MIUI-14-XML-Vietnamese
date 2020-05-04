@@ -3814,7 +3814,7 @@ Sau khi được đặt, nếu bạn đóng ứng dụng, các quyền sẽ tr�
 	<string name="privacy_protect_title">Riêng tư</string>
 	<string name="storage_app_manager_uninstall_with_xspace_app_dlg_msg">"Ứng dụng kép của ứng dụng này cũng sẽ được gỡ cài đặt."</string>
 	<string name="privacy_permission_location">Đang truy cập vị trí</string>
-	<string name="pc_battery_history_usetime_title">Kích hoạt</string>
+	<string name="pc_battery_history_usetime_title">Hoạt động</string>
 	<string name="HIPS_Perm_process_nfc_Desc">Đang sử dụng NFC</string>
 	<string name="app_behavior_get_install_single">Ứng dụng này đã truy cập danh sách ứng dụng của bạn</string>
 	<string name="perm_intercept_title">Cấp quyền truy cập dữ liệu sử dụng cho %1s sẽ cho phép ứng dụng này thực hiện các hành động dưới đây:</string>
