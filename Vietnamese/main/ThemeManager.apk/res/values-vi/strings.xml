@@ -1093,7 +1093,7 @@ Kích thước cập nhật Delta: %2$s"</string>
 	<string name="theme_not_include_module_desc">"Củ đề này không chứa những mục sau: %s"</string>
 	<string name="de_font_exchange_success">Thanh toán thành công</string>
 	<string name="de_mix_mode_lockscreen">Màn hình khóa</string>
-	<string name="theme_component_title_aod">Màn hình luôn bật</string>
+	<string name="theme_component_title_aod">MH luôn bật</string>
 	<string name="search_sort_synthesize">Chung</string>
 	<string name="no_network_please_retry">Kiểm tra cài đặt mạng của bạn và thử lại</string>
 	<string name="de_apply_icons">Biểu tượng ứng dụng</string>

@@ -313,7 +313,7 @@ Chúng sẽ được thêm vào danh sách ngoại lệ, nhưng các mục bị 
     <string name="main_alert_message_no_imsi">Không có thẻ SIM</string>
     <string name="main_primary_message_traffic_remain">Dữ liệu di động</string>
     <string name="main_primary_message_traffic_warning">Cảnh báo dữ liệu di động</string>
-    <string name="main_primary_message_traffic_overlimit">Vượt quá giới hạn dữ liệu</string>
+    <string name="main_primary_message_traffic_overlimit">Dữ liệu vượt quá</string>
     <string name="main_primary_message_leisure_remain">Dữ liệu ngoài giờ cao điểm</string>
     <string name="main_primary_message_leisure_alert">Cảnh báo dữ liệu ngoài giờ cao điểm</string>
     <string name="main_primary_message_leisure_overlimit">Vượt quá giới hạn dữ liệu ngoài giờ cao điểm</string>

@@ -59,11 +59,11 @@
 	</string-array>
 	<string-array name="stand_guide_page_content1">
 		<item>Ít vận động gây ra nhiều vấn đề sức khỏe. Nếu không thể giảm tổng thời gian ngồi một chỗ, các hoạt động đứng không liên tục có thể cải thiện hiệu quả các vấn đề ít vận động.</item>
-		<item>Trợ lý đứng giúp người ít vận động đứng ít nhất 1 phút mỗi giờ, để đạt được mục tiêu đứng 12 giờ mỗi ngày và tránh xa nguy cơ của cuộc sống ít vận động.</item>
-		<item>Nhấn Tiếp tục để hiểu và mở Trợ lý đứng.</item>
+		<item>Trợ lý hoạt động giúp người ít vận động đứng ít nhất 1 phút mỗi giờ, để đạt được mục tiêu đứng 12 giờ mỗi ngày và tránh xa nguy cơ của cuộc sống ít vận động.</item>
+		<item>Nhấn Tiếp tục để hiểu và mở Trợ lý hoạt động.</item>
 	</string-array>
 	<string-array name="stand_guide_page_content2">
-		<item>Trợ lý đứng tự động ghi lại trạng thái đứng bằng cách phát hiện trạng thái sử dụng của điện thoại di động. Khi không phát hiện thấy hoạt động đứng trong vòng 1 giờ, một thông báo sẽ được gửi để nhắc nhở bạn đứng hoặc thêm một bản ghi thủ công.</item>
+		<item>Trợ lý hoạt động tự động ghi lại trạng thái đứng bằng cách phát hiện trạng thái sử dụng của điện thoại di động. Khi không phát hiện thấy hoạt động đứng trong vòng 1 giờ, một thông báo sẽ được gửi để nhắc nhở bạn đứng hoặc thêm một bản ghi thủ công.</item>
 		<item>Xác nhận kích hoạt sẽ đồng thời cho phép phát hiện đứng và nhắc nhở đứng.</item>
 	</string-array>
 </resources>
