@@ -845,7 +845,7 @@ Bạn có thể chọn nguồn dữ liệu khác trong Thêm &gt; Nguồn dữ l
 	<string name="sleep_sober">Thức dậy</string>
 	<string name="light_sleep_time_decrease_description">Giấc ngủ ngắn của bạn quá ít</string>
 	<string name="sleep_detection_question_two_answer">"Theo dõi giấc ngủ của bạn được phân tích ngay trên thiết bị. Nó có thể hoạt động không cần kết nối mạng hoặc kết nối bị gián đoạn."</string>
-	<string name="allow_notice_periods">Cho phép nhắc nhở chu kỳ</string>
+	<string name="allow_notice_periods">Thời gian nhắc nhở</string>
 	<string name="channel_desc_background">Để cung cấp dịch vụ dưới nền</string>
 	<string name="tb_user_account_unsigned">Chạm để đăng nhập với Tài khoản Mi</string>
 	<string name="audio_record_perm_description">Ghi lại tiếng ngáy và giấc mơ của bạn khi ngủ</string>
@@ -863,7 +863,7 @@ Bạn có thể chọn nguồn dữ liệu khác trong Thêm &gt; Nguồn dữ l
 	<string name="tb_picker_menstruation_cycle">Số ngày đã chọn: %1$d. Vuốt theo chiều dọc để thay đổi thời lượng chu kỳ.</string>
 	<string name="fat_rate_descripe_content">Tỷ lệ phần trăm mỡ cơ thể là tỷ lệ chất béo trên tổng trọng lượng cơ thể.</string>
 	<string name="tb_exercise_detail_duration_daily_not_enough">"Thời gian tập tính bằng phút: %1$d. Tập luyện không đủ năng suất."</string>
-	<string name="origin">Gốc</string>
+	<string name="origin">Nguồn</string>
 	<string name="tb_weight_no_record">Chưa cân</string>
 	<string name="rem_Duration_increase_description">Giấc ngủ REM của bạn quá dài</string>
 	<string name="tb_mens_month_expected_date_unselected">%1$s. Ngày %2$d của chu kỳ dự đoán. Chạm để chọn ngày.</string>
@@ -1075,7 +1075,7 @@ Nếu sự cố này xảy ra thường xuyên, hãy kiểm tra thiết bị c�
 	<string name="muscle_rate_descripe_content">"Tỷ lệ cơ bắp được tính trên khối lượng cơ bắp, trọng lượng cơ thể và chiều cao, v.v ... Nó có ích cho việc xác định mức độ khỏe mạnh của bạn. Tập thể dục thường xuyên là điều cần thiết để duy trì một lượng cơ bắp khỏe mạnh trong cơ thể bạn."</string>
 	<string name="awake_duration">Thời gian tỉnh</string>
 	<string name="tb_mens_month_no_marks">"%1$s. Trạng thái không được đánh dấu."</string>
-	<string name="stand_notice">Thông báo đứng</string>
+	<string name="stand_notice">Nhắc đứng dậy</string>
 	<string name="tb_sleep_evaluation">Kết quả ước tính: %1$s</string>
 	<string name="tb_exercise_detail_pillar_cancel">Bỏ chọn</string>
 	<string name="snore_detection_notification_content">Micro đang bật. Nó sẽ tiếp tục hoạt động dưới nền.</string>
@@ -1150,7 +1150,7 @@ Nếu sự cố này xảy ra thường xuyên, hãy kiểm tra thiết bị c�
 	<string name="tb_play_previous">Âm thanh trước</string>
 	<string name="snore_duration_label">Thời gian ngáy</string>
 	<string name="enable">Bật</string>
-	<string name="light_sleep_duration_description">Khi mọi người ngủ, chuyển động mắt nhanh định kỳ xảy ra. Giấc ngủ có thể được chia thành giấc ngủ chuyển động nhanh (REM) và giấc ngủ không chuyển động nhanh (NREM). Giấc ngủ nhẹ xảy ra trong thời gian ngủ NREM, chiếm khoảng 50 đến 60% tổng thời gian ngủ. Trong giấc ngủ nhẹ, ý thức giảm dần và não tương đối tĩnh, nhưng nó vẫn có thể được đánh thức dễ dàng.</string>
+	<string name="light_sleep_duration_description">Khi mọi người ngủ, chuyển động mắt nhanh định kỳ xảy ra. Giấc ngủ có thể được chia thành giấc ngủ chuyển động nhanh (REM) và giấc ngủ không chuyển động nhanh (NREM). Giấc ngủ ngắn xảy ra trong thời gian ngủ NREM, chiếm khoảng 50 đến 60% tổng thời gian ngủ. Trong giấc ngủ ngắn, ý thức giảm dần và não tương đối tĩnh, nhưng nó vẫn có thể được đánh thức dễ dàng.</string>
 	<string name="click_finish_stand">Chạm để ghi</string>
 	<string name="miuix_appcompat_cloud_state_syncing">Đang đồng bộ với đám mây</string>
 	<string name="picker_day">Ngày đã chọn: %1$d. Vuốt theo chiều dọc để chọn.</string>
@@ -1213,7 +1213,7 @@ Nếu thiết bị của bạn nằm trong danh sách này, bạn có thể thê
 	<string name="tb_home_weight_card">Cân nặng. %1$.1f kg. Lần cân: %2$s. Trạng thái: %3$s.</string>
 	<string name="the_spring_festival">Lễ hội Mùa Xuân</string>
 	<string name="climbing">Leo</string>
-	<string name="finish_stand">Có</string>
+	<string name="finish_stand">Đã đứng dậy</string>
 	<string name="snore_detection_guide_one_title">Ghi âm bằng micro</string>
 	<string name="falling_duration_normal_description">Ngủ thiếp đi là khoảng thời gian giữa lúc bắt đầu giấc ngủ và ngủ hoàn toàn. Biết bạn mất bao lâu để ngủ thiếp đi rất quan trọng để điều trị chứng mất ngủ và các tình trạng liên quan đến giấc ngủ khác.</string>
 	<string name="snore_detection_abnormal_notification_content">"Không thể dùng micro"</string>
@@ -1238,7 +1238,7 @@ Nếu thiết bị của bạn nằm trong danh sách này, bạn có thể thê
 	<string name="sleep_detection_enable">Phân tích chu kỳ ngủ</string>
 	<string name="tb_stand_wm_column_chart">Đứng dậy giải lao giữa %1$s và %2$s. Vuốt ngang để chuyển giữa các khoảng thời gian. Chạm để xem chi tiết.</string>
 	<string name="sleep_schedule">Thời gian ngủ</string>
-	<string name="confirm_opening">Xác nhận mở</string>
+	<string name="confirm_opening">Xác nhận bật</string>
 	<string name="not_up_to_standard">Dưới chuẩn</string>
 	<string name="light_sleep_time_increase_description">Giấc ngủ ngắn của bạn quá dài</string>
 	<string name="stand_setting">Cài đặt</string>

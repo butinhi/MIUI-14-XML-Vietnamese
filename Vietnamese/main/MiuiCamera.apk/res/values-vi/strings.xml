@@ -1429,7 +1429,7 @@ và tăng cường tài liệu"</string>
 	<string name="mimoji_create_emoticon_progress">Tạo biểu tượng cảm xúc</string>
 	<string name="mimoji_emoticon_save">Lưu biểu tượng cảm xúc</string>
 	<string name="unknow_error">Lỗi không xác định</string>
-	<string name="mimoji_select_number_error">Vui lòng chọn ít nhất một mặt cười</string>
+	<string name="mimoji_select_number_error">Chọn ít nhất %d mục</string>
 	<string name="background">Hình nền</string>
 	<string name="mimoji_create_emoticon_error">Tạo biểu tượng cảm xúc thất bại</string>
 	<string name="mimoji_emoticon_with_jpeg_save">Lưu dưới dạng hình ảnh</string>

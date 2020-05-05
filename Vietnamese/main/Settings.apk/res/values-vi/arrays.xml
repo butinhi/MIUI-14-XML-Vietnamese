@@ -1551,7 +1551,7 @@ Ghi chú: Chỉ cho phiên bản Ubuntu 8.04!"</item>
 	<string-array name="bluetooth_a2dp_codec_lhdc_playback_quality_titles">
 		<item>Tối ưu cho độ trễ thấp (256kbps)</item>
 		<item>Tối ưu cho Chất lượng kết nối (400kbps)</item>
-		<item>BCân bằng Âm thanh và Chất lượng kết nối (500/560kbps)</item>
+		<item>Cân bằng Âm thanh và Chất lượng kết nối (500/560kbps)</item>
 		<item>Tối ưu cho Chất lượng âm thanh (900kbps)</item>
 		<item>Cố gắng nhất (Bit Rate tự động)</item>
 	</string-array>
