@@ -740,7 +740,7 @@ Dữ liệu chưa được nhập phải được nhập lại."</string>
 	<string name="new_local_tab_backup">Sao lưu vào thiết bị di động</string>
 	<string name="new_local_button_restore">Khôi phục</string>
 	<string name="new_select_third_data">Dữ liệu ứng dụng bên thứ ba</string>
-	<string name="new_pc_backup_summary4">Ghi chú: bạn cũng có thể sao chép ảnh và video từ MIUI-DCIM.</string>
+	<string name="new_pc_backup_summary4">Ghi chú: bạn cũng có thể sao chép ảnh và video từ DCIM.</string>
 	<string name="new_pc_backup_summary2">Kết nối thiết bị di động của bạn vào máy tính bằng cáp USB.</string>
 	<string name="new_pc_backup_summary1">Chọn mục và chạm \"Sao lưu\".</string>
 	<string name="new_select_third_apk">Ứng dụng bên thứ ba</string>

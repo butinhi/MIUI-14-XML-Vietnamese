@@ -3704,7 +3704,7 @@ Sau khi được đặt, nếu bạn đóng ứng dụng, các quyền sẽ tr�
 	<string name="storage_app_detail_uninstall_done">Gỡ cài đặt thành công</string>
 	<string name="privacy_dialog_call_title">Bảo vệ cuộc gọi</string>
 	<string name="power_save_ps_description_title">Tiết kiệm pin kích hoạt các hạn chế sau:</string>
-	<string name="privacy_mask_summary">MIUI sẽ cung cấp ID nhận dạng ảo (OAID) cho ứng dụng ba bên để thay thế danh tính thật của bạn, ngăn ứng dụng theo dõi hành vi và sở thích của bạn và bảo vệ thông tin cá nhân của bạn</string>
+	<string name="privacy_mask_summary">Thay vì số nhận dạng thực của bạn, MIUI sẽ cung cấp ID ảo (OAID) cho các ứng dụng của bên thứ ba. Nó ngăn các ứng dụng theo dõi hành vi và sở thích của bạn và bảo vệ quyền riêng tư của bạn</string>
 	<string name="privacy_pop_contact">Đã truy cập liên hệ hôm nay</string>
 	<string name="app_behavior_now_running">Đang chạy</string>
 	<string name="miuix_sbl_tracking_progress_labe_up_nodata">"Đó là tất cả"</string>
