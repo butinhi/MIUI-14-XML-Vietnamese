@@ -737,4 +737,8 @@ Cho phép Ghi chú ghi âm."</string>
 	<string name="float_todo_guide_title">Lối tắt Màn hình chính</string>
 	<string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Kéo xuống để làm mới</string>
 	<string name="miuix_sbl_tracking_progress_labe_up_nodata">"Đó là tất cả"</string>
+	<string name="btn_next">Tiếp theo</string>
+	<string name="note_gesture_guide_step3">Nhấn giữ một ghi chú và kéo thả vào thư mục để di chuyển ghi chú tới đó</string>
+	<string name="note_gesture_guide_step2">Nhấn giữ một ghi chú và kéo thả vào ghi chú khác để tạo thư mục</string>
+	<string name="note_gesture_guide_step1">Nhấn giữ dấu cộng để tạo ghi chú âm thanh</string>
 </resources>

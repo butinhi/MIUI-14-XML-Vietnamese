@@ -580,4 +580,7 @@
 	<string name="miuix_sbl_tracking_progress_labe_up_refresh">Chỉ vài giây…</string>
 	<string name="miuix_sbl_tracking_progress_labe_up_nodata">"Đó là tất cả"</string>
 	<string name="miuix_sbl_tracking_progress_labe_refreshed">Đã làm mới</string>
+	<string name="content_description_button_disable">"Không thể thêm ứng dụng hiện tại"</string>
+	<string name="content_description_button_add">Chạm để thêm ứng dụng hiện tại</string>
+	<string name="content_description_button_remove">Chạm để xóa khỏi ứng dụng hiện tại</string>
 </resources>

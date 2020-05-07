@@ -486,4 +486,6 @@ Chạm vào màn hình để thêm thủ công hoặc định vị lại thành 
 	<string name="miuix_sbl_tracking_progress_labe_up_nodata">"Đó là tất cả"</string>
 	<string name="thanku_for_feedback">Cảm ơn phản hồi của bạn, bạn có thể mở lại video thời tiết trong trang cài đặt</string>
 	<string name="aqi_5_days_desc">Dự báo chất lượng không khí trong 5 ngày</string>
+	<string name="rain_sound_setting_title_text">Hiệu ứng âm thanh</string>
+	<string name="rain_sound_setting_summary_text">Kèm theo sự thay đổi thời tiết bởi hiệu ứng âm thanh</string>
 </resources>
