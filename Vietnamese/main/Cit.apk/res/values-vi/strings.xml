@@ -1530,4 +1530,14 @@ Nhấp vào nút Bắt đầu thu thập dữ liệu
 	<string name="cit_diag_jank_title">Đọc nhật ký jank</string>
 	<string name="cit_ultra_camera_check_title">Kiểm tra siêu máy ảnh</string>
 	<string name="cit_diag_jank_summary">Chép tập tin nhật ký jank vào thẻ sd</string>
+	<string name="cit_tool_bluetooth_tx_channel">Kênh:</string>
+	<string name="cit_voc_data_temperature">Nhiệt độ</string>
+	<string name="cit_tool_bluetooth_le_tx_channel">Kênh:</string>
+	<string name="cit_tool_bluetooth_le_power_run">CHẠY</string>
+	<string name="cit_hall_down_arrow">↓</string>
+	<string name="cit_voc_data_humidity">Độ ẩm</string>
+	<string name="radio_info_lac">LAC</string>
+	<string name="radio_info_cid">CID</string>
+	<string name="cit_voc_data_pressure">Áp suất</string>
+	<string name="cit_tool_bluetooth_tx_burst_run">CHẠY</string>
 </resources>
