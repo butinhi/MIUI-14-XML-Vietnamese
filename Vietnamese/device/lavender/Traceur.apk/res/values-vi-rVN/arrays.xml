@@ -22,4 +22,9 @@
 		<item>Bật Codec Tùy chọn</item>
 		<item>Tắt Codec Tùy chọn</item>
 	</string-array>
+	<string-array name="bt_hci_snoop_log_entries">
+		<item>Đã tắt</item>
+		<item>Đã bật và lọc</item>
+		<item>Đã bật</item>
+	</string-array>
 </resources>
