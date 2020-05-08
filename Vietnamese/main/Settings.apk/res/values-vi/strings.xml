@@ -10209,4 +10209,5 @@ Nếu bạn không đồng ý cấp các quyền đó, bạn sẽ không thể s
 	<string name="face_unlock">Mở khóa khuôn mặt</string>
 	<string name="current_password">Khóa màn hình hiện tại</string>
 	<string name="structure_face_data_introduction_msg">Dữ liệu khuôn mặt 3D cho phép bạn mở khóa thiết bị và xác minh danh tính của bạn. Bạn cần đặt mật khẩu trước khi sử dụng tính năng này.</string>
+	<string name="control_panel_switch_side">Đổi bên Trung tâm Điều khiển</string>
 </resources>
