@@ -552,7 +552,7 @@ Kiểm tra cài đặt mạng và thử lại."</string>
     <string name="edit_event_dislike_title">Tại sao bạn muốn hủy?</string>
     <string name="check_reminded_text">Xem</string>
     <string name="di_zhi">Địa chi</string>
-    <string name="electricity_amount_label">Tiêu thụ điện</string>
+    <string name="electricity_amount_label">Tiêu thụ điện: %s</string>
     <string name="electricity_bill_event_title">"Thanh toán tiền điện: "</string>
     <string name="electricity_detail_title">Tiền điện</string>
     <string name="electricity_event_delete_successfully">Xóa sự kiện thanh toán tiền điện thành công</string>
@@ -618,7 +618,7 @@ Kiểm tra cài đặt mạng và thử lại."</string>
     <string name="fortune_name">Tên gọi</string>
     <string name="fortune_name_hint">Vui lòng nhập</string>
     <string name="fortune_no_name">Vui lòng điền vào tiêu đề</string>
-    <string name="gas_amount_label">Tiêu thụ gas</string>
+    <string name="gas_amount_label">Tiêu thụ gas: %s</string>
     <string name="gas_bill_event_title">"Thanh toán gas: "</string>
     <string name="gas_cost_label">Cần thanh toán</string>
     <string name="gas_detail_name">Số tài khoản: %1$s</string>
@@ -815,7 +815,7 @@ Kiểm tra cài đặt mạng và thử lại."</string>
     <string name="subscription_service">Đăng ký dịch vụ</string>
     <string name="card_credit_today">Hôm nay</string>
     <string name="card_credit_repayment">Ngày trả nợ</string>
-    <string name="gas_detail_deadline">Thời hạn thanh toán: %1$s</string>
+    <string name="gas_detail_deadline">Thời hạn thanh toán</string>
     <string name="gas_detail_account_name">Số tài khoản</string>
     <string name="gas_detail_header_title">Nhắc tiền điện</string>
     <string name="limit_detail_title">Giới hạn thành phố</string>

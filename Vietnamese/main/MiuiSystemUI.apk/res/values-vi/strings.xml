@@ -2234,7 +2234,7 @@ d MMMM"</string>
 	<string name="character_counter_content_description">Ký tự đã nhập %1$d trên %2$d</string>
 	<string name="qs_control_big_tile_state_closed">Tắt</string>
 	<string name="qs_control_big_tile_state_disconnecting">Đang ngắt kết nối…</string>
-	<string name="qs_control_header_tiles_title">Trung tâm điều khiển</string>
+	<string name="qs_control_header_tiles_title">TT Điều khiển</string>
 	<string name="wifi_security_none_owe">Không/Enhanced Open</string>
 	<string name="status_bar_clock_date_weekday_format_12">EEE dd/MM</string>
 	<string name="qs_control_customize_sub_title">Kéo thả nút vừa thêm để sắp xếp</string>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="freeform_demo_final_over">Hoàn tất</string>
+	<string name="freeform_demo_title_finish">Tuyệt vời!</string>
+	<string name="how_to_move_freeform_window_summary">Nhấn và giữ thanh hàn động của cửa sổ nổi để di chuyển</string>
+	<string name="freeform_demo_final_title">Xin chúc mừng!</string>
+	<string name="freeform_demo_back">Quay lại</string>
+	<string name="how_to_drop_down_to_fullscreen_summary">Nhấn giữ và kéo xuống thanh hành động của một cửa sổ nổi</string>
+	<string name="how_to_hang_to_small_freeform_summary">Kéo cửa sổ nổi tới góc màn hình</string>
+	<string name="freeform_demo_go_on">Tiếp theo</string>
+	<string name="how_to_hang_freeform">Thu nhỏ cửa sổ nổi</string>
+	<string name="how_to_notification_drop_down_summary">Nhấn giữ và kéo xuống thanh hành động của một thông báo</string>
+	<string name="freeform_demo_final_restart">Bắt đầu lại</string>
+	<string name="how_to_slide_up_to_close_summary">Vuốt lên từ thanh hành động của cửa sổ nổi</string>
+	<string name="freeform_demo_title_skip">Bỏ qua</string>
+	<string name="how_to_move_freeform">Di chuyển cửa sổ nổi xung quanh</string>
+	<string name="how_to_notification_drop_down">Mở một cửa sổ nổi</string>
+	<string name="how_to_use_freeform">Làm thế nào để sử dụng cửa sổ nổi</string>
+	<string name="contentDescription">Di chuyển cửa sổ</string>
+	<string name="how_to_close_or_fullscreen_freeform">Đóng cửa sổ nổi hoặc chuyển sang chế độ toàn màn hình</string>
+	<string name="how_to_drop_down_to_fullscreen">Chuyển sang toàn màn hình</string>
+	<string name="how_to_hang_to_small_freeform">Thu nhỏ cửa sổ nổi</string>
+	<string name="how_to_move_freeform_window">Di chuyển cửa sổ nổi xung quanh</string>
+	<string name="how_to_slide_up_to_close">Đóng cửa sổ nổi</string>
+	<string name="how_to_open_freeform">Mở thông báo trong cửa sổ nổi</string>
+</resources>

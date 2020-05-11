@@ -2306,4 +2306,21 @@ Chụp nhiều ảnh bạn của bạn hơn!"</string>
 	<string name="device_status_waiting">Đang chờ…</string>
 	<string name="device_status_sending">Đang gửi…</string>
 	<string name="device_status_success">Gửi thành công</string>
+	<string name="vlog_photo_edit_not_support">"Không thể sửa hình ảnh"</string>
+	<string name="problem_feedback">Phản hồi</string>
+	<string name="vlog_float_view_original_ratio">Gốc</string>
+	<string name="album_tab_page_switch_view_style_to_linear">Xem danh sách</string>
+	<string name="macarons_downloading">Đang tải xuống trình cắm…</string>
+	<string name="macarons_download_later">Chờ một vài phút rồi thử lại</string>
+	<string name="album_tab_page_switch_view_style_to_grid">Xem lưới</string>
+	<string name="macarons_download_network_fail">Không thể tải trình cắm. Kiểm tra cài đặt mạng và thử lại</string>
+	<string name="vlog_exit_title">Hủy thay đổi</string>
+	<string name="vlog_clip_zoom">Sử dụng hai ngón tay để tăng hoặc giảm số khung hình trong xem trước</string>
+	<string name="macarons_download_storage_fail">"Không thể tải. Không đủ dung lượng."</string>
+	<string name="macarons_download_other_fail">"Không thể tải"</string>
+	<string name="macarons_download_sdscard_fail">"Không thể tải. Thẻ SD không khả dụng."</string>
+	<string name="continue_feedback">Phản hồi bổ sung</string>
+	<string name="vlog_improt_encode_video_error">Lỗi mã hóa. Thử lại.</string>
+	<string name="vlog_exit_message">Tất cả thay đổi chưa lưu sẽ bị mất. Vẫn quay lại?</string>
+	<string name="vlog_video_trans_code_cons">Đang xử lý tệp tin độ phân giải cao…</string>
 </resources>
