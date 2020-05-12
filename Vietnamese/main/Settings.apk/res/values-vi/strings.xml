@@ -10210,4 +10210,7 @@ Nếu bạn không đồng ý cấp các quyền đó, bạn sẽ không thể s
 	<string name="current_password">Khóa màn hình hiện tại</string>
 	<string name="structure_face_data_introduction_msg">Dữ liệu khuôn mặt 3D cho phép bạn mở khóa thiết bị và xác minh danh tính của bạn. Bạn cần đặt mật khẩu trước khi sử dụng tính năng này.</string>
 	<string name="control_panel_switch_side">Đổi bên Trung tâm Điều khiển</string>
+	<string name="bluetooth_paired">Đã lưu</string>
+	<string name="reset_remove_data_hint">Các mục liệt kê bên trên sẽ bị xóa vĩnh viễn. Sao lưu tất cả các mục quan trọng vào máy tính hoặc Xiaomi Cloud trước khi bạn tiếp tục.</string>
+	<string name="reset_confirm_directory">"Ghi chú: Trước khi khôi phục các mục, kiểm tra thư mục \"MIUI-Backup-AllBackup\" đã tồn tại trên thiết bị hay chưa. Nếu chưa, hãy tạo nó."</string>
 </resources>

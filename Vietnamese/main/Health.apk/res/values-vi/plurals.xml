@@ -149,7 +149,7 @@
 		<item quantity="one">trong 1 phút</item>
 	</plurals>
 	<plurals name="dream_talk_segment_unit">
-		<item quantity="other">bản ghi</item>
+		<item quantity="other">" bản ghi"</item>
 	</plurals>
 	<plurals name="time_duration_minute">
 		<item quantity="other">%1$d phút</item>

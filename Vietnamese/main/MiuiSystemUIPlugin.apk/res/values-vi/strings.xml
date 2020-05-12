@@ -4,4 +4,5 @@
 	<string name="quick_settings_hang_on">Bạn có thể sử dụng cửa sổ nổi</string>
 	<string name="no_avaliable_application">Không có ứng dụng khả dụng</string>
 	<string name="quick_settings_hang_label">Cửa sổ nổi</string>
+	<string name="quick_settings_scanner_label">Máy quét</string>
 </resources>

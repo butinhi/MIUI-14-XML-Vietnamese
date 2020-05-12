@@ -1525,4 +1525,9 @@ và tăng cường tài liệu"</string>
 	<string name="mode_edit_cancel">Hủy</string>
 	<string name="pref_custom_tint_title">Màu sắc</string>
 	<string name="pref_retain_camera_common_mode_summary">Mở Máy ảnh ở chế độ trước đó thay vì chuyển sang \"Ảnh\"</string>
+	<string name="apollo_h_d_v">Tự động</string>
+	<string name="more_mode_style_popup">Bảng \"Thêm\"</string>
+	<string name="pref_more_mode_style_title">Chế độ máy ảnh</string>
+	<string name="more_mode_style">"Chọn cách bạn muốn sắp xếp tất cả chế độ máy ảnh"</string>
+	<string name="more_mode_style_tab">Tab \"Thêm\"</string>
 </resources>

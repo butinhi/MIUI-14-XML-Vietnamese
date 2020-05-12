@@ -816,7 +816,7 @@ Bạn có thể chọn nguồn dữ liệu khác trong Thêm &gt; Nguồn dữ l
 	<string name="tb_exercise_list_sport_one">%1$s. Thời lượng: %2$s. Thời gian kết thúc: %3$s. Nguồn dữ liệu: %4$s. Chạm để xem chi tiết.</string>
 	<string name="tb_card_on_using_list">Đã thêm</string>
 	<string name="sleep_detection_question_four_answer">Các loại thiết bị di động khác nhau được trang bị các cảm biến khác nhau. Giá trị tiêu thụ điện năng có thể khác nhau đối với các yếu tố phần cứng khác nhau.</string>
-	<string name="sleep_snore_audio_auto">Theo dõi âm thanh của bạn</string>
+	<string name="sleep_snore_audio_auto">Tự động ghi lại ngáy và nói mơ</string>
 	<string name="snore_detection_running_state_description">Micro đang bật. Nó sẽ tiếp tục hoạt động dưới nền.</string>
 	<string name="close">Tắt</string>
 	<string name="fmt_date_numeric_month_day">d-M</string>
@@ -834,7 +834,7 @@ Bạn có thể chọn nguồn dữ liệu khác trong Thêm &gt; Nguồn dữ l
 	<string name="sleep_detection_guide_four_description">Theo dõi giấc ngủ sẽ tốn khoảng 1% pin mỗi ngày.</string>
 	<string name="rate_short">Không đủ</string>
 	<string name="tracking_progress_labe_release_to_refresh">Thả ra để làm mới</string>
-	<string name="sleep_snore_audio_enable">Phát hiện đang bật</string>
+	<string name="sleep_snore_audio_enable">Đang bật tự động phát hiện</string>
 	<string name="sleep_detection_guide_one_description">Đặt thiết bị của bạn bên cạnh khi ngủ để theo dõi chuyển động cơ thể và tạo thống kê chu kỳ ngủ.</string>
 	<string name="tb_weight_pre_time">Lần cân trước</string>
 	<string name="tb_home_exercise_card_not_set_goal">Tập thể dục. %1$s. Đã hoàn tất: %2$s. Mở mục tiêu.</string>
@@ -851,7 +851,7 @@ Bạn có thể chọn nguồn dữ liệu khác trong Thêm &gt; Nguồn dữ l
 	<string name="audio_record_perm_description">Ghi lại tiếng ngáy và giấc mơ của bạn khi ngủ</string>
 	<string name="free_training">Tập luyện tự do</string>
 	<string name="the_dragon_boat_festival">Lễ hội Thuyền Rồng</string>
-	<string name="enable_not_now">Tắt</string>
+	<string name="enable_not_now">Không phải bây giờ</string>
 	<string name="sleep_duration_description">Thời gian ngủ là thời gian giữa bạn đi ngủ và thức dậy. Những khoảng thời gian khi bạn thức dậy và sau đó quay trở lại giấc ngủ trong đêm bị trừ đi.</string>
 	<string name="write_strorage_perm_description">Ghi lại các vấn đề bạn gặp phải trong quá trình sử dụng</string>
 	<string name="drag_sort">Sắp xếp lại</string>
@@ -871,7 +871,7 @@ Bạn có thể chọn nguồn dữ liệu khác trong Thêm &gt; Nguồn dữ l
 	<string name="breaststroke">Bơi ếch</string>
 	<string name="swim_type">Kiểu bơi</string>
 	<string name="tb_picker_year">Năm đã chọn: %1$d. Vuốt theo chiều dọc để chọn năm.</string>
-	<string name="sleep_snore_audio_enable_desc">Đêm nay, giấc ngủ của bạn sẽ tự động được theo dõi.</string>
+	<string name="sleep_snore_audio_enable_desc">Tiếng ngáy và nói mơ của bạn sẽ được ghi lại tự động khi bạn đi ngủ.</string>
 	<string name="tb_current_select">%1$s đang chọn</string>
 	<string name="cumulative_decline">Giảm độ cao</string>
 	<string name="exercise_question_title">"Tại sao bạn không thấy thống kê?"</string>
@@ -891,7 +891,7 @@ Bạn có thể chọn nguồn dữ liệu khác trong Thêm &gt; Nguồn dữ l
 	<string name="close_stand_detection_tip">Bật để theo dõi và nhận lời nhắc</string>
 	<string name="falling_duration_hard_description">"Ngủ thiếp đi là khoảng thời gian giữa lúc bắt đầu giấc ngủ và ngủ hoàn toàn. Nếu bạn mất nhiều thời gian hơn 30 phút để ngủ, đây có thể là dấu hiệu của chứng mất ngủ.
 Nếu bạn vẫn khó ngủ sau 30 phút trên giường, hãy giảm các yếu tố gây ra hiện tượng này. Uống ít cà phê; đừng kích thích hệ thần kinh của bạn trực tiếp bằng cách xem video hoặc đọc trước khi đi ngủ; giữ cho phòng ngủ của bạn tối, yên tĩnh và thoải mái. Nếu các biện pháp này không mang lại bất kỳ tác dụng nào, tham khảo ý kiến bác sĩ của bạn."</string>
-	<string name="sleep_snore_detection_desc">Theo dõi giấc ngủ của bạn</string>
+	<string name="sleep_snore_detection_desc">Phát hiện ngáy và nói mơ để tìm hiểu thêm về giấc ngủ của bạn</string>
 	<string name="tb_weight_decrease">Giảm cân</string>
 	<string name="snore_record_audio_delete_message">"Bản ghi này chỉ được lưu trên thiết bị của bạn. Bạn sẽ không thể khôi phục sau khi xóa. Vẫn xóa?"</string>
 	<string name="tb_exercise_label_close">Đóng</string>
@@ -908,7 +908,7 @@ Bạn có thể chọn nguồn dữ liệu khác trong Thêm &gt; Nguồn dữ l
 	<string name="light_sleep_duration">Thời lượng ngủ ngắn</string>
 	<string name="tb_home_weight_card_no_data">Cân nặng. Không có dữ liệu.</string>
 	<string name="awake_duration_good_description">"Bạn không thức giấc ban đêm."</string>
-	<string name="sedentaty_hazard_description">Ngồi lâu không có lợi cho sức khỏe của bạn. 12 lần đứng lên giải lao mỗi ngày sẽ giúp bạn tránh được những rủi ro của lối sống ít vận động.</string>
+	<string name="sedentaty_hazard_description">Ngồi lâu không có lợi cho sức khỏe của bạn. Mỗi ngày, 12 giờ có nghỉ giải lao 1 phút sẽ giúp bạn tránh được những rủi ro của lối sống ít vận động.</string>
 	<string name="exercise_information_label">Cung cấp thông tin của bạn để thống kê chính xác hơn</string>
 	<string name="tb_mens_month_period_date_selected">%1$s. Ngày %2$d của chu kỳ kinh nguyệt. Đã chọn.</string>
 	<string name="tb_exercise_sport_sum">Báo cáo tập luyện. %1$s. Chạm để xem chi tiết.</string>
@@ -935,7 +935,7 @@ Bạn có thể chọn nguồn dữ liệu khác trong Thêm &gt; Nguồn dữ l
 	<string name="stand">Đứng dậy</string>
 	<string name="avg_altitude">Độ cao trung bình</string>
 	<string name="tb_exercise_detail_consume_no_data">Không có thông tin về lượng Calo đốt cháy</string>
-	<string name="snore_detection_stop_pop_title">Kết thúc phiên ngay?</string>
+	<string name="snore_detection_stop_pop_title">Kết thúc phiên phát hiện ngáy hiện tại?</string>
 	<string name="tb_exercise_exercise_duration">Thời lượng bài tập tính bằng phút: %1$d. %2$s. Chạm để xem chi tiết.</string>
 	<string name="bedtime_description">"Giờ đi ngủ là lúc bạn đi ngủ và đặt điện thoại xuống. Nó được ước tính dựa trên lịch trình đi ngủ và sử dụng thiết bị của bạn."</string>
 	<string name="exercise_intensity">Cường độ</string>
@@ -971,7 +971,7 @@ Bạn có thể chọn nguồn dữ liệu khác trong Thêm &gt; Nguồn dữ l
 	<string name="back_stroke">Bơi ngửa</string>
 	<string name="sleep_detection_guide_one_title">Theo dõi giấc ngủ của bạn</string>
 	<string name="deep_sleep_duration_increase_description">Giấc ngủ sâu của bạn quá dài</string>
-	<string name="sleep_snore_audio_auto_desc">Ghi lại cuộc nói chuyện của bạn khi bạn đang ngủ và lưu trữ tệp trong điện thoại để bảo vệ quyền riêng tư của bạn một cách an toàn.</string>
+	<string name="sleep_snore_audio_auto_desc">Sức khỏe Xiaomi có thể tự động ghi lại tiếng ngáy và nói mơ dựa trên lịch trình đi ngủ của bạn. Việc ghi âm sẽ dừng lại khi bạn thức dậy. Để bảo vệ quyền riêng tư của bạn, tất cả các tệp đã ghi sẽ được lưu cục bộ trên thiết bị của bạn bằng thuật toán tích hợp.</string>
 	<string name="sleep_detection_guide_four_high_power_title">Giữ thiết bị được sạc</string>
 	<string name="label_early_sleep_time">Sớm hơn dự định</string>
 	<string name="snore_detection_normal_notification_title">Phát hiện ngáy và nói mơ</string>
@@ -989,7 +989,7 @@ Bạn có thể chọn nguồn dữ liệu khác trong Thêm &gt; Nguồn dữ l
 	<string name="rate_bone_osteoporosis">Loãng xương</string>
 	<string name="protein_rate">Đạm</string>
 	<string name="total">Tổng</string>
-	<string name="sleep_snore_audio_close_desc">Bạn có thể tắt trong cài đặt ngủ.</string>
+	<string name="sleep_snore_audio_close_desc">Bạn có thể tắt tính năng này bất kỳ lúc nào trong Cài đặt.</string>
 	<string name="miuix_appcompat_cloud_state_finished">Đã đồng bộ với đám mây</string>
 	<string name="tb_exercise_sport_no_distance">%1$s. Thời lượng %2$s. Calo đã đốt cháy: %3$s.</string>
 	<string name="snore_detection_guide_two_description">Micro sẽ được bật theo lịch đi ngủ của bạn.</string>
@@ -1136,7 +1136,7 @@ Nếu sự cố này xảy ra thường xuyên, hãy kiểm tra thiết bị c�
 	<string name="open_stand_assistant">Chạm để mở Trợ lý hoạt động</string>
 	<string name="snore_detection_abnormal_state">Phiên bị gián đoạn</string>
 	<string name="tb_snore_detection_main">Về các tính năng liên quan đến nói mơ và ngáy: %1%s. Vuốt ngang ở phía trên màn hình để chuyển tới trang tiếp theo.</string>
-	<string name="sleep_snore_audio_hight_power_desc">Đảm bảo thiết bị của bạn sạc đủ trước khi ngủ.</string>
+	<string name="sleep_snore_audio_hight_power_desc">Hãy nhớ rằng sử dụng tính năng này tiêu thụ một lượng điện năng đáng kể. Cắm sạc trong khi bạn ngủ để tránh bị gián đoạn cũng là một ý tưởng tốt.</string>
 	<string name="rem_duration_normal_description">Thời lượng ngủ REM bình thường</string>
 	<string name="snore_detection_enable">Phát hiện ngáy và nói mơ</string>
 	<string name="weight_height_weight_bmi">Chỉ số khối cơ thể</string>
@@ -1147,14 +1147,14 @@ Nếu sự cố này xảy ra thường xuyên, hãy kiểm tra thiết bị c�
 	<string name="getUp_time_late_description">"Bạn dậy muộn. Ngủ nhiều quá không mang lại lợi ích đáng kể nào cho sức khỏe của bạn."</string>
 	<string name="fmt_date_long_year_month_day">d MMMM, yyyy</string>
 	<string name="climb">Leo cầu thang</string>
-	<string name="tb_play_previous">Âm thanh trước</string>
-	<string name="snore_duration_label">Thời gian ngáy</string>
+	<string name="tb_play_previous">Chuyển sang ghi âm trước đó</string>
+	<string name="snore_duration_label">Thời lượng ngáy</string>
 	<string name="enable">Bật</string>
 	<string name="light_sleep_duration_description">Khi mọi người ngủ, chuyển động mắt nhanh định kỳ xảy ra. Giấc ngủ có thể được chia thành giấc ngủ chuyển động nhanh (REM) và giấc ngủ không chuyển động nhanh (NREM). Giấc ngủ ngắn xảy ra trong thời gian ngủ NREM, chiếm khoảng 50 đến 60% tổng thời gian ngủ. Trong giấc ngủ ngắn, ý thức giảm dần và não tương đối tĩnh, nhưng nó vẫn có thể được đánh thức dễ dàng.</string>
 	<string name="click_finish_stand">Chạm để ghi</string>
 	<string name="miuix_appcompat_cloud_state_syncing">Đang đồng bộ với đám mây</string>
 	<string name="picker_day">Ngày đã chọn: %1$d. Vuốt theo chiều dọc để chọn.</string>
-	<string name="no_snore_1">"Bạn không ngáy hoặc nói khi ngủ"</string>
+	<string name="no_snore_1">Chưa có mục nào ở đây</string>
 	<string name="tb_user_account_signed">Tài khoản Mi: %1$s.</string>
 	<string name="exercise_no_question">"Tại sao bạn không thấy thống kê của mình?"</string>
 	<string name="min_altitude">Độ cao thấp nhất</string>
@@ -1251,7 +1251,7 @@ Nếu thiết bị của bạn nằm trong danh sách này, bạn có thể thê
 	<string name="snore_detection_guide_schedule_suggest">Micro sẽ được bật và tắt phụ thuộc vào lịch ngủ. Đặt lịch ngủ của bạn để nó hoạt động&gt;</string>
 	<string name="tb_weight_choice">%2$s từ %1$s là %3$s</string>
 	<string name="enough">Đủ</string>
-	<string name="tb_play_next">Âm thanh tiếp theo</string>
+	<string name="tb_play_next">Chuyển sang ghi âm tiếp theo</string>
 	<string name="indoor_running">Máy chạy bộ</string>
 	<string name="tb_exercise_exercise_no_data">Không có thông tin thời lượng bài tập</string>
 	<string name="exercise_goal">Mục tiêu hoạt động</string>
@@ -1275,12 +1275,12 @@ Nếu thiết bị của bạn nằm trong danh sách này, bạn có thể thê
 	<string name="welcome_exercise_description">Mang theo thiết bị để tự động theo dõi tập luyện</string>
 	<string name="exercise_heart_rate_range">Khoảng nhịp tim</string>
 	<string name="title_select_birthday_description">"Chúng tôi sẽ điều chỉnh dịch vụ theo tuổi của bạn"</string>
-	<string name="sleep_detection_question_one_title_1">"Tại sao giấc ngủ ngắn và giấc ngủ sâu không được ghi lại?"</string>
+	<string name="sleep_detection_question_one_title_1">"Tại sao tôi không thấy phân tích chu kỳ ngủ?"</string>
 	<string name="welcome_sedentary_description">"Sức khỏe Xiaomi có thể nhắc bạn đứng khi bạn ngồi quá lâu"</string>
 	<string name="exercise_speed">Tốc độ</string>
-	<string name="sleep_detection_question_one_answer_1">"Phân tích giấc ngủ sâu dựa vào dữ liệu chuyển động cơ thể được thu thập bởi các cảm biến trên điện thoại di động. Các điều kiện sau đây có thể dẫn đến không có kết quả phân tích giấc ngủ: 
-1. Thu thập dữ liệu thất bại. Thu thập và tính toán dữ liệu có thể không được thực hiện bình thường do tắt điện thoại di động hoặc không đủ năng lượng trong khi ngủ. 
-2. Phân tích dữ liệu thất bại. Có thể là điện thoại di động được đặt cách xa cơ thể hoặc tĩnh, dẫn đến chuyển động cơ thể được thu thập là không rõ ràng, và các đặc điểm giấc ngủ sâu không thể được phân tích tạm thời. Chúng tôi sẽ tiếp tục tối ưu hóa thuật toán."</string>
+	<string name="sleep_detection_question_one_answer_1">"Các pha ngủ sâu và ngủ ngắn được phát hiện dựa trên dữ liệu chuyển động cơ thể được thu thập bởi các cảm biến của thiết bị. Đây là lý do tại sao bạn không thể xem số liệu thống kê:
+1. Sức khỏe Xiaomi không thể thu thập dữ liệu. Điều này có thể xảy ra khi thiết bị của bạn tắt nguồn trong khi bạn đang ngủ, pin quá yếu hoặc ứng dụng không được phép hoạt động ở chế độ nền. Cho phép Sức khỏe Xiaomi tự động khởi động, thêm nó vào các ngoại lệ tiết kiệm pin và khóa nó ở chế độ nền để ngăn điều này xảy ra.
+2. Sức khỏe Xiaomi không thể phân tích dữ liệu thu thập được. Điều này có thể xảy ra khi điện thoại của bạn được đặt quá xa cơ thể khi bạn ngủ. Ngoài ra, chuyển động cơ thể của bạn có thể quá ít để có thể thay đổi chu kỳ giấc ngủ của bạn. Chúng tôi liên tục cải tiến các thuật toán của mình để giúp Sức khỏe Xiaomi phân tích giấc ngủ của bạn tốt hơn."</string>
 	<string name="welcome_sleep_description">Đặt điện thoại bên cạnh bạn để tìm hiểu về chu kỳ giấc ngủ của bạn vào buổi sáng</string>
 	<string name="welcome_sleep">Phân tích chu kỳ ngủ</string>
 	<string name="guide_exit">Thoát Sức khỏe Xiaomi</string>
@@ -1295,7 +1295,7 @@ Nếu thiết bị của bạn nằm trong danh sách này, bạn có thể thê
 	<string name="date_format_yyyy_m_d_h_m">dd/MM/yyyy HH:mm</string>
 	<string name="date_format_m_d_h_m">dd-MM HH:mm</string>
 	<string name="sleep_deep_light_no_data_improvement">Các tính năng ngủ sâu không được xác định và các nỗ lực sẽ được thực hiện để tối ưu hóa thuật toán.</string>
-	<string name="sleep_deep_light_no_data">Không có bản ghi ngủ sâu</string>
+	<string name="sleep_deep_light_no_data">Chưa có dữ liệu ở đây</string>
 	<string name="welcome_sedentary">Tiếp tục di chuyển</string>
 	<string name="tb_stand_wm_column_click">%1$s. Nghỉ giải lao: %2$d. %3$s.</string>
 	<string name="altitude">Độ cao</string>

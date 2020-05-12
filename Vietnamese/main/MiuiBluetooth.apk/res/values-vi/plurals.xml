@@ -9,4 +9,7 @@
 	<plurals name="wifi_tether_connected_summary">
 		<item quantity="other">%1$d thiết bị đã kết nối</item>
 	</plurals>
+	<plurals name="fast_connect_reset_nzbt">
+		<item quantity="other">Nhấn giữ nút bên trên trong %1$s giây khi tắt nguồn</item>
+	</plurals>
 </resources>
