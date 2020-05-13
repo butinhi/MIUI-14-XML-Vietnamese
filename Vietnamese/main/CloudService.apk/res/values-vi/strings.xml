@@ -503,7 +503,7 @@ tài khoản Mi của bạn để kích hoạt lại Xiaomi Cloud."</string>
     <string name="soundrecorder_sync_records">Đồng bộ với Xiaomi Cloud</string>
     <string name="soundrecorder_sync_only_in_wifi">Chỉ sử dụng Wi-Fi để đồng bộ</string>
     <string name="soundrecorder_sync_only_in_wifi_summary">Ghi âm sẽ không dùng dữ liệu di động để tải xuống hoặc tải lên các bản ghi âm</string>
-    <string name="micloud_wipe_data_confirm_label">Xóa dữ liệu từ Xiaomi Cloud</string>
+    <string name="micloud_wipe_data_confirm_label">Xóa mục đã đồng bộ trên thiết bị này?</string>
     <string name="micloud_wipe_data_retain">Giữ</string>
     <string name="micloud_wipe_data_remove">Xóa</string>
     <string name="wipe_data_dialog_title">Một số mục chưa được đồng bộ</string>
@@ -575,7 +575,7 @@ tài khoản Mi của bạn để kích hoạt lại Xiaomi Cloud."</string>
     <string name="find_device_service_title">Tìm thiết bị</string>
     <string name="find_device_service_summary">Truy cập i.mi.com để định vị và khóa thiết bị từ xa</string>
     <string name="find_device_service_summary_international">Truy cập i.mi.com để định vị và khóa thiết bị từ xa</string>
-    <string name="micloud_wipe_data_confirm_title">Xóa các mục đã đồng bộ với Xiaomi Cloud khỏi điện thoại sau khi bạn đăng xuất?</string>
+    <string name="micloud_wipe_data_confirm_title">Một vài mục từ các ứng dụng dưới đây đã được đồng bộ với Xiaomi Cloud. Bạn có thể xóa khỏi thiết bị này mà vẫn giữ nó trên Xiaomi Cloud.</string>
     <string name="wipe_data_dialog_msg">%s chưa được đồng bộ và sẽ giữ lại trên điện thoại.</string>
     <string name="micloud_main_not_sync">Các mục đang chờ đồng bộ: %d</string>
     <string name="micloud_main_data_unsynced">Dữ liệu đang chờ đồng bộ: %d</string>

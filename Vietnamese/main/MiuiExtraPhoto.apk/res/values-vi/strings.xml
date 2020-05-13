@@ -67,4 +67,7 @@
 	<string name="doc_photo_view_effect">Xem trước</string>
 	<string name="doc_photo_not_support">"Không thể sửa ảnh này dưới dạng tài liệu"</string>
 	<string name="doc_photo_doc_photo_title">Sửa tài liệu</string>
+	<string name="doc_photo_confirm">Thoát</string>
+	<string name="doc_photo_cancel">Hủy</string>
+	<string name="doc_photo_idcard_alert_msg">Hủy tất cả thay đổi và thoát trình chỉnh sửa?</string>
 </resources>

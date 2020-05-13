@@ -305,4 +305,5 @@
 	<string name="open_close_tip_action">Đã hiểu</string>
 	<string name="device_status_success">Gửi thành công</string>
 	<string name="security_share_text">Bảo vệ riêng tư</string>
+	<string name="serviceEnabled">Dịch vụ đã được bật.</string>
 </resources>
