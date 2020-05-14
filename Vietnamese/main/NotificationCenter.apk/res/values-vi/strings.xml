@@ -398,4 +398,5 @@
 	<string name="notification_setting_menu_feedback_text">"Thông báo này không nên ở đây?
 Báo cáo vấn đề này &gt;"</string>
 	<string name="abc_action_menu_overflow_description">Thêm tùy chọn</string>
+	<string name="back">Quay lại</string>
 </resources>

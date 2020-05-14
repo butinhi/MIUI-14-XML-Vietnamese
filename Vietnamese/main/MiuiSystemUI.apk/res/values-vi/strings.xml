@@ -2256,4 +2256,8 @@ d MMMM"</string>
 	<string name="small_window_guide_title">Cửa sổ nổi</string>
 	<string name="status_bar_clock_date_weekday_format">EEE dd/MM</string>
 	<string name="bluetooth_paired">Đã lưu</string>
+	<string name="quick_settings_cellular_detail_dialog_negative_button_cancel">Hủy</string>
+	<string name="quick_settings_cellular_detail_dialog_positive_button_turnoff">Tắt</string>
+	<string name="quick_settings_cellular_detail_dialog_message_turnoff">Dữ liệu di động (WCDMA/LTE) sẽ bị tắt. Trừ khi bạn sử dụng mạng Wi-Fi, bạn sẽ không còn có thể sử dụng các ứng dụng yêu cầu kết nối dữ liệu. Gửi hoặc nhận tin nhắn đa phương tiện sẽ bị hạn chế.</string>
+	<string name="quick_settings_cellular_detail_dialog_message_turnon">Dữ liệu di động sẽ được bật. Kết nối với mạng di động có thể phát sinh chi phí tùy thuộc vào gói cước của bạn.</string>
 </resources>

@@ -2926,4 +2926,6 @@ Luôn sử dụng số này"</string>
 	<string name="msim_setting_no_sim_number">Chưa đặt</string>
 	<string name="preferred_network_mode_wcdma_only">Chỉ WCDMA</string>
 	<string name="preferred_network_mode_gsm_only">Chỉ GSM</string>
+	<string name="fiveg_hosted_mode_title">Chuyển 5G thông minh</string>
+	<string name="fiveg_hosted_mode_summary">Tự động chuyển sang mạng tốt nhất khả dụng khi kết nối 5G yếu</string>
 </resources>

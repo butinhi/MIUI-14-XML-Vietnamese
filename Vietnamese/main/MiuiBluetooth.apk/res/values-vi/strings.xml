@@ -614,4 +614,5 @@ Tốc độ lấy mẫu"</string>
 	<string name="wifi_security_none_owe">Không/Enhanced Open</string>
 	<string name="unknown">Chưa biết</string>
 	<string name="bluetooth_paired">Đã lưu</string>
+	<string name="fast_connect_reset_common">Đặt lại thiết bị này để có thể ghép nối</string>
 </resources>
