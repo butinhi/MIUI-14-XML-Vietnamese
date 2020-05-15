@@ -10014,7 +10014,7 @@ Sao chép tệp tin sao lưu vào thiết bị của bạn (MIUI-backup-AllBacku
 	<string name="unlock_failed">Lỗi nội bộ</string>
 	<string name="storage_use_title">Đã dùng</string>
 	<string name="freeform_guide_move_title">Di chuyển cửa sổ nổi xung quanh</string>
-	<string name="allow_oaid_used_desc">"Ứng dụng sẽ không thể truy cập bất kỳ ID nào trừ khi bạn cho phép một cách rõ ràng. Một số tính năng đề xuất cá nhân có thể không hoạt động đúng khi tính năng này được bật."</string>
+	<string name="allow_oaid_used_desc">"MIUI không thể cung cấp ID ảo (OAID) cho các ứng dụng đã cài đặt. Một số tính năng đề xuất cá nhân có thể không hoạt động đúng vì điều đó."</string>
 	<string name="structure_face_data_input_up">Tìm kiếm</string>
 	<string name="multi_face_number_reach_limit">"Không thể thêm dữ liệu cho nhiều hơn 2 khuôn mặt"</string>
 	<string name="freeform_guide_notification_drop_down_title">Đang mở cửa sổ nổi</string>
@@ -10066,7 +10066,7 @@ Tiếp tục truy cập cài đặt bổ sung."</string>
 	<string name="face_unlock_offset_bottom">Hạ thấp điện thoại một chút</string>
 	<string name="structure_face_modules_abnormal_title">Lỗi mô-đun quang</string>
 	<string name="face_unlock_success_show_message_title">Hiển thị chi tiết thông báo sau khi xác thực khuôn mặt</string>
-	<string name="gps_description_global">Hệ thống định vị đa vệ tinh (%s) không được hỗ trợ</string>
+	<string name="gps_description_global">Thiết bị Xiaomi tương thích với nhiều hệ thống điều hướng, bao gồm GPS, NavIC, BeiDou, GLONASS, và Galileo.</string>
 	<string name="micloud_service_summary">Đồng bộ danh sách ứng dụng, sao lưu cài đặt hệ thống và Bố cục Màn hình chính</string>
 	<string name="structure_face_unlock_model_dialog_notenable">Không, cảm ơn</string>
 	<string name="freeform_guide_move_summary">Nhấn và giữ thanh hàn động của cửa sổ nổi để di chuyển</string>
@@ -10094,7 +10094,7 @@ Tiếp tục truy cập cài đặt bổ sung."</string>
 	<string name="face_unlock_by_notification_screen_on_title">Cho phép Mở khóa khuôn mặt khi màn hình sáng lên</string>
 	<string name="structure_face_unlock_model_other_title">Nhận diện khuôn mặt</string>
 	<string name="face_data_introduction_next">Tiếp theo</string>
-	<string name="device_oaid_desc">Thay vìThay vì số nhận dạng thực của bạn, MIUI sẽ cung cấp ID ảo (OAID) cho các ứng dụng của bên thứ ba. Nó ngăn các ứng dụng theo dõi hành vi và sở thích của bạn và bảo vệ quyền riêng tư của bạn.</string>
+	<string name="device_oaid_desc">Thay vì số nhận dạng duy nhất của bạn, MIUI sẽ cung cấp ID ảo (OAID) cho ứng dụng đã cài đặt. Nó ngăn các ứng dụng theo dõi hành vi và sở thích của bạn và bảo vệ quyền riêng tư của bạn.</string>
 	<string name="structure_face_data_ir_input_face">Di chuển đầu của bạn một chút</string>
 	<string name="structure_face_delete_data_dialog_msg_retry">Thử lại</string>
 	<string name="structure_face_unlock_model3d_dialog_title">Đang bật nhận diện 3D</string>

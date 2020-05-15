@@ -325,7 +325,7 @@ dd/M"</string>
 	<string name="super_wallpaper_list_label">Siêu hình nền</string>
 	<string name="wallpaper_setting_super_wallpaper_more_button_text">Thêm</string>
 	<string name="wallpaper_setting_home_wallpaper_banner_button_text">Màn hình chính</string>
-	<string name="mars_position_content_1">"Dòng chảy dốc định kỳ (RSL) là dòng chảy hoạt động trên các sườn dốc sao Hỏa ấm áp có thể gây ra do thấm nước. RSL trong Hale Crater có màu đỏ đỏ khác thường so với hầu hết RSL, có lẽ do các hợp chất sắt bị oxy hóa, như rỉ sét.
+	<string name="mars_position_content_1">"Được thực hiện khi Curoverity trên sao Hỏa đang khám phá đồi Pahrump trong miệng núi lửa Gale. Vùng này chứa đá trầm tích mà các nhà khoa học tin rằng hình thành trong sự hiện diện của nước và các khu vực tối là cát.
 
 NASA/JPL/Đại học Arizona"</string>
 	<string name="mars_position_content_0">"Vùng này chứa các vách đá, cao nguyên và các thung lũng rộng bằng phẳng, được cho là do các sông băng phủ đầy mảnh vụn. Khoáng vật sét cũng đã được phát hiện ở đây, rất đáng quan tâm trong việc tìm kiếm bằng chứng về sự sống trên Sao Hỏa cổ đại.
@@ -356,9 +356,7 @@ dd/M"</string>
 	<string name="miui_lock_screen_date">EEEE, d MMMM</string>
 	<string name="mars_position_title_0">"Khu vực Nilosyrtis
 Mensae"</string>
-	<string name="mars_position_title_1">"Núi Trung tâm
-của
-Hale Crater"</string>
+	<string name="mars_position_title_1">"Miệng núi lửa Gale"</string>
 	<string name="earth_super_wallpaper_label">Trái đất</string>
 	<string name="mars_position_title_2">"Miệng núi lửa trong
 Mawrth Vallis"</string>

@@ -10,6 +10,6 @@
 		<item quantity="other">%1$d thiết bị đã kết nối</item>
 	</plurals>
 	<plurals name="fast_connect_reset_nzbt">
-		<item quantity="other">Nhấn giữ nút bên trên trong %1$s giây khi tắt nguồn</item>
+		<item quantity="other">Nhấn giữ nút trong %1$s giây khi thiết bị tắt</item>
 	</plurals>
 </resources>

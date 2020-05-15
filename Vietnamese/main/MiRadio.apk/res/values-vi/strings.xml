@@ -1291,4 +1291,9 @@ Vui lòng gửi mã này cho kỹ thuật viên."</string>
 	<string name="all_chapter_count">Tổng số %d tập</string>
 	<string name="tab_voice">Giọng nói</string>
 	<string name="tab_video_list">Video</string>
+	<string name="mgsdk_cancel">Hủy</string>
+	<string name="mgsdk_prompt">Gợi ý</string>
+	<string name="mgsdk_ok">OK</string>
+	<string name="recommend">Đề xuất</string>
+	<string name="mgsdk_text_iknown">Tôi biết</string>
 </resources>
