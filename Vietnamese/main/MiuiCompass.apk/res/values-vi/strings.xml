@@ -94,4 +94,13 @@
 	<string name="expand_button_title">Nâng cao</string>
 	<string name="abc_searchview_description_clear">Xóa truy vấn</string>
 	<string name="cta_agree_desc">Cho phép ứn dụng này kết nối mạng và cấp quyền tùy chọn để có thể sử dụng tất cả các tính năng.</string>
+	<string name="miuix_sbl_tracking_progress_labe_refreshing">Đang làm mới</string>
+	<string name="miuix_sbl_tracking_progress_labe_up_none">Không có dữ liệu</string>
+	<string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">Thất bại</string>
+	<string name="miuix_sbl_tracking_progress_labe_release_to_refresh">Thả ra để làm mới</string>
+	<string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Kéo xuống để làm mới</string>
+	<string name="miuix_sbl_tracking_progress_labe_up_refresh">Đang làm mới</string>
+	<string name="miuix_sbl_tracking_progress_labe_up_nodata">Không có dữ liệu</string>
+	<string name="miuix_sbl_tracking_progress_labe_refreshed">Đã làm mới</string>
+	<string name="dialog_body_no_network_global">Kết nối Wi-Fi hoặc bật dữ liệu di động.</string>
 </resources>

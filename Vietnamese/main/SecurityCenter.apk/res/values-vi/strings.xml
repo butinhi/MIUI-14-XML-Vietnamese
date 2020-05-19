@@ -3099,10 +3099,9 @@ Không bao giờ bỏ lỡ phong bao lì xì nào"</string>
 	<string name="ew_guide_law_agree">Đồng ý</string>
 	<string name="ew_main_close_title">Chú ý</string>
 	<string name="function_gwsd_detail">"Về tính năng này:
- 1. Cuộc gọi đến vào SIM dữ liệu của bạn sẽ không ngắt kết nối mạng dữ liệu di động. Kết nối sẽ bị ngắt chỉ khi bạn trả lời cuộc gọi.
- 2. Khi tính năng này được bật, người gọi sẽ không nghe thấy âm thanh chờ cuộc gọi. Cuộc gọi đến sẽ kết thúc nếu bạn không trả lời trong 6 giây.
- 3. Tính năng này chỉ hoạt động cho SIM dữ liệu. Cuộc gọi tới SIM chính của bạn sẽ ngắt kết nối dữ liệu di động.
- 4. Tính năng này chỉ được hỗ trợ bởi China Mobile và China Unicom."</string>
+ 1. Khi bạn đang sử dụng dữ liệu di động trên SIM dữ liệu hoặc thẻ SIM thông thường được kết nối với mạng VoLTE, kết nối sẽ không bị gián đoạn bởi các cuộc gọi đến cho đến khi bạn nhấc máy.
+ 2. Khi tính năng này được bật, người khác sẽ không thể nghe thấy nhạc chuông của bạn trừ khi bạn sử dụng thẻ SIM thông thường. Các cuộc gọi đến sẽ tự động bị từ chối sau 7-10 giây không hoạt động.
+ 3. Thẻ SIM dữ liệu do China Mobile và China Unicom phát hành được hỗ trợ. Thẻ SIM thông thường do China Mobile, China Unicom và China Telecom phát hành được hỗ trợ."</string>
 	<string name="permission_action_foreground">Khi đang sử dụng ứng dụng</string>
 	<string name="function_gwsd_title">"Không cho phép cuộc gọi đến ngắt kết nối mạng của SIM"</string>
 	<string name="permission_action_always">Luôn cho phép</string>
@@ -3873,4 +3872,5 @@ Sau khi được đặt, nếu bạn đóng ứng dụng, các quyền sẽ tr�
 	<string name="storage_item_appdata_name">Ứng dụng và dữ liệu</string>
 	<string name="storage_item_other_name">Khác</string>
 	<string name="abc_action_menu_overflow_description">Thêm tùy chọn</string>
+	<string name="pm_newfeature_sub_text">TIN TỨC</string>
 </resources>

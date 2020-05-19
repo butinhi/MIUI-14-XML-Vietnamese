@@ -265,4 +265,10 @@ Bạn cần đọc và đồng ý với Chính sách Riêng tư Mint Keyboard tr
 	<string name="permission_backup">Đang truy cập bộ nhớ</string>
 	<string name="backup_introduction">Bạn có thể sử dụng ứng dụng này để sao lưu và khôi phục các mục trên thiết bị của bạn.</string>
 	<string name="permission_backup_introduction">Để truy cập và lưu bản sao lưu trên thiết bị</string>
+	<string name="move_data_dialog_use">Sử dụng</string>
+	<string name="mobile_network">Sử dụng dữ liệu di động</string>
+	<string name="move_data_dialog_cancel">Hủy</string>
+	<string name="move_data_dialog_box_title">Trừ khi bạn có gói với dữ liệu không giới hạn, sử dụng dữ liệu di động có thể phát sinh chi phí. Vẫn sử dụng dữ liệu di động?</string>
+	<string name="move_data_dialog_box_le">"Điều này cho phép sử dụng dữ liệu di động và kết nối GPS dựa trên yêu cầu của người dùng. Đồng bộ hóa tài khoản và các mục khác có thể yêu cầu sử dụng dữ liệu di động tùy thuộc vào thông số kỹ thuật của điện thoại thông minh."</string>
+	<string name="move_data_dialog_title">Bạn có thể hạn chế kết nối dữ liệu di động trong Cài đặt sau</string>
 </resources>

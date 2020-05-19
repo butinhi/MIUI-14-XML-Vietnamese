@@ -2260,4 +2260,6 @@ d MMMM"</string>
 	<string name="quick_settings_cellular_detail_dialog_positive_button_turnoff">Tắt</string>
 	<string name="quick_settings_cellular_detail_dialog_message_turnoff">Dữ liệu di động (WCDMA/LTE) sẽ bị tắt. Trừ khi bạn sử dụng mạng Wi-Fi, bạn sẽ không còn có thể sử dụng các ứng dụng yêu cầu kết nối dữ liệu. Gửi hoặc nhận tin nhắn đa phương tiện sẽ bị hạn chế.</string>
 	<string name="quick_settings_cellular_detail_dialog_message_turnon">Dữ liệu di động sẽ được bật. Kết nối với mạng di động có thể phát sinh chi phí tùy thuộc vào gói cước của bạn.</string>
+	<string name="notification_storage_float">Bộ nhớ ngoài</string>
+	<string name="storage_is_connecting">%1$s đã kết nối</string>
 </resources>

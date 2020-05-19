@@ -468,4 +468,9 @@ sau khi Sức khỏe Mi phân tích đủ dữ liệu"</string>
 	<string name="life_post_setting_open_listen_news_summary">Sau khi bật, Life Daily sẽ cho bạn xem thẻ tin tức</string>
 	<string name="click_listen_news_container">Bấm vào thẻ tin tức buổi sáng</string>
 	<string name="install_news_app_error">Cài đặt lỗi</string>
+	<string name="stopwatch_running_notification">Bấm giờ</string>
+	<string name="add_common_timer">Thêm hẹn giờ</string>
+	<string name="white_noise_selector">Chọn âm thanh</string>
+	<string name="stopwatch_reset_notification">Đặt lại bấm giờ</string>
+	<string name="common_timer_selector">Chọn hẹn giờ</string>
 </resources>

@@ -475,7 +475,7 @@ Chạm vào màn hình để thêm thủ công hoặc định vị lại thành 
 	<string name="dislike_alert_dialog_title">Tại sao bạn không muốn thấy nội dung này?</string>
 	<string name="miuix_sbl_tracking_progress_labe_up_refresh">Chỉ vài giây…</string>
 	<string name="aqi_24_hours_desc">Dự báo chất lượng không khí trong 24 giờ</string>
-	<string name="request_cta_connect_net">Cho phép ứng dyngj này kết nối mạng và cấp các quyền bắt buộc liệt kê bên trên.</string>
+	<string name="request_cta_connect_net">Cho phép ứng dụng này kết nối mạng và cấp các quyền bắt buộc liệt kê bên trên.</string>
 	<string name="aqi_48_hours_desc">Dự báo chất lượng không khí trong 48 giờ</string>
 	<string name="miuix_sbl_tracking_progress_labe_refreshed">Đã làm mới</string>
 	<string name="miuix_sbl_tracking_progress_labe_up_none">"Đó là tất cả"</string>

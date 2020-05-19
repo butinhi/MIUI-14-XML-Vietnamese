@@ -472,4 +472,22 @@ bạn muốn quét gì với Mi AI"</string>
 	<string name="queryGoodsFailed">"Không tìm thấy thông tin sản phẩm"</string>
 	<string name="downloadAiVison">Cài đặt trình cắm để sử dụng tính năng này</string>
 	<string name="translation_type_chat">Hội thoại</string>
+	<string name="v7_preference_off">TẮT</string>
+	<string name="miuix_sbl_tracking_progress_labe_refreshing">Đang làm mới</string>
+	<string name="preference_copied">\"%1$s\" đã sao chép vào clipboard.</string>
+	<string name="miuix_sbl_tracking_progress_labe_release_to_refresh">Thả ra để làm mới</string>
+	<string name="miuix_sbl_tracking_progress_labe_up_refresh">Đang làm mới</string>
+	<string name="document_spin">Xoay</string>
+	<string name="v7_preference_on">BẬT</string>
+	<string name="miuix_sbl_tracking_progress_labe_refreshed">Đã làm mới</string>
+	<string name="not_set">Chưa đặt</string>
+	<string name="miuix_sbl_tracking_progress_labe_up_none">Không có dữ liệu</string>
+	<string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">Thất bại</string>
+	<string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Kéo xuống để làm mới</string>
+	<string name="miuix_sbl_tracking_progress_labe_up_nodata">Không có dữ liệu</string>
+	<string name="expand_button_title">Nâng cao</string>
+	<string name="history_empty">Chưa có mục nào ở đây</string>
+	<string name="document_ocr_fail">"Không thể nhận diện văn bản. Xoay ảnh để nó khớp với hướng điện thoại và thử lại."</string>
+	<string name="if_to_open_milogo_scanning">Nhận diện logo Xiaomi</string>
+	<string name="feedback_phone">Thông tin liên hệ (Tùy chọn)</string>
 </resources>

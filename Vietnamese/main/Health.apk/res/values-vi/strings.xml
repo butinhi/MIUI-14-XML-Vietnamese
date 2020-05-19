@@ -1302,4 +1302,14 @@ Nếu thiết bị của bạn nằm trong danh sách này, bạn có thể thê
 	<string name="snore_detection_sotp_opt_2">Dừng và lưu kết quả</string>
 	<string name="snore_detection_sotp_opt_1">Dừng và xóa kết quả</string>
 	<string name="sync_status_oauth_error">Đồng bộ nguồn dữ liệu thất bại, vui lòng xác thực lại</string>
+	<string name="tb_multiple_selecte_all">Chọn tất cả</string>
+	<string name="save">Lưu</string>
+	<string name="retry">Thử lại</string>
+	<string name="sleep_snore_audio_file_mamagement_desc">Khuyến nghị nên bật. Giữ 100MB âm thanh nói mơ mới nhất, tự động xóa âm thanh cũ để tránh chiếm quá nhiều dung lượng lưu trữ.</string>
+	<string name="sleep_snore_audio_file_mamagement_title">Tự động xóa tệp âm thanh</string>
+	<string name="sleep_snore_audio_file_saved_desc">Nhận diện sử dụng thuật toán ngoại tuyến, tệp âm thanh được lưu trên máy để đảm bảo quyền riêng tư.</string>
+	<string name="network_not_available">Mạng không khả dụng, vui lòng thử lại</string>
+	<string name="sleep_snore_audio_file_saved">Các tệp âm thanh được lưu trên máy</string>
+	<string name="load_failed">Tải không thành công, vui lòng thử lại sau</string>
+	<string name="tb_unmultiple_selecte_all">Bỏ chọn tất cả</string>
 </resources>

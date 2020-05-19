@@ -1303,4 +1303,6 @@ Gia nhập cùng 170 triệu Mi Fan!"</string>
 	<string name="abc_action_menu_overflow_description">Thêm tùy chọn</string>
 	<string name="des_hide_pwd">Ẩn mật khẩu</string>
 	<string name="des_show_pwd">Hiện mật khẩu</string>
+	<string name="otg_data_transfer_success">Chuyển thành công</string>
+	<string name="otg_data_transferring">"Đang chuyển tệp… Đừng ngắt kết nối bộ nhớ mở rộng."</string>
 </resources>

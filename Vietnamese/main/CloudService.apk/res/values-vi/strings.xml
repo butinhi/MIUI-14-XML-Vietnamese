@@ -882,4 +882,7 @@ Nếu bạn không đồng ý cấp các quyền đó hoặc chia sẻ và tải
 	<string name="storage_upgrade_card_title">Nâng cấp gói của bạn</string>
 	<string name="mi_drive_not_publish_toast">Mi Drive sẽ sớm khả dụng</string>
 	<string name="abc_action_menu_overflow_description">Thêm tùy chọn</string>
+	<string name="help_and_feedback">Trợ giúp và Phản hồi</string>
+	<string name="micloud_find_device_guide_desc_phone">"Đăng nhập vào &lt;font color=#0097FF&gt;&lt;b&gt;i.mi.com&lt;/b&gt;&lt;/font&gt; để định vị, khóa, hoặc xóa thiết bị của bạn. Nó có thể giúp tìm kiếm khi bạn đánh mất thiết bị. &lt;a href=micloud://com.miui.cloudservice/helpcenter?type=finddevice&gt;[Xem Trợ giúp]&lt;/a&gt;"</string>
+	<string name="micloud_find_device_guide_desc_pad">"Đăng nhập vào &lt;font color=#0097FF&gt;&lt;b&gt;i.mi.com&lt;/b&gt;&lt;/font&gt; để định vị, khóa, hoặc xóa thiết bị của bạn. Nó có thể giúp tìm kiếm khi bạn đánh mất thiết bị. &lt;a href=micloud://com.miui.cloudservice/helpcenter?type=finddevice&gt;[Xem Trợ giúp]&lt;/a&gt;"</string>
 </resources>

@@ -1520,4 +1520,7 @@ In dễ dàng trên khổ A4"</string>
 	<string name="pref_more_mode_style_title">Chế độ máy ảnh</string>
 	<string name="more_mode_style">"Chọn cách bạn muốn sắp xếp tất cả chế độ máy ảnh"</string>
 	<string name="more_mode_style_tab">Tab \"Thêm\"</string>
+	<string name="cannon_h_d_v">Tự động</string>
+	<string name="pref_module_settings">Chế độ</string>
+	<string name="lmipro_h_d_v">Tự động</string>
 </resources>

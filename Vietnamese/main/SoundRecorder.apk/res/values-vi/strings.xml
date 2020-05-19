@@ -355,5 +355,5 @@
 	<string name="miuix_sbl_tracking_progress_labe_up_nodata">Không có dữ liệu</string>
 	<string name="copy">Sao chép</string>
 	<string name="expand_button_title">Nâng cao</string>
-	<string name="agree_description">Vui lòng đồng ý cho ứng dụng kết nối mạng để có trải nghiệm chức năng đầy đủ hơn.</string>
+	<string name="agree_description">Vui lòng đồng ý cho ứng dụng kết nối mạng để có thể sử dụng tất cả các tính năng.</string>
 </resources>

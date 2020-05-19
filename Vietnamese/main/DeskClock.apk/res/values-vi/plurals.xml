@@ -91,4 +91,10 @@
 	<plurals name="worldcolock_timezone_gap_fast">
 		<item quantity="other">%s giờ trước</item>
 	</plurals>
+	<plurals name="stopwatch_running_notification_day">
+		<item quantity="other">Bấm giờ đã chạy %s ngày. Chạm để xem.</item>
+	</plurals>
+	<plurals name="stopwatch_running_notification_hour">
+		<item quantity="other">Bấm giờ đã chạy %s giờ. Chạm để xem.</item>
+	</plurals>
 </resources>

@@ -528,7 +528,6 @@ Cho phép Ghi chú ghi âm."</string>
 	<string name="chinese_month_december">12</string>
 	<string name="month_july_shortest">Thg 7</string>
 	<string name="solar_term_spring_begins">Lập Xuân</string>
-	<string name="fmt_date_short_year_month">MMM, yyyy</string>
 	<string name="solar_term_autumn_equinox">Thu Phân</string>
 	<string name="the_christmas_day">Lễ Giáng Sinh</string>
 	<string name="the_anniversary_of_lifting_martial_law">Kỷ niệm nâng cao thiết quân luật</string>
@@ -687,7 +686,6 @@ Cho phép Ghi chú ghi âm."</string>
 	<string name="private_entry_available">Thả ra để mở thư mục riêng tư</string>
 	<string name="friday">Thứ sáu</string>
 	<string name="solar_term_autumn_begins">Lập Thu</string>
-	<string name="fmt_date_long_year_month">MMMM, yyyy</string>
 	<string name="month_april">Tháng tư</string>
 	<string name="fmt_weekday_time">W T</string>
 	<string name="month_november_shortest">Thg 11</string>
@@ -741,4 +739,7 @@ Cho phép Ghi chú ghi âm."</string>
 	<string name="note_gesture_guide_step3">Nhấn giữ một ghi chú và kéo thả vào thư mục để di chuyển ghi chú tới đó</string>
 	<string name="note_gesture_guide_step2">Nhấn giữ một ghi chú và kéo thả vào ghi chú khác để tạo thư mục</string>
 	<string name="note_gesture_guide_step1">Nhấn giữ dấu cộng để tạo ghi chú âm thanh</string>
+	<string name="month_march_shortest">Tháng 3</string>
+	<string name="month_may_shortest">Tháng năm</string>
+	<string name="monday_shortest">Th 2</string>
 </resources>

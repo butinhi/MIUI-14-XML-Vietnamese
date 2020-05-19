@@ -2783,7 +2783,7 @@ Mọi người dùng đều có thể cập nhật ứng dụng cho tất cả n
     <string name="restriction_menu_reset">Xóa các hạn chế</string>
     <string name="restriction_menu_change_pin">Thay đổi PIN</string>
     <string name="app_notifications_switch_label">Tùy chỉnh thông báo</string>
-    <string name="help_label">Trợ giúp và phản hồi</string>
+    <string name="help_label">Trợ giúp và Phản hồi</string>
     <string name="user_account_title">Tài khoản dành cho nội dung</string>
     <string name="user_picture_title">ID ảnh</string>
     <string name="extreme_threats_title">Mối đe dọa cực kỳ nghiêm trọng</string>
@@ -10197,7 +10197,7 @@ Nếu bạn không đồng ý cấp các quyền đó, bạn sẽ không thể s
 	<string name="structure_face_unlock_model_other_suggestion_3d">"Nhận dạng khuôn mặt 3D tương đối an toàn. Rất có khả năng thiết bị của bạn có thể được mở khóa bằng ảnh của bạn khi tính năng này được bật. Tuy nhiên, nó có thể được mở khóa bởi những người hoặc vật thể trông giống bạn."</string>
 	<string name="structure_face_data_input_right">Quay đầu sang phải</string>
 	<string name="device_oaid_title">ID ảo</string>
-	<string name="help_and_feedback_title">Trợ giúp và phản hồi</string>
+	<string name="help_and_feedback_title">Trợ giúp và Phản hồi</string>
 	<string name="freeform_guide_settings">Cửa sổ nổi</string>
 	<string name="face_data_siggesstion_next_time">Tiếp theo (%d giây)</string>
 	<string name="freeform_vedio_description">"·Nhấn giữ và kéo xuống một thông báo để mở nó trong cửa sổ nổi.
@@ -10215,4 +10215,6 @@ Nếu bạn không đồng ý cấp các quyền đó, bạn sẽ không thể s
 	<string name="reset_confirm_directory">"Ghi chú: Trước khi khôi phục các mục, kiểm tra thư mục \"MIUI-Backup-AllBackup\" đã tồn tại trên thiết bị hay chưa. Nếu chưa, hãy tạo nó."</string>
 	<string name="miui_sos_remind_close_confirm">Tắt</string>
 	<string name="miui_sos_remind_close">Chế độ SOS khẩn cấp được bật. Tắt nó cùng với tất cả các chức năng liên quan?</string>
+	<string name="title_miui_music_mute_by_user">Chế độ im lặng</string>
+	<string name="content_miui_music_mute_by_user">Phát âm thanh phương tiện khi Chế độ Im lặng được bật?</string>
 </resources>

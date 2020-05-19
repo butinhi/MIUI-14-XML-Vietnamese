@@ -33,4 +33,10 @@
 	<plurals name="confirm_delete_records">
 		<item quantity="other">Xóa %d bản ghi âm?</item>
 	</plurals>
+	<plurals name="search_call_records_hint">
+		<item quantity="other">Tìm kiếm trong %d ghi âm cuộc gọi</item>
+	</plurals>
+	<plurals name="search_alll_records_hint">
+		<item quantity="other">Tìm kiếm trong %d ghi âm</item>
+	</plurals>
 </resources>
