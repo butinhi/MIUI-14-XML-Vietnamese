@@ -1394,8 +1394,7 @@ In dễ dàng trên khổ A4"</string>
 	<string name="location_access_allow">Cho phép</string>
 	<string name="zoom_no_support_tip">Không hỗ trợ thu phóng trong chế độ %1$s</string>
 	<string name="kaleidoscope_fragment_tab_name">Kính vạn hoa</string>
-	<string name="document_mode_use_hint_text_body">"Tự động làm nét
-và tăng cường tài liệu"</string>
+	<string name="document_mode_use_hint_text_body">"Tự động làm nét và tăng cường tài liệu"</string>
 	<string name="camcorder_tip_8k_max_video_duration">Bạn có thể quay đến 6 phút ở độ phân giải 8K</string>
 	<string name="video_beauty_tip_filter">Bộ lọc</string>
 	<string name="document_mode_use_hint_text_title">Quét tài liệu</string>
@@ -1492,7 +1491,7 @@ và tăng cường tài liệu"</string>
 	<string name="expand_button_title">Nâng cao</string>
 	<string name="copy">Sao chép</string>
 	<string name="lpl_dialog_item_name_record">Nhấn và giữ để quay phim</string>
-	<string name="custom_tint_color_select">Tùy chỉnh mày</string>
+	<string name="custom_tint_color_select">Tùy chỉnh màu</string>
 	<string name="module_name_multi_camera">Trước &amp; sau</string>
 	<string name="edit_makeup">Trang điểm</string>
 	<string name="custom_tint_button_apply">Áp dụng</string>
