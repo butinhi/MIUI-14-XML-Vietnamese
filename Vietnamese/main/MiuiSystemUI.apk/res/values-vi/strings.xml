@@ -2262,4 +2262,6 @@ d MMMM"</string>
 	<string name="quick_settings_cellular_detail_dialog_message_turnon">Dữ liệu di động sẽ được bật. Kết nối với mạng di động có thể phát sinh chi phí tùy thuộc vào gói cước của bạn.</string>
 	<string name="notification_storage_float">Bộ nhớ ngoài</string>
 	<string name="storage_is_connecting">%1$s đã kết nối</string>
+	<string name="auto_brightness_on">Độ sáng tự động bật</string>
+	<string name="auto_brightness_off">Độ sáng tự động tắt</string>
 </resources>

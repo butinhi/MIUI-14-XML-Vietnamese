@@ -742,4 +742,6 @@ Cho phép Ghi chú ghi âm."</string>
 	<string name="month_march_shortest">Tháng 3</string>
 	<string name="month_may_shortest">Tháng năm</string>
 	<string name="monday_shortest">Th 2</string>
+	<string name="fmt_date_short_year_month">MMM, yyyy</string>
+	<string name="fmt_date_long_year_month">MMMM, yyyy</string>
 </resources>

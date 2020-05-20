@@ -1523,4 +1523,13 @@ In dễ dàng trên khổ A4"</string>
 	<string name="cannon_h_d_v">Tự động</string>
 	<string name="pref_module_settings">Chế độ</string>
 	<string name="lmipro_h_d_v">Tự động</string>
+	<string name="accessibility_focus_face_pos_left_top">Gần góc trên trái</string>
+	<string name="accessibility_focus_face_pos_top">Gần cạnh trên</string>
+	<string name="accessibility_focus_face_pos_left">Gần cạnh trái</string>
+	<string name="accessibility_focus_face_pos_right_bottom">Gần góc dưới phải</string>
+	<string name="accessibility_focus_face_pos_mid">Ở giữa</string>
+	<string name="accessibility_focus_face_pos_right">Gần cạnh phải</string>
+	<string name="accessibility_focus_face_pos_left_bottom">Gần góc dưới trái</string>
+	<string name="accessibility_focus_face_pos_right_top">Gần góc trên phải</string>
+	<string name="accessibility_focus_face_pos_bottom">Gần cạnh dưới</string>
 </resources>
