@@ -1864,4 +1864,15 @@ Nếu không có dự phòng, số điện thoại bị quên hoặc bị khóa,
 	<string name="app_debug_settings_preview_title">Xem trước</string>
 	<string name="bluetooth_card_btm_btn_more">Thêm thiết bị</string>
 	<string name="express_provider_mimall">Cửa hàng Mi</string>
+	<string name="miuix_sbl_tracking_progress_labe_refreshing">Đang làm mới</string>
+	<string name="miuix_sbl_tracking_progress_labe_up_none">Không có dữ liệu</string>
+	<string name="miuix_sbl_tracking_progress_labe_release_to_refresh">Thả ra để làm mới</string>
+	<string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Kéo xuống để làm mới</string>
+	<string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">Thất bại</string>
+	<string name="miuix_sbl_tracking_progress_labe_up_refresh">Đang làm mới</string>
+	<string name="miuix_sbl_tracking_progress_labe_up_nodata">Không có dữ liệu</string>
+	<string name="miuix_sbl_tracking_progress_labe_refreshed">Đã làm mới</string>
+	<string name="mru_setting_brief_detail">"Ứng dụng nhanh và lối tắt gần đây. "</string>
+	<string name="mru_title">Mục gần đây</string>
+	<string name="mru_setting_brief">Ứng dụng nhanh và lối tắt xuất hiện sau khi bạn vuốt xuống trong App vault</string>
 </resources>
