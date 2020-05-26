@@ -488,4 +488,6 @@ Chạm vào màn hình để thêm thủ công hoặc định vị lại thành 
 	<string name="aqi_5_days_desc">Dự báo chất lượng không khí trong 5 ngày</string>
 	<string name="rain_sound_setting_title_text">Hiệu ứng âm thanh</string>
 	<string name="rain_sound_setting_summary_text">Kèm theo sự thay đổi thời tiết bởi hiệu ứng âm thanh</string>
+	<string name="index_item_install_dialog">%1$s tải và cài đặt thành công, trải nghiệm ngay?</string>
+	<string name="global_not_enable_warning">"Không thể sử dụng ứng dụng này. Nó chưa được cài đặt từ nguồn chính thức."</string>
 </resources>

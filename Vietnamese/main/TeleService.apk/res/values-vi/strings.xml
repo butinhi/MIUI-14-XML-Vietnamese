@@ -2933,4 +2933,14 @@ Luôn sử dụng số này"</string>
 	<string name="incall_error_out_of_service_kr">Chỉ cuộc gọi khẩn cấp khả dụng.</string>
 	<string name="private_num_kr">ID người gọi bị hạn chế</string>
 	<string name="msim_setting_default_data_description">SIM dữ liệu %d</string>
+	<string name="kr_emergency_117">Đường dây nóng bạo lực học đường (117)</string>
+	<string name="kr_emergency_with_number">Nhập số điện thoại để gọi</string>
+	<string name="kr_emergency_118">Báo cáo khủng bố mạng (118)</string>
+	<string name="kr_emergency_119">Cứu hỏa, cứu thương (119)</string>
+	<string name="kr_emergency_message">Xác nhận gọi %s. Gọi ngay?</string>
+	<string name="kr_emergency_111">An ninh quốc gia (111)</string>
+	<string name="kr_emergency_122">Bảo vệ bờ biển khẩn cấp (122)</string>
+	<string name="kr_emergency_112">Cảnh sát (112)</string>
+	<string name="kr_emergency_113">Báo cáo gián điệp (113)</string>
+	<string name="kr_emergency_125">Báo cáo buôn lậu (125)</string>
 </resources>

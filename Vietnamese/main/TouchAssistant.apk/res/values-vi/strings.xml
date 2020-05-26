@@ -88,4 +88,9 @@
 	<string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Kéo xuống để làm mới</string>
 	<string name="miuix_sbl_tracking_progress_labe_up_nodata">Không có dữ liệu</string>
 	<string name="abc_action_menu_overflow_description">Thêm tùy chọn</string>
+	<string name="edge_mode_custom_title">Tùy chỉnh</string>
+	<string name="edge_mode_default_title">Mặc định</string>
+	<string name="edge_distance_pref_summary">Chạm khu vực đánh thức gần cạnh màn hình để xuất hiện bóng nhanh</string>
+	<string name="edge_mode_custom_summary">Điều chỉnh kích thước của khu vực đánh thức gần cạnh màn hình</string>
+	<string name="edge_distance_pref_title">Khu vực đánh thức</string>
 </resources>

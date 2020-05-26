@@ -278,4 +278,14 @@ Kiểm tra cài đặt mạng và thử lại."</string>
 	<string name="miuix_sbl_tracking_progress_labe_up_nodata">Không có dữ liệu</string>
 	<string name="miuix_sbl_tracking_progress_labe_refreshed">Đã làm mới</string>
 	<string name="help_and_feedback">Trợ giúp và Phản hồi</string>
+	<string name="dialog_title_require_wlan_china">Kết nối Wi-Fi</string>
+	<string name="btn_restore_wait_china">Chờ Wi-Fi</string>
+	<string name="cloud_back_up_detail_discription_china">"Các mục sẽ được sao lưu vào Xiaomi Cloud khi theiets bị của bạn được kết nối Wi-Fi: 
+*  Ứng dụng, bố cục Màn hình chính, và hình nền 
+*  Báo thức, đồng hồ và cài đặt thời gian
+*  Cài đặt thông báo 
+*  MIUI và cài đặt hệ thống
+Ghi chú: Dữ liệu của ứng dụng bạn đã cài đặt sẽ không được sao lưu lên  Xiaomi Cloud."</string>
+	<string name="cloud_backup_detail_state_summary_china">Tự động tạo bản sao lưu Xiaomi Cloud khi kết nối Wi-Fi.</string>
+	<string name="dialog_msg_restore_require_wlan_china">Khôi phục từ bản sao lưu yêu cầu kết nối Wi-Fi.</string>
 </resources>

@@ -3873,4 +3873,6 @@ Sau khi được đặt, nếu bạn đóng ứng dụng, các quyền sẽ tr�
 	<string name="storage_item_other_name">Khác</string>
 	<string name="abc_action_menu_overflow_description">Thêm tùy chọn</string>
 	<string name="pm_newfeature_sub_text">TIN TỨC</string>
+	<string name="app_behavior_start_from_widget_single">Ứng dụng này đã được khởi chạy bởi một tiện ích</string>
+	<string name="app_behavior_start_from_widget">%1s đã được khởi chạy bởi một tiện ích</string>
 </resources>

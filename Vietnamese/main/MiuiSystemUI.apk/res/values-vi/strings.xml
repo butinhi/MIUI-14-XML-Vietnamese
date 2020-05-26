@@ -2264,4 +2264,15 @@ d MMMM"</string>
 	<string name="storage_is_connecting">%1$s đã kết nối</string>
 	<string name="auto_brightness_on">Độ sáng tự động bật</string>
 	<string name="auto_brightness_off">Độ sáng tự động tắt</string>
+	<string name="accessibility_expand_button">Mở rộng</string>
+	<string name="partial_screenshot_repaint">Bắt đầu lại</string>
+	<string name="partial_screenshot_save_successful">Đã lưu thành công</string>
+	<string name="accessibility_detail_switch_off">TẮT</string>
+	<string name="partial_screenshot_save">Lưu</string>
+	<string name="partial_screenshot_share">Chia sẻ</string>
+	<string name="accessibility_detail_switch_disable">Không có</string>
+	<string name="quick_settings_cellular_detail_dialog_positive_button_ok">Cho phép</string>
+	<string name="partial_screenshot_edit">Sửa</string>
+	<string name="accessibility_detail_switch_on">BẬT</string>
+	<string name="accessibility_detail_switch">Chuyển ô</string>
 </resources>

@@ -1532,4 +1532,7 @@ In dễ dàng trên khổ A4"</string>
 	<string name="accessibility_focus_face_pos_left_bottom">Gần góc dưới trái</string>
 	<string name="accessibility_focus_face_pos_right_top">Gần góc trên phải</string>
 	<string name="accessibility_focus_face_pos_bottom">Gần cạnh dưới</string>
+	<string name="pref_camera_heic_image_format_description2">"Định dạng tệp hình ảnh hiệu quả cao giúp tiết kiệm dung lượng lưu trữ, nhưng không được một số ứng dụng bên thứ ba hỗ trợ. Bạn không thể chụp ảnh trực tiếp và xóa dấu chìm trong HEIF"</string>
+	<string name="ambilight_tips_for_longtime_using_tripod">Để chụp phơi sáng lâu, vui lòng sử dụng chân máy</string>
+	<string name="ambilight_tips_for_suggest_using_tripod">Nên sử dụng chân máy để chụp</string>
 </resources>

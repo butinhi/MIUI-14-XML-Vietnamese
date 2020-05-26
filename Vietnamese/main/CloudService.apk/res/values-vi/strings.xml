@@ -885,4 +885,14 @@ Nếu bạn không đồng ý cấp các quyền đó hoặc chia sẻ và tải
 	<string name="help_and_feedback">Trợ giúp và Phản hồi</string>
 	<string name="micloud_find_device_guide_desc_phone">"Đăng nhập vào &lt;font color=#0097FF&gt;&lt;b&gt;i.mi.com&lt;/b&gt;&lt;/font&gt; để định vị, khóa, hoặc xóa thiết bị của bạn. Nó có thể giúp tìm kiếm khi bạn đánh mất thiết bị. &lt;a href=micloud://com.miui.cloudservice/helpcenter?type=finddevice&gt;[Xem Trợ giúp]&lt;/a&gt;"</string>
 	<string name="micloud_find_device_guide_desc_pad">"Đăng nhập vào &lt;font color=#0097FF&gt;&lt;b&gt;i.mi.com&lt;/b&gt;&lt;/font&gt; để định vị, khóa, hoặc xóa thiết bị của bạn. Nó có thể giúp tìm kiếm khi bạn đánh mất thiết bị. &lt;a href=micloud://com.miui.cloudservice/helpcenter?type=finddevice&gt;[Xem Trợ giúp]&lt;/a&gt;"</string>
+	<string name="micloud_dspt_provision_china">Sử dụng Xiaomi Cloud để đồng bộ dữ liệu, định vị thiết bị của bạn, và chia sẻ mọi thứ với bạn bè.</string>
+	<string name="micloud_dspt_provision_xms_china">Sử dụng Xiaomi Cloud để đồng bộ dữ liệu.</string>
+	<string name="soundrecorder_sync_only_in_wifi_summary_china">Ghi âm sẽ không dùng dữ liệu di động để tải xuống hoặc tải lên các bản ghi âm</string>
+	<string name="micloud_setting_wifi_summary_china">Cài đặt Wi-Fi</string>
+	<string name="sub_sync_item_sms_title_wifi_only_china">Chỉ sử dụng Wi-Fi để đồng bộ MMS</string>
+	<string name="sync_dspt_entrance_provision_network_china">Ứng dụng này cần kết nối mạng để hoạt động bình thường. Đồng bộ dữ liệu có thể yêu cầu kết nối mạng dữ liệu di động và bật Wi-Fi.</string>
+	<string name="micloud_notif_content_depend_wifi_china">Kết nối Wi-Fi để đồng bộ.</string>
+	<string name="micloud_sync_result_wifi_only_china">Mục này quá lớn. Đồng bộ nó khi kết nối Wi-Fi.</string>
+	<string name="pref_title_sync_display_photo_on_wifi_only_china">Chỉ sử dụng Wi-Fi để đồng bộ ảnh</string>
+	<string name="soundrecorder_sync_only_in_wifi_china">Chỉ sử dụng Wi-Fi để đồng bộ</string>
 </resources>
