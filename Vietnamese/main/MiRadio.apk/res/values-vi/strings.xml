@@ -1296,4 +1296,15 @@ Vui lòng gửi mã này cho kỹ thuật viên."</string>
 	<string name="mgsdk_ok">OK</string>
 	<string name="recommend">Đề xuất</string>
 	<string name="mgsdk_text_iknown">Tôi biết</string>
+	<string name="fm_detail_hint">Thu thập album để nghe các chương trình mới nhất! Đừng bỏ lỡ những nội dung thú vị!</string>
+	<string name="play_history_song">Sơ yếu lý lịch %s</string>
+	<string name="mgsdk_token_is_null">Vui lòng đăng nhập trước</string>
+	<string name="no_hint">KHÔNG.</string>
+	<string name="mgsdk_text_alipay_remind_1">Giới hạn khấu trừ đơn %1$.2f NDT，Giới hạn tích lũy hàng ngày %2$.2f NDT</string>
+	<string name="mgsdk_text_alipay_remind_2">Số lượng đơn cao hơn %1$.2fNDT hoặc tích lũy thanh toán trong ngày %2$.2f NDT，Bạn cần nhập mật khẩu thanh toán để xác nhận khấu trừ</string>
+	<string name="mgsdk_sign_interrupt_remind">Bạn chưa hoàn thành việc ký thanh toán miễn phí bí mật, bạn có muốn tiếp tục không?</string>
+	<string name="mgsdk_text_alipay_remind_3">Các kênh ghi nợ: Số dư Alipay, thẻ tín dụng, thẻ tiết kiệm, Yubao, Huabei, v.v.</string>
+	<string name="mgsdk_text_alipay_remind_title">Hướng dẫn thanh toán miễn phí</string>
+	<string name="mgsdk_text_alipay_remind_4">Thứ tự ghi nợ: vui lòng xem "Alipay-My-Avatar-Cài đặt-Cài đặt thanh toán-Phương thức thanh toán mặc định"</string>
+	<string name="mgsdk_text_alipay_remind_5">Nếu bạn muốn đóng thanh toán không có bí mật, vui lòng sử dụng tài khoản Alipay đã ký để đăng nhập vào ứng dụng khách của Alipay để hủy hợp đồng. Các bước hoạt động là "Alipay-My-Cài đặt-Cài đặt thanh toán-Thanh toán tự động / Khấu trừ tự động"</string>
 </resources>
