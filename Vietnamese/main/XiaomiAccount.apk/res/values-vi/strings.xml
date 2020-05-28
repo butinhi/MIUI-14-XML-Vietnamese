@@ -744,4 +744,5 @@ Hãy chắc chắn bạn nhớ tất cả câu trả lời."</string>
 	<string name="passport_google_login_failed">"Không thể đăng nhập bằng Google. Đăng nhập trực tiếp vào Tài khoản Mi của bạn."</string>
 	<string name="health_state_not_activated">Chưa kích hoạt</string>
 	<string name="passport_google_login">Đăng nhập với Tài khoản Google đã dùng trước đó?</string>
+	<string name="get_identity_auth_url_failed">"Không thể xác thực ID"</string>
 </resources>

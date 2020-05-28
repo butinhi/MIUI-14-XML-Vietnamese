@@ -2928,7 +2928,7 @@ Luôn sử dụng số này"</string>
 	<string name="preferred_network_mode_gsm_only">Chỉ GSM</string>
 	<string name="fiveg_hosted_mode_title">Chuyển 5G thông minh</string>
 	<string name="fiveg_hosted_mode_summary">Tự động chuyển sang mạng tốt nhất khả dụng khi kết nối 5G yếu</string>
-	<string name="msim_setting_default_voice_description">SIM %d</string>
+	<string name="msim_setting_default_voice_description">SIM %d để gọi</string>
 	<string name="incall_number_anonymous">Số không xác định</string>
 	<string name="incall_error_out_of_service_kr">Chỉ cuộc gọi khẩn cấp khả dụng.</string>
 	<string name="private_num_kr">ID người gọi bị hạn chế</string>

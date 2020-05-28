@@ -2315,4 +2315,14 @@ Chạm vào "%2$s" để bắt đầu tải xuống nội dung này vào lần t
 	<string name="store__mi_live__need_update">Bạn cần cập nhật trình cắm để bình luận. Nhấn Cập nhật</string>
 	<string name="bookcity_downloadcenter__shared__download_font_prompt">Hãy xem sách điện tử chất lượng cao bằng nhiều phông chữ chuyên nghiệp. Để đảm bảo hiệu quả đọc tốt nhất, chúng tôi cung cấp tải xuống miễn phí phông chữ chính hãng cho bạn. Chúng tôi khuyên bạn nên nâng cấp phông chữ. (Không tiêu thụ bất kỳ lưu lượng 2G / 3G nào)</string>
 	<string name="clear_clipboard_confirm">Bạn có muốn xóa hoàn toàn khay nhớ tạm của bạn?</string>
+	<string name="store__fiction_detail_view__relative">Những người đã đọc cuốn sách này cũng đọc</string>
+	<string name="store_comment__comment_empty_view__send">Bình luận</string>
+	<string name="store__choose_gender_view__female">Nữ</string>
+	<string name="store__fiction_detail_view__xiaomi_all_price_suffix">" Mi Coin"</string>
+	<string name="store_comment__comment_header_view__publish_comment">Bình luận</string>
+	<string name="store__fiction_chapter_view__buy">Mua ngay</string>
+	<string name="store__fiction_detail_view__word_count">"Số từ: "</string>
+	<string name="store__ranking__boy">Nam đọc</string>
+	<string name="store__shopping_cart_view__title">Giỏ hàng</string>
+	<string name="store__fiction_chapter_view__title">Chọn chương</string>
 </resources>

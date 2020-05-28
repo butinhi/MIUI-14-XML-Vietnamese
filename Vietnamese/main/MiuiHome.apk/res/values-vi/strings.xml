@@ -585,4 +585,6 @@
 	<string name="content_description_button_remove">Chạm để xóa khỏi ứng dụng hiện tại</string>
 	<string name="perfect_icons_switch_summary">Dựng hiệu ứng trên biểu tượng ứng dụng bên thứ ba</string>
 	<string name="perfect_icons_switch_title">Hiệu ứng biểu tượng toàn bộ</string>
+	<string name="accessibility_menu_item_smallwindow_disable">"Ứng dụng này không hỗ trợ cửa sổ nổi"</string>
+	<string name="accessibility_menu_item_smallwindow_enable">Ứng dụng này hỗ trợ cửa sổ nổi</string>
 </resources>

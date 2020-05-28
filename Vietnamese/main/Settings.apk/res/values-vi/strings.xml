@@ -8198,7 +8198,7 @@ Bật tính năng này và chạm vào nút Trợ năng ở cuối màn hình đ
 	<string name="lock_screen_tip_toast">Vui lòng cho phép thông báo trong cài đặt ứng dụng trước</string>
 	<string name="miui_sos_emergency_delete">Xóa</string>
 	<string name="more_account_settings_title">Tài khoản khác</string>
-	<string name="notch_and_status_bar_settings">Tai thỏ &amp; thanh trạng thái</string>
+	<string name="notch_and_status_bar_settings">Trung tâm Điều khiển &amp; Bảng thông báo</string>
 	<string name="notch_settings">Tai thỏ</string>
 	<string name="notification_center">Thông báo</string>
 	<string name="other_sound_settings_title">Cài đặt bổ sung</string>
@@ -10051,7 +10051,7 @@ Tiếp tục truy cập cài đặt bổ sung."</string>
 	<string name="three_gesture_long_press">Nhấn và giữ bằng %d ngón tay</string>
 	<string name="face_unlock_success_stay_screen_msg">Ở lại Màn hình khóa sau khi khuôn mặt được xác thực. Vuốt lên để mở Màn hình chính.</string>
 	<string name="wifi_security_none_owe">Không/Enhanced Open</string>
-	<string name="use_control_panel">Sử dụng Trung tâm Điều khiển</string>
+	<string name="use_control_panel">Sử dụng Trung tâm Điều khiển mới</string>
 	<string name="dark_mode_contrast">Tự động điều chỉnh độ tương phản</string>
 	<string name="structure_face_data_manage_delete_msg">Xóa dữ liệu khuôn mặt 3D</string>
 	<string name="face_data_manage_unlock_msg">Mở khóa thiết bị bằng dữ liệu khuôn mặt của bạn</string>

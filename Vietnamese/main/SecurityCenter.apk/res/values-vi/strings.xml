@@ -3875,4 +3875,9 @@ Sau khi được đặt, nếu bạn đóng ứng dụng, các quyền sẽ tr�
 	<string name="pm_newfeature_sub_text">TIN TỨC</string>
 	<string name="app_behavior_start_from_widget_single">Ứng dụng này đã được khởi chạy bởi một tiện ích</string>
 	<string name="app_behavior_start_from_widget">%1s đã được khởi chạy bởi một tiện ích</string>
+	<string name="gb_game_video_type_manual_record">Ghi thủ công</string>
+	<string name="gb_game_video_ai_record_finish_tips">Ghi AI %d video，lưu để tăng tốc trò chơi</string>
+	<string name="gb_game_video_type_ai_record">Ghi AI</string>
+	<string name="gb_wonderful_video_goto_box">Chuyển đến chế độ Tăng tốc trò chơi</string>
+	<string name="gb_wonderful_moment_toast_window_new_pop">Bật ghi thông minh / thủ công và lưu lại các khoảnh khắc tuyệt vời</string>
 </resources>
