@@ -1305,4 +1305,10 @@ Gia nhập cùng 170 triệu Mi Fan!"</string>
 	<string name="des_show_pwd">Hiện mật khẩu</string>
 	<string name="otg_data_transfer_success">Chuyển thành công</string>
 	<string name="otg_data_transferring">"Đang chuyển tệp… Đừng ngắt kết nối bộ nhớ mở rộng."</string>
+	<string name="replace">Thay thế</string>
+	<string name="skip">Bỏ qua</string>
+	<string name="use_to_all">Áp dụng cho tất cả</string>
+	<string name="file_name_existed">Tên tệp đã tồn tại</string>
+	<string name="cancel_msg">Bỏ chọn tất cả?</string>
+	<string name="rename_msg">Một tệp với tên \"%s\" đã tồn tại.</string>
 </resources>

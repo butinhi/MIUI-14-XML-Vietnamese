@@ -670,4 +670,10 @@
 	<string name="high_fps_description">Tần số quét màn hình cao. Tiêu thụ nhiều pin hơn.</string>
 	<string name="low_fps_description">Tần số quét màn hình thấp. Tiêu thụ ít pin hơn.</string>
 	<string name="usage_new_home_app_limit_summary">Đặt giới hạn thời gian màn hình hàng ngày cho ứng dụng này</string>
+	<string name="usage_new_home_day_usage_title_new">Thời gian màn hình trong %s</string>
+	<string formatted="false" name="usage_app_limit_reach_title_new">Thời gian màn hình còn lại cho %1s: %2s</string>
+	<string name="usage_app_limit_reach_summay_new">Chạm để thêm %d phút</string>
+	<string name="usage_new_home_day_category_title_new">Thời gian màn hình cho danh mục ứng dụng trên %s</string>
+	<string name="usage_week_avg_usage_title">Trung bình tuần này</string>
+	<string name="usage_week_avg_usage_title2">Thời gian trung bình</string>
 </resources>

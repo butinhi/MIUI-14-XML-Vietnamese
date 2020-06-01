@@ -3889,4 +3889,11 @@ Sau khi được đặt, nếu bạn đóng ứng dụng, các quyền sẽ tr�
 	<string name="gb_dialog_game_uninstall_loading">Đang tải</string>
 	<string name="gb_storage_summary">Lưu trữ trò chơi trong Hộp trò chơi, biểu tượng trò chơi sẽ không còn hiển thị ngoài Màn hình chính</string>
 	<string name="gb_dialog_game_uninstall_tips_message">Sau khi gỡ cài đặt, tất cả dữ liệu của nó cũng sẽ bị xóa</string>
+	<string name="gtb_dialog_btn_open">Bật</string>
+	<string name="gtb_dialog_btn_close">Tắt</string>
+	<string name="gtb_setting_item_summary_smart_5g">Khi Tăng tốc Trò chơi nhận thấy mạng 5G, nó có thể kết nối thiết bị của bạn tới mạng khả dụng tốt nhất để giảm độ trễ mạng</string>
+	<string name="gtb_dialog_hint_smart_5g">Bạn có thể bật hoặc tắt tính năng này trong Tăng tốc Trò chơi &gt; Cài đặt.</string>
+	<string name="gtb_setting_item_title_smart_5g">Tối ưu mạng 5G</string>
+	<string name="gtb_dialog_summary_smart_5g">Khi Tăng tốc Trò chơi nhận thấy mạng 5G, nó có thể kết nối thiết bị của bạn tới mạng khả dụng tốt nhất để giảm độ trễ mạng. Bật tính năng này ngay?</string>
+	<string name="gtb_dialog_title_smart_5g">Tối ưu mạng 5G</string>
 </resources>

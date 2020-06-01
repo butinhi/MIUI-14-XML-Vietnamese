@@ -356,4 +356,7 @@
 	<string name="copy">Sao chép</string>
 	<string name="expand_button_title">Nâng cao</string>
 	<string name="agree_description">Vui lòng đồng ý cho ứng dụng kết nối mạng để có thể sử dụng tất cả các tính năng.</string>
+	<string name="record_list_app">Ghi âm ứng dụng</string>
+	<string name="app_record">Ghi âm ứng dụng</string>
+	<string name="app_record_preference_title">Ghi âm ứng dụng</string>
 </resources>

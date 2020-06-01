@@ -10217,4 +10217,5 @@ Nếu bạn không đồng ý cấp các quyền đó, bạn sẽ không thể s
 	<string name="miui_sos_remind_close">Chế độ SOS khẩn cấp được bật. Tắt nó cùng với tất cả các chức năng liên quan?</string>
 	<string name="title_miui_music_mute_by_user">Chế độ im lặng</string>
 	<string name="content_miui_music_mute_by_user">Phát âm thanh phương tiện khi Chế độ Im lặng được bật?</string>
+	<string name="error_apn_restrict_string">APN không thể chứa %1$s</string>
 </resources>
