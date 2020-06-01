@@ -1282,4 +1282,25 @@ Chờ đến khi đồng bộ hoàn toàn hoặc xem tin nhắn trên máy tính
 	<string name="expand_slide">Mở rộng thanh trượt</string>
 	<string name="show_contact_address">Hiển thị địa chỉ liên hệ email</string>
 	<string name="go_to_mail_content">Xem thư</string>
+	<string name="font_color_green">Xanh lá</string>
+	<string name="font_color_blue">Xanh lục</string>
+	<string name="ser_resp_err_map_serclosed_info">%s máy chủ đã đóng</string>
+	<string name="font_underline">Gạch chân</string>
+	<string name="font_color_gray">Xám</string>
+	<string name="font_color_orange">Tuổi trẻ</string>
+	<string name="font_color_red">Đỏ</string>
+	<string name="font_color_white">Trắng</string>
+	<string name="font_color_purple">Tím</string>
+	<string name="font_color_black">Đen</string>
+	<string name="font_italic_add">Chữ nghiêng</string>
+	<string name="toolbar_part_symbol">Ký hiệu đoạn văn</string>
+	<string name="changepw_dialog_auth_tips">Nhập lại mã xác thực cho %s</string>
+	<string name="font_bold_remove">Hủy Chữ đậm</string>
+	<string name="font_color">Màu chữ hiện tại là %s</string>
+	<string name="font_size">Kích thước phông chữ hiện tại là %s</string>
+	<string name="toolbar_part_num">Số đoạn văn</string>
+	<string name="font_underline_remove">Bỏ Gạch chân</string>
+	<string name="font_bold_add">Chữ đậm</string>
+	<string name="font_italic_remove">Hủy FontSlant</string>
+	<string name="toolbar_add_image">Thêm ảnh</string>
 </resources>

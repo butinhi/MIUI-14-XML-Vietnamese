@@ -3880,4 +3880,13 @@ Sau khi được đặt, nếu bạn đóng ứng dụng, các quyền sẽ tr�
 	<string name="gb_game_video_type_ai_record">Ghi AI</string>
 	<string name="gb_wonderful_video_goto_box">Chuyển đến chế độ Tăng tốc trò chơi</string>
 	<string name="gb_wonderful_moment_toast_window_new_pop">Bật ghi thông minh / thủ công và lưu lại các khoảnh khắc tuyệt vời</string>
+	<string name="gb_dialog_game_uninstall_multi_tips_title">Gỡ cài đặt \"%1$s\" %2$d trò chơi đang chờ</string>
+	<string name="gb_storage_title">Sắp xếp biểu tượng trò chơi</string>
+	<string name="gb_storage_game_uninstall">Gỡ cài đặt trò chơi</string>
+	<string name="gb_dialog_game_uninstall_tips_title">Gỡ cài đặt “%s”</string>
+	<string name="gb_dialog_game_uninstall_deleting">Xóa</string>
+	<string name="gb_dialog_game_uninstall_tips_message_xspace">Các trò chơi trong không gian thứ hai cùng dữ liệu trò chơi sẽ bị xóa</string>
+	<string name="gb_dialog_game_uninstall_loading">Đang tải</string>
+	<string name="gb_storage_summary">Lưu trữ trò chơi trong Hộp trò chơi, biểu tượng trò chơi sẽ không còn hiển thị ngoài Màn hình chính</string>
+	<string name="gb_dialog_game_uninstall_tips_message">Sau khi gỡ cài đặt, tất cả dữ liệu của nó cũng sẽ bị xóa</string>
 </resources>

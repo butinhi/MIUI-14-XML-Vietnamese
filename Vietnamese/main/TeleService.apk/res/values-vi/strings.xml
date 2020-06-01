@@ -2943,4 +2943,7 @@ Luôn sử dụng số này"</string>
 	<string name="kr_emergency_112">Cảnh sát (112)</string>
 	<string name="kr_emergency_113">Báo cáo gián điệp (113)</string>
 	<string name="kr_emergency_125">Báo cáo buôn lậu (125)</string>
+	<string name="switch_off">TẮT</string>
+	<string name="switch_on">BẬT</string>
+	<string name="fiveg_network_title">Mạng 5G</string>
 </resources>
