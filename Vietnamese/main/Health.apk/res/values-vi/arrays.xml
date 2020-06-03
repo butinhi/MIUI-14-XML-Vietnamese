@@ -66,4 +66,44 @@
 		<item>Trợ lý hoạt động tự động ghi lại trạng thái đứng bằng cách phát hiện trạng thái sử dụng của điện thoại di động. Khi không phát hiện thấy hoạt động đứng trong vòng 1 giờ, một thông báo sẽ được gửi để nhắc nhở bạn đứng hoặc thêm một bản ghi thủ công.</item>
 		<item>Xác nhận kích hoạt sẽ đồng thời cho phép phát hiện đứng và nhắc nhở đứng.</item>
 	</string-array>
+	<string-array name="yes_no_array">
+		<item>Chưa đặt</item>
+		<item>Có</item>
+		<item>Không</item>
+	</string-array>
+	<string-array name="contact_relation_array">
+		<item>Chưa đặt</item>
+		<item>Phụ huynh</item>
+		<item>Chị em gái</item>
+		<item>Anh em trai</item>
+		<item>Cặp đôi</item>
+		<item>Tình nhân</item>
+		<item>Bạn bè</item>
+		<item>Đồng nghiệp</item>
+		<item>Bạn cùng lớp</item>
+	</string-array>
+	<string-array name="rh_blood_array">
+		<item>Chưa đặt</item>
+		<item>Âm</item>
+		<item>Dương</item>
+	</string-array>
+	<string-array name="gender_array">
+		<item>Chưa đặt</item>
+		<item>Nam</item>
+		<item>Nữ</item>
+	</string-array>
+	<string-array name="normal_blood_types">
+		<item>Chưa đặt</item>
+		<item>Nhóm A</item>
+		<item>Nhóm B</item>
+		<item>Nhóm AB</item>
+		<item>Nhóm O</item>
+	</string-array>
+	<string-array name="normal_blood_array">
+		<item>Chưa đặt</item>
+		<item>Nhóm A</item>
+		<item>Nhóm B</item>
+		<item>Nhóm AB</item>
+		<item>Nhóm O</item>
+	</string-array>
 </resources>

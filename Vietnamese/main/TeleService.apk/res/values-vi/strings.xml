@@ -2946,4 +2946,9 @@ Luôn sử dụng số này"</string>
 	<string name="switch_off">TẮT</string>
 	<string name="switch_on">BẬT</string>
 	<string name="fiveg_network_title">Mạng 5G</string>
+	<string name="dialog_ota_change_number_success">Đổi số điện thoại thành công</string>
+	<string name="dialog_ota_change_number_lgu">Tải xuống USIM ngay?</string>
+	<string name="dialog_ota_change_number_lgu_roaming">"Không thể thay đổi số điện thoại khi đang ở nước ngoài."</string>
+	<string name="dialog_ota_change_number_fail">"Không thể thay đổi số điện thoại. Nếu lỗi này vẫn xảy ra khi bạn thử lại, liên hệ nhà mạng của bạn."</string>
+	<string name="dialog_ota_change_number_processing">Đang tải xuống USIM…</string>
 </resources>

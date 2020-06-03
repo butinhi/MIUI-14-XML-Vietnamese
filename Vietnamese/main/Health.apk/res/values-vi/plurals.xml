@@ -193,4 +193,7 @@
 	<plurals name="duration_unit_minute_format">
 		<item quantity="other">%1$d phút</item>
 	</plurals>
+	<plurals name="birthday_format">
+		<item quantity="other">(%1$d tuổi)</item>
+	</plurals>
 </resources>

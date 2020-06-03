@@ -151,4 +151,7 @@
 	<plurals name="usage_new_home_avg_unlockc">
 		<item quantity="other">Trung bình %.2f lần mỗi ngày</item>
 	</plurals>
+	<plurals name="usage_new_home_total_unlocks_new">
+		<item quantity="other">Đã mở khóa %1$d lần trong %2$s</item>
+	</plurals>
 </resources>
