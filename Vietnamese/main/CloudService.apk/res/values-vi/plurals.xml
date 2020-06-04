@@ -72,4 +72,7 @@
 	<plurals name="select_no_more_than">
 		<item quantity="other">"Không thể chọn nhiều hơn %d mục"</item>
 	</plurals>
+	<plurals name="dirty_wlan_count_china">
+		<item quantity="other">%d mạng Wi-Fi</item>
+	</plurals>
 </resources>

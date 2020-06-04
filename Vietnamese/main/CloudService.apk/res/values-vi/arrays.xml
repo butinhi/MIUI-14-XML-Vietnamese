@@ -150,4 +150,15 @@
 		<item>Để đồng bộ liên hệ</item>
 		<item>Để lưu các mục vào thiết bị (v.d. ảnh, video, bài hát)</item>
 	</string-array>
+	<string-array name="settings_search_wlan_china">
+		<item>Đồng bộ cài đặt Wi-Fi với Xiaomi Cloud</item>
+		<item>Bật đồng bộ</item>
+		<item>WLAN;wifi;Wi-Fi;Đám mây;Đồng bộ;Dịch vụ Đám mây;Xiaomi Cloud</item>
+	</string-array>
+	<string-array name="micloud_entrance_subtitleArray_china">
+		<item>Đồng bộ liên hệ, tin nhắn, ghi chú, lịch và nhiều hơn thế</item>
+		<item>Sao lưu ứng dụng, Bố cục Màn hình chính, và hình nền</item>
+		<item>Sao lưu cài đặt quan trọng, bao gồm Wi-Fi và hiển thị</item>
+		<item>"Khóa thiết bị của bạn từ xa nếu bị mất"</item>
+	</string-array>
 </resources>
