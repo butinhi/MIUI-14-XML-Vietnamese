@@ -371,4 +371,12 @@ Mawrth Vallis"</string>
 	<string name="month_may_shortest">Tháng năm</string>
 	<string name="monday_shortest">Th 2</string>
 	<string name="miuix_appcompat_cloud_state_disabled">Đồng bộ với đám mây đã tắt</string>
+	<string name="cancel_download">Đã hủy tải xuống</string>
+	<string name="update">Cập nhật</string>
+	<string name="install_failed">"Không thể cài đặt"</string>
+	<string name="download_failed">Lỗi</string>
+	<string name="task_already_exist">Tác vụ này đã tồn tại</string>
+	<string name="no_cta_agreed">"GetApps không có quyền CTA"</string>
+	<string name="already_newest_version">Phiên bản hiện tại là mới nhất</string>
+	<string name="no_install_permission">"Bạn không có quyền cài đặt mục này"</string>
 </resources>

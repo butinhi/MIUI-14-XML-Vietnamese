@@ -271,4 +271,9 @@ Bạn cần đọc và đồng ý với Chính sách Riêng tư Mint Keyboard tr
 	<string name="move_data_dialog_box_title">Trừ khi bạn có gói với dữ liệu không giới hạn, sử dụng dữ liệu di động có thể phát sinh chi phí. Vẫn sử dụng dữ liệu di động?</string>
 	<string name="move_data_dialog_box_le">"Điều này cho phép sử dụng dữ liệu di động và kết nối GPS dựa trên yêu cầu của người dùng. Đồng bộ hóa tài khoản và các mục khác có thể yêu cầu sử dụng dữ liệu di động tùy thuộc vào thông số kỹ thuật của điện thoại thông minh."</string>
 	<string name="move_data_dialog_title">Bạn có thể hạn chế kết nối dữ liệu di động trong Cài đặt sau</string>
+	<string name="position_subheading">Thông tin vị trí</string>
+	<string name="location_content">Theo luật, các nhà mạng di động có thể lấy thông tin vị trí của thiết bị di động để tuân thủ các yêu cầu của cơ quan cứu hộ khẩn cấp (sở cứu hỏa và cảnh sát) nhằm mục đích an ninh và cứu hộ khẩn cấp.</string>
+	<string name="position_header">Chia sẻ thông tin vị trí</string>
+	<string name="location_location">Cơ quan cứu hộ khẩn cấp có thể có được vị trí hiện tại của bạn theo yêu cầu</string>
+	<string name="location_miui">Để có thể sử dụng MIUI, bạn phải đồng ý với các điều khoản và điều kiện trên</string>
 </resources>
