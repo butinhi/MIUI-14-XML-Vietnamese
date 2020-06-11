@@ -128,4 +128,7 @@
 	<plurals name="de_more_comment">
 		<item quantity="other">%1$d bình luận nữa</item>
 	</plurals>
+	<plurals name="resource_download_notification_title_many">
+		<item quantity="other">Tải xuống thành công %1$d mục</item>
+	</plurals>
 </resources>

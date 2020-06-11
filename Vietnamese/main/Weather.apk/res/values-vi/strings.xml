@@ -490,4 +490,8 @@ Chạm vào màn hình để thêm thủ công hoặc định vị lại thành 
 	<string name="rain_sound_setting_summary_text">Kèm theo sự thay đổi thời tiết bởi hiệu ứng âm thanh</string>
 	<string name="index_item_install_dialog">%1$s tải và cài đặt thành công, trải nghiệm ngay?</string>
 	<string name="global_not_enable_warning">"Không thể sử dụng ứng dụng này. Nó chưa được cài đặt từ nguồn chính thức."</string>
+	<string name="setting_content_promotion">Quảng cáo nội dung</string>
+	<string name="setting_experience_plan_title">Trải nghiệm người dùng</string>
+	<string name="setting_weather_video">Thẻ video thời tiết</string>
+	<string name="setting_today_news">Thẻ thông tin hôm nay</string>
 </resources>

@@ -2323,4 +2323,18 @@ Chụp nhiều ảnh bạn của bạn hơn!"</string>
 	<string name="vlog_improt_encode_video_error">Lỗi mã hóa. Thử lại.</string>
 	<string name="vlog_exit_message">Tất cả thay đổi chưa lưu sẽ bị mất. Vẫn quay lại?</string>
 	<string name="vlog_video_trans_code_cons">Đang xử lý tệp tin độ phân giải cao…</string>
+	<string name="text_tab_festival">Ngày lễ</string>
+	<string name="filter_general_movie">Phim</string>
+	<string name="filter_movie_portrait">Xuân biếc</string>
+	<string name="text_tab_city">Thành phố</string>
+	<string name="text_tab_spot">Cảnh</string>
+	<string name="text_tab_scene">Cảnh</string>
+	<string name="online_video_vip_transcoding">"Đang bắt đầu đường truyền VIP…
+Phiên dịch có thể mất một lúc khi bạn sử dụng tính năng này lần đầu tiên."</string>
+	<string name="online_video_normal_transcoding">Video này đang được phiên dịch. Chờ một vài phút rồi thử lại.</string>
+	<string name="sticker_graduation">Tốt nghiệp</string>
+	<string name="filter_general_greenorange">Chanh</string>
+	<string name="online_video_vip_tip">Trở thành thành viên VIP để truyền video mà không cần tải toàn bộ</string>
+	<string name="operate_with_metered_network_msg">Thiết bị của bạn đang kết nối với mạng trả phí. Vẫn tiếp tục?</string>
+	<string name="filter_general_blackice">Đá đen</string>
 </resources>

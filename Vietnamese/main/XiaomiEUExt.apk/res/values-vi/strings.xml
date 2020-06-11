@@ -15,4 +15,6 @@
 	<string name="hide_apps_close">Hiện biểu tượng ứng dụng</string>
 	<string name="home_hide_apps">Ẩn biểu tượng ứng dụng</string>
 	<string name="contributors">Người đóng góp</string>
+	<string name="home_search_bar_app">Nhà cung cấp thanh tìm kiếm</string>
+	<string name="home_search_gesture_app">Nhà cung cấp thanh tìm kiếm vuốt lên</string>
 </resources>

@@ -10218,4 +10218,8 @@ Nếu bạn không đồng ý cấp các quyền đó, bạn sẽ không thể s
 	<string name="title_miui_music_mute_by_user">Chế độ im lặng</string>
 	<string name="content_miui_music_mute_by_user">Phát âm thanh phương tiện khi Chế độ Im lặng được bật?</string>
 	<string name="error_apn_restrict_string">APN không thể chứa %1$s</string>
+	<string name="charge_animation_style_summary">Chọn hiệu ứng sạc ưa thích trên màn hình khóa</string>
+	<string name="charge_animation_style_title">Hiệu ứng sạc</string>
+	<string name="mi_pay_summary_without_nfc">Thanh toán Mi</string>
+	<string name="error_apn_not_allowed">"APN này không được cho phép trên thiết bị này. Thử cái khác."</string>
 </resources>

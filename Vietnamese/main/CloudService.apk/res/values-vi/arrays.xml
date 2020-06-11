@@ -161,4 +161,9 @@
 		<item>Sao lưu cài đặt quan trọng, bao gồm Wi-Fi và hiển thị</item>
 		<item>"Khóa thiết bị của bạn từ xa nếu bị mất"</item>
 	</string-array>
+	<string-array name="settings_search_phrase">
+		<item>Đồng bộ trả lời nhanh</item>
+		<item>Bật đồng bộ</item>
+		<item>Trả lời nhanh;Clipboard;Trình biên tập;Đám mây;Đồng bộ;Dịch vụ đám mây</item>
+	</string-array>
 </resources>

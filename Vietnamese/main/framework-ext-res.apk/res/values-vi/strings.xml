@@ -306,4 +306,5 @@
 	<string name="device_status_success">Gửi thành công</string>
 	<string name="security_share_text">Bảo vệ riêng tư</string>
 	<string name="serviceEnabled">Dịch vụ đã được bật.</string>
+	<string name="talk_back_conflict_with_handy_mode">"Không thể sử dụng Chế độ một tay khi bật TalkBack"</string>
 </resources>

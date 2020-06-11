@@ -587,4 +587,19 @@
 	<string name="perfect_icons_switch_title">Hiệu ứng biểu tượng toàn bộ</string>
 	<string name="accessibility_menu_item_smallwindow_disable">"Ứng dụng này không hỗ trợ cửa sổ nổi"</string>
 	<string name="accessibility_menu_item_smallwindow_enable">Ứng dụng này hỗ trợ cửa sổ nổi</string>
+	<string name="status_bar_recent_memory_mega">%1$s mb</string>
+	<string name="all_apps_setting_classic_title">Cổ điển</string>
+	<string name="accessibility_all_app_custom_category_finish">Hoàn tất</string>
+	<string name="back">Quay lại</string>
+	<string name="common_home_search_delete_cancle">Hủy</string>
+	<string name="common_home_search_delete_confirm">Xóa</string>
+	<string name="common_home_search_delete_content">"Bạn sẽ không thể tìm kiếm bằng thanh tìm kiếm Màn hình chính nếu bạn xóa. Vẫn xóa?"</string>
+	<string name="accessibility_clear_search_bar_text">Xóa thanh tìm kiếm</string>
+	<string name="launcher_slide_up_search_provider_title">Nhà cung cấp tìm kiếm vuốt lên</string>
+	<string name="accessibility_enter_all_app_settings">Mở Cài đặt ngăn ứng dụng</string>
+	<string name="launcher_search_bar_provider_title">Nhà cung cấp tìm kiếm</string>
+	<string name="accessibility_all_app_custom_category_item_remove">Xóa \"%1$s\" khỏi danh mục</string>
+	<string name="common_home_search_delete">Xóa Thanh tìm kiếm Màn hình chính</string>
+	<string name="accessibility_enter_all_app_mode">Mở Ngăn ứng dụng</string>
+	<string name="launcher_search_provider_title">Nhà cung cấp tìm kiếm Màn hình chính</string>
 </resources>

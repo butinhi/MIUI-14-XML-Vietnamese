@@ -2619,4 +2619,6 @@ Chạm vào "%2$s" để bắt đầu tải xuống nội dung này vào lần t
 	<string name="chinese_symbol_animals_dog">Tuất</string>
 	<string name="pm">CH</string>
 	<string name="the_fifth_day">Ngày Thứ năm</string>
+	<string name="mw_common_google_play_services_notification_channel_name">Phạm vi cung cấp các dịch vụ của Google Play</string>
+	<string name="mw_menu_refresh">Làm mới</string>
 </resources>

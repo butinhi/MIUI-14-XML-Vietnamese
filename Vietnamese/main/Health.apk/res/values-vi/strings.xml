@@ -1409,4 +1409,7 @@ Nếu thiết bị của bạn nằm trong danh sách này, bạn có thể thê
 	<string name="sleep_notice">Thông báo ngủ</string>
 	<string name="remarks">Nhận xét</string>
 	<string name="full_name_hint">Sửa tên</string>
+	<string name="exercise_time">Thời lượng</string>
+	<string name="exercise_start">Bắt đầu</string>
+	<string name="exercise_recog_confirm_run">Bạn đã chạy giữa %1$s và %2$s?</string>
 </resources>

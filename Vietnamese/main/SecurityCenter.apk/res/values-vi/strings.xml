@@ -3896,4 +3896,18 @@ Sau khi được đặt, nếu bạn đóng ứng dụng, các quyền sẽ tr�
 	<string name="gtb_setting_item_title_smart_5g">Tối ưu mạng 5G</string>
 	<string name="gtb_dialog_summary_smart_5g">Khi Tăng tốc Trò chơi nhận thấy mạng 5G, nó có thể kết nối thiết bị của bạn tới mạng khả dụng tốt nhất để giảm độ trễ mạng. Bật tính năng này ngay?</string>
 	<string name="gtb_dialog_title_smart_5g">Tối ưu mạng 5G</string>
+	<string name="intl_perm_privacy_control_notification_title">Bảo vệ sự riêng tư của bạn</string>
+	<string name="warningcenter_disaster_search_keywords">Cảnh báo thời tiết</string>
+	<string name="intl_perm_privacy_control_storage">"Ứng dụng chỉ có thể truy cập hoặc chỉnh sửa mục từ bộ nhớ trong khi bạn sử dụng nó"</string>
+	<string name="intl_perm_privacy_control_contact">"Ứng dụng chỉ có thể truy cập hoặc chỉnh sửa liên hệ khi bạn sử dụng nó"</string>
+	<string name="intl_app_manager_card_permission_title">Riêng tư &amp; quyền</string>
+	<string name="intl_perm_privacy_control_calllog">"Ứng dụng chỉ có thể truy cập hoặc chỉnh sửa lịch sử cuộc gọi khi bạn sử dụng nó"</string>
+	<string name="intl_perm_privacy_control_microphone">"Ứng dụng chỉ có thể ghi âm khi bạn sử dụng nó"</string>
+	<string name="intl_perm_privacy_control_title">Quản lý riêng tư</string>
+	<string name="intl_perm_privacy_control_notification_message">Quản lý dữ liệu riêng tư nào mà ứng dụng có thể sử dụng</string>
+	<string name="intl_perm_privacy_control_camera">"Ứng dụng này chỉ có thể chụp ảnh hoặc quay phim khi bạn sử dụng nó"</string>
+	<string name="warningcenter_mijia_search_keywords">Cảnh báo Mi Home</string>
+	<string name="intl_perm_privacy_control_calendar">"Ứng dụng chỉ có thể truy cập hoặc chỉnh sửa lịch khi bạn sử dụng nó"</string>
+	<string name="intl_perm_privacy_control_data">Quản lý riêng tư</string>
+	<string name="intl_perm_privacy_control_message">Quản lý dũe liệu riêng tư nào mà ứng dụng có thể sử dụng</string>
 </resources>
