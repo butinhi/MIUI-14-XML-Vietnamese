@@ -1017,4 +1017,9 @@ Lưu ý rằng ứng dụng này cần kết nối với mạng và yêu cầu c
 	<string name="label_delete">Xóa</string>
 	<string name="dob_selection_error">"Ngày sinh phải sớm hơn hôm nay"</string>
 	<string name="label_no_history">Chưa có mục nào ở đây</string>
+	<string name="loan_enter_amount">Nhập số tiền</string>
+	<string name="loan_enter_interest">Nhập lãi suất</string>
+	<string name="loan_invalid_loan_tenure">Thời hạn cho vay phải lớn hơn 0</string>
+	<string name="item_title_loan">Cho vay</string>
+	<string name="loan_enter_amount_interest">Nhập số tiền và lãi suất</string>
 </resources>

@@ -1412,4 +1412,7 @@ Nếu thiết bị của bạn nằm trong danh sách này, bạn có thể thê
 	<string name="exercise_time">Thời lượng</string>
 	<string name="exercise_start">Bắt đầu</string>
 	<string name="exercise_recog_confirm_run">Bạn đã chạy giữa %1$s và %2$s?</string>
+	<string name="month_march_shortest">Tháng 3</string>
+	<string name="month_may_shortest">Tháng năm</string>
+	<string name="monday_shortest">Th 2</string>
 </resources>

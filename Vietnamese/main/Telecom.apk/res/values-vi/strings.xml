@@ -717,4 +717,5 @@ Chất lượng phát"</string>
 	<string name="wifi_security_wpa">WPA PSK</string>
 	<string name="wifi_security_passpoint">Passpoint</string>
 	<string name="bluetooth_talkback_bluetooth">Bluetooth</string>
+	<string name="dialog_voicemail_not_ready_message">Để thiết lập thư thoại, hãy vào Menu &gt; Cài đặt.</string>
 </resources>

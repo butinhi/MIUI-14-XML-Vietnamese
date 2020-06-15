@@ -75,4 +75,7 @@
 	<plurals name="age_label_days">
 		<item quantity="other">%d ngày</item>
 	</plurals>
+	<plurals name="tenure_years">
+		<item quantity="other">%d năm</item>
+	</plurals>
 </resources>

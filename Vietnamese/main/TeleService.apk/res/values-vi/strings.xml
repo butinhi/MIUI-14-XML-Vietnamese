@@ -2957,4 +2957,6 @@ Luôn sử dụng số này"</string>
 	<string name="preferred_network_type_pref_entries_4g_preferred_mx_at">4G/3G/2G (4G ưa thích)</string>
 	<string name="smart_dual_sim_summary">Tự động chuyển sang SIM thứ hai và sử dụng dữ liệu di động của nó khi kết nối hiện tại yếu. Khi kết nối được cải thiện, chuyển lại thẻ SIM gốc.</string>
 	<string name="preferred_network_type_pref_entries_3g_preferred_mx_at">3G/2G (3G ưa thích)</string>
+	<string name="select_apn_cancel">Hủy</string>
+	<string name="select_apn_title">"Chọn APN "</string>
 </resources>

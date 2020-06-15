@@ -1570,4 +1570,6 @@ In dễ dàng trên khổ A4"</string>
 	<string name="pref_camera_fastmotion_speed_30x">Đường phố</string>
 	<string name="pref_camera_fastmotion_speed_90x">Mây</string>
 	<string name="timer_burst_param_interval">Khoảng thời gian</string>
+	<string name="pref_wind_denoise_default">BẬT</string>
+	<string name="pref_front_denoise_default">TẮT</string>
 </resources>

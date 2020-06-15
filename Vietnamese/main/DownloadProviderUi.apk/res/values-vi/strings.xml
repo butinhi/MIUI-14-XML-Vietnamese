@@ -597,4 +597,5 @@ Tăng tốc tải xuống giữa các thiết bị."</string>
 	<string name="xl_vip_annual_price">%1$s Mi Coin mỗi tháng (12 tháng)</string>
 	<string name="h5_net_error_tip">"Không thể mở liên kết"</string>
 	<string name="abc_action_menu_overflow_description">Thêm tùy chọn</string>
+	<string name="info_rank_show">Đề xuất danh sách nổi bật</string>
 </resources>
