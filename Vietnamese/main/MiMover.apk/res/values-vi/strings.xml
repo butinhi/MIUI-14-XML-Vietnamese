@@ -775,4 +775,87 @@ Chúng tôi sẽ bảo vệ thông tin cá nhân của bạn theo luật pháp, 
 	<string name="host_boot_installation_step_one_messege">Vào Cài đặt, nhập \"Mi Mover\" vào thanh tìm kiếm, và chạm vào \"Mi Mover\" trong kết quả tìm kiếm.</string>
 	<string name="transfer_quit_alert_btn_positive">"Đừng thoát"</string>
 	<string name="new_wait_link_message_2">Nút "\"Tôi là người gửi\" ở ngay trang bắt đầu của Mi Mover."</string>
+	<string name="select_empty">Chọn mục để nhập</string>
+	<string name="lack_perm_msg">Mi Mover cần quyền dưới đây: &lt;b&gt;%s&lt;/b&gt;.</string>
+	<string name="host_boot_installation_tips">"Không thể tìm thấy Mi Mover? Chạm để tải xuống."</string>
+	<string name="transfer_quit_alert_message">"Mi Mover đang hoạt động. Vẫn thoát?
+
+"</string>
+	<string name="dialog_tip_upgrade_title">Cập nhật Mi Mover</string>
+	<string name="scanner_quit_alert_title">Thoát ngay?</string>
+	<string name="miui_need_location_permission_title">Cho phép truy cập vị trí</string>
+	<string name="trans_send_time_remained">Đã gửi: %1$s | Còn lại : %2$s</string>
+	<string name="transfer_snap_new_receiving">Đang nhận…</string>
+	<string name="current_user_not_supported_summary">Cài đặt hệ thống hiện tại hạn chế truyền dữ liệu bằng Mi Mover.</string>
+	<string name="new_trans_intro_desc_new">1. Đảm bảo Mi Mover trên thiết bị mới là bản mới nhất. Bạn có thể tải bản mới nhất của Mi Mover trong GetApps hoặc sử dụng đường dẫn này: %1$s.</string>
+	<string name="transfer_snap_new_waiting_receive">Đang chờ nhận…</string>
+	<string name="icloud_how_to_backup_tip_steps_two">"2. Apple ID và mật khẩu của bạn sẽ chỉ được sử dụng để đăng nhập. Chúng sẽ không được Mi Mover lưu trữ hoặc ghi lại."</string>
+	<string name="install_app_message">"Nếu bạn không thể tìm thấy thiết bị mới của mình trong một thời gian dài, hãy thử những điều sau:
+1. Đảm bảo Mi Mover được cài đặt trên thiết bị mới của bạn.
+2. Mang hai thiết bị gần nhau."</string>
+	<string name="transfer_summary_new_finish">Đã nhận: %1$s | Thời gian: %2$s</string>
+	<string name="scanner_bottom_tip">Chỉ chọn mục quan trọng để chuyển nhanh hơn.</string>
+	<string name="connect_icloud_fail">"Không thể kết nối tới iCloud"</string>
+	<string name="guest_hint_connect_new_device">Chạm thiết bị mới để kết nối.</string>
+	<string name="install_app_to_another_phone_content">Cài đặt Mi Mover trên thiết bị mới</string>
+	<string name="perm_package_stats">Truy cập thống kê sử dụng ứng dụng</string>
+	<string name="transfer_title_new_receiving">Đang nhận…</string>
+	<string name="trans_main_activity_tutor_first">"Chuyển ảnh, liên hệ, tin nhắn, lịch sử cuộc gọi,
+âm thanh, video, tài liệu, và ứng dụng của bạn tới thiết bị mới"</string>
+	<string name="trans_sync_transfer_data_list">Chọn mục để chuyển trên thiết bị cũ</string>
+	<string name="prompt_before_transmission_message3_title">"Bạn đang sử dụng Không gian thứ hai"</string>
+	<string name="wechat_app_receive_fail">"Không thể nhận WeChat"</string>
+	<string name="prompt_before_transmission_message3_summary">"Các mục từ Không gian thứ hai không thể chuyển vì giới hạn hệ thống."</string>
+	<string name="ble_connect_request_hint">Có vẻ như có thiết bị lân cận đang sử dụng Mi Mover. Kết nối ngay?</string>
+	<string name="permission_contacts_title">Đang truy cập liên hệ</string>
+	<string name="miui_wait_link_title_1">"%d. Chạm \"Tôi là người gửi\" và chờ một chút."</string>
+	<string name="miui_wait_link_title_2">%d. Chọn điểm phát này trên thiết bị cũ để kết nối.</string>
+	<string name="permission_storage_summary">Để chuyển tệp và hình ảnh đến thiết bị mới</string>
+	<string name="permission_wifi_title">Đang bật/tắt Wi-Fi</string>
+	<string name="close_cellular_summary">Do giới hạn hệ thống, kết nối mạng hiện tại là lưu lượng dữ liệu, vui lòng tắt lưu lượng dữ liệu và kết nối lại với điện thoại mới</string>
+	<string name="ble_start_ap_successed">Đã tạo điểm phát. Đang chờ kết nối…</string>
+	<string name="ble_enter_verifycode_timeout_summary">"Mã đã được nhập một thời gian dài. Kết nối thủ công."</string>
+	<string name="qq_app_receive_fail">"Không thể nhận QQ"</string>
+	<string name="ble_discovery_connect_request_title">Phát hiện thiết bị lân cận</string>
+	<string name="perm_write_settings">Thay đổi cài đặt hệ thống</string>
+	<string name="install_mi_cloud_app_summary">Quét mã QR này với iPhone của bạn để tải và cài đặt ứng dụng.</string>
+	<string name="permission_calender_summary">Để chuyển sự kiện lịch từ iCloud</string>
+	<string name="icloud_need_wifi_new_message">Kết nối Wi-Fi để có thể nhập từ iPhone.</string>
+	<string name="prompt_before_transmission_message1_summary">Nếu bạn chọn chuyển chúng từ thiết bị cũ của bạn, dữ liệu ứng dụng (bao gồm lịch sử chat) sẽ bị ghi đè.</string>
+	<string name="err_remote_no_space">Không đủ dung lượng lưu trữ trên thiết bị mới</string>
+	<string name="ble_manual_connect">Kết nối thủ công</string>
+	<string name="title_request_write_settings_perm">Yêu cầu quyền thay đổi cài đặt hệ thống</string>
+	<string name="close_cellular_title">Kết nối bất thường</string>
+	<string name="permission_message_title">Truy cập nội dung tin nhắn</string>
+	<string name="new_wait_link_title_3">3. Chạm \"Mi Mover\" trong kết quả tìm kiếm.</string>
+	<string name="new_wait_link_title_1">1. Vào Cài đặt trên thiết bị cũ của bạn.</string>
+	<string name="new_wait_link_title_2">2. Nhập \"Mi Mover\" vào thanh tìm kiếm.</string>
+	<string name="ble_connect_failed">"Không thể kết nối. Thử kết nối thủ công."</string>
+	<string name="ble_host_verification_title">Đang kết nối tới thiết bị cũ…</string>
+	<string name="sync_data_to_mi_cloud_summary">Mở Xiaomi Cloud trên iPhone của bạn và làm theo các bước để đồng bộ dữ liệu. Chạm nút bên dưới khi đồng bộ hoàn tất.</string>
+	<string name="permission_call_log_summary">Để chuyển lịch sử cuộc gọi đến thiết bị mới</string>
+	<string name="cloud_service_check_dialog_title">Đồng bộ liên hệ và Thư viện</string>
+	<string name="ble_waiting_verify_code">Đang xác nhận mã…</string>
+	<string name="prompt_before_transmission_message4_summary">"Không tắt Wi-Fi hoặc chuyển mạng cho đến khi chuyển xong."</string>
+	<string name="permission_locale_summary">Để kết nối với thiết bị lân cận</string>
+	<string name="prompt_before_transmission_message1_title">Các ứng dụng này đã tạo dữ liệu ứng dụng trên thiết bị mới</string>
+	<string name="prompt_before_transmission_message4_title">Giữ kết nối trong suốt quá trình chuyển</string>
+	<string name="waiting_restore_desktop">Đang chuyển ứng dụng bên thứ ba để khôi phục Bố cục màn hình chính…</string>
+	<string name="err_remote_timeout">Hết thời gian chuyển</string>
+	<string name="wechat_and_qq_app_receive_fail">"Không thể nhận WeChat và QQ"</string>
+	<string name="wechat_and_qq_app_send_fail">"Không thể gửi WeChat và QQ"</string>
+	<string name="wechat_app_send_fail">"Không thể gửi WeChat"</string>
+	<string name="permission_contacts_summary">Để chuyển liên hệ sang thiết bị mới của bạn</string>
+	<string name="ble_host_verification_summary">Nhập mã %d-số trên thiết bị cũ của bạn.</string>
+	<string name="permission_message_summary">Để chuyển tin nhắn sang thiết bị mới của bạn</string>
+	<string name="ble_enter_connect_timeout_summary">"Không thể kết nối tới thiết bị mới. Kết nối thủ công."</string>
+	<string name="prompt_before_transmission_message2_title">"Bạn ssang sử dụng ứng dụng kép cho các mục dưới đây"</string>
+	<string name="prompt_before_transmission_message2_summary">"Ứng dụng kép không thể chuyển. Tuy nhiên, bạn có thể chuyển ứng dụng gốc."</string>
+	<string name="ble_wait_verify_code">Đang tạo mã trên thiết bị mới…</string>
+	<string formatted="false" name="dialog_request_permission_message_link">&lt;Data&gt;"Đồng thời, để hiểu đầy đủ quyền của bạn với tư cách là người dùng cũng như cách chúng tôi sử dụng dữ liệu của bạn, hãy đọc và đồng ý với &lt;a href='%1s'&gt;Thỏa thuận Người dùng&lt;/a&gt; và &lt;a href='%2s'&gt;Chính sách Riêng tư&lt;/a&gt; của chúng tôi."&lt;/Data&gt;</string>
+	<string name="restore_data_to_device_title">Khôi phục các mục vào thiết bị này</string>
+	<string name="sync_data_to_mi_cloud_content2">%d. Chạm \"Sao lưu ngay\" trên tab \"Ảnh\".</string>
+	<string name="sync_data_to_mi_cloud_content1">%d. Chạm \"Đồng bộ ngay\" trên tab \"Liên hệ\".</string>
+	<string name="backup_died_summary">Chạm \"Kết nối lại\". Quá trình chuyển sẽ tiếp tục từ lần trước.</string>
+	<string name="permission_bluetooth_summary">Để tìm kiếm thiết bị lân cận khả dụng</string>
 </resources>

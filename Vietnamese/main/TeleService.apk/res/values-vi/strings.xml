@@ -2959,4 +2959,5 @@ Luôn sử dụng số này"</string>
 	<string name="preferred_network_type_pref_entries_3g_preferred_mx_at">3G/2G (3G ưa thích)</string>
 	<string name="select_apn_cancel">Hủy</string>
 	<string name="select_apn_title">"Chọn APN "</string>
+	<string name="num_retry">"Số lần thử lại: "</string>
 </resources>

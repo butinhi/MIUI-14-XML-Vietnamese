@@ -1974,7 +1974,7 @@ Chứng chỉ bộ nhớ có thể không bật</string>
 	<string name="usb_port_short_circuit_recovered_content">Bạn có thể dùng để sạc hoặc kết nối với các thiết bị khác.</string>
 	<string name="usb_port_short_circuit_recovered_title">Cổng sạc giờ đã hoạt động bình thường</string>
 	<string name="usb_port_short_circuit_title">Có hơi nước trong cổng sạc</string>
-	<string name="status_bar_recent_memory_info1">%1$sB | %2$sB</string>
+	<string name="status_bar_recent_memory_info1">%1$s | %2$s</string>
 	<string name="gxzw_quick_open_add_event">Thêm sự kiện</string>
     <string name="gxzw_quick_open_add_event_sub">Lịch</string>
     <string name="gxzw_quick_open_alipay_pay">Mã thanh toán</string>

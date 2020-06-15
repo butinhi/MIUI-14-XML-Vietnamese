@@ -90,5 +90,8 @@
 	<plurals name="in_num_minutes">
 		<item quantity="other">trong %d phút</item>
 		<item quantity="one">trong 1 phút</item>
-	</plurals>>
+	</plurals>
+	<plurals name="hour">
+		<item quantity="other">&lt;g id="hour"&gt;%1$d&lt;/g&gt; giờ</item>
+	</plurals>
 </resources>

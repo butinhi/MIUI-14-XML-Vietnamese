@@ -1486,4 +1486,19 @@ Xem qua trang đề xuất!"</string>
 	<string name="pm">CH</string>
 	<string name="the_fifth_day">Ngày Thứ năm</string>
 	<string name="failed_to_send">Gửi thất bại</string>
+	<string name="menu_multi_select">Chọn</string>
+	<string name="copy_verification_code_tip">Sao chép thành công</string>
+	<string name="rsc_chatbot_back">Quay lại</string>
+	<string name="voice_report_off">TẮT</string>
+	<string name="voice_report_anytime">Luôn luôn</string>
+	<string name="pref_summary_voice_report">Bật để đọc tin nhắn thành tiếng khi nhận được. Nhấn nút Giảm âm lượng hoặc nút Nguồn để dừng phát.</string>
+	<string name="pref_rcs_show_report_message">Báo cáo nhận</string>
+	<string name="not_support_audio_forward">Không thể chuyển tiếp tin nhắn giọng nói</string>
+	<string name="pref_rcs_show_report_message_tip">Bên kia trở về trạng thái đọc khi nhận được tin nhắn văn bản</string>
+	<string name="rcs_chatbot_no_waring">Tin nhắn không làm phiền</string>
+	<string name="pref_title_voice_report">Đọc to tin nhắn</string>
+	<string name="rsc_chatbot_detail">Cổng thông tin thương gia</string>
+	<string name="verification_code_safety_warning">"Không tiết lộ các mã này cho người khác"</string>
+	<string name="top_conversation">Cuộc trò chuyện được ghim</string>
+	<string name="voice_report_wiredon">Với tai nghe</string>
 </resources>

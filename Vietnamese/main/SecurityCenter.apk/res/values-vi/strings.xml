@@ -3910,4 +3910,17 @@ Sau khi được đặt, nếu bạn đóng ứng dụng, các quyền sẽ tr�
 	<string name="intl_perm_privacy_control_calendar">"Ứng dụng chỉ có thể truy cập hoặc chỉnh sửa lịch khi bạn sử dụng nó"</string>
 	<string name="intl_perm_privacy_control_data">Quản lý riêng tư</string>
 	<string name="intl_perm_privacy_control_message">Quản lý dũe liệu riêng tư nào mà ứng dụng có thể sử dụng</string>
+	<string name="om_shortcut_dialog_title">Tăng tốc RAM</string>
+	<string name="security_guide_bubble_text">Mở</string>
+	<string name="om_shortcut_added_toast_text">Đã thêm thành công</string>
+	<string name="menu_summary_optimize_manage">Dọn dẹp nhanh</string>
+	<string name="om_running_app_info_summary">Giải phóng %s</string>
+	<string name="menu_text_optimize_manage_1">Tăng tốc</string>
+	<string name="om_optimzing_big_button_text">Tăng tốc</string>
+	<string name="security_guide_title">Gói Tiện ích MIUI</string>
+	<string formatted="false" name="memory_clean_no_need_clean_1">Đã giải phóng %s. Thiết bị của bạn đã nhanh hơn %d%%.</string>
+	<string name="security_bottom_guide_to_pm_text">Đang mở Gói Tiện ích…</string>
+	<string name="security_guide_summary">Một nơi cho các công cụ và dịch vụ</string>
+	<string name="menu_summary_optimize_manage_1">Làm thiết bị của bạn nhanh hơn %d%%</string>
+	<string name="om_shortcut_dialog_summary">"RAM Jet cho phép bạn xóa bộ nhớ và tăng tốc độ thiết bị của bạn chỉ bằng một cú chạm. Thêm RAM Jet vào Màn hình chính của bạn?"</string>
 </resources>

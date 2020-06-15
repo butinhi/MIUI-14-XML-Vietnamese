@@ -444,4 +444,7 @@ Nếu bạn bật dữ liệu di động lại, nhà mạng sẽ tính phí bổ
 	<plurals name="intl_perm_privacy_control_message_count">
 		<item quantity="other">Bạn có thể bảo vệ %d mục</item>
 	</plurals>
+	<plurals name="om_running_apps_num">
+		<item quantity="other">%d ứng dụng</item>
+	</plurals>
 </resources>

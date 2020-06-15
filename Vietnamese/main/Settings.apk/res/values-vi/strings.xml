@@ -6847,9 +6847,9 @@ Bạn chắc chắn sử dụng giờ được cấp bởi GPS?"</string>
     <string name="miui_sos_contacts_category">Liên hệ khẩn cấp</string>
     <string name="miui_sos_emergency_contacts">Liên hệ khẩn cấp</string>
     <string name="miui_sos_emergency_contacts_quantity">Đã thêm %d</string>
-    <string name="miui_sos_emergency_delivered_sms" formatted="false">%1s(%2s)đã được chấp nhận</string>
-    <string name="miui_sos_emergency_delivered_sms_noname">%1sđã được chấp nhận</string>
-    <string name="miui_sos_emergency_failed_sms" formatted="false">Không thể gửi tin nhắn cho %1s (%2s)</string>
+    <string name="miui_sos_emergency_delivered_sms">%1$s (%2$s) đã nhận tin nhắn</string>
+    <string name="miui_sos_emergency_delivered_sms_noname">%1s đã được chấp nhận</string>
+    <string name="miui_sos_emergency_failed_sms">Không thể gửi tin nhắn cho %1$s (%2$s)</string>
     <string name="miui_sos_emergency_failed_sms_noname">%1stin nhắn SOS gửi thất bại.</string>
     <string name="miui_sos_enable_switch_summary">Nhấn nhanh nút nguồn 5 lần để gửi vị trí và tin nhắn SOS đến số liên hệ khẩn cấp</string>
     <string name="miui_sos_enable_switch_title">SOS</string>
@@ -10222,4 +10222,9 @@ Nếu bạn không đồng ý cấp các quyền đó, bạn sẽ không thể s
 	<string name="charge_animation_style_title">Hiệu ứng sạc</string>
 	<string name="mi_pay_summary_without_nfc">Thanh toán Mi</string>
 	<string name="error_apn_not_allowed">"APN này không được cho phép trên thiết bị này. Thử cái khác."</string>
+	<string name="control_center">TT Điều khiển</string>
+	<string name="input_method_quick_cloud_tips">Loại thông báo</string>
+	<string name="wifi_assistant_auto_confirm_data_help">Bạn có thể tắt tính năng này trong Cài đặt &gt; Wi-Fi &gt; Trợ lý Wi-Fi.</string>
+	<string name="launch_ai_shortcut">Lối tắt Mi AI</string>
+	<string name="double_knock">Gõ hai lần</string>
 </resources>

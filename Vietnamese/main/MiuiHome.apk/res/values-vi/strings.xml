@@ -497,7 +497,7 @@
 	<string name="category_edit_back_confirm_dialog_content">Lưu thay đổi?</string>
 	<string name="category_edit_back_confirm_dialog_positive_button">Lưu</string>
 	<string name="one_key_call_title">Chạm để gọi</string>
-	<string name="status_bar_recent_memory_info1">%1$sB | %2$sB</string>
+	<string name="status_bar_recent_memory_info1">%1$s | %2$s</string>
 	<string name="accessibility_menu_item_split_disable">Ứng dụng không hỗ trợ Chia màn hình.</string>
 	<string name="recents_title_garbage_deepclean">Dọn dẹp sâu</string>
 	<string name="memory_clear_result_giga">Đã xóa %1$sGB</string>
