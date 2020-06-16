@@ -490,4 +490,8 @@ bạn muốn quét gì với Mi AI"</string>
 	<string name="document_ocr_fail">"Không thể nhận diện văn bản. Xoay ảnh để nó khớp với hướng điện thoại và thử lại."</string>
 	<string name="if_to_open_milogo_scanning">Nhận diện logo Xiaomi</string>
 	<string name="feedback_phone">Thông tin liên hệ (Tùy chọn)</string>
+	<string name="function">Công cụ</string>
+	<string name="mipayin_dialog_more">Thêm</string>
+	<string name="mipayin_dialog_title">Mở bằng</string>
+	<string name="if_open_result">Hiển thị kết quả quét khi quay trở lại ứng dụng</string>
 </resources>

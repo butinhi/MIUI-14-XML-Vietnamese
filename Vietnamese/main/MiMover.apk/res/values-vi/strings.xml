@@ -681,7 +681,6 @@ Giải phóng ít nhất %s."</string>
 	<string name="transfer_summary_old_finish">Đã gửi: %1$s | Thời gian: %2$s</string>
 	<string name="transfer_finish_bottom_tip">"Nếu bạn sẽ không sử dụng thiết bị cũ của mình nữa, bạn có thể xóa tất cả dữ liệu trên thiết bị đó sau khi bạn xác nhận rằng tất cả các mục quan trọng đã được chuyển thành công."</string>
 	<string name="dialog_version_summary_tip">"Có gì mới:"</string>
-	<string name="saving_data_not_close_wifi">"Đừng tắt Wi-Fi"</string>
 	<string name="connection_tips_other_message">"1. Đảm bảo phiên bản Mi Mover mới nhất được cài đặt trên thiết bị cũ của bạn. Bạn có thể tải xuống phiên bản Mi Mover mới nhất trong GetApps hoặc sử dụng liên kết này: %1$s.
 2. Nếu điểm phát sóng của thiết bị mới không xuất hiện trong Mi Mover, hãy mở cài đặt Wi-Fi và kiểm tra xem bạn có thể thấy thiết bị đó ở đó không. Nếu thấy, đừng chạm vào nó.
 3. Quay trở lại Mi Mover và nhấn vào tên của điểm phát."</string>
@@ -756,7 +755,6 @@ Tải và cài đặt Mi Mover."</string>
 	<string name="install_app_new_title">Quét mã QR để cài đặt Mi Mover trên thiết bị mới</string>
 	<string name="connection_tips_other_title">Nếu thiết bị cũ của bạn là điện thoại Android bên thứ ba:</string>
 	<string name="international_scanner_send_dialog_message">"Tin nhắn văn bản và dữ liệu ứng dụng của một số ứng dụng bên thứ ba không thể được chuyển. Không tắt Wi-Fi hoặc chuyển mạng trong khi truyền."</string>
-	<string name="transfer_title_new_finish">Chuyển thành công</string>
 	<string name="miui_need_open_high_accuracy_summary">"Cho phép Mi Mover truy cập vị trí của bạn trong chế độ Chính xác cao để tìm thiết bị gần đó. Bạn sẽ không thể dùng Mi Mover nếu không cấp quyền này."</string>
 	<string name="trans_time_spent">Thời gian: %s</string>
 	<string name="dialog_tip_upgrade_summary">Có vẻ như phiên bản Mi Mover quá cũ. Cập nhật Mi Mover lên phiên bản mới nhất để có thể truyền tệp.</string>
@@ -852,7 +850,7 @@ Chúng tôi sẽ bảo vệ thông tin cá nhân của bạn theo luật pháp, 
 	<string name="prompt_before_transmission_message2_title">"Bạn ssang sử dụng ứng dụng kép cho các mục dưới đây"</string>
 	<string name="prompt_before_transmission_message2_summary">"Ứng dụng kép không thể chuyển. Tuy nhiên, bạn có thể chuyển ứng dụng gốc."</string>
 	<string name="ble_wait_verify_code">Đang tạo mã trên thiết bị mới…</string>
-	<string formatted="false" name="dialog_request_permission_message_link">&lt;Data&gt;"Đồng thời, để hiểu đầy đủ quyền của bạn với tư cách là người dùng cũng như cách chúng tôi sử dụng dữ liệu của bạn, hãy đọc và đồng ý với &lt;a href='%1s'&gt;Thỏa thuận Người dùng&lt;/a&gt; và &lt;a href='%2s'&gt;Chính sách Riêng tư&lt;/a&gt; của chúng tôi."&lt;/Data&gt;</string>
+	<string formatted="false" name="dialog_request_permission_message_link">&lt;Data&gt;"Đồng thời, để hiểu đầy đủ quyền của bạn với tư cách là người dùng cũng như cách chúng tôi sử dụng dữ liệu của bạn, hãy đọc và đồng ý với &lt;a href="%1s"&gt;Thỏa thuận Người dùng&lt;/a&gt; và &lt;a href="%2s"&gt;Chính sách Riêng tư&lt;/a&gt; của chúng tôi."&lt;/Data&gt;</string>
 	<string name="restore_data_to_device_title">Khôi phục các mục vào thiết bị này</string>
 	<string name="sync_data_to_mi_cloud_content2">%d. Chạm \"Sao lưu ngay\" trên tab \"Ảnh\".</string>
 	<string name="sync_data_to_mi_cloud_content1">%d. Chạm \"Đồng bộ ngay\" trên tab \"Liên hệ\".</string>
