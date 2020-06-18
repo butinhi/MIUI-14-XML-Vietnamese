@@ -2447,5 +2447,17 @@ Bạn có muốn đóng trang không?"</string>
 	<string name="fingerprint_repeat_area">Di chuyển ngón tay của bạn để ghi lại tất cả các phần của vân tay</string>
 	<string name="miaudiovisual_notification_summary">Bật để hiển thị hiệu ứng trên Màn hình khóa</string>
 	<string name="miaudiovisual_notification_title">Âm thanh và hiệu ứng hình ảnh</string>
-	<string name="status_bar_ethernet">Internet</string>
+	<string name="status_bar_ethernet">Mạng</string>
+	<string name="wifi_cannot_connect_with_randomized_mac_title">Không thể kết nối tới %1$s</string>
+	<string name="wifi_disable_mac_randomization_dialog_confirm_text">Thay đổi cài đặt</string>
+	<string name="wifi_disable_mac_randomization_dialog_failure">Không thể thay đổi cài đặt riêng tư</string>
+	<string name="wifi_cannot_connect_with_randomized_mac_message">Chạm để thay đổi cài đặt riêng tư và thử lại</string>
+	<string name="wfc_mode_ims_preferred_summary">Ims Ưa thích</string>
+	<string name="wifi_disable_mac_randomization_dialog_success">Cài đặt đã cập nhật. Đang thử kết nối lại.</string>
+	<string name="notification_channel_sim_high_prio">Trạng thái SIM ưu tiên cao</string>
+	<string name="wifi_disable_mac_randomization_dialog_network_not_found">Không tìm thấy mạng</string>
+	<string name="wifi_disable_mac_randomization_dialog_title">Thay đổi cài đặt riêng tư?</string>
+	<string name="wifi_disable_mac_randomization_dialog_message">"%1$s có thể muốn kết nối bằng địa chỉ MAC của thiết bị, một mã định danh duy nhất. Điều này có thể khiến vị trí thiết bị bị theo dõi bởi thiết bị lân cận. 
+
+Nếu bạn tiếp tục, %1$s sẽ thay đổi cài đặt riêng tư của bạn và thử kết nối lại."</string>
 </resources>

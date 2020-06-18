@@ -443,4 +443,6 @@ d/M"</string>
 	<string name="super_wallpaper_date">"EEaa
 dd/M"</string>
 	<string name="disable_aod_in_dark_room">Tắt khi đặt ở chỗ tối</string>
+	<string name="super_wallpaper_date_inter">"EEEE
+dd/M"</string>
 </resources>

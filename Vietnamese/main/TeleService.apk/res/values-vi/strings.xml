@@ -2960,4 +2960,21 @@ Luôn sử dụng số này"</string>
 	<string name="select_apn_cancel">Hủy</string>
 	<string name="select_apn_title">"Chọn APN "</string>
 	<string name="num_retry">"Số lần thử lại: "</string>
+	<string name="wifi_whitelist_roaming">Cầu nối SSID ‑ Chuyển giao nhanh</string>
+	<string name="wifi_unsaved_network_linking_summary">Bật tự động thử kết nối tới SSID WPA/WPA2‑PSK 5GHz mới với thông tin đăng nhập của SSID WPA/WPA2‑PSK 2GHz hiện tại trên một phần khớp SSID và BSSID</string>
+	<string name="wifi_whitelist_roaming_summary">Bật chuyển vùng giữa SSID WPA/WPA2‑PSK của điểm truy cập với cùng địa chỉ cổng MAC</string>
+	<string name="wifi_unsaved_network_linking">Cầu nối SSID ‑ Tự động Kết nối</string>
+	<string name="callFailed_emergency_call_over_wfc_not_available">Cuộc gọi khẩn cấp qua gọi Wi-Fi không khả dụng tại vị trí này.</string>
+	<string name="limited_sim_function_notification_message">%1$s cuộc gọi và dịch vụ dữ liệu có thể bị chặn khi sử dụng SIM khác.</string>
+	<string name="callFailed_wfc_service_not_available_in_this_location">Gọi Wi-Fi không khả dụng tại vị trí này.</string>
+	<string name="limited_sim_function_with_phone_num_notification_message">%1$s cuộc gọi và dịch vụ dữ liệu có thể bị chặn khi đang sử dụng %2$s.</string>
+	<string name="roaming_on_notification_title">Chuyển vùng dữ liệu đang bật</string>
+	<string name="limited_sim_function_notification_title">Giới hạn tính năng SIM</string>
+	<string name="roaming_enabled_message">Phí chuyển vùng có thể áp dụng. Chạm để thay đổi.</string>
+	<string name="limited_service_alert_dialog_description">&lt;b&gt;Cuộc gọi khẩn cấp qua Gọi Wi-Fi&lt;/b&gt;"
+Cuộc gọi khẩn cấp không thể gọi qua Wi-Fi. 
+
+Thiết bị tự động chuyển sang mạng di động (2G/3G) để gọi khẩn cấp. 
+
+Cuộc gọi khẩn cấp chỉ khả dụng trong vùng phủ sóng mạng di động."</string>
 </resources>

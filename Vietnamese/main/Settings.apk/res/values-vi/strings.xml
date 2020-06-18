@@ -10227,4 +10227,7 @@ Nếu bạn không đồng ý cấp các quyền đó, bạn sẽ không thể s
 	<string name="wifi_assistant_auto_confirm_data_help">Bạn có thể tắt tính năng này trong Cài đặt &gt; Wi-Fi &gt; Trợ lý Wi-Fi.</string>
 	<string name="launch_ai_shortcut">Lối tắt Mi AI</string>
 	<string name="double_knock">Gõ hai lần</string>
+	<string name="bluetooth_unlock_unsupport">Phiên bản không hỗ trợ</string>
+	<string name="bluetooth_unlock_reject">Thiết bị điều khiển từ chối yêu cầu mở khóa</string>
+	<string name="bluetooth_unlock_confirm_device_text_for_mi_wear">Xác nhận trên thiết bị</string>
 </resources>

@@ -596,4 +596,8 @@ Lưu trữ thông tin xác thực có thể không bật</string>
 Chất lượng phát"</string>
 	<string name="bluetooth_select_a2dp_codec_lhdc_latency">Codec Âm thanh Bluetooth LHDC: Độ trễ</string>
 	<string name="bluetooth_select_a2dp_codec_lhdc_playback_quality">Codec Âm thanh Bluetooth LHDC: Chất lượng phát</string>
+	<string name="wifi_whitelist_roaming">Cầu nối SSID ‑ Chuyển giao nhanh</string>
+	<string name="wifi_unsaved_network_linking_summary">Bật tự động thử kết nối tới SSID WPA/WPA2‑PSK 5GHz mới với thông tin đăng nhập của SSID WPA/WPA2‑PSK 2GHz hiện tại trên một phần khớp SSID và BSSID</string>
+	<string name="wifi_whitelist_roaming_summary">Bật chuyển vùng giữa SSID WPA/WPA2‑PSK của điểm truy cập với cùng địa chỉ cổng MAC</string>
+	<string name="wifi_unsaved_network_linking">Cầu nối SSID ‑ Tự động Kết nối</string>
 </resources>
