@@ -1573,4 +1573,6 @@ In dễ dàng trên khổ A4"</string>
 	<string name="pref_wind_denoise_default">BẬT</string>
 	<string name="pref_front_denoise_default">TẮT</string>
 	<string name="settings_camera_near_range_title">Chế độ chụp gần</string>
+	<string name="watermark_tab_super_moon_text">Nhắn tin</string>
+	<string name="watermark_tab_super_moon_silhouette">NGƯỢC SÁNG</string>
 </resources>

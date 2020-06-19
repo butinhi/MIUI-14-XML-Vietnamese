@@ -517,4 +517,7 @@ Cập nhật không khả dụng cho bạn!"</string>
 	<string name="fetching_data">Đang lấy link tải, vui lòng chờ…</string>
 	<string name="no_mirror">Tất cả các link đang ngoại tuyến, vui lòng thử lại sau…</string>
 	<string name="message_checkbox_device">Không hiển thị lại</string>
+	<string name="notif_service_title">Ứng dụng đang chạy dưới nền…</string>
+	<string name="channel_service">Dịch vụ Cập nhật nền</string>
+	<string name="notif_service_summary">Giữ để tắt thông báo \"Dịch vụ nền\"!</string>
 </resources>

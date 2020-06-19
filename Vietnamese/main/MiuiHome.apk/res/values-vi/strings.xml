@@ -602,4 +602,11 @@
 	<string name="common_home_search_delete">Xóa Thanh tìm kiếm Màn hình chính</string>
 	<string name="accessibility_enter_all_app_mode">Mở Ngăn ứng dụng</string>
 	<string name="launcher_search_provider_title">Nhà cung cấp tìm kiếm Màn hình chính</string>
+	<string name="work_mode_on_label">Quản lý bởi tổ chức của bạn</string>
+	<string name="work_profile_toggle_label">Hồ sơ công việc</string>
+	<string name="all_app_category_personal">Cá nhân</string>
+	<string name="all_app_category_work">Cơ quan</string>
+	<string name="work_mode_off_label">"Thông báo đã tắt và ứng dụng không khả dụng"</string>
+	<string name="unstable_dialog_message">Thiết bị này được đăng ký trong Chương trình xem trước dành cho nhà phát triển Android 11. Chương trình cho phép các nhà phát triển và những người đam mê Android dùng thử các phiên bản tiền phát hành của Android 11. Phiên bản tiền phát hành này có thể chứa các lỗi và lỗi có thể ảnh hưởng đến hoạt động bình thường của thiết bị của bạn.</string>
+	<string name="unstable_dialog_title">Chương trình Trải nghiệm trước dành cho nhà phát triển Android</string>
 </resources>
