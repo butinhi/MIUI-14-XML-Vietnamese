@@ -2337,4 +2337,16 @@ Phiên dịch có thể mất một lúc khi bạn sử dụng tính năng này 
 	<string name="online_video_vip_tip">Trở thành thành viên VIP để truyền video mà không cần tải toàn bộ</string>
 	<string name="operate_with_metered_network_msg">Thiết bị của bạn đang kết nối với mạng trả phí. Vẫn tiếp tục?</string>
 	<string name="filter_general_blackice">Đá đen</string>
+	<string name="operation_sort">Sắp xếp</string>
+	<string name="menu_detail_sort_name">Tên tệp</string>
+	<string name="menu_detail_sort_create_date">Đã tạo</string>
+	<string name="menu_detail_sort_size">Kích thước tập tin</string>
+	<string name="btn_exit_send">Thoát</string>
+	<string name="operation_show_time">Hiển thị ngày</string>
+	<string name="btn_cancel_send">Hủy lần chuyển này</string>
+	<string name="menu_detail_sort_update_date">Lần cập nhật cuối</string>
+	<string name="operation_hide_time">Ẩn ngày</string>
+	<string name="special_type_ai_audio">Âm thanh AI</string>
+	<string name="album_detail_default_sort_tip">Đã chuyển trình tự thời gian</string>
+	<string name="share_and_delete_screenshot">Xóa sau khi chia sẻ</string>
 </resources>

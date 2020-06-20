@@ -2621,4 +2621,8 @@ Chạm vào "%2$s" để bắt đầu tải xuống nội dung này vào lần t
 	<string name="the_fifth_day">Ngày Thứ năm</string>
 	<string name="mw_common_google_play_services_notification_channel_name">Phạm vi cung cấp các dịch vụ của Google Play</string>
 	<string name="mw_menu_refresh">Làm mới</string>
+	<string formatted="false" name="srl_component_falsify">"%s làm sai lệch khu vực,
+ Đại diện chiều cao [%.1fdp] kéo trong thời gian chạy,
+ Nó không hiện gì cả."
+	</string>
 </resources>

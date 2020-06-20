@@ -750,5 +750,5 @@ Cho phép Ghi chú ghi âm."</string>
 	<string name="float_todo_guide_message_v2">Lối tắt cử chỉ cho phép bạn xem và tạo nhiệm vụ bằng cách vuốt từ cạnh màn hình. Bạn có thể bật hoặc tắt tính năng này trong Cài đặt.</string>
 	<string name="float_todo_guide_title_v2">Lối tắt cử chỉ</string>
 	<string name="pref_remind_type_title_new">Nhắc nhở ưu tiên cao</string>
-	<string name="trash_folder_reminder_new">Ghi chú được giữ trong thùng rác 30 ngày trước khi bị xóa vĩnh viễn</string>
+	<string name="trash_folder_reminder_new">Ghi chú được giữ trong thùng rác %d ngày trước khi bị xóa vĩnh viễn</string>
 </resources>

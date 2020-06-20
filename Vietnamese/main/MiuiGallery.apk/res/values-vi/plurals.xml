@@ -73,7 +73,7 @@
         <item quantity="other">Xóa %d ảnh từ album này và Xiaomi Cloud?</item>
     </plurals>
     <plurals name="delete_video_from_all_devices_and_cloud_msg">
-        <item quantity="other">Xóa %d videos từ tất cả thiết bị và Xiaomi Cloud?</item>
+        <item quantity="other">Xóa %d video từ tất cả thiết bị và Xiaomi Cloud?</item>
     </plurals>
     <plurals name="delete_video_from_local">
         <item quantity="other">Xóa %d video?</item>
@@ -332,5 +332,77 @@
 	</plurals>
 	<plurals name="album_member">
 		<item quantity="other">%s người có thể thấy album này</item>
+	</plurals>
+	<plurals name="send_file_dialog_desc_received">
+		<item quantity="other">Đã nhận %2$d %3$s tệp tin (%4$s) từ %1$s</item>
+	</plurals>
+	<plurals name="send_audio_dialog_desc_received">
+		<item quantity="other">Đã nhận %2$d tệp âm thanh (%3$s) từ %1$s</item>
+	</plurals>
+	<plurals name="send_image_video_dialog_desc_received">
+		<item quantity="other">Đã nhận %2$d ảnh và video từ %1$s</item>
+	</plurals>
+	<plurals name="send_zip_dialog_desc_receiving">
+		<item quantity="other">Đang nhận %2$d tệp nén (%3$s) từ %1$s…</item>
+	</plurals>
+	<plurals name="send_image_dialog_desc">
+		<item quantity="other">%2$d ảnh từ %1$s</item>
+	</plurals>
+	<plurals name="send_image_dialog_desc_receiving">
+		<item quantity="other">Đang nhận %2$d ảnh từ %1$s…</item>
+	</plurals>
+	<plurals name="send_file_dialog_desc">
+		<item quantity="other">%2$d %3$s tệp tin (%4$s) từ %1$s</item>
+	</plurals>
+	<plurals name="send_audio_dialog_desc_receiving">
+		<item quantity="other">Đang nhận %2$d tệp âm thanh (%3$s) từ %1$s…</item>
+	</plurals>
+	<plurals name="send_image_video_dialog_desc">
+		<item quantity="other">%2$d ảnh và video từ %1$s</item>
+	</plurals>
+	<plurals name="send_more_type_file_dialog_desc">
+		<item quantity="other">%2$d tệp tin từ %1$s</item>
+	</plurals>
+	<plurals name="send_image_dialog_desc_received">
+		<item quantity="other">Đã nhận %2$d ảnh từ %1$s</item>
+	</plurals>
+	<plurals name="send_more_type_file_dialog_desc_received">
+		<item quantity="other">Đã nhận %2$d tệp tin từ %1$s</item>
+	</plurals>
+	<plurals name="send_video_dialog_desc_receiving">
+		<item quantity="other">Đang nhận %2$d video từ %1$s…</item>
+	</plurals>
+	<plurals name="send_more_type_file_dialog_desc_receiving">
+		<item quantity="other">Đang nhận %2$d tệp tin từ %1$s…</item>
+	</plurals>
+	<plurals name="send_video_dialog_desc_received">
+		<item quantity="other">Đã nhận %2$d video từ %1$s</item>
+	</plurals>
+	<plurals name="send_video_dialog_desc">
+		<item quantity="other">%2$d video từ %1$s</item>
+	</plurals>
+	<plurals name="send_zip_dialog_desc">
+		<item quantity="other">%2$d tệp nén (%3$s) từ %1$s</item>
+	</plurals>
+	<plurals name="send_audio_dialog_desc">
+		<item quantity="other">%2$d tệp âm thanh (%3$s) từ %1$s</item>
+	</plurals>
+	<plurals name="send_image_video_dialog_desc_receiving">
+		<item quantity="other">Đang nhận %2$d ảnh và video từ %1$s…</item>
+	</plurals>
+	<plurals name="send_apk_dialog_desc_received">
+		<item quantity="other">Đã nhận %2$d gói cài đặt (%3$s) từ %1$s</item>
+	</plurals>
+	<plurals name="send_zip_dialog_desc_received">
+		<item quantity="other">Đã nhận %2$d tệp nén (%3$s) từ %1$s</item>
+	</plurals>
+	<plurals name="send_apk_dialog_desc">
+		<item quantity="other">%2$d gói cài đặt (%3$s) từ %1$s</item>
+	</plurals>
+	<plurals name="send_file_dialog_desc_receiving">
+		<item quantity="other">Đang nhận %2$d %3$s tệp tin (%4$s) từ %1$s…</item>
+	</plurals>
+	<plurals name="send_apk_dialog_desc_receiving">
+		<item quantity="other">Đang nhận %2$d gói cài đặt (%3$s) từ %1$s…</item>
 	</plurals>
 </resources>

@@ -76,13 +76,13 @@
     <string name="notification_need_wifi_for_size">Yêu cầu Wi-Fi.</string>
     <string name="notification_paused_in_background">Đã tạm dừng trong nền.</string>
     <string name="wifi_required_title">Bản tải xuống quá lớn so với mạng của nhà cung cấp</string>
-    <string name="wifi_required_body" formatted="false">"Bạn phải sử dụng Wi-Fi để hoàn tất quá trình tải xuống nội dung có kích thước %s  này. 
+    <string name="wifi_required_body">"Bạn phải sử dụng Wi-Fi để hoàn tất quá trình tải xuống %1$s. 
 
-Chạm %s  để bắt đầu tải xuống nội dung này vào lần tiếp theo khi bạn kết nối với mạng Wi-Fi."</string>
+Chạm %2$s  để bắt đầu tải xuống nội dung này vào lần tiếp theo khi bạn kết nối với mạng Wi-Fi."</string>
     <string name="wifi_recommended_title">Xếp hàng đợi để tải xuống sau?</string>
-    <string name="wifi_recommended_body" formatted="false">"Việc bắt đầu tải xuống nội dung có kích thước %s  này ngay bây giờ có thể rút ngắn tuổi thọ pin của bạn và/hoặc dẫn đến việc sử dụng quá mức kết nối dữ liệu di động của bạn, điều này có thể dẫn đến việc nhà cung cấp dịch vụ di động tính phí bạn tùy theo gói dữ liệu của bạn.
+    <string name="wifi_recommended_body">"Việc bắt đầu tải xuống nội dung có kích thước %1$s  này ngay bây giờ có thể rút ngắn tuổi thọ pin của bạn và/hoặc dẫn đến việc sử dụng quá mức kết nối dữ liệu di động của bạn, điều này có thể dẫn đến việc nhà cung cấp dịch vụ di động tính phí bạn tùy theo gói dữ liệu của bạn.
 
- Chạm %s để bắt đầu tải xuống nội dung này vào lần tiếp theo khi bạn kết nối với mạng Wi-Fi."</string>
+ Chạm %2$s để bắt đầu tải xuống nội dung này vào lần tiếp theo khi bạn kết nối với mạng Wi-Fi."</string>
     <string name="button_queue_for_wifi">Hàng đợi</string>
     <string name="button_cancel_download">Hủy</string>
     <string name="button_start_now">Bắt đầu ngay bây giờ</string>

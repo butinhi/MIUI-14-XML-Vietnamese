@@ -1,10 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string-array name="ble_package_names">
-        <item></item>
-        <item>Mi Fit</item>
-        <item>Mi VR</item>
-    </string-array>
 	<string-array name="ble_profile_mi_band">
         <item>Rung khi đổ chuông</item>
         <item>Rung khi nhận tin nhắn</item>
@@ -282,5 +277,10 @@
 		<item>LHDC V1</item>
 		<item>Bật Codec Tùy chọn</item>
 		<item>Tắt Codec Tùy chọn</item>
+	</string-array>
+	<string-array name="ble_package_names">
+		<item/>
+		<item>Mi Fit</item>
+		<item/>
 	</string-array>
 </resources>

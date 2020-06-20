@@ -235,7 +235,7 @@
     <string name="resource_detail_window_title">%1$s chi tiết</string>
     <string name="resource_download">Tải xuống</string>
     <string name="resource_download_notification_title_many">%1$s chủ đề đã tải xuống</string>
-    <string name="resource_download_notification_title_one">Chủ đề đã tải xuống</string>
+    <string name="resource_download_notification_title_one">Tải xuống %1$s thành công</string>
     <string name="resource_download_trial">Thử miễn phí</string>
     <string name="resource_downloaded_title">Tài nguyên đã tải xuống</string>
     <string name="resource_downloading">Đang tải xuống</string>
