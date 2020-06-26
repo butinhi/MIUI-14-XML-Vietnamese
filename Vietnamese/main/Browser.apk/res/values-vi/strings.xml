@@ -2625,4 +2625,35 @@ Chạm vào "%2$s" để bắt đầu tải xuống nội dung này vào lần t
  Đại diện chiều cao [%.1fdp] kéo trong thời gian chạy,
  Nó không hiện gì cả."
 	</string>
+	<string name="leto_title_back">Quay lại</string>
+	<string name="leto_title_guess_you_like">Bạn cũng có thể thích</string>
+	<string name="leto_mgc_dollar">Yuan</string>
+	<string name="leto_video_go_detail">Xem chi tiết</string>
+	<string name="leto_dialog_title">Mẹo</string>
+	<string name="leto_unknown">Không xác định</string>
+	<string name="leto_permission_title_settings_dialog">Yêu cầu quyền</string>
+	<string name="leto_mgc_info_dialog_title">Mẹo</string>
+	<string name="leto_video_download_apk">Tải về ngay</string>
+	<string name="leto_mgc_bank_no">Số thẻ ngân hàng</string>
+	<string name="leto_exit">Thoát</string>
+	<string name="leto_confirm">OK</string>
+	<string name="leto_share_fail">Chia sẻ thất bại</string>
+	<string name="leto_mgc_continue">Tiếp tục</string>
+	<string name="leto_game_restart_button">OK</string>
+	<string name="leto_minigame_setting">"Cài đặt"</string>
+	<string name="leto_game_restart">Mẹo</string>
+	<string name="xiaomi_download_game_now">Tải về ngay</string>
+	<string name="leto_know_it">Tôi biết</string>
+	<string name="leto_cancel">Hủy</string>
+	<string name="leto_permission_rationale_ask">Ứng dụng này có thể hoạt động không chính xác nếu không có quyền được yêu cầu.</string>
+	<string name="leto_mgc_title_me">"Cài đặt"</string>
+	<string name="leto_share">Chia sẻ</string>
+	<string name="leto_loading">Đang tải...</string>
+	<string name="leto_btn_send_sms">Nhận mã xác minh</string>
+	<string name="leto_permission_rationale_ask_again">Ứng dụng này có thể hoạt động không chính xác nếu không có quyền được yêu cầu. Mở màn hình cài đặt ứng dụng để tùy chỉnh quyền của ứng dụng.</string>
+	<string name="leto_close">"Đóng"</string>
+	<string name="leto_mgc_name">Tên</string>
+	<string name="leto_retry">Thử lại</string>
+	<string name="leto_minigame_clear_cache">Xóa bộ nhớ cache</string>
+	<string name="leto_mgc_exchange_now">Mua lại ngay</string>
 </resources>

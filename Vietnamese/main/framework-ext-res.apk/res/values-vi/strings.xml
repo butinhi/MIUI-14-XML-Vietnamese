@@ -311,4 +311,6 @@
 	<string name="bluetooth_enable_notification_content">%s đã bật Bluetooth</string>
 	<string name="bluetooth_enable_notification_title">Bluetooth đã bật</string>
 	<string name="bluetooth_disable_notification_content">%s đã tắt Bluetooth</string>
+	<string name="miui_m_com_tencent_tmgp_pubgmhd">An bình</string>
+	<string name="miui_m_com_tencent_tmgp_sgame">King of Glory</string>
 </resources>

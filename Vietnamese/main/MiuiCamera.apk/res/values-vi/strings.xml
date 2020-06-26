@@ -1575,4 +1575,16 @@ In dễ dàng trên khổ A4"</string>
 	<string name="settings_camera_near_range_title">Chế độ chụp gần</string>
 	<string name="watermark_tab_super_moon_text">Nhắn tin</string>
 	<string name="watermark_tab_super_moon_silhouette">NGƯỢC SÁNG</string>
+	<string name="settings_camera_near_range_description">Xóa hiệu ứng làm mờ độ sâu trường ảnh khi chụp các đối tượng cận cảnh</string>
+	<string name="module_name_super_moon">Siêu trăng</string>
+	<string name="super_moon_improve_effect_tips">Đưa mặt trăng vào trong vòng tròn</string>
+	<string name="video_bokeh_zoom_out">Thu nhỏ</string>
+	<string name="pref_camera_dynamic_frame_rate_title">Tốc độ khung hình tự động ánh sáng yếu</string>
+	<string name="video_bokeh_zoom_in">Phóng to</string>
+	<string name="pref_hdr10_video_mode_description">Hỗ trợ video mã hóa H.265 độ phân giản 4K, 8K</string>
+	<string name="video_bokeh_color_point">Điểm màu</string>
+	<string name="extend_time_watermark_2_logo_text">SIÊU TRĂNG</string>
+	<string name="video_bokeh_blur">Mờ</string>
+	<string name="pref_camera_dynamic_frame_rate_summary">Để cải thiện chất lượng hình ảnh trong môi trường ánh sáng yếu, tốc độ khung hình được tự động giảm từ 60FPS xuống 33FPS</string>
+	<string name="video_bokeh_spin">Quay</string>
 </resources>

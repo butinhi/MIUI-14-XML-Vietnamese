@@ -1307,4 +1307,7 @@ Vui lòng gửi mã này cho kỹ thuật viên."</string>
 	<string name="mgsdk_text_alipay_remind_title">Hướng dẫn thanh toán miễn phí</string>
 	<string name="mgsdk_text_alipay_remind_4">Thứ tự ghi nợ: vui lòng xem "Alipay-My-Avatar-Cài đặt-Cài đặt thanh toán-Phương thức thanh toán mặc định"</string>
 	<string name="mgsdk_text_alipay_remind_5">Nếu bạn muốn đóng thanh toán không có bí mật, vui lòng sử dụng tài khoản Alipay đã ký để đăng nhập vào ứng dụng khách của Alipay để hủy hợp đồng. Các bước hoạt động là "Alipay-My-Cài đặt-Cài đặt thanh toán-Thanh toán tự động / Khấu trừ tự động"</string>
+	<string name="fm_detai_add_icon">%s tạo thành công Lối tắt Màn hình chính</string>
+	<string name="fm_sort_weight">Sắp xếp toàn bộ</string>
+	<string name="play_error_program_offline">Chương trình phát sóng ngoại tuyến</string>
 </resources>

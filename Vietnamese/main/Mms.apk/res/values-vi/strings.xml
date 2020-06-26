@@ -1501,4 +1501,5 @@ Xem qua trang đề xuất!"</string>
 	<string name="verification_code_safety_warning">"Không tiết lộ các mã này cho người khác"</string>
 	<string name="top_conversation">Cuộc trò chuyện được ghim</string>
 	<string name="voice_report_wiredon">Với tai nghe</string>
+	<string name="debug_category_others">Khác</string>
 </resources>

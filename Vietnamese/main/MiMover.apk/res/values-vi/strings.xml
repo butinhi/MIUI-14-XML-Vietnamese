@@ -856,4 +856,14 @@ Chúng tôi sẽ bảo vệ thông tin cá nhân của bạn theo luật pháp, 
 	<string name="sync_data_to_mi_cloud_content1">%d. Chạm \"Đồng bộ ngay\" trên tab \"Liên hệ\".</string>
 	<string name="backup_died_summary">Chạm \"Kết nối lại\". Quá trình chuyển sẽ tiếp tục từ lần trước.</string>
 	<string name="permission_bluetooth_summary">Để tìm kiếm thiết bị lân cận khả dụng</string>
+	<string name="dialog_wechat_data_transfer_fail_button">Tôi biết</string>
+	<string name="fm_detai_add_icon">%s tạo thành công Lối tắt Màn hình chính</string>
+	<string name="fm_sort_weight">Sắp xếp toàn bộ</string>
+	<string name="play_error_program_offline">Chương trình phát sóng ngoại tuyến</string>
+	<string name="prompt_before_transmission_message5_summary">"Chuyển một lượng lớn dữ liệu có thể khiến thiết bị nóng lên, điều đó là bình thường. Thiết bị của bạn sẽ sớm mát trở lại khi chuyển hoàn tất."</string>
+	<string name="scanner_not_support_data_transfer_tip">Không hỗ trợ di chuyển dữ liệu ứng dụng từ các điện thoại không phải của Xiaomi (bao gồm cả lịch sử trò chuyện WeChat và QQ)</string>
+	<string name="dialog_wechat_data_transfer_fail_message">"Do giới hạn của phiên bản WeChat, dữ liệu liên quan (bao gồm cả lịch sử trò chuyện) chưa được di chuyển thành công. Bạn nên sử dụng các chức năng sao lưu và di chuyển lịch sử trò chuyện trong APP WeChat để di chuyển.
+Các bước: Mở APP WeChat&gt;My&gt;Cài đặt&gt;Chung&gt;Sao lưu và di chuyển lịch sử trò chuyện."</string>
+	<string name="dialog_wechat_data_transfer_fail_title">Di chuyển dữ liệu WeChat không thành công</string>
+	<string name="prompt_before_transmission_message5_title">Thiết bị có thể nóng lên trong quá trình chuyển.</string>
 </resources>
