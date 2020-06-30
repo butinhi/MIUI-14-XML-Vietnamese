@@ -1587,4 +1587,5 @@ In dễ dàng trên khổ A4"</string>
 	<string name="video_bokeh_blur">Mờ</string>
 	<string name="pref_camera_dynamic_frame_rate_summary">Để cải thiện chất lượng hình ảnh trong môi trường ánh sáng yếu, tốc độ khung hình được tự động giảm từ 60FPS xuống 33FPS</string>
 	<string name="video_bokeh_spin">Quay</string>
+	<string name="cezanne_h_d_v">Tự động</string>
 </resources>

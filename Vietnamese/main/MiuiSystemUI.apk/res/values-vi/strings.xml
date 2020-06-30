@@ -2275,4 +2275,38 @@ d MMMM"</string>
 	<string name="partial_screenshot_edit">Sửa</string>
 	<string name="accessibility_detail_switch_on">BẬT</string>
 	<string name="accessibility_detail_switch">Chuyển ô</string>
+	<string name="user_add_profile_item_summary">Bạn có thể hạn chế quyền truy cập vào ứng dụng và nội dung từ tài khoản của bạn</string>
+	<string name="user_setup_button_setup_now">Thiết lập ngay</string>
+	<string name="profile_info_settings_title">Thông tin tiểu sử</string>
+	<string name="user_add_user_type_title">Thêm</string>
+	<string name="user_setup_profile_dialog_message">Thiết lập tiểu sử ngay bây giờ?</string>
+	<string name="adb_wireless_error">Lỗi</string>
+	<string name="adb_device_forget">Quên</string>
+	<string name="user_setup_dialog_title">Thiết lập người dùng ngay bây giờ?</string>
+	<string name="available_via_app">Khả dụng qua %1$s</string>
+	<string name="adb_wireless_device_connected_summary">Đang kết nối</string>
+	<string name="adb_wireless_qrcode_pairing_title">Quét mã QR</string>
+	<string name="battery_info_status_charging_slow">Đang sạc chậm</string>
+	<string name="cached_apps_freezer_disabled">Đã tắt</string>
+	<string name="cached_apps_freezer_device_default">Mặc định thiết bị</string>
+	<string name="user_setup_button_setup_later">Lần tới</string>
+	<string name="user_setup_dialog_message">Đảm bảo người đó có mặt để sử dụng thiết bị và thiết lập không gian của mình</string>
+	<string name="cached_apps_freezer_enabled">Đã bật</string>
+	<string name="user_add_user_item_summary">Người dùng có ứng dụng và nội dung riêng của mình</string>
+	<string name="user_set_lock_button">Thiết lập khóa</string>
+	<string name="adb_paired_devices_title">Thiết bị đã ghép nối</string>
+	<string name="storage_category">Lưu trữ</string>
+	<string name="user_need_lock_message">Trước khi bạn có thể tạo tiểu sử bị hạn chế, bạn sẽ cần thiết lập một màn hình khóa để bảo vệ các ứng dụng và dữ liệu cá nhân của bạn.</string>
+	<string name="user_add_profile_item_title">Tiểu sử bị hạn chế</string>
+	<string name="user_new_profile_name">Tiểu sử mới</string>
+	<string name="adb_wireless_device_details_title">Thông tin thiết bị</string>
+	<string name="user_info_settings_title">Thông tin người dùng</string>
+	<string name="wifi_passpoint_expired">Đã hết hạn</string>
+	<string name="user_add_user_item_title">Người dùng</string>
+	<string name="help_label">Trợ giúp &amp; Phản hồi</string>
+	<string name="user_add_user_message_long">"Bạn có thể chia sẻ thiết bị này với những người khác bằng cách thêm người dùng mới. Mỗi người dùng có không gian riêng, nơi mà họ có thể tùy chỉnh các ứng dụng, hình nền và các nội dung khác. Người dùng cũng có thể điều chỉnh cài đặt máy tính bảng có ảnh hưởng đến tất cả người dùng khác như Wi-Fi.
+
+Sau khi bạn tạo một người dùng mới, người đó cần phải trải qua quá trình cài đặt.
+
+Bất kỳ người dùng nào cũng có thể thay mặt cho tất cả người dùng khác chấp nhận cập nhật quyền truy cập của ứng dụng."</string>
 </resources>

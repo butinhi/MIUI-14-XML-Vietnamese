@@ -561,4 +561,31 @@
 	<plurals name="saved_network_checked_num">
 		<item quantity="other">Đã chọn %d mục</item>
 	</plurals>
+	<plurals name="zen_mode_conversations_count">
+		<item quantity="other">%d hội thoại</item>
+	</plurals>
+	<plurals name="app_link_open_always_summary">
+		<item quantity="other">Ứng dụng yêu cầu xử lý %d đường dẫn</item>
+	</plurals>
+	<plurals name="lockpassword_password_requires_nonnumerical">
+		<item quantity="other">Cần chứa ít nhất %d ký tự không phải số</item>
+	</plurals>
+	<plurals name="zen_mode_other_sounds_summary">
+		<item quantity="other">%s có thể gián đoạn</item>
+	</plurals>
+	<plurals name="notification_history_count">
+		<item quantity="other">%d thông báo</item>
+	</plurals>
+	<plurals name="accessibilty_autoclick_preference_subtitle_medium_delay">
+		<item quantity="other">Trung bình (%1$s giây)</item>
+	</plurals>
+	<plurals name="interact_across_profiles_number_of_connected_apps">
+		<item quantity="other">%d ứng dụng đã kết nối</item>
+	</plurals>
+	<plurals name="accessibilty_autoclick_delay_unit_second">
+		<item quantity="other">%1$s giây</item>
+	</plurals>
+	<plurals name="zen_mode_contacts_count">
+		<item quantity="other">%d liên hệ</item>
+	</plurals>
 </resources>

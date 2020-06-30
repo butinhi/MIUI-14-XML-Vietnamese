@@ -1502,4 +1502,10 @@ Xem qua trang đề xuất!"</string>
 	<string name="top_conversation">Cuộc trò chuyện được ghim</string>
 	<string name="voice_report_wiredon">Với tai nghe</string>
 	<string name="debug_category_others">Khác</string>
+	<string name="debug_title">Gỡ lỗi</string>
+	<string name="debug_enable_success">Gỡ lỗi khả dụng</string>
+	<string name="debug_about_mms">Về Tin nhắn</string>
+	<string name="debug_export_db">Xuất Cơ sở dữ liệu</string>
+	<string name="debug_category_db">Cơ sở dữ liệu</string>
+	<string name="debug_close_success">Gỡ lỗi không khả dụng</string>
 </resources>

@@ -313,4 +313,6 @@
 	<string name="bluetooth_disable_notification_content">%s đã tắt Bluetooth</string>
 	<string name="miui_m_com_tencent_tmgp_pubgmhd">An bình</string>
 	<string name="miui_m_com_tencent_tmgp_sgame">King of Glory</string>
+	<string name="content_description_next">Tiếp theo</string>
+	<string name="content_description_previous">Trước</string>
 </resources>

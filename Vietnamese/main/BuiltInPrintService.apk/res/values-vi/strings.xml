@@ -46,4 +46,10 @@
 	<string name="accept">Chấp nhận</string>
 	<string name="connections">Kết nối</string>
 	<string name="security">Bảo mật</string>
+	<string name="print">In</string>
+	<string name="recommendations_heading">Dịch vụ được đề xuất</string>
+	<string name="recommendation_enable_summary">Chọn để bật</string>
+	<string name="recommendation_manage">Quản lý dịch vụ</string>
+	<string name="recommendation_summary">Dịch vụ in mặc định cung cấp các tùy chọn cơ bản. Các tùy chọn khác cho máy in này có thể khả dụng từ các dịch vụ in khác.</string>
+	<string name="recommendation_install_summary">Chọn để cài đặt</string>
 </resources>

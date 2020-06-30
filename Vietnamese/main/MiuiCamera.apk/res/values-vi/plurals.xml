@@ -12,4 +12,7 @@
 	<plurals name="clone_guide_tip2">
 		<item quantity="other">Bạn có thể tạo đến %d bản sao một lúc.</item>
 	</plurals>
+	<plurals name="timer_burst_setting_total_count">
+		<item quantity="other">%1$s ảnh</item>
+	</plurals>
 </resources>

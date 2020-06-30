@@ -905,4 +905,7 @@ Nếu bạn không đồng ý cấp các quyền đó hoặc chia sẻ và tải
 	<string name="send_last_location_summary">Đồng bộ thông tin vị trí khi thiết bị sắp tắt nguồn</string>
 	<string name="find_device_status_summary">Định vị và khóa thiết bị, cũng như xóa dữ liệu từ xa</string>
 	<string name="send_last_location_title">Định vị trước khi tắt nguồn</string>
+	<string name="storage_manage_normal_summary">Thay đổi gói lưu trữ đám mây</string>
+	<string name="storage_manage_cloud_data_title">Xem các mục trên đám mây</string>
+	<string name="storage_manage_full_summary">Lưu trữ đám mây đã đầy. Nâng cấp gói dung lượng của bạn.</string>
 </resources>

@@ -69,4 +69,20 @@ Khóa: %2$s
 	<string name="action_missing_private_key">Khóa riêng tư yêu cầu cài đặt một chứng chỉ</string>
 	<string name="action_missing_user_cert">Chứng chỉ yêu cầu cài đặt một khóa riêng tư</string>
 	<string name="userkey_type">Thuật toán:</string>
+	<string name="ca_certificate">Chứng chỉ CA</string>
+	<string name="redirect_ca_certificate_close_button">Đóng</string>
+	<string name="invalid_certificate_close_button">Đóng</string>
+	<string name="certificate">Chứng chỉ</string>
+	<string name="invalid_certificate_message">"Tệp tin này không thể sử dụng như một %1$s"</string>
+	<string name="redirect_ca_certificate_title">"Không thể cài đặt chứng chỉ CA"</string>
+	<string name="select_certificate_usage_title">Chọn loại chứng chỉ</string>
+	<string name="user_certificate">VPN &amp; chứng chỉ ứng dụng người dùng</string>
+	<string name="certificate_name">Tên chứng chỉ</string>
+	<string name="user_cert_is_added">Đã cài đặt chứng chỉ người dùng</string>
+	<string name="wifi_certificate">Chứng chỉ Wi-Fi</string>
+	<string name="cert_temp_error">Tạm thời thất bại. Vui lòng thử lại sau.</string>
+	<string name="wifi_cert_is_added">Đã cài đặt chứng chỉ Wi-Fi</string>
+	<string name="invalid_certificate_title">"Không thể sử dụng tệp tin này"</string>
+	<string name="ca_cert_is_added">Đã cài đặt chứng chỉ CA</string>
+	<string name="redirect_ca_certificate_message">Chứng chỉ CA có thể khiến sự riêng tư của bạn gặp nguy hiểm và cần phải cài đặt trong Cài đặt</string>
 </resources>

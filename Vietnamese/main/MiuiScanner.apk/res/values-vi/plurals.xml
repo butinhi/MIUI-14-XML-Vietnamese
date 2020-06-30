@@ -3,4 +3,7 @@
 	<plurals name="choosed">
 		<item quantity="other">Đã chọn %1$d mục</item>
 	</plurals>
+	<plurals name="monitoringHistory_deleteAlert">
+		<item quantity="other">Bạn có chắc muốn xóa %1$d bản ghi này?</item>
+	</plurals>
 </resources>

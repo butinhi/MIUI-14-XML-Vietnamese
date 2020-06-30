@@ -358,4 +358,5 @@ An toàn và bảo mật"</string>
 	<string name="can_not_create_kid_space_in_phone_toast">Không gian của trẻ em không thể được kích hoạt trong khi gọi</string>
 	<string name="can_not_exist_kid_space_in_phone_toast">Không gian của trẻ em không thể được thoát trong khi gọi</string>
 	<string name="can_not_delete_kid_space_in_phone_toast">Không gian của trẻ em không thể bị xóa trong khi gọi</string>
+	<string name="ew_title_back">Quay lại</string>
 </resources>

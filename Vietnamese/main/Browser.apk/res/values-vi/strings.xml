@@ -2656,4 +2656,6 @@ Chạm vào "%2$s" để bắt đầu tải xuống nội dung này vào lần t
 	<string name="leto_retry">Thử lại</string>
 	<string name="leto_minigame_clear_cache">Xóa bộ nhớ cache</string>
 	<string name="leto_mgc_exchange_now">Mua lại ngay</string>
+	<string name="xiaomi_download_game">Tải về ngay</string>
+	<string name="xiaomi_open_game_now">Mở ngay</string>
 </resources>

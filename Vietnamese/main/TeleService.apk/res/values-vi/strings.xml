@@ -2977,4 +2977,139 @@ Cuộc gọi khẩn cấp không thể gọi qua Wi-Fi.
 Thiết bị tự động chuyển sang mạng di động (2G/3G) để gọi khẩn cấp. 
 
 Cuộc gọi khẩn cấp chỉ khả dụng trong vùng phủ sóng mạng di động."</string>
+	<string name="radioInfo_data_connected">Đã kết nối</string>
+	<string name="band_mode_title">Đặt chế độ dải tần số</string>
+	<string name="user_setup_button_setup_now">Thiết lập ngay</string>
+	<string name="radio_info_ppp_received_label">Đã nhận dữ liệu:</string>
+	<string name="radio_info_band_mode_label">Chọn dải tần số</string>
+	<string name="radio_info_message_waiting_label">Tin nhắn đang đợi:</string>
+	<string name="user_setup_profile_dialog_message">Thiết lập tiểu sử ngay bây giờ?</string>
+	<string name="radio_info_ims_reg_status_not_registered">Chưa đăng ký</string>
+	<string name="adb_wireless_device_connected_summary">Đang kết nối</string>
+	<string name="wifi_security_short_none_owe">Không/OWE</string>
+	<string name="network_4G_pure">4G</string>
+	<string name="phone_in_ecm_notification_complete_time_without_data_restriction_hint">Đến khi %s</string>
+	<string name="radioInfo_display_dbm">"dBm"</string>
+	<string name="carrier_provisioning">Thông tin cấp phép nhà cung cấp dịch vụ</string>
+	<string name="radioInfo_service_in">Đang phục vụ</string>
+	<string name="radioInfo_data_disconnected">Ngắt kết nối</string>
+	<string name="radio_info_set_perferred_label">Đặt loại mạng ưa thích:</string>
+	<string name="radio_info_call_redirect_label">Chuyển hướng cuộc gọi:</string>
+	<string name="user_add_user_item_summary">Người dùng có ứng dụng và nội dung riêng của mình</string>
+	<string name="wifi_security_none_owe">Không/Enhanced Open</string>
+	<string name="radio_info_voice_network_type_label">Loại mạng thoại:</string>
+	<string name="guest_nickname">Khách</string>
+	<string name="radioInfo_menu_viewSDN">Xem Số Quay số Dịch vụ</string>
+	<string name="user_need_lock_message">Trước khi bạn có thể tạo tiểu sử bị hạn chế, bạn sẽ cần thiết lập một màn hình khóa để bảo vệ các ứng dụng và dữ liệu cá nhân của bạn.</string>
+	<string name="user_new_profile_name">Tiểu sử mới</string>
+	<string name="radio_info_call_status_label">Trạng thái gọi thoại:</string>
+	<string name="radioInfo_display_packets">pkts</string>
+	<string name="dsds_dialog_cancel">Hủy</string>
+	<string name="radio_info_phone_number_label">Số điện thoại:</string>
+	<string name="wifi_passpoint_expired">Đã hết hạn</string>
+	<string name="user_add_user_item_title">Người dùng</string>
+	<string name="radio_info_ims_feature_status_unavailable">Không có</string>
+	<string name="radioInfo_display_asu">"Asu"</string>
+	<string name="phone_info_label">"Thông tin điện thoại "</string>
+	<string name="phone_index_label">Chọn chỉ số điện thoại</string>
+	<string name="radio_info_toggle_dns_check_label">Chuyển sang kiểm tra DNS</string>
+	<string name="adb_wireless_error">Lỗi</string>
+	<string name="radioInfo_service_out">Ngừng phục vụ</string>
+	<string name="radio_info_ims_reg_status_title">Trạng thái IMS</string>
+	<string name="radio_info_ims_reg_status">"Đăng ký IMS: %1$s
+Thoại trên nền LTE: %2$s
+Thoại qua Wi-Fi: %3$s
+Gọi điện video: %4$s
+Giao diện UT: %5$s"</string>
+	<string name="guest_exit_guest">XÓA KHÁCH</string>
+	<string name="user_setup_button_setup_later">Lần tới</string>
+	<string name="dsds_dialog_title">Khởi động lại?</string>
+	<string name="radio_info_data_connection_disable">Tắt kết nối dữ liệu</string>
+	<string name="cached_apps_freezer_enabled">Đã bật</string>
+	<string name="radio_info_radio_power">Cường độ của sóng di động</string>
+	<string name="radio_info_subid">subId hiện tại:</string>
+	<string name="radioInfo_roaming_not">Không chuyển vùng</string>
+	<string name="trigger_carrier_provisioning">Kích hoạt nhà cung cấp dịch vụ</string>
+	<string name="ping_test_label">Chạy kiểm tra ping</string>
+	<string name="radio_info_current_network_label">Mạng hiện tại</string>
+	<string name="radioInfo_roaming_in">Chuyển vùng</string>
+	<string name="radioInfo_service_off">Tắt Radio</string>
+	<string name="radioInfo_menu_viewFDN">Xem Số quay định sẵn</string>
+	<string name="storage_category">Lưu trữ</string>
+	<string name="user_add_profile_item_title">Tiểu sử bị hạn chế</string>
+	<string name="band_mode_succeeded">Thành công</string>
+	<string name="cbrs_data_switch_string">Dữ liệu Cbrs</string>
+	<string name="radio_info_imei_label">"IMEI:"</string>
+	<string name="adb_wireless_device_details_title">Thông tin thiết bị</string>
+	<string name="band_mode_set">Đặt</string>
+	<string name="radioInfo_phone_idle">Nghỉ</string>
+	<string name="dsds_dialog_message">Bạn cần khởi động lại thiết bị để thay đổi cài đặt này.</string>
+	<string name="radio_info_roaming_label">Chuuyển vùng:</string>
+	<string name="radio_info_dl_kbps">Băng thông DL (kbps):</string>
+	<string name="band_mode_failed">Không thành công</string>
+	<string name="user_add_profile_item_summary">Bạn có thể hạn chế quyền truy cập vào ứng dụng và nội dung từ tài khoản của bạn</string>
+	<string name="radio_info_gsm_service_label">Dịch vụ thoại:</string>
+	<string name="dsds_switch_string">Bật DSDS</string>
+	<string name="radio_info_data_connection_enable">Bật kết nối dữ liệu</string>
+	<string name="radioInfo_unknown">Không xác định</string>
+	<string name="adb_wireless_qrcode_pairing_title">Quét mã QR</string>
+	<string name="radioInfo_cid">CID</string>
+	<string name="radioInfo_data_connecting">Đang kết nối</string>
+	<string name="cached_apps_freezer_disabled">Đã tắt</string>
+	<string name="cached_apps_freezer_device_default">Mặc định thiết bị</string>
+	<string name="radioInfo_service_emergency">Chỉ cuộc gọi khẩn cấp</string>
+	<string name="radio_info_ppp_resets_label">Số lần đặt lại PPP kể từ khi khởi động:</string>
+	<string name="user_add_user_title">Thêm người dùng mới?</string>
+	<string name="user_setup_dialog_message">Đảm bảo người đó có mặt để sử dụng thiết bị và thiết lập không gian của mình</string>
+	<string name="radioInfo_phone_offhook">Đang gọi</string>
+	<string name="band_mode_loading">Đang tải danh sách băng tần…</string>
+	<string name="radio_info_ping_hostname_v4">Tên máy chủ Ping (www.google.com) IPv4:</string>
+	<string name="wfc_provisioned_switch_string">Đã cấp phép gọi điện qua Wi-Fi</string>
+	<string name="user_set_lock_button">Thiết lập khóa</string>
+	<string name="radioInfo_menu_viewADN">Xem sổ địa chỉ trên SIM</string>
+	<string name="guest_new_guest">Thêm khách</string>
+	<string name="radio_info_smsc_update_label">Cập nhật</string>
+	<string name="radioInfo_menu_getIMS">Trạng thái dịch vụ IMS</string>
+	<string name="user_new_user_name">Người dùng mới</string>
+	<string name="radio_info_phy_chan_config">Cấu hình kênh vật lý LTE:</string>
+	<string name="radio_info_signal_location_label">Thông tin vị trí mạng di động (không dùng nữa):</string>
+	<string name="radio_info_ping_hostname_v6">Tên máy chủ Ping (www.google.com) IPv6:</string>
+	<string name="radio_info_cellinfo_label">Tấtcả thông tin đo lường di động:</string>
+	<string name="radio_info_ims_feature_status_available">Khả dụng</string>
+	<string name="radio_info_gprs_service_label">Dịch vụ dữ liệu:</string>
+	<string name="radioInfo_display_bytes">byte</string>
+	<string name="radio_info_data_network_type_label">Loại mạng di động:</string>
+	<string name="help_label">Trợ giúp &amp; Phản hồi</string>
+	<string name="volte_provisioned_switch_string">Đã cấp phép VoLTE</string>
+	<string name="user_add_user_message_long">"Bạn có thể chia sẻ thiết bị này với những người khác bằng cách thêm người dùng mới. Mỗi người dùng có không gian riêng, nơi mà họ có thể tùy chỉnh các ứng dụng, hình nền và các nội dung khác. Người dùng cũng có thể điều chỉnh cài đặt máy tính bảng có ảnh hưởng đến tất cả người dùng khác như Wi-Fi.
+
+Sau khi bạn tạo một người dùng mới, người đó cần phải trải qua quá trình cài đặt.
+
+Bất kỳ người dùng nào cũng có thể thay mặt cho tất cả người dùng khác chấp nhận cập nhật quyền truy cập của ứng dụng."</string>
+	<string name="profile_info_settings_title">Thông tin tiểu sử</string>
+	<string name="eab_provisioned_switch_string">EAB/Hiện diện được cấp phép</string>
+	<string name="user_add_user_type_title">Thêm</string>
+	<string name="radio_info_signal_strength_label">Cường độ tín hiệu:</string>
+	<string name="adb_device_forget">Quên</string>
+	<string name="user_setup_dialog_title">Thiết lập người dùng ngay bây giờ?</string>
+	<string name="available_via_app">Khả dụng qua %1$s</string>
+	<string name="radioInfo_phone_ringing">Đang rung chuông</string>
+	<string name="battery_info_status_charging_slow">Đang sạc chậm</string>
+	<string name="radio_info_smsc_refresh_label">Làm mới</string>
+	<string name="radioInfo_data_suspended">Bị ngưng</string>
+	<string name="adb_paired_devices_title">Thiết bị đã ghép nối</string>
+	<string name="radioInfo_lac">LAC</string>
+	<string name="radio_info_ul_kbps">Băng thông UL (kbps):</string>
+	<string name="radio_info_dds">SubId của SIM dữ liệu mặc định:</string>
+	<string name="radio_info_http_client_test">Kiểm tra máy khách HTTP:</string>
+	<string name="radio_info_ims_reg_status_registered">Đã đăng ký</string>
+	<string name="radio_info_cell_info_refresh_rate">Tốc độ làm mới thông tin mạng di động:</string>
+	<string name="user_info_settings_title">Thông tin người dùng</string>
+	<string name="user_add_user_message_short">"Khi bạn thêm người dùng mới, người này cần thiết lập không gian của họ.
+
+Bất cứ người dùng nào cũng có thể cập nhật ứng dụng cho người dùng khác."</string>
+	<string name="radio_info_ppp_sent_label">Đã gửi dữ liệu:</string>
+	<string name="oem_radio_info_label">Thông tin/Cài đặt OEM cụ thể</string>
+	<string name="dsds_dialog_confirm">Khởi động lại</string>
+	<string name="vt_provisioned_switch_string">Đã cấp phép gọi điện video</string>
 </resources>

@@ -70,4 +70,5 @@
 	<string name="doc_photo_confirm">Thoát</string>
 	<string name="doc_photo_cancel">Hủy</string>
 	<string name="doc_photo_idcard_alert_msg">Hủy tất cả thay đổi và thoát trình chỉnh sửa?</string>
+	<string name="refocus_type_movie_relighting">Phim điện ảnh</string>
 </resources>

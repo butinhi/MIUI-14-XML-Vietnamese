@@ -23,4 +23,8 @@
 	<string name="toggle_button_off">Tắt</string>
 	<string name="toggle_button_on">Bật</string>
 	<string name="dance">Nhảy</string>
+	<string name="pop">Pop</string>
+	<string name="rock">Rock</string>
+	<string name="hip_hop">Hip Hop</string>
+	<string name="jazz">Jazz</string>
 </resources>

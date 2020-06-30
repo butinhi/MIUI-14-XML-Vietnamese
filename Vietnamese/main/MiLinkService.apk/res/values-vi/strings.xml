@@ -449,4 +449,14 @@ Nếu cả hai thiết bị không thể kết nối tới cùng một mạng, b
 	<string name="chinese_symbol_animals_dog">Tuất</string>
 	<string name="pm">CH</string>
 	<string name="the_fifth_day">Ngày Thứ năm</string>
+	<string name="dialog_scan_message">"1. Kết nối cả điện thoại và TV vào cùng mạng Wi-Fi.
+
+2. Trên một số mẫu TV, tính năng này chỉ khả dụng khi phản chiếu màn hình bật. Xem \"Trợ giúp\" để biết thêm chi tiết."</string>
+	<string name="dialog_no_device_message">&lt;Data&gt;1. Kết nối cả điện thoại và TV vào cùng mạng Wi-Fi.&lt;br&gt;&lt;br&gt;2. Trên một số mẫu TV, tính năng này chỉ khả dụng khi phản chiếu màn hình bật. Xem &lt;a href=milink://com.milink.service/specification&gt;\"Trợ giúp\"&lt;/a&gt; để biết thêm chi tiết.&lt;/Data&gt;</string>
+	<string name="dialog_scan_message_china">"1. Kết nối cả điện thoại và TV vào cùng mạng Wi-Fi.
+
+2. Trên một số mẫu TV, tính năng này chỉ khả dụng khi phản chiếu màn hình bật. Xem \"Trợ giúp\" để biết thêm chi tiết."</string>
+	<string name="dialog_no_device_message_china">&lt;Data&gt;1. Kết nối cả điện thoại và TV vào cùng mạng Wi-Fi.&lt;br&gt;&lt;br&gt;2. Trên một số mẫu TV, tính năng này chỉ khả dụng khi phản chiếu màn hình bật. Xem &lt;a href=milink://com.milink.service/specification&gt;\"Trợ giúp\"&lt;/a&gt; để biết thêm chi tiết.&lt;/Data&gt;</string>
+	<string name="privacy_permission_wlan_china">Đang bật/tắt Wi-Fi</string>
+	<string name="privacy_permission_wlan_desc_china">Nhận thông tin về các thiết bị có thể sàng lọc gần đó</string>
 </resources>

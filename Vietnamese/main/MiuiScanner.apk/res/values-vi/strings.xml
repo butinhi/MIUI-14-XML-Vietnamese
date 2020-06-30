@@ -494,4 +494,17 @@ bạn muốn quét gì với Mi AI"</string>
 	<string name="mipayin_dialog_more">Thêm</string>
 	<string name="mipayin_dialog_title">Mở bằng</string>
 	<string name="if_open_result">Hiển thị kết quả quét khi quay trở lại ứng dụng</string>
+	<string name="document_rename">Đổi tên</string>
+	<string name="Enhance">Tăng cường</string>
+	<string name="document_region">Khu vực</string>
+	<string name="general_error">Không thể xác minh Tài khoản.</string>
+	<string name="save">Lưu</string>
+	<string name="save_as_PDF">Lưu dưới dạng PDF</string>
+	<string name="grayscale">Trắng đen</string>
+	<string name="black_and_white">Trắng đen</string>
+	<string name="pdf_save_sucess">Đã lưu thành công</string>
+	<string name="processing">Đang xử lý</string>
+	<string name="share">Chia sẻ</string>
+	<string name="monitoringCHeck_pause">Tạm dừng</string>
+	<string name="phone_storage">Lưu trữ</string>
 </resources>
