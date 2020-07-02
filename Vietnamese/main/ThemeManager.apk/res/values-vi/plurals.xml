@@ -131,4 +131,10 @@
 	<plurals name="resource_download_notification_title_many">
 		<item quantity="other">Tải xuống thành công %1$d mục</item>
 	</plurals>
+	<plurals name="detail_reward_times">
+		<item quantity="other">%s phần thưởng</item>
+	</plurals>
+	<plurals name="detail_reward_few_times">
+		<item quantity="other">%s phần thưởng</item>
+	</plurals>
 </resources>

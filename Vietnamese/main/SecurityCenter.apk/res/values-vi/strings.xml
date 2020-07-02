@@ -3927,4 +3927,7 @@ Sau khi được đặt, nếu bạn đóng ứng dụng, các quyền sẽ tr�
 	<string name="antivirus_privacy_dialog_summary_not_have_avast">&lt;Data&gt;Tính năng này sử dụng định nghĩa virus được cung cấp bởi AVL và Tencent. Đọc &lt;a href=\"%1$s\"&gt;Thỏa thuận Giấy phép&lt;/a&gt; kèm theo để biết thêm chi tiết.&lt;/Data&gt;</string>
 	<string name="antivirus_privacy_dialog_summary_not_have_tencent">&lt;Data&gt;Tính năng này sử dụng định nghĩa virus được cung cấp bởi Avast và AVL. Đọc &lt;a href=\"%1$s\"&gt;Thỏa thuận Giấy phép&lt;/a&gt; kèm theo để biết thêm chi tiết.&lt;/Data&gt;</string>
 	<string name="clean_master_icon_recall_button_text">Thêm</string>
+	<string name="clean_master_icon_recall_title">Xóa rác nhanh hơn</string>
+	<string name="clean_master_icon_recall_toast_text">Đã thêm Lối tắt Màn hình chính cho Dọn dẹp</string>
+	<string name="clean_master_icon_recall_summary">Thêm Lối tắt Màn hình chính để xóa rác bất cứ lúc nào bạn cần.</string>
 </resources>

@@ -249,4 +249,5 @@ dd/MM"</string>
 dd/MM"</string>
 	<string name="miui_lock_screen_date_two_lines_12">"EEEE
 dd/MM"</string>
+	<string name="wallpaper_group_more_system_wallpaper_title">Thêm hình nền hệ thống</string>
 </resources>

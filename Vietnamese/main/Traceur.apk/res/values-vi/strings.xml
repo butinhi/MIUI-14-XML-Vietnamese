@@ -644,4 +644,63 @@ Bất cứ người dùng nào cũng có thể cập nhật ứng dụng cho ng�
 Sau khi bạn tạo một người dùng mới, người đó cần phải trải qua quá trình cài đặt.
 
 Bất kỳ người dùng nào cũng có thể thay mặt cho tất cả người dùng khác chấp nhận cập nhật quyền truy cập của ứng dụng."</string>
+	<string name="profile_connect_timeout_subtext">Vấn đề kết nối. Tắt và bật lại thiết bị</string>
+	<string name="delete_blob_text">Xóa dữ liệu đã chia sẻ</string>
+	<string name="adb_pair_method_code_title">Ghép đôi thiết bị với mã ghép đôi</string>
+	<string name="auto_connect_disable">Đã tắt tự động kết nối</string>
+	<string name="accessor_info_title">Dữ liệu chia sẻ ứng dụng</string>
+	<string name="adb_wireless_connection_failed_message">Đảm bảo %1$s kết nối tới đúng mạng</string>
+	<string name="adb_wireless_no_network_msg">Vui lòng kết nối Wi-Fi</string>
+	<string name="adb_wireless_settings">Gỡ lỗi không dây</string>
+	<string name="imsi_protection_warning">Mạng này nhận một ID duy nhất có thể sử dụng để theo dõi vị trí thiết bị. &lt;annotation id="url"&gt;Tìm hiểu thêm&lt;/annotation&gt;</string>
+	<string name="shared_data_no_accessors_dialog_text">Không có hợp đồng cho dữ liệu được chia sẻ này. Bạn có muốn xóa nó?</string>
+	<string name="tap_to_renew_subscription_and_connect">Chạm để làm mới đăng ký và kết nối</string>
+	<string name="adb_pair_method_qrcode_summary">Ghép đôi thiết bị mới bằng cách quét mã QR</string>
+	<string name="cached_apps_freezer_reboot_dialog_text">Thiết bị của bạn cần khởi động lại để áp dụng thay đổi. Khởi động lại ngay hoặc hủy.</string>
+	<string name="wifi_enhanced_mac_randomization_summary">Khi chế độ này bật, địa chỉ MAC của thiết bị có thể thay đổi mỗi khi nó kết nối tới mạng có bật MAC ngẫu nhiên.</string>
+	<string name="enable_adb_wireless_summary">Chế độ gỡ lỗi khi kết nối Wi-Fi</string>
+	<string name="bluetooth_enable_gabeldorsche_summary">Bật tính năng Ngăn xếp Bluetooth Gabeldorsche.</string>
+	<string name="battery_info_status_charging_fast">Đang sạc nhanh</string>
+	<string name="adb_wireless_connection_failed_title">Kết nối không thành công</string>
+	<string name="adb_wireless_list_empty_off">Để thấy và sử dụng thiết bị khả dụng, bật gỡ lỗi không dây</string>
+	<string name="shared_data_summary">Xem và chỉnh sửa dữ liệu đã chia sẻ</string>
+	<string name="bluetooth_select_map_version_string">Phiên bản Bluetooth MAP</string>
+	<string name="enable_adb_wireless">Gỡ lỗi không dây</string>
+	<string name="shared_data_no_blobs_text">Không có dữ liệu chia sẻ cho người dùng này.</string>
+	<string name="adb_wireless_ip_addr_preference_title">Địa chỉ IP &amp; Cổng</string>
+	<string name="delete_blob_confirmation_text">Bạn có muốn xóa dữ liệu chia sẻ này?</string>
+	<string name="enhanced_connectivity_summary">Bật tính năng Tăng cường Kết nối.</string>
+	<string name="adb_wireless_verifying_qrcode_text">Đang ghép đôi…</string>
+	<string name="shared_data_delete_failure_text">Có lỗi xảy ra khi xóa dữ liệu chia sẻ.</string>
+	<string name="media_transfer_wired_device_name">Thiết bị âm thanh có dây</string>
+	<string name="blob_id_text">ID dữ liệu chia sẻ: %d</string>
+	<string name="adb_pair_method_code_summary">Ghép đôi thiết bị mới bằng mã sáu số</string>
+	<string name="blob_expires_text">Hết hạn lúc %s</string>
+	<string name="bluetooth_enable_gabeldorsche">Bật Gabeldorsche</string>
+	<string name="adbwifi_warning_title">Cho phép gỡ lỗi không dây?</string>
+	<string name="accessibility_work_profile_app_description">Công việc %s</string>
+	<string name="user_switch_to_user">Chuyển sang %s</string>
+	<string name="adb_wireless_qrcode_pairing_description">Ghép đôi thiết bị qua Wi-Fi bằng cách quét mã QR</string>
+	<string name="adb_pairing_device_dialog_failed_title">Ghép đôi không thành công</string>
+	<string name="adb_pairing_device_dialog_title">Ghép đôi với thiết bị</string>
+	<string name="adb_pair_method_qrcode_title">Ghép đôi thiết bị với mã QR</string>
+	<string name="adb_device_fingerprint_title_format">Dấu vân tay thiết bị: %1$s</string>
+	<string name="adb_wireless_qrcode_summary">Ghép đôi thiết bị qua Wi-Fi bằng cách quét mã QR</string>
+	<string name="accessor_expires_text">Hết hạn thuê lúc %s</string>
+	<string name="accessor_no_description_text">Ứng dụng không cung cấp mô tả.</string>
+	<string name="enable_verbose_vendor_logging">Cho phép ghi nhật ký verbose</string>
+	<string name="private_dns_broken">Không thể truy cập máy chủ DNS Riêng tư</string>
+	<string name="power_suggestion_battery_run_out">Pin có thể hết vì %1$s</string>
+	<string name="adb_pairing_device_dialog_failed_msg">Đảm bảo các thiết bị kết nối tới cùng một mạng.</string>
+	<string name="enhanced_connectivity">Tăng cường Kết nối</string>
+	<string name="enable_verbose_vendor_logging_summary">Bao gồm nhật ký nhà cung cấp cụ thể cho thiết bị bổ sung trong các báo cáo lỗi, có thể chứa thông tin cá nhân, sử dụng nhiều pin hơn và / hoặc sử dụng nhiều bộ nhớ hơn.</string>
+	<string name="bluetooth_select_a2dp_codec_type_help_info">Bị xám có nghĩa là không được điện thoại hoặc tai nghe hỗ trợ</string>
+	<string name="shared_data_title">Dữ liệu chia sẻ</string>
+	<string name="wifi_enhanced_mac_randomization">Wi-Fi‑Mac ngẫu nhiên nâng cao</string>
+	<string name="adb_qrcode_pairing_device_failed_msg">Không thể ghép nối thiết bị. Mã QR không chính xác hoặc thiết bị không được kết nối với cùng một mạng.</string>
+	<string name="adbwifi_warning_message">Gỡ lỗi không dây chỉ dành cho mục đích phát triển. Sử dụng nó để sao chép dữ liệu giữa máy tính và thiết bị của bạn, cài đặt ứng dụng trên thiết bị của bạn mà không cần thông báo và đọc dữ liệu nhật ký.</string>
+	<string name="bluetooth_select_map_version_dialog_title">Chọn phiên bản Bluetooth MAP</string>
+	<string name="shared_data_query_failure_text">Có lỗi xảy ra khi lấy dữ liệu chia sẻ. Thử lại.</string>
+	<string name="adb_pairing_device_dialog_pairing_code_label">Mã ghép nối Wi-Fi</string>
+	<string name="clear_saved_traces_summary">Dấu vết được xóa sau 1 tháng</string>
 </resources>

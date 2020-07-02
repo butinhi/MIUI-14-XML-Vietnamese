@@ -2591,4 +2591,103 @@ Nếu bạn tiếp tục, %1$s sẽ thay đổi cài đặt riêng tư của b�
 	<string name="PERSOSUBSTATE_SIM_SIM_PUK_ERROR">Mở khóa PUK không thành công.</string>
 	<string name="PERSOSUBSTATE_RUIM_RUIM_SUCCESS">Mở khóa RUIM thành công.</string>
 	<string name="accessibility_shortcut_on">Bật</string>
+	<string name="private_dns_broken_detailed">Không thể truy cập máy chủ DNS Riêng tư</string>
+	<string name="gnss_nfw_notification_message_carrier">Nhà cung cấp dịch vụ của bạn đã truy cập vị trí của bạn trong phiên khẩn cấp gần đây</string>
+	<string name="capability_title_canTakeScreenshot">Chụp ảnh màn hình</string>
+	<string name="capability_desc_canTakeScreenshot">Có thể chụp ảnh màn hình.</string>
+	<string name="accessibility_uncheck_legacy_item_warning">%s đã tắt</string>
+	<string name="accessibility_edit_shortcut_menu_volume_title">Chọn tính năng sử dụng với lối tắt phím âm lượng</string>
+	<string name="resolver_no_work_apps_available_resolve">Không có ứng dụng để mở nội dụng này</string>
+	<string name="PERSOSUBSTATE_SIM_NS_SP_ERROR">Yêu cầu mở khóa nhà cung cấp dịch vụ mạng con không thành công.</string>
+	<string name="console_running_notification_title">Bảng điều khiển nối tiếp được bật</string>
+	<string name="bluetooth_airplane_mode_toast">Bluetooth sẽ vẫn bật trong chế độ máy bay</string>
+	<string name="bugreport_screenshot_failure_toast">Chụp ảnh màn hình với báo cáo lỗi thất bại</string>
+	<string name="personal_apps_suspension_text">Ứng dụng cá nhân của bạn bị chặn cho đến khi bạn bật hồ sơ công việc</string>
+	<string name="accessibility_system_action_power_dialog_label">Hộp thoại Nguồn</string>
+	<string name="bugreport_screenshot_success_toast">Ảnh chụp màn hình với báo cáo lỗi</string>
+	<string name="personal_apps_suspension_title">Bật hồ sơ công việc của bạn</string>
+	<string name="as_app_forced_to_restricted_bucket">%1$s đã được đưa vào thùng HẠN CHẾ</string>
+	<string name="gnss_nfw_notification_title">Đã truy cập vị trí khẩn cấp</string>
+	<string name="accessibility_shortcut_single_service_warning_title">Bật %1$s?</string>
+	<string name="resolver_cant_share_with_work_apps_explanation">Quản trị IT của bạn không cho phép chia sẻ nội dung này với ứng dụng trong hồ sơ công việc của bạn</string>
+	<string name="resolver_cant_access_personal_apps_explanation">Quản trị IT của bạn không cho phép chia sẻ nội dung này với ứng dụng trong hồ sơ cá nhân của bạn</string>
+	<string name="accessibility_select_shortcut_menu_title">Chạm một tính năng để bắt đầu sử dụng:</string>
+	<string name="battery_saver_off_notification_title">Tiết kiệm Pin tắt</string>
+	<string name="app_blocked_message">%1$s không khả dụng bây giờ.</string>
+	<string name="usb_device_resolve_prompt_warn">Ứng dụng này chưa được cấp quyền ghi nhưng có thể thu âm thanh qua thiết bị USB này.</string>
+	<string name="accessibility_enable_service_title">Cho phép %1$s có quyền điều khiển đầy đủ thiết bị của bạn?</string>
+	<string name="permlab_preferredPaymentInfo">Thông tin dịch vụ thanh toán NFC ưa thích</string>
+	<string name="resolver_cant_share_with_work_apps">Không thể chia sể với ứng dụng công việc</string>
+	<string name="sensor_notification_service">Dịch vụ Cảm biến Thông báo</string>
+	<string name="unpin_specific_target">Gỡ %1$s</string>
+	<string name="fingerprint_error_security_update_required">Cảm biến tạm thời tắt.</string>
+	<string name="autofill_save_type_payment_card">Thẻ thanh toán</string>
+	<string name="app_suspended_unsuspend_message">Bỏ tạm dừng ứng dụng</string>
+	<string name="accessibility_shortcut_off">Không bật</string>
+	<string name="face_error_security_update_required">Cảm biến tạm thời tắt.</string>
+	<string name="location_changed_notification_title">Ứng dụng có thể truy cập vị trí của bạn</string>
+	<string name="adbwifi_active_notification_message">Chạm để tắt gỡ lỗi không dây</string>
+	<string name="personal_apps_suspended_turn_profile_on">Bật hồ sơ công việc</string>
+	<string name="permdesc_vibrator_state">Cho phép ứng dụng truy cập trạng thái rung.</string>
+	<string name="resolver_work_tab_accessibility">Xem công việc</string>
+	<string name="location_service">Dịch vụ Vị trí</string>
+	<string name="accessibility_edit_shortcut_menu_button_title">Chọn tính năng để sử dụng với nút trợ năng</string>
+	<string name="resolver_cant_access_work_apps">Không thể mở với ứng dụng công việc</string>
+	<string name="accessibility_system_action_hardware_a11y_shortcut_label">Lối tắt Trợ năng</string>
+	<string name="allow_while_in_use_permission_in_fgs">Nền bắt đầu dịch vụ tiền cảnh từ %1$s sẽ không có quyền sử dụng trong các bản dựng R trong tương lai. Vui lòng xem go / r-bg-fss-restriction và gửi một báo cáo lỗi.</string>
+	<string name="country_detector">Phát hiện Quốc gia</string>
+	<string name="resolver_cant_access_personal_apps">Không thể mở với ứng dụng cá nhân</string>
+	<string name="console_running_notification_message">Hiệu năng bị ảnh hưởng. Để tắt, kiểm tra bootloader.</string>
+	<string name="permdesc_systemCamera">Ứng dungj hệ thống này có thể chụp ảnh hoặc quay phim bằng máy ảnh hệ thống bất cứ lúc nào. Cũng yêu cầu quyền android.permission.CAMERA</string>
+	<string name="conversation_single_line_image_placeholder">Gửi ảnh</string>
+	<string name="permdesc_preferredPaymentInfo">Cho phép ứng dụng lấy thông tin dịch vụ thanh toán NFC ưa thích như hỗ trợ đăng ký và định tuyến điểm đến.</string>
+	<string name="accessibility_shortcut_multiple_service_warning_title">Bật tính năng trợ năng?</string>
+	<string name="personal_apps_suspension_tomorrow_text">Ứng dụng cá nhân của bạn sẽ bị chặn vào ngày mai</string>
+	<string name="gnss_nfw_notification_message_oem">Nhà sản xuất thiết bị đã truy cập vị trí của bạn trong phiên khẩn cấp gần đây</string>
+	<string name="battery_saver_charged_notification_summary">Điện thoại đã sạc đủ. Tính năng không còn bị hạn chế.</string>
+	<string name="accessibility_shortcut_single_service_warning">"Giữ cả hai phím âm lượng trong vài giây sẽ bật %1$s, một tính năng trợ năng. Nó có thể thay đổi cách thiết bị hoạt động.
+
+Bạn có thể thay đổi lối tắt này sang tính năng khác trong Cài đặt &gt; Trợ năng."</string>
+	<string name="accessibility_shortcut_multiple_service_warning">"Giữ cả hai phím âm lượng trong vài giây sẽ bật tính năng trợ năng. Nó có thể thay đổi cách thiết bị hoạt động.
+
+Tính năng hiện tại:
+%1$s
+Bạn có thể thay đổi lối tắt này sang tính năng khác trong Cài đặt &gt; Trợ năng."</string>
+	<string name="app_blocked_title">Ứng dụng không khả dụng</string>
+	<string name="notification_channel_developer_important">Tin nhắn nhà phát triển quan trọng</string>
+	<string name="resolver_turn_on_work_apps">Hồ sơ công việc đã tạm dừng</string>
+	<string name="permlab_exemptFromAudioRecordRestrictions">Miễn hạn chế ghi âm</string>
+	<string name="adbwifi_active_notification_title">Gỡ lỗi không dây đã kết nối</string>
+	<string name="mobile_no_internet">Mạng di động không có kết nối mạng</string>
+	<string name="resolver_no_personal_apps_available_share">Không có ứng dụng cá nhân hỗ trợ nội dung này</string>
+	<string name="permlab_bindCellBroadcastService">Chuyển tiếp tin nhắn quảng bá</string>
+	<string name="resolver_cant_access_work_apps_explanation">Quản trị viên IT của bạn không cho phép bạn mở nội dung này bằng các ứng dụng trong hồ sơ công việc của bạn</string>
+	<string name="permlab_systemCamera">Cho phép ứng dụng hoặc dịch vụ truy cập vào camera hệ thống để chụp ảnh và quay video</string>
+	<string name="permdesc_bindCellBroadcastService">Cho phép ứng dụng liên kết với mô-đun phát sóng di động để chuyển tiếp tin nhắn quảng bá di động khi chúng được nhận. Cảnh báo phát sóng di động được gửi ở một số vị trí để cảnh báo bạn về các tình huống khẩn cấp. Các ứng dụng độc hại có thể ảnh hưởng đến hiệu suất hoặc hoạt động của thiết bị của bạn khi nhận được phát sóng khẩn cấp.</string>
+	<string name="permdesc_exemptFromAudioRecordRestrictions">Miễn ứng dụng khỏi hạn chế ghi âm.</string>
+	<string name="resolver_no_personal_apps_available_resolve">Không có ứng dụng cá nhân hỗ trợ nội dung này</string>
+	<string name="accessibility_shortcut_talkback_warning">"Giữ cả hai phím âm lượng trong vài giây, bật TalkBack, trình đọc màn hình hữu ích cho những người mù hoặc có thị lực kém. TalkBack thay đổi hoàn toàn cách thiết bị của bạn hoạt động.
+
+Bạn có thể thay đổi lối tắt này sang tính năng khác trong Cài đặt &gt; Trợ năng."</string>
+	<string name="PERSOSUBSTATE_SIM_NS_SP_IN_PROGRESS">Yêu cầu mở khóa nhà cung cấp dịch vụ mạng con…</string>
+	<string name="conversation_title_fallback_group_chat">Hội thoại nhóm</string>
+	<string name="PERSOSUBSTATE_SIM_NS_SP_SUCCESS">Nhà cung cấp dịch vụ mạng con mở khóa thành công.</string>
+	<string name="PERSOSUBSTATE_SIM_NS_SP_ENTRY">Nhà cung cấp dịch vụ tập hợp con mở khóa mã PIN</string>
+	<string name="accessibility_system_action_on_screen_a11y_shortcut_label">Lối tắt Trợ năng trên màn hình</string>
+	<string name="device_ownership_relinquished">Quản trị viên từ bỏ thiết bị để sử dụng cá nhân</string>
+	<string name="resolver_cant_share_with_personal_apps_explanation">Quản trị viên IT của bạn không cho phép bạn chia sẻ nội dung này với các ứng dụng trong hồ sơ cá nhân của bạn</string>
+	<string name="accessibility_system_action_on_screen_a11y_shortcut_chooser_label">Lựa chọn Lối tắt Trợ năng trên màn hình</string>
+	<string name="resolver_no_work_apps_available_share">Không có ứng dụng công việc hỗ trợ nội dung này</string>
+	<string name="location_changed_notification_text">Liên hệ quản trị IT của bạn để biết thêm chi tiết</string>
+	<string name="permdesc_cameraOpenCloseListener">Ứng dụng này có thể nhận được cuộc gọi lại khi bất kỳ thiết bị camera nào đang được mở (bởi ứng dụng nào) hoặc đóng.</string>
+	<string name="conversation_title_fallback_one_to_one">Hội thoại</string>
+	<string name="resolver_cant_share_with_personal_apps">Không thể chia sẻ với ứng dụng cá nhân</string>
+	<string name="resolver_personal_tab_accessibility">Xem cá nhân</string>
+	<string name="twilight_service">Dịch vụ Twilight</string>
+	<string name="permlab_cameraOpenCloseListener">Cho phép ứng dụng hoặc dịch vụ lắng nghe máy ảnh mở hoặc tắt.</string>
+	<string name="accessibility_shortcut_talkback_warning_title">Bật TalkBack?</string>
+	<string name="accessibility_freeform_caption">Thanh chú thích của %1$s.</string>
+	<string name="other_networks_no_internet">Mạng không có kết nối</string>
+	<string name="edit_accessibility_shortcut_menu_button">Chỉnh sửa lối tắt</string>
+	<string name="notification_history_title_placeholder">Tùy chỉnh thông báo ứng dụng</string>
 </resources>
