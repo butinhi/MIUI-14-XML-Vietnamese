@@ -1415,4 +1415,13 @@ Nếu thiết bị của bạn nằm trong danh sách này, bạn có thể thê
 	<string name="month_march_shortest">Tháng 3</string>
 	<string name="month_may_shortest">Tháng năm</string>
 	<string name="monday_shortest">Th 2</string>
+	<string name="select_swim_posture">Chọn kiểu</string>
+	<string name="repeat_mode">Lặp lại</string>
+	<string name="measure_time">Thời gian đo</string>
+	<string name="each_week_day_format1">Mỗi %1$s</string>
+	<string name="every_day">Hàng ngày</string>
+	<string name="slow2">Thấp</string>
+	<string name="high2">Cao</string>
+	<string name="normal2">Bình thường</string>
+	<string name="custom_scheme">Tùy chỉnh</string>
 </resources>

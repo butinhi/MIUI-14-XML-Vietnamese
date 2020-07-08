@@ -459,4 +459,29 @@ Nếu cả hai thiết bị không thể kết nối tới cùng một mạng, b
 	<string name="dialog_no_device_message_china">&lt;Data&gt;1. Kết nối cả điện thoại và TV vào cùng mạng Wi-Fi.&lt;br&gt;&lt;br&gt;2. Trên một số mẫu TV, tính năng này chỉ khả dụng khi phản chiếu màn hình bật. Xem &lt;a href=milink://com.milink.service/specification&gt;\"Trợ giúp\"&lt;/a&gt; để biết thêm chi tiết.&lt;/Data&gt;</string>
 	<string name="privacy_permission_wlan_china">Đang bật/tắt Wi-Fi</string>
 	<string name="privacy_permission_wlan_desc_china">Nhận thông tin về các thiết bị có thể sàng lọc gần đó</string>
+	<string name="screen_projection_example_gallery_title">Ảnh &amp; video</string>
+	<string name="keyguard_security_setting_privacy_policy">Chính sách Riêng tư</string>
+	<string name="screen_projection_characteristics_small_window_title">Thu nhỏ cửa sổ</string>
+	<string name="close_hotspot_hint">Tắt điểm phát di động trước khi truyền</string>
+	<string name="screen_projection_characteristics">Tính năng đặc biệt</string>
+	<string name="account_other">Khác</string>
+	<string name="screen_projection_example_gallery_summary">Chạm nút chia sẻ dưới một mục trong Thư viện để hiển thị nó lên màn hình mở rộng.</string>
+	<string name="screen_projection_example_document_summary">Hiển thị trình chiếu trên một màn hình mở rộng khi bạn sử dụng điện thoại để chuyển giữa các slide và xem ghi chú. Đi tới Quản lý tệp tin &gt; Tài liệu để thử tính năng này.</string>
+	<string name="screen_projection_characteristics_off_screen_summary">"Không gián đoạn truyền khi màn hình điện thoại tắt. Tính năng này có thể hao pin."</string>
+	<string name="screen_projection_help">Trợ giúp</string>
+	<string name="close_slave_wifi_hint">Ngắt kết nối khỏi Wi-Fi phụ trước khi truyền</string>
+	<string name="open_game_accelerate">Bật Game Turbo</string>
+	<string name="screen_projection_title">Chiếu</string>
+	<string name="screen_projection_characteristics_privacy_protect_summary">Không hiển thị thông báo nổi, cuộc gọi đến, và các mục riêng tư khác trên màn hình mở rộng.</string>
+	<string name="screen_projection">Chiếu</string>
+	<string name="screen_projection_characteristics_off_screen_title">Truyền khi màn hình tắt</string>
+	<string name="screen_projection_sample_summary">Truyền tài liệu, trò chơi, ảnh và video</string>
+	<string name="enable_screen_projection_summary">Truyền nội dung màn hình lên một màn hình mở rộng</string>
+	<string name="close_slave_wifi_hint_china">Ngắt kết nối khỏi Wi-Fi phụ trước khi truyền</string>
+	<string name="screen_projection_characteristics_small_window_summary">Thu nhỏ cửa sổ được truyền để có thể sử dụng các tính năng khác của điện thoại.</string>
+	<string name="screen_projection_characteristics_privacy_protect_title">Bảo vệ riêng tư</string>
+	<string name="screen_projection_sample_title">Trình diễn</string>
+	<string name="screen_projection_example_game_title">Trò chơi</string>
+	<string name="screen_projection_example_game_summary">Game Turbo cho phép truyền trò chơi tới màn hình mở rộng. Sử dụng lối tắt trong công cụ Game Turbo để bật tính năng này.</string>
+	<string name="screen_projection_example_document_title">Tài liệu</string>
 </resources>

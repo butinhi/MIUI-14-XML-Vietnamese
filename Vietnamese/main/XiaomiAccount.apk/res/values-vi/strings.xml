@@ -324,8 +324,8 @@
     <string name="action_update_phone">Thay đổi số điện thoại</string>
     <string name="action_add_phone">Thêm số điện thoại</string>
     <string name="phone_num_use_for">Số điện thoại được sử dụng:</string>
-    <string name="sign_in">Đang đăng nhập</string>
-    <string name="get_back_pwd">Đang đặt lại mật khẩu</string>
+    <string name="sign_in">Đăng nhập</string>
+    <string name="get_back_pwd">Đặt lại mật khẩu</string>
     <string name="identity">Nhận dạng</string>
     <string name="set_success">Đã thay đổi thành công</string>
     <string name="account_user_details">Thông tin cá nhân</string>

@@ -1508,4 +1508,5 @@ Xem qua trang đề xuất!"</string>
 	<string name="debug_export_db">Xuất Cơ sở dữ liệu</string>
 	<string name="debug_category_db">Cơ sở dữ liệu</string>
 	<string name="debug_close_success">Gỡ lỗi không khả dụng</string>
+	<string name="ad_close_button_text">Khuyến mại</string>
 </resources>

@@ -609,4 +609,7 @@
 	<string name="work_mode_off_label">"Thông báo đã tắt và ứng dụng không khả dụng"</string>
 	<string name="unstable_dialog_message">Thiết bị này được đăng ký trong Chương trình xem trước dành cho nhà phát triển Android 11. Chương trình cho phép các nhà phát triển và những người đam mê Android dùng thử các phiên bản tiền phát hành của Android 11. Phiên bản tiền phát hành này có thể chứa các lỗi và lỗi có thể ảnh hưởng đến hoạt động bình thường của thiết bị của bạn.</string>
 	<string name="unstable_dialog_title">Chương trình Trải nghiệm trước dành cho nhà phát triển Android</string>
+	<string name="navigation_type_title">Điều hướng hệ thống</string>
+	<string name="navigation_type_full_screen">Cử chỉ</string>
+	<string name="navigation_type_virtual_key">Phím</string>
 </resources>

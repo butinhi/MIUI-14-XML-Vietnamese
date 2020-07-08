@@ -378,4 +378,6 @@ Bạn cần phải cài đặt phiên bản MIUI của nhà phát triển để 
 	<string name="HIPS_Perm_Intl_group_name_calendar">Lịch</string>
 	<string name="HIPS_Perm_Intl_group_name_contact">Liên hệ</string>
 	<string name="HIPS_Perm_Intl_group_desc_audio_recorder">Ghi âm và gọi điện</string>
+	<string name="perm_action_deny">Không bao giờ cho phép</string>
+	<string name="perm_action_allow">Cho phép</string>
 </resources>

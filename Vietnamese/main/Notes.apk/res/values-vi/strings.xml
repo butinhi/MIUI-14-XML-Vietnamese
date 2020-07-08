@@ -751,4 +751,9 @@ Cho phép Ghi chú ghi âm."</string>
 	<string name="float_todo_guide_title_v2">Lối tắt cử chỉ</string>
 	<string name="pref_remind_type_title_new">Nhắc nhở ưu tiên cao</string>
 	<string name="trash_folder_reminder_new">Ghi chú được giữ trong thùng rác %d ngày trước khi bị xóa vĩnh viễn</string>
+	<string name="sync_note_todo">%1$s và %2$s</string>
+	<string name="cta_v2_agree_desc">Cho phép ứng dụng này kết nối mạng và cấp các quyền bắt buộc liệt kê bên trên.</string>
+	<string name="sync_note_folder">%1$s và %2$s</string>
+	<string name="cloud_service_state_open_reminder_note_and_todo">Bật đồng bộ với Xiaomi Cloud</string>
+	<string name="sync_folder_todo">%1$s và %2$s</string>
 </resources>
