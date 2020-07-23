@@ -1906,4 +1906,26 @@ Gửi mã này cho người giám sát."</string>
 	<string name="local_video_space">Đã dùng: %s</string>
 	<string name="galleryplus_chose_play_speed_failure">"Không thể điều chỉnh tốc độ phát"</string>
 	<string name="neverthink_player_loading">Đang tải video Neverthink…</string>
+	<string name="columbus_player_close_resume">TIẾP TỤC VIDEO</string>
+	<string name="columbus_player_close_video">ĐÓNG VIDEO</string>
+	<string name="cast_live_label">Sống động</string>
+	<string name="galleryplus_network_connect_check">Không thể kết nối mạng</string>
+	<string name="got_it">Tôi biết</string>
+	<string name="special_type_log">Định dạng nhật ký</string>
+	<string name="galleryplus_online_cta_title">Điều khoản và Điều kiện</string>
+	<string name="galleryplus_network_error">Không thể kết nối mạng</string>
+	<string name="download_checking_tip">Đang chuẩn bị tải xuống…</string>
+	<string name="columbus_player_learn_more">Tìm hiểu thêm</string>
+	<string name="view">Xem</string>
+	<string name="next_step">Tiếp theo</string>
+	<string name="galleryplus_online_cta_agree">Đồng ý</string>
+	<string name="columbus_player_close_desc">Bạn sẽ mất phần thưởng của bạn</string>
+	<string name="columbus_player_close_title">Đóng Video?</string>
+	<string name="galleryplus_check_network">Cài đặt</string>
+	<string name="galleryplus_online_video_loading">Đang làm mới</string>
+	<string name="agree_and_continue">Đồng ý</string>
+	<string name="columbus_player_install_now">Cài đặt ngay</string>
+	<string name="galleryplus_online_cta_disagree">Không đồng ý</string>
+	<string name="continue_play">Tiếp tục</string>
+	<string name="notification_bar_player_title">Thu nhỏ trình phát</string>
 </resources>

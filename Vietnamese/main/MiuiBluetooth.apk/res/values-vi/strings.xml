@@ -719,4 +719,6 @@ Bất kỳ người dùng nào cũng có thể thay mặt cho tất cả ngườ
 	<string name="wifi_unsaved_network_linking_summary">Bật tự động kết nối tới WPA/WPA2‑PSK 5GHz SSID với định danh của mạng WPA/WPA2‑PSK 2GHz SSID trên sự khớp một phần SSID và BSSID</string>
 	<string name="wifi_whitelist_roaming_summary">Cho phép chuyển vùng giữa các SSID WPA/WPA2‑PSK AP khác nhau với cùng cổng địa chỉ MAC</string>
 	<string name="wifi_unsaved_network_linking">Cầu SSID ‑ Tự động kết nối</string>
+	<string name="mi_audio_relay_localphone">Điện thoại</string>
+	<string name="mi_audio_relay_connect_failed">Thất bại</string>
 </resources>

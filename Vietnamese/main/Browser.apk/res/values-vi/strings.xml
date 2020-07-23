@@ -2658,4 +2658,7 @@ Chạm vào "%2$s" để bắt đầu tải xuống nội dung này vào lần t
 	<string name="leto_mgc_exchange_now">Mua lại ngay</string>
 	<string name="xiaomi_download_game">Tải về ngay</string>
 	<string name="xiaomi_open_game_now">Mở ngay</string>
+	<string name="book_mark_input_title_hint">Nhập tên</string>
+	<string name="book_mark_input_url_hint">Nhập URL</string>
+	<string name="download_proceed">Tải xuống thường</string>
 </resources>

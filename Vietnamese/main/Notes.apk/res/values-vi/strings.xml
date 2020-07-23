@@ -756,4 +756,5 @@ Cho phép Ghi chú ghi âm."</string>
 	<string name="sync_note_folder">%1$s và %2$s</string>
 	<string name="cloud_service_state_open_reminder_note_and_todo">Bật đồng bộ với Xiaomi Cloud</string>
 	<string name="sync_folder_todo">%1$s và %2$s</string>
+	<string name="sync_all_terms">%1$s, %2$s, và %3$s</string>
 </resources>

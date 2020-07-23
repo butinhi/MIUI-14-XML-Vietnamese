@@ -475,4 +475,5 @@ sau khi Sức khỏe Mi phân tích đủ dữ liệu"</string>
 	<string name="common_timer_selector">Chọn hẹn giờ</string>
 	<string name="channel_name_stopwatch">Bấm giờ</string>
 	<string name="ringtone_more">Khác</string>
+	<string name="alert_vibrate_enable_summary">Rung khi báo thức tắt</string>
 </resources>

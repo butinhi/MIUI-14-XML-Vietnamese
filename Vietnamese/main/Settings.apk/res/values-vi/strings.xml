@@ -10557,4 +10557,338 @@ Vuốt xuống từ cạnh trên màn hình để mở bảng thông báo, sau �
 	<string name="zen_mode_conversations_title">Hội thoại</string>
 	<string name="conversations_category_title">Hội thoại</string>
 	<string name="zen_mode_from_important_conversations">Hội thoại ưu tiên</string>
+	<string name="input_device_category">Thiết bị nhập</string>
+	<string name="voice_access">Điều khiển giọng nói</string>
+	<string name="security_input_num_order">Đã sửa</string>
+	<string name="security_input_enable">Bàn phím an toàn</string>
+	<string name="ai_call_assistant">Cuộc gọi AI</string>
+	<string name="accessibility_settings_tabs_general">Chung</string>
+	<string name="gsm_umts_network_preferences_dialogtitle">Chế độ mạng</string>
+	<string name="exceptional_case">Danh sách ngoại lệ</string>
+	<string name="plmn_failure_radio_off">Chọn mạng thất bại do radio TẮT hoặc không khả dụng</string>
+	<string name="keywords_vibrate_for_calls">Rung</string>
+	<string name="wifi_ap_ssid_off">TẮT</string>
+	<string name="zen_mode_effected_always">Luôn bật</string>
+	<string name="reading_settings">Cài đặt đọc…</string>
+	<string name="keywords_wifi_display_settings">Gương</string>
+	<string name="wifi_ap_ssid_on">BẬT</string>
+	<string name="time_zen_mode_turn_on">Bắt đầu</string>
+	<string name="dialog_network_priority_title">Ưu tiên</string>
+	<string name="uplmn_list_setting_add_plmn">PLMN mới</string>
+	<string name="network_id">ID mạng</string>
+	<string name="voicemail_number_not_set">&lt;Chưa được đặt&gt;</string>
+	<string name="updating_settings">Đang cập nhật cài đặt</string>
+	<string name="gsm_umts_network_preferences_title">Chế độ mạng</string>
+	<string name="accessibility_tutorial_pager">Trang %1$d/%2$d</string>
+	<string name="passpoint_r1_privacy_dialog_title">Chú ý</string>
+	<string name="app_function">Quản lý tập tin trên thiết bị</string>
+	<string name="passpoint_r1_privacy_dialog_no">Hủy</string>
+	<string name="passpoint_r1_privacy_dialog_url_text">Chính sách Riêng tư</string>
+	<string name="forget_passpoint_wifi_message">Điện thoại của bạn sẽ dừng kết nối tự động vào mạng này.</string>
+	<string name="accessibility_settings_tabs_physical">Vật lý</string>
+	<string name="location_modem_summary">Nhà mạng sẽ học để biết vị trí của bạn qua các trạm cơ sở</string>
+	<string name="security_input_num_random_order">Ngẫu nhiên</string>
+	<string name="security_input_num_setting_title">Bàn phím số</string>
+	<string name="location_modem_title">Chia sẻ thông tin vị trí với nhà mạng</string>
+	<string name="hearing_aids_category">Dụng cụ trợ thính</string>
+	<string name="accessibility_settings_tabs_visual">Thị giác</string>
+	<string name="accessibility_settings_tabs_hearing">Thính giác</string>
+	<string name="priority_conversation_count_zero">Không có hội thoại ưu tiên</string>
+	<string name="tether_settings_summary_hotspot_and_usb_and_ethernet">Điểm phát, USB, Mạng</string>
+	<string name="overlay_settings_title">Cho phép lớp phủ màn hình trong Cài đặt</string>
+	<string name="tether_settings_summary_hotspot_and_bluetooth">Điểm phát, Bluetooth</string>
+	<string name="runtime_permissions_summary_control_app_access">Kiểm soát ứng dụng truy cập vào dữ liệu của bạn</string>
+	<string name="media_transfer_wired_usb_device_name">Tai nghe có dây</string>
+	<string name="dsu_loader_title">Trình tải DSU</string>
+	<string name="uplmn_settings_summary">Xác định các PLMN ưa thích theo thứ tự ưu tiên</string>
+	<string name="peak_refresh_rate_summary">Tự động tăng tần số quét màn hình từ 60 lên 90 Hz cho vài nội dung. Tăng mức sử dụng pin.</string>
+	<string name="call_connected_tones_title">Âm kết nối cuộc gọi</string>
+	<string name="uplmn_settings_title">Người dùng kiểm soát PLMN</string>
+	<string name="graphics_driver_footer_text">Khi có nhiều trình điều khiển đồ họa, bạn có thể chọn trình điểu khiển đồ họa đã cập nhật cho ứng dụng đã cài trên thiết bị.</string>
+	<string name="tether_settings_summary_hotspot_and_bluetooth_and_ethernet">Điểm phát, Bluetooth, Mạng</string>
+	<string name="dsu_loader_description">Tải Ảnh cập nhật hệ thống động</string>
+	<string name="nfc_and_payment_settings_payment_off_nfc_off_summary">Không khả dụng vì NFC đang tắt</string>
+	<string name="accessibility_hearingaid_pair_instructions_message">Để kết nối máy trợ thính, tìm và chạm vào thiết bị của bạn trong màn hình tiếp theo. Đảm bảo máy trợ thính đang ở chế độ kết nối.</string>
+	<string name="daltonizer_mode_protanomaly_summary">Đỏ-Xanh lá</string>
+	<string name="adaptive_sleep_summary_no_permission">Chạm để quản lý quyền cho Dịch vụ Cá nhân hóa Thiết bị</string>
+	<string name="media_output_group_panel_single_device_summary">Đã chọn 1 thiết bị</string>
+	<string name="bubbles_conversation_toggle_title">Hiện bong bóng cho cuộc hội thoại này</string>
+	<string name="security_settings_face_enroll_should_re_enroll_title">Cải thiện hiệu năng mở khóa khuôn mặt</string>
+	<string name="nfc_payment_update_default_label">Cập nhật ứng dụng thanh toán mặc định</string>
+	<string name="conversation_section_switch_title">Đoạn hội thoại</string>
+	<string name="notification_access_detail_switch">Cho phép truy cập thông báo</string>
+	<string name="accessibility_introduction_title">Về %1$s</string>
+	<string name="dark_theme_slice_title">Thử Giao diện tối</string>
+	<string name="keywords_lockscreen_bypass">Khóa màn hình, Màn hình khóa, Bỏ qua, Bỏ qua</string>
+	<string name="graphics_driver_dashboard_summary">Chỉnh sửa cài đặt trình điều khiển đồ họa</string>
+	<string name="zen_mode_alarms_summary">Từ bộ hẹn giờ, báo thức, hệ thống bảo mật và các ứng dụng khác</string>
+	<string name="demote_conversation_summary">Xóa khỏi đoạn hội thoại</string>
+	<string name="interact_across_profiles_install_work_app_title">Để kết nối các ứng dụng, cài đặt %1$s trong hồ sơ công việc của bạn</string>
+	<string name="zen_mode_bypassing_apps_none">Không có ứng dụng nào được chọn</string>
+	<string name="power_menu_privacy_show_controls">Hiển thị điều khiển khi khóa</string>
+	<string name="accessibility_shortcut_edit_dialog_title_software_gesture_talkback">Vuốt lên bằng 3 ngón tay</string>
+	<string name="contact_discovery_opt_in_dialog_title_no_carrier_defined">Gửi liên hệ cho nhà mạng?</string>
+	<string name="accessibility_shortcut_edit_dialog_summary_software_gesture">"Vuốt lên từ cạnh dưới màn hình bằng 2 ngón tay.
+
+Để chuyển giữa các tính năng, vuốt lên bằng 2 ngón tay và giữ."</string>
+	<string name="other_conversations_summary">Hội thoại bạn đã thay đổi</string>
+	<string name="keywords_storage_menu_free">dọn dẹp, bộ nhớ</string>
+	<string name="wifi_ap_hidden_ssid">Ẩn SSID của nó</string>
+	<string name="important_conversations_summary_bubbles">Hiển thị bên trên đoạn hội thoại và hiện dưới dạng bong bóng</string>
+	<string name="media_output_label_title">Phát %s trên</string>
+	<string name="accessibility_autoclick_seekbar_desc">Thời gian tự động nhấn</string>
+	<string name="cards_passes_lower">Thẻ &amp; thông hành</string>
+	<string name="accessibility_autoclick_longer_desc">Lâu hơn</string>
+	<string name="adb_authorization_timeout_summary">Vô hiệu hóa tự động hủy bỏ ủy quyền quảng cáo cho các hệ thống chưa được kết nối lại trong khoảng thời gian mặc định (7 ngày) hoặc do người dùng định cấu hình (tối thiểu 1 ngày).</string>
+	<string name="adaptive_sleep_contextual_slice_title">Bật chú ý màn hình</string>
+	<string name="wifi_dpp_qr_code_is_not_valid_format">"Mã QR không phải định dạng hợp lệ"</string>
+	<string name="captioning_caption_appearance_summary">%1$s kích thước chữ</string>
+	<string name="peak_refresh_rate_title">Hiển thị Mượt mà</string>
+	<string name="wifi_dpp_failure_cannot_find_network">Thử di chuyển thiết bị đến gần điểm phát Wi-Fi/Bộ định tuến hơn</string>
+	<string name="zen_mode_bypassing_apps_all_summary">Tất cả thông báo</string>
+	<string name="disable_wifi_hotspot_when_usb_and_ethernet_on">Chỉ chia sẻ mạng qua USB và Ethernet</string>
+	<string name="wifi_add_app_networks_saved_summary">Đã lưu mạng</string>
+	<string name="wifi_advanced_toggle_description">Tùy chọn nâng cao Danh sách đổ xuống</string>
+	<string name="power_menu_cards_passes">Hiển thị thẻ &amp; thông hành</string>
+	<string name="keywords_styles">hình dáng biểu tượng, màu nhấn, phông chữ</string>
+	<string name="data_preference">Cài đặt dữ liệu</string>
+	<string name="platform_compat_default_enabled_title">Mặc định bật thay đổi</string>
+	<string name="bluetooth_devices_card_off_summary">Chạm để bật</string>
+	<string name="zen_mode_bypassing_apps_subtext_none">Không có ứng dụng nào có thể dừng</string>
+	<string name="interact_across_profiles_consent_dialog_permissions_summary">Ứng dụng này có thể sử dụng quyền cá nhân của ứng dụng %1$s, như truy cập vị trí, bộ nhớ hoặc liên hệ.</string>
+	<string name="tether_settings_summary_usb_tethering_only">Chỉ USB</string>
+	<string name="accessibility_tutorial_dialog_message_gesture_settings_talkback">"Để sử dụng tính năng trợ năng, vuốt lên từ cạnh dưới màn hình bằng 3 ngón tay.
+
+Để chuyển giữa các tính năng, vuốt lên bằng 3 ngón tay và giữ."</string>
+	<string name="accessibility_magnification_service_settings_title">Cài đặt Phóng đại</string>
+	<string name="demote_conversation_title">Không phải cuộc hội thoại</string>
+	<string name="accessibility_autoclick_long_summary">1 giây</string>
+	<string name="keywords_add_language">thêm ngôn ngữ, thêm một ngôn ngữ</string>
+	<string name="security_settings_face_enroll_improve_face_alert_body">"Xóa dữ liệu khuôn mặt hiện tại của bạn để cài đặt lại mở khóa khuôn mặt.
+
+Dữ liệu khuôn mặt sử dụng bởi mở khóa khuôn mặt sẽ được xóa an toàn vĩnh viễn. Sau khi xóa, bạn sẽ cần PIN, mẫu hình, hoặc mật khẩu để mở khóa điện thoại, dăng nhập vào ứng dụng, và xác nhận thanh toán."</string>
+	<string name="bubbles_conversation_toggle_summary">Hiển thị biểu tượng nổi phía trên ứng dụng</string>
+	<string name="notification_people_strip_title">Hiển thị dải các cuộc hội thoại gần đây</string>
+	<string name="zen_mode_all_messages_summary">Tất cả các tin nhắn có thể đến với bạn</string>
+	<string name="interact_across_profiles_switch_disabled">Kết nối các ứng dụng này</string>
+	<string name="accessibility_shortcut_title">%1$s lối tắt</string>
+	<string name="notifications_bubble_setting_title">Cho phép ứng dụng hiển thị bong bóng</string>
+	<string name="promote_conversation_title">Đây là một cuộc hội thoại</string>
+	<string name="platform_compat_dashboard_summary">Chuyển đổi tương thích ứng dụng</string>
+	<string name="bubble_app_setting_unbubble_conversation">Tắt bong bóng cho cuộc hội thoại này</string>
+	<string name="accessibility_tutorial_dialog_message_volume">Để sử dụng tính năng này, nhấn &amp; giữ cả hai nút âm lượng.</string>
+	<string name="accessibility_tutorial_dialog_message_triple">Để bắt đầu và dừng phóng đại, chạm ba lần vào bất kỳ chỗ nào trên màn hình.</string>
+	<string name="system_default_app_subtext">Mặc định hệ thống</string>
+	<string name="data_usage_chart_brief_content_description">Biểu đồ hiển thị dữ liệu sử dụng giữa %1$s và %2$s.</string>
+	<string name="zen_mode_bypassing_apps_summary_some">Một vài thông báo</string>
+	<string name="manage_external_storage_title">Truy cập tất cả các tệp tin</string>
+	<string name="volte_5G_limited_text">"Điều này cũng tắt kết nối 5G của bạn.
+Khi đang gọi thoại, bạn không thể sử dụng mạng và một vài ứng dụng có thể không hoạt động."</string>
+	<string name="notification_channel_summary_priority">Hiển thị phía trên đoạn hội thoại, hiển thị dưới dạng bong bóng, hiển thị ảnh đại diện trên màn hình khóa</string>
+	<string name="accessibility_shortcut_type_triple_tap">Chạm ba lần màn hình</string>
+	<string name="interact_across_profiles_consent_dialog_title">Tin tưởng công việc %1$s với dữ liệu cá nhân của bạn?</string>
+	<string name="screen_pinning_guest_user_description">"Ghim ứng dụng cho phép bạn giữ ứng dụng hiện tại trong khung nhìn cho đến khi bạn bỏ ghim nó. Tính năng này có thể được sử dụng ví dụ để một người bạn tin tưởng chơi một trò chơi nào đó. 
+
+Khi một ứng dụng được ghim, ứng dụng được ghim có thể mở ứng dụng khác và dữ liệu cá nhân có thể được truy cập. 
+
+Nếu bạn muốn chia sẻ thiết bị với một người khác một cách an toàn, thử dùng một tài khoản khách. 
+
+Để sử dụng ghim ứng dụng: \u0009
+1.\u0009Bật Ghim ứng dụng \u0009
+2.\u0009Mở Tổng quan \u0009
+3.\u0009Chạm biểu tượng phía trên màn hình, và chạm Ghim"</string>
+	<string name="cards_passes_sentence">Thẻ &amp; thông hành</string>
+	<string name="lockpassword_confirm_your_work_pattern_header">Nhập mẫu công việc của bạn</string>
+	<string name="disable_wifi_hotspot_when_usb_and_bluetooth_on">Chỉ chia sẻ kết nối mạng qua USB và Bluetooth</string>
+	<string name="notification_history_open_notification">Mở thông báo</string>
+	<string name="tether_settings_summary_hotspot_only">Chỉ điểm phát</string>
+	<string name="accessibility_tutorial_dialog_message_gesture_talkback">"Để sử dụng tính năng này, vuốt lên từ cạnh dưới màn hình bằng 3 ngón tay.
+
+Để chuyển giữa các tính năng, vuốt lên bằng 3 ngón tay và giữ."</string>
+	<string name="contact_discovery_opt_in_dialog_message_no_carrier_defined">"Số điện thoại của liên hệ của bạn sẽ được gửi định kỳ cho nhà mạng.
+
+Thông tin này xác định liệu danh bạ của bạn có thể sử dụng một số tính năng nhất định, như cuộc gọi video hoặc một số tính năng nhắn tin."</string>
+	<string name="notification_history_toggle">Sử dụng lịch sử thông báo</string>
+	<string name="quick_controls_lower">điều khiển thiết bị</string>
+	<string name="reset_dashboard_summary_onlyApps">Ứng dụng có thể đặt lại</string>
+	<string name="media_output_switch_error_text">Không thể chuyển. Chạm để thử lại.</string>
+	<string name="accessibility_autoclick_short_summary">0.2 giây</string>
+	<string name="notification_conversation_summary_low">Không có âm thanh và rung hiển thị ở phần dưới cuộc hội thoại</string>
+	<string name="zen_mode_bypassing_apps_add_header">Chọn thêm ứng dụng</string>
+	<string name="wifi_add_app_networks_summary">%1$s muốn lưu các mạng này vào điện thoại của bạn</string>
+	<string name="power_menu_device_controls">Hiển thị điều khiển thiết bị</string>
+	<string name="zen_mode_bypassing_apps_some_summary">Một vài thông báo</string>
+	<string name="important_bubble">Hiển thị cuộc hội thoại ưu tiên dạng bong bóng</string>
+	<string name="tether_settings_summary_hotspot_and_usb">Điểm phát, USB</string>
+	<string name="accessibility_shortcut_edit_dialog_summary_software">"Chạm nút trợ năng %s phía dưới màn hình.
+
+Để chuyển giữa các tính năng, chạm &amp; giữ nút trợ năng."</string>
+	<string name="accessibility_shortcut_triple_tap_keyword">chạm ba lần màn hình</string>
+	<string name="accessibility_shortcut_edit_dialog_summary_hardware">Nhấn &amp; giữ cả hai phím âm lượng</string>
+	<string name="power_menu_privacy_show">Hiển thị thẻ và điều khiển khi khóa</string>
+	<string name="bubbles_conversation_app_link">Tất cả cài đặt bong bóng</string>
+	<string name="notification_history_today">24 giờ cuối</string>
+	<string name="wifi_disconnected_from">Đã ngắt kết nối khỏi %1$s</string>
+	<string name="zen_mode_calls_header">Các cuộc gọi có thể làm gián đoạn</string>
+	<string name="accessibility_display_inversion_switch_title">Sử dụng đảo màu</string>
+	<string name="left_edge">Cạnh trái</string>
+	<string name="open_supported_links_footer">Ứng dụng yêu cầu xử lý các liên kết sau:</string>
+	<string name="notifications_bubble_setting_description">Một vài hội thoại sẽ hiển thị dạng bong bóng phía trên ứng dụng khác</string>
+	<string name="wifi_no_user_cert_warning">Yêu cầu chứng chỉ.</string>
+	<string name="accessibility_autoclick_medium_summary">0.6 giây</string>
+	<string name="zen_mode_apps_bypassing_list_count">%d thêm</string>
+	<string name="sound_mode">Chế độ âm thanh</string>
+	<string name="certificate_warning_dont_install">Không cài đặt</string>
+	<string name="disable_wifi_hotspot_when_bluetooth_on">Chỉ chia sẻ mạng qua Bluetooth</string>
+	<string name="security_settings_face_enroll_must_re_enroll_subtitle">Cải thiện bảo mật và hiệu năng</string>
+	<string name="right_edge">Cạnh phải</string>
+	<string name="accessibility_caption_master_switch_summary">Chỉ cho các ứng dụng được hỗ trợ</string>
+	<string name="connected_device_call_device_title">Thiết bị gọi</string>
+	<string name="cards_passes_setting_toggle">Hiển thị thẻ &amp; thông hành</string>
+	<string name="important_conversation_behavior_summary">Cuộc hội thoại ưu tiên hiển thị phía trên của bảng kéo xuống. Bạn cũng có thể đặt chúng thành bong bóng và gián đoạn Không làm phiền.</string>
+	<string name="accessibility_shortcut_type_software_gesture">Vuốt lên từ cạnh dưới bằng hai ngón tay</string>
+	<string name="accessibility_shortcut_edit_dialog_summary_software_gesture_talkback">"Vuốt lên từ phía dưới màn hình bằng 3 ngón tay.
+
+Để chuyển giữa các tính năng, vuốt lên bằng 3 ngón tay và giữ."</string>
+	<string name="notification_history_off_summary">Bật lịch sử thông báo để xcem thông báo hiện tại và báo lại</string>
+	<string name="disable_wifi_hotspot_when_usb_and_bluetooth_and_ethernet_on">Chỉ chia sẻ kết nối qua USB, Bluetooth và Ethernet</string>
+	<string name="zen_mode_other_sounds_none">Không có gì có thể gián đoạn</string>
+	<string name="power_menu_privacy_show_cards">Hiển thị thẻ khi khóa</string>
+	<string name="wifi_dpp_failure_enrollee_rejected_configuration">Liên hệ nhà sản xuất thiết bị</string>
+	<string name="platform_compat_target_sdk_title">Bật cho targetSdkVersion &gt; %d</string>
+	<string name="accessibility_shortcut_edit_dialog_title_triple_tap">Chạm ba lần màn hình</string>
+	<string name="notification_history_summary">Hiển thị thông báo gần đây và báo lại</string>
+	<string name="connected_devices_dashboard_android_auto_summary">Bluetooth, Android Auto, chế độ lái xe, NFC</string>
+	<string name="daltonizer_mode_tritanomaly_title">Phân biệt kém lam - vàng</string>
+	<string name="tether_settings_summary_hotspot_and_usb_and_bluetooth">Điểm phát, USB, Bluetooth</string>
+	<string name="disable_wifi_hotspot_when_bluetooth_and_ethernet_on">Chỉ chia sẻ kết nối qua Bluetooth và Ethernet</string>
+	<string name="zen_mode_people_calls_messages_section_title">Ai có thể làm gián đoạn</string>
+	<string name="network_connection_connecting_message">Đang kết nối tới thiết bị…</string>
+	<string name="power_menu_privacy">Nội dung nhạy cảm</string>
+	<string name="daltonizer_mode_deuteranomaly_summary">Đỏ - lục</string>
+	<string name="zen_rule_name_hint">"Nhập tên quy tắt"</string>
+	<string name="zen_mode_messages_header">Tin nhắn có thể gián đoạn</string>
+	<string name="interact_across_profiles_install_personal_app_title">Để kết nối các ứng dụng đó, cài đặt %1$s trong hồ sơ cá nhân</string>
+	<string name="accessibility_tutorial_dialog_message_gesture">"Để sử dụng tính năng này, vuốt lên từ bên dưới màn hình bằng 2 ngón tay.
+
+Để chuyển giữa các tính năng, vuốt lên bằng 2 ngón tay và giữ."</string>
+	<string name="conversation_section_switch_summary">Cho phép ứng dụng sử dụng đoạn hội thoại</string>
+	<string name="accessibility_magnification_area_settings_message">Chọn khu vực phóng to bạn muốn sử dụng khi thu phóng màn hình</string>
+	<string name="platform_compat_default_disabled_title">Mặc định tắt thay đổi</string>
+	<string name="accessibility_autoclick_short_title">Ngắn</string>
+	<string name="bubble_app_setting_selected">Chọn hội thoại có thể hiển thị dạng bong bóng</string>
+	<string name="captioning_caption_appearance_title">Kích thước và kiểu chú thích</string>
+	<string name="wifi_add_app_networks_saving_summary">Đang lưu %d mạng…</string>
+	<string name="zen_mode_reminders_summary">Từ tác vụ và nhắc nhở</string>
+	<string name="wifi_advanced_device_mac_address_title">Địa chỉ MAC của thiết bị</string>
+	<string name="interact_across_profiles_consent_dialog_summary">Chỉ kết nối ứng dụng nếu bạn tin tưởng chúng không chia sẻ dữ liệu cá nhân với quản trị IT.</string>
+	<string name="accessibility_magnification_enable_mode_title">Bật thu phóng</string>
+	<string name="volte_5G_limited_title">Tắt VoLTE?</string>
+	<string name="accessibility_shortcut_edit_dialog_title_software">Chạm nút trợ năng</string>
+	<string name="media_output_group_panel_title">Thêm đầu ra</string>
+	<string name="security_settings_face_settings_footer_attention_not_supported">"Sử dụng mở khóa khuôn mặt để mở khóa thiết bị của bạn, đăng nhập vào ứng dụng và xác thực thanh toán.
+
+Hãy nhớ:
+Nhìn vào điện thoại có thể mở khóa mà bạn không muốn.
+
+Điện thoại của bạn có thể được mở khóa bởi người khác nếu họ giữ máy của bạn, kể cả khi bạn nhắm mắt.
+
+Điện thoại của bạn có thể được mở khóa bởi một người trông rất giống bạn, như anh em sinh đôi."</string>
+	<string name="enable_sizecompat_freeform">Cho phép sizecompat dạng tự do</string>
+	<string name="wifi_venue_website_button_text">Mở trang</string>
+	<string name="connected_device_media_device_title">Thiết bị phương tiện</string>
+	<string name="network_2G_3G_preferred">2G/3G ưa thích</string>
+	<string name="zen_mode_bypassing_apps_footer">Những người được chọn vẫn có thể liên lạc với bạn, ngay cả khi bạn không cho phép các ứng dụng gián đoạn</string>
+	<string name="vibrate_when_ringing_option_always_vibrate">Luôn rung</string>
+	<string name="zen_mode_bypassing_apps_add">Thêm ứng dụng</string>
+	<string name="lockpassword_forgot_pattern">Quên mẫu hình?</string>
+	<string name="interact_across_profiles_consent_dialog_app_data_summary">Ứng dụng này có thể truy cập dữ liệu trong ứng dụng cá nhân %1$s.</string>
+	<string name="zen_mode_bypassing_apps_header">Ứng dụng có thể làm gián đoạn</string>
+	<string name="connected_devices_dashboard_android_auto_no_nfc_summary">Bluetooth, Android Auto, chế độ lái xe</string>
+	<string name="tether_settings_summary_all">Điểm phát, USB, Bluetooth, Ethernet</string>
+	<string name="device_controls_setting_toggle">Hiển thị điều khiển thiết bị</string>
+	<string name="lockpassword_forgot_password">Quên mật khẩu?</string>
+	<string name="wifi_subscription_summary">Xem hoặc thay đổi đăng ký</string>
+	<string name="wifi_add_app_network_save_failed_summary">Không thể lưu. Thử lại.</string>
+	<string name="zen_mode_people_some">Vài người có thể làm gián đoạn</string>
+	<string name="contact_discovery_opt_in_dialog_message">"Số điện thoại của liên hệ của bạn sẽ được định kỳ gửi cho %1$s.
+
+Thông tin này xác định liệu danh bạ của bạn có thể sử dụng một số tính năng nhất định, như cuộc gọi video hoặc một số tính năng nhắn tin."</string>
+	<string name="forgot_password_title">Liên hệ quản trị IT của bạn</string>
+	<string name="device_controls_sentence">Điều khiển thiết bị</string>
+	<string name="media_output_disconnected_status">%1$s (đã ngắt kết nối)</string>
+	<string name="interact_across_profiles_summary_3">Bạn có thể ngắt kết nối ứng dụng bất kỳ khi nào trong cài đặt riêng tư của thiết bị.</string>
+	<string name="zen_mode_other_sounds_list_count">%d thêm</string>
+	<string name="show_refresh_rate_summary">Hiển thị tần số quét hiện tại của màn hình</string>
+	<string name="graphics_driver_app_preference_prerelease_driver">Trình điều khiển dành cho nhà phát triển</string>
+	<string name="convo_not_supported_summary">%1$s không hỗ trợ hầu hết tính năng hội thoại. Bạn không thể đặt cuộc hội thoại thành ưu tiên, và hội thoại sẽ không hiển thị dạng bong bóng.</string>
+	<string name="interact_across_profiles_summary_2">Chỉ kết nối các ứng dụng bạn tin tưởng chúng không chia sẻ dữ liệu cá nhân với quản trị IT của bạn.</string>
+	<string name="zen_mode_bypassing_apps_summary_all">Tất cả thông báo</string>
+	<string name="interact_across_profiles_summary_1">Ứng dụng đã kết nối chia sẻ quyền và có thể truy cập dữ liệu của nhau.</string>
+	<string name="notification_history_off_title_extended">Lịch sử thông báo đã tắt</string>
+	<string name="disable_wifi_hotspot_title">Không sử dụng điểm phát Wi-Fi</string>
+	<string name="notification_history_snooze">Đã báo lại</string>
+	<string name="dsu_is_running">DSU đang chạy</string>
+	<string name="tether_settings_summary_off">Không chia sẻ kết nối với thiết bị khác</string>
+	<string name="conversation_onboarding_title">Cuộc hội thoại ưu tiên và đã chỉnh sửa sẽ hiển thị ở đây</string>
+	<string name="bubble_app_setting_none">Không có gì có thể hiển thị dạng bong bóng</string>
+	<string name="confirm_sim_deletion_title">Xác nhận xóa SIM</string>
+	<string name="adb_authorization_timeout_title">Tắt hết giờ xác thực adb</string>
+	<string name="nfc_and_payment_settings_no_payment_installed_summary">Để sử dụng, trước tiên hãy cài ứng dụng thanh toán</string>
+	<string name="accessibility_caption_preference_summary">Không phải tất cả ứng dụng đều hỗ trợ cài đặt chú thích này</string>
+	<string name="wifi_ap_choose_vendor_dual_band">Kênh Đôi</string>
+	<string name="graphics_driver_dashboard_title">Cài đặt Trình điều khiển Đồ họa</string>
+	<string name="accessibility_magnification_mode_title">Khu vực thu phóng</string>
+	<string name="zen_mode_all_calls_summary">Tất cả cuộc gọi có thể đến với bạn</string>
+	<string name="asst_capability_ranking_summary">Tự động xếp hạng thông báo theo mức độ liên quan</string>
+	<string name="notification_conversation_add_to_home">Thêm vào Màn hình chính</string>
+	<string name="notification_history_dismiss">Bị tắt gần đây</string>
+	<string name="lockpassword_confirm_your_work_pin_header">Nhập PIN công việc của bạn</string>
+	<string name="adaptive_sleep_contextual_slice_summary">Giữ màn hình bật khi nhìn vào</string>
+	<string name="power_menu_setting_name">Menu nguồn</string>
+	<string name="zen_mode_bypassing_app_channels_header">Thông báo có thể gián đoạn</string>
+	<string name="interact_across_profiles_number_of_connected_apps_none">Không có ứng dụng được kết nối</string>
+	<string name="zen_mode_people_none">Không ai có thể gián đoạn</string>
+	<string name="platform_compat_dashboard_title">Thay đổi Tương thích ứng dụng</string>
+	<string name="contact_discovery_opt_in_summary">Gửi số điện thoại của liên hệ của bạn để cung cấp các tính năng nâng cao</string>
+	<string name="wifi_calling_mode_ims_preferred_summary">Nếu LTE và Wi-Fi không khả dụng, sử dụng 2G/3G</string>
+	<string name="tether_settings_summary_ethernet_tethering_only">Chỉ Ethernet</string>
+	<string name="dark_theme_slice_subtitle">Giúp tăng thời lượng pin</string>
+	<string name="media_output_group_panel_multiple_devices_summary">%1$d thiết bị đã chọn</string>
+	<string name="silent_notifications_status_bar">Ẩn thông báo im lặng trong thanh trạng thái</string>
+	<string name="screen_pinning_dialog_message">"Khi ứng dụng được ghim: 
+
+•\u0009\u0009Dữ liệu cá nhân có thể bị truy cập 
+\u0009\u0009(ví dụ như liên hệ và nội dung email) 
+•\u0009\u0009Ứng dụng đã ghim có thể mở ứng dụng khác 
+
+Chỉ sử dụng ghim ứng dụng với người bạn tin tưởng."</string>
+	<string name="disable_wifi_hotspot_when_usb_on">Chỉ chia sẻ kết nối qua USB</string>
+	<string name="accessibility_magnification_area_settings_window_screen_summary">Phần của màn hình</string>
+	<string name="accessibility_shortcut_edit_dialog_title_software_gesture">Vuốt lên bằng 2 ngón tay</string>
+	<string name="wifi_add_app_single_network_title">Lưu mạng này?</string>
+	<string name="contact_discovery_opt_in_dialog_title">Gửi liên hệ cho %1$s?</string>
+	<string name="vibrate_when_ringing_option_never_vibrate">Không bao giờ rung</string>
+	<string name="overlay_settings_summary">Cho phép ứng dụng có thể hiển thị trên ứng dụng khác phủ màn hình Cài đặt</string>
+	<string name="filter_manage_external_storage">Có thể truy cập tất cả tệp tin</string>
+	<string name="dark_ui_text">Chủ đề tối sử dụng nền đen để tăng thời lượng pin cho một số màn hình. Lịch chủ đề tối chờ được bật cho đến khi màn hình của bạn tắt.</string>
+	<string name="bug_report_handler_title">Xử lý báo cáo lỗi</string>
+	<string name="accessibility_screen_magnification_gesture_navigation_warning">Cử chỉ trợ năng được đặt thành %1$s. Để sử dụng thu phóng, vuốt lên bằng hai ngón tay từ phía dưới màn hình rồi giữ lại, sau đó chọn thu phóng.</string>
+	<string name="accessibility_magnification_area_settings_all_summary">Toàn màn hình &amp; một phần màn hình</string>
+	<string name="bug_report_handler_picker_footer_text">Xác định ứng dụng nào xử lý phím tắt Báo cáo lỗi trên thiết bị của bạn.</string>
+	<string name="zen_category_duration">Thời lượng cho Cài đặt nhanh</string>
+	<string name="lockscreen_bypass_summary">Sau khi mở khóa khuôn mặt, vào thẳng màn hình mở gần nhất</string>
+	<string name="enable_sizecompat_freeform_summary">Cho phép ứng dụng sizecompat ở dạng tự do</string>
+	<string name="security_settings_face_settings_context_subtitle">Sử dụng mở khóa khuôn mặt để mở khóa điện thoại</string>
+	<string name="twilight_mode_location_off_dialog_message">Vị trí thiết bị cần để xác định thời gian bình minh và hoàng hôn.</string>
+	<string name="power_menu_privacy_hide">Ẩn thẻ và điều khiển khi khóa</string>
+	<string name="bubble_app_setting_bubble_conversation">Bật bong bóng cho hội thoại này</string>
+	<string name="input_method_function_switch_keyboard_type_des">Chạm để chuyển giữa các bàn phím khác nhau</string>
+	<string name="input_method_function_switch_keyboard_language">Chuyển ngôn ngữ</string>
+	<string name="passpoint_r1_privacy_dialog_yes">Đồng ý và tiếp tục</string>
+	<string name="input_method_function_switch_keyboard_type">Chuyển bàn phím</string>
+	<string name="passpoint_r1_privacy_dialog_message">"Passpoint là công nghệ kết nối không dây đáng tin cậy, an toàn và tự động được ra mắt bởi Liên minh Wi-Fi. Tự động định cấu hình tài khoản để đạt được kết nối liền mạch giữa mạng được định cấu hình Wi-Fi và thiết bị di động
+
+Chức năng này chỉ nhận được địa chỉ MAC Wi-Fi của bạn để đăng ký tài khoản lần đầu tiên. Chúng tôi sẽ xử lý dữ liệu của bạn theo %s của chúng tôi. Vui lòng đọc kỹ chính sách này và đồng ý tiếp tục."</string>
+	<string name="input_method_function_switch_keyboard_language_des">Chạm để chuyển giữa ngôn ngữ nhập</string>
 </resources>

@@ -1424,4 +1424,9 @@ Nếu thiết bị của bạn nằm trong danh sách này, bạn có thể thê
 	<string name="high2">Cao</string>
 	<string name="normal2">Bình thường</string>
 	<string name="custom_scheme">Tùy chỉnh</string>
+	<string name="miuix_appcompat_search_input_description">Tìm kiếm</string>
+	<string name="system_app_setting">Cài đặt ứng dụng hệ thống</string>
+	<string name="app_setting">Ứng dụng</string>
+	<string name="sync_health_data">Đồng bộ dữ liệu sức khỏe</string>
+	<string name="health_data_sync">Đồng bộ dữ liệu sức khỏe</string>
 </resources>

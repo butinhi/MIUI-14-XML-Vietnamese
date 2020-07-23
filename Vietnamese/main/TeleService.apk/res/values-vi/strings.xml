@@ -3190,4 +3190,11 @@ Bất cứ người dùng nào cũng có thể cập nhật ứng dụng cho ng�
 	<string name="preferred_network_mode_lte_cdma_evdo_gsm_wcdma_summary">Chế độ mạng ưa thích: LTE/CDMA/EvDo/GSM/WCDMA</string>
 	<string name="preferred_network_mode_nr_lte_tdscdma_cdma_evdo_gsm_wcdma_summary">Chế độ mạng ưa thích: NR/LTE/TDSCDMA/CDMA/EvDo/GSM/WCDMA</string>
 	<string name="carrier_mmi_msg_title">%s Tin nhắn</string>
+	<string name="kddi_sim_lock_status_status">Trạng thái</string>
+	<string name="kddi_sim_lock_status_allowed">Được phép</string>
+	<string name="kddi_sim_lock_status_title">Tình trạng thẻ SIM</string>
+	<string name="kddi_sim_lock_status_no_sim">"Không có thẻ Sim"</string>
+	<string name="kddi_sim_lock_status_not_allowed">Không được phép</string>
+	<string name="kddi_sim_lock_status_code">Mã</string>
+	<string name="smart_dual_sim_prompt_ok">Cài đặt</string>
 </resources>

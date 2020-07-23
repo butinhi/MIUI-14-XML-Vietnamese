@@ -1745,4 +1745,21 @@ Ghi chú: Chỉ cho phiên bản Ubuntu 8.04!"</item>
 		<item>avrcp15</item>
 		<item>avrcp16</item>
 	</string-array>
+	<string-array name="paper_color_values">
+		<item>Đủ màu</item>
+		<item>Màu sáng</item>
+		<item>Đen trắng</item>
+	</string-array>
+	<string-array name="uplmn_prefer_network_mode_td_choices">
+		<item>GSM</item>
+		<item>TD-SCDMA</item>
+		<item>LTE</item>
+		<item>Chế độ ba</item>
+	</string-array>
+	<string-array name="uplmn_prefer_network_mode_w_choices">
+		<item>GSM</item>
+		<item>WCDMA</item>
+		<item>LTE</item>
+		<item>Chế độ ba</item>
+	</string-array>
 </resources>

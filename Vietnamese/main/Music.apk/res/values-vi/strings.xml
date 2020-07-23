@@ -1861,4 +1861,22 @@ Bạn có thể tìm thấy tất cả các bài hát của bạn ở một nơi
 	<string name="joox_auth_dialog_message">"Chúng tôi đã tìm thấy vài bài hát dành cho bạn. Nâng cấp tài khoản VIP để bỏ hạn chế."</string>
 	<string name="joox_auth_message_content_offline">"Dịch vụ trực tuyến không khả dụng. Chúng tôi sẽ cải thiện một vài thứ và sẽ mở sớm. Vui lòng chờ!"</string>
 	<string name="joox_auth_message_update_vip_to_switch_songs">Nâng cấp tài khoản VIP để chuyển bài</string>
+	<string name="privacy_authorize_revoke_failed">Không thể hủy ủy quyền</string>
+	<string name="joox_category_artist">Nghệ sĩ</string>
+	<string name="upload_playlist_to_hungama_negative_text">Không đồng bộ</string>
+	<string name="joox_search_subtitle_prefix_playlist">Danh sách phát</string>
+	<string name="joox_search_subtitle_prefix_song">Theo dõi</string>
+	<string name="user_privacy_setting_group_title">Điều khoản và Điều kiện</string>
+	<string name="remove_user_privacy_dialog_title">Đang hủy ủy quyền</string>
+	<string name="joox_search_subtitle_prefix_artist">Nghệ sĩ</string>
+	<string name="joox_search_subtitle_prefix_album">Album</string>
+	<string name="privacy_authorize_network_error">Mạng không mạnh, vui lòng kiểm tra trạng thái mạng ~</string>
+	<string name="user_privacy_dialog_negative_text">Hủy</string>
+	<string name="audio_ad_pass">Bỏ qua</string>
+	<string name="user_privacy_dialog_positive_text">Thu hồi</string>
+	<string name="joox_category_vip">Trung tâm Fan</string>
+	<string name="privacy_authorize_revoke_success">Đã hủy ủy quyền thành công</string>
+	<string name="privacy_authorize_revoking">Đang thu hồi ủy quyền…</string>
+	<string name="joox_category_playlist">Danh sách phát</string>
+	<string name="upload_playlist_to_hungama_positive_text">Đồng bộ</string>
 </resources>

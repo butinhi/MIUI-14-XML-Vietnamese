@@ -2349,4 +2349,13 @@ Phiên dịch có thể mất một lúc khi bạn sử dụng tính năng này 
 	<string name="special_type_ai_audio">Âm thanh AI</string>
 	<string name="album_detail_default_sort_tip">Đã chuyển trình tự thời gian</string>
 	<string name="share_and_delete_screenshot">Xóa sau khi chia sẻ</string>
+	<string name="burst_save_video_fail">Không thể lưu</string>
+	<string name="time_burst_preview_title">Hẹn giờ chụp liên tục</string>
+	<string name="time_burst_photo_enter">Hẹn giờ chụp liên tục</string>
+	<string name="filter_popular_purple">Tím</string>
+	<string name="filter_category_classic">Cổ điển</string>
+	<string name="filter_portrait_mist">Sương mù</string>
+	<string name="burst_save_video_progerss">Đang tạo video…</string>
+	<string name="burst_save_video">Lưu thành video</string>
+	<string name="filter_category_popular">Phổ biến</string>
 </resources>

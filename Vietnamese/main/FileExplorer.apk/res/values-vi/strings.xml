@@ -1311,4 +1311,5 @@ Gia nhập cùng 170 triệu Mi Fan!"</string>
 	<string name="file_name_existed">Tên tệp đã tồn tại</string>
 	<string name="cancel_msg">Bỏ chọn tất cả?</string>
 	<string name="rename_msg">Một tệp với tên \"%s\" đã tồn tại.</string>
+	<string name="storage_maintenance_mode">Lưu trữ cho chế độ bảo trì</string>
 </resources>

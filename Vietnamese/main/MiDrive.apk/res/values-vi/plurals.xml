@@ -148,4 +148,7 @@
 		<item quantity="other">Xóa %1$d tệp tin?</item>
 		<item quantity="one">Xóa tệp tin này?</item>
 	</plurals>
+	<plurals name="search_head_hint_file">
+		<item quantity="other">Tập tin chứa \"%1$s\" (%2$d mục)</item>
+	</plurals>
 </resources>

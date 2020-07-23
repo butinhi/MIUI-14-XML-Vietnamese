@@ -445,4 +445,10 @@ dd/M"</string>
 	<string name="disable_aod_in_dark_room">Tắt khi đặt ở chỗ tối</string>
 	<string name="super_wallpaper_date_inter">"EEEE
 dd/M"</string>
+	<string name="component_date_time">Ngày và giờ</string>
+	<string name="component_step">Bước</string>
+	<string name="component_lunar">Âm lịch</string>
+	<string name="component_notification">Thông báo</string>
+	<string name="component_battery">Pin</string>
+	<string name="continue_to_use">Tiếp tục</string>
 </resources>

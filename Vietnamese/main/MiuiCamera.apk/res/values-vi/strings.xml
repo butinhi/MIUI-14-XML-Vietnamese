@@ -1590,4 +1590,7 @@ In dễ dàng trên khổ A4"</string>
 	<string name="cezanne_h_d_v">Tự động</string>
 	<string name="cas_c_32889_0x0004">Th 7</string>
 	<string name="user_disagree">Không đồng ý</string>
+	<string name="pref_multi_camera_dual_video_front">Máy ảnh trước</string>
+	<string name="cta_perm_loc">Vị trí</string>
+	<string name="lighting_rainbow">Ánh mắt cầu vồng</string>
 </resources>

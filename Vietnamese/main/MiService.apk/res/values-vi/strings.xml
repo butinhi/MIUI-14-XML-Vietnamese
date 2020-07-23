@@ -440,4 +440,5 @@
 	<string name="permission_external_storage_introduce">Lưu và tải lên phản hồi của bạn</string>
 	<string name="share_success">Chia sẻ thành công</string>
 	<string name="miui_guide_accessibility_image_desc">Hình ảnh</string>
+	<string name="miui_guide_menu_privacy">Chính sách Riêng tư</string>
 </resources>

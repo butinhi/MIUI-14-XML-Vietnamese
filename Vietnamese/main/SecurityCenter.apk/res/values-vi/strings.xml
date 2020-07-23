@@ -3930,4 +3930,24 @@ Sau khi được đặt, nếu bạn đóng ứng dụng, các quyền sẽ tr�
 	<string name="clean_master_icon_recall_title">Xóa rác nhanh hơn</string>
 	<string name="clean_master_icon_recall_toast_text">Đã thêm Lối tắt Màn hình chính cho Dọn dẹp</string>
 	<string name="clean_master_icon_recall_summary">Thêm Lối tắt Màn hình chính để xóa rác bất cứ lúc nào bạn cần.</string>
+	<string name="app_behavior_media_volume_single">Ứng dụng này đã điều chỉnh âm lượng đa phương tiện</string>
+	<string name="app_behavior_media_volume_bg">%1s đã điều chỉnh âm lượng đa phương tiện dưới nền</string>
+	<string name="app_behavior_media_volume">%1s đã điều chỉnh âm lượng đa phương tiện</string>
+	<string name="app_behavior_media_volume_bg_single">Ứng dụng này đã điều chỉnh âm lượng đa phương tiện dưới nền</string>
+	<string name="notification_whatsapp_clean_button_text">Xóa</string>
+	<string name="gb_gpu_driver_update_app">Cập nhật</string>
+	<string name="clean_master_icon_recall_dialog_button_negative">Không, cảm ơn</string>
+	<string name="settings_title">Chia sẻ an toàn</string>
+	<string name="notification_garbage_clean_botton_text">Xóa</string>
+	<string name="gb_gpu_driver_btn_update">Kiểm tra cập nhật</string>
+	<string name="clean_master_icon_recall_dialog_title">Xóa rác nhanh hơn</string>
+	<string name="settings_location_subtitle_no">Không có thông tin vị trí</string>
+	<string name="once_settings_title">Bảo vệ riêng tư</string>
+	<string name="first_settings_title">Bảo vệ sự riêng tư của bạn</string>
+	<string name="settings_show_detail">Xem chi tiết</string>
+	<string name="text_security">Riêng tư</string>
+	<string name="clean_master_icon_recall_dialog_button_positive">Thêm</string>
+	<string name="clean_master_icon_recall_dialog_summary">Thêm Lối tắt Màn hình chính để xóa rác bất cứ lúc nào bạn cần.</string>
+	<string name="notification_garbage_clean_size">Giải phóng %s</string>
+	<string name="gb_gpu_driver_update_app_tips">Phiên bản hiện tại là mới nhất</string>
 </resources>

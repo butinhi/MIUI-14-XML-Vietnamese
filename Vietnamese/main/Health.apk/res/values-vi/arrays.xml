@@ -106,4 +106,18 @@
 		<item>Nhóm AB</item>
 		<item>Nhóm O</item>
 	</string-array>
+	<string-array name="repeat_mode_mild_abnormal_array">
+		<item>T2, T4, T6</item>
+		<item>T3, T5, T7</item>
+		<item>T4, T6, CN</item>
+	</string-array>
+	<string-array name="repeat_mode_week_array">
+		<item>Mỗi Thứ hai</item>
+		<item>Mỗi Thứ ba</item>
+		<item>Mỗi Thứ tư</item>
+		<item>Mỗi Thứ năm</item>
+		<item>Mỗi Thứ sáu</item>
+		<item>Mỗi Thứ bảy</item>
+		<item>Mỗi Chủ nhật</item>
+	</string-array>
 </resources>

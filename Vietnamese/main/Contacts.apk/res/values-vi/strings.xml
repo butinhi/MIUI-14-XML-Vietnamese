@@ -1875,4 +1875,7 @@ Chọn một trong các tùy chọn sau:"</string>
 	<string name="month_may_shortest">Thg 5</string>
 	<string name="monday_shortest">T2</string>
 	<string name="abc_action_menu_overflow_description">Thêm tùy chọn</string>
+	<string name="theme_dialog_confirm_button">Tôi biết</string>
+	<string name="theme_dialog_confirm_title">Không thể áp dụng chủ đề</string>
+	<string name="theme_dialog_confirm_content">"Phiên bản Liên hệ này không hỗ trợ chủ đề đang áp dụng."</string>
 </resources>

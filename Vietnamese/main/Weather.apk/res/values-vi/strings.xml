@@ -494,4 +494,5 @@ Chạm vào màn hình để thêm thủ công hoặc định vị lại thành 
 	<string name="setting_experience_plan_title">Trải nghiệm người dùng</string>
 	<string name="setting_weather_video">Thẻ video thời tiết</string>
 	<string name="setting_today_news">Thẻ thông tin hôm nay</string>
+	<string name="international_details_humidity_title">Độ ẩm</string>
 </resources>

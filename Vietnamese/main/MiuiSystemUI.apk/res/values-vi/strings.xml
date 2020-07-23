@@ -2371,4 +2371,16 @@ Bất kỳ người dùng nào cũng có thể thay mặt cho tất cả ngườ
 	<string name="wifi_unsaved_network_linking_summary">Bật tự động kết nối tới WPA/WPA2‑PSK 5GHz SSID với định danh của mạng WPA/WPA2‑PSK 2GHz SSID trên sự khớp một phần SSID và BSSID</string>
 	<string name="wifi_whitelist_roaming_summary">Cho phép chuyển vùng giữa các SSID WPA/WPA2‑PSK AP khác nhau với cùng cổng địa chỉ MAC</string>
 	<string name="wifi_unsaved_network_linking">Cầu SSID ‑ Tự động kết nối</string>
+	<string name="biometric_dialog_failed_attempts_now_wiping_profile">Quá nhiều lần thử sai. Hồ sơ công việc này và dữ liệu sẽ bị xóa.</string>
+	<string name="biometric_dialog_use_pattern">Sử dụng mẫu hình</string>
+	<string name="biometric_dialog_credential_attempts_before_wipe">Thử lại. Lần thử %1$d trên %2$d.</string>
+	<string name="biometric_dialog_wrong_pin">PIN sai</string>
+	<string name="biometric_dialog_use_password">Sử dụng mật khẩu</string>
+	<string name="biometric_dialog_failed_attempts_now_wiping_user">Quá nhiều lần thử sai. Người dùng này sẽ bị xóa.</string>
+	<string name="biometric_dialog_wrong_password">Mật khẩu sai</string>
+	<string name="biometric_dialog_last_attempt_before_wipe_dialog_title">Dữ liệu của bạn sẽ bị xóa</string>
+	<string name="biometric_dialog_wrong_pattern">Hình sai</string>
+	<string name="biometric_dialog_now_wiping_dialog_dismiss">Loại bỏ</string>
+	<string name="biometric_dialog_use_pin">Sử dụng PIN</string>
+	<string name="biometric_dialog_face_icon_description_authenticated">Đã xác thực khuôn mặt</string>
 </resources>

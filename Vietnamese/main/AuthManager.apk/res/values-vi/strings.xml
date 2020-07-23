@@ -380,4 +380,8 @@ Bạn cần phải cài đặt phiên bản MIUI của nhà phát triển để 
 	<string name="HIPS_Perm_Intl_group_desc_audio_recorder">Ghi âm và gọi điện</string>
 	<string name="perm_action_deny">Không bao giờ cho phép</string>
 	<string name="perm_action_allow">Cho phép</string>
+	<string name="HIPS_Perm_mediaVolume_Desc">Cho phép ứng dụng điều chỉnh âm lượng đa phương tiện</string>
+	<string name="HIPS_Perm_mediaVolume">Điều chỉnh âm lượng đa phương tiện</string>
+	<string name="perm_modem_location">Truy cập vị trí của bạn</string>
+	<string name="perm_modem_location_desc">Nhà mạng đang cố truy cập thông tin vị trí của bạn. Chia sẻ thông tin vị trí với nhà mạng?</string>
 </resources>

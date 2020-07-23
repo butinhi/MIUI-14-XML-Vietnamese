@@ -359,4 +359,9 @@
 	<string name="record_list_app">Ghi âm ứng dụng</string>
 	<string name="app_record">Ghi âm ứng dụng</string>
 	<string name="app_record_preference_title">Ghi âm ứng dụng</string>
+	<string name="user_feedback">Phản hồi</string>
+	<string name="recovery_failed_dialog_title">Chú ý</string>
+	<string name="recovery">Khôi phục</string>
+	<string name="recovery_failed_dialog_button">Tôi biết</string>
+	<string name="trash_box_close_tip">Đóng</string>
 </resources>
