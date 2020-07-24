@@ -364,4 +364,7 @@
 	<string name="recovery">Khôi phục</string>
 	<string name="recovery_failed_dialog_button">Tôi biết</string>
 	<string name="trash_box_close_tip">Đóng</string>
+	<string name="save_record_dialog_title">Lưu ghi âm</string>
+	<string name="trash_box">Mục vừa xóa</string>
+	<string name="trash_box_delete_all">Xóa vĩnh viễn tất cả các mục khỏi thùng rác?</string>
 </resources>

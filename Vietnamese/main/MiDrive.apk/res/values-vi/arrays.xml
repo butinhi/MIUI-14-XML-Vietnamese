@@ -4,4 +4,8 @@
 		<item>Nam</item>
 		<item>Nữ</item>
 	</string-array>
+	<string-array name="privacy_dialog_runtime_permission_desc">
+		<item>Để đăng nhập bằng Tài khoản Mi</item>
+		<item>Để xem trước, tải lên, tải xuống và đồng bộ tệp tin</item>
+	</string-array>
 </resources>

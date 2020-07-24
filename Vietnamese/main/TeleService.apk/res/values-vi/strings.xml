@@ -3198,4 +3198,11 @@ Bất cứ người dùng nào cũng có thể cập nhật ứng dụng cho ng�
 	<string name="kddi_sim_lock_status_code">Mã</string>
 	<string name="smart_dual_sim_prompt_ok">Cài đặt</string>
 	<string name="media_transfer_wired_usb_device_name">Tai nghe có dây</string>
+	<string name="kddi_sim_lock_status_update">Trạng thái cập nhật SIM</string>
+	<string name="kddi_sim_lock_status_update_fail">Cập nhật thất bại</string>
+	<string name="fiveg_sa_switch_title_slot1">Chế độ SA SIM 2</string>
+	<string name="kddi_sim_lock_status_update_success">Cập nhật thành công</string>
+	<string name="smart_dual_sim_prompt_title">Cảnh báo sử dụng dữ liệu (SIM %s)</string>
+	<string name="fiveg_sa_switch_title_slot0">Chế độ SA SIM 1</string>
+	<string name="kddi_sim_lock_status_open_wifi_warning">Cần kết nối Wi-Fi</string>
 </resources>

@@ -3953,4 +3953,22 @@ Sau khi được đặt, nếu bạn đóng ứng dụng, các quyền sẽ tr�
 	<string name="clean_master_icon_recall_hint">Thêm một Lối tắt Màn hình chính</string>
 	<string name="notification_whatsapp_clean_size">Bộ đệm WhatsApp đã đạt%s</string>
 	<string name="notification_garbage_clean_hint">Dọn dẹp không gian bộ nhớ</string>
+	<string name="once_settings_subtitle">Bạn muốn chia sẻ mục đã chọn thế nào?</string>
+	<string name="settings_tip">Vào Thư viện &gt; Cài đặt để xem thêm tùy chọn</string>
+	<string name="once_settings_camera_ttile">Chia sẻ không có siêu dữ liệu</string>
+	<string name="settings_share_enable_summary">Mục bạn chia sẻ trên WeChat sẽ hiển thị với nhãn MIUI</string>
+	<string name="first_settings_default_camera_title">Mặc định chia sẻ không có siêu dữ liệu</string>
+	<string name="once_settings_location_title">Chia sẻ không có thông tin vị trí</string>
+	<string name="settings_share_info">Đây là các tùy chọn chia sẻ an toàn khả dụng cho các mục chia sẻ từ Thư viện và Quản lý tệp tin:</string>
+	<string name="first_settings_share_enable">Thêm nhãn \"Chia sẻ an toàn\"</string>
+	<string name="first_settings_share_enable_subtitle">Mục bạn chia sẻ lên WeChat sẽ hiển thị với nhãn MIUI</string>
+	<string name="first_settings_default_location_title">Mặc định chia sẻ không có thông tin vị trí</string>
+	<string name="settings_image_camera_summary">Kiểu thiết bị, siêu dữ liệu, etc.</string>
+	<string name="first_settings_subtitle">Đây là các tùy chọn chia sẻ an toàn khả dụng cho bạn:</string>
+	<string name="first_settings_default_location_subtitle">Gỡ thông tin vị trí từ ảnh đã chia sẻ</string>
+	<string name="settings_camera_subtitle_no">Không có siêu dữ liệu</string>
+	<string name="gb_gpu_driver_update">Trình cập nhật Trình điều khiển GPU</string>
+	<string formatted="false" name="loading_text_format">Đang gỡ thông tin riêng tư khỏi ảnh (%d/%d)…</string>
+	<string name="vb_quick_func_auto_bgm">Nhận dạng nhạc nền</string>
+	<string name="vtb_function_video_translation">Dịch thời gian thực</string>
 </resources>

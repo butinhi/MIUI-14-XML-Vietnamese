@@ -495,4 +495,10 @@ Chạm vào màn hình để thêm thủ công hoặc định vị lại thành 
 	<string name="setting_weather_video">Thẻ video thời tiết</string>
 	<string name="setting_today_news">Thẻ thông tin hôm nay</string>
 	<string name="international_details_humidity_title">Độ ẩm</string>
+	<string name="settings_atmospheric_pressure_hpa">Héctôpascal (hPa)</string>
+	<string name="settings_atmospheric_pressure_title">Đơn vị áp suất khí quyển</string>
+	<string name="settings_atmospheric_pressure_mmhg">Milimét thủy ngân(mmHg)</string>
+	<string name="settings_atmospheric_pressure_atm">Khí quyển tiêu chuẩn (atm)</string>
+	<string name="settings_atmospheric_pressure_inhg">Inch thủy ngân (inHg)</string>
+	<string name="settings_atmospheric_pressure_mbar">Millibar (mbar)</string>
 </resources>

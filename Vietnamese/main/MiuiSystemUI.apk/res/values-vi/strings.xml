@@ -2384,4 +2384,23 @@ Bất kỳ người dùng nào cũng có thể thay mặt cho tất cả ngườ
 	<string name="biometric_dialog_use_pin">Sử dụng PIN</string>
 	<string name="biometric_dialog_face_icon_description_authenticated">Đã xác thực khuôn mặt</string>
 	<string name="media_transfer_wired_usb_device_name">Tai nghe có dây</string>
+	<string name="biometric_dialog_face_icon_description_authenticating">Đang tìm khuôn mặt của bạn</string>
+	<string name="biometric_dialog_last_password_attempt_before_wipe_user">Nếu bạn nhập sai mật khẩu trong lần tới, người dùng này sẽ bị xóa.</string>
+	<string name="biometric_dialog_credential_too_many_attempts">"Quá nhiều lần thử sai.
+Thử lại sau %d giây."</string>
+	<string name="biometric_dialog_tap_confirm">Chạm Xác nhận để hoàn tất</string>
+	<string name="keyguard_retry">Vuốt lên để thử lại</string>
+	<string name="biometric_dialog_authenticated">Đã xác thực</string>
+	<string name="biometric_dialog_last_password_attempt_before_wipe_profile">Nếu bạn nhập sai mật khẩu trong lần tới, hồ sơ công việc của bạn và dữ liệu của nó sẽ bị xóa.</string>
+	<string name="biometric_dialog_last_pattern_attempt_before_wipe_profile">Nếu bạn nhập sai mẫu hình trong lần tới, hồ sơ công việc của bạn và dữ liệu của nó sẽ bị xóa.</string>
+	<string name="biometric_dialog_last_pin_attempt_before_wipe_device">Nếu bạn nhập sai PIN trong lần tới, dữ liệu của thiết bị này sẽ bị xóa.</string>
+	<string name="biometric_dialog_last_pattern_attempt_before_wipe_device">Nếu bạn nhập sai mẫu hình trong lần tới, dữ liệu của thiết bị này sẽ bị xóa.</string>
+	<string name="biometric_dialog_last_pattern_attempt_before_wipe_user">Nếu bạn nhập sai mẫu hình trong lần tới, người dùng này sẽ bị xóa.</string>
+	<string name="biometric_dialog_last_password_attempt_before_wipe_device">Nếu bạn nhập sai mật khẩu trong lần tới, dữ liệu của thiết bị này sẽ bị xóa.</string>
+	<string name="biometric_dialog_face_icon_description_idle">Vui lòng thử lại</string>
+	<string name="biometric_dialog_failed_attempts_now_wiping_device">Quá nhiều lần nhập sai. Dữ liệu của thiết bị này sẽ bị xóa.</string>
+	<string name="biometric_dialog_face_icon_description_confirmed">Đã xác nhận</string>
+	<string name="biometric_dialog_last_pin_attempt_before_wipe_profile">Nếu bạn nhập sai PIN trong lần tới, hồ sơ công việc của bạn và dữ liệu của nó sẽ bị xóa.</string>
+	<string name="biometric_dialog_empty_space_description">Chạm để hủy xác thực</string>
+	<string name="biometric_dialog_last_pin_attempt_before_wipe_user">Nếu bạn nhập sai PIN trong lần tới, người dùng này sẽ bị xóa.</string>
 </resources>

@@ -189,4 +189,21 @@
 		<item>Nam</item>
 		<item>Nữ</item>
 	</string-array>
+	<string-array name="fm_channel">
+		<item>Quốc gia Đài Loan</item>
+		<item>Quầy hướng dẫn</item>
+		<item>Trung tâm âm nhạc</item>
+		<item>Trạm giao thông</item>
+		<item>Trạm mạng</item>
+		<item>Kênh nghệ thuật</item>
+		<item>Trạm thể thao</item>
+		<item>Quyitai</item>
+		<item>Trạm phương ngữ</item>
+		<item>Bàn sinh hoạt</item>
+		<item>Thủ đô</item>
+		<item>Bàn bán tour</item>
+		<item>Kênh kinh tế</item>
+		<item>Trạm toàn diện</item>
+		<item>Bàn song ngữ</item>
+	</string-array>
 </resources>

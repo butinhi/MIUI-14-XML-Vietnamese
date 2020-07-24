@@ -2358,4 +2358,19 @@ Phiên dịch có thể mất một lúc khi bạn sử dụng tính năng này 
 	<string name="burst_save_video_progerss">Đang tạo video…</string>
 	<string name="burst_save_video">Lưu thành video</string>
 	<string name="filter_category_popular">Phổ biến</string>
+	<string name="screen_editor_shell_res_downloading">Đang tải xuống khung thiết bị…</string>
+	<string name="screen_editor_btn_shell_off">Xóa khung thiết bị</string>
+	<string name="filter_portrait_painting">Vẽ</string>
+	<string name="online_video_error_unsupported_type">"Trình phát trực tuyến không hỗ trợ định dạng này. Thay vào đó hãy tải xuống."</string>
+	<string name="burst_save_video_title">Độ phân giải video</string>
+	<string name="filter_portrait_greyish">Xám tro</string>
+	<string name="screen_editor_btn_shell_on">Thêm khung thiết bị</string>
+	<string name="filter_popular_humanity">Phim tài liệu</string>
+	<string name="screen_editor_shell_disallowed_with_crop">"Không thể thêm khung thiết bị vào ảnh chụp màn hình đã cắt"</string>
+	<string name="screen_editor_shell_net_error">Kết nối mạng để tải xuống khung thiết bị</string>
+	<string formatted="false" name="loading_text_format">Đang gỡ thông tin riêng tư khỏi ảnh (%d/%d)…</string>
+	<string name="screen_editor_crop_disallowed_with_shell">"Không thể cắt ảnh chụp màn hình với khung thiết bị"</string>
+	<string name="screen_editor_shell_storage_insufficient">"Không thể tải khung thiết bị vì hết bộ nhớ"</string>
+	<string name="filter_popular_lnk">Mực</string>
+	<string name="online_video_error_unknown">Đã xảy ra lỗi phát trực tuyến. Thay vào đó hãy tải xuống.</string>
 </resources>
