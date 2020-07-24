@@ -721,4 +721,6 @@ Bất kỳ người dùng nào cũng có thể thay mặt cho tất cả ngườ
 	<string name="wifi_unsaved_network_linking">Cầu SSID ‑ Tự động kết nối</string>
 	<string name="mi_audio_relay_localphone">Điện thoại</string>
 	<string name="mi_audio_relay_connect_failed">Thất bại</string>
+	<string name="media_transfer_wired_usb_device_name">Tai nghe có dây</string>
+	<string name="mi_audio_relay_title">Chọn thiết bị</string>
 </resources>

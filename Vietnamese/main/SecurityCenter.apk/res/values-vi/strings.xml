@@ -3950,4 +3950,7 @@ Sau khi được đặt, nếu bạn đóng ứng dụng, các quyền sẽ tr�
 	<string name="clean_master_icon_recall_dialog_summary">Thêm Lối tắt Màn hình chính để xóa rác bất cứ lúc nào bạn cần.</string>
 	<string name="notification_garbage_clean_size">Giải phóng %s</string>
 	<string name="gb_gpu_driver_update_app_tips">Phiên bản hiện tại là mới nhất</string>
+	<string name="clean_master_icon_recall_hint">Thêm một Lối tắt Màn hình chính</string>
+	<string name="notification_whatsapp_clean_size">Bộ đệm WhatsApp đã đạt%s</string>
+	<string name="notification_garbage_clean_hint">Dọn dẹp không gian bộ nhớ</string>
 </resources>

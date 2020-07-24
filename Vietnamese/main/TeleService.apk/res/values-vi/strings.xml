@@ -3197,4 +3197,5 @@ Bất cứ người dùng nào cũng có thể cập nhật ứng dụng cho ng�
 	<string name="kddi_sim_lock_status_not_allowed">Không được phép</string>
 	<string name="kddi_sim_lock_status_code">Mã</string>
 	<string name="smart_dual_sim_prompt_ok">Cài đặt</string>
+	<string name="media_transfer_wired_usb_device_name">Tai nghe có dây</string>
 </resources>

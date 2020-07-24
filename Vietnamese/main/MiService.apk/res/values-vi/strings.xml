@@ -441,4 +441,6 @@
 	<string name="share_success">Chia sẻ thành công</string>
 	<string name="miui_guide_accessibility_image_desc">Hình ảnh</string>
 	<string name="miui_guide_menu_privacy">Chính sách Riêng tư</string>
+	<string name="miui_mine_repair_mode_title">Chế độ bảo trì</string>
+	<string name="miui_mine_repair_mode_sub_title">Đảm bảo an toàn dữ liệu của bạn trong quá trình bảo trì sau bán hàng</string>
 </resources>

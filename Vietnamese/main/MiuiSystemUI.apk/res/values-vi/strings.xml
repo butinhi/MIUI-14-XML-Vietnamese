@@ -2383,4 +2383,5 @@ Bất kỳ người dùng nào cũng có thể thay mặt cho tất cả ngườ
 	<string name="biometric_dialog_now_wiping_dialog_dismiss">Loại bỏ</string>
 	<string name="biometric_dialog_use_pin">Sử dụng PIN</string>
 	<string name="biometric_dialog_face_icon_description_authenticated">Đã xác thực khuôn mặt</string>
+	<string name="media_transfer_wired_usb_device_name">Tai nghe có dây</string>
 </resources>

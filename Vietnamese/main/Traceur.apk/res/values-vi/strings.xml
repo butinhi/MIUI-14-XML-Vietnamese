@@ -703,4 +703,5 @@ Bất kỳ người dùng nào cũng có thể thay mặt cho tất cả ngườ
 	<string name="shared_data_query_failure_text">Có lỗi xảy ra khi lấy dữ liệu chia sẻ. Thử lại.</string>
 	<string name="adb_pairing_device_dialog_pairing_code_label">Mã ghép nối Wi-Fi</string>
 	<string name="clear_saved_traces_summary">Dấu vết được xóa sau 1 tháng</string>
+	<string name="media_transfer_wired_usb_device_name">Tai nghe có dây</string>
 </resources>

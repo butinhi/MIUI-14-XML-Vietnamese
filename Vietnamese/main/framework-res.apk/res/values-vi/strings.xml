@@ -2690,4 +2690,9 @@ Bạn có thể thay đổi lối tắt này sang tính năng khác trong Cài �
 	<string name="other_networks_no_internet">Mạng không có kết nối</string>
 	<string name="edit_accessibility_shortcut_menu_button">Chỉnh sửa lối tắt</string>
 	<string name="notification_history_title_placeholder">Tùy chỉnh thông báo ứng dụng</string>
+	<string name="PERSOSUBSTATE_SIM_SP_EHPLMN_ERROR">Yêu cầu mở khóa SP Equivalent Home PLMN thành công.</string>
+	<string name="PERSOSUBSTATE_SIM_SP_EHPLMN_ENTRY">PIN mở khóa SP Equivalent Home PLMN</string>
+	<string name="personal_apps_suspension_soon_text">Ứng dụng cá nhân sẽ bị chặn trên %1$s lúc %2$s. Quản trị IT của bạn không cho phép hồ sơ công việc tắt lâu hơn %3$d ngày.</string>
+	<string name="PERSOSUBSTATE_SIM_SP_EHPLMN_IN_PROGRESS">Đang yêu cầu mở khóa SP Equivalent Home PLMN…</string>
+	<string name="PERSOSUBSTATE_SIM_SP_EHPLMN_SUCCESS">Mở khóa SP Equivalent Home PLMN thành công.</string>
 </resources>

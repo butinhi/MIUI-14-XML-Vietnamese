@@ -451,4 +451,8 @@ dd/M"</string>
 	<string name="component_notification">Thông báo</string>
 	<string name="component_battery">Pin</string>
 	<string name="continue_to_use">Tiếp tục</string>
+	<string name="step_component_info_desc">Đếm bước chân sẽ biến thành một chiếc cúp khi đạt được mục tiêu của bạn. Đếm bước chân được cung cấp bởi Sức khỏe Xiaomi.</string>
+	<string name="step_component_info_tip">Đếm bước chân được cung cấp bởi Sức khỏe Xiaomi. Cài đặt hoặc cập nhật Sức khỏe Xiaomi và đồng ý với các điều khoản và điều kiện của nó để tiếp tục.</string>
+	<string name="aod_component">Mục đã hiển thị</string>
+	<string name="step_component_info_active_tip">Đếm bước chân được cung cấp bởi Sức khỏe Xiaomi. Đồng ý với Điều khoản và Điều kiện của Sức khỏe Xiaomi để tiếp tục.</string>
 </resources>
