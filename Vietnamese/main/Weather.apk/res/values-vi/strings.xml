@@ -501,4 +501,10 @@ Chạm vào màn hình để thêm thủ công hoặc định vị lại thành 
 	<string name="settings_atmospheric_pressure_atm">Khí quyển tiêu chuẩn (atm)</string>
 	<string name="settings_atmospheric_pressure_inhg">Inch thủy ngân (inHg)</string>
 	<string name="settings_atmospheric_pressure_mbar">Millibar (mbar)</string>
+	<string name="rating_dialog_later">Để sau</string>
+	<string name="dialog_msg_score_not_good">Bạn có thể gửi phản hồi cho chúng tôi không?</string>
+	<string name="dialog_msg_score_perfect">Tốt lắm! Đánh giá Thời tiết trên Play Store?</string>
+	<string name="dialog_title_score">Đánh giá Thời tiết</string>
+	<string name="dialog_msg_score_midrop">Bạn cảm thấy thế nào về Thời tiết?</string>
+	<string name="rating_dialog_rate_now">Đánh giá ngay</string>
 </resources>

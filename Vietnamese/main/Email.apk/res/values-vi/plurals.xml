@@ -99,4 +99,34 @@
     <plurals name="unsent_messages_in_outbox">
         <item quantity="other">%1$s tin nhắn chưa gửi trong %2$s</item>
     </plurals>
+	<plurals name="number_of_second_after">
+		<item quantity="other">%1$d giây sau</item>
+	</plurals>
+	<plurals name="number_of_hour_before">
+		<item quantity="other">%1$d giờ trước</item>
+	</plurals>
+	<plurals name="number_of_week_after">
+		<item quantity="other">%1$d tuần sau</item>
+	</plurals>
+	<plurals name="number_of_hour_after">
+		<item quantity="other">%1$d giờ sau</item>
+	</plurals>
+	<plurals name="number_of_minute_before">
+		<item quantity="other">%1$d phút trước</item>
+	</plurals>
+	<plurals name="number_of_day_after">
+		<item quantity="other">%1$d ngày sau</item>
+	</plurals>
+	<plurals name="number_of_day_before">
+		<item quantity="other">%1$d ngày trước</item>
+	</plurals>
+	<plurals name="number_of_week_before">
+		<item quantity="other">%1$d tuần trước</item>
+	</plurals>
+	<plurals name="number_of_second_before">
+		<item quantity="other">%1$d giây trước</item>
+	</plurals>
+	<plurals name="number_of_minute_after">
+		<item quantity="other">%1$d phút sau</item>
+	</plurals>
 </resources>

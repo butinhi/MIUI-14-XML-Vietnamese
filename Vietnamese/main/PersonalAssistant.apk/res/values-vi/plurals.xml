@@ -80,4 +80,80 @@
 	<plurals name="express_setting_phone_binded_info">
 		<item quantity="other">Đã thêm %d số điện thoại</item>
 	</plurals>
+	<plurals name="abbrev_a_hour_ago">
+		<item quantity="other">1 giờ trước</item>
+	</plurals>
+	<plurals name="abbrev_half_hour_ago">
+		<item quantity="other">Nửa giờ trước</item>
+	</plurals>
+	<plurals name="less_than_one_minute_ago">
+		<item quantity="other">Vừa xong</item>
+	</plurals>
+	<plurals name="abbrev_in_a_hour">
+		<item quantity="other">Trong 1 giờ</item>
+	</plurals>
+	<plurals name="in_a_hour">
+		<item quantity="other">Trong 1 giờ</item>
+	</plurals>
+	<plurals name="num_minutes_ago">
+		<item quantity="other">%d phút trước</item>
+		<item quantity="one">1 phút trước</item>
+	</plurals>
+	<plurals name="in_half_hour">
+		<item quantity="other">Trong nửa giờ</item>
+	</plurals>
+	<plurals name="half_hour_ago">
+		<item quantity="other">Nửa giờ trước</item>
+	</plurals>
+	<plurals name="a_hour_ago">
+		<item quantity="other">1 giờ trước</item>
+	</plurals>
+	<plurals name="abbrev_in_num_minutes">
+		<item quantity="other">trong %d phút</item>
+		<item quantity="one">trong 1 phút</item>
+	</plurals>
+	<plurals name="abbrev_num_minutes_ago">
+		<item quantity="other">%d phút trước</item>
+		<item quantity="one">1 phút trước</item>
+	</plurals>
+	<plurals name="abbrev_less_than_one_minute_ago">
+		<item quantity="other">Vừa xong</item>
+	</plurals>
+	<plurals name="in_less_than_one_minute">
+		<item quantity="other">Tức thì</item>
+	</plurals>
+	<plurals name="abbrev_in_half_hour">
+		<item quantity="other">Trong nửa giờ</item>
+	</plurals>
+	<plurals name="abbrev_in_less_than_one_minute">
+		<item quantity="other">Tức thì</item>
+	</plurals>
+	<plurals name="in_num_minutes">
+		<item quantity="other">trong %d phút</item>
+		<item quantity="one">trong 1 phút</item>
+	</plurals>
+	<plurals name="app_miot_total_device">
+		<item quantity="other">%1$d thiết bị</item>
+	</plurals>
+	<plurals name="base_time_minute_ago">
+		<item quantity="other">%d phút trước</item>
+	</plurals>
+	<plurals name="agenda_anniversary_day">
+		<item quantity="other">· %1$d ngày</item>
+	</plurals>
+	<plurals name="agenda_tip_count_down">
+		<item quantity="other">Bắt đầu trong %1$d phút</item>
+	</plurals>
+	<plurals name="app_express_content_title_1">
+		<item quantity="other">%d đơn hàng đang trên đường vận chuyển</item>
+	</plurals>
+	<plurals name="agenda_anniversary_year">
+		<item quantity="other">· %1$d năm</item>
+	</plurals>
+	<plurals name="base_time_hour_ago">
+		<item quantity="other">%d giờ trước</item>
+	</plurals>
+	<plurals name="agenda_countdown_day">
+		<item quantity="other">· Trong %1$d ngày</item>
+	</plurals>
 </resources>

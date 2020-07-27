@@ -276,4 +276,6 @@ Bạn cần đọc và đồng ý với Chính sách Riêng tư Mint Keyboard tr
 	<string name="position_header">Chia sẻ thông tin vị trí</string>
 	<string name="location_location">Cơ quan cứu hộ khẩn cấp có thể có được vị trí hiện tại của bạn theo yêu cầu</string>
 	<string name="location_miui">Để có thể sử dụng MIUI, bạn phải đồng ý với các điều khoản và điều kiện trên</string>
+	<string name="ktlocation_U">(Đại lý dịch vụ KT)</string>
+	<string name="ktposition_header">Chia sẻ thông tin vị trí với các cơ quan cứu hộ khẩn cấp</string>
 </resources>

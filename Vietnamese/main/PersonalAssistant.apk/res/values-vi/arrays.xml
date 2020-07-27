@@ -109,4 +109,31 @@
 		<item>Phủ Ninh</item>
 		<item>Hải Nam</item>
 	</string-array>
+	<string-array name="agenda_weeks_of_year">
+		<item>Tuần 1</item>
+		<item>Tuần 2</item>
+		<item>Tuần 3</item>
+		<item>Tuần %1$d</item>
+	</string-array>
+	<string-array name="app_commute_tab_array">
+		<item>Lái xe</item>
+		<item>Phương tiện công cộng</item>
+		<item>Taxi</item>
+	</string-array>
+	<string-array name="base_day_time_space">
+		<item>Tối</item>
+		<item>Tối</item>
+		<item>Sáng</item>
+		<item>Trưa</item>
+		<item>Trưa</item>
+		<item>Chiều</item>
+		<item>Chiều</item>
+	</string-array>
+	<string-array name="commute_transit_strategy">
+		<item>Khuyến nghị thông minh</item>
+		<item>Thời gian ngắn</item>
+		<item>Chuyển ít</item>
+		<item>Đi bộ ít</item>
+		<item>Không bao gồm tàu điện ngầm</item>
+	</string-array>
 </resources>

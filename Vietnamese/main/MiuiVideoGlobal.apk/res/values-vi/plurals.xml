@@ -72,4 +72,10 @@
 	<plurals name="notification_close_tip">
 		<item quantity="other">Tính năng này sẽ được tắt trong %s ngày</item>
 	</plurals>
+	<plurals name="follower">
+		<item quantity="other">%d người theo dõi</item>
+	</plurals>
+	<plurals name="mediation_animate_close_after">
+		<item quantity="other">%s giây còn lại</item>
+	</plurals>
 </resources>

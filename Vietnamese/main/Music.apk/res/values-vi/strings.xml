@@ -1879,4 +1879,20 @@ Bạn có thể tìm thấy tất cả các bài hát của bạn ở một nơi
 	<string name="privacy_authorize_revoking">Đang thu hồi ủy quyền…</string>
 	<string name="joox_category_playlist">Danh sách phát</string>
 	<string name="upload_playlist_to_hungama_positive_text">Đồng bộ</string>
+	<string name="user_privacy_setting_title">Bật nút để cấp hoặc thu hồi ủy quyền của bạn</string>
+	<string name="user_privacy_dialog_positive_count_down_text">Thu hồi (%ss)</string>
+	<string name="remove_user_privacy_dialog_message">Sau khi bạn thu hồi ủy quyền, Mi Music sẽ dừng thu thập dữ liệu, và tất cả các dữ liệu liên quan sẽ được xóa khỏi máy chủ. Điều này có thể làm cho Mi Music hầu như không sử dụng được. Vẫn thu hồi?</string>
+	<string name="upload_playlist_to_hungama_toast">Bài hát trực tuyến sẽ được đồng bộ với Hungama</string>
+	<string name="joox_anonymous_name">Người ghé thăm</string>
+	<string name="recommend_artist_title">Nhạc sĩ đề xuất</string>
+	<string name="audio_ad_countdown">Bỏ qua quảng cáo sau %s giây</string>
+	<string name="jooxtestlogin">Kiểm tra đăng nhập Joox</string>
+	<string name="jooxdebugvip">Kiểm tra chuyển đổi JooxVip</string>
+	<string name="upload_playlist_to_hungama_title">Đồng bộ bài hát trực tuyến vào Hungama để có thể truy cập trên thiết bị khác khi sử dụng Tài khoản Mi.</string>
+	<string name="revoke_upload_playlist_to_hungama_toast">"Bài hát trực tuyến sẽ không được đồng bộ vào Hungama"</string>
+	<string name="individuation_setting_title">Tùy chỉnh cá nhân</string>
+	<string name="individuation_setting_summary">Nhận đề xuất nội dung dựa trên sở thích của bạn</string>
+	<string name="upload_favorite_setting_title">Đồng bộ bài hát</string>
+	<string name="upload_favorite_dialog_title">Tải bài hát lên đám mây để có thể truy cập chúng trên các thiết bị đã đồng bộ. Bạn có thể tắt tính năng này trong Cài đặt.</string>
+	<string name="upload_favorite_setting_summary">Tải bài hát lên đám mây để truy cập trên thiết bị khác</string>
 </resources>

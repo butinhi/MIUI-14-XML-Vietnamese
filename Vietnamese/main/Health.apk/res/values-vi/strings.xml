@@ -1471,4 +1471,7 @@ Nếu thiết bị của bạn nằm trong danh sách này, bạn có thể thê
 	<string name="blood_pressure_notice_subtitle1">"Đừng quên ghi lại lần đo này"</string>
 	<string name="blood_pressure_measure_remind">Nhắc nhở đo</string>
 	<string name="systolic_pressure">Tâm thu</string>
+	<string name="stand_stop_reminding">Dừng nhận thông báo nhắc đứng dậy</string>
+	<string name="remind_sleep_report_content_1">Bạn đã ngủ %1$d giờ tối qua. Chạm để xem chi tiết.</string>
+	<string name="stand_remind_setting_desc">Khi không phát hiện bạn đứng dậy trong 1 giờ, gửi thông báo để nhắc bạn đứng dậy</string>
 </resources>

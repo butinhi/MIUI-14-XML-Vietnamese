@@ -889,7 +889,7 @@ Quá trình mã hóa mất ít nhất một giờ. Bạn phải bắt đầu b�
     <string name="unlock_set_unlock_pattern_title">Hình</string>
     <string name="unlock_set_unlock_pattern_summary">Vẽ hình đơn giản bằng ngón tay để mở khóa thiết bị</string>
     <string name="unlock_set_unlock_pin_title">Mã PIN</string>
-    <string name="unlock_set_unlock_pin_summary" formatted="false">Nhập %d-%d số để mở khóa thiết bị</string>
+    <string name="unlock_set_unlock_pin_summary">Nhập %1$d-%2$d số để mở khóa thiết bị</string>
     <string name="unlock_set_unlock_password_title">Mật khẩu</string>
     <string name="unlock_set_unlock_password_summary">Nhập 4 hoặc nhiều hơn 4 ký tự gồm chữ hoặc số để mở khóa thiết bị</string>
     <string name="unlock_set_do_later_title">Để sau</string>
@@ -6585,7 +6585,7 @@ Bạn chắc chắn sử dụng giờ được cấp bởi GPS?"</string>
      <string name="keyguard_security_setting_privacy_policy">Chính sách Riêng tư</string>
      <string name="launch_error">Không thể bật ứng dụng!</string>
      <string name="lockdown_vpn_already_connected">Đã bật chế độ Luôn kết nối VPN để kết nối.</string>
-     <string name="lockpassword_choose_your_pin_title" formatted="false">Nhập %d-%d chữ số</string>
+     <string name="lockpassword_choose_your_pin_title">Nhập %1$d-%2$d chữ số</string>
      <string name="mi_pay_summary">Thẻ xe bus/Mi Pay/Card Emulator</string>
      <string name="mira_vision_summary">Mang lại hiệu ứng hình ảnh tốt nhất</string>
      <string name="miui_lab_ai_cloud_closed">Tải trước AI chưa khả dụng.</string>

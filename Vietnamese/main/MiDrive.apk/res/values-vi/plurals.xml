@@ -151,4 +151,37 @@
 	<plurals name="search_head_hint_file">
 		<item quantity="other">Tập tin chứa \"%1$s\" (%2$d mục)</item>
 	</plurals>
+	<plurals name="exception_copy_delete">
+		<item quantity="other">"Vài mục bị mất. Không thể sao chép %1$d mục."</item>
+	</plurals>
+	<plurals name="upload_done_info_for_sys_content">
+		<item quantity="other">Đã tải lên thành công %1$d mục</item>
+	</plurals>
+	<plurals name="upload_fail_info_for_sys_content">
+		<item quantity="other">"Không thể tải lên %1$d mục"</item>
+	</plurals>
+	<plurals name="setting_file_list_item_desc">
+		<item quantity="other">%1$d mục | %2$s | %3$s</item>
+	</plurals>
+	<plurals name="exception_move_delete">
+		<item quantity="other">"Vài mục bị mất. Không thể di chuyển %1$d mục."</item>
+	</plurals>
+	<plurals name="download_fail_info_for_sys_content">
+		<item quantity="other">"Không thể tải xuống %1$d mục"</item>
+	</plurals>
+	<plurals name="downloading_info_for_sys_title">
+		<item quantity="other">Đang tải… %1$d mục còn lại (%2$s%%)</item>
+	</plurals>
+	<plurals name="uploading_info_for_sys_title">
+		<item quantity="other">Đang tải lên… %1$d mục còn lại (%2$s%%)</item>
+	</plurals>
+	<plurals name="download_done_info_for_sys_content">
+		<item quantity="other">Đã tải xuống thành công %1$d mục</item>
+	</plurals>
+	<plurals name="setting_list_folder_item_desc">
+		<item quantity="other">%1$d mục | %2$s</item>
+	</plurals>
+	<plurals name="text_group_count">
+		<item quantity="other">%1$d mục</item>
+	</plurals>
 </resources>

@@ -1585,7 +1585,7 @@ In dễ dàng trên khổ A4"</string>
 	<string name="video_bokeh_color_point">Điểm màu</string>
 	<string name="extend_time_watermark_2_logo_text">SIÊU TRĂNG</string>
 	<string name="video_bokeh_blur">Mờ</string>
-	<string name="pref_camera_dynamic_frame_rate_summary">Để cải thiện chất lượng hình ảnh trong môi trường ánh sáng yếu, tốc độ khung hình được tự động giảm từ 60FPS xuống 33FPS</string>
+	<string name="pref_camera_dynamic_frame_rate_summary">Để cải thiện chất lượng hình ảnh trong môi trường ánh sáng yếu, tốc độ khung hình được tự động giảm từ %1$d xuống %2$d</string>
 	<string name="video_bokeh_spin">Quay</string>
 	<string name="cezanne_h_d_v">Tự động</string>
 	<string name="cas_c_32889_0x0004">Th 7</string>
@@ -1593,4 +1593,29 @@ In dễ dàng trên khổ A4"</string>
 	<string name="pref_multi_camera_dual_video_front">Máy ảnh trước</string>
 	<string name="cta_perm_loc">Vị trí</string>
 	<string name="lighting_rainbow">Ánh mắt cầu vồng</string>
+	<string name="lighting_movie_light_effect_title">Hiệu ứng ánh sáng phim</string>
+	<string name="cta_perm_type">"Quyền tùy chọn (Sử dụng cho tính năng bổ sung khi bạn sử dụng)"</string>
+	<string name="pref_camera_ai_shutter_description">Tự động chọn khoảnh khắc đẹp nhất khi nhấn nút chụp</string>
+	<string name="ultra_ai_pixel_photography_open_tip">AI %s Siêu nét</string>
+	<string name="ambilight_intro_magic_star_ae">Ở nơi ít bị ô nhiễm ánh sáng, bạn có thể chụp một bầu trời đầy sao, thời gian dài nhất để chụp %d giây, vui lòng sử dụng chân máy ảnh.</string>
+	<string name="lighting_dreamland">Điểm đến mơ ước</string>
+	<string name="lighting_bright_red">Đỏ sáng</string>
+	<string name="lighting_nostalgia">Hoài cổ</string>
+	<string name="cta_msg">Chào mừng tới Máy ảnh! Bạn có thể sử dụng ứng dụng này để chụp ảnh và quay video. Ứng dụng này cần kết nối mạng và các quyền tùy chọn dưới đây:</string>
+	<string name="ultra_ai_pixel_photography_close_tip">AI %s Siêu nét tắt</string>
+	<string name="unsupported_microphones_3d_record_tips">"Âm thanh 3D không hỗ trợ micro ngoài"</string>
+	<string name="ambilight_intro_star_track_2">"Chụp bầu trời đầy sao trong thời gian dài có thể chụp được quỹ đạo của các ngôi sao. Đừng quên sử dụng chân máy! Chụp liên tục ít nhất %d phút để có cả ảnh và video."</string>
+	<string name="cta_user_tips">&lt;Data&gt;Để hiểu đầy đủ quyền của bạn với tư cách người dùng cũng như cách chúng tôi sử dụng dữ liệu của bạn, đọc và đồng ý với &amp;lt;a href =%1$s&amp;gt;Thỏa thuận Người dùng&amp;lt;/a&amp;gt; và &amp;lt;a href =%2$s&amp;gt;Chính sách Riêng tư&amp;lt;/a&amp;gt; của chúng tôi.&lt;/Data&gt;</string>
+	<string formatted="false" name="custom_watermark_tips_gen2">Lên tới %d ký tự tiếng Trung hoặc %d ký tự.</string>
+	<string name="lighting_neon">Bóng neon</string>
+	<string name="lighting_phantom">Bóng ma</string>
+	<string name="lighting_lanshan">Suy tàn</string>
+	<string name="unsupported_microphones_audio_zoom_tips">"Thu phóng âm thanh không hỗ trợ micro ngoài"</string>
+	<string name="lighting_gorgeous">Rực rỡ</string>
+	<string name="cta_perm_dec">Để thêm thông tin vị trí vào ảnh và video</string>
+	<string name="lighting_dazzling">Sáng chói</string>
+	<string name="pref_camera_ai_shutter_title">Chụp AI</string>
+	<string name="pixel_ai_108">AI 100 triệu cực sống động</string>
+	<string name="pixel_ai_108_close">Tắt AI 100 triệu cực sống động</string>
+	<string name="pref_audio_denoise_title">Giảm nhiễu âm thanh</string>
 </resources>

@@ -1928,4 +1928,17 @@ Gửi mã này cho người giám sát."</string>
 	<string name="galleryplus_online_cta_disagree">Không đồng ý</string>
 	<string name="continue_play">Tiếp tục</string>
 	<string name="notification_bar_player_title">Thu nhỏ trình phát</string>
+	<string name="notification_bar_player_subtitle">Hiển thị trình phát thu nhỏ trong Bảng thông báo</string>
+	<string name="galleryplus_network_not_wifi">Sử dụng dữ liệu di động để truyền phát video có thể phát sinh chi phí</string>
+	<string name="tip_topic_click">Chạm để tìm thêm video trong chủ đề này</string>
+	<string name="mediation_ad_can_not_share">"Không thể chia sẻ video này"</string>
+	<string name="file_cant_rename">Tệp tin với tên %1$s đã tồn tại. Vui lòng đổi tên</string>
+	<string name="tip_author_click">Chạm để xem thêm video từ tài khoản này</string>
+	<string name="download_unable_tip">"Không thể tải xuống mục này"</string>
+	<string name="dialog_privacy_info_new3">"Để có thể sử dụng dịch vụ này, bạn cần đồng ý để %1$s thu thập, xử lý, và sử dụng thông tin cá nhân của bạn theo Chính sách Riêng tư. Bằng cách nhấn nút \"Đồng ý\" bên dưới, bạn đồng ý với &lt;a href=%2$s&gt;Chính sách Riêng tư&lt;/a&gt; và &lt;a href=%3$s&gt;Thỏa thuận Người dùng&lt;/a&gt; của Xiaomi."</string>
+	<string name="cast_expanded_controller_live_head_description">Vị trí hiện tại ở đầu tiên của phát trực tuyến</string>
+	<string name="galleryplus_already_cloud_member">Sử dụng Thành viên VIP để phát</string>
+	<string name="galleryplus_fr_unsupport_restore_speed">Không hỗ trợ tốc độ khung hình. Đã chuyển sang tốc độ thông thường.</string>
+	<string name="galleryplus_network_connect_confirm">Kết nối Wi-Fi hoặc bật dữ liệu di động trong cài đặt mạng.</string>
+	<string name="galleryplus_online_cta">Mi Video cần kết nối mạng để hoạt động bình thường. Đồng ý?</string>
 </resources>

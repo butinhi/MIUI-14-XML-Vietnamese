@@ -588,4 +588,11 @@
 	<plurals name="zen_mode_contacts_count">
 		<item quantity="other">%d liên hệ</item>
 	</plurals>
+	<plurals name="priority_conversation_count">
+		<item quantity="other">%d hội thoại ưu tiên</item>
+	</plurals>
+	<plurals name="see_all_apps_title">
+		<item quantity="other">Xem tất cả %1$d ứng dụng</item>
+		<item quantity="one">Xem tất cả ứng dụng</item>
+	</plurals>
 </resources>
