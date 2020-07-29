@@ -1375,7 +1375,7 @@ Thử lại sau %2$d giây."</string>
      <string name="lockscreen_unlock_left">Lối tắt trái cũng có thể mở khóa</string>
      <string name="lockscreen_unlock_right">Lối tắt phải cũng có thể mở khóa</string>
      <string name="menu_ime">Chuyển đổi bàn phím</string>
-     <string name="miui_keyguard_ble_unlock_succeed_msg">Mở khóa bằng thiết bị Blutooth</string>
+     <string name="miui_keyguard_ble_unlock_succeed_msg">Mở khóa bằng thiết bị Bluetooth</string>
      <string name="miui_screen_rotation_freeze_message">Đã tắt tự động xoay.</string>
      <string name="mobile_data">Dữ liệu di động</string>
      <string name="monitoring_description_app_personal_work">"Hồ sơ công việc của bạn đã được quản lý bởi %1$s. Hồ sơ được kết nối với %2$s, ứng dụng này có thể giám sát hoạt động mạng công việc của bạn, bao gồm email, ứng dụng, và trang web.
