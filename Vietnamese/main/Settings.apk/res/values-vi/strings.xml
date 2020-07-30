@@ -10891,4 +10891,23 @@ Chỉ sử dụng ghim ứng dụng với người bạn tin tưởng."</string>
 
 Chức năng này chỉ nhận được địa chỉ MAC Wi-Fi của bạn để đăng ký tài khoản lần đầu tiên. Chúng tôi sẽ xử lý dữ liệu của bạn theo %s của chúng tôi. Vui lòng đọc kỹ chính sách này và đồng ý tiếp tục."</string>
 	<string name="input_method_function_switch_keyboard_language_des">Chạm để chuyển giữa ngôn ngữ nhập</string>
+	<string name="launch_alipay_scanner">Quét Alipay</string>
+	<string name="bt_absVolume_open_dialog_title">Chú ý</string>
+	<string name="launch_notification_center">Thanh thông báo</string>
+	<string name="launch_calculator">Máy tính</string>
+	<string name="launch_control_center">TT Điều khiển</string>
+	<string name="launch_wechat_scanner">Quét WeChat</string>
+	<string name="mute">Chế độ im lặng</string>
+	<string name="bt_absVolume_summary">Giữ âm lượng của thiết bị Bluetooth và điện thoại phù hợp nghiêm ngặt</string>
+	<string name="app_enable_bluetooth_record">Ứng dụng bật Bluetooth</string>
+	<string name="back_triple_tap">Ba lần chạm</string>
+	<string name="custom_gesture_title">Tùy chỉnh cử chỉ</string>
+	<string name="bt_absVolume_open_dialog_summary">Do sự cố tương thích, một số thiết bị Bluetooth có thể có mức âm lượng bất thường, có thể được giải quyết bằng cách tắt tính năng này.</string>
+	<string name="device_opcust_version">Phiên bản tùy chỉnh</string>
+	<string name="back_tap">Chạm quay lại</string>
+	<string name="bt_absVolume_pre_title">Âm lượng tuyệt đối</string>
+	<string name="bluetooth_unlock_settings_devices_prompt">Chỉ các thiết bị Bluetooth có thể đeo được chọn mới được hỗ trợ (ví dụ: vòng đeo tay thể thao và đồng hồ thông minh)</string>
+	<string name="launch_alipay_payment_code">Mã thanh toán Alipay</string>
+	<string name="launch_wechat_payment_code">Mã thanh toán WeChat</string>
+	<string name="back_double_tap">Chạm hai lần quay lại</string>
 </resources>

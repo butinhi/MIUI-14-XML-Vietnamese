@@ -258,4 +258,14 @@
 	<string name="switch_audio_notification_content">"Thiết bị xuất âm thanh hiện tại: "</string>
 	<string name="switch_audio_notification_title">Kết nối thiết bị</string>
 	<string name="switch_audio_device_phone">Thiết bị này</string>
+	<string name="switch_audio_device_default">Mặc định</string>
+	<string name="switch_audio_device_bt_a2dp">Bluetooth (Âm thanh phương tiện)</string>
+	<string name="switch_audio_device_phone_summary">Phát âm thanh trên thiết bị này</string>
+	<string name="switch_audio_device_bt_hfp_summary">Phát âm thanh cuộc gọi trên thiết bị đã kết nối. Tính năng này cần được tắt thủ công.</string>
+	<string name="switch_audio_device_hfp_hint">Chuyển lại sang đầu ra âm thanh mặc định</string>
+	<string name="switch_audio_device_bt_hfp">Bluetooth (Cuộc gọi)</string>
+	<string name="switch_audio_device_hfp_toast_hint">Chọn đầu ra âm thanh mặc định để bắt đầu phát lại âm thanh trên thiết bị này.</string>
+	<string name="switch_audio_dialog_title">Chọn đầu ra âm thanh</string>
+	<string name="switch_audio_device_default_summary">Thiết bị vừa sử dụng</string>
+	<string name="switch_audio_device_bt_a2dp_summary">Phát âm thanh phương tiện trên thiết bị đã kết nối</string>
 </resources>

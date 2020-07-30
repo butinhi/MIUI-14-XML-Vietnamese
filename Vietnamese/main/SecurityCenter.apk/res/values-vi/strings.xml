@@ -3971,4 +3971,15 @@ Sau khi được đặt, nếu bạn đóng ứng dụng, các quyền sẽ tr�
 	<string formatted="false" name="loading_text_format">Đang gỡ thông tin riêng tư khỏi ảnh (%d/%d)…</string>
 	<string name="vb_quick_func_auto_bgm">Nhận dạng nhạc nền</string>
 	<string name="vtb_function_video_translation">Dịch thời gian thực</string>
+	<string name="warningcenter_disaster_receive_level_blue">Xanh lục</string>
+	<string name="warningcenter_disaster_receive_type_meteorological">Khí tượng học</string>
+	<string name="warningcenter_disaster_receive_level_orange">Tuổi trẻ</string>
+	<string name="warningcenter_disaster_place_settings">Khu vực</string>
+	<string name="warningcenter_disaster_receive_system">Thông báo hệ thống</string>
+	<string name="warningcenter_disaster_type_first">TIN TỨC</string>
+	<string name="warningcenter_disaster_type_cancel">Đã hủy</string>
+	<string name="warningcenter_disaster_receive_level_yellow">Vàng</string>
+	<string name="warningcenter_disaster_detail_title">Chi tiết</string>
+	<string name="warningcenter_disaster_local">Định vị</string>
+	<string name="warningcenter_disaster_receive_level_red">Đỏ</string>
 </resources>

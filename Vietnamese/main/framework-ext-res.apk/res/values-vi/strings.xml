@@ -335,4 +335,6 @@
 	<string name="application_cannot_open_weixin_payment_code">"Không thể mở mã thanh toán WeChat"</string>
 	<string name="miui_m_com_ss_android_article_news">Tiêu đề hôm nay</string>
 	<string name="miui_m_com_jingdong_app_mall">Kinh Đông</string>
+	<string name="bluetooth_open">Ứng dụng này đã bật Bluetooth</string>
+	<string name="bluetooth_close">Ứng dụng này đã tắt Bluetooth</string>
 </resources>

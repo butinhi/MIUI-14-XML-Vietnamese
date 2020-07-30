@@ -676,4 +676,8 @@
 	<string name="usage_new_home_day_category_title_new">Thời gian màn hình cho danh mục ứng dụng trên %s</string>
 	<string name="usage_week_avg_usage_title">Trung bình tuần này</string>
 	<string name="usage_week_avg_usage_title2">Thời gian trung bình</string>
+	<string name="dc_light_hint_enable_title">Chú ý</string>
+	<string name="dc_light_hint_normal">Làm mờ DC có thể ảnh hưởng đến cách hiển thị một số mục.</string>
+	<string name="dc_lignt_enable_hint">Chế độ chống nhấp nháy sẽ đặt tần số quét màn hình thành 60Hz. Chuyển sang Chế độ chống nhấp nháy?</string>
+	<string name="dc_light_hint_other">Làm mờ DC có thể ảnh hưởng đến tần số quét và cách hiển thị một số mục.</string>
 </resources>

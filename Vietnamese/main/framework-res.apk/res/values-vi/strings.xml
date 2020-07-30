@@ -2695,4 +2695,5 @@ Bạn có thể thay đổi lối tắt này sang tính năng khác trong Cài �
 	<string name="personal_apps_suspension_soon_text">Ứng dụng cá nhân sẽ bị chặn trên %1$s lúc %2$s. Quản trị IT của bạn không cho phép hồ sơ công việc tắt lâu hơn %3$d ngày.</string>
 	<string name="PERSOSUBSTATE_SIM_SP_EHPLMN_IN_PROGRESS">Đang yêu cầu mở khóa SP Equivalent Home PLMN…</string>
 	<string name="PERSOSUBSTATE_SIM_SP_EHPLMN_SUCCESS">Mở khóa SP Equivalent Home PLMN thành công.</string>
+	<string name="config_rawContactsLocalAccountName">Mặc định</string>
 </resources>
