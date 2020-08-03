@@ -1366,7 +1366,7 @@ Thử lại sau %2$d giây."</string>
      <string name="lockscreen_failed_attempts_almost_at_wipe">Bạn đã mở khóa điện thoại sai %1$d lần. Sau %2$d lần thử sai nữa, điện thoại sẽ được khôi phục lại cài đặt gốc và tất cả dữ liệu người dùng sẽ bị mất.</string>
      <string name="lockscreen_failed_attempts_almost_glogin">"Bạn đã nhập sai mật khẩu %1$d lần. Sau %2$d lần thử sai nữa, bạn sẽ được yêu cầu để mở khóa điện thoại bằng cách đăng nhập tài khoản Mi của bạn.
 
- Thử lại sau %d giây."</string>
+ Thử lại sau %3$d giây."</string>
      <string name="lockscreen_failed_attempts_now_wiping">Bạn đã mở khóa điện thoại sai %d lần. Điện thoại bây giờ sẽ được khôi phục lại cài đặt gốc.</string>
      <string name="lockscreen_none">Không</string>
      <string name="lockscreen_shortcut_left">Lối tắt trái</string>
