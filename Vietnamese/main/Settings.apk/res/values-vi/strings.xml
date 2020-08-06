@@ -10910,4 +10910,8 @@ Chức năng này chỉ nhận được địa chỉ MAC Wi-Fi của bạn để
 	<string name="launch_alipay_payment_code">Mã thanh toán Alipay</string>
 	<string name="launch_wechat_payment_code">Mã thanh toán WeChat</string>
 	<string name="back_double_tap">Chạm hai lần quay lại</string>
+	<string name="ipv4_congertion_xontrol_chose">TCP congestion-avoidance algorithm</string>
+	<string name="airplane_mode_summary">Vô hiệu hóa cuộc gọi, tin nhắn SMS, dữ liệu di động</string>
+	<string name="find_my_device_summary">Cần phải đăng nhập vào Tài khoản Mi</string>
+	<string name="ipv4_congertion_control">Chọn điều khiển tắc nghẽn TCP</string>
 </resources>

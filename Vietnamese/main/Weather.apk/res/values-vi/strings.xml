@@ -507,4 +507,6 @@ Chạm vào màn hình để thêm thủ công hoặc định vị lại thành 
 	<string name="dialog_title_score">Đánh giá Thời tiết</string>
 	<string name="dialog_msg_score_midrop">Bạn cảm thấy thế nào về Thời tiết?</string>
 	<string name="rating_dialog_rate_now">Đánh giá ngay</string>
+	<string name="indices_title_wind_speed">Tốc độ gió</string>
+	<string name="indices_title_chance_of_rain">Có thể có mưa</string>
 </resources>

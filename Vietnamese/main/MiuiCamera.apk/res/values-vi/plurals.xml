@@ -15,4 +15,10 @@
 	<plurals name="timer_burst_setting_total_count">
 		<item quantity="other">%1$s ảnh</item>
 	</plurals>
+	<plurals name="accessibility_timer_burst_count">
+		<item quantity="other">%d ảnh trong một lần chụp liên tiếp</item>
+	</plurals>
+	<plurals name="accessibility_timer_burst_interval">
+		<item quantity="other">Đếm ngược: %d giây</item>
+	</plurals>
 </resources>

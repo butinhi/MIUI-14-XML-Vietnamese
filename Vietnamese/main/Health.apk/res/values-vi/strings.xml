@@ -1392,7 +1392,7 @@ Nếu thiết bị của bạn nằm trong danh sách này, bạn có thể thê
 	<string name="photograph">Chụp ảnh</string>
 	<string name="detection_running_detail">Phát hiện giấc ngủ</string>
 	<string name="detection_not_start_detail">Đi ngủ sớm</string>
-	<string name="exercise_result_reminder_content">Tập thể dục %1$d phuts，tiêu thụ %2$d Kcal，Xem chi tiết--》</string>
+	<string name="exercise_result_reminder_content">Tập thể dục %1$d phút，tiêu thụ %2$d Kcal，Xem chi tiết--》</string>
 	<string name="detection_wait_generate_report">Báo cáo đã được tạo</string>
 	<string name="camera_permission_desc">Dùng để đặt ảnh đại diện</string>
 	<string name="edit_immediately">Điền vào ngay</string>

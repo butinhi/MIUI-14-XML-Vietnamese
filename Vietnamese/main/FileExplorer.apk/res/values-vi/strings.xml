@@ -1312,4 +1312,9 @@ Gia nhập cùng 170 triệu Mi Fan!"</string>
 	<string name="cancel_msg">Bỏ chọn tất cả?</string>
 	<string name="rename_msg">Một tệp với tên \"%s\" đã tồn tại.</string>
 	<string name="storage_maintenance_mode">Lưu trữ cho chế độ bảo trì</string>
+	<string name="save_file_to_mishare">"Lưu vào thư mục Mi Share"</string>
+	<string name="pkgname_zsxq">Hành tinh tri thức</string>
+	<string name="menu_new_display_open">Mở trong cửa sổ mới</string>
+	<string name="drag_not_support_with_dir">"Không thể sắp xếp lại hoặc gửi thư mục"</string>
+	<string name="menu_pc_open">Mở bằng chương trình máy tính</string>
 </resources>

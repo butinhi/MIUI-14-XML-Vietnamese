@@ -1540,4 +1540,5 @@ Nhấp vào nút Bắt đầu thu thập dữ liệu
 	<string name="radio_info_cid">CID</string>
 	<string name="cit_voc_data_pressure">Áp suất</string>
 	<string name="cit_tool_bluetooth_tx_burst_run">CHẠY</string>
+	<string name="DSI_configuration_set">"Đặt DSI"</string>
 </resources>

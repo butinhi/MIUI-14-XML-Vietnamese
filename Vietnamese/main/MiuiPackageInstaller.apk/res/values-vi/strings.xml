@@ -355,4 +355,7 @@ Ngoài ra, bạn có thể tắt Chế độ đơn giản và thử lại."</str
 	<string name="miui_clear_apks_title">Tự động xóa gói cài đặt</string>
 	<string name="abc_action_menu_overflow_description">Thêm tùy chọn</string>
 	<string name="ads_summary_default_value">Những người cài đặt ứng dụng này cũng thích</string>
+	<string name="intercept_confirm_dialog_title">Gợi ý</string>
+	<string name="install_control_cancel_vip_account_install">Thoát</string>
+	<string name="install_confirm_dialog_negative_button">Hủy</string>
 </resources>

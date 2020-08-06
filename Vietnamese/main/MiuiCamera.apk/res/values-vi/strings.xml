@@ -1606,7 +1606,7 @@ In dễ dàng trên khổ A4"</string>
 	<string name="unsupported_microphones_3d_record_tips">"Âm thanh 3D không hỗ trợ micro ngoài"</string>
 	<string name="ambilight_intro_star_track_2">"Chụp bầu trời đầy sao trong thời gian dài có thể chụp được quỹ đạo của các ngôi sao. Đừng quên sử dụng chân máy! Chụp liên tục ít nhất %d phút để có cả ảnh và video."</string>
 	<string name="cta_user_tips">&lt;Data&gt;Để hiểu đầy đủ quyền của bạn với tư cách người dùng cũng như cách chúng tôi sử dụng dữ liệu của bạn, đọc và đồng ý với &amp;lt;a href =%1$s&amp;gt;Thỏa thuận Người dùng&amp;lt;/a&amp;gt; và &amp;lt;a href =%2$s&amp;gt;Chính sách Riêng tư&amp;lt;/a&amp;gt; của chúng tôi.&lt;/Data&gt;</string>
-	<string formatted="false" name="custom_watermark_tips_gen2">Lên tới %d ký tự tiếng Trung hoặc %d ký tự.</string>
+	<string name="custom_watermark_tips_gen2">Lên tới %1$d ký tự tiếng Trung hoặc %2$d ký tự.</string>
 	<string name="lighting_neon">Bóng neon</string>
 	<string name="lighting_phantom">Bóng ma</string>
 	<string name="lighting_lanshan">Suy tàn</string>
@@ -1620,4 +1620,38 @@ In dễ dàng trên khổ A4"</string>
 	<string name="pref_audio_denoise_title">Giảm nhiễu âm thanh</string>
 	<string name="pref_camera_high_quality_preferred_title">Nâng cao chất lượng hình ảnh</string>
 	<string name="pref_camera_high_quality_preferred_description">Cải thiện hiệu ứng hình ảnh thông qua thuật toán ưu tiên chất lượng hình ảnh và thời gian chụp sẽ lâu hơn</string>
+	<string name="ai_scene_mode_human">Ảnh nhân học</string>
+	<string name="accessibility_shutter_pause_button">Tạm dừng</string>
+	<string name="accessibility_live_music_loading_button">Đang tải</string>
+	<string name="accessibility_shutter_end_button">Dừng</string>
+	<string name="accessibility_shutter_next_button">Tiếp theo</string>
+	<string name="accessibility_shutter_resume_button">Tiếp tục</string>
+	<string name="accessibility_picturesize_fullscreen_button">Tỷ lệ toàn màn hình</string>
+	<string name="ai_scene_mode_food">Đồ ăn</string>
+	<string name="ai_scene_mode_backlight">Đèn nền</string>
+	<string name="ai_scene_mode_flower">Hoa</string>
+	<string name="accessibility_super_eis_pr_on">EIS Pro bật</string>
+	<string name="ai_scene_mode_autumn">Mùa thu</string>
+	<string name="ai_scene_mode_ppt">Thuyết trình</string>
+	<string name="ai_scene_mode_doc">Tài liệu</string>
+	<string name="ai_scene_mode_city">Thành phố</string>
+	<string name="accessibility_live_music_play_button">Phát</string>
+	<string name="ai_scene_mode_maple_leaves">Chiếc lá</string>
+	<string name="accessibility_super_eis_off">EIS tắt</string>
+	<string name="ai_scene_mode_unknown">Không xác định</string>
+	<string name="ai_scene_mode_silhouette">NGƯỢC SÁNG</string>
+	<string name="ai_scene_mode_green_plants">Thực vật</string>
+	<string name="ai_scene_mode_beach">Bãi biển</string>
+	<string name="ai_scene_mode_cloud">Mây</string>
+	<string name="accessibility_super_eis_on">EIS bật</string>
+	<string name="ai_scene_mode_night">SA</string>
+	<string name="accessibility_beauty_function_button">Làm đẹp</string>
+	<string name="accessibility_live_edit_exit_button">Thoát</string>
+	<string name="ai_scene_mode_overcast">Âm u</string>
+	<string name="ai_scene_mode_sky">Bầu trời</string>
+	<string name="accessibility_live_music_pause_button">Tạm dừng</string>
+	<string name="ai_scene_mode_sunrise_sunset">Bình minh hoàng hôn</string>
+	<string name="ai_scene_mode_moon">Ánh trăng</string>
+	<string name="accessibility_shutter_process_button">Đang chụp</string>
+	<string name="ai_scene_mode_snow">Tuyết</string>
 </resources>

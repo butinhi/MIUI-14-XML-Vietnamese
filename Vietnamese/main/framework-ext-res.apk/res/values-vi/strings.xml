@@ -337,4 +337,6 @@
 	<string name="miui_m_com_jingdong_app_mall">Kinh Đông</string>
 	<string name="bluetooth_open">Ứng dụng này đã bật Bluetooth</string>
 	<string name="bluetooth_close">Ứng dụng này đã tắt Bluetooth</string>
+	<string name="miui_m_com_netease_hyxd_mi">Hoạt động hoang dã</string>
+	<string name="miui_m_com_netease_onmyoji_mi">Onmyoji</string>
 </resources>

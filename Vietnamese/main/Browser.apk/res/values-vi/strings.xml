@@ -2661,4 +2661,5 @@ Chạm vào "%2$s" để bắt đầu tải xuống nội dung này vào lần t
 	<string name="book_mark_input_title_hint">Nhập tên</string>
 	<string name="book_mark_input_url_hint">Nhập URL</string>
 	<string name="download_proceed">Tải xuống thường</string>
+	<string name="toast_not_support">Tính năng này không được hỗ trợ</string>
 </resources>

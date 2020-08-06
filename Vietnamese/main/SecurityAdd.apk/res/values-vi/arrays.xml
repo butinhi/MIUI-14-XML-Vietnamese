@@ -11,4 +11,17 @@
 		<item>500M</item>
 		<item>Tùy chỉnh</item>
 	</string-array>
+	<string-array name="parent_center_item_array">
+		<item>Quản lý ứng dụng</item>
+		<item>Quản lý thời gian</item>
+		<item>Thiết lập mạng lưới</item>
+		<item>Bảo vệ an toàn</item>
+		<item>Chế độ bảo vệ mắt</item>
+		<item>Thêm cài đặt</item>
+	</string-array>
+	<string-array name="gb_gpu_custom_texture_value">
+		<item>Nhanh nhất</item>
+		<item>Cân bằng</item>
+		<item>Mặc định</item>
+	</string-array>
 </resources>
