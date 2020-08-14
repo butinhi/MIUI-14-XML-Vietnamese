@@ -908,4 +908,13 @@ Nếu bạn không đồng ý cấp các quyền đó hoặc chia sẻ và tải
 	<string name="storage_manage_normal_summary">Thay đổi gói lưu trữ đám mây</string>
 	<string name="storage_manage_cloud_data_title">Xem các mục trên đám mây</string>
 	<string name="storage_manage_full_summary">Lưu trữ đám mây đã đầy. Nâng cấp gói dung lượng của bạn.</string>
+	<string name="midrive_guide_btn_installing">Đang cài đặt…</string>
+	<string name="midrive_guide3_title">Làm việc ở mọi nơi</string>
+	<string name="midrive_guide3_desc">Sử dụng Mi Drive trên thiết bị di động, máy tính và trình duyệt.</string>
+	<string name="midrive_guide_btn_installed">Mở Mi Drive</string>
+	<string name="midrive_guide_btn_install">Cài đặt Mi Drive</string>
+	<string name="midrive_guide1_title">Sao lưu bảo mật</string>
+	<string name="midrive_guide1_desc">Sao lưu các mục vào đám mây để giải phóng dung lượng trên thiết bị của bạn.</string>
+	<string name="midrive_guide2_title">Tải nhanh</string>
+	<string name="midrive_guide2_desc">Tải các mục xuống với tốc độ đáng kinh ngạc.</string>
 </resources>

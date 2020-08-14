@@ -24,4 +24,9 @@
 		<item>Cân bằng</item>
 		<item>Mặc định</item>
 	</string-array>
+	<string-array name="gb_gpu_custom_texture">
+		<item>Tốc độ cao</item>
+		<item>Cân bằng</item>
+		<item>Chất lượng cao</item>
+	</string-array>
 </resources>

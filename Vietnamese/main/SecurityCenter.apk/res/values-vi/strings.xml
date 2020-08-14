@@ -4043,4 +4043,15 @@ Sau khi được đặt, nếu bạn đóng ứng dụng, các quyền sẽ tr�
 	<string name="warningcenter_disaster_type_all">Tất cả các loại</string>
 	<string name="warningcenter_disaster_gaowen">Nhiệt độ cao</string>
 	<string name="main_toolbar_misim">SIM Mi</string>
+	<string name="risk_app_install_empty_text">Chưa có mục nào ở đây</string>
+	<string name="risk_app_install_agree_title">Từ chối</string>
+	<string name="risk_app_install_auth_result">"Bạn đã xác thực để cài đặt %1$s. Bạn có thể tiếp tục khi gói cài đặt được phát hiện."</string>
+	<string name="risk_app_install_agree_message">"Ứng dụng này do bên thứ ba phát triển và có thể vi phạm luật và quy định của địa phương. Xiaomi không đảm bảo tính khả dụng, liên tục và khả năng truy cập của nội dung và dịch vụ do ứng dụng này cung cấp. Bất kỳ tổn thất hoặc thiệt hại nào do việc sử dụng ứng dụng này mang lại sẽ do bạn chịu."</string>
+	<string name="activity_title_risk_app_install_manager">Ứng dụng có thể có rủi ro</string>
+	<string name="risk_app_install_item_des">Phiên bản: %1$s</string>
+	<string name="risk_app_install_manager">Ứng dụng có thể có rủi ro</string>
+	<string name="risk_app_install_history">Lịch sử xác thực</string>
+	<string name="menu_summary_garbage_cleanup_new">%d%% bộ nhớ trong</string>
+	<string name="risk_app_install_agree_checkbox">"Tôi sẵn sàng chấp nhận rủi ro có thể xảy ra."</string>
+	<string name="risk_app_install_agree_button">Tin tưởng ứng dụng này</string>
 </resources>

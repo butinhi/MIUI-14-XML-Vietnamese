@@ -598,4 +598,9 @@ Vui lòng gửi mã này cho nhân viên kỹ thuật."</string>
 	<string name="music_picker_title">Chọn nhạc</string>
 	<string name="load_metered_network_dialog_ok">Tải</string>
 	<string name="video_picker_title">Chọn video</string>
+	<string name="shortcut_dialog_confirm">Tạo</string>
+	<string name="shortcut_dialog_content">Thêm lối tắt Màn hình chính để tìm nhanh hơn.</string>
+	<string name="setting_create_shortcut">Lối tắt Màn hình chính</string>
+	<string name="tip_shortcut_added_success">Tạo thành công</string>
+	<string name="tip_shortcut_already_added">Đã tồn tại Lối tắt Màn hình chính</string>
 </resources>

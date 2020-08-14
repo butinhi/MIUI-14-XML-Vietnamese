@@ -379,4 +379,5 @@ Mawrth Vallis"</string>
 	<string name="no_cta_agreed">"GetApps không có quyền CTA"</string>
 	<string name="already_newest_version">Phiên bản hiện tại là mới nhất</string>
 	<string name="no_install_permission">"Bạn không có quyền cài đặt mục này"</string>
+	<string name="title_system_wallpaper_resource">Hình nền hệ thống</string>
 </resources>

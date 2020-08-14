@@ -399,4 +399,7 @@
 Báo cáo vấn đề này &gt;"</string>
 	<string name="abc_action_menu_overflow_description">Thêm tùy chọn</string>
 	<string name="back">Quay lại</string>
+	<string name="lockscreen_notifications_short">Màn hình khóa</string>
+	<string name="show_badge_notifications_short">Biểu tượng</string>
+	<string name="float_notifications_short">Nổi</string>
 </resources>

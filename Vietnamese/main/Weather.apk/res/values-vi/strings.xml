@@ -509,4 +509,6 @@ Chạm vào màn hình để thêm thủ công hoặc định vị lại thành 
 	<string name="rating_dialog_rate_now">Đánh giá ngay</string>
 	<string name="indices_title_wind_speed">Tốc độ gió</string>
 	<string name="indices_title_chance_of_rain">Có thể có mưa</string>
+	<string name="international_details_chance_of_rain">Có thể có mưa</string>
+	<string name="international_details_humidity">Độ ẩm</string>
 </resources>

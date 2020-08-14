@@ -1654,4 +1654,5 @@ In dễ dàng trên khổ A4"</string>
 	<string name="ai_scene_mode_moon">Ánh trăng</string>
 	<string name="accessibility_shutter_process_button">Đang chụp</string>
 	<string name="ai_scene_mode_snow">Tuyết</string>
+	<string name="accessibility_ai_identify">Nhận dạng thông minh</string>
 </resources>

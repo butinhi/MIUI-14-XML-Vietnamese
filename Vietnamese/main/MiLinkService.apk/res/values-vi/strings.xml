@@ -484,4 +484,7 @@ Nếu cả hai thiết bị không thể kết nối tới cùng một mạng, b
 	<string name="screen_projection_example_game_title">Trò chơi</string>
 	<string name="screen_projection_example_game_summary">Game Turbo cho phép truyền trò chơi tới màn hình mở rộng. Sử dụng lối tắt trong công cụ Game Turbo để bật tính năng này.</string>
 	<string name="screen_projection_example_document_title">Tài liệu</string>
+	<string name="dialog_miplay_permission_positive">Cài đặt</string>
+	<string name="dialog_miplay_permission_title">Yêu cầu quyền</string>
+	<string name="dialog_miplay_permission_message">Cho phép Truyền có thể ghi âm, truy cập tệp trong bộ nhớ trong và truy cập vị trí của bạn để có thể sử dụng tính năng này bình thường. Chạm \"Cài đặt\" và chọn \"Quyền ứng dụng\" để tiếp tục.</string>
 </resources>

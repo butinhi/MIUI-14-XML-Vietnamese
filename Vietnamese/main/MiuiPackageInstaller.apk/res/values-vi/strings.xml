@@ -358,4 +358,18 @@ Ngoài ra, bạn có thể tắt Chế độ đơn giản và thử lại."</str
 	<string name="intercept_confirm_dialog_title">Gợi ý</string>
 	<string name="install_control_cancel_vip_account_install">Thoát</string>
 	<string name="install_confirm_dialog_negative_button">Hủy</string>
+	<string name="exit_install_button">"Không cài đặt"</string>
+	<string name="intercept_confirm_dialog_positive">Xác thực</string>
+	<string name="install_confirm_dialog_positive_button">Cài đặt</string>
+	<string name="install_confirm_dialog_title">Chú ý</string>
+	<string name="action_bar_report_link_des">Cảnh báo ứng dụng</string>
+	<string name="install_vip_account_mode_explain_des">Đây là bản Beta của ứng dụng. Đăng ký quyền thử nghiệm Beta trước khi cài đặt nó.</string>
+	<string name="install_continue">Tiếp tục cài đặt</string>
+	<string name="intercept_confirm_dialog_message">%1$s đang cố cài đặt %2$s. Xác nhận danh tính của bạn trước khi tiếp tục.</string>
+	<string name="install_confirm_text_gms">Ứng dụng này tạo bởi Google. Cài đặt Dịch vụ của Google Play trước khi cài đặt ứng dụng này. Nếu không có nó, ứng dụng có thể không hoạt động bình thường.</string>
+	<string name="install_confirm_dialog_message">Ứng dụng này được tạo bởi Google. Bạn cần cài đặt Dịch vụ của Google Play để có thể sử dụng ứng dụng đó bình thường. Cài đặt ứng dụng ngay có thể khiến thiết bị hoạt động sai. Vẫn cài đặt?</string>
+	<string name="install_vip_account_mode_solution_des">Đăng ký quyền thử nghiệm Beta</string>
+	<string name="install_confirm_question_des_10">"Nếu bạn sẵn sàng chấp nhận rủi ro và muốn tiếp tục cài đặt, hãy cho phép cài đặt trong Bảo mật &gt; Quản lý ứng dụng &gt; Quyền &gt; Ứng dụng có thể có rủi ro. Nếu bạn không thể thấy \"Ứng dụng có thể có rủi ro\", cập nhật ứng dụng Bảo mật của bạn và thử lại."</string>
+	<string name="install_control_vip_account_install">Đăng ký thử nghiệm Beta</string>
+	<string name="spannable_continue_text">Tôi hiểu về các rủi ro. Vẫn cài đặt.</string>
 </resources>

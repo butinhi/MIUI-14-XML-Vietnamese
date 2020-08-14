@@ -1474,4 +1474,22 @@ Nếu thiết bị của bạn nằm trong danh sách này, bạn có thể thê
 	<string name="stand_stop_reminding">Dừng nhận thông báo nhắc đứng dậy</string>
 	<string name="remind_sleep_report_content_1">Bạn đã ngủ %1$d giờ tối qua. Chạm để xem chi tiết.</string>
 	<string name="stand_remind_setting_desc">Khi không phát hiện bạn đứng dậy trong 1 giờ, gửi thông báo để nhắc bạn đứng dậy</string>
+	<string name="hr_state_fast">Nhanh</string>
+	<string name="hr_state_normal">Bình thường</string>
+	<string name="tb_range">Từ %1$s đến %2$s</string>
+	<string name="hr_state_slow">Chậm</string>
+	<string name="hr_state_active">"hoạt động"</string>
+	<string name="hr_state_regular">Thường</string>
+	<string name="hr_state">Trạng thái</string>
+	<string name="hr_state_resting">Đang nghỉ</string>
+	<string name="tb_resting_heart_rate_avg2">Nhịp tim khi nghỉ trung bình. Cao nhất: %1$d. Thấp nhất: %2$d.</string>
+	<string name="hr_input_heart_rate">Ghi lại nhịp tim</string>
+	<string name="heart_rate">Nhịp tim</string>
+	<string name="tb_heart_rate_max_min">Nhịp tim. Cao nhất: %1$d. Thấp nhất: %2$d.</string>
+	<string name="hr_heart_rate_unit">Nhịp tim (BPM)</string>
+	<string name="resting_heart_rate">Nhịp tim nghỉ ngơi</string>
+	<string name="resting_heart_rate_desc">Nhịp tim bình thường của người lớn khi nghỉ ngơi dao động từ 60 đến 100 nhịp mỗi phút. Nó có thể thay đổi tùy theo độ tuổi, giới tính và các yếu tố khác.</string>
+	<string name="tb_home_heart_rate_card_no_data">Nhịp tim. Không có dữ liệu.</string>
+	<string name="tb_resting_heart_rate_avg">Nhịp tim trung bình khi nghỉ: %1$d. Trạng thái: %2$s.</string>
+	<string name="tb_home_heart_rate_card">Nhịp tim. %1$d nhịp mỗi phút. Đã ghi lúc %2$s.</string>
 </resources>

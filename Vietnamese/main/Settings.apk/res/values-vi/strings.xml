@@ -10914,4 +10914,15 @@ Chức năng này chỉ nhận được địa chỉ MAC Wi-Fi của bạn để
 	<string name="airplane_mode_summary">Vô hiệu hóa cuộc gọi, tin nhắn SMS, dữ liệu di động</string>
 	<string name="find_my_device_summary">Cần phải đăng nhập vào Tài khoản Mi</string>
 	<string name="ipv4_congertion_control">Chọn điều khiển tắc nghẽn TCP</string>
+	<string name="advanced_gesture">Tùy chỉnh cử chỉ</string>
+	<string name="smart_home_value_none">Không</string>
+	<string name="smart_home_value_unknown">Không xác định</string>
+	<string name="sim_card_lock">Tình trạng thẻ SIM</string>
+	<string name="change_brightness">Điều chỉnh độ sáng</string>
+	<string name="smart_home_title">Nhà thông minh</string>
+	<string name="gesture_settings_title">Lối tắt cử chỉ</string>
+	<string name="key_combination_power_volume_down">Giảm âm lượng + Nguồn</string>
+	<string name="double_click_volume_down_when_lock">Nhấn nút Giảm âm lượng hai lần khi màn hình khóa</string>
+	<string name="gesture_function_dialog_message">%1$s đã được sử dụng cho \"%2$s\". Thay thế bằng \"%3$s\"?</string>
+	<string name="long_press_power_key_half_second">Nhấn và giữ nút Nguồn trong khoảng 0.5 giây</string>
 </resources>

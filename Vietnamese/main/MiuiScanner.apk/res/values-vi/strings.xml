@@ -584,4 +584,11 @@ Vui lòng tham khảo góc trên hình để đặt thiết bị và thử lại
 	<string name="monitor_result_switch_text">Kết quả ghi</string>
 	<string name="general_location_prompt">Dịch vụ lưu trữ yêu cầu quyền vị trí</string>
 	<string name="share_format">Định dạng chia sẻ</string>
+	<string name="mihome_goto_install">Cài đặt ngay</string>
+	<string name="mihome_update_title">Cập nhật Mi Home</string>
+	<string name="mihome_update_message">Phiên bản Mi Home hiện tại quá thấp, vui lòng cập nhật và thử lại.</string>
+	<string name="mihome_install_title">Cài đặt ứng dụng Mi Home</string>
+	<string name="mihome_install_message">Để liên kết thiết bị, bạn cần cài đặt Ứng dụng Mi Home. Vui lòng cài đặt và đăng nhập rồi thử lại.</string>
+	<string name="mihome_goto_update">Cập nhật ngay</string>
+	<string name="general_location">Chức năng nhận dạng cửa hàng cần lấy thông tin vị trí để cho phép</string>
 </resources>
