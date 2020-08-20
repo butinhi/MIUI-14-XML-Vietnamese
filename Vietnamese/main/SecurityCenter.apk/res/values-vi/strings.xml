@@ -1535,7 +1535,7 @@ thiết bị của bạn"</string>
     <string name="antivirus_choose_engine_dialog_title">Chọn nhận dạng</string>
     <string name="antivirus_monitor_clean_tips">Mục đã xóa: %s</string>
     <string name="antivirus_privacy_dialog_title">Chính sách Riêng tư</string>
-    <string name="antivirus_privacy_dialog_summary">Tính năng này sẽ mã hóa và tải ID thiết bị của bạn lên máy chủ của Avast, AVL và Tencent (%s).</string>
+    <string name="antivirus_privacy_dialog_summary">&lt;Data&gt;Tính năng này được cung cấp bởi công cụ diệt vi-rút bên thứ ba. Để tìm hiểu thêm, đọc &lt;a href=\"%1$s\"&gt;Thỏa thuận Bản quyền&lt;/a&gt; cung cấp bởi ứng dụng bên thứ ba.&lt;/Data&gt;</string>
     <string name="antivirus_privacy_dialog_summary_link">Chính sách Riêng tư</string>
     <string name="antivirus_privacy_dialog_cloudscan">Tải lên tên và chi tiết ứng dụng</string>
     <string name="antivirus_privacy_dialog_cloudscan_description">Tải lên và quét tên và chi tiết ứng dụng bằng cơ sở dữ liệu virus trực tuyến.</string>

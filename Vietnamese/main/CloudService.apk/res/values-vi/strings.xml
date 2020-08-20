@@ -917,4 +917,9 @@ Nếu bạn không đồng ý cấp các quyền đó hoặc chia sẻ và tải
 	<string name="midrive_guide1_desc">Sao lưu các mục vào đám mây để giải phóng dung lượng trên thiết bị của bạn.</string>
 	<string name="midrive_guide2_title">Tải nhanh</string>
 	<string name="midrive_guide2_desc">Tải các mục xuống với tốc độ đáng kinh ngạc.</string>
+	<string name="power_off_locate_summary">"Báo cáo thông tin vị trí bằng cách nhấn giữ nút Nguồn.
+Thông tin vị trí có thể không được báo cáo khi kết nối mạng kém."</string>
+	<string name="low_battery_locate_title">Báo cáo vị trí khi pin yếu</string>
+	<string name="power_off_locate_title">Báo cáo vị trí trước khi tắt nguồn</string>
+	<string name="low_battery_locate_summary">Tự động báo cáo vị trí khi pin yếu</string>
 </resources>

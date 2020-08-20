@@ -337,7 +337,10 @@
     <string name="feedback_choose_reproductivity">Sản phẩm</string>
     <string name="feedback_choose_third_app_name">Chọn tên ứng dụng</string>
     <string name="feedback_delete_images">Xóa ảnh</string>
-    <string name="feedback_description_hint">Mô tả vấn đề mà bạn gặp phải</string>
+    <string name="feedback_description_hint">"Mô tả vấn đề bạn gặp phải tại đây.
+%1$d. Ứng dụng nào hoặc trang nào bạn gặp vấn đề?
+%2$d. Sau hành động nào thì gặp vấn đề?
+%3$d. Cho chúng tôi thêm vài thông tin để có thể giúp chúng tôi sửa lỗi."</string>
     <string name="feedback_select_modem_log_not_select_desc">Chưa chọn \"Thêm nhật ký modem\"</string>
     <string name="feedback_select_modem_log_select_desc">Đã chọn \"Thêm nhật ký modem\"</string>
     <string name="feedback_select_problem_not_select_desc">Chưa chọn \"Vấn đề\"</string>

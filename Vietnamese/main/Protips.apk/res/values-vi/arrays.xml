@@ -1,3 +1,43 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+	<string-array name="tips">
+		<item>"Xem tất cả ứng dụng của bạn.
+ Chạm Biểu tượng Trình khởi chạy. @drawable/all_apps"</item>
+		<item>"Kéo ứng dụng vào Màn hình chính của bạn.
+ Chạm &amp; giữ một ứng dụng trong Trình khởi chạy cho đến khi rung lên."</item>
+		<item>"Sắp xếp lại Màn hình chính của bạn.
+ Chạm &amp; giữ một mục và khi nó rung lên, kéo nó tới vị trí bạn muốn."</item>
+		<item>"Xóa một mục.
+ Chạm &amp; giữ một mục cho đến khi nó rung lên, kéo nó vào biểu tượng Thùng rác. @drawable/trash"</item>
+		<item>"Nhiều Màn hình chính.
+ Vuốt trái hoặc phải để chuyển. Kéo mục tới màn hình khác."</item>
+		<item>"Muốn xóa tiện ích này?
+ Chạm &amp; giữ nó và khi nó rung, kéo nó vào biểu tượng Thùng rác."</item>
+	</string-array>
+	<string-array name="tips2">
+		<item>"Màn hình chính như một khu vườn 
+Chạm &amp; giữ một ô trống 
+Để trồng biểu tượng mới"</item>
+		<item>"Điện thoại không chống nước đâu 
+Đừng ngâm nó trong nước 
+hay các chất lỏng khác"</item>
+		<item>"Muốn có thêm vài màn hình chính khác? 
+Vuốt trái hoặc phải để tìm nó 
+(Không cần phải trộm đâu)"</item>
+		<item>"Các chấm nhỏ trên Màn hình chính 
+Chúng có thể làm gì? 
+Chạm &amp; giữ để biết."</item>
+		<item>"Biểu tượng Thanh trạng thái 
+Để khám phá bí mật của chúng 
+Kéo nó xuống"</item>
+		<item>"Có một mẹo để 
+Kéo các mục qua các Màn hình chính
+Tạm dừng một chút ở cạnh"</item>
+		<item>"Chạm Chợ ứng dụng để tìm ứng dụng 
+Như một hộp Sô-cô-la 
+Mỗi miếng là một điều thú vị"</item>
+		<item>"Ồ, và tiện thể: 
+Tôi không phải trombone 
+Tôi là Android"</item>
+	</string-array>
 </resources>

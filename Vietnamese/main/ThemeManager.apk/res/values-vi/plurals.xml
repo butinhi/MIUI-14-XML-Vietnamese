@@ -137,4 +137,28 @@
 	<plurals name="detail_reward_few_times">
 		<item quantity="other">%s phần thưởng</item>
 	</plurals>
+	<plurals name="anonymous_resource_count_font">
+		<item quantity="other">%1$d phông chữ</item>
+	</plurals>
+	<plurals name="anonymous_resource_login_message">
+		<item quantity="other">"Bạn chỉ có thể tải %1$d mục miễn phí nếu bạn chưa đăng nhập (ngoại trừ hình nền và nhạc chuông). Đăng nhập để tải không hạn chế."</item>
+	</plurals>
+	<plurals name="anonymous_resource_count_theme">
+		<item quantity="other">%1$d chủ đề</item>
+	</plurals>
+	<plurals name="anonymous_resource_count_aod">
+		<item quantity="other">%1$d chủ đề AOD</item>
+	</plurals>
+	<plurals name="anonymous_resource_link_success_message">
+		<item quantity="other">Đã thêm %1$d mục vào tài khoản của bạn. Xem các mục đã thêm trong đơn hàng của bạn.</item>
+	</plurals>
+	<plurals name="anonymous_resource_count_icon">
+		<item quantity="other">%1$d biểu tượng</item>
+	</plurals>
+	<plurals name="anonymous_resource_count_title">
+		<item quantity="other">Đã thêm %1$d mục</item>
+	</plurals>
+	<plurals name="anonymous_resource_view">
+		<item quantity="other">"%1$d mục chưa được thêm vào tài khoản của bạn"</item>
+	</plurals>
 </resources>

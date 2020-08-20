@@ -1941,4 +1941,8 @@ Gửi mã này cho người giám sát."</string>
 	<string name="galleryplus_fr_unsupport_restore_speed">Không hỗ trợ tốc độ khung hình. Đã chuyển sang tốc độ thông thường.</string>
 	<string name="galleryplus_network_connect_confirm">Kết nối Wi-Fi hoặc bật dữ liệu di động trong cài đặt mạng.</string>
 	<string name="galleryplus_online_cta">Mi Video cần kết nối mạng để hoạt động bình thường. Đồng ý?</string>
+	<string name="vp_copyright_unsported_video">"Không thể phát video này vì hạn chế bản quyền"</string>
+	<string name="galleryplus_copyright_unsported_audio">"Không thể phát âm thanh của video vì hạn chế bản quyền"</string>
+	<string name="galleryplus_copyright_unsported_video">"Không thể phát video này vì hạn chế bản quyền"</string>
+	<string name="vp_copyright_unsported_audio">"Không thể phát âm thanh của video vì hạn chế bản quyền"</string>
 </resources>

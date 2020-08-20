@@ -1450,4 +1450,27 @@ d MMMM"</string>
 	<string name="settings_search_keyword_font_keyboard">Phông chữ bàn phím</string>
 	<string name="settings_search_keyword_font_wechat">Phông chữ WeChat</string>
 	<string name="font_trial_end_purchase">Mua phông chữ</string>
+	<string name="anonymous_resource_link_retry_confirm">Thử lại</string>
+	<string name="anonymous_resource_link_retry_cancel">Hủy</string>
+	<string name="miuix_compat_dialog_button">Tôi biết</string>
+	<string name="anonymous_resource_login_title">Đăng nhập trước</string>
+	<string name="anonymous_resource_linking">Đang thêm…</string>
+	<string name="anonymous_resource_link_retry">Có lỗi xảy ra. Chờ một vài phút rồi thử lại.</string>
+	<string name="miuix_compat_contact">Liên hệ</string>
+	<string name="anonymous_resource_unlink_cancel">Hủy</string>
+	<string name="miuix_compat_dialog_checkbox">Không hiển thị lại</string>
+	<string name="anonymous_resource_link_now">Thêm</string>
+	<string name="anonymous_resource_unlink">Không, cảm ơn</string>
+	<string name="anonymous_resource_login_confirm">Đăng nhập</string>
+	<string name="miuix_compat_dialog_cancel">Hủy</string>
+	<string name="anonymous_resource_link_error">Không thể thêm</string>
+	<string name="miuix_compat_mms">Tin nhắn</string>
+	<string name="anonymous_resource_unlink_confirm">Không thêm</string>
+	<string name="anonymous_resource_link_success">Đã thêm thành công</string>
+	<string name="miuix_compat_dialog_title">Đã áp dụng chủ đề mặc định vào \"%s\"</string>
+	<string name="anonymous_resource_link_hint">"Một vài mục chưa được thêm vào tài khoản của bạn. Thêm ngay?"</string>
+	<string name="miuix_compat_dialog_content">"Phiên bản hiện tại của \"%s\" không tương thích với chủ đề này."</string>
+	<string name="anonymous_resource_unlink_title">Xác nhận hành động của bạn</string>
+	<string name="anonymous_resource_unlink_hint">"Nếu bạn không thêm mục, chúng sẽ không được liên kết với tài khoản của bạn."</string>
+	<string name="miuix_compat_dialog_update_title">Yêu cầu cập nhật</string>
 </resources>

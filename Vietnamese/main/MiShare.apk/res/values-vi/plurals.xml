@@ -117,4 +117,22 @@
 	<plurals name="send_apk_dialog_desc_receiving">
 		<item quantity="other">Đang nhận %2$d gói cài đặt (%3$s) từ %1$s…</item>
 	</plurals>
+	<plurals name="image_received_successfully">
+		<item quantity="other">Nhận thành công %2$d ảnh từ %1$s</item>
+	</plurals>
+	<plurals name="file_received_successfully">
+		<item quantity="other">Nhận thành công %2$d tệp từ %1$s</item>
+	</plurals>
+	<plurals name="successfully_sent_images">
+		<item quantity="other">Gửi thành công %2$d ảnh tới %1$s</item>
+	</plurals>
+	<plurals name="successfully_sent_files">
+		<item quantity="other">Gửi thành công %2$d tệp tới %1$s</item>
+	</plurals>
+	<plurals name="send_file_success_detail_images_content">
+		<item quantity="other">Đã chuyển %1$d ảnh đến %2$s</item>
+	</plurals>
+	<plurals name="send_file_success_detail_files_content">
+		<item quantity="other">Đã chuyển %1$d tệp đến %2$s</item>
+	</plurals>
 </resources>

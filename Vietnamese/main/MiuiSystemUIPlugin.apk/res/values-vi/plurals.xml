@@ -52,4 +52,7 @@
 		<item quantity="other">trong %d phút</item>
 		<item quantity="one">trong 1 phút</item>
 	</plurals>
+	<plurals name="controls_number_of_favorites">
+		<item quantity="other">Đã thêm %s điều khiển.</item>
+	</plurals>
 </resources>

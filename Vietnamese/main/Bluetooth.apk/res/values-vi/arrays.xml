@@ -10,9 +10,4 @@
         <item>Tìm điện thoại</item>
         <item>Tìm MiKey</item>
     </string-array>
-    <string-array name="ble_package_names">
-        <item></item>
-        <item>Mi Fit</item>
-        <item></item>
-    </string-array>
 </resources>

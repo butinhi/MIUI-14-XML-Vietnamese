@@ -6,4 +6,10 @@
 	<plurals name="monitoringHistory_deleteAlert">
 		<item quantity="other">Bạn có chắc muốn xóa %1$d bản ghi này?</item>
 	</plurals>
+	<plurals name="are_you_sure_you_want_delete_this">
+		<item quantity="other">Xóa %1$d ảnh ngay?</item>
+	</plurals>
+	<plurals name="are_you_sure_you_want_delete_file">
+		<item quantity="other">Xóa %1$d tệp ngay?</item>
+	</plurals>
 </resources>

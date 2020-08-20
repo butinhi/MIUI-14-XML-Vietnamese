@@ -1762,4 +1762,8 @@ Ghi chú: Chỉ cho phiên bản Ubuntu 8.04!"</item>
 		<item>LTE</item>
 		<item>Chế độ ba</item>
 	</string-array>
+	<string-array name="screen_reader_mode_input_type_selector_titles">
+		<item>Chạm</item>
+		<item>Chạm hai lần</item>
+	</string-array>
 </resources>

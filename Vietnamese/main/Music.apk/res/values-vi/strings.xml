@@ -1895,4 +1895,17 @@ Bạn có thể tìm thấy tất cả các bài hát của bạn ở một nơi
 	<string name="upload_favorite_setting_title">Đồng bộ bài hát</string>
 	<string name="upload_favorite_dialog_title">Tải bài hát lên đám mây để có thể truy cập chúng trên các thiết bị đã đồng bộ. Bạn có thể tắt tính năng này trong Cài đặt.</string>
 	<string name="upload_favorite_setting_summary">Tải bài hát lên đám mây để truy cập trên thiết bị khác</string>
+	<string name="dialog_score_msg_score_not_good">Bạn có thể gửi phản hồi cho chúng tôi không?</string>
+	<string name="exo_controls_hide">Ẩn điều khiển trình phát</string>
+	<string name="toast_will_play_list_when_ad_pause">Danh sách sẽ được phát sau quảng cáo</string>
+	<string name="dialog_score_toast_rate">Đánh giá ứng dụng của chúng tôi trước</string>
+	<string name="exo_controls_vr_description">Chế độ VR</string>
+	<string name="exo_controls_shuffle_off_description">Tắt trộn bài</string>
+	<string name="shuffle_play_toast_text">Đang trộn bài…</string>
+	<string name="toast_will_play_song_when_ad_pause">Bài hát này sẽ phát sau quảng cáo</string>
+	<string name="dialog_score_toast_scroll_down_score_midrop">Vuốt xuống để đánh giá ứng dụng của chúng tôi</string>
+	<string name="exo_controls_show">Hiển thị điều khiển trình phát</string>
+	<string name="exo_controls_shuffle_on_description">Bật trộn bài</string>
+	<string name="dialog_score_msg_score_perfect">Tốt lắm! Đánh giá ứng dụng của chúng tôi trên CH Play?</string>
+	<string name="dialog_score_msg_score_explorer">Bạn có thích Mi Music không?</string>
 </resources>

@@ -603,4 +603,25 @@ Vui lòng gửi mã này cho nhân viên kỹ thuật."</string>
 	<string name="setting_create_shortcut">Lối tắt Màn hình chính</string>
 	<string name="tip_shortcut_added_success">Tạo thành công</string>
 	<string name="tip_shortcut_already_added">Đã tồn tại Lối tắt Màn hình chính</string>
+	<string name="refresh_label_refreshed">Đã làm mới</string>
+	<string name="load_label_up_none">Không còn mục nào nữa</string>
+	<string name="refresh_label_refreshing">Đang làm mới</string>
+	<string name="load_label_up_no_data">Không còn mục nào nữa</string>
+	<string name="refresh_label_pull_to_refresh">Kéo xuống để làm mới</string>
+	<string name="load_label_up_refresh_fail">Thất bại</string>
+	<string name="load_label_up_refresh">Đang tải các mục…</string>
+	<string name="refresh_label_release_to_refresh">Thả ra để làm mới</string>
+	<string name="update_failed">Lỗi máy chủ. Chờ một vài phút rồi thử lại.</string>
+	<string name="xiaomi_market_sdk_update_dialog_ok">Cập nhật ngay</string>
+	<string name="update_dialog_title">Tìm thấy cập nhật mới</string>
+	<string name="update_no_update">Phiên bản hiện tại là mới nhất</string>
+	<string name="xiaomi_market_sdk_update_dialog_title">%s Phiên bản mới</string>
+	<string name="update_progress_dialog_content">Đang tải xuống…</string>
+	<string name="update_no_network">Mạng không mạnh, vui lòng kiểm tra trạng thái mạng ~</string>
+	<string name="update_dialog_button_ok">Cập nhật</string>
+	<string name="update_dialog_button_cancel">Lần tới</string>
+	<string name="xiaomi_market_sdk_update_dialog_cancel">Để sau</string>
+	<string name="update_dialog_content">"Phiên bản mới: %1$s
+%2$s"</string>
+	<string name="update_failed_no_app_info">"Không thể nhận gói cài đặt"</string>
 </resources>

@@ -487,4 +487,14 @@ Nếu cả hai thiết bị không thể kết nối tới cùng một mạng, b
 	<string name="dialog_miplay_permission_positive">Cài đặt</string>
 	<string name="dialog_miplay_permission_title">Yêu cầu quyền</string>
 	<string name="dialog_miplay_permission_message">Cho phép Truyền có thể ghi âm, truy cập tệp trong bộ nhớ trong và truy cập vị trí của bạn để có thể sử dụng tính năng này bình thường. Chạm \"Cài đặt\" và chọn \"Quyền ứng dụng\" để tiếp tục.</string>
+	<string name="v7_preference_off">TẮT</string>
+	<string name="not_set">Chưa đặt</string>
+	<string name="preference_copied">\"%1$s\" đã sao chép vào clipboard.</string>
+	<string name="month_march_shortest">Tháng 3</string>
+	<string name="month_may_shortest">Tháng năm</string>
+	<string name="monday_shortest">Th 2</string>
+	<string name="v7_preference_on">BẬT</string>
+	<string name="expand_button_title">Nâng cao</string>
+	<string name="copy">Sao chép</string>
+	<string name="synergy_casting">Không thể truyền khi có quá nhiều tiến trình trên màn hình</string>
 </resources>

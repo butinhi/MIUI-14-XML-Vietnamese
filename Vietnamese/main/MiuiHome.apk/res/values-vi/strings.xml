@@ -642,4 +642,11 @@
 	<string name="navigation_guide_gesture_line_dialog_summary">Cử chỉ mới để chuyển giữa các ứng dụng sẽ được sử dụng sau khi bạn ẩn chỉ báo màn hình tràn cạnh. Tìm hiểu cử chỉ này?</string>
 	<string name="navigation_guide_app_title">Kích hoạt thao tác của ứng dụng</string>
 	<string name="navigation_guide_app_quick_switch_summary">Vuốt sang trái hoặc phải từ chỉ báo màn hình tràn cạnh hoặc từ cạnh dưới</string>
+	<string name="menu_new_display_open">Mở trong cửa sổ mới</string>
+	<string name="menu_pc_open">Mở bằng chương trình máy tính</string>
+	<string name="open_personal_assistant_title_synonyms">Màn hình -1</string>
+	<string name="navigation_type_title_synonyms_1">Toàn màn hình</string>
+	<string name="navigation_type_title_synonyms_3">Cử chỉ toàn màn hình</string>
+	<string name="navigation_type_title_synonyms_2">Thanh nhỏ màu trắng</string>
+	<string name="navigation_type_title_synonyms_4">Phím điều hướng</string>
 </resources>

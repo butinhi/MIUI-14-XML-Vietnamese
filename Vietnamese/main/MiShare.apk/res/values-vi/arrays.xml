@@ -4,4 +4,20 @@
         <item>Để truy cập và lưu ảnh, ứng dụng, và các tệp khác, cũng như chuyển các tệp đó</item>
         <item>Để truyền tệp qua Bluetooth và Wi-Fi</item>
     </string-array>
+	<string-array name="permissions_desc_china">
+		<item>Để truy cập và lưu ảnh, ứng dụng, và các tệp khác, cũng như truyền chúng</item>
+		<item>Để truyền tệp qua Bluetooth và Wi-Fi</item>
+	</string-array>
+	<string-array name="permissions_desc_v12_china">
+		<item>Để gửi và nhận tệp tin</item>
+		<item>Để truyền tệp tin qua Bluetooth và Wi-Fi</item>
+		<item>Để tìm thiết bị khả dụng gần đó qua Bluetooth</item>
+		<item>Để tìm thiết bị khả dụng gần đó và truyền tệp qua Wi-Fi</item>
+	</string-array>
+	<string-array name="permissions_desc_v12">
+		<item>Để gửi và nhận tệp tin</item>
+		<item>Để truyền tệp tin qua Bluetooth và Wi-Fi</item>
+		<item>Để tìm thiết bị khả dụng gần đó qua Bluetooth</item>
+		<item>Để tìm thiết bị khả dụng gần đó và truyền tệp qua Wi-Fi</item>
+	</string-array>
 </resources>
