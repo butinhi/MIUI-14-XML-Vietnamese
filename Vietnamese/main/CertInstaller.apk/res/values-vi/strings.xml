@@ -85,4 +85,5 @@ Khóa: %2$s
 	<string name="invalid_certificate_title">"Không thể sử dụng tệp tin này"</string>
 	<string name="ca_cert_is_added">Đã cài đặt chứng chỉ CA</string>
 	<string name="redirect_ca_certificate_message">Chứng chỉ CA có thể khiến sự riêng tư của bạn gặp nguy hiểm và cần phải cài đặt trong Cài đặt</string>
+	<string name="redirect_ca_certificate_with_app_info_message">Chứng chỉ này từ %1$s cần được cài đặt trong Cài đặt. Chỉ cài đặt chứng chỉ CA từ tổ chức bạn tin tưởng.</string>
 </resources>

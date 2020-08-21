@@ -21,4 +21,7 @@
 	<plurals name="accessibility_timer_burst_interval">
 		<item quantity="other">Đếm ngược: %d giây</item>
 	</plurals>
+	<plurals name="accessibility_vv_duartion">
+		<item quantity="other">Thời lượng: %d giây</item>
+	</plurals>
 </resources>

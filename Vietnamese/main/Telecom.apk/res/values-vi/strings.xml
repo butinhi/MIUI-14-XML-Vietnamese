@@ -836,4 +836,6 @@ Bất kỳ người dùng nào cũng có thể thay mặt cho tất cả ngườ
 	<string name="notification_audioProcessing_title">Cuộc gọi dưới nền</string>
 	<string name="notification_disconnectedCall_body">Cuộc gọi đến %s đã ngắt kết nối vì cuộc gọi khẩn cấp đang thực hiện.</string>
 	<string name="media_transfer_wired_usb_device_name">Tai nghe có dây</string>
+	<string name="notification_incallservice_not_responding_title">%s dừng phản hồi</string>
+	<string name="notification_incallservice_not_responding_body">Cuộc gọi của bạn sử dụng ứng dụng điện thoại đi kèm thiết bị của bạn</string>
 </resources>

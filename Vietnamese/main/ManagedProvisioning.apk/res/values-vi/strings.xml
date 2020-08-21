@@ -268,4 +268,5 @@
 	<string name="install_creditor_app_description">Cài đặt ứng dụng %1$s trên thiết bị này</string>
 	<string name="cope_provisioning_summary">Ứng dụng công việc được giữ trong hồ sơ công việc và được quản lý bởi quản trị IT của bạn. Ứng dụng cá nhân riêng lẻ và được ẩn khỏi ứng dụng công việc. Quản trị IT của bạn có thể điều khiển thiết bị và chặn một số ứng dụng.</string>
 	<string name="financed_device_screen_header">Thiết bị này được cung cấp bởi %1$s</string>
+	<string name="car_ui_toolbar_nav_icon_content_description">Quay lại</string>
 </resources>
