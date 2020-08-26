@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string-array name="settings_search_mirror">
+		<item>Tổ hợp Màn hình</item>
+		<item>Kết nối &amp; chia sẻ/Tổ hợp Màn hình</item>
+		<item>Tổ hợp Màn hình</item>
+	</string-array>
+	<string-array name="settings_tips_message">
+		<item>"1. Bật điểm phát di động, Chia sẻ Mi, hoặc truyền trên thiết bị di động của bạn trước khi sử dụng Tổ hợp Màn hình.
+2. Tắt Wi-Fi trên cả thiết bị di động và máy tính.
+3. Đảm bảo thiết bị di động gần với máy tính."</item>
+		<item>Máy tính của bạn sử dụng Bluetooth để phát hiện thiết bị di động đã kết nối trước đó. Kiểm tra xem Bluetooth đã được bật trên thiết bị di động chưa.</item>
+		<item>"Thiết bị di động không thể đồng bộ dữ liệu với máy tính khi màn hình bị khóa. Mặc định, Tổ hợp Màn hình không cho phép khóa màn hình khi thiết bị di động đã kết nối với máy tính. Bạn có thể thay đổi điều này trong Cài đặt."</item>
+		<item>"1. Điện thoại Xiaomi đã chọn chạy Android Q trở lên hỗ trợ Tổ hợp Màn hình. Nếu bạn thấy trang web MIUI sau khi quét mã QR, thiết bị của bạn chưa được hỗ trợ.
+2. Để sử dụng Tổ hợp Màn hình trên máy tính, cài đặt phiên bản mới nhất của Chia sẻ thông minh Mi."</item>
+	</string-array>
+	<string-array name="settings_tips_title">
+		<item>"Không thể kết nối bằng mã QR?"</item>
+		<item>"Không thể tìm thấy thiết bị di động bằng máy tính?"</item>
+		<item>"Không thể khóa thiết bị di động của bạn?"</item>
+		<item>Tính tương thích</item>
+	</string-array>
+</resources>
