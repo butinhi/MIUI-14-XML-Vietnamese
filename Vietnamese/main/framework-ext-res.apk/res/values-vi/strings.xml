@@ -342,4 +342,6 @@
 	<string name="double_knock_def_function">Không</string>
 	<string name="knock_slide_shape_def_function">Không</string>
 	<string name="knock_long_press_horizontal_slid_def_function">Không</string>
+	<string name="input_method_clipboard_move_cursor_guide1">Nhấn giữ khu vực màu xanh để di chuyển con trỏ ~</string>
+	<string name="input_method_clipboard_move_cursor_guide2">Di chuyển ngón tay theo chiều ngang ~</string>
 </resources>

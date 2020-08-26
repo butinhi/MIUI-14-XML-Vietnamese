@@ -447,4 +447,7 @@ Nếu bạn bật dữ liệu di động lại, nhà mạng sẽ tính phí bổ
 	<plurals name="om_running_apps_num">
 		<item quantity="other">%d ứng dụng</item>
 	</plurals>
+	<plurals name="ew_concern_date">
+		<item quantity="other">%d ngày trước</item>
+	</plurals>
 </resources>

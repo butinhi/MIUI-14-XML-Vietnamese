@@ -591,4 +591,7 @@ Vui lòng tham khảo góc trên hình để đặt thiết bị và thử lại
 	<string name="mihome_install_message">Để liên kết thiết bị, bạn cần cài đặt Ứng dụng Mi Home. Vui lòng cài đặt và đăng nhập rồi thử lại.</string>
 	<string name="mihome_goto_update">Cập nhật ngay</string>
 	<string name="general_location">Chức năng nhận dạng cửa hàng cần lấy thông tin vị trí để cho phép</string>
+	<string name="general_plant">Thứ bạn đang tìm kiếm có thể là:</string>
+	<string name="general_no">Không tìm thấy thông tin</string>
+	<string name="general_no_found">Đề xuất sản phẩm tương tự cho bạn</string>
 </resources>

@@ -723,4 +723,7 @@ An toàn và bảo mật"</string>
 	<string name="gb_pannel_control_mode_power_saving">Tiết kiệm điện</string>
 	<string name="set_babybus_home">Thiết lập Màn hình chính xe buýt em bé</string>
 	<string name="gb_gpu_dialog_message">Cài đặt GPU hiện tại được áp dụng cho \"%s\". Mở lại trò chơi để áp dụng cài đặt.</string>
+	<string name="tool_box_active_no_networ">Không thể kết nối mạng</string>
+	<string name="tool_box_active_reload">Làm mới</string>
+	<string name="tool_box_active_loading">Đang làm mới</string>
 </resources>

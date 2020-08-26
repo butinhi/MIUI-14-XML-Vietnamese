@@ -10927,4 +10927,10 @@ Chức năng này chỉ nhận được địa chỉ MAC Wi-Fi của bạn để
 	<string name="long_press_power_key_half_second">Nhấn và giữ nút Nguồn trong khoảng 0.5 giây</string>
 	<string name="screen_reader_mode_input_type_title">Nhập văn bản</string>
 	<string name="screen_reader_mode_input_type_summary">Chọn cử chỉ để kích hoạt nhập văn bản khi TalkBack được bật</string>
+	<string name="bt_show_notification_title">Thông báo về kết nối Bluetooth</string>
+	<string name="bt_show_notification_summary">Hiển thị thông báo vĩnh viễn trên Bảng thông báo</string>
+	<string name="input_method_middle_function_move_cursor">Di chuyển con trỏ</string>
+	<string name="middle_function_key">Khu vực trung tâm</string>
+	<string name="input_method_middle_function_move_cursor_des">Nhấn giữ khu vực trung tâm để di chuyển con trỏ</string>
+	<string name="input_method_middle_function_no_function_des">"Không gán bất kỳ hành động nào"</string>
 </resources>

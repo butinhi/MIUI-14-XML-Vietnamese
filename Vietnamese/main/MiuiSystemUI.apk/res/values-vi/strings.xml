@@ -2403,4 +2403,6 @@ Thử lại sau %d giây."</string>
 	<string name="biometric_dialog_last_pin_attempt_before_wipe_profile">Nếu bạn nhập sai PIN trong lần tới, hồ sơ công việc của bạn và dữ liệu của nó sẽ bị xóa.</string>
 	<string name="biometric_dialog_empty_space_description">Chạm để hủy xác thực</string>
 	<string name="biometric_dialog_last_pin_attempt_before_wipe_user">Nếu bạn nhập sai PIN trong lần tới, người dùng này sẽ bị xóa.</string>
+	<string name="sim_state_locked_dialog_title">Thẻ SIM không hợp lệ</string>
+	<string name="sim_state_locked_puk_dialog_message">"Bạn đã nhập sai mã PUK ít nhất 10 lần. Thẻ SIM của bạn hiện không hợp lệ. Thay thẻ SIM này bằng một thẻ khác."</string>
 </resources>

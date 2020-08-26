@@ -680,4 +680,17 @@
 	<string name="bluetooth_connected_no_headset_no_a2dp">Đã kết nối (không có điện thoại hay phương tiện)%1$s</string>
 	<string name="bluetooth_connected_no_a2dp">Đã kết nối (không có phương tiện)%1$s</string>
 	<string name="bluetooth_connected_no_map">Đã kết nối (không truy cập tin nhắn)%1$s</string>
+	<string name="sa_category_6_title_primary">Bài tập</string>
+	<string name="sa_category_1_title_primary">Thông điệp cảnh báo Quốc gia</string>
+	<string name="sa_category_6_title_secondary">Bài tập</string>
+	<string name="sa_category_6_title">Bài tập</string>
+	<string name="sa_category_4_title_primary">Tin nhắn cảnh báo</string>
+	<string name="test_alert_title">Thông báo test</string>
+	<string name="national_emergency_alert_title">Thông báo khẩn cấp quốc gia</string>
+	<string name="sa_category_4_title_secondary">Cảnh báo</string>
+	<string name="emergency_alert_title">Cảnh báo khẩn cấp</string>
+	<string name="exercise_title">Bài tập</string>
+	<string name="sa_category_3_title_primary">Tin nhắn cảnh báo khẩn cấp</string>
+	<string name="sa_category_4_title">Cảnh báo</string>
+	<string name="warning_alert_title">Thông báo cảnh báo</string>
 </resources>
