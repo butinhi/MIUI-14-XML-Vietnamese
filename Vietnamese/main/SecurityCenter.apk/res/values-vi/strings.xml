@@ -4087,4 +4087,7 @@ Sau khi được đặt, nếu bạn đóng ứng dụng, các quyền sẽ tr�
 	<string name="ew_subscribe_city_count">Bạn có thể đăng ký tối đa %s thành phố</string>
 	<string name="ew_info_range">Phạm vi dịch vụ</string>
 	<string name="ew_not_support_area">"Cảnh báo không hỗ trợ ở khu vực này"</string>
+	<string name="gtb_wlan_speed_tips">Đang dùng Mi WiFi…</string>
+	<string formatted="false" name="gtb_setting_item_summary_smart_wlan_speed">Tăng tốc độ kết nối khoảng 10%-20% khi kết nối tới router Mi/Redmi</string>
+	<string name="gtb_setting_item_title_smart_wlan_speed">Tăng tốc Mi WiFi</string>
 </resources>

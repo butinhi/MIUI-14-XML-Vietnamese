@@ -443,4 +443,5 @@
 	<string name="miui_guide_menu_privacy">Chính sách Riêng tư</string>
 	<string name="miui_mine_repair_mode_title">Chế độ bảo trì</string>
 	<string name="miui_mine_repair_mode_sub_title">Đảm bảo an toàn dữ liệu của bạn trong quá trình bảo trì sau bán hàng</string>
+	<string name="miui_main_update_back_to_home">Đang chuẩn bị Màn hình chính…</string>
 </resources>
