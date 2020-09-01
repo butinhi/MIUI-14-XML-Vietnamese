@@ -72,4 +72,6 @@ Bạn có muốn bật cho Dịch vụ NFC"</string>
 	<string name="abc_capital_on">BẬT</string>
 	<string name="abc_search_hint">Tìm kiếm...</string>
 	<string name="abc_searchview_description_clear">Xóa truy vấn</string>
+	<string name="nfc_blocking_alert_message">Chạm để biết cách sửa.</string>
+	<string name="nfc_blocking_alert_title">NFC có thể bị chặn</string>
 </resources>

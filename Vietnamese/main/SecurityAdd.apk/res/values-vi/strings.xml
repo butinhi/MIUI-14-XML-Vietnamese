@@ -726,4 +726,10 @@ An toàn và bảo mật"</string>
 	<string name="tool_box_active_no_networ">Không thể kết nối mạng</string>
 	<string name="tool_box_active_reload">Làm mới</string>
 	<string name="tool_box_active_loading">Đang làm mới</string>
+	<string name="gb_game_speed_open_fail">"Không thể bật chế độ Tốc độ ánh sáng"</string>
+	<string name="gb_game_speed_closed_fail">"Không thể tắt chế độ Tốc độ ánh sáng"</string>
+	<string name="gb_game_speed_open">Chế độ Tốc độ ánh sáng bật</string>
+	<string name="gb_dialog_game_speed_close">Đang tắt chế độ Tốc độ ánh sáng…</string>
+	<string name="gb_game_speed_closed">Chế độ Tốc độ ánh sáng tắt</string>
+	<string name="gb_dialog_game_speed_exist">Bạn chỉ có thể sử dụng một trò chơi trong chế độ Tốc độ ánh sáng. Thay thế \"%s\" ngay?</string>
 </resources>

@@ -288,4 +288,18 @@ Kiểm tra cài đặt mạng và thử lại."</string>
 Ghi chú: Dữ liệu của ứng dụng bạn đã cài đặt sẽ không được sao lưu lên  Xiaomi Cloud."</string>
 	<string name="cloud_backup_detail_state_summary_china">Tự động tạo bản sao lưu Xiaomi Cloud khi kết nối Wi-Fi.</string>
 	<string name="dialog_msg_restore_require_wlan_china">Khôi phục từ bản sao lưu yêu cầu kết nối Wi-Fi.</string>
+	<string name="backup_action_clean_disk_space">Giải phóng dung lượng</string>
+	<string name="backup_action_check_network">Kiểm tra Cài đặt mạng</string>
+	<string name="backup_remind_clean_disk_space">Giải phóng bộ nhớ lưu trữ</string>
+	<string name="backup_action_retry_now">Thử lại</string>
+	<string name="backup_action_buy_cloud_space">Thêm dung lượng lưu trữ</string>
+	<string name="backup_warning_reason_cloud_space_not_enough">"Không thể sao lưu"</string>
+	<string name="backup_remind_cloud_space_cost">Kích cỡ sao lưu: %s</string>
+	<string name="backup_warning_reason_disk_space_not_enough">"Không đủ dung lượng
+Không thể sao lưu"</string>
+	<string name="backup_warning_reason_network_error">"Lỗi mạng
+Không thể sao lưu"</string>
+	<string name="backup_remind_buy_cloud_space">Nâng cấp gói lưu trữ đám mây của bạn</string>
+	<string name="backup_warning_reason_no_server_response">"Kết nối bị gián đoạn
+Thử lại"</string>
 </resources>

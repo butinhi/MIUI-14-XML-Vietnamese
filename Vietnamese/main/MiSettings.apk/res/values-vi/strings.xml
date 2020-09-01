@@ -680,4 +680,5 @@
 	<string name="dc_light_hint_normal">Làm mờ DC có thể ảnh hưởng đến cách hiển thị một số mục.</string>
 	<string name="dc_lignt_enable_hint">Chế độ chống nhấp nháy sẽ đặt tần số quét màn hình thành 60Hz. Chuyển sang Chế độ chống nhấp nháy?</string>
 	<string name="dc_light_hint_other">Làm mờ DC có thể ảnh hưởng đến tần số quét và cách hiển thị một số mục.</string>
+	<string name="usage_device_limit_app_prolong_time5">Thêm thời gian một lần</string>
 </resources>

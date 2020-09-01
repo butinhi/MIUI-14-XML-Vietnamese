@@ -7192,9 +7192,9 @@ Những ứng dụng sử dụng pin hàng đầu:"</string>
     <string name="battery_tip_unrestrict_app_dialog_message">Ứng dụng này có thể sử dụng pin trong nền. Pin của bạn có thể hết sớm hơn dự kiến.</string>
     <string name="battery_tip_unrestrict_app_dialog_ok">Gỡ bỏ</string>
     <string name="battery_tip_unrestrict_app_dialog_title">Gỡ bỏ hạn chế?</string>
-    <string name="call_records_summary_1">9:35 SA | 26 giây | Viettel</string>
-    <string name="call_records_summary_2">16 Tháng 8 | 1 phút 16 giây | Mobifone</string>
-    <string name="call_records_summary_3">16 Tháng 8 | 2 phút 24 giây | Vinaphone</string>
+    <string name="call_records_summary_1">%1$d:%2$d SA | %3$d giây</string>
+    <string name="call_records_summary_2">%1$d Tháng 8 | %2$d phút %3$d giây</string>
+    <string name="call_records_summary_3">%1$d Tháng 8| %2$d phút %3$d giây</string>
     <string name="change_wifi_state_app_detail_switch">Cho phép ứng dụng điều khiển WLAN</string>
     <string name="change_wifi_state_title">Điều khiển WLAN</string>
     <string name="change_wifi_state_app_detail_summary">Cho phép ứng dụng này bật hoặc tắt WLAN, quét và kết nối tới mạng WLAN, thêm hoặc xóa mạng, hoặc bật điểm phát sóng cục bộ</string>
@@ -10933,4 +10933,7 @@ Chức năng này chỉ nhận được địa chỉ MAC Wi-Fi của bạn để
 	<string name="middle_function_key">Khu vực trung tâm</string>
 	<string name="input_method_middle_function_move_cursor_des">Nhấn giữ khu vực trung tâm để di chuyển con trỏ</string>
 	<string name="input_method_middle_function_no_function_des">"Không gán bất kỳ hành động nào"</string>
+	<string name="huanji_history_title">Chuyển Mi Mover</string>
+	<string name="one_key_migrate_record">Chuyển tới %1$s</string>
+	<string name="miui_master_clear_prompt_battery_low">"Không thể khôi phục cài đặt gốc khi còn ít hơn %1$s pin. Sạc thiết bị trước khi tiếp tục."</string>
 </resources>

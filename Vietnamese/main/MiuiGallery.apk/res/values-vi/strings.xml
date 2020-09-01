@@ -2428,4 +2428,13 @@ Phiên dịch có thể mất một lúc khi bạn sử dụng tính năng này 
 	<string name="ocr_abnormal_pic_format">"Không thể nhận dạng văn bản. Định dạng ảnh này không được hỗ trợ."</string>
 	<string name="signature_view_signature_with_finger">Ký ở đây</string>
 	<string name="signature_view_max_signature_limit_string">Xóa các mục cũ để có thể thêm mới</string>
+	<string name="filter_popular_shallow_summer">Tháng sáu</string>
+	<string name="filter_popular_watergreen">Ngọc lục bảo</string>
+	<string name="filter_portrait_waterblue">Ngọc xanh biển</string>
+	<string name="photo_page_rotate_screen">Xoay màn hình</string>
+	<string name="time_burst_save_dialog_title">Xuất</string>
+	<string name="burst_save_dialog_title">Chọn ảnh để giữ lại</string>
+	<string name="filter_popular_smokegreen">Xô thơm</string>
+	<string name="filter_movie_quiet">Êm đềm</string>
+	<string name="filter_popular_bluedream">Thiu thiu ngủ</string>
 </resources>

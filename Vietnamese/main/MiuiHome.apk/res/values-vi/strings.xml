@@ -649,4 +649,7 @@
 	<string name="navigation_type_title_synonyms_3">Cử chỉ toàn màn hình</string>
 	<string name="navigation_type_title_synonyms_2">Thanh nhỏ màu trắng</string>
 	<string name="navigation_type_title_synonyms_4">Phím điều hướng</string>
+	<string name="auto_disable_screenbuttons_title">Tự động tắt phím điều hướng</string>
+	<string name="auto_disable_screenbuttons_summary">Tự động tắt phím điều hướng khi sử dụng ứng dụng đã chọn. Nhấp đúp vào phím bất kỳ để bật lại.</string>
+	<string name="key_shortcut_settings_title">Phím tắt</string>
 </resources>
