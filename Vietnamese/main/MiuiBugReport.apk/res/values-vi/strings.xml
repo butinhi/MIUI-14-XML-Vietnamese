@@ -809,4 +809,13 @@ Gửi mã này cho người giám sát."</string>
 	<string name="catch_full_log_item_title_wifi_china">Wi-Fi và ShareMe</string>
 	<string name="library_android_database_sqlcipher_libraryDescription">Android SQLite API dựa trên SQLCipher</string>
 	<string name="library_android_database_sqlcipher_libraryName">SQLCipher cho Android</string>
+	<string name="stop_full_log_dialog_cancel">Lần tới</string>
+	<string name="suggest_upload_log_dialog_confirm">Tải lên</string>
+	<string name="suggest_upload_log_dialog_cancel">Không, cảm ơn</string>
+	<string name="stop_full_log_dialog_confirm">Tải lên</string>
+	<string name="toast_min_description_count">Bạn nên mô tả dài hơn</string>
+	<string name="suggest_upload_log_dialog_content">"Để giúp các kỹ sư của chúng tôi xác định vị trí và giải quyết vấn đề bạn gặp phải càng sớm càng tốt, chúng tôi khuyên bạn nên tải lên các nhật ký liên quan. Nhật ký chỉ được sử dụng để phân tích sự cố và sẽ không được sử dụng cho các mục đích khác."</string>
+	<string name="suggest_upload_log_dialog_title">Tải lên nhật ký liên quan</string>
+	<string name="stop_full_log_dialog_title">Đang tạo nhật ký…</string>
+	<string name="stop_full_log_dialog_content">Dường như nhật ký đang được tạo. Dừng tạo nhật ký và tải lên nhật ký đã tạo?</string>
 </resources>

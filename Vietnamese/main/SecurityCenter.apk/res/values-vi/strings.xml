@@ -4127,4 +4127,6 @@ Sau khi được đặt, nếu bạn đóng ứng dụng, các quyền sẽ tr�
 	<string name="select_province_and_city">Vui lòng chọn một tỉnh</string>
 	<string name="vb_fps_settings_tips">Tính năng này điều chỉnh tốc độ làm tươi màn hình thành tốc độ khung hình video, giúp tiết kiệm pin và phát lại mượt mà. Bật nhận xét nổi sẽ tắt tốc độ làm mới tự động.</string>
 	<string name="make_sure_package_type">Xác nhận loại lưu lượng truy cập của bạn</string>
+	<string name="fixed_traffic_value_by_month">Giới hạn lưu lượng cố định hàng tháng</string>
+	<string name="fixed_traffic_by_month">Lưu lượng cố định hàng tháng</string>
 </resources>

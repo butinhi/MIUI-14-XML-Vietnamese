@@ -693,4 +693,6 @@
 	<string name="sa_category_3_title_primary">Tin nhắn cảnh báo khẩn cấp</string>
 	<string name="sa_category_4_title">Cảnh báo</string>
 	<string name="warning_alert_title">Thông báo cảnh báo</string>
+	<string name="en_public_safety_alert_title">Cảnh báo An toàn Công cộng</string>
+	<string name="public_safety_alert_title">Cảnh báo An toàn Công cộng</string>
 </resources>
