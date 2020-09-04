@@ -1230,7 +1230,7 @@ Nếu thiết bị của bạn nằm trong danh sách này, bạn có thể thê
 	<string name="outdoor_running">Chạy</string>
 	<string name="rb_gender_male">Giới tính: Nam</string>
 	<string name="tb_exercise_detail_step_daily_no_data">Không có dữ liệu đếm bước chân. Mục tiêu: %1$d.</string>
-	<string name="deep_sleep_duration_description">"Khi mọi người ngủ, sẽ có những chuyển động mắt nhanh định kỳ, do đó giấc ngủ có thể được chia thành giấc ngủ chuyển động mắt nhanh và giấc ngủ chuyển động mắt không nhanh. Giấc ngủ sâu xảy ra trong thời gian giấc ngủ chuyển động không nhanh, chiếm khoảng 20 đến 25% giấc ngủ ban đêm. Trong giấc ngủ sâu, hoạt động ít ý thức hơn và não ở trạng thái tương đối tĩnh, rất khó để đánh thức."</string>
+	<string name="deep_sleep_duration_description">"Khi mọi người ngủ, sẽ có những chuyển động mắt nhanh định kỳ, do đó giấc ngủ có thể được chia thành giấc ngủ chuyển động mắt nhanh và giấc ngủ chuyển động mắt không nhanh. Giấc ngủ sâu xảy ra trong thời gian giấc ngủ chuyển động không nhanh, chiếm khoảng 20 đến 25%% giấc ngủ ban đêm. Trong giấc ngủ sâu, hoạt động ít ý thức hơn và não ở trạng thái tương đối tĩnh, rất khó để đánh thức."</string>
 	<string name="inactivated">Chưa kích hoạt</string>
 	<string name="enable_go_now">Bật</string>
 	<string name="tb_select_a_column">Đã chọn %1$s</string>
