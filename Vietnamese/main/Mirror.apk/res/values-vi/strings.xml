@@ -379,4 +379,6 @@
 	<string name="privacy_describe_record_audio">Để chuyển hướng phát âm thanh tới máy tính của bạn</string>
 	<string name="worker_try_join_in_connecting_state">Đang kết nối thiết bị…</string>
 	<string name="display_max_screen_count_toast">Bạn có thể mở tối đa 2 cửa sổ trong phiên bản này</string>
+	<string name="settings_log_options">Nhật ký</string>
+	<string name="worker_authorization_loading">Đang làm mới</string>
 </resources>

@@ -1945,4 +1945,11 @@ Gửi mã này cho người giám sát."</string>
 	<string name="galleryplus_copyright_unsported_audio">"Không thể phát âm thanh của video vì hạn chế bản quyền"</string>
 	<string name="galleryplus_copyright_unsported_video">"Không thể phát video này vì hạn chế bản quyền"</string>
 	<string name="vp_copyright_unsported_audio">"Không thể phát âm thanh của video vì hạn chế bản quyền"</string>
+	<string name="fcm_push_title">Video phổ biến</string>
+	<string name="ad">Quảng cáo</string>
+	<string name="rename">Đổi tên</string>
+	<string name="notification_recall_action">Bật</string>
+	<string name="common_copyright_unsupported_video">"Không thể phát video này vì hạn chế bản quyền"</string>
+	<string name="back_to_mainpage">Khám phá</string>
+	<string name="pgc_push_title">Đăng ký của tôi</string>
 </resources>

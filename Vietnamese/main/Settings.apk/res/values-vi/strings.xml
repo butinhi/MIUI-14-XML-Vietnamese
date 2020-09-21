@@ -10936,4 +10936,15 @@ Chức năng này chỉ nhận được địa chỉ MAC Wi-Fi của bạn để
 	<string name="huanji_history_title">Chuyển Mi Mover</string>
 	<string name="one_key_migrate_record">Chuyển tới %1$s</string>
 	<string name="miui_master_clear_prompt_battery_low">"Không thể khôi phục cài đặt gốc khi còn ít hơn %1$s pin. Sạc thiết bị trước khi tiếp tục."</string>
+	<string name="dialog_wifi_button_negative">Không</string>
+	<string name="font_size_kddi">Giữa</string>
+	<string name="dialog_wifi_title">Sử dụng dữ liệu di động</string>
+	<string name="activity_check_title">Đang kết nối mạng</string>
+	<string name="launch_noapp_dialog_install">Cài đặt</string>
+	<string name="dialog_check_title">Sẽ không tự động kết nối</string>
+	<string name="dialog_wifi_button_positive">Đồng ý</string>
+	<string name="dialog_check_button_negative">Thử lại</string>
+	<string name="dialog_check_button_positive">Kết nối Wi-Fi</string>
+	<string name="launch_noapp_dialog_cancel">Hủy</string>
+	<string name="launch_noapp_dialog_replace">Cài đặt</string>
 </resources>

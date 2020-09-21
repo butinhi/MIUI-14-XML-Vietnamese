@@ -922,4 +922,7 @@ Thông tin vị trí có thể không được báo cáo khi kết nối mạng 
 	<string name="low_battery_locate_title">Báo cáo vị trí khi pin yếu</string>
 	<string name="power_off_locate_title">Báo cáo vị trí trước khi tắt nguồn</string>
 	<string name="low_battery_locate_summary">Tự động báo cáo vị trí khi pin yếu</string>
+	<string name="micloud_manual_request_permission_cancel">Hủy</string>
+	<string name="micloud_manual_request_permission_confirm">Cài đặt</string>
+	<string name="micloud_manual_request_permission_title">Yêu cầu quyền</string>
 </resources>

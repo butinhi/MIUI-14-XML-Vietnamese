@@ -866,4 +866,8 @@ Chúng tôi sẽ bảo vệ thông tin cá nhân của bạn theo luật pháp, 
 Các bước: Mở APP WeChat&gt;My&gt;Cài đặt&gt;Chung&gt;Sao lưu và di chuyển lịch sử trò chuyện."</string>
 	<string name="dialog_wechat_data_transfer_fail_title">Di chuyển dữ liệu WeChat không thành công</string>
 	<string name="prompt_before_transmission_message5_title">Thiết bị có thể nóng lên trong quá trình chuyển.</string>
+	<string name="dialog_connect_ap_timeout_title">Kết nối thủ công</string>
+	<string name="dialog_connect_ap_timeout_button">Kết nối</string>
+	<string name="open_photo_and_contacts_cloud_sync_title">Đồng bộ liên hệ và Thư viện</string>
+	<string name="open_photo_and_contacts_cloud_sync_complete">Bắt đầu</string>
 </resources>

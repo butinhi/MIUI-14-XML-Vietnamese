@@ -1831,4 +1831,6 @@ In dễ dàng trên khổ A4"</string>
 	<string name="accessibility_dual_preview_change_finish">Đã xem thay đổi thành công</string>
 	<string name="ai">Tự động cập nhật</string>
 	<string name="film_video_tip">Vui lòng sử dụng chân máy để chụp</string>
+	<string name="aiwatermark_location_list_title">Vị trí</string>
+	<string name="aiwatermark_location_absent_hint">"Không thể lấy thông tin vị trí"</string>
 </resources>

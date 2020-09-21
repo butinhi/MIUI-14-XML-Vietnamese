@@ -652,4 +652,10 @@
 	<string name="auto_disable_screenbuttons_title">Tự động tắt phím điều hướng</string>
 	<string name="auto_disable_screenbuttons_summary">Tự động tắt phím điều hướng khi sử dụng ứng dụng đã chọn. Nhấp đúp vào phím bất kỳ để bật lại.</string>
 	<string name="key_shortcut_settings_title">Phím tắt</string>
+	<string name="dialog_work_profile_button_2">Tôi biết</string>
+	<string name="dialog_work_profile_title">Hồ sơ công việc</string>
+	<string name="dialog_work_profile_button_1">Tiếp theo</string>
+	<string name="work_profile_title">Hồ sơ công việc</string>
+	<string name="work_profile_got_button">Tôi biết</string>
+	<string name="work_profile_next_button">Tiếp theo</string>
 </resources>

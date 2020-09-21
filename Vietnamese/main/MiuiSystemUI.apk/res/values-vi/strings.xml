@@ -2411,4 +2411,7 @@ Thử lại sau %d giây."</string>
 	<string name="face_unlock_pin_and_fingerprint_v11">Nhập PIN hoặc sử dụng vân tay để mở</string>
 	<string name="face_unlock_pattern_and_fingerprint_v11">Vẽ mẫu hình hoặc sử dụng vân tay để mở</string>
 	<string name="face_unlock_passwork_and_fingerprint_v11">Nhập mật khẩu hoặc sử dụng vân tay để mở</string>
+	<string name="bubble_overflow_button_content_description">Bị tràn</string>
+	<string name="notification_bubble_title">Bong bóng</string>
+	<string name="bubbles_user_education_got_it">Tôi biết</string>
 </resources>

@@ -378,4 +378,5 @@ Khu vực Mensae"</string>
 	<string name="mars_position_title_2">"Hố va chạm trong
 Mawrth Vallis"</string>
 	<string name="mars_title">Hành tinh đỏ</string>
+	<string name="fmt_time_minute">"m 'phút'"</string>
 </resources>

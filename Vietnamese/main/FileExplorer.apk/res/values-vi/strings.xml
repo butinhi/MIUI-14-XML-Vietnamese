@@ -1317,4 +1317,8 @@ Gia nhập cùng 170 triệu Mi Fan!"</string>
 	<string name="menu_new_display_open">Mở trong cửa sổ mới</string>
 	<string name="drag_not_support_with_dir">"Không thể sắp xếp lại hoặc gửi thư mục"</string>
 	<string name="menu_pc_open">Mở bằng chương trình máy tính</string>
+	<string name="use">Sử dụng</string>
+	<string name="encrypt_setting">Mã hóa</string>
+	<string name="private_folder_update_tips">Tính năng mới</string>
+	<string name="not_use">Lần tới</string>
 </resources>

@@ -1511,4 +1511,10 @@ Xem qua trang đề xuất!"</string>
 	<string name="ad_close_button_text">Khuyến mại</string>
 	<string name="chatbot_main_title">Ứng dụng nhỏ</string>
 	<string name="chatbot_list_title">Ứng dụng nhỏ của tôi</string>
+	<string name="permission_retry_deny">Hủy</string>
+	<string name="permission_retry_setting">Cài đặt</string>
+	<string name="banner_btn_not_now">Lần tới</string>
+	<string name="banner_btn_open">Mở</string>
+	<string name="sp_msg_entry">Dịch vụ</string>
+	<string name="banner_btn_install">Cài đặt</string>
 </resources>

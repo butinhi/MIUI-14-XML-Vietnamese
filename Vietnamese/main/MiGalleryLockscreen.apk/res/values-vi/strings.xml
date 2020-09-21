@@ -903,4 +903,6 @@ d MMMM"</string>
 	<string name="miui_clock_city_name_second">Đồng hồ thứ hai</string>
 	<string name="mtrl_picker_range_header_unselected">Ngày bắt đầu – Ngày kết thúc</string>
 	<string name="lks_logo_desc_search">Ảnh mới mỗi ngày</string>
+	<string name="see_detail">Xem</string>
+	<string name="understand_band_story">Tìm hiểu thêm</string>
 </resources>

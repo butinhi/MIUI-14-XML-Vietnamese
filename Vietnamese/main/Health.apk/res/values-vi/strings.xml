@@ -1529,4 +1529,25 @@ Nếu thiết bị của bạn nằm trong danh sách này, bạn có thể thê
 	<string name="delete_wear_data_toast">"Không thể xóa dữ liệu được cung cấp bởi %1$s"</string>
 	<string name="delete_dailog_confirm_msg_wear">Xóa %1$s ngay?</string>
 	<string name="hr_in_detect">Vui lòng không bỏ ngón tay ra khi đang kiểm tra</string>
+	<string name="mens_avg_period">Chu kỳ trung bình</string>
+	<string name="mens_cancel_mark">Hủy</string>
+	<string name="period">Xe đạp</string>
+	<string name="unbound">Đã tháo</string>
+	<string name="hr_strength_high">Cao</string>
+	<string name="finish_stand2">Trợ lý hoạt động</string>
+	<string name="buy">Mua</string>
+	<string name="hr_re_detect_title">Bắt đầu lại</string>
+	<string name="total_slip">Số nét</string>
+	<string name="hr_strength_higher">Cao nhất</string>
+	<string name="hr_detect_paused">Tạm dừng</string>
+	<string name="outdoor_hiking">Đi bộ</string>
+	<string name="hr_strength_lower_mid">Thấp</string>
+	<string name="go_to_upgrade">Cập nhật</string>
+	<string name="more_questions">Thêm</string>
+	<string name="hr_strength_mid">Giữa</string>
+	<string name="mens_period_start">Bắt đầu</string>
+	<string name="hr_strength_lowest">Thấp nhất</string>
+	<string name="add_owned_device">Thiết bị khả dụng</string>
+	<string name="acting">số mũ</string>
+	<string name="other_question">Khác</string>
 </resources>

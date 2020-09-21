@@ -1473,4 +1473,17 @@ d MMMM"</string>
 	<string name="anonymous_resource_unlink_title">Xác nhận hành động của bạn</string>
 	<string name="anonymous_resource_unlink_hint">"Nếu bạn không thêm mục, chúng sẽ không được liên kết với tài khoản của bạn."</string>
 	<string name="miuix_compat_dialog_update_title">Yêu cầu cập nhật</string>
+	<string name="xiaomi_market_sdk_update_dialog_ok">Cập nhật ngay</string>
+	<string name="share_send_to_friend">WeChat</string>
+	<string name="xiaomi_market_sdk_update_dialog_title">%s Phiên bản mới</string>
+	<string name="share_copy_url_success">Sao chép thành công</string>
+	<string name="mtrl_exceed_max_badge_number_content_description">Nhiều hơn %1$d thông báo mới</string>
+	<string name="share_to_qq">QQ</string>
+	<string name="xiaomi_market_sdk_update_dialog_cancel">Để sau</string>
+	<string name="item_view_role_description">Tab</string>
+	<string name="share_to_weibo">Weibo</string>
+	<string name="material_slider_range_start">Khoảng bắt đầu,</string>
+	<string name="share_save_to_photo">Thư viện</string>
+	<string name="material_slider_range_end">Khoảng kết thúc,</string>
+	<string name="share_save_success">Đã lưu thành công</string>
 </resources>

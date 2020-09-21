@@ -963,4 +963,9 @@
 	<string name="clean_master_icon_recall_hint">Thêm một Lối tắt Màn hình chính</string>
 	<string name="notification_whatsapp_clean_size">Bộ đệm WhatsApp đã đạt%s</string>
 	<string name="notification_garbage_clean_hint">Dọn dẹp không gian bộ nhớ</string>
+	<string name="permission_dialog_storage_title">Yêu cầu quyền</string>
+	<string name="permission_dialog_storage_btn2">Hủy</string>
+	<string name="notification_size_1.5_GB">%.1f</string>
+	<string name="permission_dialog_storage_btn1">Cài đặt</string>
+	<string name="install_time_format">dd/MM/yyyy</string>
 </resources>

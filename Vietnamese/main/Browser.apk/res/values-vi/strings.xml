@@ -2810,4 +2810,7 @@ Chạm vào "%2$s" để bắt đầu tải xuống nội dung này vào lần t
 	<string name="download_risk_alert_content">Trò chơi này chưa được xác thực bởi Xiaomi Market. Nếu chọn Tải xuống bình thường, bạn xác nhận bạn sẽ chịu mọi rủi ro có thể xảy ra.</string>
 	<string name="new_copy_content">Nội dung sao chép gần nhất</string>
 	<string name="contextmenu_webpage_translate">Dịch trang web</string>
+	<string name="xiaomi_market_sdk_update_dialog_ok">Cập nhật ngay</string>
+	<string name="xiaomi_market_sdk_update_dialog_title">%s Phiên bản mới</string>
+	<string name="xiaomi_market_sdk_update_dialog_cancel">Để sau</string>
 </resources>

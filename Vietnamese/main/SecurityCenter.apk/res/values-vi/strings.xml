@@ -4129,4 +4129,8 @@ Sau khi được đặt, nếu bạn đóng ứng dụng, các quyền sẽ tr�
 	<string name="make_sure_package_type">Xác nhận loại lưu lượng truy cập của bạn</string>
 	<string name="fixed_traffic_value_by_month">Giới hạn lưu lượng cố định hàng tháng</string>
 	<string name="fixed_traffic_by_month">Lưu lượng cố định hàng tháng</string>
+	<string name="applock_guide_notification_summary">Bảo vệ sự riêng tư của bạn với Khóa ứng dụng</string>
+	<string name="applock_operate_fingerprint_title">Sử dụng vân tay của bạn</string>
+	<string name="applock_add_account_ignore">Lần tới</string>
+	<string name="applock_recommend_title">Chọn ứng dụng</string>
 </resources>

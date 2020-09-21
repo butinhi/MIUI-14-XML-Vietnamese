@@ -24,4 +24,7 @@
     <plurals name="antispam_marked_count">
         <item quantity="other">Báo cáo bởi %d người dùng MIUI</item>
     </plurals>
+	<plurals name="auto_disconnect_timer_tip">
+		<item quantity="other">Đang cúp máy trong %1$d giây</item>
+	</plurals>
 </resources>
