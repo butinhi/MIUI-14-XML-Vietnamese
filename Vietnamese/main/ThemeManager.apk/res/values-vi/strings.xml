@@ -1486,4 +1486,27 @@ d MMMM"</string>
 	<string name="share_save_to_photo">Thư viện</string>
 	<string name="material_slider_range_end">Khoảng kết thúc,</string>
 	<string name="share_save_success">Đã lưu thành công</string>
+	<string name="wallpaper_setting_online_wallpaper_none_title">Khám phá hình nền</string>
+	<string name="super_wallpaper_setting_coordinate_title">Tọa độ</string>
+	<string name="wallpaper_setting_find_more_text">Thêm hình nền trực tuyến</string>
+	<string name="wallpaper_setting_home_wallpaper_banner_button_text">Màn hình chính</string>
+	<string name="no_cta_agreed">"GetApps không có quyền CTA"</string>
+	<string name="desk_loop_will_change">Chú ý</string>
+	<string name="already_newest_version">Phiên bản hiện tại là mới nhất</string>
+	<string name="update">Cập nhật</string>
+	<string name="super_wallpaper_setting_choose_position_btn_text">Chọn vị trí</string>
+	<string name="install_failed">"Không thể cài đặt"</string>
+	<string name="super_wallpaper_setting_apply_success_toast">Đã áp dụng màn hình khóa</string>
+	<string name="wallpaper_setting_online_wallpaper_actionbar_title">Hình nền trực tuyến</string>
+	<string name="super_wallpaper_setting_view_height_title">Độ cao</string>
+	<string name="cancel_download">Đã hủy tải xuống</string>
+	<string name="task_already_exist">Tác vụ đã tồn tại</string>
+	<string name="wallpaper_setting_title">Hình nền</string>
+	<string name="wallpaper_setting_lock_screen_wallpaper_banner_button_text">Màn hình khóa</string>
+	<string name="super_wallpaper_list_label">Siêu Hình nền</string>
+	<string name="wallpaper_setting_super_wallpaper_more_button_text">Thêm</string>
+	<string name="no_install_permission">"Bạn không có quyền cài đặt mục này"</string>
+	<string name="super_wallpaper_setting_apply_super_wallpaper_button_text">Áp dụng</string>
+	<string name="wallpaper_setting_super_wallpaper_banner_title">Siêu Hình nền</string>
+	<string name="wallpaper_setting_online_wallpaper_title">Hình nền trực tuyến</string>
 </resources>

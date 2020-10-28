@@ -747,4 +747,8 @@ Hãy chắc chắn bạn nhớ tất cả câu trả lời."</string>
 	<string name="get_identity_auth_url_failed">"Không thể xác thực ID"</string>
 	<string name="copy_to_clipboard_successful">Sao chép thành công</string>
 	<string name="help_center">Trợ giúp</string>
+	<string name="passport_uplink_suggest_dialog_title">Chú ý</string>
+	<string name="google_login">Đăng nhập bằng Google</string>
+	<string name="facebook_login">Đăng nhập bằng Facebook</string>
+	<string name="passport_uplink_sms_send_confirm">Đã gửi</string>
 </resources>

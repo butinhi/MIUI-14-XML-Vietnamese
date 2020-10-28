@@ -348,4 +348,14 @@
 	<string name="trial_mode_dialog_button_cancel">Hủy</string>
 	<string name="trial_mode_dialog_message">\"%s\" đang chạy trong chế độ dùng thử. Khởi động lại thiết bị hoặc chuyển sang Chế độ Tốc độ ánh sáng sẽ xóa trò chơi này. Lưu trò chơi vào bộ nhớ trong?</string>
 	<string name="trial_mode_dialog_title">Chế độ dùng thử</string>
+	<string name="three_gesture_down">Trượt 3 ngón tay xuống</string>
+	<string name="long_press_menu_key_when_lock">Bấm giữ phím Menu trên Màn hình khóa</string>
+	<string name="knock_slide_shape">Không</string>
+	<string name="back_triple_tap">Không</string>
+	<string name="knock_gesture_v">Không</string>
+	<string name="long_press_menu_key">Bấm giữ phím Menu</string>
+	<string name="double_click_power_key">Nhấn đúp phím Nguồn</string>
+	<string name="knock_long_press_horizontal_slid">Không</string>
+	<string name="double_knock">Không</string>
+	<string name="back_double_tap">Không</string>
 </resources>

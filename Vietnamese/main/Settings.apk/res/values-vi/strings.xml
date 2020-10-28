@@ -10947,4 +10947,21 @@ Chức năng này chỉ nhận được địa chỉ MAC Wi-Fi của bạn để
 	<string name="dialog_check_button_positive">Kết nối Wi-Fi</string>
 	<string name="launch_noapp_dialog_cancel">Hủy</string>
 	<string name="launch_noapp_dialog_replace">Cài đặt</string>
+	<string name="show_badge_notifications_short">Biểu tượng</string>
+	<string name="usb_use_MIDI_miui12_5">Sử dụng thiết bị làm MIDI</string>
+	<string name="legacy_control_center_title">Phiên bản cũ</string>
+	<string name="notification_display_settings">Thanh thông báo</string>
+	<string name="usb_use_miui12_5">Sử dụng USB để</string>
+	<string name="modern_control_center_title">Phiên bản mới</string>
+	<string name="wifi_wakeup_negative_button">Hủy</string>
+	<string name="usb_reverse_charge">Sạc ngược</string>
+	<string name="wifi_wakeup_positive_button">Bật</string>
+	<string name="silent_mode_disable_media">Im lặng tất cả</string>
+	<string name="silent_mode_toggle_title">Chế độ im lặng</string>
+	<string name="not_enabled">TẮT</string>
+	<string name="enabled">BẬT</string>
+	<string name="sync_success">Đồng bộ thành công</string>
+	<string name="zen_mode_always">Luôn luôn</string>
+	<string name="exterior">Bảng màu</string>
+	<string name="dark_mode_apps_header">Ứng dụng riêng lẻ</string>
 </resources>

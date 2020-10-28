@@ -497,4 +497,7 @@ Nếu cả hai thiết bị không thể kết nối tới cùng một mạng, b
 	<string name="expand_button_title">Nâng cao</string>
 	<string name="copy">Sao chép</string>
 	<string name="synergy_casting">Không thể truyền khi có quá nhiều tiến trình trên màn hình</string>
+	<string name="notification_desc_scanning">Đang tìm thiết bị lân cận…</string>
+	<string name="trust_device_dialog_pos">Tin tưởng</string>
+	<string name="notification_cast_desc">Đang sàng lọc...</string>
 </resources>

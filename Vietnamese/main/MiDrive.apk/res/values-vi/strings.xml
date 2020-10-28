@@ -624,4 +624,23 @@ Vui lòng gửi mã này cho nhân viên kỹ thuật."</string>
 	<string name="update_dialog_content">"Phiên bản mới: %1$s
 %2$s"</string>
 	<string name="update_failed_no_app_info">"Không thể nhận gói cài đặt"</string>
+	<string name="unlock_password_dialog_title">Mật khẩu bảo vệ cá nhân</string>
+	<string name="file_info_location">Vị trí:</string>
+	<string name="release_enter_private">Thả ra để mở thư mục riêng tư</string>
+	<string name="set_lock_password_dialog_title">Thiết lập mật khẩu mới</string>
+	<string name="file_info_modified">Thay đổi lần cuối:</string>
+	<string name="confirm_know">Quay lại</string>
+	<string name="operation_info">Chi tiết</string>
+	<string name="file_sort_name">Sắp xếp theo tên</string>
+	<string name="music_play_online_network_not_available">Mạng không mạnh, vui lòng kiểm tra trạng thái mạng ~</string>
+	<string name="file_info_size">Kích thước: </string>
+	<string name="file_sort_size">Sắp xếp theo kích thước</string>
+	<string name="preview">xem trước</string>
+	<string name="all">Tất cả</string>
+	<string name="album">Thư viện</string>
+	<string name="save">Lưu</string>
+	<string name="save_pdf">Lưu</string>
+	<string name="dialog_immediately_open">Bật</string>
+	<string name="camera">Máy ảnh</string>
+	<string name="saving_pdf">Đang lưu…</string>
 </resources>

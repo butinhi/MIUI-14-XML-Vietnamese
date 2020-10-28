@@ -2437,4 +2437,14 @@ Phiên dịch có thể mất một lúc khi bạn sử dụng tính năng này 
 	<string name="filter_popular_smokegreen">Xô thơm</string>
 	<string name="filter_movie_quiet">Êm đềm</string>
 	<string name="filter_popular_bluedream">Thiu thiu ngủ</string>
+	<string name="photodetail_rename_failed">Không thể đổi tên</string>
+	<string name="filter_popular_autumn">Mùa thu</string>
+	<string name="photodetail_rename_success">Đã đổi tên thành công</string>
+	<string name="operation_photo_rename">Đổi tên</string>
+	<string name="toast_rename_exit">Tập tin này đã tồn tại</string>
+	<string name="search_title_photo_name">Tên tệp</string>
+	<string name="internal_storage_device">Bộ nhớ trong</string>
+	<string name="filter_popular_coffee">Cà phê</string>
+	<string name="photodetail_rename_title">Đổi tên</string>
+	<string name="photodetail_failed_already_exist">Tập tin này đã tồn tại</string>
 </resources>

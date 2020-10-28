@@ -968,4 +968,8 @@
 	<string name="notification_size_1.5_GB">%.1f</string>
 	<string name="permission_dialog_storage_btn1">Cài đặt</string>
 	<string name="install_time_format">dd/MM/yyyy</string>
+	<string name="permission_dialog_storage_content">Dọn dẹp cần quyền truy cập bộ nhớ trong để hoạt động bình thường. Chạm \"Cài đặt\" để quản lý quyền bộ nhớ.</string>
+	<string name="notification_wechat_clean_low_level_hint">Giải phóng bộ nhớ lưu trữ</string>
+	<string name="notification_garbage_clean_botton_text_new">Xóa</string>
+	<string name="notification_low_memory_button_text">Sửa</string>
 </resources>

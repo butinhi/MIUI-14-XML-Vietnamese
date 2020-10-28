@@ -1541,4 +1541,6 @@ Nhấp vào nút Bắt đầu thu thập dữ liệu
 	<string name="cit_voc_data_pressure">Áp suất</string>
 	<string name="cit_tool_bluetooth_tx_burst_run">CHẠY</string>
 	<string name="DSI_configuration_set">"Đặt DSI"</string>
+	<string name="cit_tool_bluetooth_tx_rse_run">CHẠY</string>
+	<string name="cit_tool_bluetooth_rse_channel">kênh:</string>
 </resources>

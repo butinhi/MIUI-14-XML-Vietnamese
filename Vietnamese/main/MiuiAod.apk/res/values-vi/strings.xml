@@ -459,4 +459,22 @@ dd/M"</string>
 	<string name="material_slider_range_start">Khoảng bắt đầu,</string>
 	<string name="mtrl_exceed_max_badge_number_content_description">Nhiều hơn %1$d thông báo mới</string>
 	<string name="material_slider_range_end">Khoảng kết thúc,</string>
+	<string name="miuix_appcompat_search_input_description">Tìm kiếm</string>
+	<string name="miuix_appcompat_action_mode_deselect_all">Bỏ chọn</string>
+	<string name="fmt_date_numeric_year_month">M-yyyy</string>
+	<string name="fmt_time_24hour_minute_second_millis">h:mm:ss.S</string>
+	<string name="miuix_appcompat_deselect_all_description">Bỏ chọn tất cả</string>
+	<string name="miuix_appcompat_confirm_description">Xác nhận</string>
+	<string name="miuix_appcompat_action_mode_select_all">Chọn tất cả</string>
+	<string name="miuix_appcompat_select_all_description">Chọn tất cả</string>
+	<string name="fmt_time_24hour_minute">HH:mm</string>
+	<string name="month_march_shortest">Tháng 3</string>
+	<string name="miuix_appcompat_action_mode_title_empty">Chọn mục</string>
+	<string name="miuix_appcompat_actionbar_immersion_button_more_description">Thêm</string>
+	<string name="miuix_appcompat_delete_description">Xóa</string>
+	<string name="month_may_shortest">Tháng năm</string>
+	<string name="fmt_time_24hour_minute_second">H:mm:ss</string>
+	<string name="monday_shortest">Th 2</string>
+	<string name="miuix_appcompat_search_action_mode_cancel">Hủy</string>
+	<string name="miuix_appcompat_cancel_description">Hủy</string>
 </resources>

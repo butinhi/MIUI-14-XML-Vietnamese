@@ -2414,4 +2414,6 @@ Thử lại sau %d giây."</string>
 	<string name="bubble_overflow_button_content_description">Bị tràn</string>
 	<string name="notification_bubble_title">Bong bóng</string>
 	<string name="bubbles_user_education_got_it">Tôi biết</string>
+	<string name="quick_settings_vowifi_label">Gọi Wi-Fi</string>
+	<string name="msim_set_sub_not_supported_phone_in_call">"Không thể đặt khi đang gọi"</string>
 </resources>

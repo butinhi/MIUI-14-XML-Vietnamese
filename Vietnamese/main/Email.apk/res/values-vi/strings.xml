@@ -1429,4 +1429,10 @@ Chờ đến khi đồng bộ hoàn toàn hoặc xem tin nhắn trên máy tính
 	<string name="b_contacts_remove">Xóa khỏi danh sách chặn</string>
 	<string name="server_cet_data_exp">"Chứng chỉ máy chủ này đã hết hạn."</string>
 	<string name="pdf_signature_manager_title">Quản lý chữ ký</string>
+	<string name="xiaomi_market_sdk_update_dialog_ok">Cập nhật ngay</string>
+	<string name="user_experience_log">Trải nghiệm người dùng</string>
+	<string name="xiaomi_market_sdk_update_dialog_title">%s Phiên bản mới</string>
+	<string name="server_log">Thỏa thuận dịch vụ</string>
+	<string name="xiaomi_market_sdk_update_dialog_cancel">Để sau</string>
+	<string name="action_filter">Bộ lọc</string>
 </resources>

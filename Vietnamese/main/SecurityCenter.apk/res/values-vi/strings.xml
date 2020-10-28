@@ -4133,4 +4133,35 @@ Sau khi được đặt, nếu bạn đóng ứng dụng, các quyền sẽ tr�
 	<string name="applock_operate_fingerprint_title">Sử dụng vân tay của bạn</string>
 	<string name="applock_add_account_ignore">Lần tới</string>
 	<string name="applock_recommend_title">Chọn ứng dụng</string>
+	<string name="cellular_package_daily_input">Nhập</string>
+	<string name="not_settled">Chưa đặt</string>
+	<string name="stranger_call_dialog_add_contacts">Liên hệ mới</string>
+	<string name="bottom_func_guide_default_text">Thêm tính năng</string>
+	<string name="exit_dialog_release_memory_positive_button">Đóng</string>
+	<string name="battery_health_level_text">Tình trạng pin</string>
+	<string name="privacy_revoke_dialog_title">Điều khoản và Điều kiện</string>
+	<string name="settings_privacy_revoke_title">Điều khoản và Điều kiện</string>
+	<string name="battery_status_level_normal">Bình thường</string>
+	<string name="privacy_revoke_dialog_negetive_text">Hủy</string>
+	<string name="stranger_call_dialog_add_block_list">Chặn</string>
+	<string name="battery_status_level_good">Tốt</string>
+	<string name="exit_dialog_exit">Thoát</string>
+	<string name="privacy_revoke_dialog_positive_text">Thu hồi</string>
+	<string name="notification_wechat_clean_low_level_hint">Giải phóng bộ nhớ lưu trữ</string>
+	<string name="gb_voice_changer_user_status_no_login">Đăng nhập Tài khoản Mi</string>
+	<string name="gb_voice_changer_recommend">Đề xuất</string>
+	<string name="no_open">Lần tới</string>
+	<string name="gb_voice_changer_setting_gender_title">Giới tính</string>
+	<string name="confirm_upgrade">Tùy chọn</string>
+	<string name="gb_voice_changer_trial_gender_dialog_title">Dùng thử</string>
+	<string name="notification_garbage_clean_botton_text_new">Xóa</string>
+	<string name="gb_voice_changer_user_status_renew">Làm mới</string>
+	<string name="confirm_open">Bật</string>
+	<string name="confirm_leave">Không, cảm ơn</string>
+	<string name="notification_low_memory_button_text">Sửa</string>
+	<string name="gb_voice_changer_setting_become_vip">Đăng ký</string>
+	<string name="gb_voice_changer_gender_female">Nữ</string>
+	<string name="gb_voice_changer_gender_man">Nam</string>
+	<string name="gb_voice_changer_free">Miễn phí</string>
+	<string name="gb_voice_changer_setting_account_title">Tài khoản Mi</string>
 </resources>

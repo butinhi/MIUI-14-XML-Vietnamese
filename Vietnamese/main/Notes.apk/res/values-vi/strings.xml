@@ -761,4 +761,16 @@ Cho phép Ghi chú ghi âm."</string>
 	<string name="xiaomi_market_sdk_update_dialog_title">%s Phiên bản mới</string>
 	<string name="xiaomi_market_sdk_update_dialog_cancel">Để sau</string>
 	<string name="edit_note_hint_title">Tiêu đề</string>
+	<string name="image_action_zoom_out">Thu nhỏ</string>
+	<string name="image_action_save_to_gallery">Lưu vào Thư viện</string>
+	<string name="brush_ImageFlowers">Hoa</string>
+	<string name="brush_Flowers">Hoa</string>
+	<string name="doodle_save_progress_text">Đang lưu…</string>
+	<string name="theme_title_leaf">Chiếc lá</string>
+	<string name="image_action_browse">Xem ảnh</string>
+	<string name="image_action_delete">Xóa ảnh</string>
+	<string name="theme_title_geometry">Hình học</string>
+	<string name="image_action_zoom_in">Phóng to</string>
+	<string name="doodle_tool_picture">Thêm ảnh</string>
+	<string name="brush_Pastel">Phấn màu</string>
 </resources>

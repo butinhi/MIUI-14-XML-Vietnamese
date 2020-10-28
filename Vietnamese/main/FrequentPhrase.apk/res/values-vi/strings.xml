@@ -10,4 +10,26 @@
 	<string name="menu_delete">Xóa</string>
 	<string name="menu_edit">Sửa</string>
 	<string name="sync_phrase_label">Cụm từ thường dùng</string>
+	<string name="input_method_clipboard_participle">Tách từ</string>
+	<string name="input_method_clipboard_clear_all_button">Xóa hết</string>
+	<string name="input_method_clipboard_clear_all_phrase_title">Xóa clipboard</string>
+	<string name="input_method_no_content_text">Chưa có mục nào ở đây</string>
+	<string name="input_method_clipboard_check_more_delete">Xóa</string>
+	<string name="input_method_clipboard_copy_success">Sao chép thành công</string>
+	<string name="input_method_clipboard_tips">Mục đã sao chép sẽ bị xóa khỏi khay nhớ tạm sau 48 giờ</string>
+	<string name="input_method_phrase_edit">Sửa</string>
+	<string name="input_method_clipboard_clear_all_phrase_des">Xóa tất cả các mục khỏi clipboard?</string>
+	<string name="input_method_clipboard_check_more_copy">Sao chép</string>
+	<string name="input_method_clipboard_move_cursor_guide1">Nhấn giữ khu vực màu xanh để di chuyển con trỏ ~</string>
+	<string name="input_method_clipboard_move_cursor_guide2">Di chuyển ngón tay theo chiều ngang ~</string>
+	<string name="input_method_clipboard_delete_success">Xóa thành công</string>
+	<string name="input_method_phrase_top">Ghim</string>
+	<string name="input_method_switch_settings_text">Cài đặt bàn phím</string>
+	<string name="input_method_clipboard_settings_button">Cài đặt</string>
+	<string name="input_method_tab_phrase_text">Cụm từ thường dùng</string>
+	<string name="input_method_clipboard_check_more_add_to_phrase">Thêm cụm từ thường xuyên</string>
+	<string name="input_method_clipboard_checkbox_cancle">Hủy</string>
+	<string name="input_method_tab_clipboard_text">Bộ nhớ tạm</string>
+	<string name="input_method_clipboard_checkbox_confirm">Xóa</string>
+	<string name="input_method_edit_phrase_text">Chỉnh sửa cụm từ thường dùng</string>
 </resources>

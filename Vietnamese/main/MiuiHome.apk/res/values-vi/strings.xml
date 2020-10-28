@@ -658,4 +658,6 @@
 	<string name="work_profile_title">Hồ sơ công việc</string>
 	<string name="work_profile_got_button">Tôi biết</string>
 	<string name="work_profile_next_button">Tiếp theo</string>
+	<string name="alexa_notification_add">Thêm</string>
+	<string name="alexa_notification_cancel">Lần tới</string>
 </resources>

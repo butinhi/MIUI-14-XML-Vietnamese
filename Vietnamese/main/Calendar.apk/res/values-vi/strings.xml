@@ -1478,4 +1478,14 @@ Bạn cũng có thể thêm nhắc nhở để không bỏ lỡ những điều 
 	<string name="miuix_appcompat_actionbar_immersion_button_more_description">Thêm</string>
 	<string name="miuix_appcompat_cancel_description">Hủy</string>
 	<string name="account_manager_install_immediately">Cài đặt ngay</string>
+	<string name="account_manager_not_display">Không hiện</string>
+	<string name="toast_sync_success">Đồng bộ thành công</string>
+	<string name="calendar_import_source">Nguồn</string>
+	<string name="account_manager_settings_sync_immediately">Đồng bộ bây giờ</string>
+	<string name="account_manager_installing">Đang cài đặt…</string>
+	<string name="toast_import_failed">Không thể nhập</string>
+	<string name="add_account_success">Đã thêm thành công</string>
+	<string name="latest_sync_time">Lần đồng bộ cuối: %1$s</string>
+	<string name="toast_import_success">Đã nhập thành công</string>
+	<string name="account_manager_settings_sync">Tần suất đồng bộ</string>
 </resources>

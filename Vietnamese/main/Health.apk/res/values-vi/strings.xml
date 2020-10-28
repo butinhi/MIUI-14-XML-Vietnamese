@@ -1550,4 +1550,11 @@ Nếu thiết bị của bạn nằm trong danh sách này, bạn có thể thê
 	<string name="add_owned_device">Thiết bị khả dụng</string>
 	<string name="acting">số mũ</string>
 	<string name="other_question">Khác</string>
+	<string name="sport_btn_continue">Tiếp tục</string>
+	<string name="hr_fp_detecting">Đang phát hiện…</string>
+	<string name="gps">GPS</string>
+	<string name="sport_btn_pause">Tạm dừng</string>
+	<string name="calories">Calo</string>
+	<string name="sport_menu_share">Chia sẻ</string>
+	<string name="location_service_dialog_positive">Chuyển sang mở</string>
 </resources>

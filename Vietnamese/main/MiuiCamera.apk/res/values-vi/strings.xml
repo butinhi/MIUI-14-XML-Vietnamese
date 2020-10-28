@@ -1833,4 +1833,21 @@ In dễ dàng trên khổ A4"</string>
 	<string name="film_video_tip">Vui lòng sử dụng chân máy để chụp</string>
 	<string name="aiwatermark_location_list_title">Vị trí</string>
 	<string name="aiwatermark_location_absent_hint">"Không thể lấy thông tin vị trí"</string>
+	<string name="live_workspace_title_edit">Chọn mục để xóa</string>
+	<string name="pref_noise_setting_on">"Mở"</string>
+	<string name="pref_video_quality_sub_1080p">FHD 1080p</string>
+	<string name="download_title">Cảnh báo sử dụng dữ liệu</string>
+	<string name="download_confirm">Tải xuống</string>
+	<string name="pref_video_quality_sub_720p">HD 720p</string>
+	<string name="pref_noise_setting_off">"Đóng"</string>
+	<string name="live_draft_continue">Tiếp tục</string>
+	<string name="fastmotion_pro_save_time_min_or_sec">Thời gian: %1$s</string>
+	<string name="pref_a_c_f">Bản đồ</string>
+	<string name="live_draft_empty">Không có mục nào ở đây</string>
+	<string name="live_workspace_title">Thư nháp</string>
+	<string name="pref_histogram_off">"Đóng"</string>
+	<string name="pref_audio_chart_off">"Đóng"</string>
+	<string name="pref_audio_chart_on">"Mở"</string>
+	<string name="pref_audio_chart">Bản đồ</string>
+	<string name="pref_histogram_on">"Mở"</string>
 </resources>

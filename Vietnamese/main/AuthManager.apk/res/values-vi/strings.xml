@@ -384,4 +384,10 @@ Bạn cần phải cài đặt phiên bản MIUI của nhà phát triển để 
 	<string name="HIPS_Perm_mediaVolume">Điều chỉnh âm lượng đa phương tiện</string>
 	<string name="perm_modem_location">Truy cập vị trí của bạn</string>
 	<string name="perm_modem_location_desc">Nhà mạng đang cố truy cập thông tin vị trí của bạn. Chia sẻ thông tin vị trí với nhà mạng?</string>
+	<string name="go_perm_manager">Quản lý quyền truy cập</string>
+	<string name="no">Không</string>
+	<string name="yes">Đồng ý</string>
+	<string name="clipboard_deny_notification_operation">Quản lý hội nghị</string>
+	<string name="HIPS_Action_Accept_This">Cho phép một lần</string>
+	<string name="perm_manager_suggest_operation">Quản lý quyền truy cập</string>
 </resources>

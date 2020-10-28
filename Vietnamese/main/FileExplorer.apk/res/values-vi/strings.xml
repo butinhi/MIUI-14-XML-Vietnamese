@@ -1321,4 +1321,8 @@ Gia nhập cùng 170 triệu Mi Fan!"</string>
 	<string name="encrypt_setting">Mã hóa</string>
 	<string name="private_folder_update_tips">Tính năng mới</string>
 	<string name="not_use">Lần tới</string>
+	<string name="private_folder_update_msg">Quản lý tệp tin đang giới thiệu một tính năng mới: Bạn có thể mã hóa tệp tin riêng tư!</string>
+	<string name="operation_encrypt_title">Mã hóa tệp tin riêng tư</string>
+	<string name="operation_encrypt_summary">Mã hóa tệp tin trong thư mục riêng tư. Giải mã tệp tin lớn có thể mất nhiều thời gian hơn.</string>
+	<string name="private_folder_update_msg_summary">Giải mã sẽ sẽ khiến việc xóa tệp tin khỏi thư mục riêng tư lâu hơn. Bạn có thể bật hoặc tắt mã hóa trong Cài đặt.</string>
 </resources>

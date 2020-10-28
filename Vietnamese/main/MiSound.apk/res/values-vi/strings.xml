@@ -204,4 +204,5 @@
 	<string name="ringtone_output_device_title">Cho phép loa kêu</string>
 	<string name="music_dirac_mode_bluetooth_linefree">Tai nghe Bluetooth có dây Mi (Type-C)</string>
 	<string name="music_dirac_mode_bluetooth_collar">Tai nghe Bluetooth đeo cổ Mi</string>
+	<string name="wireless_transmission_cancel">Hủy</string>
 </resources>

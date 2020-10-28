@@ -3209,4 +3209,5 @@ Bất cứ người dùng nào cũng có thể cập nhật ứng dụng cho ng�
 	<string name="traffic_mode_summary">Cung cấp hầu hết băng thông cho ứng dụng ở nền trước. Tiến trình nền có thể không sử dụng được mạng.</string>
 	<string name="traffic_mode_switch_title">Chế độ siêu tốc</string>
 	<string name="mobile_intelligent_connection_title">Kết nối mạng di động thông minh</string>
+	<string name="preference_countrycode_title">Mã quốc gia</string>
 </resources>

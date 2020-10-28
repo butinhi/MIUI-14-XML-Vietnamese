@@ -1908,4 +1908,13 @@ Bạn có thể tìm thấy tất cả các bài hát của bạn ở một nơi
 	<string name="exo_controls_shuffle_on_description">Bật trộn bài</string>
 	<string name="dialog_score_msg_score_perfect">Tốt lắm! Đánh giá ứng dụng của chúng tôi trên CH Play?</string>
 	<string name="dialog_score_msg_score_explorer">Bạn có thích Mi Music không?</string>
+	<string name="exo_media_action_repeat_off_description">Không lặp lại</string>
+	<string name="privacy_request_title">Điều khoản và Điều kiện</string>
+	<string name="exo_media_action_repeat_all_description">Lặp lại tất cả</string>
+	<string name="network_disable">Không thể kết nối mạng</string>
+	<string name="exo_media_action_repeat_one_description">Lặp lại một mục</string>
+	<string name="summary_command_mode">Bật để vào Chế độ dòng lệnh</string>
+	<string name="title_command_mode">Chế độ dòng lệnh</string>
+	<string name="info_language">Ngôn ngữ:</string>
+	<string name="skip">Bỏ qua</string>
 </resources>

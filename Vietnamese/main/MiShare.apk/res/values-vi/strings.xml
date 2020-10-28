@@ -165,4 +165,8 @@ Bạn có thể tìm thấy danh sách thiết bị tương thích trên trang w
 	<string name="confirm_cancel_receive">"Bạn sẽ không thể nhận mục này nếu bạn hủy truyền. Vẫn hủy?"</string>
 	<string name="error_send_transfer_pc_error">Hết giờ truyền. Cập nhật ứng dụng chia sẻ tệp tin trên máy tính của bạn và thử lại.</string>
 	<string name="agree_desc">Cấp các quyền bắt buộc được liệt kê ở trên.</string>
+	<string name="tile_state_unavailable">Không khả dụng</string>
+	<string name="tile_state_active">BẬT</string>
+	<string name="menu_item_privacy_title">Chính sách Riêng tư</string>
+	<string name="tile_state_inactive">TẮT</string>
 </resources>
