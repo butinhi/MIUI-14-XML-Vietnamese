@@ -477,4 +477,6 @@ dd/M"</string>
 	<string name="monday_shortest">Th 2</string>
 	<string name="miuix_appcompat_search_action_mode_cancel">Hủy</string>
 	<string name="miuix_appcompat_cancel_description">Hủy</string>
+	<string name="share">Chia sẻ</string>
+	<string name="add_custom_image">Tùy chỉnh ảnh</string>
 </resources>

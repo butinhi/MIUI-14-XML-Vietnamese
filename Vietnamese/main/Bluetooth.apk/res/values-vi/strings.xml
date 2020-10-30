@@ -268,4 +268,5 @@
 	<string name="switch_audio_dialog_title">Chọn đầu ra âm thanh</string>
 	<string name="switch_audio_device_default_summary">Thiết bị vừa sử dụng</string>
 	<string name="switch_audio_device_bt_a2dp_summary">Phát âm thanh phương tiện trên thiết bị đã kết nối</string>
+	<string name="switch_audio_device_switch_hint">Bạn có thể tắt thông báo về các thiết bị đã kết nối trong Cài đặt &gt; Bluetooth &gt; Cài đặt bổ sung.</string>
 </resources>

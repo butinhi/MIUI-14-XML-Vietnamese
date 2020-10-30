@@ -643,4 +643,5 @@ Vui lòng gửi mã này cho nhân viên kỹ thuật."</string>
 	<string name="dialog_immediately_open">Bật</string>
 	<string name="camera">Máy ảnh</string>
 	<string name="saving_pdf">Đang lưu…</string>
+	<string name="ai_ppt_to_pdf_view_all">Xem tất cả</string>
 </resources>

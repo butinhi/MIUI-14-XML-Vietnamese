@@ -2416,4 +2416,6 @@ Thử lại sau %d giây."</string>
 	<string name="bubbles_user_education_got_it">Tôi biết</string>
 	<string name="quick_settings_vowifi_label">Gọi Wi-Fi</string>
 	<string name="msim_set_sub_not_supported_phone_in_call">"Không thể đặt khi đang gọi"</string>
+	<string name="wifi_debugging_allow">Cho phép</string>
+	<string name="touch_filtered_warning">Vì ứng dụng đang che khuất yêu cầu cấp quyền, Cài đặt không thể xác minh câu trả lời của bạn.</string>
 </resources>
