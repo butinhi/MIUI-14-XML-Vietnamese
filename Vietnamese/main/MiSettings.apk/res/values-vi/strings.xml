@@ -675,8 +675,8 @@
 	<string name="usage_app_limit_reach_summay_new">Chạm để thêm %d phút</string>
 	<string name="usage_new_home_day_category_title_new">Thời gian màn hình cho danh mục ứng dụng trên %s</string>
 	<string name="usage_week_avg_usage_title">Trung bình tuần này</string>
-	<string name="usage_week_avg_usage_title2">Thời gian trung bình</string>
 	<string name="dc_light_hint_enable_title">Chú ý</string>
+	<string name="usage_week_avg_usage_title2">Thời gian trung bình</string>
 	<string name="dc_light_hint_normal">Làm mờ DC có thể ảnh hưởng đến cách hiển thị một số mục.</string>
 	<string name="dc_lignt_enable_hint">Chế độ chống nhấp nháy sẽ đặt tần số quét màn hình thành 60Hz. Chuyển sang Chế độ chống nhấp nháy?</string>
 	<string name="dc_light_hint_other">Làm mờ DC có thể ảnh hưởng đến tần số quét và cách hiển thị một số mục.</string>
@@ -684,4 +684,8 @@
 	<string name="fps_standard_title">Tiêu chuẩn</string>
 	<string name="fps_nature_title">Cao</string>
 	<string name="fps_smooth_title">Giữa</string>
+	<string name="fps_smooth_summary">Tốc độ làm mới trung bình giúp chi tiết rõ ràng hơn</string>
+	<string name="fps_nature_summary">Tốc độ làm mới cao giúp mọi thứ luôn sắc nét và rõ ràng</string>
+	<string name="fps_user_tip">Những hình ảnh động demo này được phát ở tốc độ thấp để bạn tham khảo. Hiệu suất thực tế có thể trông khác nhau dựa trên các yếu tố khác nhau.</string>
+	<string name="fps_standard_summary">Tốc độ làm mới tiêu chuẩn giúp tiết kiệm pin</string>
 </resources>

@@ -870,4 +870,11 @@ Các bước: Mở APP WeChat&gt;My&gt;Cài đặt&gt;Chung&gt;Sao lưu và di c
 	<string name="dialog_connect_ap_timeout_button">Kết nối</string>
 	<string name="open_photo_and_contacts_cloud_sync_title">Đồng bộ liên hệ và Thư viện</string>
 	<string name="open_photo_and_contacts_cloud_sync_complete">Bắt đầu</string>
+	<string name="receiver_finish_title">Chúc mừng!</string>
+	<string name="guest_connect_dialog_ensure_text">Kết nối</string>
+	<string name="receiver_finish_detail_fail">"Không thể truyền"</string>
+	<string name="receiver_finish_detail_button">Xem báo cáo</string>
+	<string name="main_receiver_title">TIN TỨC</string>
+	<string name="sender_finish_title">Chuyển thành công</string>
+	<string name="select_android_title">Android</string>
 </resources>

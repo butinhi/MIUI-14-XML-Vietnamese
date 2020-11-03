@@ -10964,4 +10964,43 @@ Chức năng này chỉ nhận được địa chỉ MAC Wi-Fi của bạn để
 	<string name="zen_mode_always">Luôn luôn</string>
 	<string name="exterior">Bảng màu</string>
 	<string name="dark_mode_apps_header">Ứng dụng riêng lẻ</string>
+	<string name="usb_use_file_transfers_miui12_5">Truyền tệp</string>
+	<string name="control_center_style">Kiểu Trung tâm điều khiển</string>
+	<string name="dpp_qrcode_generator_summary">Quét mã QR này với thiết bị hỗ trợ Easy Connect</string>
+	<string name="wifi_wakeup_location_summary">Bật dịch vụ vị trí để có thể sử dụng tính năng này.</string>
+	<string name="legacy_control_center_desc">Kéo thanh trạng thái xuống để xem các nút chuyển đổi và thông báo</string>
+	<string name="lock_screen_action">Các mục hiển thị trong màn hình khóa sau khi kéo xuống</string>
+	<string name="wifi_wakeup_title">Bật tính năng bổ sung</string>
+	<string name="notification_control_center">Thông báo &amp; Trung tâm điều khiển</string>
+	<string name="wifi_wakeup_scan_summary">Cho phép các ứng dụng và dịch vụ tìm kiếm các mạng Wi-Fi để có thể tự động bật Wi-Fi. Bật tính năng này sẽ cho phép thiết bị của bạn tự động kết nối tới mạng đã lưu gần đó.</string>
+	<string name="modern_control_center_desc">Kéo thanh trạng thái xuống từ bên trái để xem thông báo. Kéo thanh trạng thái xuống từ bên phải để mở Trung tâm điều khiển.</string>
+	<string name="usb_use_photo_transfers_miui12_5">Truyền ảnh</string>
+	<string name="control_center_style_summary">"Chọn cách bạn muốn hiển thị các nút chuyển đổi và thông báo"</string>
+	<string name="allow_all_rotations_title">Cho phép tất cả hành động xoay</string>
+	<string name="requires_modern_control_center">Hoạt động với phiên bản mới của Trung tâm điều khiển</string>
+	<string name="zen_mode_more_actions">Thêm tùy chọn Không làm phiền</string>
+	<string name="silent_mode_enable_media">Phát phương tiện</string>
+	<string name="zen_mode_auto_rule">Đặt lịch phiên Không làm phiền</string>
+	<string name="zen_mode_lockscreen">Khi đã khóa</string>
+	<string name="zen_mode_summary2">Tắt tiếng cuộc gọi và thông báo, tắt rung</string>
+	<string name="other_input_method">Các bàn phím khác</string>
+	<string name="xiaomi_custom_input_method">Đã tùy chỉnh cho Xiaomi</string>
+	<string name="silent_mode_summary">Tắt tiếng cuộc gọi, thông báo và phương tiện</string>
+	<string name="volume_adjustment">Điều chỉnh âm lượng</string>
+	<string name="more_dark_mode_settings">Thêm tùy chọn Chế độ tối</string>
+	<string name="display_animate_title">Hạn chế hiệu ứng</string>
+	<string name="display_animate_content">Hạn chế hiệu ứng hiển thị khi mở khóa thiết bị</string>
+	<string name="wifi_connect_frequency">Tần số Wi-Fi:</string>
+	<string name="dialog_wifi_context">Bạn cần kết nối mạng để cài đặt thiết bị của bạn. Trừ khi bạn kết nối Wi-Fi, dữ liệu di động có thể được sử dụng. Sử dụng dữ liệu di động có thể phát sinh chi phí. Vẫn sử dụng dữ liệu di động?</string>
+	<string name="display_animate_category">Hiệu ứng</string>
+	<string name="activity_check_context">"Thiết bị của bạn đang thử kết nối mạng. Quá trình này có thể lâu hơn dự kiến nếu bạn sử dụng dữ liệu di động. Bạn có thể quay lại và kết nối mạng Wi-Fi, hoặc tiếp tục chờ tới khi dữ liệu di động được thiết lập."</string>
+	<string name="wifi_tether_checkbox_kddi_text">Phát Wi-Fi</string>
+	<string name="wifi_connect_channel">Kênh Wi-Fi:</string>
+	<string name="switchNetworkToast">Kết nối tới mạng dữ liệu di động có thể phát sinh chi phí</string>
+	<string name="light_color_mode">Chế độ sáng</string>
+	<string name="dark_mode_font_background_title">Tự động điều chỉnh văn bản và hình nền</string>
+	<string name="dialog_check_context">"Thiết bị của bạn không thể kết nối mạng.
+1. Chạn \"Kết nối Wi-Fi\" để chọn một mạng khả dụng.
+2. Nếu bạn muốn sử dụng dữ liệu di động, chạm \"Thử lại\" hoặc tháo và lắp lại thẻ SIM của bạn."</string>
+	<string name="wifi_tether_configure_ap_kddi_text">Cài đặt phát Wi-Fi</string>
 </resources>

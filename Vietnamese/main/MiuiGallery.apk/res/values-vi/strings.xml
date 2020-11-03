@@ -2447,4 +2447,10 @@ Phiên dịch có thể mất một lúc khi bạn sử dụng tính năng này 
 	<string name="filter_popular_coffee">Cà phê</string>
 	<string name="photodetail_rename_title">Đổi tên</string>
 	<string name="photodetail_failed_already_exist">Tập tin này đã tồn tại</string>
+	<string name="operation_replace_album_cover">Đổi ảnh bìa album</string>
+	<string name="download_type_origin_title">Gốc</string>
+	<string name="watch_all_photo">Thư viện</string>
+	<string name="operation_replace_album_cover_default_mode">Mặc định</string>
+	<string name="operation_replace_album_cover_custom_mode">Tùy chỉnh</string>
+	<string name="download_type_thumbnail_title">Chất lượng cao</string>
 </resources>

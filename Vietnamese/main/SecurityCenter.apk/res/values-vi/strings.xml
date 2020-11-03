@@ -4164,4 +4164,33 @@ Sau khi được đặt, nếu bạn đóng ứng dụng, các quyền sẽ tr�
 	<string name="gb_voice_changer_gender_man">Nam</string>
 	<string name="gb_voice_changer_free">Miễn phí</string>
 	<string name="gb_voice_changer_setting_account_title">Tài khoản Mi</string>
+	<string name="notification_checker_installed_apk_hint">Không cần giữ lại APK sau khi cài đặt</string>
+	<string name="notification_low_storage_size_1_gb_hint">Giải phóng bộ nhớ để tăng tốc thiết bị của bạn</string>
+	<string name="notification_garbage_clean_size_found_text">Quá nhiều tệp tin rác</string>
+	<string name="notification_wechat_clean_high_level_text_b">"Tệp tin rác WeChat làm chậm thiết bị của bạn"</string>
+	<string name="notification_wechat_clean_high_level_text_a">WeChat tạo ra rất nhiều tệp tin rác</string>
+	<string name="notification_garbage_clean_hint_new">Hãy để thiết bị của bạn nhẹ nhàng hơn</string>
+	<string name="notification_qq_clean_text">"Xóa tệp rác QQ"</string>
+	<string name="notification_low_memory_hint">Các tệp tin rác làm chậm thiết bị của bạn</string>
+	<string name="notification_garbage_clean_size_new">Giải phóng %s bộ nhớ</string>
+	<string name="notification_wechat_clean_high_level_hint">Xóa rác để tăng tốc thiết bị của bạn</string>
+	<string name="notification_uninstall_clean_hint">Xóa rác để giải phóng bộ nhớ</string>
+	<string name="notification_qq_clean_hint">Các tệp tin rác làm chậm thiết bị của bạn</string>
+	<string name="notification_uninstall_clean_text">Các ứng dụng đã gỡ cài đặt để lại rác trên thiết bị của bạn</string>
+	<string name="notification_garbage_clean_size_found">"Có %s of rác"</string>
+	<string name="notification_low_memory_text">Bộ nhớ đang gần hết</string>
+	<string name="notification_low_storage_size">Còn ít hơn %s bộ nhớ khả dụng</string>
+	<string name="notification_low_storage_size_1p5_gb_hint">Xóa rác để tăng tốc thiết bị của bạn</string>
+	<string name="notification_garbage_clean_size_found_hint">Đã đến lúc xóa rác!</string>
+	<string name="notification_wechat_clean_low_level_text">"Xóa rác WeChat"</string>
+	<string name="vb_video_effects_setting_solar">Bạc màu</string>
+	<string name="perm_list_header_title">Ứng dụng</string>
+	<string name="vb_video_effects_setting_warmth">Ấm</string>
+	<string name="vb_video_effects_setting_mecha">Robot</string>
+	<string name="vb_video_effects_setting_grim">Mát lạnh</string>
+	<string name="vb_video_effects_setting_girl">Trắng mịn</string>
+	<string name="read_clipboard_ai_close_no">Lần tới</string>
+	<string name="read_clipboard_ai_close_yes">Điều chỉnh</string>
+	<string name="vb_video_effects_setting_knight">Kim loại</string>
+	<string name="vb_video_effects_setting_green_orange">Tuổi trẻ</string>
 </resources>

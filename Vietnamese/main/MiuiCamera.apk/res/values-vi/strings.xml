@@ -1850,4 +1850,7 @@ In dễ dàng trên khổ A4"</string>
 	<string name="pref_audio_chart_on">"Mở"</string>
 	<string name="pref_audio_chart">Bản đồ</string>
 	<string name="pref_histogram_on">"Mở"</string>
+	<string name="pref_camera_video_ai_scene_title">Máy ảnh AI</string>
+	<string name="pref_n_s_o_l">"Mở"</string>
+	<string name="pref_n_s_o_m">"Đóng"</string>
 </resources>

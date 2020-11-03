@@ -1435,4 +1435,21 @@ Chờ đến khi đồng bộ hoàn toàn hoặc xem tin nhắn trên máy tính
 	<string name="server_log">Thỏa thuận dịch vụ</string>
 	<string name="xiaomi_market_sdk_update_dialog_cancel">Để sau</string>
 	<string name="action_filter">Bộ lọc</string>
+	<string name="user_experience_positive">Đồng ý và tiếp tục</string>
+	<string name="account_settings_does_not_support_pop">Giao thức POP3 không hỗ trợ cài đặt mục này</string>
+	<string name="user_experience_login">Đăng nhập</string>
+	<string name="mailbox_setting_preference_sync_summary_open">Đồng bộ: Bật</string>
+	<string name="user_experience_logout">Thoát chương trình trải nghiệm</string>
+	<string name="about_go_to_update">Tới cập nhật</string>
+	<string name="user_experience_content">Vui lòng xác nhận rằng bạn đã đọc và đồng ý với \"Chương trình trải nghiệm người dùng\"</string>
+	<string name="install_mime_encrypt_cert">Cài đặt Chứng chỉ Mã hóa S/MIME</string>
+	<string name="login_manual">Cài đặt thủ công</string>
+	<string name="account_settings_background_attachments_title">Tự động tải xuống tệp đính kèm</string>
+	<string name="user_experience_title">Điều khoản và Điều kiện</string>
+	<string name="about_lasted_version">Đây là phiên bản cuối cùng</string>
+	<string name="about_checking_update">Đang kiểm tra cập nhật ...</string>
+	<string name="account_setting_general_summry">Đặt các tính năng chung của Email</string>
+	<string name="mailbox_setting_preference_sync_summary_close">Đồng bộ: Tắt</string>
+	<string name="install_mime_sign_cert">Cài đặt Chứng chỉ Chữ ký S/MIME</string>
+	<string name="account_setting_general_title">Cài đặt tính năng</string>
 </resources>

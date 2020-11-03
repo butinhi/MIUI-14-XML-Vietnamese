@@ -1541,4 +1541,6 @@ Bạn cũng có thể thêm nhắc nhở để không bỏ lỡ những điều 
 	<string name="trust_certificate_validity_period_value">%1$s – %2$s (sẽ không được thực thi)</string>
 	<string name="summary_import_by_url">Thêm đăng ký URL</string>
 	<string name="account_manager_delete">Xóa tài khoản</string>
+	<string name="setting_title_ai_time_parser">Trích xuất thời gian lịch trình thông minh</string>
+	<string name="setting_title_ai_time_parser_summary">Trích xuất và đặt thời gian một cách thông minh trong tiêu đề của lịch trình khi tạo</string>
 </resources>

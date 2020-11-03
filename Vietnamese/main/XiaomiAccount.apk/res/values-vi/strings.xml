@@ -751,4 +751,9 @@ Hãy chắc chắn bạn nhớ tất cả câu trả lời."</string>
 	<string name="google_login">Đăng nhập bằng Google</string>
 	<string name="facebook_login">Đăng nhập bằng Facebook</string>
 	<string name="passport_uplink_sms_send_confirm">Đã gửi</string>
+	<string name="passport_uplink_sms_send_failed">"Không thể xác thực SMS liên kết"</string>
+	<string name="passport_uplink_sms_sending">Đang gửi tin nhắn trả phí…</string>
+	<string name="passport_uplink_send_sms_hint">"Chạm \"Gửi\" sau khi bạn được chuyển hướng đến trang với một tin nhắn soạn sẵn."</string>
+	<string name="passport_uplink_sms_send_cancel">Đã hủy gửi tin nhắn liên kết</string>
+	<string name="passport_uplink_suggest_dialog_msg">"Không nhận được mã. Sử dụng tin nhắn liên kết trả phí?"</string>
 </resources>

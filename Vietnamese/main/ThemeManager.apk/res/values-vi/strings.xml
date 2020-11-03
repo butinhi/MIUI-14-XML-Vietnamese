@@ -1509,4 +1509,16 @@ d MMMM"</string>
 	<string name="super_wallpaper_setting_apply_super_wallpaper_button_text">Áp dụng</string>
 	<string name="wallpaper_setting_super_wallpaper_banner_title">Siêu Hình nền</string>
 	<string name="wallpaper_setting_online_wallpaper_title">Hình nền trực tuyến</string>
+	<string name="personalize_icon_title">Biểu tượng</string>
+	<string name="personalize_notify_ringtone_title">Thông báo</string>
+	<string name="de_super_wp_apply_wallpaper_button_text">Áp dụng</string>
+	<string name="personalize_notify_style_title">Hiệu ứng</string>
+	<string name="personalize_theme_entrance">Chủ đề</string>
+	<string name="personalize_alarm_ringtone_title">Báo thức</string>
+	<string name="personalize_fingerprint_style_title">Vân tay</string>
+	<string name="personalize_call_ringtone_title">Nhạc chuông</string>
+	<string name="personalize_wallpaper_title">Hình nền</string>
+	<string name="personalize_charge_style_title">Đang sạc</string>
+	<string name="de_mix_mode_superwallpaper_without_aod_desc">Màn hình khóa và màn hình chính</string>
+	<string name="personalize_third_font">Phông chữ</string>
 </resources>

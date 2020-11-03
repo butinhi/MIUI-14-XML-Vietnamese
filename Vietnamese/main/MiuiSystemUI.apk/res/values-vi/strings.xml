@@ -2418,4 +2418,16 @@ Thử lại sau %d giây."</string>
 	<string name="msim_set_sub_not_supported_phone_in_call">"Không thể đặt khi đang gọi"</string>
 	<string name="wifi_debugging_allow">Cho phép</string>
 	<string name="touch_filtered_warning">Vì ứng dụng đang che khuất yêu cầu cấp quyền, Cài đặt không thể xác minh câu trả lời của bạn.</string>
+	<string name="quick_settings_vowifi_sim1_label">Gọi Wi-Fi SIM1</string>
+	<string name="quick_settings_vowifi_sim2_label">Gọi Wi-Fi SIM2</string>
+	<string name="notification_control_center">Thông báo &amp; Trung tâm điều khiển</string>
+	<string name="wifi_debugging_secondary_user_message">Người dùng đang đăng nhập vào thiết bị không thể bật gỡ lỗi không dây. Để sử dụng tính năng này, chuyển sang người dùng chính.</string>
+	<string name="wifi_debugging_title">Cho phép gỡ lỗi không dây trên mạng này?</string>
+	<string name="wifi_debugging_always">Luôn cho phép trên mạng này</string>
+	<string name="wifi_debugging_message">"Tên mạng (SSID)
+%1$s
+
+Địa chỉ Wi-Fi (BSSID)
+%2$s"</string>
+	<string name="wifi_debugging_secondary_user_title">Không cho phép gỡ lỗi không dây</string>
 </resources>

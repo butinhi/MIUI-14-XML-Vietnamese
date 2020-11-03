@@ -2003,4 +2003,7 @@ Chọn một trong các tùy chọn sau:"</string>
 	<string name="permission_dailog_positive_button">Vào</string>
 	<string name="bh_not_insert_card">Chưa được lắp</string>
 	<string name="bh_flow_order">Dữ liệu di động</string>
+	<string name="dialog_delete_contact_content">Xiaomi Cloud muốn xóa một vài liên hệ của bạn. Xóa ngay?</string>
+	<string name="notification_micloudsync_delete_contact">Xiaomi Cloud muốn xóa một vài liên hệ của bạn</string>
+	<string name="dialog_delete_contact_title">Đang xóa liên hệ</string>
 </resources>
