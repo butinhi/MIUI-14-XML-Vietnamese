@@ -104,4 +104,5 @@
 	<string name="miuix_sbl_tracking_progress_labe_refreshed">Đã làm mới</string>
 	<string name="dialog_body_no_network_global">Kết nối Wi-Fi hoặc bật dữ liệu di động.</string>
 	<string name="dialog_body_no_network_china">Kết nối Wi-Fi hoặc bật dữ liệu di động.</string>
+	<string name="location_not_enabled_summary_no_pressure_sensor">La bàn cần truy cập vị trí của bạn để hiển thị tọa độ hiện tại của bạn.</string>
 </resources>

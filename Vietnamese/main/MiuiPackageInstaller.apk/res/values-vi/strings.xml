@@ -372,4 +372,5 @@ Ngoài ra, bạn có thể tắt Chế độ đơn giản và thử lại."</str
 	<string name="install_confirm_question_des_10">"Nếu bạn sẵn sàng chấp nhận rủi ro và muốn tiếp tục cài đặt, hãy cho phép cài đặt trong Bảo mật &gt; Quản lý ứng dụng &gt; Quyền &gt; Ứng dụng có thể có rủi ro. Nếu bạn không thể thấy \"Ứng dụng có thể có rủi ro\", cập nhật ứng dụng Bảo mật của bạn và thử lại."</string>
 	<string name="install_control_vip_account_install">Đăng ký thử nghiệm Beta</string>
 	<string name="spannable_continue_text">Tôi hiểu về các rủi ro. Vẫn cài đặt.</string>
+	<string name="miui_other_permission">Khác</string>
 </resources>

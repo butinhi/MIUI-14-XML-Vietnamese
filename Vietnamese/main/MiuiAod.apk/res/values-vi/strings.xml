@@ -479,4 +479,16 @@ dd/M"</string>
 	<string name="miuix_appcompat_cancel_description">Hủy</string>
 	<string name="share">Chia sẻ</string>
 	<string name="add_custom_image">Tùy chỉnh ảnh</string>
+	<string name="temporary_style_summary">Đề xuất</string>
+	<string name="ambient_display_screen_title">Màn hình luôn bật</string>
+	<string name="off">TẮT</string>
+	<string name="ambient_display_screen_title_sp">Màn hình Ambient</string>
+	<string name="on">BẬT</string>
+	<string name="step_to_image_community">Tìm nhiều hơn trong Cộng đồng Mi</string>
+	<string name="aod_dual_clock_date_12">hh:mm dd/MM aa</string>
+	<string name="share_to_community">Chia sẻ lên Cộng đồng Mi</string>
+	<string name="aod_dual_clock_date">HH:mm dd/MM</string>
+	<string name="dual_clock_tip">Đồng hồ kép đang bật. Chạm để mở Cài đặt.</string>
+	<string name="scheduled_style_summary">Đặt thời gian tùy chỉnh</string>
+	<string name="always_style_symmary">Tốn pin hơn</string>
 </resources>

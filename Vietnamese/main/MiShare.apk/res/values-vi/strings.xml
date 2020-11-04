@@ -169,4 +169,8 @@ Bạn có thể tìm thấy danh sách thiết bị tương thích trên trang w
 	<string name="tile_state_active">BẬT</string>
 	<string name="menu_item_privacy_title">Chính sách Riêng tư</string>
 	<string name="tile_state_inactive">TẮT</string>
+	<string name="guide_title_2">Chọn thiết bị để chia sẻ</string>
+	<string name="guide_summary_2">"Chọn thiết bị bạn muốn gửi dữ liệu và chạm vào biểu tượng của nó"</string>
+	<string name="guide_summary_1">Người khác có thể chạm nút chuyển đổi trên Bảng thông báo</string>
+	<string name="guide_title_1">Bật Chia sẻ Mi trên cả hai thiết bị</string>
 </resources>

@@ -205,4 +205,11 @@
 	<string name="music_dirac_mode_bluetooth_linefree">Tai nghe Bluetooth có dây Mi (Type-C)</string>
 	<string name="music_dirac_mode_bluetooth_collar">Tai nghe Bluetooth đeo cổ Mi</string>
 	<string name="wireless_transmission_cancel">Hủy</string>
+	<string name="switch_bluetooth_device">Chuyển đổi thiết bị</string>
+	<string name="end_wireless_transmission">Âm kết thúc</string>
+	<string name="wireless_transmission_confirm">Mở ngay</string>
+	<string name="wireless_transmission_definition">Âm thanh do micrô của điện thoại di động thu được sẽ được truyền đến thiết bị Bluetooth để phát lại</string>
+	<string name="wireless_transmission">Truyền không dây</string>
+	<string name="wireless_transmission_prompt">Khi sử dụng truyền âm thanh không dây, cần bật chức năng Bluetooth. Bật nó ngay bây giờ?</string>
+	<string name="choose_bluetooth_device">Chọn thiết bị</string>
 </resources>

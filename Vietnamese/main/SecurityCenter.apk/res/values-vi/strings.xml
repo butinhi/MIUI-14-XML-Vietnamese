@@ -4193,4 +4193,9 @@ Sau khi được đặt, nếu bạn đóng ứng dụng, các quyền sẽ tr�
 	<string name="read_clipboard_ai_close_yes">Điều chỉnh</string>
 	<string name="vb_video_effects_setting_knight">Kim loại</string>
 	<string name="vb_video_effects_setting_green_orange">Tuổi trẻ</string>
+	<string name="privacy_thumbnail_blur_category_tip">Đề xuất</string>
+	<string name="privacy_thumbnail_blur_category_financial">Tài chính</string>
+	<string name="privacy_thumbnail_blur_search_empty">Không tìm thấy kết quả</string>
+	<string name="privacy_thumbnail_blur_title">Làm mờ xem trước ứng dụng</string>
+	<string name="privacy_thumbnail_blur_category_other">Khác</string>
 </resources>

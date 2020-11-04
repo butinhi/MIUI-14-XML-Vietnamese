@@ -358,4 +358,5 @@
 	<string name="knock_long_press_horizontal_slid">Không</string>
 	<string name="double_knock">Không</string>
 	<string name="back_double_tap">Không</string>
+	<string name="notification_channel_hotspot">Thông báo điểm phát</string>
 </resources>

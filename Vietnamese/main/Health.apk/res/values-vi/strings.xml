@@ -1594,4 +1594,5 @@ Nếu thiết bị của bạn nằm trong danh sách này, bạn có thể thê
 	<string name="exit_running_tips_cancel">Đồng ý</string>
 	<string name="sport_settings_title">Hoạt động</string>
 	<string name="sport_btn_lock">Khóa</string>
+	<string name="sport_share_save_local_fail">"Không thể lưu. Thử lại."</string>
 </resources>

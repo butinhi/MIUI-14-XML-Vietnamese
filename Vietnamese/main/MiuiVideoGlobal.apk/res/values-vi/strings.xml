@@ -1952,4 +1952,17 @@ Gửi mã này cho người giám sát."</string>
 	<string name="common_copyright_unsupported_video">"Không thể phát video này vì hạn chế bản quyền"</string>
 	<string name="back_to_mainpage">Khám phá</string>
 	<string name="pgc_push_title">Đăng ký của tôi</string>
+	<string name="playlist_finish">Xong</string>
+	<string name="search_result_startdownload">Đang tải xuống…</string>
+	<string name="auth_again">Đồng ý</string>
+	<string name="playlist_no_videos">Không có video</string>
+	<string name="playlist_create">Tạo</string>
+	<string name="item_card_all_replies">Tất cả phản hồi</string>
+	<string name="search_result_download_error">Không thể tải xuống</string>
+	<string name="item_setting_go_back">Điều khoản và Điều kiện</string>
+	<string name="item_card_related">Liên quan</string>
+	<string name="add_search_channel_link">URL</string>
+	<string name="item_card_continue_play">Tự động phát</string>
+	<string name="playlist_remove">Xóa</string>
+	<string name="add_search_channel_name">Tên</string>
 </resources>
