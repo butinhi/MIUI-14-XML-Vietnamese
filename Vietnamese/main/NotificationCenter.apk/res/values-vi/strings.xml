@@ -409,4 +409,6 @@ Báo cáo vấn đề này &gt;"</string>
 	<string name="setting_menu_success">Đặt thành công</string>
 	<string name="mune_setting_prefix_category">"Nhóm với "</string>
 	<string name="channel_name_notification">Thông báo ứng dụng</string>
+	<string name="channel_name_recovered">Thông báo đã khôi phục</string>
+	<string name="channel_name_aggregation">Thông báo đã nhóm</string>
 </resources>

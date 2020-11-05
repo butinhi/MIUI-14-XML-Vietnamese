@@ -2430,4 +2430,8 @@ Thử lại sau %d giây."</string>
 Địa chỉ Wi-Fi (BSSID)
 %2$s"</string>
 	<string name="wifi_debugging_secondary_user_title">Không cho phép gỡ lỗi không dây</string>
+	<string name="miui_toast_zen_standard_to_off_when_shield_media_version_R">Chế độ im lặng đang tắt. Thông báo, âm thanh phương tiện, và rung được bật lại.</string>
+	<string name="miui_toast_zen_dnd_to_off_version_R">Không làm phiền đang tắt. Âm thanh thông báo và rung được bật lại.</string>
+	<string name="miui_toast_zen_to_standard_when_shield_media_version_R">Chế độ im lặng đang bật. Thông báo và phương tiện sẽ được tắt tiếng và rung sẽ được tắt.</string>
+	<string name="miui_toast_zen_to_dnd_version_R">Không làm phiền đang bật. Thông báo sẽ được tắt tiếng và rung sẽ được tắt.</string>
 </resources>

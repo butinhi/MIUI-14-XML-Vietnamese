@@ -416,4 +416,8 @@ Bạn cần phải cài đặt phiên bản MIUI của nhà phát triển để 
 	<string name="storage_policy_notify_content">Để cho phép truy cập, chạm để chuyển đến Cài đặt</string>
 	<string name="HIPS_Perm_recognition">Truy cập thông tin hoạt động</string>
 	<string name="HIPS_Action_Reject_This">Hạn chế một lần</string>
+	<string name="grant_dialog_storage_category_title">Đặt quyền truy cập Album và thông tin ứng dụng xã hội</string>
+	<string name="grant_dialog_storage_gallery_title">Album</string>
+	<string name="grant_dialog_storage_sociality_title">Thông tin ứng dụng xã hội</string>
+	<string name="HIPS_SecurityPrompt_Reject_Never">Từ chối và không hỏi lại (%d)</string>
 </resources>

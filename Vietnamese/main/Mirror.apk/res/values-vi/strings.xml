@@ -381,4 +381,7 @@
 	<string name="display_max_screen_count_toast">Bạn có thể mở tối đa 2 cửa sổ trong phiên bản này</string>
 	<string name="settings_log_options">Nhật ký</string>
 	<string name="worker_authorization_loading">Đang làm mới</string>
+	<string name="log_warning">"Chuyển đổi nhật ký có thể làm tăng rủi ro bảo mật và ảnh hưởng tới hiệu năng. Chỉ sử dụng khi cần."</string>
+	<string name="http_buffer_size">Kích thước cache HTTP</string>
+	<string name="tip_connect_fail_for_hotspot">"Không thể kết nối. Tắt điểm phát di động và thử lại."</string>
 </resources>

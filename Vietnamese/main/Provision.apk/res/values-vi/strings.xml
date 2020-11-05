@@ -280,4 +280,5 @@ Bạn cần đọc và đồng ý với Chính sách Riêng tư Mint Keyboard tr
 	<string name="ktposition_header">Chia sẻ thông tin vị trí với các cơ quan cứu hộ khẩn cấp</string>
 	<string name="home_settings_miui_home">Cổ điển</string>
 	<string name="home_settings_poco_launcher">Bảng ứng dụng</string>
+	<string name="home_settings_title">Chọn trình khởi chạy mặc định</string>
 </resources>

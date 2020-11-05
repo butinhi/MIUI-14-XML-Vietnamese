@@ -3211,4 +3211,7 @@ Bất cứ người dùng nào cũng có thể cập nhật ứng dụng cho ng�
 	<string name="mobile_intelligent_connection_title">Kết nối mạng di động thông minh</string>
 	<string name="preference_countrycode_title">Mã quốc gia</string>
 	<string name="fiveg_network_mode_default">Tự động</string>
+	<string name="fiveg_network_mode_title">Chọn chế độ mạng 5G</string>
+	<string name="preferred_network_type_pref_entries_5g_preferred_lm_cr">5G/LTE/WCDMA/GSM tự động</string>
+	<string name="fiveg_sa_vice_switch_title">SA trên SIM thứ hai</string>
 </resources>

@@ -522,4 +522,7 @@ Phân tách và bảo mật dữ liệu của bạn."</string>
 	<string name="xspace_start">Tạo</string>
 	<string name="xspace_guide_content_bound">Chọn ứng dụng để thêm từ bên dưới</string>
 	<string name="xspace_notification_button">Thử</string>
+	<string name="xspace_install_complete">&lt;font&gt;Tạo ứng dụng kép thành công. &lt;/font&gt;&lt;font color=#0D84FF&gt;Mở ngay&lt;/font&gt;.</string>
+	<string name="xspace_guide_description">"Mỗi tài khoản
+xứng đáng có riêng một ứng dụng"</string>
 </resources>

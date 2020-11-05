@@ -1965,4 +1965,21 @@ Gửi mã này cho người giám sát."</string>
 	<string name="item_card_continue_play">Tự động phát</string>
 	<string name="playlist_remove">Xóa</string>
 	<string name="add_search_channel_name">Tên</string>
+	<string name="notification_recall_desc">Mi Video có thể thông báo cho bạn biết về video phổ biến và đăng ký của bạn.</string>
+	<string name="notification_recall_title">Bật thông báo</string>
+	<string name="common_copyright_unsupported_audio">"Không thể phát âm thanh vì hạn chế bản quyền"</string>
+	<string name="add_website">Thêm một trang web</string>
+	<string name="item_card_open_in">"Mở trong "</string>
+	<string name="item_card_more_trailers">Thêm trailer</string>
+	<string name="add_search_channel_tip">Tìm \"%s\" trên web, sau đó dán URL vào đây.</string>
+	<string name="on_tip_firework_recommend">"Bạn sẽ nhận được đề xuất nội dung cá nhân hóa từ Firework"</string>
+	<string name="tip_auth_again">"Vì trước đây bạn chưa đồng ý với các điều khoản của Chính sách bảo mật tương ứng của nhà cung cấp nội dung bên thứ ba, chúng tôi không thể hiển thị nội dung video trong Khoảnh khắc. Nhấn vào nút bên dưới để đồng ý với Chính sách quyền riêng tư và truy cập tính năng này."</string>
+	<string name="title_firework_recommend">Đề xuất Firework</string>
+	<string name="cloud_auto_pip_play_switch">Tự động sử dụng ảnh trong ảnh</string>
+	<string name="detail_select_source">Chọn nguồn phát</string>
+	<string name="playlist_name">Nhập tên danh sách phát</string>
+	<string name="cloud_online_player">Trình phát</string>
+	<string name="off_tip_firework_recommend">"Bạn sẽ không nhận được đề xuất nội dung cá nhân hóa từ Firework"</string>
+	<string name="tip_pop">Nội dung từ Khoảnh khắc được cung cấp bởi Firework. Để cải thiện trải nghiệm xem của bạn và nhận được các đề xuất nội dung phù hợp hơn, hãy cho phép Firework thu thập, xử lý và sử dụng thông tin cá nhân của bạn theo Chính sách quyền riêng tư của họ. Đọc và đồng ý với &lt;a href=\"%1$s\"&gt;Chính sách Riêng tư Firework&lt;/a&gt; trước khi sử dụng dịch vụ của họ.</string>
+	<string name="firework_privacy">Chính sách Riêng tư Firework</string>
 </resources>

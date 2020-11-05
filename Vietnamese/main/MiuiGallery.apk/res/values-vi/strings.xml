@@ -2453,4 +2453,25 @@ Phiên dịch có thể mất một lúc khi bạn sử dụng tính năng này 
 	<string name="operation_replace_album_cover_default_mode">Mặc định</string>
 	<string name="operation_replace_album_cover_custom_mode">Tùy chỉnh</string>
 	<string name="download_type_thumbnail_title">Chất lượng cao</string>
+	<string name="photo_page_lock_screen">Khóa xoay</string>
+	<string name="photodetail_rename_too_long">Tên tệp tin bạn nhập quá dài</string>
+	<string name="filter_popular_dream">Mơ mộng</string>
+	<string name="filter_popular_hill">Đồi</string>
+	<string name="pic_to_pdf_save_in">Đã lưu PDF vào %s</string>
+	<string name="pic_to_pdf_preview_loading">Đang tải xem trước…</string>
+	<string name="download_type_origin_subtitle_china">Ảnh gốc chiếm nhiều dung lượng và chỉ có thể tải qua Wi-Fi</string>
+	<string name="pic_to_pdf_not_support_video">"Video không thể lưu thành PDF"</string>
+	<string name="toast_invalid_char">"Tên tệp không thể chứa \"%s\""</string>
+	<string name="save_error_try_a_different_template_msg">"Không thể lưu. Ảnh quá lớn."</string>
+	<string name="toast_orientation_locked">Đã khóa xoay</string>
+	<string name="filter_popular_coldsmoke">Sương lạnh</string>
+	<string name="photodetail_rename_invalid">"Tên tệp không thể chứa các ký tự này: /\\:*?&lt;&gt;|."</string>
+	<string name="pic_to_pdf_exit_notice">"Tệp PDF này không được lưu nếu bạn thoát. Vẫn thoát?"</string>
+	<string name="operation_pic_to_pdf">Tạo PDF</string>
+	<string name="pic_to_pdf_all_not_support">"Ảnh đã chọn không thể lưu thành PDF"</string>
+	<string name="toast_invalid_prefix">"Tên tệp không thể bắt đầu bằng \".\" hoặc \"_\""</string>
+	<string name="pic_to_pdf_a4_format">Giấy A4</string>
+	<string name="notice_click_lock_orientation">Chạm để khóa xoay</string>
+	<string name="new_album_invalid_byte">Tên này quá dài</string>
+	<string name="download_type_thumbnail_subtitle">Ảnh chất lượng cao trông gần giống với ảnh gốc nhưng chiếm nhiều dung lượng hơn</string>
 </resources>
