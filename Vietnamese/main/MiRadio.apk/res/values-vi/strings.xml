@@ -1640,4 +1640,34 @@ Vui lòng gửi mã này cho kỹ thuật viên."</string>
 	<string name="subscribe_sub_title">Bạn có thể xem trong\"&lt;font color=#29B496&gt;Ưa thích&lt;/font&gt;\"</string>
 	<string name="cancel_auto_pay">Hủy gia hạn</string>
 	<string name="vip_login_limit">Quá nhiều thiết bị</string>
+	<string name="xiaomi_market_sdk_update_dialog_ok">Cập nhật ngay</string>
+	<string name="play_mode_shuffle_title">Trộn bài</string>
+	<string name="xiaomi_market_sdk_update_dialog_title">%s Phiên bản mới</string>
+	<string name="play_mode_single_title">Lặp lại</string>
+	<string name="xiaomi_market_sdk_update_dialog_cancel">Để sau</string>
+	<string name="free_vip_sign">Bạn có thể nghe các album được đánh dấu miễn phí</string>
+	<string name="vip_pay">Gia hạn có thể bị hủy bỏ</string>
+	<string name="play_mode_shuffle_hint">Chế độ phát đã được chuyển sang phát ngẫu nhiên</string>
+	<string name="vip_mark">Logo nổi bật</string>
+	<string name="talkback_mode_repeat_none">Chế độ tuần tự</string>
+	<string name="free_vip_knowledge">Khóa học miễn phí VIP</string>
+	<string name="cancel_msg">Bạn vẫn còn những ngày dùng thử miễn phí và bạn sẽ không thể tiếp tục nghe nội dung thành viên miễn phí sau khi hủy</string>
+	<string name="daily_recommend">Gợi ý hôm nay</string>
+	<string name="cancel_dialog_title">Các đặc quyền và dịch vụ miễn phí sẽ không còn hiệu lực sau khi hủy</string>
+	<string name="free_story">Tiểu thuyết miễn phí</string>
+	<string name="free_vip_child">Câu chuyện miễn phí VIP</string>
+	<string name="use_again">Sử dụng lại</string>
+	<string name="cancel_msg_right">"Khấu trừ trước hạn
+Có thể hủy bất cứ lúc nào"</string>
+	<string name="free_vip_story">Tiểu thuyết miễn phí VIP</string>
+	<string name="cancel_msg_mid">"Gia hạn tự động không lo lắng
+Âm thanh tốt không bị gián đoạn"</string>
+	<string name="cancel_msg_left">"Nghe sách thành viên
+Không thanh toán riêng"</string>
+	<string name="cancel_free_equity">Hủy các đặc quyền miễn phí</string>
+	<string name="cancel_dialog_cancel_title">Bản dùng thử miễn phí sẽ hết hạn ngay sau khi hủy</string>
+	<string name="vip_download">Đặc quyền tải xuống</string>
+	<string name="play_mode_loop_hint">Chế độ phát lại đã được chuyển sang phát lại vòng lặp</string>
+	<string name="vip_service">Dịch vụ khách hàng tận tâm</string>
+	<string name="play_mode_change_hint">Danh sách phát hiện không hỗ trợ phát ngẫu nhiên, nó đã được tự động chuyển sang phát tuần tự cho bạn</string>
 </resources>

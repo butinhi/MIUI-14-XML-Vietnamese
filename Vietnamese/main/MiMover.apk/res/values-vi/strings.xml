@@ -874,7 +874,7 @@ Các bước: Mở APP WeChat&gt;My&gt;Cài đặt&gt;Chung&gt;Sao lưu và di c
 	<string name="guest_connect_dialog_ensure_text">Kết nối</string>
 	<string name="receiver_finish_detail_fail">"Không thể truyền"</string>
 	<string name="receiver_finish_detail_button">Xem báo cáo</string>
-	<string name="main_receiver_title">TIN TỨC</string>
+	<string name="main_receiver_title">Mới</string>
 	<string name="sender_finish_title">Chuyển thành công</string>
 	<string name="select_android_title">Android</string>
 	<string name="not_support_data_content1">1. Các mục riêng biệt cho từng thiết bị</string>

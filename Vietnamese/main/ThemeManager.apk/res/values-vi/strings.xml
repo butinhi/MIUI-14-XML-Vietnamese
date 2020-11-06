@@ -1521,4 +1521,29 @@ d MMMM"</string>
 	<string name="personalize_charge_style_title">Đang sạc</string>
 	<string name="de_mix_mode_superwallpaper_without_aod_desc">Màn hình khóa và màn hình chính</string>
 	<string name="personalize_third_font">Phông chữ</string>
+	<string name="resource_status_error">"Có lỗi xảy ra. Hiện không thể xem hình nền này."</string>
+	<string name="wallpaper_setting_library">Thư viện</string>
+	<string name="share_picture_loading">Đang tải ảnh…</string>
+	<string name="share_theme_content_text">"Bạn có thể tải một chủ đề tuyệt đẹp \"%1$s\" tại: %2$s. Từ "</string>
+	<string name="share_copy_theme_url">Sao chép đường dẫn chủ đề</string>
+	<string name="wallpaper_set_as_loop_extra_msg">Mọi người đang sử dụng</string>
+	<string name="wallpaper_group_set_loop">Khóa trình chiếu Màn hình khóa với ảnh tương tự</string>
+	<string name="warning_subscribe_wallpaper_group_content">"Bạn đã bật Trình chiếu Màn hình chính. %1$s sẽ được áp dụng vào Màn hình chính của bạn."</string>
+	<string name="loading_picture">Đang tải ảnh…</string>
+	<string name="share_vipaccount">Cộng đồng Mi</string>
+	<string name="share_wallpaper_content_text">"Bạn có thể tải hình nền tuyệt đẹp \"%1$s\" tại: %2$s. Từ "</string>
+	<string name="set_wallpaper_group_success">"%1$s đã được áp dụng.
+Bạn sẽ thấy ảnh mới mỗi giờ."</string>
+	<string name="pref_lockscreen_magazine_summary">Thay hình nền bằng trình chiếu hình ảnh từ nhiều danh mục khác nhau</string>
+	<string name="home_daily">Nổi bật hàng ngày</string>
+	<string name="share_copy_wallpaper_url">Sao chép đường dẫn hình nền</string>
+	<string name="share_share_suffix">\@Chủ đề Xiaomi</string>
+	<string name="personalize_default_font">Phông chữ mặc định</string>
+	<string name="personalize_title">Hình nền và cá nhân hóa</string>
+	<string name="de_mix_mode_superwallpaper">Siêu hình nền</string>
+	<string name="de_super_wp_dialog_tip_title">Siêu hình nền</string>
+	<string name="de_super_wp_land_position_default_des">Điểm hạ cánh</string>
+	<string name="de_super_wp_dialog_tip_content">Siêu hình nền được áp dụng đồng thời cho Màn hình khóa, Màn hình chính và các thành phần liên quan khác.</string>
+	<string name="de_mix_mode_superwallpaper_with_aod_desc">Màn hình luôn bật, Màn hình khóa và Màn hình chính</string>
+	<string name="personalize_wallpaper_sub_title">Siêu hình nền và hình ảnh nổi bật</string>
 </resources>
