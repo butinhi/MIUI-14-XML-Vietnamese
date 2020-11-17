@@ -773,4 +773,10 @@ Cho phép Ghi chú ghi âm."</string>
 	<string name="image_action_zoom_in">Phóng to</string>
 	<string name="doodle_tool_picture">Thêm ảnh</string>
 	<string name="brush_Pastel">Phấn màu</string>
+	<string name="dlg_update_title">Tìm thấy cập nhật mới</string>
+	<string name="dlg_update_checkbox_title">Bỏ qua bản này</string>
+	<string name="dlg_update_cancel">Lần tới</string>
+	<string name="dlg_update_update_now">Cập nhật</string>
+	<string name="toolbar_done_description">Xong</string>
+	<string name="doodle_saving">Đang lưu</string>
 </resources>

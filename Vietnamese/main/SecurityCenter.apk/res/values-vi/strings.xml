@@ -4198,4 +4198,8 @@ Sau khi được đặt, nếu bạn đóng ứng dụng, các quyền sẽ tr�
 	<string name="privacy_thumbnail_blur_search_empty">Không tìm thấy kết quả</string>
 	<string name="privacy_thumbnail_blur_title">Làm mờ xem trước ứng dụng</string>
 	<string name="privacy_thumbnail_blur_category_other">Khác</string>
+	<string name="network_disable_dialog_btn_text">Tôi biết</string>
+	<string name="privacy_dialog_title">Điều khoản và Điều kiện</string>
+	<string name="network_disable_dialog_content">Mạng không mạnh, vui lòng kiểm tra trạng thái mạng ~</string>
+	<string name="network_disable_dialog_title">Không thể kết nối mạng</string>
 </resources>

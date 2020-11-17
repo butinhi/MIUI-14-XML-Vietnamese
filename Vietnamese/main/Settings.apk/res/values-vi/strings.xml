@@ -11006,4 +11006,5 @@ Chức năng này chỉ nhận được địa chỉ MAC Wi-Fi của bạn để
 	<string name="gxzw_lowlight_open_summary">Giảm độ sáng của biểu tượng vân tay trong môi trường thiếu sáng. Thiết bị của bạn có thể mở khóa chậm hơn khi bật tính năng này.</string>
 	<string name="gxzw_lowlight_open_title">Mở khóa vân tay thiếu sáng</string>
 	<string name="smart_space_clock">Ngay lập tức</string>
+	<string name="accessibility_voice_access_title">Điều khiển giọng nói</string>
 </resources>

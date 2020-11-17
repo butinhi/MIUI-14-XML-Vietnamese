@@ -1452,4 +1452,15 @@ Chờ đến khi đồng bộ hoàn toàn hoặc xem tin nhắn trên máy tính
 	<string name="mailbox_setting_preference_sync_summary_close">Đồng bộ: Tắt</string>
 	<string name="install_mime_sign_cert">Cài đặt Chứng chỉ Chữ ký S/MIME</string>
 	<string name="account_setting_general_title">Cài đặt tính năng</string>
+	<string name="not_set">Chưa đặt</string>
+	<string name="v7_preference_off">TẮT</string>
+	<string name="preference_copied">\"%1$s\" đã sao chép vào clipboard.</string>
+	<string name="net_error">Không thể kết nối mạng, hãy thử lại sau</string>
+	<string name="bottom_bar_more_pdf_exporting">Đang xuất…</string>
+	<string name="v7_preference_on">BẬT</string>
+	<string name="invoice_card_amount">Tổng</string>
+	<string name="invoice_card_date">Ngày</string>
+	<string name="message_all_body">Toàn văn</string>
+	<string name="expand_button_title">Nâng cao</string>
+	<string name="copy">Sao chép</string>
 </resources>

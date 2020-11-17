@@ -1546,4 +1546,6 @@ Bạn sẽ thấy ảnh mới mỗi giờ."</string>
 	<string name="de_super_wp_dialog_tip_content">Siêu hình nền được áp dụng đồng thời cho Màn hình khóa, Màn hình chính và các thành phần liên quan khác.</string>
 	<string name="de_mix_mode_superwallpaper_with_aod_desc">Màn hình luôn bật, Màn hình khóa và Màn hình chính</string>
 	<string name="personalize_wallpaper_sub_title">Siêu hình nền và hình ảnh nổi bật</string>
+	<string name="boot_audio_dialog_cancel">Hủy</string>
+	<string name="boot_audio_dialog_title">Chú ý</string>
 </resources>

@@ -302,4 +302,6 @@ Không thể sao lưu"</string>
 	<string name="backup_remind_buy_cloud_space">Nâng cấp gói lưu trữ đám mây của bạn</string>
 	<string name="backup_warning_reason_no_server_response">"Kết nối bị gián đoạn
 Thử lại"</string>
+	<string name="cloud_backup_detail_frequence_every_7_day">Sao lưu mỗi %d ngày</string>
+	<string name="cloud_backup_detail_frequence_every_day">Sao lưu mỗi ngày</string>
 </resources>

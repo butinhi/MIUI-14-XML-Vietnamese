@@ -2006,4 +2006,25 @@ Chọn một trong các tùy chọn sau:"</string>
 	<string name="dialog_delete_contact_content">Xiaomi Cloud muốn xóa một vài liên hệ của bạn. Xóa ngay?</string>
 	<string name="notification_micloudsync_delete_contact">Xiaomi Cloud muốn xóa một vài liên hệ của bạn</string>
 	<string name="dialog_delete_contact_title">Đang xóa liên hệ</string>
+	<string name="call_record_auto_scenario_title">Ghi âm cuộc gọi</string>
+	<string name="privacy_password_title2">Sử dụng mật khẩu bảo vệ Cá nhân</string>
+	<string name="call_record_text_auto_delete_never">Không bao giờ</string>
+	<string name="search_new_funcation">Về tính năng này</string>
+	<string name="privacy_password_title1">Thiết lập mật khẩu</string>
+	<string name="privacy_password_title4">Đã nâng cấp mật khẩu</string>
+	<string name="privacy_password_title3">Nâng cấp mật khẩu</string>
+	<string name="privacy_password_message1">Mật khẩu bảo vệ cá nhân cũng bảo vệ ảnh, ghi chú và thư mục ẩn.</string>
+	<string name="privacy_password_set_password">Đặt</string>
+	<string name="call_record_password_opened">BẬT</string>
+	<string name="call_recording_notification_title_error">Không thể ghi âm cuộc gọi</string>
+	<string name="undefined">Chưa đặt</string>
+	<string name="call_record_password">Mật khẩu bảo vệ cá nhân</string>
+	<string name="bh_charged_phone_number">Số điện thoại: %1$s</string>
+	<string name="call_record_add_numbers">Thêm số điện thoại</string>
+	<string name="search_open_new_funcation">Bật</string>
+	<string name="call_record_auto_always">Tất cả cuộc gọi</string>
+	<string name="call_record_auto_summary">Ghi âm cuộc gọi tự động</string>
+	<string name="call_record_auto_unknown_number">Số không xác định</string>
+	<string name="call_record_password_closed">TẮT</string>
+	<string name="auto_record_yellowpage">Danh bạ web</string>
 </resources>

@@ -1543,4 +1543,9 @@ Bạn cũng có thể thêm nhắc nhở để không bỏ lỡ những điều 
 	<string name="account_manager_delete">Xóa tài khoản</string>
 	<string name="setting_title_ai_time_parser">Trích xuất thời gian lịch trình thông minh</string>
 	<string name="setting_title_ai_time_parser_summary">Trích xuất và đặt thời gian một cách thông minh trong tiêu đề của lịch trình khi tạo</string>
+	<string name="save_to_gallery_failure_message">Không thể lưu vào album</string>
+	<string name="share_as_url">Chia sẻ dưới dạng liên kết</string>
+	<string name="share_as_picture">Chia sẻ dưới dạng hình ảnh</string>
+	<string name="save_to_gallery_icon_name">Lưu album</string>
+	<string name="save_to_gallery_success_message">Đã lưu thành công vào album</string>
 </resources>

@@ -192,4 +192,16 @@
 		<item>Quan trọng: Nhiều ứng dụng hệ thống có thể không hoạt động đúng cách.</item>
 		<item>Bố cục văn bản, tài khoản và nội dung có thể không được hiển thị chính xác.</item>
 	</string-array>
+	<string-array name="cellular_package_type">
+		<item>Gói tháng</item>
+		<item>Không giới hạn</item>
+		<item>Gói ngày</item>
+	</string-array>
+	<string-array name="daily_rent_card_brands">
+		<item>Tùy chỉnh</item>
+		<item>Điện thoại Mi Mobile</item>
+		<item>Thẻ Mi Fan</item>
+		<item>Thẻ Tianshen</item>
+		<item>Thẻ Tencent</item>
+	</string-array>
 </resources>

@@ -411,4 +411,23 @@ Báo cáo vấn đề này &gt;"</string>
 	<string name="channel_name_notification">Thông báo ứng dụng</string>
 	<string name="channel_name_recovered">Thông báo đã khôi phục</string>
 	<string name="channel_name_aggregation">Thông báo đã nhóm</string>
+	<string name="title_aggregate_default">Nhóm thông báo</string>
+	<string name="rule_keyguard_display">Định dạng</string>
+	<string name="fold_importance_default">Đề xuất</string>
+	<string name="fold_importance_important">Quan trọng</string>
+	<string name="fold_importance_unimportant">Không quan trọng</string>
+	<string name="fold_title">Quy tắc nhóm thông báo</string>
+	<string name="channel_keyguard_hide_content">Hiển thị tất cả thông báo nhưng ẩn nội dung</string>
+	<string name="aggregate_title">Luật cho thông báo đã nhóm</string>
+	<string name="channel_keyguard_show_content">Hiển thị tất cả thông báo và nội dung</string>
+	<string name="title_aggregate_home">"Không nhóm thông báo"</string>
+	<string name="summary_fold_importance_default">MIUI sẽ quyết định thông báo nào hiển thị trực tiếp</string>
+	<string name="notification_keyguard_show_nothing">"Không hiển thị Thông báo Màn hình khóa"</string>
+	<string name="channel_keyguard_show_nothing">"Không hiển thị thông báo nào"</string>
+	<string name="summary_aggregate_default">Thông báo quảng cáo và các nội dung liên quan sẽ được gom nhóm</string>
+	<string name="summary_fold_importance_unimportant">Thông báo sẽ hiển thị trong các thư mục riêng</string>
+	<string name="notification_keyguard_hide_content">Hiển thị thông báo nhưng ẩn nội dung</string>
+	<string name="summary_fold_importance_important">Thông báo sẽ xuất hiện trong Bảng thông báo</string>
+	<string name="notification_keyguard_show_content">Hiển thị thông báo và nội dung</string>
+	<string name="summary_aggregate_home">"Thông báo đẩy sẽ không được gom nhóm"</string>
 </resources>

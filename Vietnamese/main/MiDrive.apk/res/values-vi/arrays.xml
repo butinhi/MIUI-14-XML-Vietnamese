@@ -8,4 +8,9 @@
 		<item>Để đăng nhập bằng Tài khoản Mi</item>
 		<item>Để xem trước, tải lên, tải xuống và đồng bộ tệp tin</item>
 	</string-array>
+	<string-array name="privacy_dialog_runtime_permission_desc_with_phone_state">
+		<item>Để đăng nhập bằng Tài khoản Mi</item>
+		<item>Để xem trước, tải lên, tải xuống và đồng bộ tệp tin</item>
+		<item>Để nhận biết bản cập nhật khả dụng</item>
+	</string-array>
 </resources>

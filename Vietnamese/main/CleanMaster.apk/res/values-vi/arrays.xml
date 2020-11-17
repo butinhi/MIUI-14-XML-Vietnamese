@@ -84,4 +84,9 @@
         <item>Ngày</item>
         <item>Kích thước</item>
     </string-array>
+	<string-array name="uninstalled_app_sort_type">
+		<item>Kích thước</item>
+		<item>Tần suất sử dụng</item>
+		<item>Thời gian cài đặt</item>
+	</string-array>
 </resources>

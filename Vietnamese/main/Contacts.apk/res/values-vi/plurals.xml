@@ -176,4 +176,10 @@
 		<item quantity="other">trong %d phút</item>
 		<item quantity="one">trong 1 phút</item>
 	</plurals>
+	<plurals name="call_record_auto_whitelist_summary">
+		<item quantity="other">%d số</item>
+	</plurals>
+	<plurals name="call_remove_exception_numbers_confirm">
+		<item quantity="other">%d số sẽ bị xóa.</item>
+	</plurals>
 </resources>

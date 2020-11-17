@@ -511,4 +511,12 @@ Chạm vào màn hình để thêm thủ công hoặc định vị lại thành 
 	<string name="indices_title_chance_of_rain">Có thể có mưa</string>
 	<string name="international_details_chance_of_rain">Có thể có mưa</string>
 	<string name="international_details_humidity">Độ ẩm</string>
+	<string name="save_to_gallery_failure_message">Không thể lưu vào Thư viện</string>
+	<string name="no_internet_message">Mạng không mạnh, vui lòng kiểm tra trạng thái mạng ~</string>
+	<string name="save_to_gallery_icon_name">Lưu vào Thư viện</string>
+	<string name="save_to_gallery_success_message">Lưu thành công vào Thư viện</string>
+	<string name="revoke_fail">Không thể kết nối mạng</string>
+	<string name="revoke_privacy_policy_title">Điều khoản và Điều kiện</string>
+	<string name="dynamic_weather">Thời tiết</string>
+	<string name="dialog_internet_error_title">Đã xảy ra lỗi</string>
 </resources>

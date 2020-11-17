@@ -665,4 +665,7 @@
 	<string name="work_profile_second_content">Ứng dụng công việc &amp; dữ liệu hiển thị với quản trị IT của bạn</string>
 	<string name="dialog_work_profile_content_2">Ứng dụng công việc &amp; dữ liệu hiển thị với quản trị IT của bạn</string>
 	<string name="dialog_work_profile_content_1">Dữ liệu cá nhân riêng biệt &amp; ẩn khỏi ứng dụng công việc</string>
+	<string name="recents_layout_style">Sắp xếp các mục trong Gần đây</string>
+	<string name="recents_layout_style_horizontal">Ngang</string>
+	<string name="recents_layout_style_vertical">Dọc</string>
 </resources>

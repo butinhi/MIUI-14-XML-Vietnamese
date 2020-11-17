@@ -681,4 +681,11 @@
 		<item>Thứ sáu</item>
 		<item>Thứ bảy</item>
 	</string-array>
+	<string-array name="account_sync_frequency">
+		<item>Thủ công</item>
+		<item>Mỗi 15 phút</item>
+		<item>Mỗi giờ</item>
+		<item>Mỗi 4 giờ</item>
+		<item>Mỗi 12 giờ</item>
+	</string-array>
 </resources>

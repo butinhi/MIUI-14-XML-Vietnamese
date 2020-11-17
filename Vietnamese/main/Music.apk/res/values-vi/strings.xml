@@ -1917,4 +1917,27 @@ Bạn có thể tìm thấy tất cả các bài hát của bạn ở một nơi
 	<string name="title_command_mode">Chế độ dòng lệnh</string>
 	<string name="info_language">Ngôn ngữ:</string>
 	<string name="skip">Bỏ qua</string>
+	<string name="toast_playmode_loop_playback">Danh sách phát hiện tại đã được lặp</string>
+	<string name="toast_playmode_single_cycle">Bài hát hiện tại đã được lặp</string>
+	<string name="request_privacy_permission_title">Đọc và đồng ý với điều khoản và điều kiện bên dưới trước khi truy cập vào tất cả các dịch vụ vủa chúng tôi.</string>
+	<string name="info_system">Hệ thống:</string>
+	<string name="info_app_package_name">Tên gói:</string>
+	<string name="toast_playmode_shuffle_play">Danh sách phát đã được trộn</string>
+	<string name="info_product">Thiết bị:</string>
+	<string name="privacy_request_desc">"Mi Music cần thu thập thông tin cá nhân cần thiết để cung cấp cho bạn các dịch vụ phát trực tuyến. Bạn có thể tìm hiểu cách chúng tôi xử lý thông tin chúng tôi thu thập trong &lt;a href=\"%1$s\"&gt;Chính sách Riêng tư&lt;/a&gt;. Bạn có thể rút lại sự đồng ý của mình đối với Chính sách quyền riêng tư của Mi Music trong phần Cài đặt bất kỳ lúc nào.
+Đọc và đồng ý với &lt;a href=\"%2$s\"&gt;Thỏa thuận Người dùng&lt;/a&gt; và &lt;a href=\"%1$s\"&gt;Chính sách Riêng tư&lt;/a&gt; của chúng tôi trước khi sử dụng Mi Music.
+Nếu bạn không đồng ý sử dụng các dịch vụ nói trên, bạn sẽ không thể sử dụng một số tính năng của ứng dụng này; tuy nhiên, chức năng cơ bản của nó vẫn sẽ khả dụng cho bạn."</string>
+	<string name="privacy_request_subtitle">"Chào mừng đến với Mi Music! Ứng dụng này cung cấp các dịch vụ sau:
+
+- Trình phát âm thanh cục bộ
+
+- Dịch vụ phát trực tuyến"</string>
+	<string name="info_system_version">Phiên bản hệ thống:</string>
+	<string name="discover_more_music">Khám phá thêm bài hát</string>
+	<string name="remove_user_privacy_dialog_message_canuse">Bằng cách tắt, bạn rút lại sự đồng ý của mình đối với Chính sách quyền riêng tư của Mi Music. Chúng tôi sẽ ngừng thu thập thông tin cá nhân của bạn. Thông tin cá nhân đã được thu thập và lưu giữ sẽ bị xóa trong khoảng thời gian cụ thể theo yêu cầu của luật hiện hành. Mi Music cần thu thập thông tin cá nhân cần thiết để cung cấp cho bạn các dịch vụ phát trực tuyến. Việc bạn rút lại sự đồng ý đối với Chính sách bảo mật của nó sẽ được coi là từ chối chấp nhận các dịch vụ trực tuyến nói trên dựa trên thông tin cá nhân được thu thập.</string>
+	<string name="info_location">Khu vực:</string>
+	<string name="toast_cant_commit_without_title">Nhập tiêu đề bài hát</string>
+	<string name="develop_mode">Chế độ phát triển</string>
+	<string name="info_app_version">Phiên bản ứng dụng:</string>
+	<string name="feedback_send_email_body_extra_info">Đừng xóa thông tin sau đây. Nó sẽ giúp chúng tôi xác định vấn đề.</string>
 </resources>

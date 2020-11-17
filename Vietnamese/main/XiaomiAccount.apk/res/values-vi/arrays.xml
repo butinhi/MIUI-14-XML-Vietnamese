@@ -123,4 +123,14 @@
 		<item>Đặt xác thực 2 bước cho Tài khoản Mi của bạn</item>
 		<item>Đăng nhập;Đăng nhập;2 bước;xác minh;Xiaomi;Tài khoản;Tài khoản Mi;Cài đặt</item>
 	</string-array>
+	<string-array name="settings_search_account_and_authority_global">
+		<item>Tài khoản</item>
+		<item>Thêm và quản lý tài khoản của bên thứ ba</item>
+		<item>Ủy quyền;Tài khoản;Tài khoản Mi;Thêm;Ghép nối;Xiaomi;Xem;SNS;Facebook;Google</item>
+	</string-array>
+	<string-array name="settings_search_account_and_authority_non_global">
+		<item>Tài khoản</item>
+		<item>Thêm và quản lý tài khoản của bên thứ ba</item>
+		<item>Ủy quyền;Tài khoản;Tài khoản Mi;Thêm;Ghép nối;Xiaomi;Xem;SNS;Facebook;Google</item>
+	</string-array>
 </resources>
