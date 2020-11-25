@@ -269,4 +269,7 @@
 	<string name="switch_audio_device_default_summary">Thiết bị vừa sử dụng</string>
 	<string name="switch_audio_device_bt_a2dp_summary">Phát âm thanh phương tiện trên thiết bị đã kết nối</string>
 	<string name="switch_audio_device_switch_hint">Bạn có thể tắt thông báo về các thiết bị đã kết nối trong Cài đặt &gt; Bluetooth &gt; Cài đặt bổ sung.</string>
+	<string name="notice_audio_share_disconnected">Không còn chia sẻ âm thanh vì bị ngắt kết nối</string>
+	<string name="bt_audio_share_notification_title">Chia sẻ âm thanh</string>
+	<string name="bt_audio_share_notification_content">Chạm để xem tùy chọn</string>
 </resources>

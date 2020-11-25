@@ -420,4 +420,11 @@ Bạn cần phải cài đặt phiên bản MIUI của nhà phát triển để 
 	<string name="grant_dialog_storage_gallery_title">Album</string>
 	<string name="grant_dialog_storage_sociality_title">Thông tin ứng dụng xã hội</string>
 	<string name="HIPS_SecurityPrompt_Reject_Never">Từ chối và không hỏi lại (%d)</string>
+	<string name="HIPS_Perm_Access_Gallery">Truy cập Thư viện</string>
+	<string name="storage_policy_notify_both_title">"%1$s không được phép truy cập Thư viện và tin nhắn trong các ứng dụng phương tiện xã hội"</string>
+	<string name="HIPS_Perm_Access_Gallery_Desc">Cho phép ứng dụng này truy cập các mục trong Thư viện</string>
+	<string name="real_location_on">Định vị mờ: Tắt</string>
+	<string name="real_location_off">Định vị mờ: Bật</string>
+	<string name="blur_location_now_tip">Dịch vụ vị trí mờ được bật</string>
+	<string name="go_setting">Nhấn vào Cài đặt</string>
 </resources>

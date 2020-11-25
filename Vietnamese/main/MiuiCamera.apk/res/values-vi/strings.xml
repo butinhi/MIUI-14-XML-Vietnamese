@@ -1916,4 +1916,5 @@ In dễ dàng trên khổ A4"</string>
 	<string name="color_effect_entry_orange_describe">Giới thiệu về bộ lọc</string>
 	<string name="confirm_fastmotion_reset_manually_parameter_message">Bạn có muốn đặt lại các thông số Chuyên nghiệp?</string>
 	<string name="pref_e_p_k">Xanh lục</string>
+	<string name="time_stamp_date_format">dd/MM/yyyy</string>
 </resources>

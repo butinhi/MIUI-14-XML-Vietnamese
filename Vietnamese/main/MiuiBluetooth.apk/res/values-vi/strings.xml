@@ -723,4 +723,17 @@ Bất kỳ người dùng nào cũng có thể thay mặt cho tất cả ngườ
 	<string name="mi_audio_relay_connect_failed">Thất bại</string>
 	<string name="media_transfer_wired_usb_device_name">Tai nghe có dây</string>
 	<string name="mi_audio_relay_title">Chọn thiết bị</string>
+	<string name="headset_read_fw_state">Thất bại</string>
+	<string name="headset_fw_error_failed">Thất bại</string>
+	<string name="headset_download_fw">Tải xuống</string>
+	<string name="headset_device_check_failed">Thất bại</string>
+	<string name="headset_device_error_failed">Thất bại</string>
+	<string name="headset_fw_file_position_failed">Thất bại</string>
+	<string name="headset_downloading">Đang tải xuống</string>
+	<string name="headset_download_failed">Thất bại</string>
+	<string name="headset_device_enter_upgrade_failed">Thất bại</string>
+	<string name="headset_find_new_version">Phiên bản mới</string>
+	<string name="headset_update_failed">Thất bại</string>
+	<string name="headset_updating">Cập nhật</string>
+	<string name="headset_finish_fw_failed">Thất bại</string>
 </resources>

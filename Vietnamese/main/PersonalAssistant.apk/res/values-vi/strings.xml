@@ -2512,4 +2512,5 @@ You can also track express delivery on the official websites of delivery compani
 	<string name="app_travel_train_seat_no_split">、</string>
 	<string name="app_express_provider_kuaidi100">Kuaidi100</string>
 	<string name="app_stock_name_nsdk">Nasdaq</string>
+	<string name="app_travel_card_none">Không</string>
 </resources>

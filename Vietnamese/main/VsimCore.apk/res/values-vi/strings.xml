@@ -29,4 +29,7 @@
     <string name="noti_key2_remain">Còn lại: %1$s</string>
     <string name="noti_key2_used">Đã dùng: %1$s</string>
     <string name="noti_key3">Chi tiết ></string>
+	<string name="mb">MB</string>
+	<string name="kb">KB</string>
+	<string name="gb">GB</string>
 </resources>

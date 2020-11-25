@@ -1670,4 +1670,5 @@ Không thanh toán riêng"</string>
 	<string name="play_mode_loop_hint">Chế độ phát lại đã được chuyển sang phát lại vòng lặp</string>
 	<string name="vip_service">Dịch vụ khách hàng tận tâm</string>
 	<string name="play_mode_change_hint">Danh sách phát hiện không hỗ trợ phát ngẫu nhiên, nó đã được tự động chuyển sang phát tuần tự cho bạn</string>
+	<string name="vip_tip_zero_open">Dùng thử với giá 0 NDT. Nghe nhiều nội dung</string>
 </resources>

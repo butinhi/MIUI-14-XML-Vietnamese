@@ -212,4 +212,7 @@
 	<string name="wireless_transmission">Truyền không dây</string>
 	<string name="wireless_transmission_prompt">Khi sử dụng truyền âm thanh không dây, cần bật chức năng Bluetooth. Bật nó ngay bây giờ?</string>
 	<string name="choose_bluetooth_device">Chọn thiết bị</string>
+	<string name="sound_transmission_continue">Tiếp tục</string>
+	<string name="sound_transmission_confirm">Cho phép</string>
+	<string name="sound_transmission_stop">Tạm dừng</string>
 </resources>

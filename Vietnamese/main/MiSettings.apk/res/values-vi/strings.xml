@@ -688,4 +688,5 @@
 	<string name="fps_nature_summary">Tốc độ làm mới cao giúp mọi thứ luôn sắc nét và rõ ràng</string>
 	<string name="fps_user_tip">Những hình ảnh động demo này được phát ở tốc độ thấp để bạn tham khảo. Hiệu suất thực tế có thể trông khác nhau dựa trên các yếu tố khác nhau.</string>
 	<string name="fps_standard_summary">Tốc độ làm mới tiêu chuẩn giúp tiết kiệm pin</string>
+	<string name="primary_color_region_chinese_only">Ánh mắt tự nhiên</string>
 </resources>

@@ -360,4 +360,5 @@
 	<string name="back_double_tap">Không</string>
 	<string name="notification_channel_hotspot">Thông báo điểm phát</string>
 	<string name="bottom_bar_smallwindow_text">Thả ra</string>
+	<string name="send_files_by">Chia sẻ tệp tin qua</string>
 </resources>

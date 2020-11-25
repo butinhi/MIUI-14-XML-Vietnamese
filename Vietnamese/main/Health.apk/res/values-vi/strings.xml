@@ -1719,4 +1719,18 @@ Các thử nghiệm của chúng tôi cho thấy rằng phương pháp này đo 
 	<string name="hr_fp_detect_start_desc">"Nhấn nhẹ vào biểu tượng dấu vân tay.
 Đừng di chuyển ngón tay của bạn."</string>
 	<string name="location_permission_dialog_content">Cho phép Sức khỏe truy cập vị trí của bạn trong \"Sức khỏe\" &gt; \"Quản lý quyền\" để có thể theo dõi hoạt động ngoài trời của bạn.</string>
+	<string name="miuix_appcompat_action_mode_deselect_all">Bỏ chọn</string>
+	<string name="miuix_appcompat_deselect_all_description">Bỏ chọn tất cả</string>
+	<string name="loading">Đang làm mới</string>
+	<string name="miuix_appcompat_confirm_description">Xác nhận</string>
+	<string name="miuix_appcompat_action_mode_select_all">Chọn tất cả</string>
+	<string name="network_not_available2">Không thể kết nối mạng</string>
+	<string name="privacy_setting">Riêng tư</string>
+	<string name="miuix_appcompat_select_all_description">Chọn tất cả</string>
+	<string name="miuix_appcompat_action_mode_title_empty">Chọn mục</string>
+	<string name="miuix_appcompat_actionbar_immersion_button_more_description">Thêm</string>
+	<string name="miuix_appcompat_delete_description">Xóa</string>
+	<string name="miuix_appcompat_search_action_mode_cancel">Hủy</string>
+	<string name="sleep_night_title">Ngủ đêm</string>
+	<string name="miuix_appcompat_cancel_description">Hủy</string>
 </resources>

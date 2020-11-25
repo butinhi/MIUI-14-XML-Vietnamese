@@ -127,4 +127,20 @@
 	<plurals name="auto_disconnect_timer_tip">
 		<item quantity="other">Đang cúp máy trong %1$d giây</item>
 	</plurals>
+	<plurals name="abc_slice_duration_years">
+		<item quantity="other">%d năm trước</item>
+	</plurals>
+	<plurals name="abc_slice_duration_min">
+		<item quantity="other">%d phút trước</item>
+	</plurals>
+	<plurals name="abc_slice_duration_days">
+		<item quantity="other">%d ngày trước</item>
+	</plurals>
+	<plurals name="controls_number_of_favorites">
+		<item quantity="other">Đã thêm %s điều khiển.</item>
+	</plurals>
+	<plurals name="kg_too_many_failed_attempts_countdown">
+		<item quantity="other">Hãy thử lại sau %d giây.</item>
+		<item quantity="one">Hãy thử lại sau 1 giây.</item>
+	</plurals>
 </resources>
