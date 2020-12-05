@@ -418,4 +418,14 @@
 	<string name="wireless_charging_saver_cancel">Tắt</string>
 	<string name="wireless_charging_tips_message">Đặt thiết bị hỗ trợ sạc không dây Qi (điện thoại, phụ kiện, v.v.) trên mặt sau của thiết bị.</string>
 	<string name="volume_dialog_accessibility_shown_message">%s chỉnh âm lượng đã hiển thị. Vuốt lên để tắt.</string>
+	<string name="quick_settings_pcmode_dialog_description">Chế độ PC hỗ trợ đa cửa sổ và có thể sử dụng với chuột và bàn phím. Chuyển sang chế độ này sẽ đóng tất cả các ứng dụng đang chạy. Một số ứng dụng có thể không hỗ trợ chế độ PC.</string>
+	<string name="timer_2_hours">%d giờ</string>
+	<string name="miui_dnd_count_down">Hẹn giờ DND</string>
+	<string name="timer_8_hours">%d giờ</string>
+	<string name="timer_1_hour">%d giờ</string>
+	<string name="miui_dnd_count_down_time">"Hẹn giờ DND
+%s"</string>
+	<string name="safe_media_volume_warning">"Bạn tăng âm lượng lên quá mức khuyên dùng?
+
+Việc nghe ở mức âm lượng cao trong thời gian dài có thể gây tổn thương thính giác của bạn."</string>
 </resources>

@@ -125,4 +125,9 @@ Nhập số điện thoại đã được liên kết với thẻ SIM mới đ�
     <string name="privacy_revoke_tips">Sau khi bạn hủy ủy quyền, ứng dụng sẽ dừng thu thập dữ liệu và xóa tất cả dữ liệu của bạn từ máy chủ. Đồng bộ với Xiaomi Cloud, Tin nhắn Mi, và tính năng tin nhắn khác sẽ không khả dụng. Vẫn tiếp tục hủy ủy quyền?</string>
     <string name="waiting_sim_in_service">Đang chờ SIM được kích hoạt</string>
 	<string name="activate_sms_postfix">SMS này đã được dùng để kích hoạt dịch vụ Mi của bạn</string>
+	<string name="activate_status_title_registering_xiaomi_account">Đang tạo Tài khoản Mi…</string>
+	<string name="error_network_io_tip">Lỗi mạng. Chờ một vài phút rồi thử lại.</string>
+	<string name="activate_status_desc_query_activation_server_info">Đang nhận thông tin…</string>
+	<string name="explain_activate_feature_server_title">Kích hoạt %s</string>
+	<string name="explain_activate_register_xiaomi_account_title">Tạo Tài khoản Mi</string>
 </resources>

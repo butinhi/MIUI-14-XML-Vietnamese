@@ -1023,4 +1023,22 @@ Thông tin vị trí có thể không được báo cáo khi kết nối mạng 
 	<string name="share_sdk_resend_invitation_times_exceed">Quá nhiều lời mời được gửi. Thử lại sau 24 giờ.</string>
 	<string name="share_sdk_btn_stop_share_confirm_text">Dừng chia sẻ các mục với người này?</string>
 	<string name="share_sdk_btn_undo_invitation_confirm_text">Gửi lại lời mời ngay?</string>
+	<string name="sync_item_autofill_title">Đồng bộ tự động</string>
+	<string name="keybag_password_input_next">Tiếp theo</string>
+	<string name="keybag_password_input_cancel">Hủy</string>
+	<string name="keybag_dialog_cancel">Hủy</string>
+	<string name="keybag_set_password_negative">Đặt</string>
+	<string name="error_retry_exceed_limit">Quá nhiều lần thử không thành công</string>
+	<string name="error_canceled">Đã hủy</string>
+	<string name="error_server_error">Lỗi máy chủ</string>
+	<string name="keybag_set_password_success_get">Tôi biết</string>
+	<string name="error_token_expired">Đăng nhập lại tài khoản Mi</string>
+	<string name="error_screen_pwd_retry_exceed_limit">Quá nhiều lần thử không thành công</string>
+	<string name="keybag_set_password_success_close">Thoát</string>
+	<string name="error_keybag_unknown">Xảy ra lỗi không xác định. Chờ một hoặc hai phút và thử lại.</string>
+	<string name="keybag_set_password_title">Chú ý</string>
+	<string name="notification_sync_fail_title">Không thể đồng bộ</string>
+	<string name="sync_off_confirm_title">Chú ý</string>
+	<string name="loading_server_key_info">Đang tải các mục…</string>
+	<string name="error_timeout">Yêu cầu hết thời gian</string>
 </resources>

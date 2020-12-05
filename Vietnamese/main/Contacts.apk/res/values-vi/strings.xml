@@ -2027,4 +2027,5 @@ Chọn một trong các tùy chọn sau:"</string>
 	<string name="call_record_auto_unknown_number">Số không xác định</string>
 	<string name="call_record_password_closed">TẮT</string>
 	<string name="auto_record_yellowpage">Danh bạ web</string>
+	<string name="call_record_user_notice_permission_desc_storage">Để lưu lại ghi âm</string>
 </resources>

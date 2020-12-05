@@ -4272,4 +4272,19 @@ Sau khi được đặt, nếu bạn đóng ứng dụng, các quyền sẽ tr�
 	<string name="power_optimize_close_wake_notification">Không sáng màn hình khi có thông báo</string>
 	<string name="power_center_battery_level_general">Bình thường</string>
 	<string name="power_optimize_darkmode_dialog_confirm">Bật</string>
+	<string name="privacy_risk_sensitive_permissions">Quyền nhạy cảm</string>
+	<string name="app_behavior_link_start">Đã kích hoạt khởi chạy</string>
+	<string name="HIPS_Perm_Access_Gallery_Desc">Cho phép ứng dụng này truy cập các mục trong Thư viện</string>
+	<string name="special_perm_intercept_data_title">Xóa tất cả dữ liệu</string>
+	<string name="special_perm_intercept_allow">OK(%d)</string>
+	<string name="special_perm_install_title">Cài đặt ứng dụng từ nguồn không xác định</string>
+	<string name="HIPS_Perm_Access_Gallery">Truy cập Thư viện</string>
+	<string name="special_perm_virtual_title">Nhận dạng thiết bị</string>
+	<string name="special_perm_notice_title">Quản lý thông báo</string>
+	<string name="app_behavior_share_picture">Chia sẻ ảnh</string>
+	<string name="special_perm_intercept_barrier_free">Khả năng truy cập</string>
+	<string name="special_perm_intercept_significance_title">Truy cập thông tin thiết bị</string>
+	<string name="power_optimize_set_lockscreen_time_holder">Khóa thiết bị sau %d giây không hoạt động</string>
+	<string name="app_manager_permission_dcimcontrol_title">Truy cập Thư viện</string>
+	<string name="privacy_risk_detection_stop_btn">Dừng</string>
 </resources>

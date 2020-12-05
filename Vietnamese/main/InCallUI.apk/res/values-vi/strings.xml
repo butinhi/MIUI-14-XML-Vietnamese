@@ -279,4 +279,7 @@
 	<string name="video_call_downgrade_insufficient_bandwidth">Băng thông không đủ, hạ cấp xuống cuộc gọi thoại</string>
 	<string name="ai_assistant_not_installed">Cài đặt Trợ lý cuộc gọi AI trước</string>
 	<string name="description_icon_sim_card">SIM %1$d</string>
+	<string name="ai_mode_auto">Tự động</string>
+	<string name="ai_mode_subtitles">Chú thích bằng giọng nói</string>
+	<string name="ai_mode_manual">Thủ công</string>
 </resources>

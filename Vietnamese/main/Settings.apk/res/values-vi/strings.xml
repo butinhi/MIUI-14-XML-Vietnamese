@@ -11031,4 +11031,5 @@ Chức năng này chỉ nhận được địa chỉ MAC Wi-Fi của bạn để
 	<string name="miheadset_RightEar">Bên phải</string>
 	<string name="miheadset_rename">Đổi tên</string>
 	<string name="miheadset_closeAnc">TẮT</string>
+	<string name="font_settings_jump">Khả năng truy cập &gt; Kích thước hiển thị</string>
 </resources>

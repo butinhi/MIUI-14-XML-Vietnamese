@@ -1067,4 +1067,10 @@ Lưu ý rằng ứng dụng này cần kết nối với mạng và yêu cầu c
 	<string name="label_powered_by">Cung cấp bởi Mi Calculator</string>
 	<string name="currency_dialog_privacy_content">Chuyển đổi tiền tệ cần kết nối mạng để lấy tỉ giá tiền tệ mới nhất. Đọc và đồng ý với &lt;a href=\"%1$s\"&gt;Thỏa thuận Người dùng&lt;/a&gt; và &lt;a href=\"%2$s\"&gt;Chính sách Riêng tư&lt;/a&gt; của chúng tôi trước khi sử dụng tính năng này.</string>
 	<string name="privacy_disagree">Sau khi bạn không đồng ý với Điều khoản và Điều kiện Chính sách Riêng tư của chúng tôi, Máy tính sẽ dừng thu thập dữ liệu và tất cả các dữ liệu liên quan sẽ được xóa khỏi máy chủ. Bạn sẽ không thể sử dụng một vài tính năng trong ứng dụng. Vẫn không đồng ý?</string>
+	<string name="dialog_privacy_revoke_btn_ok">Thu hồi</string>
+	<string name="user_experience_program_title">Chương trình Trải nghiệm Người dùng</string>
+	<string name="privacy_dialog_title">Riêng tư</string>
+	<string name="dialog_privacy_revoke_title">Đồng ý Chinh sách Riêng tư</string>
+	<string name="withdraw_network_error">Mạng không mạnh, vui lòng kiểm tra trạng thái mạng ~</string>
+	<string name="date_format">HH:mm:ss dd-MM-yyyy</string>
 </resources>

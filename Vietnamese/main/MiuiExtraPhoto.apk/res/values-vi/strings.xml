@@ -71,4 +71,25 @@
 	<string name="doc_photo_cancel">Hủy</string>
 	<string name="doc_photo_idcard_alert_msg">Hủy tất cả thay đổi và thoát trình chỉnh sửa?</string>
 	<string name="refocus_type_movie_relighting">Phim điện ảnh</string>
+	<string name="refocus_movie_caihong">Ánh mắt cầu vồng</string>
+	<string name="refocus_movie_mengjing">Điểm đến mơ ước</string>
+	<string name="refocus_relighting_dianying">Phim</string>
+	<string name="refocus_movie_yanhong">Đỏ sáng</string>
+	<string name="refocus_dynamic_luoxuan">Quay cuồng</string>
+	<string name="refocus_relighting_baiyechuang">Cửa sổ</string>
+	<string name="refocus_none">Không</string>
+	<string name="refocus_movie_huaijiu">Hoài cổ</string>
+	<string name="refocus_movie_meiying">Bóng ma</string>
+	<string name="refocus_relighting_wutai">Sân khấu</string>
+	<string name="refocus_relighting_ziran">Tự nhiên</string>
+	<string name="refocus_relighting_caihong">Ánh mắt cầu vồng</string>
+	<string name="refocus_relighting_sahongjie">Lễ hội màu sắc</string>
+	<string name="refocus_dynamic_xiantiao">Đường thẳng</string>
+	<string name="refocus_movie_banlan">Rực rỡ</string>
+	<string name="refocus_relighting_bodian">Sóng</string>
+	<string name="refocus_dynamic_xingxing">Ánh mắt sao</string>
+	<string name="refocus_movie_niying">Bóng neon</string>
+	<string name="refocus_movie_lanshan">Suy tàn</string>
+	<string name="refocus_movie_xuanying">Sáng chói</string>
+	<string name="refocus_relighting_shuye">Chiếc lá</string>
 </resources>

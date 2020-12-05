@@ -2475,4 +2475,5 @@ Phiên dịch có thể mất một lúc khi bạn sử dụng tính năng này 
 	<string name="new_album_invalid_byte">Tên này quá dài</string>
 	<string name="download_type_thumbnail_subtitle">Ảnh chất lượng cao trông gần giống với ảnh gốc nhưng chiếm nhiều dung lượng hơn</string>
 	<string name="unsupport_type">Loại tập tin này không được hỗ trợ</string>
+	<string name="send_files_by">Chia sẻ tệp tin qua</string>
 </resources>

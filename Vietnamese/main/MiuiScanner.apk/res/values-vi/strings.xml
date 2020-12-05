@@ -618,4 +618,11 @@ Vui lòng tham khảo góc trên hình để đặt thiết bị và thử lại
 	<string name="import_picture">Nhập</string>
 	<string name="picture_cancel">Hủy</string>
 	<string name="picture_go_setting">Đi đến thiết lập</string>
+	<string name="wifi">Wi-Fi</string>
+	<string name="web_url">URL</string>
+	<string name="gravity_center">Giữa</string>
+	<string name="clearable_edittext_clear_description">Xóa</string>
+	<string name="code_determine">OK</string>
+	<string name="gravity_left">Bên trái</string>
+	<string name="gravity_right">Bên phải</string>
 </resources>
