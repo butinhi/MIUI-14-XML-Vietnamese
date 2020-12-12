@@ -11032,4 +11032,15 @@ Chức năng này chỉ nhận được địa chỉ MAC Wi-Fi của bạn để
 	<string name="miheadset_rename">Đổi tên</string>
 	<string name="miheadset_closeAnc">TẮT</string>
 	<string name="font_settings_jump">Khả năng truy cập &gt; Kích thước hiển thị</string>
+	<string name="intelligence_suppression_title">Tự động (đề xuất)</string>
+	<string name="wallet_reset_cancel_btn">Bỏ qua</string>
+	<string name="wallet_reset_ok_btn">Mở</string>
+	<string name="fold_rule_unimportant">Không quan trọng</string>
+	<string name="fold_rule_important">Quan trọng</string>
+	<string name="aggregate_rule_group_disabled">"Không nhóm"</string>
+	<string name="fold_rule_default">Đề xuất</string>
+	<string name="aggregate_rule_group_enabled">Nhóm</string>
+	<string name="miheadset_audio_mode_high">Chất lượng cao</string>
+	<string name="miheadset_minus">trừ</string>
+	<string name="miheadset_plus">cộng</string>
 </resources>

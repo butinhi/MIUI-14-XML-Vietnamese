@@ -281,4 +281,10 @@ Bạn cần đọc và đồng ý với Chính sách Riêng tư Mint Keyboard tr
 	<string name="home_settings_miui_home">Cổ điển</string>
 	<string name="home_settings_poco_launcher">Bảng ứng dụng</string>
 	<string name="home_settings_title">Chọn trình khởi chạy mặc định</string>
+	<string name="other_settings_ad_dialog_agree">Bật</string>
+	<string name="other_settings_ad_dialog_disagree">Tắt</string>
+	<string name="wc_dialog_reject">Không đồng ý</string>
+	<string name="wc_double_check_agree">Thử</string>
+	<string name="wc_dialog_agree">Đồng ý</string>
+	<string name="wc_double_check_reject">Không, cảm ơn</string>
 </resources>

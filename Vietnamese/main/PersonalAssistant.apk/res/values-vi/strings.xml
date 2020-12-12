@@ -2513,4 +2513,10 @@ You can also track express delivery on the official websites of delivery compani
 	<string name="app_express_provider_kuaidi100">Kuaidi100</string>
 	<string name="app_stock_name_nsdk">Nasdaq</string>
 	<string name="app_travel_card_none">Không</string>
+	<string name="save_to_note_new">Lưu vào Ghi chú</string>
+	<string name="card_expand_note_dialog_title_new">Lưu ghi chú</string>
+	<string name="app_china_vip_text_ten_thousand">Vạn</string>
+	<string name="card_expand_note_dialog_message_new">Ghi chú mới được tạo mỗi khi bạn nhấn nút \"Lưu\" trong App vault.</string>
+	<string name="card_expand_note_toast_save_done_new">Đã lưu vào Ghi chú</string>
+	<string name="toast_reach_text_limit_truncate_new">Ghi chú của bạn quá dài. Nội dung thừa sẽ bị cắt.</string>
 </resources>

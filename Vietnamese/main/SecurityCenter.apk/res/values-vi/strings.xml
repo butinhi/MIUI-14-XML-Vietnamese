@@ -4287,4 +4287,5 @@ Sau khi được đặt, nếu bạn đóng ứng dụng, các quyền sẽ tr�
 	<string name="power_optimize_set_lockscreen_time_holder">Khóa thiết bị sau %d giây không hoạt động</string>
 	<string name="app_manager_permission_dcimcontrol_title">Truy cập Thư viện</string>
 	<string name="privacy_risk_detection_stop_btn">Dừng</string>
+	<string name="allow_all">Cho phép tất cả</string>
 </resources>

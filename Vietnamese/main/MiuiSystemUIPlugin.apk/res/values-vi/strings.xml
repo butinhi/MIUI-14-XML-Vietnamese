@@ -428,4 +428,5 @@
 	<string name="safe_media_volume_warning">"Bạn tăng âm lượng lên quá mức khuyên dùng?
 
 Việc nghe ở mức âm lượng cao trong thời gian dài có thể gây tổn thương thính giác của bạn."</string>
+	<string name="accessibility_back">Quay lại</string>
 </resources>

@@ -1940,4 +1940,10 @@ Nếu bạn không đồng ý sử dụng các dịch vụ nói trên, bạn s�
 	<string name="develop_mode">Chế độ phát triển</string>
 	<string name="info_app_version">Phiên bản ứng dụng:</string>
 	<string name="feedback_send_email_body_extra_info">Đừng xóa thông tin sau đây. Nó sẽ giúp chúng tôi xác định vấn đề.</string>
+	<string name="favorite_to_playlist">Thêm vào danh sách phát</string>
+	<string name="user_playlist_plaza">Danh sách phát</string>
+	<string name="btn_text_edit">Sửa</string>
+	<string name="share_song">Chia sẻ</string>
+	<string name="toast_follow_success">Theo dõi thành công</string>
+	<string name="add_to_playlist">Thêm vào hàng đợi</string>
 </resources>

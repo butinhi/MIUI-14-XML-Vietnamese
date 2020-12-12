@@ -1548,4 +1548,7 @@ Bạn cũng có thể thêm nhắc nhở để không bỏ lỡ những điều 
 	<string name="share_as_picture">Chia sẻ dưới dạng hình ảnh</string>
 	<string name="save_to_gallery_icon_name">Lưu album</string>
 	<string name="save_to_gallery_success_message">Đã lưu thành công vào album</string>
+	<string name="icon_remove_confirm">Xóa</string>
+	<string name="icon_add_description">Thêm một Lối tắt Màn hình chính</string>
+	<string name="share_by_qq">QQ</string>
 </resources>

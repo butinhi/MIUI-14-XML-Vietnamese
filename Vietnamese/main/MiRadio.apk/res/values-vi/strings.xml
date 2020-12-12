@@ -1671,4 +1671,5 @@ Không thanh toán riêng"</string>
 	<string name="vip_service">Dịch vụ khách hàng tận tâm</string>
 	<string name="play_mode_change_hint">Danh sách phát hiện không hỗ trợ phát ngẫu nhiên, nó đã được tự động chuyển sang phát tuần tự cho bạn</string>
 	<string name="vip_tip_zero_open">Dùng thử với giá 0 NDT. Nghe nhiều nội dung</string>
+	<string name="dialog_recall_soundrecord_cancel">Hủy</string>
 </resources>

@@ -92,4 +92,6 @@
 	<string name="refocus_movie_lanshan">Suy tàn</string>
 	<string name="refocus_movie_xuanying">Sáng chói</string>
 	<string name="refocus_relighting_shuye">Chiếc lá</string>
+	<string name="exit_alert_title">Hủy thay đổi?</string>
+	<string name="exit_alert_msg">Bạn có chắc muốn lưu nội dung được điền trong lần này?</string>
 </resources>

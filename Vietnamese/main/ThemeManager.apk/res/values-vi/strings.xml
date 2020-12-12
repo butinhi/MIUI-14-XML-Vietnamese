@@ -1548,4 +1548,18 @@ Bạn sẽ thấy ảnh mới mỗi giờ."</string>
 	<string name="personalize_wallpaper_sub_title">Siêu hình nền và hình ảnh nổi bật</string>
 	<string name="boot_audio_dialog_cancel">Hủy</string>
 	<string name="boot_audio_dialog_title">Chú ý</string>
+	<string name="add">Thêm</string>
+	<string name="exo_controls_fullscreen_exit_description">Thoát toàn màn hình</string>
+	<string name="exo_controls_playback_speed">Tốc độ</string>
+	<string name="no_more_notice">Không hiển thị lại</string>
+	<string name="create_home_icon">Lối tắt Màn hình chính</string>
+	<string name="exo_controls_shuffle_on_description">Bật trộn bài</string>
+	<string name="restore_home_icon_text">Thêm một Lối tắt Màn hình chính</string>
+	<string name="exo_controls_hide">Ẩn điều khiển trình phát</string>
+	<string name="exo_controls_fullscreen_enter_description">Vào toàn màn hình</string>
+	<string name="exo_controls_vr_description">Chế độ VR</string>
+	<string name="exo_controls_playback_speed_normal">Bình thường</string>
+	<string name="exo_controls_shuffle_off_description">Tắt trộn bài</string>
+	<string name="exo_controls_settings_description">Cài đặt</string>
+	<string name="exo_controls_show">Hiển thị điều khiển trình phát</string>
 </resources>

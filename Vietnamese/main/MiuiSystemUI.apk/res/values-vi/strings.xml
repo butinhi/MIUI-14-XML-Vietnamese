@@ -2825,4 +2825,6 @@ Vẫn hiển thị chúng?"</string>
 	<string name="usb_contaminant_message">"Để bảo vệ thiết bị của bạn khỏi chất lỏng hoặc mảnh vỡ, cổng USB đã bị tắt và sẽ không phát hiện thấy bất kỳ phụ kiện nào.
 
 Bạn sẽ được thông báo khi có thể sử dụng lại cổng USB."</string>
+	<string name="input_lockscreen_pin_hint_text">Nhập mã PIN</string>
+	<string name="input_lockscreen_password_hint_text">Nhập mật khẩu</string>
 </resources>

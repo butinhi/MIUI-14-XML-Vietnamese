@@ -912,4 +912,5 @@ Các bước: Mở APP WeChat&gt;My&gt;Cài đặt&gt;Chung&gt;Sao lưu và di c
 	<string name="receiver_finish_detail_success">Mục đã chuyển</string>
 	<string name="fail_list_tips">"Các mục dưới đây không thể chuyển sang thiết bị mới."</string>
 	<string name="provision_receiver_finish_button">Tiếp theo</string>
+	<string name="title_open_wlan">Bật Wi-Fi</string>
 </resources>

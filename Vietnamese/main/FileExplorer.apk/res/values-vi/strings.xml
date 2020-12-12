@@ -1325,4 +1325,17 @@ Gia nhập cùng 170 triệu Mi Fan!"</string>
 	<string name="operation_encrypt_title">Mã hóa tệp tin riêng tư</string>
 	<string name="operation_encrypt_summary">Mã hóa tệp tin trong thư mục riêng tư. Giải mã tệp tin lớn có thể mất nhiều thời gian hơn.</string>
 	<string name="private_folder_update_msg_summary">Giải mã sẽ sẽ khiến việc xóa tệp tin khỏi thư mục riêng tư lâu hơn. Bạn có thể bật hoặc tắt mã hóa trong Cài đặt.</string>
+	<string name="mirror_tip_refresh">Làm mới</string>
+	<string name="mirror_tip_forward">Chuyển tiếp</string>
+	<string name="mirror_tip_backward">Quay lại</string>
+	<string name="mirror_side_bar_tab_recent_name">Gần đây</string>
+	<string name="mirror_side_bar_tab_app_name">Ứng dụng</string>
+	<string name="mirror_paste_no_file">"Tệp tin này không tồn tại"</string>
+	<string name="mirror_side_bar_tab_mine_name">Chia sẻ tệp tin với thiết bị lân cận</string>
+	<string name="launcher_icon_add_description">Thêm một Lối tắt Màn hình chính</string>
+	<string name="operation_open">Mở</string>
+	<string name="mirror_progress_copy">Đang sao chép…</string>
+	<string name="mirror_tip_show_type">Sắp xếp theo</string>
+	<string name="mirror_side_bar_tab_type_name">Tập tin</string>
+	<string name="mirror_tip_cloud">Mi Drive</string>
 </resources>

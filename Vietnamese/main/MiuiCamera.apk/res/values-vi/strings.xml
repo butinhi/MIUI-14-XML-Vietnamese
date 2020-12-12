@@ -1918,4 +1918,11 @@ In dễ dàng trên khổ A4"</string>
 	<string name="pref_e_p_k">Xanh lục</string>
 	<string name="time_stamp_date_format">dd/MM/yyyy</string>
 	<string name="download_in_progress">Đang tải xuống…</string>
+	<string name="cam_string_video_cast_state_paused">Đã tạm dừng</string>
+	<string name="cam_strings_rcs_wifi_dialog_button_cancel">Hủy</string>
+	<string name="cam_string_remote_camera_setup_wizard_button_quit">Thoát</string>
+	<string name="cam_string_remote_camera_setup_wizard_button_back">Quay lại</string>
+	<string name="cam_string_remote_camera_setup_wizard_button_confirm">OK</string>
+	<string name="cam_string_remote_camera_setup_wizard_button_cancel">Hủy</string>
+	<string name="mimoji_downloading">Đang tải xuống</string>
 </resources>

@@ -2476,4 +2476,15 @@ Phiên dịch có thể mất một lúc khi bạn sử dụng tính năng này 
 	<string name="download_type_thumbnail_subtitle">Ảnh chất lượng cao trông gần giống với ảnh gốc nhưng chiếm nhiều dung lượng hơn</string>
 	<string name="unsupport_type">Loại tập tin này không được hỗ trợ</string>
 	<string name="send_files_by">Chia sẻ tệp tin qua</string>
+	<string name="miuix_appcompat_search_input_description">Tìm kiếm</string>
+	<string name="miuix_appcompat_action_mode_deselect_all">Bỏ chọn</string>
+	<string name="miuix_appcompat_action_mode_title_empty">Chọn mục</string>
+	<string name="miuix_appcompat_actionbar_immersion_button_more_description">Thêm</string>
+	<string name="miuix_appcompat_delete_description">Xóa</string>
+	<string name="miuix_appcompat_deselect_all_description">Bỏ chọn tất cả</string>
+	<string name="miuix_appcompat_search_action_mode_cancel">Hủy</string>
+	<string name="miuix_appcompat_cancel_description">Hủy</string>
+	<string name="miuix_appcompat_confirm_description">Xác nhận</string>
+	<string name="miuix_appcompat_action_mode_select_all">Chọn tất cả</string>
+	<string name="miuix_appcompat_select_all_description">Chọn tất cả</string>
 </resources>
