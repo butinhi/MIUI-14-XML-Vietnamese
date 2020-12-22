@@ -1866,7 +1866,7 @@ In dễ dàng trên khổ A4"</string>
 	<string name="fastmotion_pro_save_time_min_and_sec">Thời lượng: %1$s %2$s</string>
 	<string name="accessibility_preview_zoom_tip">%1$.1f xem trước thu phóng</string>
 	<string name="dual_video_record_merged">Kết hợp</string>
-	<string name="film_timefreeze_hint">Vui lòng không di chuyển điện thoại trong  %d giây</string>
+	<string name="film_timefreeze_hint">Vui lòng không di chuyển điện thoại</string>
 	<string name="pref_k_h">Khối lượng trả về</string>
 	<string name="doc_shortcut_long">Tài liệu</string>
 	<string name="video_shortcut_long">Video</string>
@@ -1925,4 +1925,5 @@ In dễ dàng trên khổ A4"</string>
 	<string name="cam_string_remote_camera_setup_wizard_button_confirm">OK</string>
 	<string name="cam_string_remote_camera_setup_wizard_button_cancel">Hủy</string>
 	<string name="mimoji_downloading">Đang tải xuống</string>
+	<string name="update_loading">Đã tải xuống %1$d%%</string>
 </resources>

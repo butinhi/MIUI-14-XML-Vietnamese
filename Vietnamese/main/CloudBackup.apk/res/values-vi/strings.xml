@@ -30,7 +30,7 @@
     <string name="cloud_back_up_no_network_warn">Không thể kết nối Wi-Fi</string>
     <string name="cloud_back_up_ok_btn">OK</string>
     <string name="cloud_back_up_frequence_choice_title">Lịch trình sao lưu</string>
-    <string name="cloud_back_up_frequence_long">Mỗi 7 ngày</string>
+    <string name="cloud_back_up_frequence_long">Mỗi %d ngày</string>
     <string name="cloud_back_up_frequence_short">Mỗi ngày</string>
     <string name="cloud_back_up_share_activity_title">Nâng cấp Tài khoản Mi</string>
     <string name="cloud_back_up_share_activity_discription">Nhận thêm nhiều dung lượng, sao lưu hàng ngày, và nhiều thứ nữa.</string>

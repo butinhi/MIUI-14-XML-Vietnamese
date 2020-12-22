@@ -805,7 +805,7 @@ Chụp nhiều ảnh bạn của bạn hơn!"</string>
     <string name="photo_editor_miui_beauty_menu_smooth">Mịn da</string>
     <string name="photo_editor_mosaic">Khảm</string>
     <string name="photo_editor_navigator_cancel">Hủy</string>
-    <string name="photo_editor_navigator_download_network_metered_msg">Tải xuống %s yêu cầu 4MB dữ liệu di động. Tải ngay?</string>
+    <string name="photo_editor_navigator_download_network_metered_msg" formatted="false">Tải xuống %s yêu cầu %2$d MB dữ liệu di động. Tải ngay?</string>
     <string name="photo_editor_navigator_download_network_metered_title">Cảnh báo sử dụng dữ liệu</string>
     <string name="photo_editor_navigator_export">Lưu</string>
     <string name="photo_editor_navigator_module_download_failed">Không thể tải xuống %s</string>
@@ -1042,7 +1042,7 @@ Chụp nhiều ảnh bạn của bạn hơn!"</string>
     <string name="slim_description_dialog_detail">Giảm kích thước của ảnh trên máy. Ảnh gốc sẽ được lưu trữ trên Xiaomi Cloud.</string>
     <string name="slim_description_dialog_ok">Tôi biết</string>
     <string name="slim_description_dialog_slim_after">"Sau:  167KB"</string>
-    <string name="slim_description_dialog_slim_before">"Trước:  3.07MB"</string>
+    <string name="slim_description_dialog_slim_before">"Trước:  %2$d MB"</string>
     <string name="slim_exit_dialog_positive">Dừng</string>
     <string name="slim_exit_dialog_title">Dừng tối ưu</string>
     <string name="slim_running">Đang tối ưu…</string>
@@ -1377,7 +1377,7 @@ Chụp nhiều ảnh bạn của bạn hơn!"</string>
     <string name="movie_download">Tải xuống</string>
     <string name="movie_download_failed">Không thể tải xuống</string>
     <string name="movie_download_failed_for_notwork">Không thể tải xuống. Kết nối mạng và thử lại.</string>
-    <string name="movie_download_sdk_without_wifi_msg">Có vẻ thiết bị đang không kết nối Wi-Fi. Tải xuống trình cắm yêu cầu sử dụng (3MB) dữ liệu di động?"</string>
+    <string name="movie_download_sdk_without_wifi_msg">Có vẻ thiết bị đang không kết nối Wi-Fi. Tải xuống trình cắm yêu cầu sử dụng (%2$d MB) dữ liệu di động?"</string>
     <string name="movie_download_sdk_without_wifi_title">Tải xuống bằng dữ liệu di động</string>
     <string name="movie_download_without_wifi_msg">Sử dụng kết nối dữ liệu di động để tải xuống tập tin sẽ làm tăng sử dụng dữ liệu. Nếu bạn sử dụng quá giới hạn dữ liệu đăng ký, nhà cung cấp dịch vụ sẽ tính phí bổ sung.</string>
     <string name="movie_download_without_wifi_title">Cảnh báo sử dụng dữ liệu</string>
@@ -1528,7 +1528,7 @@ Chụp nhiều ảnh bạn của bạn hơn!"</string>
 	<string name="burst_image_download_item_title" formatted="false">Tải ảnh gốc (%s|%s)</string>
 	<string name="burst_preview_title">Chụp liên tiếp</string>
 	<string name="burst_save_all">Lưu tất cả</string>
-	<string name="burst_save_choice_title" formatted="false">Chọn %d trên %d</string>
+	<string name="burst_save_choice_title">Chọn %1$d trên %2$d</string>
 	<string name="burst_save_confirm_dialog_title">Đang lưu ảnh</string>
 	<string name="burst_save_error_msg">"Không thể lưu"</string>
 	<string name="burst_save_processing">Đang xử lý…</string>
@@ -2050,7 +2050,7 @@ Chụp nhiều ảnh bạn của bạn hơn!"</string>
 	<string name="video_compress_not_with_format">"Nén video không hỗ trợ với định dạng này"</string>
 	<string name="vlog_caption_ai_generating">Đang tạo chú thích tự động…</string>
 	<string name="vlog_float_view_ratio">Tỷ lệ khung hình</string>
-	<string name="video_compress_lib_download_without_wifi">"Có vẻ như thiết bị của bạn chưa kết nối Wi-Fi. Bạn có thể sử dụng dữ liệu di động để tải xuống trình cắm nén video (1.3MB)."</string>
+	<string name="video_compress_lib_download_without_wifi">"Có vẻ như thiết bị của bạn chưa kết nối Wi-Fi. Bạn có thể sử dụng dữ liệu di động để tải xuống trình cắm nén video (%2$d MB)."</string>
 	<string name="clip_menu_speedx">Tốc độ</string>
 	<string name="vlog_filter_qianyin">Mềm mại</string>
 	<string name="clip_menu_remove">Xóa</string>

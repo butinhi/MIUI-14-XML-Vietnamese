@@ -241,7 +241,7 @@ Chúng sẽ được thêm vào danh sách ngoại lệ, nhưng các mục bị 
     <string name="call_transfer_info">Chặn cuộc gọi được chuyển tiếp từ số không xác định</string>
     <string name="button_text_delete">Xóa</string>
     <string name="repeated_marked_number_title">Không chặn cuộc gọi được lặp lại từ số điện thoại bị báo cáo</string>
-    <string name="repeated_marked_number_summary">Không chặn cuộc gọi thứ hai từ cùng một số bị báo cáo trong vòng 3 phút</string>
+    <string name="repeated_marked_number_summary">Không chặn cuộc gọi thứ hai từ cùng một số bị báo cáo trong vòng %d phút</string>
     <string name="mark_fraud_time_setting">Chặn số điện thoại được báo cáo là số điện thoại lừa đảo sau số lần cụ thể</string>
     <string name="mark_agent_time_setting">Chặn số điện thoại được báo cáo là số điện thoại môi giới sau số lần cụ thể</string>
     <string name="mark_sell_time_setting">Chặn số điện thoại được báo cáo là số điện thoại bán hàng sau số lần cụ thể</string>
@@ -273,7 +273,7 @@ Chúng sẽ được thêm vào danh sách ngoại lệ, nhưng các mục bị 
     <string name="note">Ghi chú</string>
     <string name="antispam_xpace_text">Chuyển sang Không gian thứ nhất để thiết lập Danh sách chặn</string>
     <string name="antispam_mode_details">Chi tiết danh sách chặn</string>
-    <string name="st_share_settings">Sử dụng cài đặt SIM 1</string>
+    <string name="st_share_settings">Sử dụng cài đặt SIM %d</string>
     <string name="st_msg_settings">Chặn SMS</string>
     <string name="st_msg_intercept_contacts">Chặn SMS từ liên hệ</string>
     <string name="st_msg_stranger_group">Chặn SMS từ người lạ</string>

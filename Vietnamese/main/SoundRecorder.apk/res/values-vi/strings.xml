@@ -368,7 +368,7 @@
 	<string name="trash_box">Mục vừa xóa</string>
 	<string name="trash_box_delete_all">Xóa vĩnh viễn tất cả các mục khỏi thùng rác?</string>
 	<string name="xiaomi_market_sdk_update_dialog_ok">Cập nhật ngay</string>
-	<string name="xiaomi_market_sdk_update_dialog_title">%s Phiên bản mới</string>
+	<string name="xiaomi_market_sdk_update_dialog_title">Đã có phiên bản mới</string>
 	<string name="xiaomi_market_sdk_update_dialog_cancel">Để sau</string>
 	<string name="no_network">Không thể kết nối mạng</string>
 	<string name="preference_clear_data">Xóa dữ liệu</string>

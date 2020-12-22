@@ -615,7 +615,7 @@ Vui lòng gửi mã này cho nhân viên kỹ thuật."</string>
 	<string name="xiaomi_market_sdk_update_dialog_ok">Cập nhật ngay</string>
 	<string name="update_dialog_title">Tìm thấy cập nhật mới</string>
 	<string name="update_no_update">Phiên bản hiện tại là mới nhất</string>
-	<string name="xiaomi_market_sdk_update_dialog_title">%s Phiên bản mới</string>
+	<string name="xiaomi_market_sdk_update_dialog_title">%Đã có phiên bản mới</string>
 	<string name="update_progress_dialog_content">Đang tải xuống…</string>
 	<string name="update_no_network">Mạng không mạnh, vui lòng kiểm tra trạng thái mạng ~</string>
 	<string name="update_dialog_button_ok">Cập nhật</string>

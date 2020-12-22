@@ -399,7 +399,7 @@
 	<string name="miui_ringer_standard">Im lặng</string>
 	<string name="reboot_info_auto_boot">Thiết bị đã được hẹn giờ bật lúc %s</string>
 	<string name="miui_toast_zen_standard_to_off">Đã tắt Không làm phiền. Nhạc chuông trở lại bình thường</string>
-	<string name="wireless_charging_low_battery_level_message">"Không thể sử dụng sạc không dây ngược khi pin điện thoại còn ít hơn 30%."</string>
+	<string name="wireless_charging_low_battery_level_message">"Không thể sử dụng sạc không dây ngược khi pin điện thoại còn ít hơn %d%%."</string>
 	<string name="miui_ringer_status_close">TẮT</string>
 	<string name="accessibility_volume_collapse">Thu gọn</string>
 	<string name="restart">Khởi động lại</string>

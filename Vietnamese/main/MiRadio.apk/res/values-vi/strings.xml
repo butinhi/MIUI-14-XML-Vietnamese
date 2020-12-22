@@ -571,8 +571,8 @@
     <string name="vip_required_with_song">Nhận Gói Bài hát Thu phí để phát “%s”. Hiện tại đã bỏ qua bài hát.</string>
     <string name="vip_tomorrow_auto_renew_message">Đăng ký Âm nhạc của bạn sẽ được gia hạn tự động tối mai. Hãy chắc chắn bạn có đủ Mi Credit trong tài khoản để hoàn tất thanh toán này.</string>
     <string name="vip_tomorrow_renew_message">Bạn sẽ không thể thưởng thức âm thanh chất lượng cao, nhưng bạn vẫn có thể nghe những bài hát với chất lượng bình thường.</string>
-    <string name="wifi_required_body" formatted="false">"Bạn nên sử dụng Wi-Fi để hoàn tất tải xuống này %s .
-Chạm %s để bắt đầu tải xuống lần sau khi bạn kết nối đến mạng Wi-Fi."</string>
+    <string name="wifi_required_body" formatted="false">"Bạn nên sử dụng Wi-Fi để hoàn tất %1$s tải xuống này.
+Chạm %2$s để bắt đầu tải xuống lần sau khi bạn kết nối đến mạng Wi-Fi."</string>
     <string name="wifi_required_title">Bạn nên kết nối với Wi-Fi để tải tập tin này</string>
     <string name="account">Tài khoản</string>
     <string name="action_item_cancel">Hủy</string>

@@ -1475,7 +1475,7 @@ d MMMM"</string>
 	<string name="miuix_compat_dialog_update_title">Yêu cầu cập nhật</string>
 	<string name="xiaomi_market_sdk_update_dialog_ok">Cập nhật ngay</string>
 	<string name="share_send_to_friend">WeChat</string>
-	<string name="xiaomi_market_sdk_update_dialog_title">%s Phiên bản mới</string>
+	<string name="xiaomi_market_sdk_update_dialog_title">Đã có phiên bản mới</string>
 	<string name="share_copy_url_success">Sao chép thành công</string>
 	<string name="mtrl_exceed_max_badge_number_content_description">Nhiều hơn %1$d thông báo mới</string>
 	<string name="share_to_qq">QQ</string>

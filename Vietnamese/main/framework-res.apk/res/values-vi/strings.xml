@@ -65,12 +65,7 @@
     <string name="accessibility_magnification_chooser_text">Phóng to</string>
     <string name="accessibility_shortcut_disabling_service">Đã tắt phím tắt trợ năng %1$s</string>
     <string name="accessibility_shortcut_enabling_service">Đã bật phím tắt trợ năng %1$s</string>
-    <string name="accessibility_shortcut_toogle_warning">"Khi phím tắt được bật, nhấn cả hai nút âm lượng trong 3 giây sẽ bắt đầu một tính năng trợ năng.
-
- Tính năng trợ năng hiện tại:
- %1$s
-
- Bạn có thể thay đổi tính năng trong Cài đặt > Trợ năng."</string>
+    <string name="accessibility_shortcut_toogle_warning">"Khi phím tắt được bật, nhấn cả hai nút âm lượng trong 3 giây sẽ bắt đầu một tính năng trợ năng."</string>
     <string name="accessibility_shortcut_warning_dialog_title">Sử dụng phím tắt trợ năng?</string>
     <string name="action_bar_home_description">Điều hướng về trang chủ</string>
     <string name="action_bar_home_description_format">%1$s, %2$s</string>
