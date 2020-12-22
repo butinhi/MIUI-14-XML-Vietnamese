@@ -86,4 +86,11 @@
 		<item>Tất cả</item>
 		<item>Chỉ người gửi</item>
 	</string-array>
+	<string-array name="invoice_card_keyword">
+		<item>Hóa đơn</item>
+	</string-array>
+	<string-array name="invoice_card_pdf_keyword">
+		<item>Hóa đơn</item>
+		<item>hóa đơn</item>
+	</string-array>
 </resources>

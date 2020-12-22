@@ -94,4 +94,7 @@
 	<string name="refocus_relighting_shuye">Chiếc lá</string>
 	<string name="exit_alert_title">Hủy thay đổi?</string>
 	<string name="exit_alert_msg">Bạn có chắc muốn lưu nội dung được điền trong lần này?</string>
+	<string name="refocus_dynamic_tongxin">Đồng tâm</string>
+	<string name="refocus_dynamic_yuanxing">Hình tròn</string>
+	<string name="refocus_dynamic_xinxing">Trái tim</string>
 </resources>

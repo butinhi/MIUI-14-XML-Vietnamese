@@ -28,4 +28,7 @@
 	<string name="unknown_error">Lỗi không rõ!</string>
 	<string name="update_success">Cập nhật thành công</string>
 	<string name="hello_world">Hello world!</string>
+	<string name="not_resurge_title">Sống lại</string>
+	<string name="resurged_content">Thôi nào!</string>
+	<string name="resurged_title">Đã sống lại</string>
 </resources>

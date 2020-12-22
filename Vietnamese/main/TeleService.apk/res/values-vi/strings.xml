@@ -3214,4 +3214,6 @@ Bất cứ người dùng nào cũng có thể cập nhật ứng dụng cho ng�
 	<string name="fiveg_network_mode_title">Chọn chế độ mạng 5G</string>
 	<string name="preferred_network_type_pref_entries_5g_preferred_lm_cr">5G/LTE/WCDMA/GSM tự động</string>
 	<string name="fiveg_sa_vice_switch_title">SA trên SIM thứ hai</string>
+	<string name="vonr_switch_summary">Sử dụng VoNR để cải thiện chất lượng gọi thoại</string>
+	<string name="vonr_switch_title">Sủ dụng VoNR</string>
 </resources>

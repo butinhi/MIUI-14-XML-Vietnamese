@@ -373,4 +373,5 @@ Ngoài ra, bạn có thể tắt Chế độ đơn giản và thử lại."</str
 	<string name="install_control_vip_account_install">Đăng ký thử nghiệm Beta</string>
 	<string name="spannable_continue_text">Tôi hiểu về các rủi ro. Vẫn cài đặt.</string>
 	<string name="miui_other_permission">Khác</string>
+	<string name="miui_failed_solution_8">Tải ứng dụng từ GetApps.</string>
 </resources>

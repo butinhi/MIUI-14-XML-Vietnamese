@@ -446,4 +446,6 @@
 	<string name="miui_main_update_back_to_home">Đang chuẩn bị Màn hình chính…</string>
 	<string name="icon_remove_confirm">Xóa</string>
 	<string name="icon_add_description">Thêm một Lối tắt Màn hình chính</string>
+	<string name="icon_remove_description_title">Xóa \"Dịch vụ &amp; phản hồi\" khỏi Màn hình chính?</string>
+	<string name="icon_remove_description_content">"\"Dịch vụ &amp; phản hồi\" là một ứng dụng hệ thống. Bạn vẫn có thể sử dụng nó qua Cài đặt sau khi bạn xóa Lối tắt Màn hình chính."</string>
 </resources>

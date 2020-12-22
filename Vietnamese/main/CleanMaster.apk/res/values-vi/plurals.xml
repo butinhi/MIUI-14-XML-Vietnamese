@@ -126,4 +126,7 @@
 	<plurals name="global_wa_clean_finish_audio">
 		<item quantity="other">&lt;Data&gt;Đã giải phóng &lt;big&gt;&lt;big&gt;&lt;font color=#01BB00 &gt;%1$s&lt;/font&gt;&lt;/big&gt;&lt;/big&gt; (đủ cho &lt;big&gt;&lt;big&gt;&lt;font color=#01BB00 &gt;%2$d&lt;/font&gt;&lt;/big&gt;&lt;/big&gt; bài hát)&lt;/Data&gt;</item>
 	</plurals>
+	<plurals name="notification_checker_installed_apk_text">
+		<item quantity="other">Xóa %d gói cài đặt</item>
+	</plurals>
 </resources>

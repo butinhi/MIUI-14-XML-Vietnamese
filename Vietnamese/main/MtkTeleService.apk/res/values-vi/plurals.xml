@@ -26,4 +26,14 @@ Còn lại%d lần thử."</item>
         <item quantity="other">%1$d thiết bị được kết nối</item>
         <item quantity="one">%1$d thiết bị được kết nối</item>
     </plurals>
+	<plurals name="hour">
+		<item quantity="other">%s giờ</item>
+	</plurals>
+	<plurals name="alert_dialog_exit_ecm_without_data_restriction_hint">
+		<item quantity="other">"Điện thoại sẽ ở chế độ gọi lại khẩn cấp trong %s phút.
+Bạn có muốn thoát ngay?"</item>
+	</plurals>
+	<plurals name="day">
+		<item quantity="other">%s ngày</item>
+	</plurals>
 </resources>

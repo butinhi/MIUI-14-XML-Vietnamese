@@ -519,4 +519,11 @@ Chạm vào màn hình để thêm thủ công hoặc định vị lại thành 
 	<string name="revoke_privacy_policy_title">Điều khoản và Điều kiện</string>
 	<string name="dynamic_weather">Thời tiết</string>
 	<string name="dialog_internet_error_title">Đã xảy ra lỗi</string>
+	<string name="non_wifi_environment">Kết nối Wi-Fi để tải xuống hiệu ứng âm thanh</string>
+	<string name="privacy_policy_msg">Ứng dụng này có các tính năng dưới đây:&lt;br/&gt;• Thông tin thời tiết theo từng vị trí của bạn&lt;br/&gt;• Dự báo thời tiết&lt;br/&gt;• Cảnh báo thời tiết&lt;br/&gt;&lt;br/&gt;Thời tiết cần thu thập thông tin cá nhân cần thiết để cung cấp cho bạn các dịch vụ cơ bản. Bạn có thể tìm hiểu cách chúng tôi xử lý thông tin chúng tôi đã thu thập trong&lt;a href=\"%1$s\"&gt;Chính sách Riêng tư&lt;/a&gt; của chúng tôi. Đọc và đồng ý với &lt;a href=\"%2$s\"&gt;Thỏa thuận Người dùng&lt;/a&gt; và &lt;a href=\"%3$s\"&gt;Chính sách Riêng tư&lt;/a&gt; của chúng tôi trước khi sử dụng Thời tiết. Bạn có thể rút lại sự đồng ý của mình đối với Chính sách Riêng tư của Thời tiết trong Cài đặt bất kỳ lúc nào.</string>
+	<string name="weather_more_air_quality">Thêm thông tin về chất lượng không khí</string>
+	<string name="weather_aqi_full_air_quality_forcast">Dự báo chất lượng không khí đầy đủ</string>
+	<string name="privacy_policy_msg_for_gp">Ứng dụng này có các tính năng dưới đây:&lt;br/&gt;• Thông tin thời tiết theo từng vị trí của bạn&lt;br/&gt;• Dự báo thời tiết&lt;br/&gt;• Cảnh báo thời tiết&lt;br/&gt;&lt;br/&gt;Thời tiết cần thu thập thông tin cá nhân cần thiết, bao gồm cả dữ liệu vị trí, để cung cấp các tính năng này, ngay cả khi ứng dụng bị đóng hoặc không sử dụng. Bạn có thể tìm hiểu cách chúng tôi xử lý thông tin chúng tôi đã thu thập trong &lt;a href=\"%1$s\"&gt;Chính sách Riêng tư&lt;/a&gt; của chúng tôi. Đọc và đồng ý với &lt;a href=\"%2$s\"&gt;Thỏa thuận Người dùng&lt;/a&gt; và &lt;a href=\"%3$s\"&gt;Chính sách Riêng tư&lt;/a&gt; của chúng tôi trước khi sử dụng Thời tiết. Bạn có thể rút lại sự đồng ý của mình đối với Chính sách Riêng tư của Thời tiết trong Cài đặt bất kỳ lúc nào.</string>
+	<string name="welcome_app_title">Chào mừng đến với Thời tiết!</string>
+	<string name="download_rsc_tips">Đang tải âm thanh nền…</string>
 </resources>

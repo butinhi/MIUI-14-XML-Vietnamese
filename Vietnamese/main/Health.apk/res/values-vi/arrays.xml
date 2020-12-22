@@ -120,4 +120,24 @@
 		<item>Mỗi Thứ bảy</item>
 		<item>Mỗi Chủ nhật</item>
 	</string-array>
+	<string-array name="week_short">
+		<item>CN</item>
+		<item>T2</item>
+		<item>T3</item>
+		<item>T4</item>
+		<item>T5</item>
+		<item>T6</item>
+		<item>T7</item>
+	</string-array>
+	<string-array name="SportTabTitle">
+		<item>Chạy</item>
+		<item>Đi bộ</item>
+		<item>Đạp xe</item>
+		<item>Nhảy dây</item>
+		<item>Tập luyện</item>
+	</string-array>
+	<string-array name="HomePageTabTitle">
+		<item>Sức khỏe</item>
+		<item>Tập luyện</item>
+	</string-array>
 </resources>

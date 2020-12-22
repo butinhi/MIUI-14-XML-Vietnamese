@@ -253,4 +253,6 @@ Vui lòng thử lại sau %d giây."</string>
 	<string name="cu_3gnet_name">3G đã kết nối mạng</string>
 	<string name="cu_3gwap_name">3G đã kết nối mạng</string>
 	<string name="permlab_cta_call_forward">Chuyển tiếp cuộc gọi</string>
+	<string name="permgrouplab_email">E-mail</string>
+	<string name="hdmi_replace_hdmi">HDMI</string>
 </resources>

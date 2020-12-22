@@ -405,4 +405,10 @@
 	<plurals name="send_apk_dialog_desc_receiving">
 		<item quantity="other">Đang nhận %2$d gói cài đặt (%3$s) từ %1$s…</item>
 	</plurals>
+	<plurals name="pic_to_pdf_support_max_count">
+		<item quantity="other">Tệp PDF có thể chứa đến %d ảnh</item>
+	</plurals>
+	<plurals name="pic_to_pdf_filter_count">
+		<item quantity="other">Đã lọc %d mục không hỗ trợ</item>
+	</plurals>
 </resources>

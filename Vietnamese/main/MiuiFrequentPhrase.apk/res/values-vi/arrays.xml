@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<resources>
+	<string-array name="default_phrases">
+		<item>Tiêu đề hóa đơn: *** Inc.</item>
+		<item>Địa chỉ: Đường, Tòa nhà, Thành phố, Quốc gia/Khu vực, Tỉnh, Mã bưu chính</item>
+		<item>Vui lòng để gói hàng ngoài cửa. Cảm ơn!</item>
+		<item>"Chờ một chút, tôi sẽ quay lại ngay."</item>
+		<item>"Tôi đang họp. Vui lòng gửi tin nhắn."</item>
+		<item>"Giờ tôi không nói chuyện được. Tôi sẽ gọi lại sớm."</item>
+		<item>Cảm ơn!</item>
+	</string-array>
+</resources>

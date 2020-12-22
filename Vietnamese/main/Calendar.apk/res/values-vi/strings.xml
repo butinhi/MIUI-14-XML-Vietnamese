@@ -1551,4 +1551,13 @@ Bạn cũng có thể thêm nhắc nhở để không bỏ lỡ những điều 
 	<string name="icon_remove_confirm">Xóa</string>
 	<string name="icon_add_description">Thêm một Lối tắt Màn hình chính</string>
 	<string name="share_by_qq">QQ</string>
+	<string name="share_by_wechat_friends_original">Gửi đến vòng kết nối bạn bè</string>
+	<string name="icon_remove_description_title">Xóa \"Lịch\" khỏi Màn hình chính?</string>
+	<string name="share_by_wechat_original">Gửi cho bạn bè</string>
+	<string name="share_by_wechat">WeChat</string>
+	<string name="share_by_wechat_collect">Bộ sưu tập WeChat</string>
+	<string name="icon_remove_description_content">"Lịch là một ứng dụng hệ thống. Nó cho phép bạn tạo và quản lý sự kiện. Bạn vẫn có thể sử dụng Lịch từ widget trên Màn hình chính hoặc App vault sau khi bạn xóa Lối tắt Màn hình chính."</string>
+	<string name="share_by_wechat_friends">Vòng kết nối bạn bè</string>
+	<string name="share_by_wechat_collect_original">Thêm vào bộ sưu tập WeChat</string>
+	<string name="share_by_qq_original">Gửi cho bạn bè</string>
 </resources>

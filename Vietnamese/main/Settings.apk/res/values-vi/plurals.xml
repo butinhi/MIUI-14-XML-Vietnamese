@@ -595,4 +595,7 @@
 		<item quantity="other">Xem tất cả %1$d ứng dụng</item>
 		<item quantity="one">Xem tất cả ứng dụng</item>
 	</plurals>
+	<plurals name="miui_wifi_wakeup_summary">
+		<item quantity="other">Wi-Fi sẽ tự động được bật khi thiết bị của bạn phát hiện các mạng đã lưu gần đó và tắt sau %d phút nếu không có kết nối nào được thiết lập</item>
+	</plurals>
 </resources>

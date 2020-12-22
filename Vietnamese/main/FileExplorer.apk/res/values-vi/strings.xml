@@ -1337,5 +1337,18 @@ Gia nhập cùng 170 triệu Mi Fan!"</string>
 	<string name="mirror_progress_copy">Đang sao chép…</string>
 	<string name="mirror_tip_show_type">Sắp xếp theo</string>
 	<string name="mirror_side_bar_tab_type_name">Tập tin</string>
+	<string name="launcher_icon_remove_description_title">Xóa \"Quản lý tệp tin\" khỏi Màn hình chính?</string>
+	<string name="operation_send_to_pc">Chuyển đến máy tính</string>
+	<string name="operation_paste_to_folder">Dán vào thư mục</string>
+	<string name="mirror_new_name_first">Tạo thư mục</string>
+	<string name="mirror_tip_grid">Lưới</string>
+	<string name="mirror_can_not_drag_mask">Kéo thả để sử dụng Chia sẻ Mi</string>
+	<string name="operation_new_folder">Tạo thư mục</string>
+	<string name="mirror_storage_internal_desc">Bộ nhớ điện thoại</string>
+	<string name="mirror_tip_add_file">Tạo thư mục</string>
+	<string name="mirror_side_bar_tab_phone_name">Bộ nhớ điện thoại</string>
+	<string name="mirror_new_name">Tạo thư mục (%s)</string>
+	<string name="mirror_tip_list">Danh sách</string>
+	<string name="launcher_icon_remove_description_content">"Quản lý tệp tin là một ứng dụng hệ thống. Bạn sẽ không thể quản lý tệp tin trên thiết bị sau khi bạn xóa Lối tắt Màn hình chính."</string>
 	<string name="mirror_tip_cloud">Mi Drive</string>
 </resources>

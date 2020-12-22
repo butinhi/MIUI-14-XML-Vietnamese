@@ -2029,4 +2029,5 @@ Chọn một trong các tùy chọn sau:"</string>
 	<string name="auto_record_yellowpage">Danh bạ web</string>
 	<string name="call_record_user_notice_permission_desc_storage">Để lưu lại ghi âm</string>
 	<string name="restore_app_btn_cancel">Hủy</string>
+	<string name="bh_back">Quay lại</string>
 </resources>

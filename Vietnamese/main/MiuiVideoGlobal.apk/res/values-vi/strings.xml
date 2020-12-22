@@ -1983,4 +1983,8 @@ Gửi mã này cho người giám sát."</string>
 	<string name="tip_pop">Nội dung từ Khoảnh khắc được cung cấp bởi Firework. Để cải thiện trải nghiệm xem của bạn và nhận được các đề xuất nội dung phù hợp hơn, hãy cho phép Firework thu thập, xử lý và sử dụng thông tin cá nhân của bạn theo Chính sách quyền riêng tư của họ. Đọc và đồng ý với &lt;a href=\"%1$s\"&gt;Chính sách Riêng tư Firework&lt;/a&gt; trước khi sử dụng dịch vụ của họ.</string>
 	<string name="firework_privacy">Chính sách Riêng tư Firework</string>
 	<string name="galleryplus_subtitle_edit_reminder">Văn bản bạn nhập quá dài</string>
+	<string name="galleryplus_chose_play_speed_2">Đang phát ở tốc độ %1$.2fX</string>
+	<string name="file_space_not_enough_tip">Không đủ dung lượng lưu trữ. Giải phóng ít nhất %d MB và mở lại ứng dụng.</string>
+	<string name="tool_bar_notification_setting_title">Thanh công cụ trên Bảng thông báo</string>
+	<string name="tool_bar_notification_setting_sub_title">Hiển thị thanh công cụ trên Bảng thông báo</string>
 </resources>

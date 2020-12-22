@@ -429,4 +429,5 @@
 
 Việc nghe ở mức âm lượng cao trong thời gian dài có thể gây tổn thương thính giác của bạn."</string>
 	<string name="accessibility_back">Quay lại</string>
+	<string name="slider_view_content_description">Trượt lên để tắt nguồn hoặc trượt xuống để khởi động lại</string>
 </resources>

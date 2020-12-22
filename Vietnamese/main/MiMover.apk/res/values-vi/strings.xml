@@ -913,4 +913,10 @@ Các bước: Mở APP WeChat&gt;My&gt;Cài đặt&gt;Chung&gt;Sao lưu và di c
 	<string name="fail_list_tips">"Các mục dưới đây không thể chuyển sang thiết bị mới."</string>
 	<string name="provision_receiver_finish_button">Tiếp theo</string>
 	<string name="title_open_wlan">Bật Wi-Fi</string>
+	<string name="summary_open_wlan">Mi Mover cần quyền này để đảm bảo sự ổn định của quá trình truyền.</string>
+	<string name="location_permission_request">Để kết nối đến các thiết bị khác lân cận</string>
+	<string name="title_request_alert_window_perm">Cho phép Cửa sổ nổi</string>
+	<string name="summary_request_alert_window_prem">Mi Mover cần quyền này để đảm bảo sự ổn định của quá trình chuyển.</string>
+	<string name="summary_request_write_settings_prem">Mi Mover cần quyền này để bật Wi-Fi và tạo điểm phát để chuyển tệp.</string>
+	<string name="waiting_restore_aod">Đang khôi phục Màn hình luôn bật…</string>
 </resources>

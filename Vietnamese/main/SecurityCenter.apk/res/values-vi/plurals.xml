@@ -450,4 +450,116 @@ Nếu bạn bật dữ liệu di động lại, nhà mạng sẽ tính phí bổ
 	<plurals name="ew_concern_date">
 		<item quantity="other">%d ngày trước</item>
 	</plurals>
+	<plurals name="gb_voice_changer_trial_gain_fail">
+		<item quantity="other">"Không thể nhận dùng thử miễn phí %d ngày"</item>
+	</plurals>
+	<plurals name="privacy_risk_dangerous_permissions_tip">
+		<item quantity="other">Đã cấp %d quyền rủi ro cao</item>
+	</plurals>
+	<plurals name="privacy_risk_result_msg">
+		<item quantity="other">Đã tìm thấy %d quyền có thể rủi ro</item>
+	</plurals>
+	<plurals name="gb_voice_changer_user_status_get_trial_card">
+		<item quantity="other">Nhận dùng thử miễn phí %d ngày</item>
+	</plurals>
+	<plurals name="gb_voice_changer_trial_gain_success">
+		<item quantity="other">Đã nhận thành công dùng thử miễn phí %d ngày</item>
+	</plurals>
+	<plurals name="power_center_battery_problem">
+		<item quantity="other">Sửa %d vấn đề sử dụng pin</item>
+	</plurals>
+	<plurals name="privacy_risk_work_encryption_msg">
+		<item quantity="other">%d mục cần bảo vệ thêm</item>
+	</plurals>
+	<plurals name="power_center_battery_problem_result">
+		<item quantity="other">Bạn có thể sửa %d vấn đề sử dụng pin</item>
+	</plurals>
+	<plurals name="power_center_battery_duration_min_time_format">
+		<item quantity="other">" phút"</item>
+	</plurals>
+	<plurals name="power_center_battery_health_summary">
+		<item quantity="other">Sạc đầy thiết bị ít nhất %2$d lần để nhận thống kê chính xác</item>
+	</plurals>
+	<plurals name="applock_one_key_lock">
+		<item quantity="other">%s ứng dụng sẽ được bảo vệ bằng Khóa ứng dụng</item>
+	</plurals>
+	<plurals name="notification_checker_installed_apk_text">
+		<item quantity="other">Xóa %d gói cài đặt</item>
+	</plurals>
+	<plurals name="power_center_battery_duration_hour_time_format">
+		<item quantity="other">" giờ"</item>
+	</plurals>
+	<plurals name="power_center_battery_consume_prolblem">
+		<item quantity="other">%d vấn đề sử dụng pin</item>
+	</plurals>
+	<plurals name="power_optimize_close_app_summary">
+		<item quantity="other">%d ứng dụng hao pin</item>
+	</plurals>
+	<plurals name="gb_voice_changer_user_status_get_twice_trial_card_dialog">
+		<item quantity="other">"Đăng ký hết hạn.
+Bạn có thể nhận dùng thử miễn phí %d ngày!"</item>
+	</plurals>
+	<plurals name="power_center_battery_suggest_result">
+		<item quantity="other">Bạn có thể tối ưu %d mục để tiết kiệm pin</item>
+	</plurals>
+	<plurals name="notification_power_consume_suggest">
+		<item quantity="other">Tối ưu %d mục để tiết kiệm pin</item>
+	</plurals>
+	<plurals name="image_protect_exit_del_tips">
+		<item quantity="other">%d hình ảnh sẽ bị xóa vĩnh viễn sau khi bạn rời khỏi trang này. Vẫn xóa?</item>
+	</plurals>
+	<plurals name="power_optimize_app_autostart_summary">
+		<item quantity="other">%d ứng dụng tự khởi chạy thường xuyên</item>
+	</plurals>
+	<plurals name="privacy_risk_photo_location_tip">
+		<item quantity="other">%d rủi ro tiết lộ thông tin vị trí được phát hiện</item>
+	</plurals>
+	<plurals name="privacy_risk_uninstall_btn">
+		<item quantity="other">Gỡ cài đặt %d ứng dụng</item>
+	</plurals>
+	<plurals name="privacy_risk_result_protection_tip">
+		<item quantity="other">%d tính năng bảo vệ quyền riêng tư của bạn bị tắt</item>
+	</plurals>
+	<plurals name="pp_times">
+		<item quantity="other">%s lần</item>
+	</plurals>
+	<plurals name="applock_app_suggest_lock">
+		<item quantity="other">Bạn có thể sử dụng Khóa ứng dụng với %1$s ứng dụng</item>
+	</plurals>
+	<plurals name="privacy_risk_app_count">
+		<item quantity="other">%d ứng dụng</item>
+	</plurals>
+	<plurals name="gb_voice_changer_user_tips_info">
+		<item quantity="other">Nhận dùng thử miễn phí %d ngày</item>
+	</plurals>
+	<plurals name="image_protect_try_del_tips">
+		<item quantity="other">Xóa %d ảnh</item>
+	</plurals>
+	<plurals name="notification_power_consume_issue">
+		<item quantity="other">%d vấn đề sử dụng pin</item>
+	</plurals>
+	<plurals name="privacy_risk_sensitive_permissions_tip">
+		<item quantity="other">Đã cấp %d quyền nhạy cảm</item>
+	</plurals>
+	<plurals name="power_center_battery_save_suggest">
+		<item quantity="other">" %d mục có thể tối ưu"</item>
+	</plurals>
+	<plurals name="power_center_battery_suggest">
+		<item quantity="other">Tối ưu %d để tiết kiệm pin</item>
+	</plurals>
+	<plurals name="privacy_risk_install_app_tip">
+		<item quantity="other">%d ứng dụng rủi ro</item>
+	</plurals>
+	<plurals name="privacy_risk_result_photo_sensitive_msg">
+		<item quantity="other">%d ảnh có thể chứa thông tin riêng tư hoặc nhạy cảm</item>
+	</plurals>
+	<plurals name="privacy_risk_result_item_error">
+		<item quantity="other">Phát hiện %d rủi ro</item>
+	</plurals>
+	<plurals name="image_protect_del_tips">
+		<item quantity="other">Xóa vĩnh viễn %d ảnh?</item>
+	</plurals>
+	<plurals name="power_center_battery_charge_number">
+		<item quantity="other">lần</item>
+	</plurals>
 </resources>

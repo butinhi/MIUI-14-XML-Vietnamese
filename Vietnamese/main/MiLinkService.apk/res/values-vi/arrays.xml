@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<resources>
+	<string-array name="debug_mode_protocol_entries">
+		<item>Mặc định</item>
+		<item>MiPlay</item>
+		<item>Miracast</item>
+		<item>AirKan</item>
+		<item>LeLink</item>
+		<item>DLNA</item>
+	</string-array>
+</resources>

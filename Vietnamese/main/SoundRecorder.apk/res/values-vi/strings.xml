@@ -372,4 +372,8 @@
 	<string name="xiaomi_market_sdk_update_dialog_cancel">Để sau</string>
 	<string name="no_network">Không thể kết nối mạng</string>
 	<string name="preference_clear_data">Xóa dữ liệu</string>
+	<string name="clear_data_dialog_title">Xóa dữ liệu ngay?</string>
+	<string name="uninstall_warning_content">"Ghi âm là một ứng dụng hệ thống. Bạn sẽ không thể ghi âm hay phiên dịch âm thanh hoặc cuộc gọi sau khi bạn gỡ nó."</string>
+	<string name="clear_data_dialog_content">Bộ nhớ đệm, dữ liệu ứng dụng, và cài đặt tùy chỉnh sẽ bị xóa, nhưng các bản ghi âm sẽ vẫn được giữ lại.</string>
+	<string name="uninstall_warning_title">Gỡ Ghi âm?</string>
 </resources>

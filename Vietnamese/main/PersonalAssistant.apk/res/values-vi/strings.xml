@@ -2519,4 +2519,11 @@ You can also track express delivery on the official websites of delivery compani
 	<string name="card_expand_note_dialog_message_new">Ghi chú mới được tạo mỗi khi bạn nhấn nút \"Lưu\" trong App vault.</string>
 	<string name="card_expand_note_toast_save_done_new">Đã lưu vào Ghi chú</string>
 	<string name="toast_reach_text_limit_truncate_new">Ghi chú của bạn quá dài. Nội dung thừa sẽ bị cắt.</string>
+	<string name="app_china_vip_mijin_unit">Mijin</string>
+	<string name="app_china_proper_card_title">Trung tâm thành viên Mi</string>
+	<string name="app_pa_setting_service_china_vip_summary">Thu thập điểm Mijin và đổi các lợi ích thành viên</string>
+	<string name="card_expand_note_toast_install">Cài đặt Ghi chú để có thể sử dụng tính năng này</string>
+	<string name="app_china_vip_install_dialog">Mi Mall chưa được cài đặt nên không thể bật các tính năng liên quan. Vào Cửa hàng ứng dụng để tải?</string>
+	<string name="app_pa_setting_service_china_vip">Trung tâm thành viên Mi</string>
+	<string name="card_expand_note_toast_install_new">Cài đặt Ghi chú để có thể sử dụng tính năng này</string>
 </resources>

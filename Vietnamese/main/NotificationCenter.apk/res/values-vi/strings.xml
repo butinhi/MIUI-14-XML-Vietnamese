@@ -430,4 +430,5 @@ Báo cáo vấn đề này &gt;"</string>
 	<string name="summary_fold_importance_important">Thông báo sẽ xuất hiện trong Bảng thông báo</string>
 	<string name="notification_keyguard_show_content">Hiển thị thông báo và nội dung</string>
 	<string name="summary_aggregate_home">"Thông báo đẩy sẽ không được gom nhóm"</string>
+	<string name="show_weather">Hiển thị thông tin thời tiết</string>
 </resources>

@@ -1672,4 +1672,10 @@ Không thanh toán riêng"</string>
 	<string name="play_mode_change_hint">Danh sách phát hiện không hỗ trợ phát ngẫu nhiên, nó đã được tự động chuyển sang phát tuần tự cho bạn</string>
 	<string name="vip_tip_zero_open">Dùng thử với giá 0 NDT. Nghe nhiều nội dung</string>
 	<string name="dialog_recall_soundrecord_cancel">Hủy</string>
+	<string name="description_content">"Đài FM là một ứng dụng hệ thống. Bạn sẽ không thể nghe radio địa phương và trực tuyến nếu bạn gỡ nó."</string>
+	<string name="dialog_recall_soundrecord_ok">Tải xuống</string>
+	<string name="dialog_recall_soundrecord_title">Ghi âm chưa được cài đặt</string>
+	<string name="dialog_recall_soundrecord_message">Danh sách ghi âm do Ghi âm cung cấp, bạn cần tải và cài đặt Ghi âm để xem</string>
+	<string name="permission_runtime_perm_desc_location">Để truy cập các trạm radio địa phương</string>
+	<string name="description_title">Gỡ \"Đài FM\"?</string>
 </resources>

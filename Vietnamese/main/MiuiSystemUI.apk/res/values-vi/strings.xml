@@ -2827,4 +2827,9 @@ Vẫn hiển thị chúng?"</string>
 Bạn sẽ được thông báo khi có thể sử dụng lại cổng USB."</string>
 	<string name="input_lockscreen_pin_hint_text">Nhập mã PIN</string>
 	<string name="input_lockscreen_password_hint_text">Nhập mật khẩu</string>
+	<string name="face_unlock_pin_and_fingerprint">Nhập PIN hoặc sử dụng vân tay để mở khóa</string>
+	<string name="face_unlock_pattern_and_fingerprint">Vẽ mẫu hình hoặc sử dụng vân tay để mở khóa</string>
+	<string name="face_unlock_password_and_fingerprint">Nhập mật khẩu hoặc sử dụng vân tay để mở khóa</string>
+	<string name="input_lockscreen_pattern_hint_text">Vẽ mẫu hình</string>
+	<string name="wifi_security_wapi_certificate">Chứng chỉ WAPI</string>
 </resources>

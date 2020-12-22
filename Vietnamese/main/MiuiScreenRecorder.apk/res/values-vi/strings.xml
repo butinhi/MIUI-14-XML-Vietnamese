@@ -122,4 +122,6 @@
 	<string name="miuix_sbl_tracking_progress_labe_up_refresh">Đang làm mới</string>
 	<string name="miuix_sbl_tracking_progress_labe_up_nodata">Không có dữ liệu</string>
 	<string name="miuix_sbl_tracking_progress_labe_refreshed">Đã làm mới</string>
+	<string name="uninstall_warning_content">"Quay phim màn hình là một ứng dụng hệ thống. Bạn sẽ không thể quay phim màn hình sau khi gỡ nó."</string>
+	<string name="uninstall_warning_title">Gỡ Quay phim màn hình?</string>
 </resources>

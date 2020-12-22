@@ -1562,4 +1562,14 @@ Bạn sẽ thấy ảnh mới mỗi giờ."</string>
 	<string name="exo_controls_shuffle_off_description">Tắt trộn bài</string>
 	<string name="exo_controls_settings_description">Cài đặt</string>
 	<string name="exo_controls_show">Hiển thị điều khiển trình phát</string>
+	<string name="exo_controls_overflow_show_description">Hiện cài đặt bổ sung</string>
+	<string name="exo_controls_cc_enabled_description">Tắt phụ đề</string>
+	<string name="exo_controls_overflow_hide_description">Ẩn cài đặt bổ sung</string>
+	<string name="exo_controls_cc_disabled_description">Bật phụ đề</string>
+	<string name="exo_controls_seek_bar_description">Tiến trình phát lại</string>
+	<string name="more_icon_style">Thêm biểu tượng</string>
+	<string name="uninstall_theme">Xóa \"Chủ đề\" khỏi Màn hình chính?</string>
+	<string name="boot_audio_dialog_content">Âm thanh khởi động đã tắt. Bật lại nó và áp dụng âm thanh này?</string>
+	<string name="uninstall_theme_description">"Chủ đề là một ứng dụng hệ thống. Nó cung cấp hình nền và nhiều tùy chọn tùy biến. Bạn vẫn sẽ có thể sử dụng Chủ đề qua Cài đặt sau khi bạn xóa Lối tắt Màn hình chính."</string>
+	<string name="restore_icon_later">Bạn có thể thêm lại Lối tắt Màn hình chính trong Cài đặt</string>
 </resources>

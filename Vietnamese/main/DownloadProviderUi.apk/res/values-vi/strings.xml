@@ -602,4 +602,6 @@ Tăng tốc tải xuống giữa các thiết bị."</string>
 	<string name="xiaomi_market_sdk_update_dialog_title">%s Phiên bản mới</string>
 	<string name="xiaomi_market_sdk_update_dialog_cancel">Để sau</string>
 	<string name="thunder_download_speedup">Đang tăng tốc bằng Xunlei…</string>
+	<string name="download_description_content">"Tải xuống là một ứng dụng hệ thống. Bạn sẽ không thể quản lý các mục tải xuống nếu bạn xóa nó."</string>
+	<string name="download_description_title">Xóa \"Tải xuống\" khỏi Màn hình chính?</string>
 </resources>

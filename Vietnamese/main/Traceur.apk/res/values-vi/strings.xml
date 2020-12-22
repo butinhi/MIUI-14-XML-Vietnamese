@@ -704,4 +704,5 @@ Bất kỳ người dùng nào cũng có thể thay mặt cho tất cả ngườ
 	<string name="adb_pairing_device_dialog_pairing_code_label">Mã ghép nối Wi-Fi</string>
 	<string name="clear_saved_traces_summary">Dấu vết được xóa sau 1 tháng</string>
 	<string name="media_transfer_wired_usb_device_name">Tai nghe có dây</string>
+	<string name="wifi_security_wapi_certificate">Chứng chỉ WAPI</string>
 </resources>

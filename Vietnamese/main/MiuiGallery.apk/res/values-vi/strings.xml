@@ -2487,4 +2487,8 @@ Phiên dịch có thể mất một lúc khi bạn sử dụng tính năng này 
 	<string name="miuix_appcompat_confirm_description">Xác nhận</string>
 	<string name="miuix_appcompat_action_mode_select_all">Chọn tất cả</string>
 	<string name="miuix_appcompat_select_all_description">Chọn tất cả</string>
+	<string name="album_homepage_show_all_photos">Hiển thị tất cả ảnh</string>
+	<string name="toast_orientation_unlock">Đã mở khóa xoay màn hình</string>
+	<string name="album_lockscreen_wallpapers">Hình nền Màn hình khóa</string>
+	<string name="pic_to_pdf_saved_in_fileexplorer">Lưu thành công. Xem trong Quản lý tệp tin.</string>
 </resources>

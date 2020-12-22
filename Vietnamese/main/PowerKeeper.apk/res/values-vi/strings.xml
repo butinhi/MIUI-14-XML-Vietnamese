@@ -283,4 +283,5 @@ Tiết kiệm pin sẽ xử lý ứng dụng quan trọng một cách có chọn
 	<string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Kéo xuống để làm mới</string>
 	<string name="miuix_sbl_tracking_progress_labe_up_nodata">Không có dữ liệu</string>
 	<string name="abc_action_menu_overflow_description">Thêm tùy chọn</string>
+	<string name="accessibility_service_description">Tiết kiệm pin thông minh</string>
 </resources>

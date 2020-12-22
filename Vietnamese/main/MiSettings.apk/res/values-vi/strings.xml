@@ -715,4 +715,21 @@
 	<string name="exo_controls_pause_description">Tạm dừng</string>
 	<string name="exo_controls_settings_description">Cài đặt</string>
 	<string name="exo_controls_show">Hiển thị điều khiển trình phát</string>
+	<string name="exo_controls_cc_enabled_description">Tắt phụ đề</string>
+	<string name="usage_stats_limit_time_high_accuracy_summary_new">Độ chính xác đến phút (tốn năng lượng hơn)</string>
+	<string name="usage_state_holiday_day_hour_minute">Ngày nghỉ: %1$s %2$s</string>
+	<string name="exo_controls_overflow_hide_description">Ẩn cài đặt bổ sung</string>
+	<string name="exo_controls_rewind_by_amount_description">Tua lại %d giây</string>
+	<string name="usage_new_home_week_compare_text1_new">(Nhiều hơn tuần trước %s%%)</string>
+	<string name="exo_controls_seek_bar_description">Tiến trình phát lại</string>
+	<string name="exo_controls_fastforward_by_amount_description">Tua nhanh %d giây</string>
+	<string name="usage_new_home_week_average_count">Trung bình %s</string>
+	<string name="exo_controls_overflow_show_description">Hiện cài đặt bổ sung</string>
+	<string name="usage_app_holiday_limit">Ngày nghỉ</string>
+	<string name="usage_new_home_week_compare_text2_new">(Ít hơn tuần trước %s%%)</string>
+	<string name="usage_state_holiday_time">Ngày nghỉ: %s</string>
+	<string name="usage_new_home_week_unlock_compare_increase">(Nhiều hơn tuần trước %.2f)</string>
+	<string name="usage_new_home_week_unlock_compare_decrease">(Ít hơn tuần trước %.2f)</string>
+	<string name="usage_stats_limit_time_low_accuracy_summary_new">Độ chính xác tính đến phút trong %d giờ còn lại (tiết kiệm năng lượng)</string>
+	<string name="exo_controls_cc_disabled_description">Bật phụ đề</string>
 </resources>

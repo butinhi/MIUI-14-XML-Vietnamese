@@ -744,4 +744,9 @@ Bạn cần phải cài đặt phiên bản MIUI của nhà phát triển để 
 	<string name="chinese_symbol_animals_dog">Tuất</string>
 	<string name="pm">CH</string>
 	<string name="the_fifth_day">Ngày Thứ năm</string>
+	<string name="clipboard_ai_allow_tip">AI cho phép %1$s đọc %2$s trong khay nhớ tạm</string>
+	<string name="keep_notice_me">Không giữ gì cả</string>
+	<string name="clipboard_read_deny_dialog_title">Hạn chế truy cập vào khay nhớ tạm của %1$s</string>
+	<string name="clipboard_read_ai_deny_once">Hạn chế truy cập vào khay nhớ tạm của %1$s</string>
+	<string name="forbid_notice_me">Dừng thông báo</string>
 </resources>

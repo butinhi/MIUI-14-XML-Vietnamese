@@ -736,4 +736,16 @@ Bất kỳ người dùng nào cũng có thể thay mặt cho tất cả ngườ
 	<string name="headset_update_failed">Thất bại</string>
 	<string name="headset_updating">Cập nhật</string>
 	<string name="headset_finish_fw_failed">Thất bại</string>
+	<string name="headset_downloading_indicate">Chờ, đang tải xuống</string>
+	<string name="stop_speech">Dừng nói</string>
+	<string name="start_speech">Bắt đầu nói</string>
+	<string name="play_decode_audio">Phát âm thanh</string>
+	<string name="headset_fw_file_readfailed">Thất bại</string>
+	<string name="headset_connect_device">Kết nối thiết bị</string>
+	<string name="disconnect_device">Ngắt kết nối thiết bị</string>
+	<string name="headset_device_donot_move">Đừng di chuyển thiết bị</string>
+	<string name="disconnect_Channel">Ngắt kết nối kênh</string>
+	<string name="headset_battery_fw_failed">Pin yếu</string>
+	<string name="get_target_info">Lấy thông tin đích</string>
+	<string name="wifi_security_wapi_certificate">Chứng chỉ WAPI</string>
 </resources>

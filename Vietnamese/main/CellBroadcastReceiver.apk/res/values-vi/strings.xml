@@ -703,4 +703,12 @@
 	<string name="miuix_sbl_tracking_progress_labe_up_refresh">Đang làm mới</string>
 	<string name="miuix_sbl_tracking_progress_labe_up_nodata">Không có dữ liệu</string>
 	<string name="miuix_sbl_tracking_progress_labe_refreshed">Đã làm mới</string>
+	<string name="hk_cmas_extreme_alert_primary">Cảnh báo khẩn cấp</string>
+	<string name="hk_cmas_presidential_level_alert__secondary">Cảnh báo Khẩn cấp Cực độ</string>
+	<string name="hk_cmas_required_monthly_test_primary">Kiểm thử tin nhắn</string>
+	<string name="hk_cmas_extreme_alert_secondary">Cảnh báo Khẩn cấp</string>
+	<string name="hk_cmas_amber_alert_secondary">Cảnh báo Amber</string>
+	<string name="hk_cmas_presidential_level_alert_primary">Cảnh báo Khẩn cấp</string>
+	<string name="hk_cmas_required_monthly_test_secondary">Tin nhắn Kiểm thử</string>
+	<string name="hk_cmas_amber_alert_primary">Cảnh báo Amber</string>
 </resources>

@@ -369,4 +369,15 @@
 		<item>TDSCDMA/CDMA/EVDO/GSM/WCDMA</item>
 		<item>LTE/TDSCDMA/CDMA/EVDO/GSM/WCDMA</item>
 	</string-array>
+	<string-array name="bluetooth_map_versions">
+		<item>MAP 1.2 (Mặc định)</item>
+		<item>MAP 1.3</item>
+		<item>MAP 1.4</item>
+	</string-array>
+	<string-array name="config_volte_provision_error_on_publish_response">
+		<item>403 không được phép hiện diện</item>
+	</string-array>
+	<string-array name="config_rcs_provision_error_on_publish_response">
+		<item>404 không tìm thấy</item>
+	</string-array>
 </resources>
