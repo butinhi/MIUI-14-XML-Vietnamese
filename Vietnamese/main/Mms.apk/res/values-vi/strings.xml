@@ -1536,4 +1536,33 @@ Xem qua trang đề xuất!"</string>
 	<string name="miuix_appcompat_confirm_description">Xác nhận</string>
 	<string name="miuix_appcompat_action_mode_select_all">Chọn tất cả</string>
 	<string name="miuix_appcompat_select_all_description">Chọn tất cả</string>
+	<string name="pref_summary_collapse_ad_notification_mms_new">Nhóm các thông điệp quảng cáo và đánh dấu chúng là không quan trọng trong ngăn Thông báo</string>
+	<string name="ad_notification_title">Tin nhắn không quan trọng</string>
+	<string name="toast_not_show_storage_perm_req">Cho phép Nhắn tin truy cập bộ nhớ để có thể sử dụng tính năng này</string>
+	<string name="google_message_promo_content">Xiaomi khuyên bạn nên nâng cấp lên Messages của Google. Cài đặt ngay bây giờ để chia sẻ ảnh chất lượng cao, trò chuyện trên Wi-Fi và hơn thế nữa. &lt;font color="#B3000000"&gt;&lt;a href="https://support.google.com/messages/answer/6089066"&gt;Tìm hiểu thêm&lt;/a&gt;&lt;/font&gt;</string>
+	<string name="pref_summary_ad_mms_recognition">Đặt thông điệp quảng cáo trên một tab riêng biệt</string>
+	<string name="default_google_message_promo_content">"Bạn đã đặt Google Message làm ứng dụng nhắn tin mặc định của mình. Chạm \"Mở\" để bắt đầu nhắn tin."</string>
+	<string name="smart_message_upgrade_title">Cập nhật Chính sách Riêng tư của Tin nhắn thông minh</string>
+	<string name="installed_google_message_promo_title">Mở Message để trò chuyện tốt hơn</string>
+	<string name="privacy_state_revoked_content">Bằng cách tắt công tắc, bạn rút lại sự đồng ý của mình đối với Chính sách quyền riêng tư của Nhắn tin. Chúng tôi sẽ ngừng thu thập thông tin cá nhân của bạn. Thông tin cá nhân đã được thu thập và lưu giữ sẽ bị xóa trong khoảng thời gian cụ thể theo yêu cầu của luật hiện hành. Tin nhắn Mi và Tin nhắn thông minh Messaging cung cấp cần thu thập thông tin cá nhân cần thiết để cung cấp cho bạn các dịch vụ cơ bản. Việc bạn rút lại sự đồng ý đối với Chính sách quyền riêng tư của Nhắn tin sẽ được coi là từ chối chấp nhận các dịch vụ dựa trên thông tin cá nhân được thu thập do Tin nhắn Mi và Tin nhắn thông minh cung cấp.</string>
+	<string name="system_permission_declare_privacy_link">Để hiểu đầy đủ các quyền của bạn với tư cách là người dùng cũng như cách chúng tôi sử dụng dữ liệu của bạn, hãy đọc và đồng ý với %1s của chúng tôi.</string>
+	<string name="web_content_invalid_hint">Việc trưng bày mặt hàng này bị hạn chế bởi luật và quy định của địa phương</string>
+	<string name="permission_retry_dialog_msg">Nhắn tin cần có quyền để có thể hoạt động bình thường. Để cung cấp các quyền cần thiết, chạm \"Cài đặt\", chọn \"Quyền ứng dụng\", và cho phép ứng dụng truy cập điện thoại, SMS, và liên hệ.</string>
+	<string name="privacy_state_revoked_synopsis">Bằng cách tắt công tắc, bạn rút lại sự đồng ý của mình đối với Chính sách Riêng tư của Nhắn tin.</string>
+	<string name="pref_group_ad_mms_recognition">Nhóm các thông điệp quảng cáo</string>
+	<string name="message_cannot_send_sim_unavailable">"Không thể gửi tin nhắn.
+Kiểm tra thẻ SIM của bạn."</string>
+	<string name="message_cannot_send_air_mode">"Không thể gửi tin nhắn.
+Tắt Chế độ máy bay trước."</string>
+	<string name="toast_not_show_microphone_perm_req">Cho phép Nhắn tin sử dụng micrô để có thể sử dụng tính năng này</string>
+	<string name="pref_summary_enable_classify">Di chuyển các tin nhắn quảng cáo và tài chính sang các tab riêng biệt</string>
+	<string name="pref_title_enable_classify">Tự động nhóm các tin nhắn</string>
+	<string name="message_failed_and_feedback">Có lỗi xảy ra. &lt;font color="#1c86ee"&gt;Báo cáo vấn đề này&lt;/font&gt;.</string>
+	<string name="installed_google_message_promo_content">Xiaomi khuyến nghị sử dụng Tin nhắn của Google. Mở Tin nhắn để chia sẻ ảnh chất lượng cao, trò chuyện trên Wi-Fi, v.v.</string>
+	<string name="smart_msg_upgrade_main_purpose">"Nhắn tin Thông minh hiện hoạt động với MMS. Bạn sẽ có thể sử dụng nhiều dịch vụ hơn do người gửi cung cấp cũng như nhận tin nhắn ở các định dạng mới."</string>
+	<string name="message_failed_and_cotanct_operator">Có lỗi xảy ra. &lt;font color="#1c86ee"&gt;Liên hệ nhà mạng&lt;/font&gt;.</string>
+	<string name="pref_title_ad_mms_recognition">Nhận ra thông điệp khuyến mại</string>
+	<string name="enable_classify_tip_dialog_content">Thao tác này sẽ khởi chạy lại ứng dụng Nhắn tin. Vẫn tiếp tục?</string>
+	<string name="toast_not_show_camera_perm_req">Cho phép Nhắn tin sử dụng máy ảnh để có thể sử dụng tính năng này</string>
+	<string name="google_message_promo_title">Nâng cấp ứng dụng nhắn tin của bạn</string>
 </resources>

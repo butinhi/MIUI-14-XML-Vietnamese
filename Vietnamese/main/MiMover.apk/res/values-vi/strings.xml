@@ -919,4 +919,5 @@ Các bước: Mở APP WeChat&gt;My&gt;Cài đặt&gt;Chung&gt;Sao lưu và di c
 	<string name="summary_request_alert_window_prem">Mi Mover cần quyền này để đảm bảo sự ổn định của quá trình chuyển.</string>
 	<string name="summary_request_write_settings_prem">Mi Mover cần quyền này để bật Wi-Fi và tạo điểm phát để chuyển tệp.</string>
 	<string name="waiting_restore_aod">Đang khôi phục Màn hình luôn bật…</string>
+	<string name="host_new_device_hint">Tên địa phương</string>
 </resources>

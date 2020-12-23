@@ -215,4 +215,21 @@
 	<string name="sound_transmission_continue">Tiếp tục</string>
 	<string name="sound_transmission_confirm">Cho phép</string>
 	<string name="sound_transmission_stop">Tạm dừng</string>
+	<string name="sound_transmission_start">Bắt đầu</string>
+	<string name="sound_transmission_processing">Micro</string>
+	<string name="sound_transmission_dialog_message">Trợ lý giọng nói</string>
+	<string name="sound_transmission_cancel">Hủy</string>
+	<string name="sound_effect_hall">Đại sảnh</string>
+	<string name="sound_transmission_prompt">Khi sử dụng micrô không dây, cần bật chức năng Bluetooth. Cho phép?</string>
+	<string name="sound_effect_theater">Rạp hát</string>
+	<string name="sound_transmission_function_generalize">Có thể truyền âm thanh điện thoại di động đến thiết bị Bluetooth để phát lại</string>
+	<string name="sound_transmission_end">Kết thúc</string>
+	<string name="sound_transmission_device">Thiết bị</string>
+	<string name="sound_transmission_title">Micro không dây</string>
+	<string name="sound_transmission_dialog_title">Bật Bluetooth</string>
+	<string name="transmission_volume_option_title">Âm lượng micro</string>
+	<string name="sound_effect_original">Âm thanh gốc</string>
+	<string name="sound_effect_room">Phòng</string>
+	<string name="sound_transmission_scenes">Chuyển cảnh</string>
+	<string name="music_headset_effect_harman_kardon_summary">Âm thanh chuyên nghiệp được chứng nhận</string>
 </resources>

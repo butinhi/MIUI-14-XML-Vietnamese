@@ -767,4 +767,6 @@ sau khi Sức khỏe Mi phân tích đủ dữ liệu"</string>
 	<string name="chinese_symbol_animals_dog">Tuất</string>
 	<string name="pm">CH</string>
 	<string name="the_fifth_day">Ngày Thứ năm</string>
+	<string name="xiaomi_market_sdk_update_dialog_ok">Cập nhật</string>
+	<string name="xiaomi_market_sdk_update_dialog_cancel">Lần tới</string>
 </resources>

@@ -1463,4 +1463,38 @@ Chờ đến khi đồng bộ hoàn toàn hoặc xem tin nhắn trên máy tính
 	<string name="message_all_body">Toàn văn</string>
 	<string name="expand_button_title">Nâng cao</string>
 	<string name="copy">Sao chép</string>
+	<string name="wps_card_tips">Tìm thấy đường dẫn chia sẻ từ \"%s\"</string>
+	<string name="train_card_title">Đã mua vé tàu thành công</string>
+	<string name="pdf_save_to">Đã lưu vào</string>
+	<string name="train_card_title_alternate">Chờ mua vé tàu thành công</string>
+	<string name="drive_card_title">Liên kết đĩa</string>
+	<string formatted="false" name="train_travel_refund_info">Phí hoàn trả ¥%s，Hoàn vé ¥%s</string>
+	<string name="invoice_card_save">Lưu hóa đơn</string>
+	<string name="toastbar_calendar_and_contacts_permission_switch_allow_only_using">Lịch biểu và thông tin liên hệ không thể được đồng bộ hóa trong thời gian thực, vui lòng đặt các quyền liên quan thành "Luôn cho phép"</string>
+	<string name="app_uninstall_content">Email là một ứng dụng hệ thống MIUI. Sau khi gỡ cài đặt, bạn sẽ không thể thêm tài khoản email, gửi và nhận email cũng như đồng bộ hóa lịch email.</string>
+	<string name="train_card_title_change_arrival">Đã đổi vé tàu thành công</string>
+	<string name="toastbar_contacts_permission_switch_allow_only_using">Thông tin liên hệ không thể được đồng bộ hóa theo thời gian thực, vui lòng đặt quyền liên hệ thành "Luôn cho phép"</string>
+	<string name="open_pdf_error">Không mở được tệp PDF. Vui lòng tải xuống các công cụ mở PDF khác và thử lại sau.</string>
+	<string name="invoice_card_buyer">Người mua</string>
+	<string name="account_settings_only_notify_inbox">Chỉ đẩy thư hộp thư đến</string>
+	<string name="invoice_card_seller">Người bán</string>
+	<string name="wps_card_title">Tài liệu Kingsoft</string>
+	<string name="app_uninstall_title">Gỡ cài đặt \"Email\"?</string>
+	<string name="drive_card_button_tips">Sao chép mã đã trích xuất và nhận nội dung được chia sẻ</string>
+	<string name="login_err_outlook_msg">"%s
+Vui lòng xác nhận xem mật khẩu ứng dụng đã được bật chưa, nếu đã bật bạn hãy truy cập trang web của Microsoft để đặt lại mật khẩu ứng dụng"</string>
+	<string name="pdf_save_no_body">Chờ văn bản tải thành công và thử lại</string>
+	<string name="drive_card_tips">Tìm thấy đường dẫn chia sẻ từ %s</string>
+	<string name="toastbar_calendar_permission_switch_allow_only_using">Lịch email không thể được đồng bộ hóa theo thời gian thực, vui lòng đặt quyền lịch thành "Luôn cho phép"</string>
+	<string name="invoice_card_open">Mở hóa đơn</string>
+	<string name="train_card_title_refund">Hoàn vé tàu thành công</string>
+	<string name="drive_card_code">Mã trích xuất</string>
+	<string name="wps_card_button_tips">Mở Tài liệu Kingsoft</string>
+	<string name="contain_view_all_body">Xem toàn bộ nội dung tin nhắn</string>
+	<string name="pdf_save_error">Nội dung quá lớn, không thể xuất dưới dạng tệp PDF</string>
+	<string name="train_card_title_change">Đã đổi vé tàu thành công</string>
+	<string name="bottom_bar_more_pdf">Xuất thành PDF</string>
+	<string name="invoice_card_title">Hóa đơn điện tử</string>
+	<string name="sms_not_found_tip">Không thể khởi động ứng dụng SMS hệ thống, vui lòng khởi động ứng dụng SMS theo cách thủ công và gửi SMS xác minh.</string>
+	<string name="webview_not_found">Không thể mở trang vì không tìm thấy thành phần WebView.</string>
 </resources>

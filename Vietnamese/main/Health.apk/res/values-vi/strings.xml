@@ -1773,4 +1773,6 @@ Các thử nghiệm của chúng tôi cho thấy rằng phương pháp này đo 
 	<string name="course_player_start">Tiếp tục</string>
 	<string name="MediaControlView_video_quality_auto_text">Tự động</string>
 	<string name="mcv2_seek_bar_desc">Tiến trình phát lại</string>
+	<string name="course_player_stop_dialog_cancel">Kết thúc</string>
+	<string name="course_player_stop">Kết thúc</string>
 </resources>
