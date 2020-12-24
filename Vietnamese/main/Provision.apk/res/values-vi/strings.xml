@@ -287,4 +287,9 @@ Bạn cần đọc và đồng ý với Chính sách Riêng tư Mint Keyboard tr
 	<string name="wc_double_check_agree">Thử</string>
 	<string name="wc_dialog_agree">Đồng ý</string>
 	<string name="wc_double_check_reject">Không, cảm ơn</string>
+	<string name="wc_double_check_summary">Bạn có thể bật Tạp chí hình nền để xem nó có phù hợp với bạn không. Hãy nhớ rằng bạn luôn có thể bật và tắt Tạp chí hình nền trong Cài đặt &gt; Màn hình khóa.</string>
+	<string name="wc_dialog_title">Màn hình khóa được mô phỏng lại</string>
+	<string name="wc_double_check_title">Thử Tạp chí hình nền</string>
+	<string name="wc_notice_link_announcement_summary">"Đọc và đồng ý &lt;a href=\"%1$s\"&gt;Chính sách Riêng tư&lt;/a&gt; và &lt;a href=\"%2$s\"&gt;Thỏa thuận Người dùng&lt;/a&gt; của nhà cung cấp nội dung bên thứ ba trước khi sử dụng tính năng này."</string>
+	<string name="wc_dialog_summary">Tạp chí hình nền cung cấp hình ảnh tuyệt đẹp và những câu chuyện thú vị lên Màn hình khóa của bạn hàng ngày.</string>
 </resources>
