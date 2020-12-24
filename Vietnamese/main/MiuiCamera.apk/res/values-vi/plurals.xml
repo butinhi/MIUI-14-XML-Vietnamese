@@ -24,4 +24,13 @@
 	<plurals name="accessibility_vv_duartion">
 		<item quantity="other">Thời lượng: %d giây</item>
 	</plurals>
+	<plurals name="fastmotion_pro_min_unit">
+		<item quantity="other">%1$d phút</item>
+	</plurals>
+	<plurals name="live_workspace_delete_dialog_title">
+		<item quantity="other">Xóa %1$d bản nháp?</item>
+	</plurals>
+	<plurals name="fastmotion_pro_sec_unit">
+		<item quantity="other">%1$d giây</item>
+	</plurals>
 </resources>

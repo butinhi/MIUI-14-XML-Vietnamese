@@ -182,4 +182,16 @@
 	<plurals name="call_remove_exception_numbers_confirm">
 		<item quantity="other">%d số sẽ bị xóa.</item>
 	</plurals>
+	<plurals name="bh_day">
+		<item quantity="other">" ngày"</item>
+	</plurals>
+	<plurals name="bh_minute">
+		<item quantity="other">" phút"</item>
+	</plurals>
+	<plurals name="bh_hour">
+		<item quantity="other">" giờ"</item>
+	</plurals>
+	<plurals name="search_group_contacts_result">
+		<item quantity="other">%s kết quả</item>
+	</plurals>
 </resources>

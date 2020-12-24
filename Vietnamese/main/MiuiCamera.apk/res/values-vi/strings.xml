@@ -1605,7 +1605,7 @@ In dễ dàng trên khổ A4"</string>
 	<string name="ultra_ai_pixel_photography_close_tip">AI %s Siêu nét tắt</string>
 	<string name="unsupported_microphones_3d_record_tips">"Âm thanh 3D không hỗ trợ micro ngoài"</string>
 	<string name="ambilight_intro_star_track_2">"Chụp bầu trời đầy sao trong thời gian dài có thể chụp được quỹ đạo của các ngôi sao. Đừng quên sử dụng chân máy! Chụp liên tục ít nhất %d phút để có cả ảnh và video."</string>
-	<string name="cta_user_tips">&lt;Data&gt;Để hiểu đầy đủ quyền của bạn với tư cách người dùng cũng như cách chúng tôi sử dụng dữ liệu của bạn, đọc và đồng ý với &amp;lt;a href =%1$s&amp;gt;Thỏa thuận Người dùng&amp;lt;/a&amp;gt; và &amp;lt;a href =%2$s&amp;gt;Chính sách Riêng tư&amp;lt;/a&amp;gt; của chúng tôi.&lt;/Data&gt;</string>
+	<string name="cta_user_tips">&lt;Data&gt;Để hiểu đầy đủ quyền của bạn với tư cách người dùng cũng như cách chúng tôi sử dụng dữ liệu của bạn, đọc và đồng ý với &lt;a href =%1$s&gt;Thỏa thuận Người dùng&lt;/a&gt; và &lt;a href =%2$s&gt;Chính sách Riêng tư&lt;/a&gt; của chúng tôi.&lt;/Data&gt;</string>
 	<string name="custom_watermark_tips_gen2">Lên tới %1$d ký tự tiếng Trung hoặc %2$d ký tự.</string>
 	<string name="lighting_neon">Bóng neon</string>
 	<string name="lighting_phantom">Bóng ma</string>

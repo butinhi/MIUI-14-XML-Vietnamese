@@ -7,4 +7,10 @@
 	<plurals name="miui_permission_detail">
 		<item quantity="other">%d quyền</item>
 	</plurals>
+	<plurals name="miui_app_privacy_permission_number">
+		<item quantity="other">&lt;Data&gt;&lt;font color=#0D84FF&gt;%d&lt;/font&gt; quyền riêng tư liên quan&lt;/Data&gt;</item>
+	</plurals>
+	<plurals name="miui_app_all_permission_number">
+		<item quantity="other">%d quyền</item>
+	</plurals>
 </resources>

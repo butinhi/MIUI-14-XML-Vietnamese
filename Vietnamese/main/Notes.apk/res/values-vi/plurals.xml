@@ -118,4 +118,10 @@
 		<item quantity="other">trong %d phút</item>
 		<item quantity="one">trong 1 phút</item>
 	</plurals>
+	<plurals name="pc_todo_search_result">
+		<item quantity="other">Tìm thấy %1$s tác vụ</item>
+	</plurals>
+	<plurals name="pc_notes_search_result">
+		<item quantity="other">Tìm thấy %1$s ghi chú</item>
+	</plurals>
 </resources>

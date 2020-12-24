@@ -222,4 +222,10 @@ Lưu ý: Các tập tin cũng sẽ bị xóa khỏi thiết bị này."</item>
 		<item quantity="other">trong %d phút</item>
 		<item quantity="one">trong 1 phút</item>
 	</plurals>
+	<plurals name="list_header_fans_count">
+		<item quantity="other">%d người theo dõi</item>
+	</plurals>
+	<plurals name="list_header_follow_count">
+		<item quantity="other">Đang theo dõi %d người</item>
+	</plurals>
 </resources>

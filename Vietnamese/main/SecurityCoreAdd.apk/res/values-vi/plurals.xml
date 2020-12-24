@@ -16,4 +16,7 @@
         <item quantity="other">Tìm %d ứng dụng</item>
         <item quantity="one">Tìm %d ứng dụng</item>
     </plurals>
+	<plurals name="xspace_guide_content">
+		<item quantity="other">Bạn có thể tạo &lt;font color=#0D84FF&gt;%d&lt;/font&gt; &lt;font&gt;ứng dụng kép&lt;/font&gt;</item>
+	</plurals>
 </resources>

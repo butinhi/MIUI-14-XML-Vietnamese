@@ -129,4 +129,10 @@
 	<plurals name="notification_checker_installed_apk_text">
 		<item quantity="other">Xóa %d gói cài đặt</item>
 	</plurals>
+	<plurals name="install_find_application">
+		<item quantity="other">Tìm kiếm trong %d ứng dụng</item>
+	</plurals>
+	<plurals name="install_find_application_num">
+		<item quantity="other">Tìm thấy %d ứng dụng</item>
+	</plurals>
 </resources>

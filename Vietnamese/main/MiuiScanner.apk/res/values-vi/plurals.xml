@@ -12,4 +12,7 @@
 	<plurals name="are_you_sure_you_want_delete_file">
 		<item quantity="other">Xóa %1$d tệp ngay?</item>
 	</plurals>
+	<plurals name="document_duplicate_data_tip">
+		<item quantity="other">Đã nhập thành công (%1$d bản sao đã được lọc)</item>
+	</plurals>
 </resources>

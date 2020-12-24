@@ -78,4 +78,13 @@
 	<plurals name="mediation_animate_close_after">
 		<item quantity="other">%s giây còn lại</item>
 	</plurals>
+	<plurals name="s_forward_tip">
+		<item quantity="other">%1$s giây</item>
+	</plurals>
+	<plurals name="s_double_tap_forward">
+		<item quantity="other">Chạm hai lần để tua đi %d giây</item>
+	</plurals>
+	<plurals name="s_double_tap_backward">
+		<item quantity="other">Chạm hai lần để tua lại %d giây</item>
+	</plurals>
 </resources>

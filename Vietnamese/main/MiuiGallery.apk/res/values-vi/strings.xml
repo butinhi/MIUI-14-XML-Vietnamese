@@ -597,7 +597,7 @@ Chụp nhiều ảnh bạn của bạn hơn!"</string>
  để hoạt động bình thường, chạm \"Đặt\" để truy cập Quyền."</string>
     <string name="grant_permission_title">Cho phép truy cập</string>
     <string name="grant_permission_unlock_and_set">Mở khóa và đặt</string>
-    <string name="has_invalid_recipient">Người nhận không hợp lệ: %1$s&amp;gt</string>
+    <string name="has_invalid_recipient">Người nhận không hợp lệ: %1$s</string>
     <string name="have_known">Tôi biết</string>
     <string name="hidden_album_display_name">Album ẩn</string>
     <string name="home_menu_cleaner">Giải phóng dung lượng</string>

@@ -64,4 +64,19 @@
 		<item quantity="other">trong %d phút</item>
 		<item quantity="one">trong 1 phút</item>
 	</plurals>
+	<plurals name="clipboard_read_ai_deny_more">
+		<item quantity="other">Đã chặn %2$d lần thử truy cập khay nhớ tạm từ %1$s</item>
+	</plurals>
+	<plurals name="clipboard_read_allow_more">
+		<item quantity="other">%1$s truy cập mục trong khay nhớ tạm %2$d lần</item>
+	</plurals>
+	<plurals name="perm_manager_suggest_allow_content">
+		<item quantity="other">"Bạn đã cho phép %2$s truy cập khay nhớ tạm %1$d lần. Bạn có muốn luôn luôn cho phép %3$s truy cập khay nhớ tạm?"</item>
+	</plurals>
+	<plurals name="clipboard_ai_allow_more">
+		<item quantity="other">Đã cho phép %1$s tự động truy cập các mục trong khay nhớ tạm %2$d lần</item>
+	</plurals>
+	<plurals name="perm_manager_suggest_deny_content">
+		<item quantity="other">"Bạn vừa hạn chế truy cập khay nhớ tạm của %2$s %1$d lần. Hạn chế vĩnh viễn truy cập khay nhớ tạm của %3$s?"</item>
+	</plurals> 
 </resources>

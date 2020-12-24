@@ -143,4 +143,22 @@
 		<item quantity="other">Hãy thử lại sau %d giây.</item>
 		<item quantity="one">Hãy thử lại sau 1 giây.</item>
 	</plurals>
+	<plurals name="snoozeMinuteOptions">
+		<item quantity="other">%d phút</item>
+	</plurals>
+	<plurals name="user_limit_reached_message">
+		<item quantity="other">Bạn có thể thêm tới %d người dùng.</item>
+		<item quantity="one">Chỉ có thể tạo một người dùng.</item>
+	</plurals>
+	<plurals name="snoozeHourOptions">
+		<item quantity="other">%d giờ</item>
+	</plurals>
+	<plurals name="kg_password_default_pin_message_multi_sim">
+		<item quantity="other">Nhập PIN SIM %1$d, bạn còn %2$d lần thử.</item>
+		<item quantity="one">Nhập PIN SIM %1$d, bạn còn %2$d lần thử trước khi phải liên hệ nhà mạng để mở khóa thiết bị.</item>
+	</plurals>
+	<plurals name="kg_password_wrong_pin_code_multi_sim">
+		<item quantity="other">Sai mã PIN SIM %1$d, bạn còn %2$d lần thử.</item>
+		<item quantity="one">Sai mã PIN SIM %1$d, bạn còn %2$d lần thử trước khi phải liên hệ nhà mạng để mở khóa thiết bị.</item>
+	</plurals>
 </resources>

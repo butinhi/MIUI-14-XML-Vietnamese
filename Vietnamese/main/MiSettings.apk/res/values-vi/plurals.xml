@@ -154,4 +154,7 @@
 	<plurals name="usage_new_home_total_unlocks_new">
 		<item quantity="other">Đã mở khóa %1$d lần trong %2$s</item>
 	</plurals>
+	<plurals name="usage_state_unlock_count_new">
+		<item quantity="other">Trung bình %.2f lần</item>
+	</plurals>
 </resources>

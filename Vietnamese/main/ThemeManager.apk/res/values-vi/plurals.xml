@@ -161,4 +161,10 @@
 	<plurals name="anonymous_resource_view">
 		<item quantity="other">"%1$d mục chưa được thêm vào tài khoản của bạn"</item>
 	</plurals>
+	<plurals name="exo_controls_rewind_by_amount_description">
+		<item quantity="other">Tua lại %d giây</item>
+	</plurals>
+	<plurals name="exo_controls_fastforward_by_amount_description">
+		<item quantity="other">Tua đi %d giây</item>
+	</plurals>
 </resources>

@@ -12,4 +12,7 @@
 	<plurals name="fast_connect_reset_nzbt">
 		<item quantity="other">Nhấn giữ nút trong %1$s giây khi thiết bị tắt</item>
 	</plurals>
+	<plurals name="fast_connect_reset_common_seconds">
+		<item quantity="other">Nhấn và giữ trong %1$d giây để đặt lại</item>
+	</plurals>
 </resources>

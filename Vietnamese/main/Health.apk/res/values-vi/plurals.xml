@@ -196,4 +196,82 @@
 	<plurals name="birthday_format">
 		<item quantity="other">(%1$d tuổi)</item>
 	</plurals>
+	<plurals name="sporting_content_calories">
+		<item quantity="other">"Bạn đã đốt %1$s Calo"</item>
+	</plurals>
+	<plurals name="unit_mins2">
+		<item quantity="other">" phút "</item>
+	</plurals>
+	<plurals name="sport_tts_riding_distance">
+		<item quantity="other">"Bạn đã đạp xe %s km"</item>
+	</plurals>
+	<plurals name="sporting_content_sec">
+		<item quantity="other">%1$d giây</item>
+	</plurals>
+	<plurals name="sporting_content_min">
+		<item quantity="other">%1$d phút</item>
+	</plurals>
+	<plurals name="sport_tts_goal_consume">
+		<item quantity="other">Còn %s Calo cần phải đốt cho đến khi bạn đạt mục tiêu</item>
+	</plurals>
+	<plurals name="sporting_content_walking_km">
+		<item quantity="other">"Bạn đã đi bộ %1$s km"</item>
+	</plurals>
+	<plurals name="sport_tts_goal_time">
+		<item quantity="other">Còn %s phút nữa cho đến khi bạn đạt mục tiêu</item>
+	</plurals>
+	<plurals name="unit_seconds">
+		<item quantity="other">" giây "</item>
+	</plurals>
+	<plurals name="days_in_period">
+		<item quantity="other">Thời lượng chu kỳ: %1$d ngày</item>
+	</plurals>
+	<plurals name="sporting_content_walking_stpe">
+		<item quantity="other">"Bạn đã đi %1$s bước"</item>
+	</plurals>
+	<plurals name="sport_tts_total_consume">
+		<item quantity="other">"Bạn đã đốt %s Calo"</item>
+	</plurals>
+	<plurals name="unit_group">
+		<item quantity="other">" chu kỳ"</item>
+	</plurals>
+	<plurals name="mens_offset_predict_menstrual_period">
+		<item quantity="other">Chu kỳ có thể sẽ bắt đầu sau %1$d ngày</item>
+	</plurals>
+	<plurals name="sporting_unit_calories">
+		<item quantity="other">%1$d Calo</item>
+	</plurals>
+	<plurals name="unit_hours">
+		<item quantity="other">" giờ "</item>
+	</plurals>
+	<plurals name="sport_tts_goal_distance">
+		<item quantity="other">Còn %s km cho đến khi bạn đạt mục tiêu</item>
+	</plurals>
+	<plurals name="sporting_unit_step">
+		<item quantity="other">bước</item>
+	</plurals>
+	<plurals name="sporting_content_running_km">
+		<item quantity="other">"Bạn đã chạy %1$s km"</item>
+	</plurals>
+	<plurals name="unit_mins">
+		<item quantity="other">" phút "</item>
+	</plurals>
+	<plurals name="days_in_menstrual_period">
+		<item quantity="other">Thời lượng chu kỳ: %1$d ngày</item>
+	</plurals>
+	<plurals name="group_unit">
+		<item quantity="other">%1$d chu kỳ</item>
+	</plurals>
+	<plurals name="sport_tts_walking_distance">
+		<item quantity="other">"Bạn đã đi bộ %s km"</item>
+	</plurals>
+	<plurals name="sporting_content_riding_km">
+		<item quantity="other">"Bạn đã đạp xe %1$s km"</item>
+	</plurals>
+	<plurals name="unit_hours2">
+		<item quantity="other">" giờ "</item>
+	</plurals>
+	<plurals name="sport_tts_running_distance">
+		<item quantity="other">"Bạn đã chạy %s km"</item>
+	</plurals>
 </resources>

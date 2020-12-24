@@ -156,4 +156,10 @@
 	<plurals name="agenda_countdown_day">
 		<item quantity="other">· Trong %1$d ngày</item>
 	</plurals>
+	<plurals name="app_course_to_start">
+		<item quantity="other">Bắt đầu sau %1$d phút</item>
+	</plurals>
+	<plurals name="app_express_settings_title_2">
+		<item quantity="other">Đã thêm %d số điện thoại</item>
+	</plurals>
 </resources>
