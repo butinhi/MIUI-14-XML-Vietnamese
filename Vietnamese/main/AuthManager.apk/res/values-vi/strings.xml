@@ -749,4 +749,9 @@ Bạn cần phải cài đặt phiên bản MIUI của nhà phát triển để 
 	<string name="clipboard_read_deny_dialog_title">Hạn chế truy cập vào khay nhớ tạm của %1$s</string>
 	<string name="clipboard_read_ai_deny_once">Hạn chế truy cập vào khay nhớ tạm của %1$s</string>
 	<string name="forbid_notice_me">Dừng thông báo</string>
+	<string name="miuix_appcompat_select_all">Chọn tất cả</string>
+	<string name="keep_blur_location">Tiếp tục mở</string>
+	<string name="stop_blur_location">Tắt</string>
+	<string name="miuix_appcompat_deselect_all">Bỏ chọn</string>
+	<string name="miuix_appcompat_select_item">Chọn mục</string>
 </resources>

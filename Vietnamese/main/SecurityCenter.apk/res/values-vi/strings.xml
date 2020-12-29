@@ -4641,4 +4641,13 @@ Chuyển đổi giữa các ký tự khác nhau và các hiệu ứng đặc bi�
 	<string name="permission_instruction_write_settings">Quyền này cho phép các ứng dụng sửa đổi cài đặt hệ thống. Các ứng dụng độc hại có thể sử dụng tính năng cấp quyền này với cài đặt hệ thống của bạn và ảnh hưởng đến việc sử dụng bình thường thiết bị của bạn.</string>
 	<string name="gb_voice_changer_setting_realtime_subtitle">Kiểm tra giọng nói của bạn thay đổi như thế nào trong thời gian thực</string>
 	<string name="special_perm_nfc_msg">Cho phép các ứng dụng thực hiện thanh toán không cần tiếp xúc</string>
+	<string name="dialog_skt_roaming_warning_ok">Đồng ý</string>
+	<string name="real_location_on">Định vị mờ: Tắt</string>
+	<string name="view_traffic_detail">Xem chi tiết</string>
+	<string name="real_location_off">Định vị mờ: Bật</string>
+	<string name="provision_skip_underline">Bỏ qua</string>
+	<string name="provision_next">Tiếp theo</string>
+	<string name="read_clipboard_ai_action_desc">"Thay vì chỉ cấp quyền khi bạn đang sử dụng ứng dụng, bạn sẽ nhận được thông báo mỗi khi ứng dụng truy cập khay nhớ tạm của bạn."</string>
+	<string name="provision_back">Quay lại</string>
+	<string name="dialog_skt_roaming_warning_cancel">Không đồng ý</string>
 </resources>

@@ -318,4 +318,5 @@
 	<string name="ant_tuner_debug_bpi_binary">Nhị phân</string>
 	<string name="clk_quality_at_result_title_result">Kết quả</string>
 	<string name="system_update">Cập nhật hệ thống</string>
+	<string name="hqa_nfc_listen">Nghe</string>
 </resources>

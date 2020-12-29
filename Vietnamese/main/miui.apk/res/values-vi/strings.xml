@@ -393,4 +393,7 @@
 	<string name="recovery_progress">Đang khôi phục (%1$d/%2$d)…</string>
 	<string name="system_app_restore_failed_detail">"Không thể khôi phục các mục hệ thống. Kiểm tra cài đặt mạng của bạn và không khởi động lại hoặc tắt điện thoại cho đến khi tất cả các mục được khôi phục. Chạm nút bên dưới để thử lại."</string>
 	<string name="mobile_data_consume">Tải các mục yêu cầu sử dụng %1$s MB dữ liệu di động. Vẫn tải xuống?</string>
+	<string name="com_xiaomi_vipaccount">Cộng đồng Mi</string>
+	<string name="com_miui_virtualsim">Chuyển vùng Mi</string>
+	<string name="wait_for_wlan_china">Chờ Wi-Fi</string>
 </resources>

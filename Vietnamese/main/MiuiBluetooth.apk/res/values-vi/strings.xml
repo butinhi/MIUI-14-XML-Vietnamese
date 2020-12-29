@@ -748,4 +748,6 @@ Bất kỳ người dùng nào cũng có thể thay mặt cho tất cả ngườ
 	<string name="headset_battery_fw_failed">Pin yếu</string>
 	<string name="get_target_info">Lấy thông tin đích</string>
 	<string name="wifi_security_wapi_certificate">Chứng chỉ WAPI</string>
+	<string name="headset_finish_fw">Đã cập nhật thành công</string>
+	<string name="headset_update_ok">Xong</string>
 </resources>

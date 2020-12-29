@@ -1572,4 +1572,5 @@ Bạn sẽ thấy ảnh mới mỗi giờ."</string>
 	<string name="boot_audio_dialog_content">Âm thanh khởi động đã tắt. Bật lại nó và áp dụng âm thanh này?</string>
 	<string name="uninstall_theme_description">"Chủ đề là một ứng dụng hệ thống. Nó cung cấp hình nền và nhiều tùy chọn tùy biến. Bạn vẫn sẽ có thể sử dụng Chủ đề qua Cài đặt sau khi bạn xóa Lối tắt Màn hình chính."</string>
 	<string name="restore_icon_later">Bạn có thể thêm lại Lối tắt Màn hình chính trong Cài đặt</string>
+	<string name="personalize_font_demo_content">Aa</string>
 </resources>

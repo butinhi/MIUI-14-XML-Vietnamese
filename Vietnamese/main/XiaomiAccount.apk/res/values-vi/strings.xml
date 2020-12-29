@@ -756,4 +756,9 @@ Hãy chắc chắn bạn nhớ tất cả câu trả lời."</string>
 	<string name="passport_uplink_send_sms_hint">"Chạm \"Gửi\" sau khi bạn được chuyển hướng đến trang với một tin nhắn soạn sẵn."</string>
 	<string name="passport_uplink_sms_send_cancel">Đã hủy gửi tin nhắn liên kết</string>
 	<string name="passport_uplink_suggest_dialog_msg">"Không nhận được mã. Sử dụng tin nhắn liên kết trả phí?"</string>
+	<string name="passport_registered_phone_num_v2">Số điện thoại</string>
+	<string name="provision_skip_underline">Bỏ qua</string>
+	<string name="provision_next">Tiếp theo</string>
+	<string name="download_file">Đang tải xuống %s</string>
+	<string name="provision_back">Quay lại</string>
 </resources>

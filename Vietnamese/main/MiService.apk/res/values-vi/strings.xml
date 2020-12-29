@@ -448,4 +448,8 @@
 	<string name="icon_add_description">Thêm một Lối tắt Màn hình chính</string>
 	<string name="icon_remove_description_title">Xóa \"Dịch vụ &amp; phản hồi\" khỏi Màn hình chính?</string>
 	<string name="icon_remove_description_content">"\"Dịch vụ &amp; phản hồi\" là một ứng dụng hệ thống. Bạn vẫn có thể sử dụng nó qua Cài đặt sau khi bạn xóa Lối tắt Màn hình chính."</string>
+	<string name="miui_main_mirror_tab_desc1">Tự động kết nối</string>
+	<string name="miui_main_back">Quay lại</string>
+	<string name="miui_main_privacy_title">Bảo vệ sự riêng tư của bạn</string>
+	<string name="miui_main_continue">Tiếp theo</string>
 </resources>

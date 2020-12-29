@@ -29,4 +29,6 @@
 	<string name="settings_clear_data_confirmation_description">"Nếu bạn xóa mật khẩu, bạn sẽ phải tự nhập chúng trong lần đăng nhập tới.
 Xóa mật khẩu?"</string>
 	<string name="auth_fingerprint_content_message_error">Không thể quét vân tay. Thử lại</string>
+	<string name="login_mi_account_alert">Lời thoại</string>
+	<string name="password_manager">Quản lý mật khẩu</string>
 </resources>

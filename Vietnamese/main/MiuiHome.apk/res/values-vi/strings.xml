@@ -668,4 +668,6 @@
 	<string name="recents_layout_style">Sắp xếp các mục trong Gần đây</string>
 	<string name="recents_layout_style_horizontal">Ngang</string>
 	<string name="recents_layout_style_vertical">Dọc</string>
+	<string name="icon_form">Biểu tượng</string>
+	<string name="icon_style">Kiểu bơi</string>
 </resources>

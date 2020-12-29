@@ -1986,4 +1986,7 @@ In dễ dàng trên khổ A4"</string>
 	<string name="center_mark">Dấu trung tâm</string>
 	<string name="accessibility_reference_line_text">Bảng điều chỉnh đường tham chiếu</string>
 	<string name="camcorder_tip_current_max_video_duration">Bạn có thể ghi đến %d ở độ phân giải hiện tại</string>
+	<string name="confirm">OK</string>
+	<string name="video_bokeh_zoom">Thu phóng</string>
+	<string name="warm_prompt">Mẹo</string>
 </resources>

@@ -998,4 +998,6 @@
 	<string name="notification_wechat_clean_middle_level_hint">Xóa tệp rác để nhận thông báo không có độ trễ</string>
 	<string name="notification_garbage_clean_size_found_hint">Đã đến lúc xóa rác!</string>
 	<string name="notification_wechat_clean_low_level_text">"Xóa rác WeChat"</string>
+	<string name="gb_global_icon_ad_card_title">Đề xuất cho bạn</string>
+	<string name="gb_global_icon_ad_card_btn">Nhận</string>
 </resources>

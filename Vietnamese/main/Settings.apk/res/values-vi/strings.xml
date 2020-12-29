@@ -11149,4 +11149,22 @@ Chức năng này chỉ nhận được địa chỉ MAC Wi-Fi của bạn để
 	<string name="dpp_scanner_summary">Đặt mã QR trong khung</string>
 	<string name="show_charging_in_non_lockscreen_animation">Hiển thị hoạt ảnh sạc sau khi thiết bị được mở khóa</string>
 	<string name="dpp_theme_title">Chia sẻ Wi-Fi</string>
+	<string name="haptic_fingerprint_unlock_16_content_description">Mở khóa vân tay</string>
+	<string name="haptic_preview">Trình diễn</string>
+	<string name="provision_skip_underline">Bỏ qua</string>
+	<string name="back">Quay lại</string>
+	<string name="flashback_status_open">BẬT</string>
+	<string name="sound_settings_tab_haptic">Chạm</string>
+	<string name="accessibility_haptic">Khả năng truy cập</string>
+	<string name="flashback_support_apps_title">Chọn ứng dụng để thêm từ bên dưới</string>
+	<string name="special_preview">Trình diễn</string>
+	<string name="flashback_status_close">TẮT</string>
+	<string name="switch_bootup_sound">Nhạc chuông khởi động</string>
+	<string name="bluetooth_blacklist_cancel_remove_device">Hủy</string>
+	<string name="system_touch">Phản hồi xúc giác</string>
+	<string name="haptic_generate_folder_08_content_description">Thư mục mới</string>
+	<string name="bluetooth_blacklist_remove_device">Bỏ chặn</string>
+	<string name="bluetooth_pairing_add_to_blackfile">Chặn</string>
+	<string name="sound_settings_tab_sound">Âm thanh</string>
+	<string name="haptic_generate_small_window_gestures_09_content_description">Chế độ lái xe MIUI</string>
 </resources>

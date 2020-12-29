@@ -379,4 +379,22 @@ Khu vực Mensae"</string>
 Mawrth Vallis"</string>
 	<string name="mars_title">Hành tinh đỏ</string>
 	<string name="fmt_time_minute">"m 'phút'"</string>
+	<string name="miuix_appcompat_search_input_description">Tìm kiếm</string>
+	<string name="xiaomi_market_sdk_update_dialog_ok">Cập nhật</string>
+	<string name="miuix_appcompat_action_mode_deselect_all">Bỏ chọn</string>
+	<string name="geometry_super_wallpaper_label">Hình học</string>
+	<string name="miuix_appcompat_deselect_all_description">Bỏ chọn tất cả</string>
+	<string name="weather_title">Thời tiết</string>
+	<string name="miuix_appcompat_confirm_description">Xác nhận</string>
+	<string name="xiaomi_market_sdk_update_dialog_cancel">Lần tới</string>
+	<string name="miuix_appcompat_action_mode_select_all">Chọn tất cả</string>
+	<string name="miuix_appcompat_select_all_description">Chọn tất cả</string>
+	<string name="geometry_title">Hình học</string>
+	<string name="miuix_appcompat_action_mode_title_empty">Chọn mục</string>
+	<string name="miuix_appcompat_actionbar_immersion_button_more_description">Thêm</string>
+	<string name="miuix_appcompat_delete_description">Xóa</string>
+	<string name="geometry_id">Hình học</string>
+	<string name="miuix_appcompat_search_action_mode_cancel">Hủy</string>
+	<string name="miuix_appcompat_cancel_description">Hủy</string>
+	<string name="weather_super_wallpaper_label">Thời tiết</string>
 </resources>

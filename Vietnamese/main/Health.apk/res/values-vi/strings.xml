@@ -1885,4 +1885,16 @@ Nếu bạn không muốn tham gia các lớp học được đề xuất, bạn
 	<string name="hr_report_regular_fast_desc">Nhịp tim nhanh hiện tại của bạn. Chơi thể thao nặng, uống rượu, lao động thể lực nặng, căng thẳng, lo lắng hoặc dùng một số loại thuốc có thể gây nhịp tim nhanh sinh lý, trong khi bệnh tim mạch, thiếu máu, cường giáp, thiếu oxy, suy tim và các bệnh khác có thể gây nhịp tim nhanh bệnh lý. Nếu bạn cảm thấy không khỏe, hãy hỏi ý kiến bác sĩ.</string>
 	<string name="altitude_pressure_hint">*Tính theo áp suất không khí, có một số sai số</string>
 	<string name="course_consume_title">Tiêu thụ</string>
+	<string name="sport_tts_1">một</string>
+	<string name="share_card_title_elliptical_trainer">Hình elip</string>
+	<string name="share_card_title_stair_climbing">Leo cầu thang</string>
+	<string name="sport_tts_2">hai</string>
+	<string name="share_card_title_free_training">Tập luyện tự do</string>
+	<string name="sport_tts_3">ba</string>
+	<string name="oauth_invalid">Phiên hết hạn. Đăng nhập lại.</string>
+	<string name="share_card_key_consume">Calo</string>
+	<string name="share_card_key_time">Thời lượng</string>
+	<string name="share_card_key_avg_pace">Tốc độ</string>
+	<string name="recog_permission_dialog_title">Yêu cầu quyền</string>
+	<string name="share_card_key_step">Bước</string>
 </resources>

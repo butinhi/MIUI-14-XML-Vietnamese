@@ -871,4 +871,17 @@ Cho phép Ghi chú ghi âm."</string>
 	<string name="pc_note_edit_insert_picture_from_phone">Chọn ảnh từ thiết bị di động</string>
 	<string name="doodle_setting_show_grid_background_desc">Hiển thị đường lưới doodle</string>
 	<string name="doodle_text_click_input_text">Bấm để nhập văn bản</string>
+	<string name="view_all_notes">Xem tất cả</string>
+	<string name="doodle_background_white">Trắng</string>
+	<string name="note_header_first_enter_guide">Kéo xuống để xem thêm</string>
+	<string name="menu_new_display_open">Mở trong cửa sổ mới</string>
+	<string name="quick_note_link_default_text">URL</string>
+	<string name="doodle_guide_dialog_skip">Bỏ qua</string>
+	<string name="float_note_title">Ghi chú </string>
+	<string name="pref_title_quick_note">Ghi chú nhanh</string>
+	<string name="menu_pc_open">Mở bằng chương trình máy tính</string>
+	<string name="action_to_link">Mở URL</string>
+	<string name="float_note_empty">Không có ghi chú</string>
+	<string name="frequently_click_tips">Quá nhanh! Chờ một hoặc hai phút rồi thử lại.</string>
+	<string name="save_single_excerpt">Lưu</string>
 </resources>

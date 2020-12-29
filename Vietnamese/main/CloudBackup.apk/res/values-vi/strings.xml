@@ -304,4 +304,7 @@ Không thể sao lưu"</string>
 Thử lại"</string>
 	<string name="cloud_backup_detail_frequence_every_7_day">Sao lưu mỗi %d ngày</string>
 	<string name="cloud_backup_detail_frequence_every_day">Sao lưu mỗi ngày</string>
+	<string name="provision_skip_underline">Bỏ qua</string>
+	<string name="provision_next">Tiếp theo</string>
+	<string name="provision_back">Quay lại</string>
 </resources>
