@@ -1987,4 +1987,17 @@ Gửi mã này cho người giám sát."</string>
 	<string name="file_space_not_enough_tip">Không đủ dung lượng lưu trữ. Giải phóng ít nhất %d MB và mở lại ứng dụng.</string>
 	<string name="tool_bar_notification_setting_title">Thanh công cụ trên Bảng thông báo</string>
 	<string name="tool_bar_notification_setting_sub_title">Hiển thị thanh công cụ trên Bảng thông báo</string>
+	<string name="open_settings">Cài đặt</string>
+	<string name="request_camera_permission_message">Dịch vụ này cần phải xin phép bạn như sau, chúng tôi sẽ tuân thủ nghiêm ngặt các luật liên quan để bảo vệ thông tin cá nhân của bạn: &lt;br&gt;&lt;br&gt;&lt;b&gt; Truy cập Máy ảnh: trải nghiệm dịch vụ ghi hình thời gian thực để cài đặt Ảnh đại diện &lt;/b&gt;&lt;br&gt;&lt;br&gt; Nếu bạn không đồng ý gọi các quyền trên, chức năng này sẽ không hoạt động đúng, nhưng nó sẽ không ảnh hưởng đến việc bạn sử dụng các chức năng cơ bản của ứng dụng này. Bạn có thể chọn tắt cuộc gọi cấp phép ở trên trong cài đặt hệ thống để rút lại sự đồng ý của bạn.</string>
+	<string name="access_denied_info">Quá nhiều lần thử. Chờ một vài phút rồi thử lại.</string>
+	<string name="library_android_database_sqlcipher_libraryDescription">Android SQLite API dựa trên SQLCipher</string>
+	<string name="plus_menu_rename_cant_empty">"Tên tệp không được trống"</string>
+	<string name="galleryplus_orientation_lock">Đã khóa xoay</string>
+	<string name="unknown_error_info">Lỗi không xác định</string>
+	<string name="library_android_database_sqlcipher_libraryName">SQLCipher cho Android</string>
+	<string name="i_know">Tôi biết</string>
+	<string name="network_timeout_info">Không thể kết nối tới mạng. Kiểm tra kết nối dữ liệu của bạn và thử lại.</string>
+	<string name="galleryplus_orientation_unlock">Đã mở khóa xoay màn hình</string>
+	<string name="ad_bar_notification_setting_title">Sự kiện</string>
+	<string name="network_error_info">Lỗi mạng đã xảy ra. Kiểm tra cài đặt mạng của bạn và thử lại.</string>
 </resources>

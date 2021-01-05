@@ -250,4 +250,8 @@ dd/MM"</string>
 	<string name="miui_lock_screen_date_two_lines_12">"EEEE
 dd/MM"</string>
 	<string name="wallpaper_group_more_system_wallpaper_title">Thêm hình nền hệ thống</string>
+	<string name="africaanimals_preview">Savanna</string>
+	<string name="arcticanimals_preview">The Arctic</string>
+	<string name="australiaanimals_preview">Australia</string>
+	<string name="amazonanimals_preview">Rừng nhiệt đới</string>
 </resources>

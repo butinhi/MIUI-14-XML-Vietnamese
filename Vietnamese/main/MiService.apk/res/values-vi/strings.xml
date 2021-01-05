@@ -452,4 +452,8 @@
 	<string name="miui_main_back">Quay lại</string>
 	<string name="miui_main_privacy_title">Bảo vệ sự riêng tư của bạn</string>
 	<string name="miui_main_continue">Tiếp theo</string>
+	<string name="miui_main_ring_australia">Australia</string>
+	<string name="miui_main_ring_arctic">The Arctic</string>
+	<string name="miui_main_ring_amazon">Rừng nhiệt đới</string>
+	<string name="miui_main_ring_africa">Savanna</string>
 </resources>

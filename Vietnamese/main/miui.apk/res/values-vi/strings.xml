@@ -396,4 +396,6 @@
 	<string name="com_xiaomi_vipaccount">Cộng đồng Mi</string>
 	<string name="com_miui_virtualsim">Chuyển vùng Mi</string>
 	<string name="wait_for_wlan_china">Chờ Wi-Fi</string>
+	<string name="experience_new_system_app">Xem tính năng mới!</string>
+	<string name="tap_to_update_system_app">Chạm để cập nhật ứng dụng hệ thống</string>
 </resources>

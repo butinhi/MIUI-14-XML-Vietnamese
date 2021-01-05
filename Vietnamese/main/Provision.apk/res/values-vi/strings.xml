@@ -292,4 +292,31 @@ Bạn cần đọc và đồng ý với Chính sách Riêng tư Mint Keyboard tr
 	<string name="wc_double_check_title">Thử Tạp chí hình nền</string>
 	<string name="wc_notice_link_announcement_summary">"Đọc và đồng ý &lt;a href=\"%1$s\"&gt;Chính sách Riêng tư&lt;/a&gt; và &lt;a href=\"%2$s\"&gt;Thỏa thuận Người dùng&lt;/a&gt; của nhà cung cấp nội dung bên thứ ba trước khi sử dụng tính năng này."</string>
 	<string name="wc_dialog_summary">Tạp chí hình nền cung cấp hình ảnh tuyệt đẹp và những câu chuyện thú vị lên Màn hình khóa của bạn hàng ngày.</string>
+	<string name="abc_searchview_description_query">Tìm kiếm truy vấn</string>
+	<string name="abc_searchview_description_submit">Gửi truy vấn</string>
+	<string name="search_menu_title">Tìm kiếm</string>
+	<string name="abc_toolbar_collapse_description">Thu gọn</string>
+	<string name="abc_activitychooserview_choose_application">Chọn một ứng dụng</string>
+	<string name="item_lock_screen_password_only">Khóa màn hình</string>
+	<string name="abc_action_menu_overflow_description">Tùy chọn khác</string>
+	<string name="abc_shareactionprovider_share_with">Chia sẻ với</string>
+	<string name="abc_shareactionprovider_share_with_application">Chia sẻ với %s</string>
+	<string name="abc_searchview_description_search">Tìm kiếm</string>
+	<string name="abc_capital_off">TẮT</string>
+	<string name="abc_action_bar_up_description">Điều hướng lên trên</string>
+	<string name="abc_capital_on">BẬT</string>
+	<string name="boot_video_skip">Bỏ qua</string>
+	<string name="abc_search_hint">Tìm kiếm…</string>
+	<string name="msim_setting_default_voice">SIM mặc định cho cuộc gọi</string>
+	<string name="provision_next">Tiếp theo</string>
+	<string name="boot_video_replay">Phát lại</string>
+	<string name="abc_searchview_description_clear">Xóa truy vấn</string>
+	<string name="abc_action_bar_home_description">Điều hướng về trang chủ</string>
+	<string name="provision_skip_underline">Bỏ qua</string>
+	<string name="abc_searchview_description_voice">Tìm kiếm bằng giọng nói</string>
+	<string name="provision_back">Quay lại</string>
+	<string name="abc_activity_chooser_view_see_all">Xem tất cả</string>
+	<string name="msim_setting_default_data">SIM dữ liệu</string>
+	<string name="abc_action_mode_done">Xong</string>
+	<string name="service_security_over_r">Đọc và đồng ý với &lt;a href=%1$s&gt;Chính sách Riêng tư&lt;/a &gt; của chúng tôi trước khi sử dụng Bảo mật.&lt;br/&gt;&lt;br/&gt;Theo tiêu chuẩn Android 11, quyền một lần sẽ bị thu hồi trong vòng 5 giây sau khi ứng dụng tương ứng ngừng chạy. Nếu bạn mở ứng dụng trong khoảng thời gian ngắn này, quyền sẽ bị thu hồi sau đó.</string>
 </resources>

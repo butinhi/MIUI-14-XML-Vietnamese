@@ -31,4 +31,5 @@
 	<string name="not_resurge_title">Sống lại</string>
 	<string name="resurged_content">Thôi nào!</string>
 	<string name="resurged_title">Đã sống lại</string>
+	<string name="end_title">Thua</string>
 </resources>

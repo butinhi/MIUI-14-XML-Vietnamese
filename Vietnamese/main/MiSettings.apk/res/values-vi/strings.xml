@@ -741,4 +741,10 @@
 	<string name="animal_branch">Gia đình</string>
 	<string name="lion">Sư tử</string>
 	<string name="no_sound_summary">Không</string>
+	<string name="title_mix_match_sound">Hỗn hợp thiên nhiên</string>
+	<string name="area_australia">Australia</string>
+	<string name="nature_mix">Hỗn hợp thiên nhiên</string>
+	<string name="area_amazon">Rừng nhiệt đới</string>
+	<string name="area_arctic">The Arctic</string>
+	<string name="area_africa">Savanna</string>
 </resources>

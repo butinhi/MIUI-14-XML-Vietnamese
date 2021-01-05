@@ -366,4 +366,6 @@
 	<string name="enable_nfc_reverse">No longer reverse charging. NFC is back on.</string>
 	<string name="magic_window_toast">Nhân bản ứng dụng đã bật.</string>
 	<string name="disable_nfc">Đã tắt NFC để sạc không dây</string>
+	<string name="freeform_exchange_tip2">Kéo đến góc để hủy</string>
+	<string name="freeform_exchange_tip">Thả ra để mở ứng dụng</string>
 </resources>

@@ -4650,4 +4650,17 @@ Chuyển đổi giữa các ký tự khác nhau và các hiệu ứng đặc bi�
 	<string name="read_clipboard_ai_action_desc">"Thay vì chỉ cấp quyền khi bạn đang sử dụng ứng dụng, bạn sẽ nhận được thông báo mỗi khi ứng dụng truy cập khay nhớ tạm của bạn."</string>
 	<string name="provision_back">Quay lại</string>
 	<string name="dialog_skt_roaming_warning_cancel">Không đồng ý</string>
+	<string name="app_behavior_access_gallery_single">Ứng dụng này đã truy cập thư viện</string>
+	<string name="app_behavior_access_sociality">%1s đã truy cập tin nhắn trong ứng dụng truyền thông xã hội</string>
+	<string name="file_confirm_start_activity">"%s không được cho phép truy cập Thư viện và ứng dụng truyền thông xã hội. Ứng dụng này muốn truy cập tệp tin trên thiết bị để chia sẻ. Cho phép?"</string>
+	<string name="dialog_skt_roaming_warning_title">Thỏa thuận Chuyển vùng dữ liệu</string>
+	<string name="app_behavior_access_sociality_single">Ứng dụng này đã truy cập tin nhắn trong ứng dụng truyền thông xã hội</string>
+	<string name="app_behavior_delete_pic_single">Ứng dụng này vừa xóa vài mục khỏi Thư viện</string>
+	<string name="app_behavior_delete_pic">%1s vừa xóa vài mục khỏi thư viện</string>
+	<string name="dialog_skt_roaming_warning_message">"Đọc và đồng ý với điều kiện bên dưới để sử dụng chuyển vùng dữ liệu. Chuyển vùng dữ liệu quốc tế có thể tính phí. Nếu không có gói dữ liệu chuyển vùng, các khoản phí đáng kể có thể áp dụng cho các ứng dụng tự động cập nhật, chẳng hạn như các ứng dụng liên quan đến mạng xã hội, email và thời tiết.
+ * Khi bạn không đồng ý sử dụng chuyển vùng dữ liệu, chuyển vùng dữ liệu sẽ bị tắt.
+ * HD Voice được sử dụng làm mặc định trên các mạng được hỗ trợ.
+ * Chuyển vùng dữ liệu 5G chỉ khả dụng trong các mạng đối tác của chúng tôi.
+"</string>
+	<string name="app_behavior_access_gallery">%1s đã truy cập thư viện</string>
 </resources>

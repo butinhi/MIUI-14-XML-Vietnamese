@@ -3217,4 +3217,6 @@ Bất cứ người dùng nào cũng có thể cập nhật ứng dụng cho ng�
 	<string name="vonr_switch_summary">Sử dụng VoNR để cải thiện chất lượng gọi thoại</string>
 	<string name="vonr_switch_title">Sủ dụng VoNR</string>
 	<string name="stk_name">Công cụ SIM</string>
+	<string name="xcap_setting_summary">Chặn cuộc gọi, Thư thoại &amp; chuyển tiếp cuộc gọi và Cuộc gọi chờ</string>
+	<string name="xcap_setting_title">Cài đặt dịch vụ cuộc gọi</string>
 </resources>
