@@ -1108,4 +1108,10 @@ Gửi mã này cho người giám sát."</string>
 	<string name="chinese_symbol_animals_dog">Tuất</string>
 	<string name="pm">CH</string>
 	<string name="the_fifth_day">Ngày Thứ năm</string>
+	<string name="miuix_appcompat_select_all">Chọn tất cả</string>
+	<string name="miuix_appcompat_deselect_all">Bỏ chọn</string>
+	<string name="date_time_picker_dialog_title">Đặt ngày và giờ</string>
+	<string name="close">Đóng</string>
+	<string name="miuix_appcompat_select_item">Chọn mục</string>
+	<string name="send">Gửi</string>
 </resources>

@@ -430,4 +430,23 @@
 Việc nghe ở mức âm lượng cao trong thời gian dài có thể gây tổn thương thính giác của bạn."</string>
 	<string name="accessibility_back">Quay lại</string>
 	<string name="slider_view_content_description">Trượt lên để tắt nguồn hoặc trượt xuống để khởi động lại</string>
+	<string name="mtrl_badge_numberless_content_description">Thông báo mới</string>
+	<string name="mtrl_exceed_max_badge_number_content_description">Nhiều hơn %1$d thông báo mới</string>
+	<string name="character_counter_content_description">Ký tự đã nhập %1$d trên %2$d</string>
+	<string name="password_toggle_content_description">Hiển thị mật khẩu</string>
+	<string name="character_counter_overflowed_content_description">Vượt quá giới hạn ký tự %1$d trên %2$d</string>
+	<string name="item_view_role_description">Tab</string>
+	<string name="exposed_dropdown_menu_content_description">Hiển thị menu</string>
+	<string name="material_slider_range_start">Khoảng bắt đầu,</string>
+	<string name="error_icon_content_description">Lỗi</string>
+	<string name="clear_text_end_icon_content_description">Văn bản</string>
+	<string name="material_slider_range_end">Khoảng kết thúc,</string>
+	<string name="mtrl_chip_close_icon_content_description">Xóa %1$s</string>
+	<string name="icon_content_description">Biểu tượng hộp thoại</string>
+	<string name="quick_settings_pcmode_turn_off_description">"Màn hình điện thoại của bạn sẽ được hiển thị trên màn hình bên ngoài. Tắt chế độ PC?"</string>
+	<string name="quick_settings_pcmode_turn_on_description">"Màn hình máy tính của bạn sẽ được hiển thị trên màn hình bên ngoài. Bật chế độ PC?"</string>
+	<string name="dnd_popup_close_message">Tôi biết</string>
+	<string name="wireless_charging_tips_sub_message">Thiết bị còn lại phải hỗ trợ chuẩn sạc không dây Qi.</string>
+	<string name="dnd_popup_message">Bạn có thể bật chế độ DND để tắt tiếng cuộc gọi và thông báo mà không cần tắt âm thanh phương tiện.</string>
+	<string name="miui_toast_zen_to_dnd_when_lock">Cuộc gọi và thông báo sẽ bị tắt tiếng khi thiết bị bị khóa</string>
 </resources>

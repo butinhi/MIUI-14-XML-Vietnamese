@@ -456,4 +456,24 @@
 	<string name="miui_main_ring_arctic">The Arctic</string>
 	<string name="miui_main_ring_amazon">Rừng nhiệt đới</string>
 	<string name="miui_main_ring_africa">Savanna</string>
+	<string name="miui_main_control_center_desc">Hoặc chuyển thành phiên bản cũ trong Cài đặt &gt; Thông báo &amp; Trung tâm điều khiển</string>
+	<string name="miui_main_notes_title">Ghi chú thật hoàn hảo cho ý tưởng mới</string>
+	<string name="miui_main_mirror_tab_desc3">Chia sẻ tệp trong tích tắc</string>
+	<string name="miui_main_mirror_tab_desc2">Xem ảnh trên màn hình lớn hơn</string>
+	<string name="miui_main_ring_title">Âm thanh thông báo lấy cảm hứng từ thiên nhiên</string>
+	<string name="miui_main_control_center_title">Vuốt để chuyển giữa Bảng thông báo và Trung tâm điều khiển</string>
+	<string name="miui_main_mirror_title">Làm việc với máy tính</string>
+	<string name="miui_main_ring_mute_tips">"Không thể phát demo trong Chế độ Im lặng"</string>
+	<string name="miui_main_mirror_new_title">Điện thoại di động và máy tính, thông tin liền mạch</string>
+	<string name="miui_main_privacy_tab_desc3">Bảo vệ ảnh và cuộc trò chuyện của bạn</string>
+	<string name="miui_main_notes_tab_desc1">Nắm bắt suy nghĩ của bạn</string>
+	<string name="miui_main_update_success_title_12_5">Chào mừng đến với MIUI 12.5</string>
+	<string name="miui_main_privacy_tab_desc1">Bảo vệ khay nhớ tạm của bạn</string>
+	<string name="miui_main_notes_tab_desc2">Tạo bản đồ tư duy</string>
+	<string name="miui_main_privacy_tab_desc2">"Không chia sẻ vị trí chính xác"</string>
+	<string name="miui_main_control_center_open">Trung tâm điều khiển mới</string>
+	<string name="miui_main_notes_tab_desc3">Sáng tạo</string>
+	<string name="miui_main_update_end_title">Chào mừng đến với MIUI</string>
+	<string name="miui_main_ring_defalut">Sử dụng âm thanh thông báo hiện tại</string>
+	<string name="miui_main_ring_sub_title">Nhấn để phát các bản demo và chọn âm thanh thông báo</string>
 </resources>

@@ -884,4 +884,6 @@ Cho phép Ghi chú ghi âm."</string>
 	<string name="float_note_empty">Không có ghi chú</string>
 	<string name="frequently_click_tips">Quá nhanh! Chờ một hoặc hai phút rồi thử lại.</string>
 	<string name="save_single_excerpt">Lưu</string>
+	<string name="note_mindnote_entrance_icon_text_newversion">Tạo sơ đồ tư duy</string>
+	<string name="note_mindnote_entrance_hint_newversion">"Bắt đầu gõ "</string>
 </resources>

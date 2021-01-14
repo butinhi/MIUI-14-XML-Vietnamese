@@ -677,4 +677,9 @@ Vui lòng gửi mã này cho nhân viên kỹ thuật."</string>
 	<string name="not_support_upload_file_for_overseas_users">"Tải lên không khả dụng ngoài Trung Quốc Đại lục"</string>
 	<string name="exception_not_support_modify_for_overseas_user">"Tính năng này không khả dụng ngoài Trung Quốc Đại lục"</string>
 	<string name="stay_tuned">Đừng chuyển</string>
+	<string name="detail_download_path">Vị trí:</string>
+	<string name="detail_download_time">"Đã tải xuống: "</string>
+	<string name="delete_operation_record">Xóa bản ghi này?</string>
+	<string name="jump_to_directory">Mở thư mục</string>
+	<string name="recent_file">Gần đây</string>
 </resources>

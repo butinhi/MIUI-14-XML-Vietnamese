@@ -838,4 +838,10 @@ Bất kỳ người dùng nào cũng có thể thay mặt cho tất cả ngườ
 	<string name="media_transfer_wired_usb_device_name">Tai nghe có dây</string>
 	<string name="notification_incallservice_not_responding_title">%s dừng phản hồi</string>
 	<string name="notification_incallservice_not_responding_body">Cuộc gọi của bạn sử dụng ứng dụng điện thoại đi kèm thiết bị của bạn</string>
+	<string name="wifi_new_network_auto_connection_summary">Bật tự động kết nối tới WPA/WPA2‑PSK 5GHz SSID với định danh của mạng WPA/WPA2‑PSK 2GHz SSID trên sự khớp một phần SSID và BSSID</string>
+	<string name="wifi_new_network_auto_connection">Cầu SSID ‑ Tự động kết nối</string>
+	<string name="softap_beacon_protection">Bật bảo vệ báo hiệu SoftAp</string>
+	<string name="softap_beacon_protection_summary">Bật bảo vệ đèn hiệu SoftAp bằng Hotspot</string>
+	<string name="softap_ocv_summary">Bật SoftAp OCV bằng Hotspot</string>
+	<string name="softap_ocv">Bật SoftAp OCV</string>
 </resources>

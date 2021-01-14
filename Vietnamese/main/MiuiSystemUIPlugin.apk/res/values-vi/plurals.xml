@@ -55,4 +55,7 @@
 	<plurals name="controls_number_of_favorites">
 		<item quantity="other">Đã thêm %s điều khiển.</item>
 	</plurals>
+	<plurals name="mtrl_badge_content_description">
+		<item quantity="other">%d thông báo mới</item>
+	</plurals>
 </resources>

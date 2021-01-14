@@ -1897,4 +1897,24 @@ Nếu bạn không muốn tham gia các lớp học được đề xuất, bạn
 	<string name="share_card_key_avg_pace">Tốc độ</string>
 	<string name="recog_permission_dialog_title">Yêu cầu quyền</string>
 	<string name="share_card_key_step">Bước</string>
+	<string name="share_card_title_outdoor_hiking">Đi bộ đường dài %s</string>
+	<string name="share_card_title_treadmill">Máy chạy bộ %s</string>
+	<string name="share_card_title_running">Chạy %s</string>
+	<string name="recog_permission_dialog_content">Cho phép Sức khỏe Xiaomi truy cập thông tin hoạt động của bạn để lấy dữ liệu đếm bước chân.</string>
+	<string name="share_card_title_riding">Đạp xe %s</string>
+	<string name="share_card_title_outdoor_walking">Đi bộ %s</string>
+	<string name="share_card_title_rope_skipping">Nhảy dây %s</string>
+	<string name="share_card_key_groups">Khoảng thời gian</string>
+	<string name="share_card_title_walking">Đi bộ %s</string>
+	<string name="share_card_title_outdoor_running">Chạy %s</string>
+	<string name="share_card_title_indoor_running">Chạy %s</string>
+	<string name="share_card_title_open_swimming">Bơi trong nước %s</string>
+	<string name="share_card_title_pool_swimming">Hồ bơi %s</string>
+	<string name="share_card_title_climbing">Leo núi %s</string>
+	<string name="share_card_title_outdoor_riding">Đạp xe %s</string>
+	<string name="share_card_title_rowing_machine">Chèo xuồng %s</string>
+	<string name="share_card_title_indoor_rinding">Xe đạp tại chỗ %s</string>
+	<string name="hr_fp_detect_principle_desc_3">Các thử nghiệm của chúng tôi cho thấy rằng phương pháp này đo nhịp tim của bạn với sai số chỉ ≤3 BPM.</string>
+	<string name="share_card_title_swimming">Bơi %s</string>
+	<string name="share_card_title_cross_hiking">Đi bộ đường dài %s</string>
 </resources>

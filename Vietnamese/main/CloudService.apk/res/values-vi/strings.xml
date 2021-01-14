@@ -1083,4 +1083,7 @@ Thông tin vị trí có thể không được báo cáo khi kết nối mạng 
 	<string name="micloud_find_device_guide_micloud_sub_content_v2">Đồng bộ liên hệ, ảnh, ghi chú và nhiều thứ khác với Xiaomi Cloud</string>
 	<string name="provision_next">Tiếp theo</string>
 	<string name="micloud_dspt_provision_china_v2">Sử dụng Xiaomi Cloud để đồng bộ dữ liệu, định vị thiết bị của bạn, và chia sẻ mọi thứ với bạn bè.</string>
+	<string name="share_location_menu_create_shortcut">Lối tắt Màn hình chính</string>
+	<string name="retain_data_high_quality_photo_waring_title">"Hình ảnh chất lượng cao sẽ không có sẵn"</string>
+	<string name="retain_data_high_quality_photo_waring_message">Hình ảnh chất lượng cao sẽ bị xóa khỏi Thư viện của bạn sau khi bạn đăng xuất. Các tệp gốc tương ứng sẽ vẫn được lưu trữ trên đám mây. Bạn cũng có thể tải xuống các tệp gốc trước khi đăng xuất.</string>
 </resources>

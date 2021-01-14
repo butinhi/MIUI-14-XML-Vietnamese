@@ -1565,4 +1565,7 @@ Tắt Chế độ máy bay trước."</string>
 	<string name="enable_classify_tip_dialog_content">Thao tác này sẽ khởi chạy lại ứng dụng Nhắn tin. Vẫn tiếp tục?</string>
 	<string name="toast_not_show_camera_perm_req">Cho phép Nhắn tin sử dụng máy ảnh để có thể sử dụng tính năng này</string>
 	<string name="google_message_promo_title">Nâng cấp ứng dụng nhắn tin của bạn</string>
+	<string name="pref_summary_enable_ad_notification">Bật thông báo nhóm về tin nhắn khuyến mại trong Bảng Thông báo</string>
+	<string name="no_dialogue_yet">Chọn cuộc gội thoại</string>
+	<string name="pref_title_enable_ad_notification">Tin nhắn quảng cáo</string>
 </resources>

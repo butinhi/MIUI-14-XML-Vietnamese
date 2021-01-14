@@ -764,4 +764,5 @@ Hãy chắc chắn bạn nhớ tất cả câu trả lời."</string>
 	<string name="passport_login_other_phone">Sử dụng tài khoản khác</string>
 	<string name="passport_provision_input_email_register_prompt">Dữ liệu cá nhân của bạn sẽ được lưu trữ theo luật và quy định của khu vực bạn chọn.</string>
 	<string name="passport_provision_password_req_notice">&lt;xliff id="min_pwd_len" refersto="8"&gt;%1$d&lt;/xliff&gt;-&lt;xliff id="max_pwd_len" refersto="16"&gt;%2$d&lt;/xliff&gt; ký tự của ít nhất &lt;xliff id="min_pwd_type" refersto="2"&gt;%3$d&lt;/xliff&gt; loại dưới đây: chữ cái, chữ số, ký tự đặc biệt</string>
+	<string name="passport_login_other_way">Đăng nhập bằng cách khác</string>
 </resources>

@@ -750,4 +750,25 @@ Bất kỳ người dùng nào cũng có thể thay mặt cho tất cả ngườ
 	<string name="wifi_security_wapi_certificate">Chứng chỉ WAPI</string>
 	<string name="headset_finish_fw">Đã cập nhật thành công</string>
 	<string name="headset_update_ok">Xong</string>
+	<string name="headset_loss_notify_title">Mẹo chống mất tai nghe</string>
+	<string name="fast_connect_new_feture_title">Tính năng mới</string>
+	<string name="headset_device_sync_wait_connect">Trong quá trình đồng bộ hóa, vui lòng không vận hành thiết bị và chờ kết nối lại tự động</string>
+	<string name="headset_loss_notify_summary">Tai nghe của bạn không được đặt trong hộp sạc sau khi sử dụng, vui lòng xác nhận xem tai nghe bị thiếu</string>
+	<string name="headset_device_sync_donot_move_device">Không vận hành thiết bị trong khi đồng bộ hóa</string>
+	<string name="headset_device_error_box_close">Hộp sạc đã đóng</string>
+	<string name="headset_device_error_disconnect">Cả hai tai đều bị ngắt kết nối, vui lòng đóng nắp và mở nắp để nâng cấp lại</string>
+	<string name="headset_device_error_no_device">Không có thiết bị hoặc một thiết bị nào trong hộp sạc</string>
+	<string name="headset_device_error_single_device">Không thể nâng cấp chế độ một tai, vui lòng ghép nối lại</string>
+	<string name="fast_connect_same_accout_devices_connecting">Kết nối qua Mi Cloud Service...</string>
+	<string name="fast_connect_same_accout_devices_title">Đây là thiết bị khác của bạn được kết nối: %1$s</string>
+	<string name="fast_connect_new_feture_same_account">Cùng tài khoản không ghép nối</string>
+	<string name="fast_connect_same_account_content">Đăng nhập vào tài khoản Xiaomi của bạn, tai nghe sẽ được tự động lưu vào dịch vụ đám mây Xiaomi, và các thiết bị khác đã đăng nhập tài khoản này có thể bỏ qua quá trình ghép nối và kết nối trực tiếp với tai nghe.</string>
+	<string name="fast_connect_new_feture_sound_normalizer">Bộ chuẩn hóa âm thanh</string>
+	<string name="fast_connect_anti_lost_content">"Đã thêm lời nhắc khi tai nghe bị mất.
+Vui lòng kiểm tra chi tiết trong cài đặt."</string>
+	<string name="fast_connect_sound_normalizer_content">"Cuộc gọi thoại HD.
+Giao thức truyền tải băng thông cao."</string>
+	<string name="fast_connect_new_feture_anti_lost">Chống đánh mất</string>
+	<string name="bluetooth_enable_page_scan_summary">Tắt/bật trang quét thử nghiệm Bluetooth</string>
+	<string name="bluetooth_enable_page_scan">Bật trang quét Bluetooth</string>
 </resources>

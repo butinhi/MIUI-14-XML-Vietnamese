@@ -1959,4 +1959,14 @@ Nếu bạn không đồng ý sử dụng các dịch vụ nói trên, bạn s�
 	<string name="no_fans_empty_title">"Bạn chưa có người theo dõi"</string>
 	<string name="toast_cant_collect_mine_playlist">"Không thể thêm danh sách phát của bạn vào ưa thích"</string>
 	<string name="dialog_message_unfollow">Bỏ theo dõi người này?</string>
+	<string name="loading">Đang tải</string>
+	<string name="error_message_no_internet_connection">Không thể kết nối mạng. Vui lòng kiểm tra kết nối mạng của bạn và thử lại.</string>
+	<string name="moe_inbox_name">Trung tâm Thông báo</string>
+	<string name="error_message_something_went_wrong">Đã xảy ra lỗi. Vui lòng thử lại.</string>
+	<string name="moe_notification_center_empty">Trung tâm Thông báo trống</string>
+	<string name="moe_register">ĐĂNG KÝ</string>
+	<string name="moe_message_to_register">Bấm vào nút đăng ký để đăng ký Xác thực Tích hợp.</string>
+	<string name="invalid_number">Xin lỗi số không hợp lệ</string>
+	<string name="moe_message_to_unregister">Thiết bị đã được đăng ký để xác minh Tích hợp. Bấm vào nút để hủy đăng ký</string>
+	<string name="moe_unregister">HỦY ĐĂNG KÝ</string>
 </resources>

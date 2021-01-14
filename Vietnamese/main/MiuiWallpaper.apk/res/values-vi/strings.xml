@@ -397,4 +397,9 @@ Mawrth Vallis"</string>
 	<string name="miuix_appcompat_search_action_mode_cancel">Hủy</string>
 	<string name="miuix_appcompat_cancel_description">Hủy</string>
 	<string name="weather_super_wallpaper_label">Thời tiết</string>
+	<string name="geometry_summary">Hình dạng, ánh sáng và màu sắc</string>
+	<string name="snowmountain_super_wallpaper_label">Đỉnh núi tuyết</string>
+	<string name="snowmountain_summary">Sườn núi ngập nắng của núi Siguniang</string>
+	<string name="weather_summary">Thông tin thời tiết địa phương</string>
+	<string name="snowmountain_title">Đỉnh núi tuyết</string>
 </resources>

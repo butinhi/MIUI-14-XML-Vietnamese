@@ -1989,4 +1989,14 @@ In dễ dàng trên khổ A4"</string>
 	<string name="confirm">OK</string>
 	<string name="video_bokeh_zoom">Thu phóng</string>
 	<string name="warm_prompt">Mẹo</string>
+	<string name="video_cast_dialog_button_cancel">Hủy</string>
+	<string name="remote_online_setup_wizard_button_cancel">Hủy</string>
+	<string name="video_cast_state_paused">Đã tạm dừng</string>
+	<string name="remote_online_setup_wizard_button_back">Quay lại</string>
+	<string name="remote_online_setup_wizard_button_confirm">OK</string>
+	<string name="remote_online_setup_wizard_button_quit">Thoát</string>
+	<string name="pref_smart_guide_title">Gợi ý thông minh</string>
+	<string name="color_effect_entry_new_4">Thiu thiu ngủ</string>
+	<string name="color_effect_entry_new_3">Ảo mộng</string>
+	<string name="color_effect_entry_new_1">Huyền bí</string>
 </resources>

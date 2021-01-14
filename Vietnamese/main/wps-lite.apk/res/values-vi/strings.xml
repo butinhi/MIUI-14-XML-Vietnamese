@@ -113,4 +113,5 @@
 	<string name="ppt_audio_unsupport_format_audio">Loại tập tin này không được hỗ trợ</string>
 	<string name="public_saveAs">Lưu thành</string>
 	<string name="public_wps_name">WPS</string>
+	<string name="go_to_download">Tải xuống</string>
 </resources>

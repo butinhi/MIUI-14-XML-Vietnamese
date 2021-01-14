@@ -2000,4 +2000,8 @@ Gửi mã này cho người giám sát."</string>
 	<string name="galleryplus_orientation_unlock">Đã mở khóa xoay màn hình</string>
 	<string name="ad_bar_notification_setting_title">Sự kiện</string>
 	<string name="network_error_info">Lỗi mạng đã xảy ra. Kiểm tra cài đặt mạng của bạn và thử lại.</string>
+	<string name="system_error_info">Hệ thống đang bận. Chờ một hoặc hai phút và thử lại.</string>
+	<string name="ad_bar_notification_setting_sub_title">Hiển thị các sự kiện trong ngăn Thông báo</string>
+	<string name="catchplay_video">Bắt bóng</string>
+	<string name="progressbar_title">Kiểm tra các vấn đề bảo mật…</string>
 </resources>

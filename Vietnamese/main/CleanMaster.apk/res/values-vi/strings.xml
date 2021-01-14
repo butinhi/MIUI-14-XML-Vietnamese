@@ -1000,4 +1000,42 @@
 	<string name="notification_wechat_clean_low_level_text">"Xóa rác WeChat"</string>
 	<string name="gb_global_icon_ad_card_title">Đề xuất cho bạn</string>
 	<string name="gb_global_icon_ad_card_btn">Nhận</string>
+	<string name="video_clean_create_desktop_icon">Lối tắt Màn hình chính</string>
+	<string name="powerful_acceleration_before">Trước</string>
+	<string name="powerful_acceleration_after">Sau</string>
+	<string name="rs_clean_size_storage_title">Lưu trữ</string>
+	<string name="video_clean_qq_clean_title">Trình dọn dẹp QQ</string>
+	<string name="video_clean_remind_settings_title">Nhắc nhở dọn dẹp</string>
+	<string name="powerful_acceleration_item_button">Bật</string>
+	<string name="video_clean_notification_title">Giải phóng %s</string>
+	<string name="video_clean_personal_settings_title">Cài đặt bổ sung</string>
+	<string name="video_clean_wechat_clean_title">Dọn dẹp WeChat</string>
+	<string name="rs_clean_size_free_space">Giải phóng %s</string>
+	<string name="video_clean_qq_clean_summary">Xóa rác để giải phóng bộ nhớ</string>
+	<string name="hints_quick_deep_clean2">Giải phóng %s</string>
+	<string name="video_clean_garbage_cleared">Đã xóa bộ đệm video</string>
+	<string name="video_clean_scan_app_tip">Đang quét ứng dụng %1$d/%2$d</string>
+	<string name="powerful_acceleration_notification_title">Chống phân mảnh hoàn tất</string>
+	<string name="video_clean_desktop_icon_created">Đã thêm Lối tắt Màn hình chính</string>
+	<string name="video_clean_notification_summary">Xóa bộ đệm video tạo bởi ứng dụng</string>
+	<string name="powerful_acceleration_enable_title">Thực hiện chống phân mảnh dưới nền</string>
+	<string name="powerful_acceleration_enable_summary">"Chống phân mảnh sẽ tự động được thực hiện khi bạn không sử dụng thiết bị"</string>
+	<string name="powerful_acceleration_tip">Bộ nhớ trong bị phân mảnh, có thể làm chậm thiết bị của bạn một cách đáng kể. Chống phân mảnh tổ chức vật lý các tệp của bạn thành số lượng phân mảnh nhỏ nhất để giảm độ trễ.</string>
+	<string name="video_clean_wechat_clean_summary">Xóa rác để tăng tốc</string>
+	<string name="video_clean_garbage">Bộ đệm video</string>
+	<string name="powerful_acceleration_toast">"Chống phân mảnh sẽ được thực hiện khi bạn không sử dụng thiết bị"</string>
+	<string name="powerful_acceleration_tip_middle">Bộ nhớ của bạn bị phân mảnh &lt;font color=#ff0000 &gt;nhẹ&lt;/font&gt;. Chống phân mảnh có thể giải quyết.</string>
+	<string name="video_clean_auto_clean">Tự động xóa</string>
+	<string name="powerful_acceleration_tip_high">Bộ nhớ của bạn bị phân mảnh &lt;font color=#ff0000 &gt;nặng&lt;/font&gt;. Chống phân mảnh có thể giải quyết.</string>
+	<string name="video_clean">Xóa bộ đệm video</string>
+	<string name="rs_clean_size_storage_size">Chiếm dụng %1$s/%2$s</string>
+	<string name="video_clean_video_manager_summary">Quản lý tất cả video lưu trên thiết bị</string>
+	<string name="powerful_acceleration_item_tip_normal">Bộ nhớ có vẻ ổn đó!</string>
+	<string name="video_clean_video_manager_title">Quản lý video</string>
+	<string name="video_clean_cache_tip">Video đã xóa có thể được tải lại sau đó</string>
+	<string name="video_clean_create_desktop_icon_summary">Thêm Lối tắt Màn hình chính để xóa video đã đệm bằng một chạm</string>
+	<string name="powerful_acceleration_notification_summary">Chạm để giải phóng thêm bộ nhớ</string>
+	<string name="video_clean_auto_clean_summary">Tự động xóa bộ đệm video sau khi quét</string>
+	<string name="video_clean_image_clean_title">Xóa ảnh trùng lặp</string>
+	<string name="video_clean_image_clean_summary">Xóa ảnh lặp để giải phóng bộ nhớ</string>
 </resources>

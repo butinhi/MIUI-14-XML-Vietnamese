@@ -2832,4 +2832,13 @@ Bạn sẽ được thông báo khi có thể sử dụng lại cổng USB."</st
 	<string name="face_unlock_password_and_fingerprint">Nhập mật khẩu hoặc sử dụng vân tay để mở khóa</string>
 	<string name="input_lockscreen_pattern_hint_text">Vẽ mẫu hình</string>
 	<string name="wifi_security_wapi_certificate">Chứng chỉ WAPI</string>
+	<string name="zen_mode_warnings_quit_immediately">Tắt</string>
+	<string name="heads_up_snooze_toast">"Thông báo từ ứng dụng này sẽ không xuất hiện cho đến khi bạn mở khóa lại thiết bị của mình"</string>
+	<string name="zen_mode_warnings_all_time_content">Thông báo và cuộc gọi sẽ bị tắt tiếng</string>
+	<string name="zen_mode_warnings_keyguard_content">Thông báo và cuộc gọi sẽ bị tắt tiếng khi thiết bị bị khóa</string>
+	<string name="zen_mode_warnings_title">Không làm phiền bật</string>
+	<string name="garbage_count">Có %1$s instance cũ</string>
+	<string name="memory_leak">Rò rỉ bộ nhớ</string>
+	<string name="bluetooth_enable_page_scan_summary">Tắt/bật trang quét thử nghiệm Bluetooth</string>
+	<string name="bluetooth_enable_page_scan">Bật trang quét Bluetooth</string>
 </resources>

@@ -491,4 +491,5 @@ dd/M"</string>
 	<string name="dual_clock_tip">Đồng hồ kép đang bật. Chạm để mở Cài đặt.</string>
 	<string name="scheduled_style_summary">Đặt thời gian tùy chỉnh</string>
 	<string name="always_style_symmary">Tốn pin hơn</string>
+	<string name="aod_theme_store">Chủ đề Màn hình luôn bật</string>
 </resources>
