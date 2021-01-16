@@ -682,4 +682,18 @@ Vui lòng gửi mã này cho nhân viên kỹ thuật."</string>
 	<string name="delete_operation_record">Xóa bản ghi này?</string>
 	<string name="jump_to_directory">Mở thư mục</string>
 	<string name="recent_file">Gần đây</string>
+	<string name="channel_pc_view">Đã xem trên máy tính</string>
+	<string name="delete_operation_record_timeout">"Không thể xóa bản ghi. Chờ một vài phút rồi thử lại."</string>
+	<string name="channel_phone_view">Đã xem trên điện thoại</string>
+	<string name="channel_phone_upload">Tải lên từ điện thoại</string>
+	<string name="channel_web_edit">Đã sửa trên trình duyệt</string>
+	<string name="channel_pc_upload">Tải lên từ máy tính</string>
+	<string name="channel_web_view">Đã xem trên trình duyệt</string>
+	<string name="recent_jump_to_privacy_fail_notice">Tệp tin này riêng tư. Quay lại trang bắt đầu và kéo xuống để xem.</string>
+	<string name="operation_dialog_jump_message">Đang mở thư mục…</string>
+	<string name="operation_will_not_show_after_delete">Ghi âm sẽ không còn xuất hiện ở đây nếu bạn xóa.</string>
+	<string name="channel_pc_edit">Đã sửa trên máy tính</string>
+	<string name="no_recent_activity">Chưa có mục nào ở đây</string>
+	<string name="channel_web_upload">Tải lên từ trình duyệt</string>
+	<string name="channel_phone_edit">Đã sửa trên điện thoại</string>
 </resources>

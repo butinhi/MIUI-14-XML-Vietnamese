@@ -86,5 +86,12 @@ Chạm \"Thêm\" ở góc trên bên phải của ghi chú, chọn \"Nhắc nh�
         <item>Ghi chú bằng giọng nói</item>
         <item>Bạn có thể tạo ghi chú bằng giọng nói ngay bây giờ. Chỉ cần nhấn vào biểu tượng, ghi âm lại, và lưu tệp âm thanh lại trong ghi chú của bạn.</item>
     </string-array>
- 
+	<string-array name="system_folder_operations">
+		<item>Mới</item>
+	</string-array>
+	<string-array name="common_folder_operations">
+		<item>Mới</item>
+		<item>Đổi tên</item>
+		<item>Xóa</item>
+	</string-array>
 </resources>

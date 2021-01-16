@@ -93,4 +93,7 @@
 	<plurals name="share_sdk_invitation_some_people_accepted">
 		<item quantity="other">Lời mời được chấp nhận bởi %d người</item>
 	</plurals>
+	<plurals name="dirty_note_count_v2">
+		<item quantity="other">%d ghi chú</item>
+	</plurals>
 </resources>

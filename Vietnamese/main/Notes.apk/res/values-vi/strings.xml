@@ -886,4 +886,34 @@ Cho phép Ghi chú ghi âm."</string>
 	<string name="save_single_excerpt">Lưu</string>
 	<string name="note_mindnote_entrance_icon_text_newversion">Tạo sơ đồ tư duy</string>
 	<string name="note_mindnote_entrance_hint_newversion">"Bắt đầu gõ "</string>
+	<string name="excerpt_bubble_tips">Văn bản đã sao chép và hình ảnh đã lưu sẽ được lưu vào Ghi chú</string>
+	<string name="pref_title_excerpt_remind">Trích lời nhắc</string>
+	<string name="continuous_new_excerpt_title">Đoạn trích mới</string>
+	<string formatted="false" name="doodle_guide_quick_shape_hint">Nhấn và giữ bản phác thảo trong %d–%d giây để tự động điều chỉnh các nét vẽ</string>
+	<string name="default_update_documents">Đã có bản cập nhật. Cập nhật ngay?</string>
+	<string name="toast_refuse_to_use_storage_in_excerpt">Cho phép Ghi chú truy cập bộ nhớ để có thể thêm hình ảnh vào ghi chú của bạn</string>
+	<string name="permission_storage_desc_v12">Để thêm hình ảnh vào ghi chú và lưu ghi chú dưới dạng hình ảnh</string>
+	<string name="pref_excerpt_link_float">Nhận lời nhắc tạo đoạn trích bất cứ khi nào URL được sao chép</string>
+	<string name="toast_excerpt_saved">Lưu đoạn trích vào Ghi chú…</string>
+	<string name="toast_excerpt_no_content">Không có đoạn trích nào ở đây</string>
+	<string name="doodle_guide_dialog_title">Phác thảo</string>
+	<string name="blackboard_note">Bảng đen thông minh</string>
+	<string name="continuous_default_hint">Sao chép văn bản, lưu hình ảnh và ảnh chụp màn hình dưới dạng đoạn trích</string>
+	<string name="single_link_excerpt_saving">Tiết kiệm các mặt hàng…</string>
+	<string name="doodle_background_dot">Chấm</string>
+	<string name="alert_message_delete_excerpt">Xóa ghi chú này? Đoạn trích cũng sẽ bị xóa.</string>
+	<string name="doodle_guide_brush_config_hint">Nhấn lại để điều chỉnh độ rộng và độ mờ của nét vẽ</string>
+	<string name="excerpting">Tạo một đoạn trích…</string>
+	<string name="excerpt_note">Trích đoạn của tôi</string>
+	<string name="single_new_excerpt_title">Trích đoạn</string>
+	<string name="excerpt_link_bubble_tips">Nhấn để lưu vào Ghi chú</string>
+	<string name="pref_category_title_quick_func">Các tính năng nhanh</string>
+	<string name="toast_excerpt_end">Đã tạo đoạn trích thành công</string>
+	<string name="quick_note_new_user_guide">Ghi chú nhanh cho phép bạn tạo ghi chú và đoạn trích</string>
+	<string name="excerpted_to_note">Đã lưu đoạn trích vào Ghi chú</string>
+	<string name="mind_note_first_enter_guide">Nhấn để tạo sơ đồ tư duy</string>
+	<string name="last_excerpt_unfinish_hint">Đoạn trích mới nhất chưa hoàn chỉnh</string>
+	<string name="pref_quick_note_desc">Sử dụng phím tắt ở cạnh màn hình để tạo ghi chú và tác vụ, cũng như lưu URL, văn bản và hình ảnh đã sao chép vào Ghi chú.</string>
+	<string name="excerpt">Tạo một đoạn trích</string>
+	<string name="toast_excerpt_open_note">Mở ghi chú bằng đoạn trích</string>
 </resources>

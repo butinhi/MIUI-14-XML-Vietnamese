@@ -24,4 +24,7 @@
 	<plurals name="announce_for_unread">
         <item quantity="other">%2$s chưa đọc từ %1$s</item>
     </plurals>
+	<plurals name="remove_dialog_title_multi_format">
+		<item quantity="other">Xóa %1$d ứng dụng khỏi Màn hình chính?</item>
+	</plurals>
 </resources>

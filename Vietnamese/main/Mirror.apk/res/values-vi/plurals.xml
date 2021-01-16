@@ -55,4 +55,13 @@
 	<plurals name="download_title_multi">
 		<item quantity="other">%2$d tệp tin, bao gồm %1$s</item>
 	</plurals>
+	<plurals name="download_canceled_title_multi">
+		<item quantity="other">Đã từ chối %2$d tệp, bao gồm %1$s</item>
+	</plurals>
+	<plurals name="download_succeeded_title_multi">
+		<item quantity="other">Đã nhận %2$d tệp, bao gồm %1$s</item>
+	</plurals>
+	<plurals name="miuix_appcompat_items_selected">
+		<item quantity="other">%d mục đã chọn</item>
+	</plurals>
 </resources>

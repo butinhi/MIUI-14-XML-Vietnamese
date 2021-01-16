@@ -274,4 +274,7 @@
 	<plurals name="sport_tts_running_distance">
 		<item quantity="other">"Bạn đã chạy %s km"</item>
 	</plurals>
+	<plurals name="hr_fp_detect_time_remainder">
+		<item quantity="other">%1$d giây còn lại</item>
+	</plurals>
 </resources>

@@ -136,4 +136,10 @@
 		<item>Đi bộ ít</item>
 		<item>Không bao gồm tàu điện ngầm</item>
 	</string-array>
+	<string-array name="app_health_setting_text_array_duration">
+		<item>10 phút</item>
+		<item>20 phút</item>
+		<item>30 phút</item>
+		<item>60 phút</item>
+	</string-array>
 </resources>

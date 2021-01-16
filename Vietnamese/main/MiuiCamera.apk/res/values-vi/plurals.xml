@@ -33,4 +33,7 @@
 	<plurals name="fastmotion_pro_sec_unit">
 		<item quantity="other">%1$d giây</item>
 	</plurals>
+	<plurals name="timefreeze_guide_tip1">
+		<item quantity="other">Bạn có thể chụp đóng băng thời gian với tối đa %d chủ thể.</item>
+	</plurals>
 </resources>

@@ -140,4 +140,9 @@
 		<item>Sức khỏe</item>
 		<item>Tập luyện</item>
 	</string-array>
+	<string-array name="ShareTabTitle">
+		<item>Ảnh</item>
+		<item>Tuyến đường</item>
+		<item>Thẻ</item>
+	</string-array>
 </resources>

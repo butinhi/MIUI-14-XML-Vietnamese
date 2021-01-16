@@ -166,4 +166,21 @@
 		<item>Bật đồng bộ</item>
 		<item>Trả lời nhanh;Clipboard;Trình biên tập;Đám mây;Đồng bộ;Dịch vụ đám mây</item>
 	</string-array>
+	<string-array name="micloud_entrance_subtitleArray_china_v2">
+		<item>Đồng bộ liên hệ, tin nhắn, ghi chú, lịch và hơn thế nữa</item>
+		<item>Sao lưu ứng dụng, bố cục Màn hình chính, và hình nền</item>
+		<item>Sao lưu cài đặt quan trọng, bao gồm Wi-Fi và hiển thị</item>
+		<item>"Khóa thiết bị từ xa nếu đánh mất"</item>
+	</string-array>
+	<string-array name="settings_search_notes_v2">
+		<item>Đồng bộ ghi chú với Xiaomi Cloud</item>
+		<item>Bật đồng bộ</item>
+		<item>Ghi chú; Đám mây; Đồng bộ hóa; Dịch vụ đám mây; Xiaomi Cloud</item>
+	</string-array>
+	<string-array name="micloud_entrance_subtitleArray_v2">
+		<item>Đồng bộ liên hệ, tin nhắn, ghi chú, lịch và hơn thế nữa</item>
+		<item>Sao lưu ứng dụng, bố cục Màn hình chính, và hình nền</item>
+		<item>Sao lưu cài đặt quan trọng, bao gồm Wi-Fi và hiển thị</item>
+		<item>"Khóa thiết bị từ xa nếu đánh mất"</item>
+	</string-array>
 </resources>

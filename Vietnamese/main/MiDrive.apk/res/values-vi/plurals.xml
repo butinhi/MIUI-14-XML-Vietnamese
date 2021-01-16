@@ -184,4 +184,7 @@
 	<plurals name="text_group_count">
 		<item quantity="other">%1$d mục</item>
 	</plurals>
+	<plurals name="view_all">
+		<item quantity="other">1$d mục</item>
+	</plurals>
 </resources>

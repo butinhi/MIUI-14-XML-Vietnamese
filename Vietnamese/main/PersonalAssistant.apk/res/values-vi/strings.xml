@@ -2559,4 +2559,36 @@ You can also track express delivery on the official websites of delivery compani
 	<string name="app_health_setting_music_name_forest">Rừng</string>
 	<string name="app_assist_sleep_notifycation_description">Thông báo khi nhạc hỗ trợ giấc ngủ được bật</string>
 	<string name="app_health_setting_music_name_night">Đêm</string>
+	<string name="for_diagnosis_usage_only">Chỉ sử dụng thông tin này để chẩn đoán.</string>
+	<string name="app_auth_setting_login">Đăng nhập</string>
+	<string name="temporary_not_available">Tạm thời không khả dụng</string>
+	<string name="diagnosis_log_send_failed">Gửi nhật ký chẩn đoán thất bại.</string>
+	<string name="app_auth_setting_bind">Thêm</string>
+	<string name="app_auth_router_dialog_loading">Đang thêm tài khoản…</string>
+	<string name="app_auth_setting_unbind_dialog_positive">Xóa</string>
+	<string name="app_auth_setting_bind_summry">Tài khoản Mi: %s</string>
+	<string name="collect_diagnosis_log">Thu thập nhật ký chẩn đoán</string>
+	<string name="passport_oauth_actionbar_title">Tài khoản Mi</string>
+	<string name="password_toggle_content_description">Chuyển đổi hiển thị mật khẩu</string>
+	<string name="diagnosis_log_sent_format">"Nhật ký chẩn đoán đã được gửi.
+ID:%s
+Vui lòng gửi mã này cho nhân viên kỹ thuật."</string>
+	<string name="app_auth_setting_unbind">Xóa</string>
+	<string name="app_wufu_card_button_bind">Liên kết ngay</string>
+	<string name="app_auth_setting_unbing_dialog_negative">Giữ</string>
+	<string name="passport_oauth_sucess_tip">Xác thực thành công</string>
+	<string name="sending">Đang gửi…</string>
+	<string name="app_auth_setting_login_title">Đăng nhập Tài khoản Mi</string>
+	<string name="send_diagnosis_log">Gửi nhật ký chẩn đoán</string>
+	<string name="app_auth_setting_bind_fail_uninstall">"Không thể thêm tài khoản. Cài đặt %s trước."</string>
+	<string name="app_wufu_card_title">Alipay đặt năm phước lành</string>
+	<string name="app_auth_setting_unbind_dialog_title">Gỡ tài khoản %s</string>
+	<string name="app_auth_setting_bind_success_title">Tài khoản %s hiện tại</string>
+	<string name="app_auth_setting_bind_fail">"Không thể thêm tài khoản"</string>
+	<string name="app_pa_setting_service_wufu">"Năm phước lành của Alipay"</string>
+	<string name="app_auth_setting_unbing_dialog_message">"Bạn sẽ không thể sử dụng các dịch vụ %s phổ biến sau khi xóa tài khoản của mình."</string>
+	<string name="app_auth_setting_service_title">Dịch vụ phổ biến</string>
+	<string name="app_auth_setting_login_summry">Đăng nhập và thêm tài khoản Alipay của bạn để có thể sử dụng các dịch vụ phổ biến</string>
+	<string name="app_pa_setting_service_wufu_summry">Thu thập các phước lành của bạn bằng cách sử dụng máy quét AR</string>
+	<string name="app_auth_setting_bind_title">Thêm tài khoản %s</string>
 </resources>

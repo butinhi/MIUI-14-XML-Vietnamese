@@ -20,4 +20,19 @@
 		<item>Hình nền/Siêu hình nền/Vành đai Sao Thổ</item>
 		<item>Hành tinh;Sao Thổ;Siêu hình nền;Hình nền</item>
 	</string-array>
+	<string-array name="settings_search_snowmountain">
+		<item>Đỉnh núi tuyết</item>
+		<item>Hình nền/Siêu hình nền/Đỉnh núi tuyết</item>
+		<item>Trái đất; Núi; Siêu hình nền; Hình nền</item>
+	</string-array>
+	<string-array name="settings_search_geometry">
+		<item>Hình học</item>
+		<item>Hình nền/Siêu hình nền/Hình học</item>
+		<item>Hình học; Trừu tượng; Siêu hình nền; Hình nền</item>
+	</string-array>
+	<string-array name="settings_search_weather">
+		<item>Thời tiết</item>
+		<item>Hình nền/Siêu hình nền/Thời tiết</item>
+		<item>Thời tiết; Thông tin thời tiết; Siêu hình nền; Hình nền</item>
+	</string-array>
 </resources>

@@ -135,4 +135,13 @@
 	<plurals name="install_find_application_num">
 		<item quantity="other">Tìm thấy %d ứng dụng</item>
 	</plurals>
+	<plurals name="rs_clean_size_hint_song">
+		<item quantity="other">Đủ cho %d bài hát</item>
+	</plurals>
+	<plurals name="rs_clean_size_hint_image">
+		<item quantity="other">Đủ cho %d ảnh</item>
+	</plurals>
+	<plurals name="video_clean_scan_app_result">
+		<item quantity="other">%d ứng dụng có bộ đệm video</item>
+	</plurals>
 </resources>

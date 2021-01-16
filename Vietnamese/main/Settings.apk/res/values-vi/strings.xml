@@ -11258,4 +11258,5 @@ Chức năng này chỉ nhận được địa chỉ MAC Wi-Fi của bạn để
 	<string name="wifi_enhanced_handover">Chuyển giao nâng cao</string>
 	<string name="bluetooth_enable_page_scan_summary">Tắt/bật trang quét thử nghiệm Bluetooth</string>
 	<string name="bluetooth_enable_page_scan">Bật trang quét Bluetooth</string>
+	<string name="mute_media_sound_summary">Trò chơi, nhạc, video và các ứng dụng khác</string>
 </resources>

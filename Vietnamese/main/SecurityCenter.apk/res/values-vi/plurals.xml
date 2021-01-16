@@ -614,4 +614,20 @@ Bạn có thể nhận dùng thử miễn phí %d ngày!"</item>
 		<item quantity="other">trong %d phút</item>
 		<item quantity="one">trong 1 phút</item>
 	</plurals>
+	<plurals name="miuix_appcompat_items_selected">
+		<item quantity="other">%d mục đã chọn</item>
+	</plurals>
+	<plurals name="lockpattern_recording_intro_header_new">
+		<item quantity="other">Kết nối ít nhất %s điểm</item>
+	</plurals>
+	<plurals name="unlock_set_unlock_pattern_summary_new">
+		<item quantity="other">Kết nối ít nhất %s điểm</item>
+	</plurals>
+	<plurals name="unlock_set_unlock_pin_summary_new">
+		<item quantity="other">Nhập %s chữ số</item>
+	</plurals>
+	<plurals name="gb_voice_changer_toast_tips_window_bubble">
+		<item quantity="other">"Dùng Thay đổi giọng nói ngay
+để nhận dùng thử miễn phí %d-ngày!"</item>
+	</plurals>
 </resources>
