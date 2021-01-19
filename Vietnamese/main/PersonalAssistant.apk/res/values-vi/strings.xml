@@ -2591,4 +2591,5 @@ Vui lòng gửi mã này cho nhân viên kỹ thuật."</string>
 	<string name="app_auth_setting_login_summry">Đăng nhập và thêm tài khoản Alipay của bạn để có thể sử dụng các dịch vụ phổ biến</string>
 	<string name="app_pa_setting_service_wufu_summry">Thu thập các phước lành của bạn bằng cách sử dụng máy quét AR</string>
 	<string name="app_auth_setting_bind_title">Thêm tài khoản %s</string>
+	<string name="open">Mở</string>
 </resources>

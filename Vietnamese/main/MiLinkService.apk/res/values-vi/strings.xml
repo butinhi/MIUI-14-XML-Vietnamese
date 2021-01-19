@@ -537,4 +537,24 @@ Nếu cả hai thiết bị không thể kết nối tới cùng một mạng, b
 	<string name="debug_mode_protocol_title">Phép chiếu giao thức đơn được chỉ định</string>
 	<string name="debug_mode_log_desc">Bảo vệ dữ liệu nhạy cảm (IP và MAC) theo mặc định</string>
 	<string name="trust_device_manager">Quản lý thiết bị đã tin tưởng</string>
+	<string name="miuix_appcompat_search_input_description">Tìm kiếm</string>
+	<string name="miuix_appcompat_action_mode_deselect_all">Bỏ chọn</string>
+	<string name="miuix_appcompat_deselect_all_description">Bỏ chọn tất cả</string>
+	<string name="miuix_appcompat_confirm_description">Xác nhận</string>
+	<string name="miuix_appcompat_action_mode_select_all">Chọn tất cả</string>
+	<string name="miuix_appcompat_select_all_description">Chọn tất cả</string>
+	<string name="miuix_appcompat_select_all">Chọn tất cả</string>
+	<string name="miuix_appcompat_action_mode_title_empty">Chọn mục</string>
+	<string name="global_privacy">Điều khoản và Điều kiện</string>
+	<string name="miuix_appcompat_actionbar_immersion_button_more_description">Thêm</string>
+	<string name="miuix_appcompat_delete_description">Xóa</string>
+	<string name="miuix_appcompat_deselect_all">Bỏ chọn</string>
+	<string name="global_privacy_positive">Đồng ý</string>
+	<string name="global_privacy_negative">Không đồng ý</string>
+	<string name="miuix_appcompat_search_action_mode_cancel">Hủy</string>
+	<string name="date_time_picker_dialog_title">Đặt ngày và giờ</string>
+	<string name="miuix_appcompat_cancel_description">Hủy</string>
+	<string name="close">Đóng</string>
+	<string name="miuix_appcompat_select_item">Chọn mục</string>
+	<string name="send">Gửi</string>
 </resources>

@@ -4969,4 +4969,12 @@ Bạn phải hiểu rằng tính năng này chỉ được cung cấp để bạ
 	<string name="dlg_open_online_service_summary">"Một số tính năng sẽ không khả dụng khi các dịch vụ trực tuyến tắt. Bật các dịch vụ trực tuyến ngay bây giờ?"</string>
 	<string name="ad_floating_window_title">Đóng cửa sổ nổi để mở khóa</string>
 	<string name="dlg_onlie_service_summary">Việc tắt các dịch vụ trực tuyến sẽ khiến một số tính năng của ứng dụng không khả dụng. Vẫn tắt?</string>
+	<string name="notification_antivirus_button_text">Quét</string>
+	<string name="notification_optimize_button_text">Xóa</string>
+	<string name="gb_adv_touch_mode_select_title">Cử chỉ</string>
+	<string name="notification_link_cleaner_2002">Xóa rác để tăng tốc thiết bị của bạn</string>
+	<string name="ac_notification_action_text">Bật</string>
+	<string name="gb_adv_touch_custom_title">Tùy chỉnh</string>
+	<string name="gb_adv_touch_custom2">Nhạy với chạm liên tục</string>
+	<string name="gtb_spring_festival_goto_gameturbo">Xem</string>
 </resources>

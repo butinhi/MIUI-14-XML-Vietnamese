@@ -732,4 +732,6 @@ An toàn và bảo mật"</string>
 	<string name="gb_dialog_game_speed_close">Đang tắt chế độ Tốc độ ánh sáng…</string>
 	<string name="gb_game_speed_closed">Chế độ Tốc độ ánh sáng tắt</string>
 	<string name="gb_dialog_game_speed_exist">Bạn chỉ có thể sử dụng một trò chơi trong chế độ Tốc độ ánh sáng. Thay thế \"%s\" ngay?</string>
+	<string name="gb_adv_touch_custom_title">Tùy chỉnh</string>
+	<string name="gb_adv_touch_custom2">Nhạy với chạm liên tục</string>
 </resources>

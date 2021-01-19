@@ -319,4 +319,8 @@ Bạn cần đọc và đồng ý với Chính sách Riêng tư Mint Keyboard tr
 	<string name="msim_setting_default_data">SIM dữ liệu</string>
 	<string name="abc_action_mode_done">Xong</string>
 	<string name="service_security_over_r">Đọc và đồng ý với &lt;a href=%1$s&gt;Chính sách Riêng tư&lt;/a &gt; của chúng tôi trước khi sử dụng Bảo mật.&lt;br/&gt;&lt;br/&gt;Theo tiêu chuẩn Android 11, quyền một lần sẽ bị thu hồi trong vòng 5 giây sau khi ứng dụng tương ứng ngừng chạy. Nếu bạn mở ứng dụng trong khoảng thời gian ngắn này, quyền sẽ bị thu hồi sau đó.</string>
+	<string name="privacy_provision_summary">Bảo vệ quyền riêng tư là cam kết đằng sau thiết kế các sản phẩm của chúng tôi</string>
+	<string name="privacy_provision_more">Tìm hiểu thêm về bảo vệ quyền riêng tư</string>
+	<string name="privacy_provision_title">Riêng tư</string>
+	<string name="privacy_provision_text">Chúng tôi cam kết tôn trọng và bảo vệ sự riêng tư của bạn. Ưu tiên nghiên cứu và phát triển trong lĩnh vực bảo mật thông tin, Xiaomi không ngừng nỗ lực cải tiến các phương pháp, thực tiễn và giải pháp kỹ thuật bảo vệ dữ liệu của bạn. Chúng tôi cũng chia sẻ những thành tựu mới nhất của chúng tôi với các đối tác của mình để đảm bảo quyền riêng tư của bạn toàn diện.</string>
 </resources>

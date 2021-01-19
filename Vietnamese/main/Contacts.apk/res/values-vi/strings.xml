@@ -2139,4 +2139,11 @@ Chuyển vùng Mi cần kết nối Internet và truy cập thông tin vị trí
 	<string name="call_record_user_notice_title">Tìm kiếm gọi thoại</string>
 	<string name="bh_refresh_time">Lần cập nhật cuối: %1$s</string>
 	<string name="bh_pay_fail_desc">"Không thể kết nối mạng. Quay lại và thanh toán lại."</string>
+	<string name="contacts_trash_delete_dialog_loading">Đang xóa…</string>
+	<string name="contacts_trash_delete">Xóa</string>
+	<string name="bh_business_style_old">Cũ</string>
+	<string name="contacts_trash_restore">Khôi phục</string>
+	<string name="contacts_trash_delete_dialog_continue">Xóa</string>
+	<string name="bh_business_style_new">TIN TỨC</string>
+	<string name="contacts_trash_restore_loading">Đang khôi phục…</string>
 </resources>

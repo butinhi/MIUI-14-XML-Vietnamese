@@ -11259,4 +11259,7 @@ Chức năng này chỉ nhận được địa chỉ MAC Wi-Fi của bạn để
 	<string name="bluetooth_enable_page_scan_summary">Tắt/bật trang quét thử nghiệm Bluetooth</string>
 	<string name="bluetooth_enable_page_scan">Bật trang quét Bluetooth</string>
 	<string name="mute_media_sound_summary">Trò chơi, nhạc, video và các ứng dụng khác</string>
+	<string name="miheadset_fitness_check_continue">Tiếp tục</string>
+	<string name="miheadset_fitness_check_result_dialog_title">Mẹo</string>
+	<string name="miheadset_fitness_check_done">Xong</string>
 </resources>
