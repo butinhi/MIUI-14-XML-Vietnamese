@@ -696,4 +696,5 @@ Vui lòng gửi mã này cho nhân viên kỹ thuật."</string>
 	<string name="no_recent_activity">Chưa có mục nào ở đây</string>
 	<string name="channel_web_upload">Tải lên từ trình duyệt</string>
 	<string name="channel_phone_edit">Đã sửa trên điện thoại</string>
+	<string name="home_action_up">Quay lại</string>
 </resources>

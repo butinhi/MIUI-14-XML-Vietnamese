@@ -771,4 +771,5 @@ Giao thức truyền tải băng thông cao."</string>
 	<string name="fast_connect_new_feture_anti_lost">Chống đánh mất</string>
 	<string name="bluetooth_enable_page_scan_summary">Tắt/bật trang quét thử nghiệm Bluetooth</string>
 	<string name="bluetooth_enable_page_scan">Bật trang quét Bluetooth</string>
+	<string name="fast_connect_same_accout_ok">Tôi biết</string>
 </resources>

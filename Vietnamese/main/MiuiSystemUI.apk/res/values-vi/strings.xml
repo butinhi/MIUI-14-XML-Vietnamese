@@ -2841,4 +2841,12 @@ Bạn sẽ được thông báo khi có thể sử dụng lại cổng USB."</st
 	<string name="memory_leak">Rò rỉ bộ nhớ</string>
 	<string name="bluetooth_enable_page_scan_summary">Tắt/bật trang quét thử nghiệm Bluetooth</string>
 	<string name="bluetooth_enable_page_scan">Bật trang quét Bluetooth</string>
+	<string name="accessibility_keyboard_symbol_board_shift2letter_button">Bảng chữ cái</string>
+	<string name="accessibility_keyboard_delete_button">Xóa</string>
+	<string name="accessibility_keyboard_ok_button">Nhập</string>
+	<string name="accessibility_keyguard_face_unlock_view">Xác thực khuôn mặt</string>
+	<string name="accessibility_keyboard_symbol_board_symbol_lock_button">Khóa ký tự</string>
+	<string name="accessibility_keyboard_letter_board_shift2number_button">Số</string>
+	<string name="accessibility_keyboard_letter_board_shift2symbol_button">Ký tự</string>
+	<string name="accessibility_enter_lock_setting">Chạm để mở cài đặt Tạp chí Khóa màn hình</string>
 </resources>

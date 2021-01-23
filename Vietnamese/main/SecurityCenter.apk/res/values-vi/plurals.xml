@@ -630,4 +630,17 @@ Bạn có thể nhận dùng thử miễn phí %d ngày!"</item>
 		<item quantity="other">"Dùng Thay đổi giọng nói ngay
 để nhận dùng thử miễn phí %d-ngày!"</item>
 	</plurals>
+	<plurals name="videobox_settings_timing_bubble">
+		<item quantity="other">"Bạn đã xem video %d giờ.
+Nghỉ ngơi chút đi!"</item>
+	</plurals>
+	<plurals name="notification_antivirus_title">
+		<item quantity="other">%d ngày chưa quét bảo mật</item>
+	</plurals>
+	<plurals name="notification_link_cleaner_2006">
+		<item quantity="other">Xóa %d APK thừa</item>
+	</plurals>
+	<plurals name="gtb_spring_festival_colored_egg">
+		<item quantity="other">"Chúc mừng! Bạn đã mở khóa %s Trứng phục sinh."</item>
+	</plurals>
 </resources>

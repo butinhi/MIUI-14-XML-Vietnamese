@@ -204,4 +204,11 @@
 		<item>Thẻ Tianshen</item>
 		<item>Thẻ Tencent</item>
 	</string-array>
+	<string-array name="gb_adv_touch_custom_level">
+		<item>Thấp nhất</item>
+		<item>Thấp</item>
+		<item>Thông thường</item>
+		<item>Cao</item>
+		<item>Cao nhất</item>
+	</string-array>
 </resources>

@@ -2146,4 +2146,12 @@ Chuyển vùng Mi cần kết nối Internet và truy cập thông tin vị trí
 	<string name="contacts_trash_delete_dialog_continue">Xóa</string>
 	<string name="bh_business_style_new">TIN TỨC</string>
 	<string name="contacts_trash_restore_loading">Đang khôi phục…</string>
+	<string name="bh_system_recommend_des">Cho phép chúng tôi phân tích lưu lượng truy cập của bạn và đề xuất các sản phẩm kỹ thuật số dựa trên kết quả</string>
+	<string name="contacts_trash_delete_dialog_title">Xóa liên hệ đã chọn?</string>
+	<string name="bh_system_recommend">Đề xuất hệ thống</string>
+	<string name="bh_business_hall_is_here">Dịch vụ nhà mạng ở đây</string>
+	<string name="contacts_trash_activity_title">Liên hệ vừa xóa</string>
+	<string name="bh_business_style">Chọn giao diện</string>
+	<string name="contacts_trash_delete_dialog_hint">"Bạn sẽ không thể hoàn tác."</string>
+	<string name="contacts_trash_activity_hint">Chọn liên hệ để khôi phục</string>
 </resources>

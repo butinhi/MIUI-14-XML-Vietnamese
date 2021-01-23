@@ -194,4 +194,10 @@
 	<plurals name="search_group_contacts_result">
 		<item quantity="other">%s kết quả</item>
 	</plurals>
+	<plurals name="contacts_trash_delete_dialog_respond">
+		<item quantity="other">Đã xóa vĩnh viễn %d liên hệ</item>
+	</plurals>
+	<plurals name="contacts_trash_restore_respond">
+		<item quantity="other">Đã khôi phục thành công %d liên hệ</item>
+	</plurals>
 </resources>

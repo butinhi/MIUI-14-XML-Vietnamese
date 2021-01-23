@@ -11262,4 +11262,6 @@ Chức năng này chỉ nhận được địa chỉ MAC Wi-Fi của bạn để
 	<string name="miheadset_fitness_check_continue">Tiếp tục</string>
 	<string name="miheadset_fitness_check_result_dialog_title">Mẹo</string>
 	<string name="miheadset_fitness_check_done">Xong</string>
+	<string name="accessibility_clear">Xóa</string>
+	<string name="accessibility_back">Quay lại</string>
 </resources>
