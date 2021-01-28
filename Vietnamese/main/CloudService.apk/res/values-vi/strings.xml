@@ -1086,4 +1086,11 @@ Thông tin vị trí có thể không được báo cáo khi kết nối mạng 
 	<string name="share_location_menu_create_shortcut">Lối tắt Màn hình chính</string>
 	<string name="retain_data_high_quality_photo_waring_title">"Hình ảnh chất lượng cao sẽ không có sẵn"</string>
 	<string name="retain_data_high_quality_photo_waring_message">Hình ảnh chất lượng cao sẽ bị xóa khỏi Thư viện của bạn sau khi bạn đăng xuất. Các tệp gốc tương ứng sẽ vẫn được lưu trữ trên đám mây. Bạn cũng có thể tải xuống các tệp gốc trước khi đăng xuất.</string>
+	<string name="sync_page_route_not_now">Không, cảm ơn</string>
+	<string name="sync_page_route_ok">Bật</string>
+	<string name="recommend_service_title">Dịch vụ được đề xuất</string>
+	<string name="quick_service_after_sale_service_title">Dịch vụ</string>
+	<string name="sync_page_route_remember">Không hiển thị lại</string>
+	<string name="device_activation_card_no_network_error">Mạng không mạnh, vui lòng kiểm tra trạng thái mạng ~</string>
+	<string name="device_activation_card_device_not_support">Chưa hỗ trợ trên thiết bị này</string>
 </resources>

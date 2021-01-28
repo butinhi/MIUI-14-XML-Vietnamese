@@ -1574,4 +1574,18 @@ Bạn sẽ thấy ảnh mới mỗi giờ."</string>
 	<string name="restore_icon_later">Bạn có thể thêm lại Lối tắt Màn hình chính trong Cài đặt</string>
 	<string name="super_wallpaper_list_footer_text">Hãy theo dõi các bản phát hành mới của chúng tôi!</string>
 	<string name="personalize_font_demo_content">Aa</string>
+	<string name="font_compat_dialog_download_confirm">Tải xuống</string>
+	<string name="font_compat_dialog_title">Vấn đề tương thích</string>
+	<string name="font_compat_dialog_buy_confirm">Mua</string>
+	<string name="font_compat_dialog_cancel">Hủy</string>
+	<string name="font_compat_dialog_trial_confirm">Thử</string>
+	<string name="hide_retract_button">Ẩn</string>
+	<string name="set_as_colorring">Đặt làm nhạc chuông tùy chỉnh</string>
+	<string name="scrollable_wallpaper_close">Đã tắt tính năng cuộn</string>
+	<string name="font_compat_dialog_download_content">Phông chữ của bên thứ ba có thể không được một số ứng dụng hỗ trợ. Sự cố tương thích này sẽ được khắc phục bằng bản cập nhật hệ thống sắp tới. Vẫn tải xuống phông chữ này?</string>
+	<string name="font_compat_dialog_trial_content">Phông chữ của bên thứ ba có thể không được một số ứng dụng hỗ trợ. Sự cố tương thích này sẽ được khắc phục bằng bản cập nhật hệ thống sắp tới. Vẫn thử phông chữ này?</string>
+	<string name="font_compat_dialog_buy_content">Phông chữ của bên thứ ba có thể không được một số ứng dụng hỗ trợ. Sự cố tương thích này sẽ được khắc phục bằng bản cập nhật hệ thống sắp tới. Vẫn mua phông chữ này?</string>
+	<string name="scrollable_wallpaper_open">Đã bật cuộn</string>
+	<string name="can_not_apply_error">"Định dạng video này không được hỗ trợ"</string>
+	<string name="can_not_apply_size_invalid">Video này quá lớn</string>
 </resources>

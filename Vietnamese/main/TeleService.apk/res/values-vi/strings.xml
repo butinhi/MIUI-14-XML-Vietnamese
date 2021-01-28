@@ -3221,4 +3221,6 @@ Bất cứ người dùng nào cũng có thể cập nhật ứng dụng cho ng�
 	<string name="xcap_setting_title">Cài đặt dịch vụ cuộc gọi</string>
 	<string name="wifi_new_network_auto_connection_summary">Bật tự động kết nối tới WPA/WPA2‑PSK 5GHz SSID với định danh của mạng WPA/WPA2‑PSK 2GHz SSID trên sự khớp một phần SSID và BSSID</string>
 	<string name="wifi_new_network_auto_connection">Cầu SSID ‑ Tự động kết nối</string>
+	<string name="sensor_answer_summary">Đưa điện thoại lên tai để tự động trả lời cuộc gọi đến</string>
+	<string name="sensor_answer_title">Nhấc để trả lời</string>
 </resources>

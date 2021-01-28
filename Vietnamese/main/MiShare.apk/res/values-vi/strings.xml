@@ -176,4 +176,5 @@ Bạn có thể tìm thấy danh sách thiết bị tương thích trên trang w
 	<string name="send_files_by">Chia sẻ tệp tin qua</string>
 	<string name="error_remote_mirror_working">"Thiết bị khác không thể chấp nhận các mục trong khi chia sẻ màn hình"</string>
 	<string name="error_mirror_working">"Không thể chia sẻ các mục trong khi chia sẻ màn hình"</string>
+	<string name="nearby_share">Chia sẻ lân cận</string>
 </resources>

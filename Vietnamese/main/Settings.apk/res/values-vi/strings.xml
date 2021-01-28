@@ -11264,4 +11264,14 @@ Chức năng này chỉ nhận được địa chỉ MAC Wi-Fi của bạn để
 	<string name="miheadset_fitness_check_done">Xong</string>
 	<string name="accessibility_clear">Xóa</string>
 	<string name="accessibility_back">Quay lại</string>
+	<string name="miheadset_fitness_check_restart">Bắt đầu lại</string>
+	<string name="miheadset_fitness_check_summary3">Đừng tháo tai nghe</string>
+	<string name="miheadset_fitness_check_checking">Đang phát hiện</string>
+	<string name="miheadset_fitness_check_summary1">Phát hiện kích cỡ nút tai mang lại trải nghiệm đeo thoải mái và âm thanh tốt nhất</string>
+	<string name="miheadset_fitness_check_summary2">Vui lòng đặt tai nghe vào cả hai tai và nhấp vào bắt đầu phát hiện</string>
+	<string name="miheadset_fitness_check_result_dialog1">Vui lòng đặt tai nghe vào cả hai tai, sau đó kiểm tra độ vừa vặn.</string>
+	<string name="miheadset_fitness_check_result_summary2">Vui lòng điều chỉnh lại vị trí của nút tai hoặc thay thế nút tai bằng kích thước khác trước khi kiểm tra</string>
+	<string name="miheadset_fitness_check_result_dialog2">Vui lòng kết thúc cuộc gọi trước, sau đó thực hiện kiểm tra độ vừa vặn.</string>
+	<string name="miheadset_fitness_check_result_summary1">Nút tai bạn đang đeo vừa vặn</string>
+	<string name="miheadset_connect_toast_tips">Kết nối tai nghe trước</string>
 </resources>

@@ -1656,4 +1656,9 @@ Gia nhập cùng 170 triệu Mi Fan!"</string>
 	<string name="chinese_symbol_animals_dog">Tuất</string>
 	<string name="pm">CH</string>
 	<string name="the_fifth_day">Ngày Thứ năm</string>
+	<string name="operation_open_mode">Mở bằng</string>
+	<string name="mirror_open_mode_error">Thất bại</string>
+	<string name="mirror_open_mode_loading">Đang làm mới</string>
+	<string name="go_ahead">Mở</string>
+	<string name="send">Gửi</string>
 </resources>

@@ -2123,4 +2123,5 @@ Bên kia cần bật khóa chuyển "Ghi nhiều camera" trên thanh thông báo
 	<string name="beauty_makeups_nude">Trắng mơ</string>
 	<string name="edit_solid">Ba chiều</string>
 	<string name="video_cast_inviting">%1$s mời bạn ghi trực tuyến</string>
+	<string name="network_connection_ongoing">Kết nối</string>
 </resources>

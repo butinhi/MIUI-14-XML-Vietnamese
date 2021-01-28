@@ -52,9 +52,6 @@
 		<item quantity="other">trong %d phút</item>
 		<item quantity="one">trong 1 phút</item>
 	</plurals>
-	<plurals name="miui_guide_accessibility_page_current_count">
-		<item quantity="other">Trang %1$d/%2$d</item>
-	</plurals>
 	<plurals name="miuix_appcompat_items_selected">
 		<item quantity="other">%d mục đã chọn</item>
 	</plurals>

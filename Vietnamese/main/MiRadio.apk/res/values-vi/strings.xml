@@ -1678,4 +1678,5 @@ Không thanh toán riêng"</string>
 	<string name="dialog_recall_soundrecord_message">Danh sách ghi âm do Ghi âm cung cấp, bạn cần tải và cài đặt Ghi âm để xem</string>
 	<string name="permission_runtime_perm_desc_location">Để truy cập các trạm radio địa phương</string>
 	<string name="description_title">Gỡ \"Đài FM\"?</string>
+	<string name="refresh">Thử lại</string>
 </resources>

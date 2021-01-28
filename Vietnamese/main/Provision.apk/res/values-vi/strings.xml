@@ -323,4 +323,8 @@ Bạn cần đọc và đồng ý với Chính sách Riêng tư Mint Keyboard tr
 	<string name="privacy_provision_more">Tìm hiểu thêm về bảo vệ quyền riêng tư</string>
 	<string name="privacy_provision_title">Riêng tư</string>
 	<string name="privacy_provision_text">Chúng tôi cam kết tôn trọng và bảo vệ sự riêng tư của bạn. Ưu tiên nghiên cứu và phát triển trong lĩnh vực bảo mật thông tin, Xiaomi không ngừng nỗ lực cải tiến các phương pháp, thực tiễn và giải pháp kỹ thuật bảo vệ dữ liệu của bạn. Chúng tôi cũng chia sẻ những thành tựu mới nhất của chúng tôi với các đối tác của mình để đảm bảo quyền riêng tư của bạn toàn diện.</string>
+	<string name="item_skip">Bỏ qua</string>
+	<string name="item_return">Đặt</string>
+	<string name="title_set_fingerprint">Khóa màn hình</string>
+	<string name="item_contents_wwarning">"Nếu thiết bị của bạn bị mất, bạn sẽ không thể ngăn người khác sử dụng thiết bị và truy cập vào dữ liệu của mình trừ khi bạn đặt khóa màn hình. Vẫn bỏ qua?"</string>
 </resources>

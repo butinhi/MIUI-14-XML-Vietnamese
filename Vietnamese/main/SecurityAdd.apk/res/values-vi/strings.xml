@@ -734,4 +734,14 @@ An toàn và bảo mật"</string>
 	<string name="gb_dialog_game_speed_exist">Bạn chỉ có thể sử dụng một trò chơi trong chế độ Tốc độ ánh sáng. Thay thế \"%s\" ngay?</string>
 	<string name="gb_adv_touch_custom_title">Tùy chỉnh</string>
 	<string name="gb_adv_touch_custom2">Nhạy với chạm liên tục</string>
+	<string name="gb_adv_touch_adv_title">Chế độ cổ điển (mặc định)</string>
+	<string name="gb_adv_touch_mode_pro_tips">*Chế độ này được thiết kế cho những người chơi chuyên nghiệp. Người chơi thông thường có thể thấy chế độ này bất tiện.</string>
+	<string name="gb_adv_touch_pro_title">Chế độ pro</string>
+	<string name="gb_adv_touch_custom_tip3">Độ chính xác ngắm cao hơn làm cho các lần vuốt nhỏ chính xác hơn, trong khi độ chính xác ngắm thấp hơn giúp cử chỉ này ổn định hơn.</string>
+	<string name="gb_adv_touch_custom4">Nhấn ổn định</string>
+	<string name="gb_adv_touch_custom_tip4">Độ ổn định của vòi cao hơn giúp các lần chạm ổn định hơn, trong khi độ ổn định của vòi thấp hơn làm tăng độ chính xác của các lần vuốt nhỏ hơn.</string>
+	<string name="gb_adv_touch_custom3">Nhắm chính xác mục tiêu</string>
+	<string name="gb_adv_touch_custom_tip1">Phản hồi vuốt cao hơn giúp tăng tốc độ phản ứng với cử chỉ này, trong khi phản hồi vuốt thấp hơn giúp cử chỉ ổn định hơn.</string>
+	<string name="gb_adv_touch_custom_tip2">Độ nhạy cao hơn đối với các lần nhấn liên tục làm tăng tốc độ phản ứng với cử chỉ này, trong khi độ nhạy thấp hơn giúp cử chỉ ổn định hơn.</string>
+	<string name="gb_adv_touch_custom1">Phản hồi vuốt</string>
 </resources>

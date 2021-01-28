@@ -4977,4 +4977,55 @@ Bạn phải hiểu rằng tính năng này chỉ được cung cấp để bạ
 	<string name="gb_adv_touch_custom_title">Tùy chỉnh</string>
 	<string name="gb_adv_touch_custom2">Nhạy với chạm liên tục</string>
 	<string name="gtb_spring_festival_goto_gameturbo">Xem</string>
+	<string name="gtb_spring_festival_guide_know">Tôi biết</string>
+	<string name="gtb_spring_festival_egg_obtain_fail">Không thể kết nối mạng</string>
+	<string name="gtb_spring_festival_shortcut_create">Tạo một Lối tắt Màn hình chính</string>
+	<string name="gtb_spring_festival_push_join">Tham gia</string>
+	<string name="date_time_picker_dialog_title">Đặt ngày và giờ</string>
+	<string name="send">Gửi</string>
+	<string name="gtb_spring_festival_push_see">Xem</string>
+	<string name="gb_adv_touch_mode_pro_tips">*Chế độ này được thiết kế cho những người chơi chuyên nghiệp. Người chơi thông thường có thể thấy chế độ này bất tiện.</string>
+	<string name="title_password_manager">Bật Trình quản lý mật khẩu</string>
+	<string name="notification_link_cleaner_3001">Xóa thùng rác WeChat để tăng tốc thiết bị của bạn</string>
+	<string name="notification_antivirus_message">Quét ngay để vô hiệu hóa rủi ro</string>
+	<string name="notification_link_cleaner_3002">Xóa rác WeChat</string>
+	<string name="videobox_settings_timing_desc">Cảnh báo nhắc bạn nghỉ giải lao mỗi giờ</string>
+	<string name="summary_password_manager">Trình quản lý mật khẩu cho phép bạn mã hóa mật khẩu của mình và lưu trữ chúng trên đám mây</string>
+	<string name="gb_adv_touch_custom4">Nhấn ổn định</string>
+	<string name="gb_adv_touch_custom_tip3">Độ chính xác ngắm cao hơn làm cho các lần vuốt nhỏ chính xác hơn, trong khi độ chính xác ngắm thấp hơn giúp cử chỉ này ổn định hơn.</string>
+	<string name="notification_link_optimizemanage_1011">%d%% bộ nhớ bị chiếm dụng. Xóa ngay.</string>
+	<string name="gb_adv_touch_custom3">Nhắm chính xác mục tiêu</string>
+	<string name="gb_adv_touch_custom_tip4">Độ ổn định của vòi cao hơn giúp các lần chạm ổn định hơn, trong khi độ ổn định của vòi thấp hơn làm tăng độ chính xác của các lần vuốt nhỏ hơn.</string>
+	<string name="gb_adv_touch_custom_tip1">Phản hồi vuốt cao hơn giúp tăng tốc độ phản ứng với cử chỉ này, trong khi phản hồi vuốt thấp hơn giúp cử chỉ ổn định hơn.</string>
+	<string name="gb_adv_touch_custom1">Phản hồi vuốt</string>
+	<string name="gb_adv_touch_custom_tip2">Độ nhạy cao hơn đối với các lần nhấn liên tục làm tăng tốc độ phản ứng với cử chỉ này, trong khi độ nhạy thấp hơn giúp cử chỉ ổn định hơn.</string>
+	<string name="power_center_battery_health_summary">Sạc đầy và xả thiết bị của bạn %1$d-%2$d lần để cải thiện độ chính xác của thống kê tình trạng pin</string>
+	<string name="power_center_battery_health_poor_tip">Có vẻ như tình trạng pin yếu. Kiểm tra pin của bạn tại trung tâm bảo hành được ủy quyền</string>
+	<string name="vb_video_super_division_tips">"Không đủ rõ ràng?
+Thử nâng cấp độ phân giải!"</string>
+	<string name="vb_video_super_division_desc">"Độ phân giải nâng cao tự động khi ≤720p.
+
+Sử dụng tính năng này làm tăng mức tiêu thụ điện năng.
+
+Tính năng này không hoạt động với tính năng làm mượt chuyển động.
+Bật một trong các tính năng sẽ tắt tính năng còn lại."</string>
+	<string name="gb_adv_touch_pro_title">Chế độ pro</string>
+	<string name="notification_link_cleaner_4000">Xóa rác QQ</string>
+	<string name="notification_optimize_title">%d%% bộ nhớ chiếm dụng</string>
+	<string name="notification_link_cleaner_2003">Còn ít hơn %s bộ nhớ. Giải phóng bộ nhớ ngay.</string>
+	<string name="notification_link_cleaner_2001">Xóa %s rác ngay</string>
+	<string name="vb_video_super_division">Upscale</string>
+	<string name="notification_link_cleaner_2004">Chỉ còn %s bộ nhớ. Giải phóng dung lượng lưu trữ ngay bây giờ.</string>
+	<string name="notification_link_cleaner_2005">Xóa bộ nhớ để tăng tốc thiết bị của bạn</string>
+	<string name="gtb_spring_festival_back_game">Quay lại trò chơi</string>
+	<string name="gb_adv_touch_adv_title">Chế độ cổ điển (mặc định)</string>
+	<string name="videobox_settings_timing">Cảnh báo Binge</string>
+	<string name="notification_optimize_message">Xóa bộ nhớ để tăng tốc độ</string>
+	<string name="gtb_spring_festival_push_desc">Tham gia săn trứng của chúng tôi để giành giải thưởng</string>
+	<string name="gtb_spring_festival_push_active_title">Săn trứng Phục sinh đang bật!</string>
+	<string name="gtb_spring_festival_push_gift_title">Giải thưởng săn trứng sắp đến!</string>
+	<string name="gtb_spring_festival_guide">"Chuyển sang chế độ ngang
+tham gia săn trứng của chúng tôi!"</string>
+	<string name="gtb_spring_festival_push_active_desc">Giành được điện thoại, thiết bị thông minh và phiếu thưởng</string>
+	<string name="gtb_spring_festival_push_egg_title">Bạn đã nhận được một quả trứng Phục sinh!</string>
 </resources>
