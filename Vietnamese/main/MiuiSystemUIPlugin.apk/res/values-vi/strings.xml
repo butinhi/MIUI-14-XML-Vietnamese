@@ -449,4 +449,5 @@ Việc nghe ở mức âm lượng cao trong thời gian dài có thể gây t�
 	<string name="wireless_charging_tips_sub_message">Thiết bị còn lại phải hỗ trợ chuẩn sạc không dây Qi.</string>
 	<string name="dnd_popup_message">Bạn có thể bật chế độ DND để tắt tiếng cuộc gọi và thông báo mà không cần tắt âm thanh phương tiện.</string>
 	<string name="miui_toast_zen_to_dnd_when_lock">Cuộc gọi và thông báo sẽ bị tắt tiếng khi thiết bị bị khóa</string>
+	<string name="smart_home_title">Thiết bị thông minh</string>
 </resources>

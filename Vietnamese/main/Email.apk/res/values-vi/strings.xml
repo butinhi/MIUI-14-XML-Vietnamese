@@ -1497,4 +1497,10 @@ Vui lòng xác nhận xem mật khẩu ứng dụng đã được bật chưa, n
 	<string name="invoice_card_title">Hóa đơn điện tử</string>
 	<string name="sms_not_found_tip">Không thể khởi động ứng dụng SMS hệ thống, vui lòng khởi động ứng dụng SMS theo cách thủ công và gửi SMS xác minh.</string>
 	<string name="webview_not_found">Không thể mở trang vì không tìm thấy thành phần WebView.</string>
+	<string name="general_preference_trash_contact_sum">Xử lý thư từ những người gửi đã được báo cáo với số lượng lớn</string>
+	<string name="general_preference_trash_contact">Sàng lọc thư rác</string>
+	<string name="web_view_load_error_tip">Một số sự cố đã xảy ra và nội dung của email này không thể được hiển thị đúng cách. Nếu bạn gặp sự cố này, vui lòng thêm nhóm QQ 952315061 để phản hồi cho chúng tôi.</string>
+	<string name="ntes_login_auth_too_much">Số lượng mã xác minh của bạn đã đạt đến giới hạn trên là 5, vui lòng sử dụng trang web để đăng nhập vào hộp thư NetEase của bạn để xóa các mã xác minh không sử dụng</string>
+	<string name="email_no_snippet">[Tin nhắn này không có nội dung]</string>
+	<string name="conversation_report_un_spam">Không phải thư rác</string>
 </resources>

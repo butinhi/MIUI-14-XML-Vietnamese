@@ -97,4 +97,12 @@
 	<string name="refocus_dynamic_tongxin">Đồng tâm</string>
 	<string name="refocus_dynamic_yuanxing">Hình tròn</string>
 	<string name="refocus_dynamic_xinxing">Trái tim</string>
+	<string name="doc_photo_enhance_undistortion_desc">Chỉnh sửa biến dạng hình ảnh</string>
+	<string name="doc_photo_enhance_color_desc">Quét màu nâng cao</string>
+	<string name="doc_photo_enhance_moer_toast">Xóa các mẫu màn hình moiré</string>
+	<string name="doc_photo_toast_undistortion_open">Chống biến dạng đang bật</string>
+	<string name="doc_photo_toast_undistortion_close">Chống biến dạng đang tắt</string>
+	<string name="doc_photo_enhance_moer_desc">Xóa các mẫu màn hình moiré</string>
+	<string name="doc_photo_enhance_bin_desc">Bản sao đen trắng</string>
+	<string name="doc_photo_enhance_moer">Xóa moiré</string>
 </resources>

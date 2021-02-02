@@ -11274,4 +11274,9 @@ Chức năng này chỉ nhận được địa chỉ MAC Wi-Fi của bạn để
 	<string name="miheadset_fitness_check_result_dialog2">Vui lòng kết thúc cuộc gọi trước, sau đó thực hiện kiểm tra độ vừa vặn.</string>
 	<string name="miheadset_fitness_check_result_summary1">Nút tai bạn đang đeo vừa vặn</string>
 	<string name="miheadset_connect_toast_tips">Kết nối tai nghe trước</string>
+	<string name="bluetooth_fastConnect_key_device_id">ID thiết bị</string>
+	<string name="bluetooth_fastConnect_resource_load">Tải tài nguyên kết nối Bluetooth nhanh thất bại</string>
+	<string name="var_font_switch_title">Phông chữ điều chỉnh toàn hệ thống</string>
+	<string name="wlan_scanner_unresizeble">"Không thể hiển thị cài đặt Wi-Fi trong chế độ chia màn hình"</string>
+	<string name="haptic_video_content_description">Video demo phản hồi xúc giác</string>
 </resources>

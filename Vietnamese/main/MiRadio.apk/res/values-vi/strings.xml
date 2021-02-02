@@ -1679,4 +1679,24 @@ Không thanh toán riêng"</string>
 	<string name="permission_runtime_perm_desc_location">Để truy cập các trạm radio địa phương</string>
 	<string name="description_title">Gỡ \"Đài FM\"?</string>
 	<string name="refresh">Thử lại</string>
+	<string name="search_fail">Không đạt được trạng thái đơn hàng</string>
+	<string name="sort_down">Đảo ngược thứ tự</string>
+	<string name="contact_service">Liên hệ với dịch vụ khách hàng</string>
+	<string name="grant_fail">Cấp quyền thành viên không thành công</string>
+	<string name="benefit_superscript_hint">Hoạt động</string>
+	<string name="type_member_free_listen">%1$s thành viên nghe miễn phí</string>
+	<string name="search_fail_msg">Vui lòng liên hệ với bộ phận chăm sóc khách hàng: Bấm vào nút liên hệ với bộ phận chăm sóc khách hàng bên dưới để xem thông tin liên hệ ở cuối trang.</string>
+	<string name="discount">%1$s giảm</string>
+	<string name="open_dialog">Đang bước lên để mở...</string>
+	<string name="under_way">Phát hành thành viên</string>
+	<string name="refresh_fail_msg">Hãy thử nhấp vào làm mới. Nếu tình trạng đơn hàng lâu không lấy được, vui lòng phản hồi thông qua "Trang xử lý thành viên-Hỏi đáp-Liên hệ ở cuối trang".</string>
+	<string name="sort_up">Đặt hàng tích cực</string>
+	<string name="type_zero_free_listen">%1$s0 nhân dân tệ miễn phí</string>
+	<string name="open_fiction_vip">Mở tiểu thuyết VIP</string>
+	<string name="grant_fail_msg">Khoản tiền hoàn lại tương tự đang được thực hiện cho bạn, vui lòng kiểm tra trong vòng 1-3 ngày làm việc. Nếu bạn đã lâu không nhận được tiền hoàn lại, vui lòng phản hồi qua "Liên hệ CSKH-Liên hệ ở cuối trang".</string>
+	<string name="open_child_vip">Mở VIP cho trẻ em</string>
+	<string name="insufficient_err">Số dư không đủ, vui lòng nạp tiền</string>
+	<string name="open_knowledge_vip">VIP kiến ​​thức mở</string>
+	<string name="under_way_msg">Việc phân phối thành viên có thể bị trễ 1-5 phút. Nếu lâu không được cấp, vui lòng phản hồi qua mục "Liên hệ CSKH-Liên hệ cuối trang".</string>
+	<string name="open_order_dialog">Nhận thông tin đặt hàng...</string>
 </resources>

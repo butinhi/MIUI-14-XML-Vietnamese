@@ -1038,4 +1038,5 @@
 	<string name="video_clean_auto_clean_summary">Tự động xóa bộ đệm video sau khi quét</string>
 	<string name="video_clean_image_clean_title">Xóa ảnh trùng lặp</string>
 	<string name="video_clean_image_clean_summary">Xóa ảnh lặp để giải phóng bộ nhớ</string>
+	<string name="junk_temporary_file">Tệp tin tạm</string>
 </resources>

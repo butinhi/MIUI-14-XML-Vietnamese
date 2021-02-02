@@ -769,4 +769,5 @@ sau khi Sức khỏe Mi phân tích đủ dữ liệu"</string>
 	<string name="the_fifth_day">Ngày Thứ năm</string>
 	<string name="xiaomi_market_sdk_update_dialog_ok">Cập nhật</string>
 	<string name="xiaomi_market_sdk_update_dialog_cancel">Lần tới</string>
+	<string name="voice_add_alarm">Thêm báo thức theo lệnh giọng nói</string>
 </resources>

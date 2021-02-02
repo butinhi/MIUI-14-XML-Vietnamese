@@ -5028,4 +5028,10 @@ Bật một trong các tính năng sẽ tắt tính năng còn lại."</string>
 tham gia săn trứng của chúng tôi!"</string>
 	<string name="gtb_spring_festival_push_active_desc">Giành được điện thoại, thiết bị thông minh và phiếu thưởng</string>
 	<string name="gtb_spring_festival_push_egg_title">Bạn đã nhận được một quả trứng Phục sinh!</string>
+	<string name="menu_text_antivirus_kddi">Quét bảo mật</string>
+	<string name="antivirus_privacy_dialog_title_kddi">Điều khoản và Điều kiện</string>
+	<string name="activity_title_antivirus_kddi">Quét bảo mật</string>
+	<string name="antivirus_third_privacy_title">Chính sách Riêng tư Dịch vụ bên thứ ba</string>
+	<string name="Settings_title_anti_virus_kddi">Cài đặt quét bảo mật</string>
+	<string name="antivirus_privacy_dialog_summary_kddi">"Khi bạn đang thực hiện quét bảo mật, kiểu thiết bị và kết quả quét của bạn sẽ được tải lên máy chủ %1$s và được sử dụng theo &lt;a href=\"%2$s\"&gt;Điều khoản và Điều kiện&lt;/a&gt;.&lt;br/&gt;&lt;br/&gt;Đọc và đồng ý với Điều khoản và điều kiện của %3$s trước khi thực hiện quét bảo mật.&lt;br/&gt;&lt;br/&gt;Nếu bạn không đồng ý tải dữ liệu lên máy chủ %4$s, bạn vẫn có thể sử dụng các định nghĩa vi rút được lưu trữ cục bộ trên thiết bị của mình."</string>
 </resources>

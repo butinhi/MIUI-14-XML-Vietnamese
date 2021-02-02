@@ -1093,4 +1093,18 @@ Thông tin vị trí có thể không được báo cáo khi kết nối mạng 
 	<string name="sync_page_route_remember">Không hiển thị lại</string>
 	<string name="device_activation_card_no_network_error">Mạng không mạnh, vui lòng kiểm tra trạng thái mạng ~</string>
 	<string name="device_activation_card_device_not_support">Chưa hỗ trợ trên thiết bị này</string>
+	<string name="sync_page_route_message">Trình quản lý mật khẩu cho phép bạn mã hóa mật khẩu của mình và lưu trữ chúng trên đám mây. Bật Trình quản lý mật khẩu ngay bây giờ?</string>
+	<string name="quick_service_maintenance_price_title">Sửa</string>
+	<string name="device_activation_page_title">Kích hoạt thiết bị</string>
+	<string name="device_activation_card_local_service_error">"Không thể nhận thông tin. Chờ một hoặc hai phút và thử lại."</string>
+	<string name="device_activation_card_description_china">"Lần kích hoạt đầu tiên được đăng ký khi một thiết bị kết nối với mạng (bao gồm nhưng không giới hạn ở Wi-Fi và mạng di động) lần đầu tiên. Thông thường sẽ mất một khoảng thời gian để đăng ký lần kích hoạt đầu tiên, vì vậy tốt hơn hết bạn nên đợi 3-5 ngày sau khi kết nối mạng trước khi kiểm tra trạng thái kích hoạt.&lt;br&gt;&lt;br&gt; Xem &lt;a href=%1$s&gt;Chính sách Trả lại, Trao đổi và Sửa chữa&lt;/a&gt; để biết thêm chi tiết.&lt;br&gt;&lt;br&gt;Vui lòng gọi đường dây nóng hỗ trợ khách hàng của chúng tôi nếu bạn có bất kỳ câu hỏi nào: 400-100-5678."</string>
+	<string name="quick_service_title">Dịch vụ nhanh</string>
+	<string name="sync_page_autofill_login">Đăng nhập vào Tài khoản Mi để sử dụng Trình quản lý mật khẩu</string>
+	<string name="quick_service_after_sale_policy_title">Chính sách</string>
+	<string name="recommend_service_cloudservice_description">Đồng bộ hóa dữ liệu ứng dụng hệ thống, cài đặt sao lưu, bố cục Màn hình chính, v.v.</string>
+	<string name="quick_service_authenticity_check_title">Xác thực</string>
+	<string name="device_activation_card_description">"Lần kích hoạt đầu tiên được đăng ký khi một thiết bị kết nối với mạng (bao gồm nhưng không giới hạn ở Wi-Fi và mạng di động) lần đầu tiên. Thông thường sẽ mất một khoảng thời gian để đăng ký lần kích hoạt đầu tiên, vì vậy tốt hơn hết bạn nên đợi 3-5 ngày sau khi kết nối mạng trước khi kiểm tra trạng thái kích hoạt.&lt;br&gt;&lt;br&gt;Kích hoạt thiết bị là yếu tố chính trong việc xác định thời hạn hiệu lực của bảo hành mở rộng của chúng tôi. Xem &lt;a href=%1$s&gt;Chính sách Trả lại, Trao đổi và Sửa chữa&lt;/a&gt; để biết thêm chi tiết.&lt;br&gt;&lt;br&gt;Vui lòng gọi đường dây nóng hỗ trợ khách hàng của chúng tôi nếu bạn có bất kỳ câu hỏi nào: 400-100-5678."</string>
+	<string name="device_activation_card_title">Lần kích hoạt đầu tiên</string>
+	<string name="device_activation_card_cannot_get_yet">"Không thể nhận thông tin. Hãy thử lại sau 3-5 ngày."</string>
+	<string name="recommend_service_sharelocation_description">Xác định vị trí, khóa và xóa dữ liệu trên các thiết bị bị thiếu cũng như chia sẻ vị trí với bạn bè và gia đình của bạn</string>
 </resources>

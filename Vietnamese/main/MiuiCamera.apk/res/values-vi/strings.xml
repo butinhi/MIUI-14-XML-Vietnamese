@@ -2124,4 +2124,13 @@ Bên kia cần bật khóa chuyển "Ghi nhiều camera" trên thanh thông báo
 	<string name="edit_solid">Ba chiều</string>
 	<string name="video_cast_inviting">%1$s mời bạn ghi trực tuyến</string>
 	<string name="network_connection_ongoing">Kết nối</string>
+	<string name="pref_camera_esp">xem trước</string>
+	<string name="video_cast_service_error">Không khởi động được dịch vụ nền ghi nhiều máy</string>
+	<string name="remote_online_exit_connecting">Bạn có muốn ngắt kết nối và thoát khỏi chế độ ghi nhiều camera không?</string>
+	<string name="remote_online_introduction_ii">Bên kia cần bật khóa chuyển "Ghi nhiều camera" trên thanh thông báo thả xuống. Chỉ những điện thoại di động có camera có chức năng "Ghi nhiều camera" mới được hỗ trợ.</string>
+	<string name="pref_video_capture_repeating_title">Chụp ảnh thường xuyên trong khi quay video</string>
+	<string name="live_music_title_unknown">Bản nhạc không xác định</string>
+	<string name="video_cast_state_exited">Đã đăng xuất</string>
+	<string name="remote_online_introduction_i">Chức năng ghi nhiều camera hỗ trợ hai điện thoại di động ghi lại hình ảnh từ các góc nhìn khác nhau và kết hợp chúng thành một video. Bạn có thể xem trước video và quay phim của hai điện thoại di động thông qua máy này và chỉ hỗ trợ ghi âm của máy này.</string>
+	<string name="beauty_skincolor_wheat">Lúa mì</string>
 </resources>

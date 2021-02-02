@@ -177,4 +177,5 @@ Bạn có thể tìm thấy danh sách thiết bị tương thích trên trang w
 	<string name="error_remote_mirror_working">"Thiết bị khác không thể chấp nhận các mục trong khi chia sẻ màn hình"</string>
 	<string name="error_mirror_working">"Không thể chia sẻ các mục trong khi chia sẻ màn hình"</string>
 	<string name="nearby_share">Chia sẻ lân cận</string>
+	<string name="error_permission_denied">Để có thể sử dụng tính năng này, hãy cấp cho Mi Share tất cả các quyền cần thiết trong Cài đặt.</string>
 </resources>

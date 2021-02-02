@@ -2592,4 +2592,10 @@ Phiên dịch có thể mất một lúc khi bạn sử dụng tính năng này 
 	<string name="magic_network_error">"Không thể tải xuống. Kiểm tra cài đặt mạng của bạn và thử lại."</string>
 	<string name="adjust_reset">Đặt lại</string>
 	<string name="magic_brush">Cọ</string>
+	<string name="photo_editor_navigator_sticker_download_failed">"Không thể tải xuống. Kiểm tra cài đặt mạng của bạn và thử lại."</string>
+	<string name="photo_editor_navigator_sticker_download_success">Đã tải xuống thành công</string>
+	<string name="photo_editor_navigator_sticker_download_without_wifi_title">Tải xuống trình cắm</string>
+	<string name="photo_editor_navigator_download_title">Đang tải…</string>
+	<string name="vlog_filter_qingcheng">Chanh</string>
+	<string name="magic_max_px">Có vẻ như ảnh gốc quá lớn</string>
 </resources>

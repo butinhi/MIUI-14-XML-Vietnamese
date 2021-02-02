@@ -604,4 +604,7 @@ Tăng tốc tải xuống giữa các thiết bị."</string>
 	<string name="thunder_download_speedup">Đang tăng tốc bằng Xunlei…</string>
 	<string name="download_description_content">"Tải xuống là một ứng dụng hệ thống. Bạn sẽ không thể quản lý các mục tải xuống nếu bạn xóa nó."</string>
 	<string name="download_description_title">Xóa \"Tải xuống\" khỏi Màn hình chính?</string>
+	<string name="task_add">Đang thêm tác vụ…</string>
+	<string name="edit_hint2">Nhập đường dẫn HTTP, FTP, magnet, hoặc ed2k</string>
+	<string name="new_add_bt2">Thêm tác vụ torrent</string>
 </resources>

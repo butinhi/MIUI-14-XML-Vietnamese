@@ -2595,4 +2595,9 @@ Vui lòng gửi mã này cho nhân viên kỹ thuật."</string>
 	<string name="no_more_manual_edit">Bạn không muốn nhập thủ công?</string>
 	<string name="open_alipay_fill_str">Mở Alipay và điền tự động</string>
 	<string name="open_alipay_fill_str_no_blank">Mở Alipay để điền tự động</string>
+	<string name="app_sports_title_tip">Khớp dữ liệu liên quan do bên thứ ba cung cấp</string>
+	<string formatted="false" name="app_sports_fav_cancel_multi_league_content">"Lịch trình của câu lạc bộ ở %s và %s sẽ không còn được đẩy cho bạn"</string>
+	<string name="app_pa_setting_service_covid_summry">Xem thông tin mới nhất liên quan đến COVID-19</string>
+	<string name="app_pa_setting_service_covid">Thông tin COVID-19</string>
+	<string name="app_covid_card_title">Dịch vụ</string>
 </resources>

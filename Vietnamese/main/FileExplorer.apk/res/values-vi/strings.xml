@@ -1661,4 +1661,17 @@ Gia nhập cùng 170 triệu Mi Fan!"</string>
 	<string name="mirror_open_mode_loading">Đang làm mới</string>
 	<string name="go_ahead">Mở</string>
 	<string name="send">Gửi</string>
+	<string name="cdd_title">Chú ý</string>
+	<string name="access_tips">"Không thể truy cập các mục. Thay vào đó, hãy thử sử dụng Khung truy cập bộ nhớ Android."</string>
+	<string name="wechat_title">"Không thể truy cập tài liệu WeChat"</string>
+	<string name="access_limit">Truy cập vào vùng giới hạn</string>
+	<string name="qq_msg">"Do các hạn chế của Android 11, Trình quản lý tệp không thể truy cập và hiển thị tài liệu QQ."</string>
+	<string name="qq_title">"Không thể truy cập tài liệu WeChat"</string>
+	<string name="mirror_no_recommended_app">Không có ứng dụng được đề xuất</string>
+	<string name="wechat_msg">"Do các hạn chế của Android 11, Trình quản lý tệp không thể truy cập và hiển thị các tài liệu được xem trước trong WeChat. Mở và lưu tài liệu trong WeChat để chúng xuất hiện ở đây."</string>
+	<string name="transfer">Truyền &amp; tải xuống</string>
+	<string name="mirror_side_bar_tab_tranfer_name">Truyền &amp; tải xuống</string>
+	<string name="transfer_summary">Tải xuống và các mục được chuyển qua Mi Share</string>
+	<string name="cdd_message">"Do các hạn chế của Android 11, bạn sẽ không thể xem một số tệp được tạo trong các ứng dụng của bên thứ ba trong Trình quản lý tệp."</string>
+	<string name="mirror_can_not_drag_mask_new">Kéo các mục vào %s</string>
 </resources>
