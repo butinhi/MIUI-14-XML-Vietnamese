@@ -176,7 +176,7 @@
 	<string name="chinese_day_26">26</string>
 	<string name="chinese_day_25">25</string>
 	<string name="chinese_symbol_animals_cow">Sửu</string>
-	<string name="the_armed_forces_day">Ngày Quân Lực</string>
+	<string name="the_armed_forces_day">Ngày Lực lượng Vũ trang</string>
 	<string name="time_picker_label_hour">Giờ</string>
 	<string name="chinese_day_29">29</string>
 	<string name="chinese_digit_nine">9</string>
@@ -240,7 +240,7 @@
 	<string name="chinese_day_14">14</string>
 	<string name="chinese_day_19">19</string>
 	<string name="chinese_day_18">18</string>
-	<string name="the_anti_aggression_day">Ngày Chống Xâm Lược</string>
+	<string name="the_anti_aggression_day">Ngày phản chiến</string>
 	<string name="chinese_digit_eight">8</string>
 	<string name="month_january">Tháng một</string>
 	<string name="chinese_digit_four">4</string>
@@ -287,12 +287,12 @@
 	<string name="chinese_month_december">12</string>
 	<string name="solar_term_spring_begins">Lập Xuân</string>
 	<string name="earthly_branches_hai">Hợi</string>
-	<string name="the_water_lantern_festival">Lễ hội Đèn Lồng Nước</string>
+	<string name="the_water_lantern_festival">Tết Hạ Nguyên</string>
 	<string name="month_april_short">Tháng 4</string>
 	<string name="fmt_date_short_year_month">MMM, yyyy</string>
 	<string name="solar_term_autumn_equinox">Thu Phân</string>
 	<string name="month_may">Tháng năm</string>
-	<string name="the_anniversary_of_lifting_martial_law">Kỷ niệm nâng cao thiết quân luật</string>
+	<string name="the_anniversary_of_lifting_martial_law">Kỷ niệm Ngày Thiết quân Luật</string>
 	<string name="the_dragon_boat_festival">Tết Đoan ngọ</string>
 	<string name="share_title">Chia sẻ</string>
 	<string name="chinese_digit_seven">7</string>
@@ -362,7 +362,7 @@
 	<string name="miuix_appcompat_cloud_state_syncing">Đang đồng bộ với đám mây…</string>
 	<string name="the_childrens_day">"Ngày Thiếu nhi"</string>
 	<string name="night">Tối</string>
-	<string name="the_second_day">Mồng hai tết Âm lịch</string>
+	<string name="the_second_day">Mùng hai tết Âm lịch</string>
 	<string name="eras_ad">Công nguyên</string>
 	<string name="fmt_date_numeric_year_month_day">dd/MM/yyyy</string>
 	<string name="morning">Sáng</string>
@@ -374,12 +374,12 @@
 	<string name="the_night_of_sevens">Thất tịch</string>
 	<string name="month_january_shortest">Thg 1</string>
 	<string name="tuesday_shortest">T3</string>
-	<string name="the_forth_day">Mồng 4 tết Âm lịch</string>
+	<string name="the_forth_day">Mùng 4 tết Âm lịch</string>
 	<string name="the_peace_day">Ngày Tưởng niệm</string>
 	<string name="month_october_shortest">Thg 10</string>
 	<string name="solar_term_grain_in_ear">Mang chủng</string>
 	<string name="early_morning">Sáng</string>
-	<string name="the_third_day">Mồng ba tết Âm lịch</string>
+	<string name="the_third_day">Mùng ba tết Âm lịch</string>
 	<string name="the_fools_day">"Ngày Cá tháng Tư"</string>
 	<string name="solar_term_white_dews">Bạch lộ</string>
 	<string name="noon">Giữa trưa</string>
@@ -394,7 +394,7 @@
 	<string name="the_valentines_day">"Lễ tình nhân"</string>
 	<string name="the_hksar_establishment_day">Ngày thành lập đặc khu hành chính Hồng Kông</string>
 	<string name="the_teachers_day">"Lễ Giáo viên"</string>
-	<string name="the_sixth_day">Mồng sáu tết Âm lịch</string>
+	<string name="the_sixth_day">Mùng sáu tết Âm lịch</string>
 	<string name="solar_term_great_cold">Đại hàn</string>
 	<string name="share_not_install_weibo">Cài đặt Weibo trước</string>
 	<string name="solar_term_grain_rain">Cốc vũ</string>
@@ -422,7 +422,7 @@
 	<string name="the_eve_of_the_spring_festival">Đêm trừ tịch</string>
 	<string name="permission_location_introduce">Hiển thị các cửa hàng dịch vụ gần bạn nhất</string>
 	<string name="the_spirit_festival">Lễ Vu Lan</string>
-	<string name="the_seventh_day">Mồng bảy tết Âm lịch</string>
+	<string name="the_seventh_day">Mùng bảy tết Âm lịch</string>
 	<string name="solar_term_insects_awaken">Kinh trập</string>
 	<string name="miuix_appcompat_cloud_state_finished">Đồng bộ với đám mây thành công</string>
 	<string name="month_november_shortest">Thg 11</string>
@@ -436,7 +436,7 @@
 	<string name="miuix_sbl_tracking_progress_labe_up_none">"Đó là tất cả"</string>
 	<string name="permission_imei_enable_desc">Vui lòng cho phép kết nối mạng và các quyền cần thiết trên.</string>
 	<string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Kéo xuống để làm mới</string>
-	<string name="the_fifth_day">Mồng năm tết Âm lịch</string>
+	<string name="the_fifth_day">Mùng năm tết Âm lịch</string>
 	<string name="permission_external_storage_introduce">Lưu và tải lên phản hồi của bạn</string>
 	<string name="share_success">Chia sẻ thành công</string>
 	<string name="miui_guide_accessibility_image_desc">Hình ảnh</string>

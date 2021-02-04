@@ -52,7 +52,7 @@
 	<string name="icloud_new_connect_wifi">Kết nối</string>
 	<string name="month_june">Tháng sáu</string>
 	<string name="settings_system">Cài đặt hệ thống</string>
-	<string name="the_third_day">Ngày Thứ ba</string>
+	<string name="the_third_day">Mùng 3 Tết Nguyên Đán</string>
 	<string name="backup_died_title">Đã xảy ra lỗi</string>
 	<string name="button_scanning">Đang quét…</string>
 	<string name="solar_term_white_dews">Bạch Lộ</string>
@@ -123,7 +123,7 @@
 	<string name="solar_term_autumn_equinox">Thu Phân</string>
 	<string name="ble_refuse_button">Từ chối</string>
 	<string name="transfer_snap_new_restoring">Đang khôi phục…</string>
-	<string name="the_anniversary_of_lifting_martial_law">Kỷ niệm nâng cao thiết quân luật</string>
+	<string name="the_anniversary_of_lifting_martial_law">Kỷ niệm Ngày Thiết quân Luật</string>
 	<string name="dialog_rating_title">Đánh giá Mi Mover</string>
 	<string name="the_dragon_boat_festival">Tết Đoan ngọ</string>
 	<string name="solar_term_stopping_the_heat">Xử Thử</string>
@@ -176,7 +176,7 @@ Sau khi tạo câu hỏi bảo mật mới và xác nhận ngày sinh của bạ
 	<string name="com_android_email">Thư</string>
 	<string name="transfer_snap_old_backup">Đang sao lưu…</string>
 	<string name="after_reset_need_restore_system_app">"Có vẻ như bạn đã thực hiện khôi phục cài đặt gốc. Kết nối mạng và khôi phục các mục hệ thống để có thể sử dụng MIUI bình thường."</string>
-	<string name="the_armed_forces_day">Ngày Quân Lực</string>
+	<string name="the_armed_forces_day">Ngày Lực lượng Vũ trang</string>
 	<string name="ble_guest_connecting_title">Đang kết nối thiết bị mới…</string>
 	<string name="icloud_signin_fail">Không thể đăng nhập</string>
 	<string name="icloud_need_wifi_message">Bạn hiện chưa kết nối Wi-Fi. Để nhập dữ liệu từ iCloud, hãy kết nối Wi-Fi.</string>
@@ -186,7 +186,7 @@ Sau khi tạo câu hỏi bảo mật mới và xác nhận ngày sinh của bạ
 	<string name="im">IM</string>
 	<string name="settings_phone">Cài đặt điện thoại</string>
 	<string name="chinese_symbol_animals_sheep">Mùi</string>
-	<string name="the_second_day">Ngày Thứ hai</string>
+	<string name="the_second_day">Mùng 2 Tết Nguyên Đán</string>
 	<string name="tomorrow">Ngày mai</string>
 	<string name="solar_term_winter_solstice">Đông Chí</string>
 	<string name="ble_enter_verify_code_title">Nhập mã</string>
@@ -241,7 +241,7 @@ Sau khi tạo câu hỏi bảo mật mới và xác nhận ngày sinh của bạ
 	<string name="main_button_continue">Tiếp tục</string>
 	<string name="the_valentines_day">Lễ Tình Nhân</string>
 	<string name="user_manual">Hướng dẫn sử dụng</string>
-	<string name="the_hksar_establishment_day">Ngày thành lập HKSAR</string>
+	<string name="the_hksar_establishment_day">Ngày thành lập đặc khu hành chính Hồng Kông</string>
 	<string name="sim_not_ready">Đang đọc thẻ SIM. Hãy thử lại sau.</string>
 	<string name="ble_starting_ap">Đang tạo điểm phát…</string>
 	<string name="chinese_symbol_animals_tiger">Dần</string>
@@ -307,7 +307,7 @@ Sau khi tạo câu hỏi bảo mật mới và xác nhận ngày sinh của bạ
 	<string name="err_bakfile_broken">Không thể sử dụng sao lưu này.</string>
 	<string name="immersion_button_close_description">Đóng</string>
 	<string name="pm">CH</string>
-	<string name="the_fifth_day">Ngày Thứ năm</string>
+	<string name="the_fifth_day">Mùng 5 Tết Nguyên Đán</string>
 	<string name="notification_trans_receive_title">Đang nhận dữ liệu</string>
 	<string name="search_input_description">Tìm kiếm</string>
 	<string name="size_kilo_byte">KB</string>
@@ -354,7 +354,7 @@ Kích thước cập nhật Delta: %2$s"</string>
 	<string name="fmt_time_timezone">T z</string>
 	<string name="chinese_digit_thirty">30</string>
 	<string name="document">Tài liệu</string>
-	<string name="the_forth_day">Ngày Thứ tư</string>
+	<string name="the_forth_day">Mùng 4 Tết Nguyên Đán</string>
 	<string name="permission_calender_title">Truy cập sự kiện lịch</string>
 	<string name="click_to_restore">Khôi phục các mục hệ thống để có thể sử dụng MIUI bình thường sau khi khôi phục cài đặt gốc. Chạm để bắt đầu.</string>
 	<string name="month_october_shortest">Thg 10</string>
@@ -390,7 +390,7 @@ Kích thước cập nhật Delta: %2$s"</string>
 	<string name="action_mode_select_all">Chọn tất cả</string>
 	<string name="the_teachers_day">Ngày Nhà Giáo</string>
 	<string name="fmt_time_minute_second">"m 'phút' s 'giây'"</string>
-	<string name="the_sixth_day">Ngày Thứ sáu</string>
+	<string name="the_sixth_day">Mùng 6 Tết Nguyên Đán</string>
 	<string name="sim_changed_reactivate_notice">Một tin nhắn SMS có thể được yêu cầu gửi đi để kích hoạt lại dịch vụ này. Nhà cung cấp sẽ tính phí tin nhắn này.</string>
 	<string name="notif_icloud_canceled_summary">Đã hủy</string>
 	<string name="select_all">Chọn tất cả</string>
@@ -426,7 +426,7 @@ Kích thước cập nhật Delta: %2$s"</string>
 	<string name="size_peta_byte">PB</string>
 	<string name="fmt_date_time_timezone">D T z</string>
 	<string name="yesterday">Hôm qua</string>
-	<string name="the_seventh_day">Ngày Thứ bảy</string>
+	<string name="the_seventh_day">Mùng 7 Tết Nguyên Đán</string>
 	<string name="chinese_month">Tháng</string>
 	<string name="mms">MMS</string>
 	<string name="hsa_tip_title">Trợ giúp</string>
@@ -482,7 +482,7 @@ Kích thước cập nhật Delta: %2$s"</string>
 	<string name="tuesday_short">Th 3</string>
 	<string name="title_request_package_stats_perm">Yêu cầu quyền</string>
 	<string name="logining">Đang đăng nhập…</string>
-	<string name="the_peace_day">Ngày Hòa Bình</string>
+	<string name="the_peace_day">Ngày Tưởng niệm</string>
 	<string name="heavenly_stems_gui">"Quý "</string>
 	<string name="connect_wifi_tip">Không thể kết nối mạng. Kết nối với Wi-Fi để nhập các mục từ iCloud.</string>
 	<string name="the_fools_day">Cá Tháng Tư</string>
@@ -504,7 +504,7 @@ Kích thước cập nhật Delta: %2$s"</string>
 	<string name="system_restore">Khôi phục</string>
 	<string name="recovery_progress">Đang khôi phục (%1$d/%2$d)…</string>
 	<string name="other_user_data">Dữ liệu ứng dụng bên thứ ba</string>
-	<string name="the_anti_aggression_day">Ngày Chống Xâm Lược</string>
+	<string name="the_anti_aggression_day">Ngày phản chiến</string>
 	<string name="month_january">Tháng một</string>
 	<string name="notif_icloud_import_title">Nhập dữ liệu từ Xiaomi Cloud</string>
 	<string name="organization">Tổ chức</string>
@@ -543,7 +543,7 @@ Kích thước cập nhật Delta: %2$s"</string>
 	<string name="err_version_unsupported">Phiên bản sao lưu không được hỗ trợ.</string>
 	<string name="guest_install_app_hint_ensure">Tải xuống</string>
 	<string name="earthly_branches_hai">Hợi</string>
-	<string name="the_water_lantern_festival">Lễ hội Đèn Lồng Nước</string>
+	<string name="the_water_lantern_festival">Tết Hạ Nguyên</string>
 	<string name="month_april_short">Tháng 4</string>
 	<string name="abc_action_bar_home_description">Vào Trang bắt đầu</string>
 	<string name="lack_perm_title">Yêu cầu quyền</string>
@@ -565,7 +565,7 @@ Kích thước cập nhật Delta: %2$s"</string>
 	<string name="fmt_time_24hour_minute_second_millis">h:mm:ss.S</string>
 	<string name="chinese_month_november">11</string>
 	<string name="fmt_weekday_date_time">W, D T</string>
-	<string name="the_spirit_festival">Tết Trung Nguyên</string>
+	<string name="the_spirit_festival">Lễ Vu Lan</string>
 	<string name="solar_term_cold_dews">Hàn Lộ</string>
 	<string name="im_sender">Tôi là người gửi</string>
 	<string name="notif_icloud_need_wifi_summary">Đang chờ kết nối Wi-Fi</string>

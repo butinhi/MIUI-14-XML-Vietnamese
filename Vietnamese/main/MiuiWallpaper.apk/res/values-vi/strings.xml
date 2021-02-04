@@ -66,11 +66,11 @@ d MMMM"</string>
 	<string name="fmt_time_timezone">T z</string>
 	<string name="chinese_digit_thirty">30</string>
 	<string name="the_double_ninth_festival">Tết Trùng Dương</string>
-	<string name="the_forth_day">Ngày Thứ tư</string>
+	<string name="the_forth_day">Mùng 4 Tết Nguyên Đán</string>
 	<string name="month_october_shortest">Tháng 10</string>
 	<string name="month_june">Tháng sáu</string>
 	<string name="abc_activitychooserview_choose_application">Chọn ứng dụng</string>
-	<string name="the_third_day">Ngày Thứ ba</string>
+	<string name="the_third_day">Mùng 3 Tết Nguyên Đán</string>
 	<string name="abc_searchview_description_search">Tìm kiếm</string>
 	<string name="solar_term_white_dews">Bạch Lộ</string>
 	<string name="chinese_digit_six">6</string>
@@ -116,7 +116,7 @@ d MMMM"</string>
 	<string name="fmt_weekday_short">e</string>
 	<string name="the_teachers_day">Ngày Nhà Giáo</string>
 	<string name="fmt_time_minute_second">"m 'phút' s 'giây'"</string>
-	<string name="the_sixth_day">Ngày Thứ sáu</string>
+	<string name="the_sixth_day">Mùng 6 Tết Nguyên Đán</string>
 	<string name="solar_term_great_cold">Đại Hàn</string>
 	<string name="month_january_short">Tháng 1</string>
 	<string name="v7_preference_on">BẬT</string>
@@ -139,7 +139,7 @@ d MMMM"</string>
 	<string name="fmt_date_short_year_month">MMM, yyyy</string>
 	<string name="solar_term_autumn_equinox">Thu Phân</string>
 	<string name="the_christmas_day">Lễ Giáng Sinh</string>
-	<string name="the_anniversary_of_lifting_martial_law">Kỷ niệm nâng cao thiết quân luật</string>
+	<string name="the_anniversary_of_lifting_martial_law">Kỷ niệm Ngày Thiết quân Luật</string>
 	<string name="the_dragon_boat_festival">Tết Đoan ngọ</string>
 	<string name="solar_term_stopping_the_heat">Xử Thử</string>
 	<string name="chinese_digit_seven">7</string>
@@ -160,7 +160,7 @@ d MMMM"</string>
 	<string name="fmt_date_time_timezone">D T z</string>
 	<string name="yesterday">Hôm qua</string>
 	<string name="chinese_month">Tháng</string>
-	<string name="the_seventh_day">Ngày Thứ bảy</string>
+	<string name="the_seventh_day">Mùng 7 Tết Nguyên Đán</string>
 	<string name="heavenly_stems_ding">"Đinh "</string>
 	<string name="friday_short">Th 6</string>
 	<string name="solar_term_winter_begins">Lập Đông</string>
@@ -183,7 +183,7 @@ d MMMM"</string>
 	<string name="wallpaper_setting_super_wallpaper_banner_title">Siêu Hình nền</string>
 	<string name="chinese_digit_zero">0</string>
 	<string name="chinese_symbol_animals_cow">Sửu</string>
-	<string name="the_armed_forces_day">Ngày Quân Lực</string>
+	<string name="the_armed_forces_day">Ngày Lực lượng Vũ trang</string>
 	<string name="fmt_date_long_year_month_day">d MMMM, yyyy</string>
 	<string name="chinese_digit_nine">9</string>
 	<string name="wallpaper_setting_lock_screen_wallpaper_banner_button_text">Màn hình khóa</string>
@@ -200,7 +200,7 @@ d MMMM"</string>
 	<string name="wallpaper_setting_home_wallpaper_banner_button_text">Màn hình chính</string>
 	<string name="fmt_weekday_time_timezone">W T z</string>
 	<string name="chinese_symbol_animals_sheep">Mùi</string>
-	<string name="the_second_day">Ngày Thứ hai</string>
+	<string name="the_second_day">Mùng 2 Tết Nguyên Đán</string>
 	<string name="tomorrow">Ngày mai</string>
 	<string name="solar_term_winter_solstice">Đông Chí</string>
 	<string name="fmt_date_numeric_year_month_day">dd/MM/yyyy</string>
@@ -221,7 +221,7 @@ d MMMM"</string>
 	<string name="tuesday_short">Th 3</string>
 	<string name="fmt_date_numeric_year_month">M-yyyy</string>
 	<string name="tuesday_shortest">Th 3</string>
-	<string name="the_peace_day">Ngày Hòa Bình</string>
+	<string name="the_peace_day">Ngày Tưởng niệm</string>
 	<string name="fmt_date_day">d</string>
 	<string name="heavenly_stems_gui">"Quý "</string>
 	<string name="solar_term_grain_in_ear">Mang Chủng</string>
@@ -249,7 +249,7 @@ d MMMM"</string>
 	<string name="more">Thêm</string>
 	<string name="fmt_date_time">D T</string>
 	<string name="solar_term_light_snow">Tiểu Tuyết</string>
-	<string name="the_anti_aggression_day">Ngày Chống Xâm Lược</string>
+	<string name="the_anti_aggression_day">Ngày phản chiến</string>
 	<string name="chinese_digit_eight">8</string>
 	<string name="month_january">Tháng một</string>
 	<string name="the_national_day">Quốc Khánh</string>
@@ -265,7 +265,7 @@ d MMMM"</string>
 	<string name="wallpaper_setting_online_wallpaper_title">Hình nền trực tuyến</string>
 	<string name="fmt_weekday_long">EEEE</string>
 	<string name="chinese_symbol_animals_dragon">Thìn</string>
-	<string name="the_hksar_establishment_day">Ngày thành lập HKSAR</string>
+	<string name="the_hksar_establishment_day">Ngày thành lập đặc khu hành chính Hồng Kông</string>
 	<string name="chinese_day_3">3</string>
 	<string name="chinese_day_4">4</string>
 	<string name="month_june_short">Tháng 6</string>
@@ -289,7 +289,7 @@ d MMMM"</string>
 	<string name="the_spring_festival">Tết Nguyên Đán</string>
 	<string name="month_july_short">Tháng 7</string>
 	<string name="earthly_branches_hai">Hợi</string>
-	<string name="the_water_lantern_festival">Lễ hội Đèn Lồng Nước</string>
+	<string name="the_water_lantern_festival">Tết Hạ Nguyên</string>
 	<string name="month_april_short">Tháng 4</string>
 	<string name="abc_action_bar_home_description">Vào Trang bắt đầu</string>
 	<string name="month_may">Tháng năm</string>
@@ -318,7 +318,7 @@ d MMMM"</string>
 	<string name="month_august">Tháng tám</string>
 	<string name="fmt_weekday_date_time">W, D T</string>
 	<string name="solar_term_cold_dews">Hàn Lộ</string>
-	<string name="the_spirit_festival">Tết Trung Nguyên</string>
+	<string name="the_spirit_festival">Lễ Vu Lan</string>
 	<string name="solar_term_insects_awaken">Kinh Trập</string>
 	<string name="miuix_appcompat_cloud_state_finished">Đã đồng bộ với đám mây</string>
 	<string name="today">Hôm nay</string>
@@ -349,7 +349,7 @@ dd/M"</string>
 	<string name="solar_term_clear_and_bright">Thanh Minh</string>
 	<string name="chinese_symbol_animals_dog">Tuất</string>
 	<string name="pm">CH</string>
-	<string name="the_fifth_day">Ngày Thứ năm</string>
+	<string name="the_fifth_day">Mùng 5 Tết Nguyên Đán</string>
 	<string name="wallpaper_setting_online_wallpaper_none_title">Khám phá hình nền</string>
 	<string name="saturn_title">Vành đai Faraway</string>
 	<string name="no_cta_agreed">"GetApps không có quyền CTA"</string>

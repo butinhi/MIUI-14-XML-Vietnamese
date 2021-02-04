@@ -865,10 +865,10 @@ Gửi mã này cho người giám sát."</string>
 	<string name="fmt_date_numeric_day">d</string>
 	<string name="fmt_time_timezone">T z</string>
 	<string name="the_double_ninth_festival">Tết Trùng Dương</string>
-	<string name="the_forth_day">Ngày Thứ tư</string>
+	<string name="the_forth_day">Mùng 4 Tết Nguyên Đán</string>
 	<string name="month_october_shortest">Tháng 10</string>
 	<string name="month_june">Tháng sáu</string>
-	<string name="the_third_day">Ngày Thứ ba</string>
+	<string name="the_third_day">Mùng 3 Tết Nguyên Đán</string>
 	<string name="solar_term_white_dews">Bạch Lộ</string>
 	<string name="chinese_digit_six">6</string>
 	<string name="chinese_leap">Nhuận</string>
@@ -906,7 +906,7 @@ Gửi mã này cho người giám sát."</string>
 	<string name="fmt_weekday_short">e</string>
 	<string name="the_teachers_day">Ngày Nhà Giáo</string>
 	<string name="fmt_time_minute_second">"m 'phút' s 'giây'"</string>
-	<string name="the_sixth_day">Ngày Thứ sáu</string>
+	<string name="the_sixth_day">Mùng 6 Tết Nguyên Đán</string>
 	<string name="solar_term_great_cold">Đại Hàn</string>
 	<string name="month_january_short">Tháng 1</string>
 	<string name="the_united_nations_day">Ngày Liên Hợp Quốc</string>
@@ -926,7 +926,7 @@ Gửi mã này cho người giám sát."</string>
 	<string name="fmt_date_short_year_month">MMM, yyyy</string>
 	<string name="solar_term_autumn_equinox">Thu Phân</string>
 	<string name="the_christmas_day">Lễ Giáng Sinh</string>
-	<string name="the_anniversary_of_lifting_martial_law">Kỷ niệm nâng cao thiết quân luật</string>
+	<string name="the_anniversary_of_lifting_martial_law">Kỷ niệm Ngày Thiết quân Luật</string>
 	<string name="the_dragon_boat_festival">Tết Đoan ngọ</string>
 	<string name="solar_term_stopping_the_heat">Xử Thử</string>
 	<string name="chinese_digit_seven">7</string>
@@ -943,7 +943,7 @@ Gửi mã này cho người giám sát."</string>
 	<string name="the_eve_of_the_spring_festival">Giao Thừa</string>
 	<string name="fmt_date_time_timezone">D T z</string>
 	<string name="yesterday">Hôm qua</string>
-	<string name="the_seventh_day">Ngày Thứ bảy</string>
+	<string name="the_seventh_day">Mùng 7 Tết Nguyên Đán</string>
 	<string name="chinese_month">Tháng</string>
 	<string name="heavenly_stems_ding">"Đinh "</string>
 	<string name="friday_short">Th 6</string>
@@ -965,7 +965,7 @@ Gửi mã này cho người giám sát."</string>
 	<string name="heavenly_stems_geng">"Canh "</string>
 	<string name="chinese_digit_zero">0</string>
 	<string name="chinese_symbol_animals_cow">Sửu</string>
-	<string name="the_armed_forces_day">Ngày Quân Lực</string>
+	<string name="the_armed_forces_day">Ngày Lực lượng Vũ trang</string>
 	<string name="fmt_date_long_year_month_day">d MMMM, yyyy</string>
 	<string name="miuix_appcompat_action_mode_title_empty">Chọn mục</string>
 	<string name="chinese_digit_nine">9</string>
@@ -979,7 +979,7 @@ Gửi mã này cho người giám sát."</string>
 	<string name="the_childrens_day">Tết thiếu nhi</string>
 	<string name="fmt_weekday_time_timezone">W T z</string>
 	<string name="chinese_symbol_animals_sheep">Mùi</string>
-	<string name="the_second_day">Ngày Thứ hai</string>
+	<string name="the_second_day">Mùng 2 Tết Nguyên Đán</string>
 	<string name="tomorrow">Ngày mai</string>
 	<string name="solar_term_winter_solstice">Đông Chí</string>
 	<string name="fmt_date_numeric_year_month_day">dd/MM/yyyy</string>
@@ -998,7 +998,7 @@ Gửi mã này cho người giám sát."</string>
 	<string name="tuesday_short">Th 3</string>
 	<string name="fmt_date_numeric_year_month">M-yyyy</string>
 	<string name="tuesday_shortest">Th 3</string>
-	<string name="the_peace_day">Ngày Hòa Bình</string>
+	<string name="the_peace_day">Ngày Tưởng niệm</string>
 	<string name="fmt_date_day">d</string>
 	<string name="heavenly_stems_gui">"Quý "</string>
 	<string name="solar_term_grain_in_ear">Mang Chủng</string>
@@ -1019,7 +1019,7 @@ Gửi mã này cho người giám sát."</string>
 	<string name="more">Thêm</string>
 	<string name="fmt_date_time">D T</string>
 	<string name="solar_term_light_snow">Tiểu Tuyết</string>
-	<string name="the_anti_aggression_day">Ngày Chống Xâm Lược</string>
+	<string name="the_anti_aggression_day">Ngày phản chiến</string>
 	<string name="chinese_digit_eight">8</string>
 	<string name="month_january">Tháng một</string>
 	<string name="miuix_appcompat_actionbar_immersion_button_more_description">Thêm</string>
@@ -1035,7 +1035,7 @@ Gửi mã này cho người giám sát."</string>
 	<string name="the_valentines_day">Lễ Tình Nhân</string>
 	<string name="fmt_weekday_long">EEEE</string>
 	<string name="chinese_symbol_animals_dragon">Thìn</string>
-	<string name="the_hksar_establishment_day">Ngày thành lập HKSAR</string>
+	<string name="the_hksar_establishment_day">Ngày thành lập đặc khu hành chính Hồng Kông</string>
 	<string name="chinese_day_3">3</string>
 	<string name="chinese_day_4">4</string>
 	<string name="month_june_short">Tháng 6</string>
@@ -1060,7 +1060,7 @@ Gửi mã này cho người giám sát."</string>
 	<string name="the_spring_festival">Tết Nguyên Đán</string>
 	<string name="month_july_short">Tháng 7</string>
 	<string name="earthly_branches_hai">Hợi</string>
-	<string name="the_water_lantern_festival">Lễ hội Đèn Lồng Nước</string>
+	<string name="the_water_lantern_festival">Tết Hạ Nguyên</string>
 	<string name="month_april_short">Tháng 4</string>
 	<string name="month_may">Tháng năm</string>
 	<string name="month_february_shortest">Tháng 2</string>
@@ -1081,7 +1081,7 @@ Gửi mã này cho người giám sát."</string>
 	<string name="fmt_time_second_millis">"s.S 'giây'"</string>
 	<string name="month_august">Tháng tám</string>
 	<string name="fmt_weekday_date_time">W, D T</string>
-	<string name="the_spirit_festival">Tết Trung Nguyên</string>
+	<string name="the_spirit_festival">Lễ Vu Lan</string>
 	<string name="solar_term_cold_dews">Hàn Lộ</string>
 	<string name="solar_term_insects_awaken">Kinh Trập</string>
 	<string name="today">Hôm nay</string>
@@ -1107,7 +1107,7 @@ Gửi mã này cho người giám sát."</string>
 	<string name="solar_term_heavy_snow">Đại Tuyết</string>
 	<string name="chinese_symbol_animals_dog">Tuất</string>
 	<string name="pm">CH</string>
-	<string name="the_fifth_day">Ngày Thứ năm</string>
+	<string name="the_fifth_day">Mùng 5 Tết Nguyên Đán</string>
 	<string name="miuix_appcompat_select_all">Chọn tất cả</string>
 	<string name="miuix_appcompat_deselect_all">Bỏ chọn</string>
 	<string name="date_time_picker_dialog_title">Đặt ngày và giờ</string>

@@ -1911,7 +1911,7 @@ Nếu không có dự phòng, số điện thoại bị quên hoặc bị khóa,
 	<string name="fmt_time_12hour_minute_second">h:mm:ms</string>
 	<string name="the_double_ninth_festival">Tết Trùng Dương</string>
 	<string name="month_june">Tháng sáu</string>
-	<string name="the_third_day">Ngày Thứ ba</string>
+	<string name="the_third_day">Mùng 3 Tết Nguyên Đán</string>
 	<string name="solar_term_white_dews">Bạch Lộ</string>
 	<string name="chinese_digit_six">6</string>
 	<string name="chinese_leap">Nhuận</string>
@@ -1964,7 +1964,7 @@ Nếu không có dự phòng, số điện thoại bị quên hoặc bị khóa,
 	<string name="fmt_date_short_year_month">MMM, yyyy</string>
 	<string name="solar_term_autumn_equinox">Thu Phân</string>
 	<string name="app_sports_fav_add">Thêm</string>
-	<string name="the_anniversary_of_lifting_martial_law">Kỷ niệm nâng cao thiết quân luật</string>
+	<string name="the_anniversary_of_lifting_martial_law">Kỷ niệm Ngày Thiết quân Luật</string>
 	<string name="the_dragon_boat_festival">Tết Đoan ngọ</string>
 	<string name="agenda_empty_content">Không có sự kiện hôm nay.</string>
 	<string name="solar_term_stopping_the_heat">Xử Thử</string>
@@ -1991,14 +1991,14 @@ Nếu không có dự phòng, số điện thoại bị quên hoặc bị khóa,
 	<string name="heavenly_stems_geng">"Canh "</string>
 	<string name="app_paycode_parent">Alipay</string>
 	<string name="chinese_digit_zero">0</string>
-	<string name="the_armed_forces_day">Ngày Quân Lực</string>
+	<string name="the_armed_forces_day">Ngày Lực lượng Vũ trang</string>
 	<string name="app_commute_run_the_meter">Đã đo</string>
 	<string name="app_note_add">Thêm</string>
 	<string name="month_may_shortest">Tháng năm</string>
 	<string name="app_travel_btn_all_travel">Tất cả chuyến đi</string>
 	<string name="saturday_shortest">Th 7</string>
 	<string name="chinese_symbol_animals_sheep">Mùi</string>
-	<string name="the_second_day">Ngày Thứ hai</string>
+	<string name="the_second_day">Mùng 2 Tết Nguyên Đán</string>
 	<string name="tomorrow">Ngày mai</string>
 	<string name="solar_term_winter_solstice">Đông Chí</string>
 	<string name="month_march_short">Tháng 3</string>
@@ -2038,7 +2038,7 @@ Nếu không có dự phòng, số điện thoại bị quên hoặc bị khóa,
 	<string name="the_valentines_day">Lễ Tình Nhân</string>
 	<string name="miuix_search_recommendation_default_title">Bạn có thể thích những điều này</string>
 	<string name="app_commute_location_close">Truy cập vị trí</string>
-	<string name="the_hksar_establishment_day">Ngày thành lập HKSAR</string>
+	<string name="the_hksar_establishment_day">Ngày thành lập đặc khu hành chính Hồng Kông</string>
 	<string name="base_time_year">dd/MM/yyyy</string>
 	<string name="app_pa_setting_service_quick_func_summary">Truy cập nhanh tính năng cụ thể của ứng dụng</string>
 	<string name="chinese_symbol_animals_tiger">Dần</string>
@@ -2091,7 +2091,7 @@ Nếu không có dự phòng, số điện thoại bị quên hoặc bị khóa,
 	<string name="solar_term_heavy_snow">Đại Tuyết</string>
 	<string name="app_disclaimer_title">Từ chối</string>
 	<string name="pm">CH</string>
-	<string name="the_fifth_day">Ngày Thứ năm</string>
+	<string name="the_fifth_day">Mùng 5 Tết Nguyên Đán</string>
 	<string name="fmt_date_long_month_day">d MMMM</string>
 	<string name="search_menu_title">Tìm kiếm</string>
 	<string name="time_picker_label_hour">Giờ</string>
@@ -2119,7 +2119,7 @@ Nếu không có dự phòng, số điện thoại bị quên hoặc bị khóa,
 	<string name="fmt_time_timezone">T z</string>
 	<string name="chinese_digit_thirty">30</string>
 	<string name="app_miot">Mi Home</string>
-	<string name="the_forth_day">Ngày Thứ tư</string>
+	<string name="the_forth_day">Mùng 4 Tết Nguyên Đán</string>
 	<string name="month_october_shortest">Tháng 10</string>
 	<string name="agenda_add_event">Thêm sự kiện</string>
 	<string name="app_agenda_i_known">Tôi biết</string>
@@ -2144,7 +2144,7 @@ Nếu không có dự phòng, số điện thoại bị quên hoặc bị khóa,
 	<string name="app_miot_to_start">Thêm</string>
 	<string name="the_teachers_day">Ngày Nhà Giáo</string>
 	<string name="fmt_time_minute_second">"m 'phút' s 'giây'"</string>
-	<string name="the_sixth_day">Ngày Thứ sáu</string>
+	<string name="the_sixth_day">Mùng 6 Tết Nguyên Đán</string>
 	<string name="v7_preference_on">BẬT</string>
 	<string name="thursday_shortest">Th 5</string>
 	<string name="chinese_symbol_animals_rabbit">Mão</string>
@@ -2166,7 +2166,7 @@ Nếu không có dự phòng, số điện thoại bị quên hoặc bị khóa,
 	<string name="the_eve_of_the_spring_festival">Giao Thừa</string>
 	<string name="app_stock_title">Cổ phiếu</string>
 	<string name="fmt_date_time_timezone">D T z</string>
-	<string name="the_seventh_day">Ngày Thứ bảy</string>
+	<string name="the_seventh_day">Mùng 7 Tết Nguyên Đán</string>
 	<string name="chinese_month">Tháng</string>
 	<string name="heavenly_stems_ding">"Đinh "</string>
 	<string name="app_pa_setting_service_my_collection">Ưa thích</string>
@@ -2202,7 +2202,7 @@ Nếu không có dự phòng, số điện thoại bị quên hoặc bị khóa,
 	<string name="app_pa_setting_head_info_default">Trống</string>
 	<string name="month_october">Tháng mười</string>
 	<string name="tuesday_short">Th 3</string>
-	<string name="the_peace_day">Ngày Hòa Bình</string>
+	<string name="the_peace_day">Ngày Tưởng niệm</string>
 	<string name="heavenly_stems_gui">"Quý "</string>
 	<string name="the_fools_day">Cá Tháng Tư</string>
 	<string name="fmt_time_24hour_minute">HH:mm</string>
@@ -2217,7 +2217,7 @@ Nếu không có dự phòng, số điện thoại bị quên hoặc bị khóa,
 	<string name="wednesday_shortest">Th 4</string>
 	<string name="more">Thêm</string>
 	<string name="solar_term_light_snow">Tiểu Tuyết</string>
-	<string name="the_anti_aggression_day">Ngày Chống Xâm Lược</string>
+	<string name="the_anti_aggression_day">Ngày phản chiến</string>
 	<string name="app_pa_setting_service_management">Quản lý dịch vụ</string>
 	<string name="month_january">Tháng một</string>
 	<string name="chinese_day_7">7</string>
@@ -2247,7 +2247,7 @@ Nếu không có dự phòng, số điện thoại bị quên hoặc bị khóa,
 	<string name="app_pa_setting_my_collection">Ưa thích</string>
 	<string name="the_spring_festival">Tết Nguyên Đán</string>
 	<string name="earthly_branches_hai">Hợi</string>
-	<string name="the_water_lantern_festival">Lễ hội Đèn Lồng Nước</string>
+	<string name="the_water_lantern_festival">Tết Hạ Nguyên</string>
 	<string name="month_april_short">Tháng 4</string>
 	<string name="month_february_shortest">Tháng 2</string>
 	<string name="the_tw_childrens_day">Tết thiếu nhi</string>
@@ -2263,7 +2263,7 @@ Nếu không có dự phòng, số điện thoại bị quên hoặc bị khóa,
 	<string name="app_news_default_title">Tin tức</string>
 	<string name="fmt_weekday_date_time">W, D T</string>
 	<string name="app_miot_menu_edit_device">Sửa</string>
-	<string name="the_spirit_festival">Tết Trung Nguyên</string>
+	<string name="the_spirit_festival">Lễ Vu Lan</string>
 	<string name="solar_term_cold_dews">Hàn Lộ</string>
 	<string name="app_miot_add_device">Thêm</string>
 	<string name="solar_term_insects_awaken">Kinh Trập</string>
