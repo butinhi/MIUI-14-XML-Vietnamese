@@ -319,4 +319,6 @@
 	<string name="clk_quality_at_result_title_result">Kết quả</string>
 	<string name="system_update">Cập nhật hệ thống</string>
 	<string name="hqa_nfc_listen">Nghe</string>
+	<string name="seconds">Giây</string>
+	<string name="width">Chiều rộng</string>
 </resources>

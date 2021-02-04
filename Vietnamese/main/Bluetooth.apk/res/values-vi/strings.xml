@@ -272,4 +272,6 @@
 	<string name="notice_audio_share_disconnected">Không còn chia sẻ âm thanh vì bị ngắt kết nối</string>
 	<string name="bt_audio_share_notification_title">Chia sẻ âm thanh</string>
 	<string name="bt_audio_share_notification_content">Chạm để xem tùy chọn</string>
+	<string name="snapdragon_sound_notification_title">Chia sẻ qua Bluetooth</string>
+	<string name="snapdragon_sound_notification_content">Thiết bị này hỗ trợ công nghệ Qualcomm® Snapdragon Sound™</string>
 </resources>

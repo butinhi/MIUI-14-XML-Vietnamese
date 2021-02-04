@@ -2154,4 +2154,6 @@ Chuyển vùng Mi cần kết nối Internet và truy cập thông tin vị trí
 	<string name="bh_business_style">Chọn giao diện</string>
 	<string name="contacts_trash_delete_dialog_hint">"Bạn sẽ không thể hoàn tác."</string>
 	<string name="contacts_trash_activity_hint">Chọn liên hệ để khôi phục</string>
+	<string name="bh_order_pay">Thanh toán</string>
+	<string name="bh_cannot_action">"Không thể sử dụng %1$s. Cài đặt ứng dụng tương ứng trước."</string>
 </resources>

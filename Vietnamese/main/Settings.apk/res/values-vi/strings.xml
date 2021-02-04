@@ -11279,4 +11279,22 @@ Chức năng này chỉ nhận được địa chỉ MAC Wi-Fi của bạn để
 	<string name="var_font_switch_title">Phông chữ điều chỉnh toàn hệ thống</string>
 	<string name="wlan_scanner_unresizeble">"Không thể hiển thị cài đặt Wi-Fi trong chế độ chia màn hình"</string>
 	<string name="haptic_video_content_description">Video demo phản hồi xúc giác</string>
+	<string name="color_game_led_applications_title_summary">Cho phép hoặc hạn chế sử dụng LED trong \"Danh mục thông báo\"</string>
+	<string name="color_game_led_special_scene_title">Hiệu ứng đặc biệt</string>
+	<string name="color_game_led_applications_title">Chọn ứng dụng</string>
+	<string name="color_game_led_title">Nháy đèn</string>
+	<string name="setup_password_skip">Bỏ qua</string>
+	<string name="color_game_led_end_time">Thời gian kết thúc</string>
+	<string name="color_game_led_game_mode_summary">Hiển thị hiệu ứng cho trò chơi khi Tăng tốc Trò chơi bật</string>
+	<string name="color_game_led_notification_pulse_title">Thông báo dạng xung</string>
+	<string name="color_game_led_summary">Không hoạt động ở chế độ Không làm phiền</string>
+	<string name="color_game_led_charging_summary">Sẽ tắt khi pin được sạc</string>
+	<string name="color_game_led_game_mode_title">Tăng tốc Trò chơi</string>
+	<string name="color_game_led_incall_pulse_title">Nháy khi có cuộc gọi đến</string>
+	<string name="color_game_led_battery_title">Giữ luôn bật khi đang sạc</string>
+	<string name="color_game_led_start_time">Thời gian bắt đầu</string>
+	<string name="color_game_led_remind_title">Hiệu ứng nhắc nhở</string>
+	<string name="screen_enhance_engine_memc_note_2">%d. Tính năng này chỉ hoạt động khi bật công cụ video.</string>
+	<string name="color_game_led_time_title">LED sáng đúng giờ</string>
+	<string name="softbank_apn_lock_toast">APN đã khóa. Không thể sửa.</string>
 </resources>

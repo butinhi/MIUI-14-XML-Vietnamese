@@ -124,4 +124,7 @@
 	<plurals name="pc_notes_search_result">
 		<item quantity="other">Tìm thấy %1$s ghi chú</item>
 	</plurals>
+	<plurals name="item_terms">
+		<item quantity="other">%1$s mục</item>
+	</plurals>
 </resources>
