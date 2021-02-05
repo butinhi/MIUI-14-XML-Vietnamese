@@ -574,7 +574,7 @@ Vui lòng gửi mã này cho nhân viên kỹ thuật."</string>
 	<string name="rename_file_select_error">"Không thể đổi tên nhiều mục"</string>
 	<string name="picker_permission_failed">"Không thể cấp quyền. Tính năng này không hoạt động nếu không có quyền."</string>
 	<string name="account_change_message">"Bạn đã chuyển sang tài khoản %1$s. Bạn sẽ thấy dữ liệu Mi Drive liên kết với tài khoản này."</string>
-	<string name="user_protocol_and_privacy_protocol">"Tôi đã đọc và đồng ý với Thỏa thuận Người dùng và Chính sách Riêng tư."</string>
+	<string name="user_protocol_and_privacy_protocol">"Tôi đã đọc và đồng ý với &lt;a href=\"%1$s\"&gt;Thỏa thuận Người dùng&lt;/a&gt; và &lt;a href=\"%2$s\"&gt;Chính sách Riêng tư&lt;/a&gt;."</string>
 	<string name="image_preview_download_failed">"Không thể mở ảnh gốc"</string>
 	<string name="navigation_transport">Chuyển</string>
 	<string name="download_to">"Lưu vào "</string>
@@ -615,7 +615,7 @@ Vui lòng gửi mã này cho nhân viên kỹ thuật."</string>
 	<string name="xiaomi_market_sdk_update_dialog_ok">Cập nhật ngay</string>
 	<string name="update_dialog_title">Tìm thấy cập nhật mới</string>
 	<string name="update_no_update">Phiên bản hiện tại là mới nhất</string>
-	<string name="xiaomi_market_sdk_update_dialog_title">%Đã có phiên bản mới</string>
+	<string name="xiaomi_market_sdk_update_dialog_title">Đã có phiên bản mới</string>
 	<string name="update_progress_dialog_content">Đang tải xuống…</string>
 	<string name="update_no_network">Mạng không mạnh, vui lòng kiểm tra trạng thái mạng ~</string>
 	<string name="update_dialog_button_ok">Cập nhật</string>

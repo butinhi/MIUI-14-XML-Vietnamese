@@ -416,7 +416,7 @@
 	<string name="miui_ringer_status_open">BẬT</string>
 	<string name="miui_toast_zen_to_standard_when_shield_media">Đã bật Không làm phiền. Âm thanh nhạc chuông, thông báo, đa phương tiện sẽ được tắt.</string>
 	<string name="wireless_charging_saver_cancel">Tắt</string>
-	<string name="wireless_charging_tips_message">Đặt thiết bị hỗ trợ sạc không dây Qi (điện thoại, phụ kiện, v.v.) trên mặt sau của thiết bị.</string>
+	<string name="wireless_charging_tips_message">Đặt thiết bị bạn muốn sạc không dây (ví dụ: điện thoại, đồng hồ thông minh, tai nghe) ở mặt sau của điện thoại này. Đảm bảo rằng điện thoại này được sạc ít nhất %d%% trước khi sử dụng sạc không dây ngược.</string>
 	<string name="volume_dialog_accessibility_shown_message">%s chỉnh âm lượng đã hiển thị. Vuốt lên để tắt.</string>
 	<string name="quick_settings_pcmode_dialog_description">Chế độ PC hỗ trợ đa cửa sổ và có thể sử dụng với chuột và bàn phím. Chuyển sang chế độ này sẽ đóng tất cả các ứng dụng đang chạy. Một số ứng dụng có thể không hỗ trợ chế độ PC.</string>
 	<string name="timer_2_hours">%d giờ</string>

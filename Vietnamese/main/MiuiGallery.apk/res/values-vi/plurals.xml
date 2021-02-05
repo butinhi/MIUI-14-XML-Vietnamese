@@ -211,7 +211,7 @@
         <item quantity="other">%1$d tập tin</item>
     </plurals>
 	<plurals name="collage_select_image_dynamic_range">
-        <item quantity="other">Ảnh ghép có thể chứa từ 1-%d ảnh</item>
+        <item quantity="other">Ảnh ghép có thể chứa từ %1$d-%2$d ảnh</item>
     </plurals>
 	<plurals name="burst_image_download_item_title_count">
         <item quantity="other">%d ảnh</item>

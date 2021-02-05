@@ -1585,7 +1585,7 @@ In dễ dàng trên khổ A4"</string>
 	<string name="video_bokeh_color_point">Điểm màu</string>
 	<string name="extend_time_watermark_2_logo_text">SIÊU TRĂNG</string>
 	<string name="video_bokeh_blur">Mờ</string>
-	<string name="pref_camera_dynamic_frame_rate_summary">Để cải thiện chất lượng hình ảnh trong môi trường ánh sáng yếu, tốc độ khung hình được tự động giảm từ %1$d xuống %2$d</string>
+	<string name="pref_camera_dynamic_frame_rate_summary">Tốc độ khung hình sẽ tự động giảm xuống trong điều kiện ánh sáng yếu để cải thiện chất lượng video</string>
 	<string name="video_bokeh_spin">Quay</string>
 	<string name="cezanne_h_d_v">Tự động</string>
 	<string name="cas_c_32889_0x0004">Th 7</string>

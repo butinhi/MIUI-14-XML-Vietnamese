@@ -8,8 +8,7 @@
     <string name="system_navigation_mode">Chế độ điều hướng hệ thống</string>
     <string name="input_method_setting">Chọn bàn phím</string>
     <string name="input_method_category">Chọn bàn phím mặc định mà bạn sẽ sử dụng để viết tin nhắn, ghi chú, và nhiều thứ khác. Lưu ý rằng bạn có thể cài đặt bàn phím của bên thứ ba khác sau đó.</string>
-    <string name="provision_inputmethod_policy_description">"
-Xem Chính sách Riêng tư của bàn phím đã chọn."</string>
+    <string name="provision_inputmethod_policy_description">Xem &lt;a href=%1$s&gt;Chính sách Riêng tư&lt;/a &gt; của bàn phím đã chọn.</string>
     <string name="provision_inputmethod_policy_description1">Chính sách Riêng tư</string>
     <string name="multisim_settings_title">Đã phát hiện 2 thẻ SIM</string>
     <string name="multisim_settings_category">Cài đặt thẻ SIM</string>
@@ -327,4 +326,5 @@ Bạn cần đọc và đồng ý với Chính sách Riêng tư Mint Keyboard tr
 	<string name="item_return">Đặt</string>
 	<string name="title_set_fingerprint">Khóa màn hình</string>
 	<string name="item_contents_wwarning">"Nếu thiết bị của bạn bị mất, bạn sẽ không thể ngăn người khác sử dụng thiết bị và truy cập vào dữ liệu của mình trừ khi bạn đặt khóa màn hình. Vẫn bỏ qua?"</string>
+	<string name="boot_video_desc">Ngắm nhìn thế giới ở độ phân giải 2K</string>
 </resources>

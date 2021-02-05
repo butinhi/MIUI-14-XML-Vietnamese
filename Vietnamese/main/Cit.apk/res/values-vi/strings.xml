@@ -1543,4 +1543,69 @@ Nhấp vào nút Bắt đầu thu thập dữ liệu
 	<string name="DSI_configuration_set">"Đặt DSI"</string>
 	<string name="cit_tool_bluetooth_tx_rse_run">CHẠY</string>
 	<string name="cit_tool_bluetooth_rse_channel">kênh:</string>
+	<string name="cit_tool_wlan_txrx_chain_selection">Chọn ăng-ten</string>
+	<string name="cit_tool_wlan_tx_n_bandwidth">Băng thông:</string>
+	<string name="cit_batterylight">Đèn báo pin</string>
+	<string name="cit_earpiece">Loa nghe gọi</string>
+	<string name="cit_tool_wlan_rxn_test_bw">Băng thông:</string>
+	<string name="cit_camera_deleted">Đã xóa ảnh</string>
+	<string name="cit_front_dual_camera_check_title">Camera kép phía trước</string>
+	<string name="cit_tool_wlan_tx_ac">Tx: ac</string>
+	<string name="cit_tool_wlan_rxbg_test">Rx: a/b/g</string>
+	<string name="headset_test_tips">Phần này kiểm tra cắm, rút tai nghe, micro và nút trên tai nghe. Các bài kiểm tra sẽ thành công</string>
+	<string name="get_WIFI">Wi-Fi</string>
+	<string name="cit_tfcard_total_size">Tổng dung lượng</string>
+	<string name="get_HOTSPOT">Phát sóng</string>
+	<string name="cit_tool_wlan_tx_n">Tx: n</string>
+	<string name="cit_earpiece_summary">"Bạn sẽ nghe được hai số ngẫu nhiên
+Hãy nhấn vào đúng nút có số bạn nghe được"</string>
+	<string name="cit_tool_wlan_tx_bg_chan">kênh:</string>
+	<string name="cit_tool_wlan_sniffer">Công cụ WLAN Sniffer</string>
+	<string name="cit_tool_wlan_sniffer_settings">Cài đặt Sniffer</string>
+	<string name="cit_action_off">TẮT</string>
+	<string name="cit_tool_wlan_rxac_test">Rx: ac</string>
+	<string name="cit_tool_wlan_tx_bg_txrt">tốc độ dữ liệu:</string>
+	<string name="cit_tool_wlan_rx_run">CHẠY</string>
+	<string name="cit_tool_wlan_tx_n_txrt">tốc độ dữ liệu: MCS</string>
+	<string name="cit_tool_wlan_tx_bg">Tx: a/b/g</string>
+	<string name="cit_tool_wlan_rx_count_error">Giá trị đầu ra không phải là một số.</string>
+	<string name="cit_tool_wlan_tx_n_chan">kênh:</string>
+	<string name="cit_tool_wlan_rx_error">Phát sinh lỗi khi chạy chương trình.</string>
+	<string name="cit_tool_bluetooth_rx_count_error">Giá trị đầu ra không phải là một số.</string>
+	<string name="cit_tool_wlan_rx_chan">Rx: Kênh</string>
+	<string name="cit_tool_wlan_rxn_test">Rx: n</string>
+	<string name="cit_camera_check_summary">"Hướng dẫn kiểm tra:
+
+1.Chạm vào phím Máy ảnh bên dưới để vào giao diện Máy ảnh trước.
+2.Chạm vào phím Chụp.
+3.Chạm vào biểu tượng Kiểm tra. Hệ thống sẽ tự động lưu ảnh.
+4.Ảnh bạn đã chụp sẽ hiển thị bên dưới. Chạm vào \"Xóa\" để hoàn tất kiểm tra."</string>
+	<string name="cit_tool_wlan_rxbg_test_channel">kênh:</string>
+	<string name="cit_tool_wlan_rx_ap">Rx: AP</string>
+	<string name="get_BLUETOOTH">Chia sẻ qua Bluetooth</string>
+	<string name="cit_tfcard_unmounted">Thẻ SD không khả dụng</string>
+	<string name="cit_magnetic_info_hint">Hãy xoay thiết bị như 8 hình dạng</string>
+	<string name="cit_tool_wlan_tx_st_chan">kênh:</string>
+	<string name="cit_tool_wlan_tx_st">Tx: ST</string>
+	<string name="cit_tfcard_available_szie">Dung lượng khả dụng</string>
+	<string name="cit_tool_wlan_test_title">Công cụ kiểm tra Wi-Fi</string>
+	<string name="cit_vibrator_check">Kiểm tra rung</string>
+	<string name="cit_tool_wlan_rxn_test_channel">kênh:</string>
+	<string name="cit_tool_bluetooth_rx_error">Phát sinh lỗi khi chạy chương trình.</string>
+	<string name="cit_diag_wait">"Xin vui lòng chờ ... Sao chép tập tin"</string>
+	<string name="get_RECEIVER">Loa nghe gọi</string>
+	<string name="cit_action_on">BẬT</string>
+	<string name="cit_tool_wlan_rx_exit">Rx: thoát</string>
+	<string name="cit_tool_wlan_rx_ap_name">MT</string>
+	<string name="cit_sar_sensor_collect_cali_description">Hiệu chỉnh và thu thập dữ liệu cảm biến SAR</string>
+	<string name="cit_capture_fail">Không chụp được ảnh</string>
+	<string name="get_USB">USB</string>
+	<string name="cit_fp_fod_cali_title">"hiệu chuẩn vân tay"</string>
+	<string name="cit_tfcard_mounted">Phát hiện thẻ SD</string>
+	<string name="cit_tool_wlan_tx_bg_txpr">công suất tx:</string>
+	<string name="cit_tool_wlan_rx_stop">Dừng</string>
+	<string name="cit_front_sub_camera_check_title">Camera phụ phía trước</string>
+	<string name="cit_tool_wlan">Công cụ kiểm tra Wi-Fi</string>
+	<string name="cit_tool_wlan_tx_n_txpr">công suất tx:</string>
+	<string name="cit_tool_wlan_exit">Thoát</string>
 </resources>

@@ -4306,7 +4306,7 @@ Sau khi được đặt, nếu bạn đóng ứng dụng, các quyền sẽ tr�
 	<string name="privacy_risk_dangerous_notice">Đọc và quản lý thông báo</string>
 	<string name="privacy_risk_dangerous_usage_msg">Cho phép ứng dụng theo dõi hoạt động của thiết bị</string>
 	<string name="perm_list_header_title_has_storage">Ứng dụng có bộ nhớ</string>
-	<string formatted="false" name="menu_text_deepclean_summary">%1s/%2s chiếm dụng</string>
+	<string name="menu_text_deepclean_summary">%1$s/%2$s chiếm dụng</string>
 	<string name="privacy_risk_sensitive_second_msg">Các ứng dụng có thể sử dụng các quyền này để truy cập thông tin cá nhân của bạn</string>
 	<string name="special_perm_follow_msg">Cho phép ứng dụng theo dõi việc sử dụng thiết bị</string>
 	<string name="pp_grant_permission_only_during_app_use">"Chỉ cho phép ứng dụng sử dụng quyền khi bạn đang sử dụng ứng dụng"</string>
