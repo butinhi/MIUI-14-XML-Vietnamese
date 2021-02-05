@@ -2818,4 +2818,5 @@ Chạm vào "%2$s" để bắt đầu tải xuống nội dung này vào lần t
 	<string name="incognito">Ẩn danh</string>
 	<string name="no_content">Chưa có nội dung</string>
 	<string name="new_copy_address">Đường dẫn sao chép trước đó</string>
+	<string name="store__share_loading">Đang tải...</string>
 </resources>

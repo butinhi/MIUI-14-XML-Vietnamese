@@ -492,4 +492,10 @@ dd/M"</string>
 	<string name="scheduled_style_summary">Đặt thời gian tùy chỉnh</string>
 	<string name="always_style_symmary">Tốn pin hơn</string>
 	<string name="aod_theme_store">Chủ đề Màn hình luôn bật</string>
+	<string name="align_left_vertically">Xếp chồng và căn trái</string>
+	<string name="align_right_vertically">Xếp chồng và căn phải</string>
+	<string name="align_left_horizontally">Căn ngang và căn trái</string>
+	<string name="align_center_horizontally">Căn ngang và căn giữa</string>
+	<string name="align_right_horizontally">Căn chỉnh ngang và phải</string>
+	<string name="align_center_vertically">Xếp chồng và căn giữa</string>
 </resources>
