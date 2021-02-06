@@ -15,7 +15,7 @@
      <string name="pref_title_create_onekeyclean_shortcut">Hiển thị lối tắt Màn hình chính</string>
      <string name="tips_low_storage_dialog_cancel">Hủy</string>
      <string name="tips_low_storage_dialog_msg_qq">Dung lượng bộ nhớ đệm QQ đã đạt đến 3GB. Điều này có thể làm chậm thiết bị của bạn. Xóa bộ nhớ đệm QQ ngay?</string>
-     <string name="tips_low_storage_dialog_msg_storage">Bạn đang sử dụng 90% dung lượng lưu trữ. Gỡ cài đặt các ứng dụng không sử dụng.</string>
+     <string name="tips_low_storage_dialog_msg_storage">Bạn đang sử dụng 90%% dung lượng lưu trữ. Gỡ cài đặt các ứng dụng không sử dụng.</string>
      <string name="tips_low_storage_dialog_msg_wechat">Dung lượng bộ nhớ đệm WeChat đã đạt đến 3GB. Điều này có thể làm chậm thiết bị của bạn. Xóa bộ nhớ đệm WeChat ngay?</string>
      <string name="tips_low_storage_dialog_ok">Xóa</string>
      <string name="tips_low_storage_dialog_ok_storage">Giải phóng dung lượng</string>

@@ -120,7 +120,7 @@ Lưu ý rằng ứng dụng này cần kết nối mạng và yêu cầu các qu
 	<string name="compose_message_hint">Nhập trả lời nhanh ở đây</string>
 	<string name="iv_fw_close_content_description">Thoát Mi Ditto</string>
 	<string name="sound_recording_permission">Ghi âm cuộc gọi và âm thanh</string>
-	<string name="select_engine_ifly_text">iFLYREC có thể phiên âm trong thời gian thực với độ chính xác lên đến 98% cho Mandarin.</string>
+	<string name="select_engine_ifly_text">iFLYREC có thể phiên âm trong thời gian thực với độ chính xác lên đến 98%% cho Mandarin.</string>
 	<string name="btn_text_next">Tiếp theo</string>
 	<string name="title_how_to_save_messages">Làm cách nào để tôi phiên âm các mục?</string>
 	<string name="save_to_note">Lưu vào Ghi chú</string>

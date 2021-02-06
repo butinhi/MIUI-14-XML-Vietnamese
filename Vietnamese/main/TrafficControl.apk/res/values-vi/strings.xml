@@ -371,7 +371,7 @@ TRUNG BÌNH"</string>
     <string name="v2_pref_usage_and_savings_notification">Sử dụng và tiết kiệm</string>
     <string name="v2_pref_usage_and_savings_notification_description">Thông báo liên tục về việc sử dụng và tiết kiệm dữ liệu hàng tháng</string>
     <string name="v2_pref_wifi_data_header">Dữ liệu Wi‑Fi</string>
-    <string name="v2_preinstall_discovery_notification_message">Tiết kiệm tới 50% với Opera Max.</string>
+    <string name="v2_preinstall_discovery_notification_message">Tiết kiệm tới 50%% với Opera Max.</string>
     <string name="v2_preinstall_discovery_notification_sub_text">Chạm để khởi động bây giờ.</string>
     <string name="v2_preinstall_discovery_notification_title">Tiết kiệm dữ liệu</string>
     <string name="v2_pull_to_reveal_hidden_view_prompt">Powered by</string>
@@ -486,7 +486,7 @@ TRUNG BÌNH"</string>
     <string name="v2_vpn_message">Để tiết kiệm dữ liệu và cho phép bạn quản lý cách ứng dụng sử dụng dữ liệu, Opera Max cần tạo kết nối VPN.</string>
     <string name="v2_vpn_not_supported">VPN không được hỗ trợ</string>
     <string name="v2_vpn_not_supported_line1">Opera Max không tạo được kênh VPN và sẽ không thể tiết kiệm dữ liệu.</string>
-    <string name="v2_vpn_reminder_generic">Kết nối Opera Max để tiết kiệm tới 50% dữ liệu di động.</string>
+    <string name="v2_vpn_reminder_generic">Kết nối Opera Max để tiết kiệm tới 50%% dữ liệu di động.</string>
     <string name="v2_vpn_warning">Trên Android, đánh dấu tùy chọn này có nghĩa là bạn cần vào Opera Max và kết nối sau mỗi lần khởi động lại thiết bị.</string>
     <string name="v2_week_number">Tuần %d</string>
     <string name="v2_what_are_passes">Các Thẻ Ứng dụng là gì?</string>

@@ -131,7 +131,6 @@
     <string name="title_createfolder">Tạo thư mục</string>
     <string name="hint_createfolder">Tên thư mục</string>
     <string name="defalut_nameofnewfile">Thư mục mới</string>
-    <string name="title_selectfile_num">Đã chọn % tập tin</string>
     <string name="confirm">Xác nhận</string>
     <string name="error_info_cant_send_folder">"Can't send folder"</string>
     <string name="error_nofile_selected">Không có tập tin nào được chọn</string>

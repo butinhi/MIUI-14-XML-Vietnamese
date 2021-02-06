@@ -1043,7 +1043,7 @@ thiết bị của bạn"</string>
     <string name="notification_exit_power_save_mode">Đã tắt Tiết kiệm pin</string>
     <string name="notification_exit_power_save_mode_subtitle">Đã sạc %s.</string>
     <string name="power_save_mode_auto_exit_title">Tắt khi sạc</string>
-    <string name="power_save_mode_auto_exit_summary">Tắt khi pin 60% hoặc đã sạc đầy</string>
+    <string name="power_save_mode_auto_exit_summary">Tắt khi pin 60%% hoặc đã sạc đầy</string>
     <string name="power_save_mode_close_warn_title">Tiết kiệm Pin</string>
     <string name="power_save_mode_close_warn_text">Tiết kiệm Pin giới hạn hoạt động nền và đồng bộ. Nếu bạn chọn sử dụng khi thiết bị được sạc, một vài tính năng có thể không làm việc bình thường. Bật tiết kiệm pin khi thiết bị được sạc?</string>
     <string name="battery_health_title_text">Tình trạng pin</string>
@@ -2307,7 +2307,7 @@ Nhà cung cấp dịch vụ của bạn có thể tính thêm phí nếu bạn b
     <string name="exit_dialog_garbage_clean_message">Rác trên thiết bị của bạn đã hơn %s. Xóa rác?</string>
     <string name="exit_dialog_garbage_clean_positive_button">Dọn dẹp</string>
     <string name="exit_dialog_release_storage_title">Giải phóng dung lượng</string>
-    <string name="exit_dialog_release_storage_message">Hơn 80% lưu trữ trên thiết bị của bạn bị chiếm dụng. Giải phóng không gian bằng cách gỡ cài đặt ứng dụng mà bạn không sử dụng.</string>
+    <string name="exit_dialog_release_storage_message">Hơn 80%% lưu trữ trên thiết bị của bạn bị chiếm dụng. Giải phóng không gian bằng cách gỡ cài đặt ứng dụng mà bạn không sử dụng.</string>
     <string name="exit_dialog_release_storage_positive_button">Giải phóng dung lượng</string>
 	<string name="ac_pre_notification_contentTitle">Thử Khóa ứng dụng</string>
     <string name="ac_post_notification_contentTitle">Bật Khóa ứng dụng</string>
@@ -4088,7 +4088,7 @@ Sau khi được đặt, nếu bạn đóng ứng dụng, các quyền sẽ tr�
 	<string name="ew_info_range">Phạm vi dịch vụ</string>
 	<string name="ew_not_support_area">"Cảnh báo không hỗ trợ ở khu vực này"</string>
 	<string name="gtb_wlan_speed_tips">Đang dùng Mi WiFi…</string>
-	<string formatted="false" name="gtb_setting_item_summary_smart_wlan_speed">Tăng tốc độ kết nối khoảng 10%-20% khi kết nối tới router Mi/Redmi</string>
+	<string formatted="false" name="gtb_setting_item_summary_smart_wlan_speed">Tăng tốc độ kết nối khoảng 10%%-20%% khi kết nối tới router Mi/Redmi</string>
 	<string name="gtb_setting_item_title_smart_wlan_speed">Tăng tốc Mi WiFi</string>
 	<string name="charger_detect_no_remind">Không hiển thị lại</string>
 	<string name="charger_detect_button_ok">Tôi biết</string>

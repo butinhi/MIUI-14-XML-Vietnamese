@@ -83,7 +83,7 @@
     <string name="keyguard_charging_info_last_charged_time_text">Sạc lần trước</string>
     <string name="keyguard_charging_info_battery_used_time_text">Thời gian sử dụng</string>
     <string name="keyguard_charging_info_drained_power_percent_text">Tiêu hao điện năng</string>
-    <string name="keyguard_charging_info_tip_text1">Giữ pin thiết bị nhiều hơn 10 % để kéo dài tuổi thọ.</string>
+    <string name="keyguard_charging_info_tip_text1">Giữ pin thiết bị nhiều hơn 10%% để kéo dài tuổi thọ.</string>
     <string name="keyguard_charging_info_tip_text2">Không sạc thiết bị quá tải. Sạc nhiều lần ngắn tốt hơn sạc qua đêm.</string>
     <string name="keyguard_charging_info_tip_text3">Tránh sạc thiết bị khi nhiệt độ xung quanh dưới 0℃.</string>
     <string name="keyguard_charging_info_tip_text4">Không sử dụng thiết bị khi sạc để tránh quá nóng.</string>

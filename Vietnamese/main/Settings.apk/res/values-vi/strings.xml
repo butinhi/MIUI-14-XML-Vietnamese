@@ -6684,7 +6684,7 @@ Bạn chắc chắn sử dụng giờ được cấp bởi GPS?"</string>
      <string name="stop_upload_modem_log">Kết thúc nhận nhật ký modem</string>
      <string name="structure_add_facerecoginition_text">Thêm dữ liệu khuôn mặt 3D</string>
      <string name="structure_face_enroll_not_able_low_electric_itle">Không thể sử dụng tính năng này do pin yếu</string>
-     <string name="structure_face_enroll_not_able_low_electric_msg">Pin phải ít nhất 5% để bắt đầu ghi.</string>
+     <string name="structure_face_enroll_not_able_low_electric_msg">Pin phải ít nhất 5%% để bắt đầu ghi.</string>
      <string name="structure_manage_facerecoginition_text">Quản lý dữ liệu khuôn mặt 3D</string>
      <string name="super_resolution_access_title">Ứng dụng có thể truy cập</string>
      <string name="super_resolution_desc">Làm cho ảnh rõ nét hơn bằng thuật toán AI</string>

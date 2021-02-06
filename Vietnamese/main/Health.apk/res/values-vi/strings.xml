@@ -831,7 +831,7 @@ Bạn có thể chọn nguồn dữ liệu khác trong Thêm &gt; Nguồn dữ l
 	<string name="manual_record">Ghi thủ công</string>
 	<string name="maximum">Tối đa</string>
 	<string name="manual_add">Thêm thủ công</string>
-	<string name="sleep_detection_guide_four_description">Theo dõi giấc ngủ sẽ tốn khoảng 1% pin mỗi ngày.</string>
+	<string name="sleep_detection_guide_four_description">Theo dõi giấc ngủ sẽ tốn khoảng 1%% pin mỗi ngày.</string>
 	<string name="rate_short">Không đủ</string>
 	<string name="tracking_progress_labe_release_to_refresh">Thả ra để làm mới</string>
 	<string name="sleep_snore_audio_enable">Đang bật tự động phát hiện</string>
@@ -1051,7 +1051,7 @@ Nếu sự cố này xảy ra thường xuyên, hãy kiểm tra thiết bị c�
 	<string name="tb_picker_height">Chiều cao đã chọn: %1$s. Vuốt theo chiều dọc để chọn chiều cao.</string>
 	<string name="muscle_rate">Cơ bắp</string>
 	<string name="sleep_detection_feedback">Phản hồi</string>
-	<string formatted="false" name="rem_duration_description">REM đề cập đến chuyển động mắt nhanh chóng. Giấc ngủ có thể được chia thành giấc ngủ chuyển động nhanh (REM) và giấc ngủ không chuyển động nhanh (NREM). Giấc ngủ chuyển động mắt nhanh chiếm khoảng 20 đến 25%% tổng thời gian ngủ. Khi mọi người thức dậy ở giai đoạn này, 74 đến 95%% trong số họ nói rằng họ đã mơ và có thể nhớ được giấc mơ của họ. Não rất năng động và cơ thể hoàn toàn thư giãn trong giấc ngủ REM, điều này làm cho giai đoạn ngủ này cần thiết để duy trì các chức năng nhận thức.</string>
+	<string name="rem_duration_description">REM đề cập đến chuyển động mắt nhanh chóng. Giấc ngủ có thể được chia thành giấc ngủ chuyển động nhanh (REM) và giấc ngủ không chuyển động nhanh (NREM). Giấc ngủ chuyển động mắt nhanh chiếm khoảng 20 đến 25%% tổng thời gian ngủ. Khi mọi người thức dậy ở giai đoạn này, 74 đến 95%% trong số họ nói rằng họ đã mơ và có thể nhớ được giấc mơ của họ. Não rất năng động và cơ thể hoàn toàn thư giãn trong giấc ngủ REM, điều này làm cho giai đoạn ngủ này cần thiết để duy trì các chức năng nhận thức.</string>
 	<string name="expand_all">Xem tất cả</string>
 	<string name="not_standing">" Bạn chưa đứng dậy"</string>
 	<string name="snore_detection_guide_schedule_suggest_details">Micro sẽ được bật trong thời gian ngủ để phân tích giấc ngủ của bạn. Để thống kê chính xác hơn, đặt lịch ngủ của bạn trong Đồng hồ.</string>
@@ -1829,7 +1829,7 @@ Các thử nghiệm của chúng tôi cho thấy rằng phương pháp này đo 
 	<string name="sleep_day_single_short_title">Ngủ ngắn</string>
 	<string name="sleep_day_multi_short_title">Ngủ ngắn %1$d</string>
 	<string name="MediaControlView_ad_remaining_time">Quảng cáo · %1$s còn lại</string>
-	<string name="skipping_upload_dialog_msg">Để cung cấp trải nghiệm đếm lần nhảy dây chính xác hơn, Sức khỏe Xiaomi sẽ tải lên tệp ghi âm lần nhảy dây của bạn trong điều kiện% s để tối ưu hóa hiệu ứng nhận dạng lần nhảy dây. Để bảo vệ quyền riêng tư của bạn, việc tải lên và lưu trữ các tệp ghi âm sẽ được mã hóa nghiêm ngặt.</string>
+	<string name="skipping_upload_dialog_msg">Khi thiết bị của bạn được kết nối với %s, bạn có thể chọn tải lên âm thanh được ghi lại trong quá trình tập luyện để cải thiện độ chính xác của thống kê tập luyện. Để bảo vệ quyền riêng tư của bạn, các tệp âm thanh sẽ được mã hóa. </string>
 	<string name="course_detail_consume">%1$d Kcal</string>
 	<string name="mcv2_overflow_left_button_desc">Quay lại danh sách nút trước đó</string>
 	<string name="recent_train">Đào tạo gần đây</string>

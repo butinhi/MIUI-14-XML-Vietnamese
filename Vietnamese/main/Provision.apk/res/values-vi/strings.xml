@@ -126,7 +126,7 @@ Bạn phải đồng ý với Chính sách Riêng tư Kika trước khi sử d�
     <string name="terms_of_use_lable_smart_cards">, Thẻ thông minh</string>
     <string name="terms_privacy_policy_input_method_facemoji">Chính sách Riêng tư Facemoji</string>
     <string name="terms_privacy_policy_input_method_kika">Chính sách Riêng tư Kika</string>
-    <string name="voice_assist_advice">Mi AI cho phép bạn sử dụng điều khiển bằng giọng nói, nhưng nó tiêu thụ nhiều điện năng hơn (+ 1% mỗi giờ).</string>
+    <string name="voice_assist_advice">Mi AI cho phép bạn sử dụng điều khiển bằng giọng nói, nhưng nó tiêu thụ nhiều điện năng hơn (+ 1%% mỗi giờ).</string>
     <string name="voice_assist_condition">"Bạn sẽ có thể sử dụng Mi AI trong những trường hợp sau:
 1. Khi màn hình bật.
 2. Khi bạn đang nghe nhạc với màn hình tắt."</string>

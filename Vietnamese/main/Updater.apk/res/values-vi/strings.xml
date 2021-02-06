@@ -101,7 +101,7 @@
     <string name="user_begin">Tải xuống</string>
     <string name="recovery_failed_title">Sử dụng Mi PC Suite để cập nhật hệ thống của bạn</string>
     <string name="recovery_power_not_enough_title">Pin yếu</string>
-    <string name="recovery_power_not_enough_msg">Sạc thiết bị ít nhất 15% pin để cập nhật.</string>
+    <string name="recovery_power_not_enough_msg">Sạc thiết bị ít nhất 15%% pin để cập nhật.</string>
     <string name="recovery_power_need_plugged">Kết nối bộ sạc để cập nhật</string>
     <string name="recovery_power_plugged_warning">Chắc chắn rằng bộ sạc đã kết nối với thiết bị trong suốt quá trình cập nhật.</string>
     <string name="recovery_failed_msg">"Thiết bị của bạn không đủ bộ nhớ để vào chế độ Khôi phục và cập nhật hệ thống. Hãy thử sử dụng Mi PC Suite để thay thế:
@@ -319,7 +319,7 @@ Không thể gửi phản hồi"</string>
     <string name="network_error">Lỗi kết nối mạng</string>
     <string name="new_updates_found_notification_title">Tìm thấy phiên bản mới</string>
     <string name="progress_title_checking">Đang kiểm tra cập nhật…</string>
-    <string name="recovery_power_not_enough_msg_plugged">Pin phải trên 30% trước khi thiết bị có thể cập nhật</string>
+    <string name="recovery_power_not_enough_msg_plugged">Pin phải trên 30%% trước khi thiết bị có thể cập nhật</string>
     <string name="share">Chia sẻ</string>
     <string name="share_qq">Đăng qua Tencent Weibo</string>
     <string name="sogou_uninstall_msg">Bàn phím Sogou (Phiên bản dành cho điện thoại Mi) không tương thích với MIUI 7. Hãy sử dụng bàn phím khác hoặc cập nhật phiên bản mới hơn.</string>

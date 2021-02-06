@@ -46,7 +46,7 @@
     <string name="package_unzip_error">Lỗi giải nén</string>
     <string name="downloadSuccess">Tải xuống hoàn tất</string>
     <string name="tips">Mẹo</string>
-    <string name="tips_content"><Data> &lt;div style=font-size:15px;color:#4c4c4c>&lt;p>1. FOTA có thể giúp thiết bị của bạn chạy mượt mà hơn và hiệu quả hơn.&lt;/p> &lt;p>2. Chúng tôi đề nghị bạn tải về các gói cập nhật thông qua Wi-Fi.&lt;/p> &lt;p>3. Hãy chắc chắn rằng thiết bị của bạn có nhiều hơn 30% pin, và rút phích cắm bộ sạc trước khi nâng cấp.&lt;/p> &lt;p>4. Thiết bị của bạn có thể khởi động lại vài lần trong khi cài đặt, vui lòng không tháo pin và đừng làm gì cho đến khi cập nhật được hoàn tất.&lt;/p>&lt;/div> </Data>" "</string>
+    <string name="tips_content"><Data> &lt;div style=font-size:15px;color:#4c4c4c>&lt;p>1. FOTA có thể giúp thiết bị của bạn chạy mượt mà hơn và hiệu quả hơn.&lt;/p> &lt;p>2. Chúng tôi đề nghị bạn tải về các gói cập nhật thông qua Wi-Fi.&lt;/p> &lt;p>3. Hãy chắc chắn rằng thiết bị của bạn có nhiều hơn 30%% pin, và rút phích cắm bộ sạc trước khi nâng cấp.&lt;/p> &lt;p>4. Thiết bị của bạn có thể khởi động lại vài lần trong khi cài đặt, vui lòng không tháo pin và đừng làm gì cho đến khi cập nhật được hoàn tất.&lt;/p>&lt;/div> </Data>" "</string>
     <string name="new_version">Phiên bản mới: </string>
     <string name="upgrade_newversion">Phiên bản mới hiện có sẵn: </string>
     <string name="upgrade_hint">Gợi ý cập nhật</string>
