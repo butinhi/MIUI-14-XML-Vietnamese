@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<resources>
+	<string-array name="account_user_gender_name">
+		<item>Nam</item>
+		<item>Nữ</item>
+	</string-array>
+	<string-array name="shortcut_dialog_keep">
+		<item>OK</item>
+		<item>Theo dõi</item>
+	</string-array>
+	<string-array name="shortcut_dialog_delete">
+		<item>Xóa</item>
+		<item>Không, cảm ơn</item>
+	</string-array>
+	<string-array name="menu_theme_setting">
+		<item>Trắng</item>
+		<item>Vàng</item>
+		<item>Xám</item>
+		<item>Nâu</item>
+		<item>Lục</item>
+		<item>Lam</item>
+	</string-array>
+	<string-array name="shortcut_dialog_title">
+		<item>Tin nhắn từ Trình duyệt</item>
+		<item>Cùng Mi đồng hành Olympics</item>
+	</string-array>
+	<string-array name="user_guide_title_array">
+		<item>Tải video</item>
+		<item>Lưu Trạng thái WhatsApp</item>
+		<item>Tập tin cá nhân</item>
+	</string-array>
+	<string-array name="speed_result_tips">
+		<item>Kết nối mạng hiện tại rất chậm. Dường như bạn đang ở khu vực có mạng phủ sóng kém.</item>
+		<item>Kết nối mạng hiện tại chậm.</item>
+		<item>Không tìm thấy vấn đề kết nối mạng.</item>
+		<item>Kết nối mạng hiện tại nhanh. Đủ để bạn xem phim trực tuyến!</item>
+		<item>Kết nối mạng hiện tại rất nhanh! Bạn có thể chiến game với rất nhiều ưu thế.</item>
+	</string-array>
+	<string-array name="nf_feedback_reason">
+		<item>Nội dung khiêu dâm</item>
+		<item>Thông tin sai sự thật</item>
+		<item>Tin cũ</item>
+		<item>Quan điểm cực đoan</item>
+		<item>Quảng cáo trá hình</item>
+	</string-array>
+	<string-array name="user_guide_info_array">
+		<item>Tải video và ảnh từ các trang mạng xã hội</item>
+		<item>Lưu ảnh và video từ trạng thái WhatsApp</item>
+		<item>Quản lý tập tin trên thiết bị và đặt ở chế độ riêng tư</item>
+	</string-array>
+</resources>

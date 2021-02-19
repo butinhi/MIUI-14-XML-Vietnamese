@@ -225,7 +225,7 @@
     <string name="cta_dialog_text3">và</string>
     <string name="cta_dialog_text4">\"Chính sách Riêng tư\".</string>
     <string name="cta_dialog_text5">Dịch vụ yêu cầu kết nối internet và truy câp dịch vụ vị trí. Đồng ý?</string>
-	<string name="cta_dialog_text_all">Để sử dụng App Vault, bạn nên đọc và đồng ý với %1$s\"User Thỏa thuận &amp;quot; %2$s và %3$s &amp;quot;Chính sách bảo mật&amp;quot; %4$s. Dịch vụ này cũng yêu cầu kết nối internet và truy cập vào các dịch vụ vị trí. Đồng ý?</string>
+	<string name="cta_dialog_text_all">Để sử dụng App Vault, bạn nên đọc và đồng ý với %1$s\"Thỏa thuận Người dùng\" %2$s và %3$s \"Chính sách Riêng tư\" %4$s. Dịch vụ này cũng yêu cầu kết nối internet và truy cập vào các dịch vụ vị trí. Đồng ý?</string>
     <string name="cta_dialog_title">Điều khoản và Điều kiện</string>
     <string name="cta_negative">Đóng</string>
     <string name="cta_positive">Chi tiết</string>
