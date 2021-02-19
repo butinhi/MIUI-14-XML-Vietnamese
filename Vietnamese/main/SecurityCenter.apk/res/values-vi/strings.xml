@@ -3733,7 +3733,7 @@ Sau khi được đặt, nếu bạn đóng ứng dụng, các quyền sẽ tr�
 	<string name="storage_app_uninstall_app_dialog_title">Đang gỡ cài đặt ứng dụng</string>
 	<string name="privacy_using_record">Đang ghi âm</string>
 	<string name="privacy_location_info_summary">Quản lý truy cập vào vị trí của bạn</string>
-	<string name="privacy_permission_storage">Đang truy cập bộ nhớ</string>
+	<string name="privacy_permission_storage">Truy cập bộ nhớ</string>
 	<string name="power_off_warning_message">Pin yếu. Thiết bị của bạn sẽ tắt trong %d giây. Kết nối bộ sạc.</string>
 	<string name="usb_format_summary">Xóa tất cả dữ liệu trên thiết bị lưu trữ USB (bao gồm nhạc và ảnh)</string>
 	<string name="required_permissions">Quyền bắt buộc</string>
@@ -3812,7 +3812,7 @@ Sau khi được đặt, nếu bạn đóng ứng dụng, các quyền sẽ tr�
 	<string name="optional_permissions_desc">"Các quyền này được yêu cầu khi bạn sử dụng tính năng bổ sung."</string>
 	<string name="privacy_protect_title">Riêng tư</string>
 	<string name="storage_app_manager_uninstall_with_xspace_app_dlg_msg">"Ứng dụng kép của ứng dụng này cũng sẽ được gỡ cài đặt."</string>
-	<string name="privacy_permission_location">Đang truy cập vị trí</string>
+	<string name="privacy_permission_location">Truy cập vị trí</string>
 	<string name="pc_battery_history_usetime_title">Hoạt động</string>
 	<string name="HIPS_Perm_process_nfc_Desc">Đang sử dụng NFC</string>
 	<string name="app_behavior_get_install_single">Ứng dụng này đã truy cập danh sách ứng dụng của bạn</string>
@@ -3825,7 +3825,7 @@ Sau khi được đặt, nếu bạn đóng ứng dụng, các quyền sẽ tr�
 	<string name="power_superpower_title_systemui_lowpower">Kết nối bộ sạc</string>
 	<string name="oaid_reset_final_tip">Bạn có chắc chắn muốn tắt ID nhận dạng ảo?</string>
 	<string name="permission_action_desc_prompt">Quyền này chỉ có thể sử dụng khi bạn cho phép</string>
-	<string name="privacy_using_location">Đang truy cập vị trí</string>
+	<string name="privacy_using_location">Truy cập vị trí</string>
 	<string name="power_off_warning_notification_title">Chuẩn bị tắt máy</string>
 	<string name="storage_mount_success">Kết nối %1$s thành công</string>
 	<string name="intl_perm_notification_title">Bảo vệ sự riêng tư của bạn</string>
@@ -4429,7 +4429,7 @@ và khám phá Đổi giọng nói!"</string>
 	<string name="special_perm_window_msg">Cho phép ứng dụng hiển thị các mục ở chế độ PiP</string>
 	<string name="input_celluar_data_quota_hint">Nhập giới hạn dữ liệu</string>
 	<string name="power_optimize_close_consume_app">Đóng các ứng dụng gây hao pin</string>
-	<string name="power_center_battery_charge_times">Tính phí hôm nay</string>
+	<string name="power_center_battery_charge_times">Lần sạc hôm nay</string>
 	<string name="special_perm_intercept_file_title">Truy cập và chỉnh sửa tệp qua máy tính</string>
 	<string name="special_perm_intercept_action_title">Tìm hiểu hành vi của bạn và tự động hóa các hành động</string>
 	<string name="privacy_risk_photo_location">Ảnh có thông tin vị trí</string>
@@ -4457,7 +4457,7 @@ và khám phá Đổi giọng nói!"</string>
 	<string name="gb_voice_changer_dialog_upgrade_vip">Gia hạn đăng ký của bạn để có thể sử dụng phản hồi theo thời gian thực.</string>
 	<string name="privacy_risk_result_photo_delete_msg">Nhận thông báo khi ứng dụng xóa các mục khỏi Thư viện mà không có sự cho phép của bạn</string>
 	<string name="power_center_batteryrank_all">Tất cả mức sử dụng pin</string>
-	<string name="pp_understanding_privacy">Hiểu biết</string>
+	<string name="pp_understanding_privacy">Tổng quan</string>
 	<string name="battery_status_level_excellent">Xuất sắc</string>
 	<string name="full_fill_sim_location">Đặt vị trí trước</string>
 	<string name="permission_instruction_read_write_calendar">Quyền này cho phép các ứng dụng truy cập vào lịch của bạn, cũng như đọc, thêm, xóa, chỉnh sửa, chia sẻ và lưu các sự kiện lịch. Các ứng dụng độc hại có thể sử dụng quyền này để gửi tin nhắn từ tên của bạn hoặc chỉnh sửa các sự kiện lịch mà không có sự đồng ý của bạn.</string>

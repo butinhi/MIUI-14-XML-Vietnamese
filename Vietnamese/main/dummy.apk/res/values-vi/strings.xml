@@ -2662,7 +2662,7 @@ Dường như ở đó không có ngựa hay bất kỳ loài động vật nào
     <string name="freeform_guide_move_to_small_freeform_window_summary">Kéo cửa sổ nổi tới góc màn hình</string>
     <string name="freeform_guide_move_to_small_freeform_window_title">Thu nhỏ cửa sổ nổi</string>
     <string name="freeform_guide_notification_drop_down_summary">Nhấn giữ và kéo xuống thanh hành động của một thông báo</string>
-    <string name="freeform_guide_notification_drop_down_title">Đang mở cửa sổ nổi</string>
+    <string name="freeform_guide_notification_drop_down_title">Mở cửa sổ nổi</string>
     <string name="freeform_guide_settings">Cửa sổ nổi</string>
     <string name="freeform_guide_slide_up_to_close_summary">Vuốt lên từ thanh hành động của cửa sổ nổi</string>
     <string name="freeform_guide_slide_up_to_close_title">Đóng cửa sổ nổi</string>

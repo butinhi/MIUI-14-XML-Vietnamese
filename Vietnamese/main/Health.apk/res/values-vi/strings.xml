@@ -1519,7 +1519,7 @@ Nếu thiết bị của bạn nằm trong danh sách này, bạn có thể thê
 	<string name="exercise_remind_content_improve_goal">Giữ gìn sức khỏe bằng cách tăng dần mục tiêu hoạt động của bạn</string>
 	<string name="hr_detect_state_reseting_desc">Chỉ cần thức dậy hoặc hoàn toàn thư giãn</string>
 	<string name="hr_phone_detect_records">Bản ghi đo bằng điện thoại di động</string>
-	<string name="hr_measure_heart_rate">Đang đo nhịp tim</string>
+	<string name="hr_measure_heart_rate">Đo nhịp tim</string>
 	<string name="hr_see_report">Xem báo cáo</string>
 	<string name="hr_disturb_detect">Gián đoạn đo</string>
 	<string name="hr_detect_finished">Hoàn thành đo</string>

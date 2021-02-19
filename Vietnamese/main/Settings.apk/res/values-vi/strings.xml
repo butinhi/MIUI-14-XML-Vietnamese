@@ -10017,7 +10017,7 @@ Sao chép tệp tin sao lưu vào thiết bị của bạn (MIUI-backup-AllBacku
 	<string name="allow_oaid_used_desc">"MIUI không thể cung cấp ID ảo (OAID) cho các ứng dụng đã cài đặt. Một số tính năng đề xuất cá nhân có thể không hoạt động đúng vì điều đó."</string>
 	<string name="structure_face_data_input_up">Tìm kiếm</string>
 	<string name="multi_face_number_reach_limit">"Không thể thêm dữ liệu cho nhiều hơn 2 khuôn mặt"</string>
-	<string name="freeform_guide_notification_drop_down_title">Đang mở cửa sổ nổi</string>
+	<string name="freeform_guide_notification_drop_down_title">Mở cửa sổ nổi</string>
 	<string name="structure_face_unlock_not_same_person">"Bạn phải tự hoàn thành tất cả các bước. Đừng đổi chỗ với ai."</string>
 	<string name="face_unlock_success_show_message_msg">Chỉ hiển thị nguồn thông báo khi thiết bị khóa và thêm chi tiết thông báo khi khuôn mặt được xác thực</string>
 	<string name="wifi_security_short_none_owe">Không/OWE</string>

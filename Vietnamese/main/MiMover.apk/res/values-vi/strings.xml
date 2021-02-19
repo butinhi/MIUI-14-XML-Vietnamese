@@ -549,7 +549,7 @@ Kích thước cập nhật Delta: %2$s"</string>
 	<string name="lack_perm_title">Yêu cầu quyền</string>
 	<string name="do_not_restore_temporarily">Lần tới</string>
 	<string name="finished">Đã kết thúc</string>
-	<string name="permission_locale_title">Đang truy cập vị trí</string>
+	<string name="permission_locale_title">Truy cập vị trí</string>
 	<string name="button_return">Quay lại</string>
 	<string name="month_february_shortest">T6</string>
 	<string name="the_tw_childrens_day">Tết thiếu nhi</string>
@@ -805,7 +805,7 @@ Chúng tôi sẽ bảo vệ thông tin cá nhân của bạn theo luật pháp, 
 	<string name="wechat_app_receive_fail">"Không thể nhận WeChat"</string>
 	<string name="prompt_before_transmission_message3_summary">"Các mục từ Không gian thứ hai không thể chuyển vì giới hạn hệ thống."</string>
 	<string name="ble_connect_request_hint">Có vẻ như có thiết bị lân cận đang sử dụng Mi Mover. Kết nối ngay?</string>
-	<string name="permission_contacts_title">Đang truy cập liên hệ</string>
+	<string name="permission_contacts_title">Truy cập liên hệ</string>
 	<string name="miui_wait_link_title_1">"%d. Chạm \"Tôi là người gửi\" và chờ một chút."</string>
 	<string name="miui_wait_link_title_2">%d. Chọn điểm phát này trên thiết bị cũ để kết nối.</string>
 	<string name="permission_storage_summary">Để chuyển tệp và hình ảnh đến thiết bị mới</string>

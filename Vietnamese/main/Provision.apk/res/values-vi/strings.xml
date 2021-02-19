@@ -261,7 +261,7 @@ Bạn cần đọc và đồng ý với Chính sách Riêng tư Mint Keyboard tr
 	<string name="service_name_fast_pairing">Liên kết Mi</string>
 	<string name="disagreement_abnormal_running_fast_pairing">"Nếu bạn không đồng ý cấp các quyền đó, bạn sẽ không thể sử dụng ứng dụng này. Bạn có thể chọn hạn chế quyền trong Cài đặt trong những trường hợp như vậy."</string>
 	<string name="service_name_backup">Sao lưu</string>
-	<string name="permission_backup">Đang truy cập bộ nhớ</string>
+	<string name="permission_backup">Truy cập bộ nhớ</string>
 	<string name="backup_introduction">Bạn có thể sử dụng ứng dụng này để sao lưu và khôi phục các mục trên thiết bị của bạn.</string>
 	<string name="permission_backup_introduction">Để truy cập và lưu bản sao lưu trên thiết bị</string>
 	<string name="move_data_dialog_use">Sử dụng</string>

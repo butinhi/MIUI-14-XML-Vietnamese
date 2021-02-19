@@ -363,7 +363,7 @@
 	<string name="send_files_by">Chia sẻ tệp tin qua</string>
 	<string name="enable_nfc">Không còn sạc. NFC đã bật lại.</string>
 	<string name="disable_nfc_reverse">Đã tắt NFC để sạc không dây ngược</string>
-	<string name="enable_nfc_reverse">No longer reverse charging. NFC is back on.</string>
+	<string name="enable_nfc_reverse">Không còn sạc ngược. Bật lại NFC.</string>
 	<string name="magic_window_toast">Nhân bản ứng dụng đã bật.</string>
 	<string name="disable_nfc">Đã tắt NFC để sạc không dây</string>
 	<string name="freeform_exchange_tip2">Kéo đến góc để hủy</string>
