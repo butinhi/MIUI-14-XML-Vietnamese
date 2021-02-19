@@ -252,7 +252,7 @@
 	<string-array name="magic_idp_size_category">
 		<item>Chung</item>
 		<item>Du lịch</item>
-		<item>Làm việc</item>
+		<item>Công việc</item>
 		<item>Tài liệu</item>
 		<item>Giáo dục</item>
 		<item>Bài tập</item>
@@ -287,7 +287,7 @@
 		<item>Chứng chỉ phương thức xây dựng hạng nhất điện tử</item>
 		<item>Chứng chỉ phương thức tạo hạng hai</item>
 		<item>Kiểm tra chức danh kế toán cơ sở</item>
-		<item>Kế toán viên công chứng nhận</item>
+		<item>Kế toán viên</item>
 		<item>Giấy phép hướng dẫn Bắc Kinh</item>
 		<item>Thi tuyển chức danh kế toán trung cấp</item>
 		<item>Thi tuyển chức danh kế toán cao cấp</item>
@@ -295,31 +295,31 @@
 		<item>Kỳ thi kế toán công được chứng nhận</item>
 	</string-array>
 	<string-array name="magic_idp_size_category_education">
-		<item>Đơn đăng ký tham gia</item>
-		<item>Mạng sinh viên</item>
-		<item>Mạng sinh viên cho các trường tiểu học</item>
-		<item>Hồ sơ mạng của sinh viên</item>
+		<item>Đơn đăng ký</item>
+		<item>Thẻ sinh viên</item>
+		<item>Thẻ học sinh tiểu học</item>
+		<item>Hồ sơ sinh viên</item>
 		<item>Nhập học đại học</item>
 		<item>NCEE</item>
 		<item>Tiếp tục lại</item>
 	</string-array>
 	<string-array name="magic_effects_video_titles">
 		<item/>
-		<item>Đường viền màu</item>
-		<item>Đường viền gạch ngang</item>
-		<item>Đường viền huỳnh quang</item>
-		<item>Bóng đổ màu</item>
+		<item>Viền màu</item>
+		<item>Viền nét đứt</item>
+		<item>Viền huỳnh quang</item>
+		<item>Đổ bóng màu</item>
 		<item>Sóng điện</item>
-		<item>Hiện tại</item>
+		<item>Dòng điện</item>
 		<item>Sóng</item>
 		<item>Các hạt</item>
-		<item>Văn bản</item>
+		<item>Chữ</item>
 		<item>Cánh</item>
 		<item>Thiên thần</item>
 	</string-array>
 	<string-array name="magic_idp_size_category_certificates">
 		<item>An sinh xã hội</item>
-		<item>Tuyên bố về sức khoẻ</item>
+		<item>Chứng nhận sức khoẻ</item>
 		<item>Bảo hiểm y tế</item>
 		<item>ID</item>
 		<item>Giấy phép cư trú</item>

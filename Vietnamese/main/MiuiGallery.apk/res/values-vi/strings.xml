@@ -2611,9 +2611,9 @@ Phiên dịch có thể mất một lúc khi bạn sử dụng tính năng này 
 	<string name="acc_video_pause_btn">Nút Tạm dừng</string>
 	<string name="art_still_download_sdk_without_wifi_msg">"Có vẻ như thiết bị của bạn không được kết nối với Wi-Fi. Tải xuống trình cắm bằng dữ liệu di động?"</string>
 	<string name="text_tab_idp6">Bài tập</string>
-	<string name="magic_idp_guide_text4">Mặc quần áo đơn giản và tránh phụ kiện.</string>
+	<string name="magic_idp_guide_text4">Quần áo đơn giản, ít phụ kiện.</string>
 	<string name="acc_clsoe_function_button">Nút tắt âm thanh gốc</string>
-	<string name="magic_idp_guide_text5">"Đừng để tóc che khuất mặt, lộ tai và nhìn thẳng vào máy ảnh."</string>
+	<string name="magic_idp_guide_text5">"Đừng để tóc che mặt, lộ tai, nhìn thẳng vào máy ảnh."</string>
 	<string name="cd_btn_back">Nút Quay lại</string>
 	<string name="magic_video_cut_max">Chọn tới %1$d giây</string>
 	<string name="photo_editor_talkback_crop_18_9">18:9</string>
@@ -2623,7 +2623,7 @@ Phiên dịch có thể mất một lúc khi bạn sử dụng tính năng này 
 	<string name="magic_idp_guide_text2">Chọn một nền đồng màu.</string>
 	<string name="support_single_video">Chọn một video</string>
 	<string name="magic_id_photo_dsc">Tạo ảnh thẻ chỉ bằng một lần nhấn</string>
-	<string name="magic_idp_guide_text3">Đảm bảo rằng khuôn mặt của bạn được chiếu sáng đều.</string>
+	<string name="magic_idp_guide_text3">Đảm bảo mặt sáng đều.</string>
 	<string name="photo_editor_remover2_download_sdk_without_wifi_msg">"Dường như bạn chưa kết nối Wi-Fi. Sử dụng %1$d MB dữ liệu di động để tải AI Erase 2.0?"</string>
 	<string name="acc_video_play_btn">Nút Phát</string>
 	<string name="magic_idp_save_type">Lưu kết quả</string>
@@ -2712,7 +2712,7 @@ Phiên dịch có thể mất một lúc khi bạn sử dụng tính năng này 
 	<string name="adjust_highlight_shadow">Nổi bật &amp; Bóng</string>
 	<string name="magic_matting_module_finish">Tải thành công trình cắm \"Ma thuật\"</string>
 	<string name="id_photo_module_finish">Tải thành công trình cắm \"Ảnh thẻ\"</string>
-	<string name="magic_idp_guide_tack">Làm cách nào để chụp ảnh đẹp</string>
+	<string name="magic_idp_guide_tack">Cách để có ảnh đẹp</string>
 	<string name="filter_sky_random_download_failed">"Không thể tải. Mã lỗi: "</string>
 	<string name="home_menu_video_post">Hiệu ứng video</string>
 	<string name="unsupport_image">"%s không hỗ trợ ảnh"</string>
