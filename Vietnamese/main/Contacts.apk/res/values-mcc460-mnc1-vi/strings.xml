@@ -26,7 +26,7 @@
     <string name="simContacts_emptyLoading">Đang tải liên hệ từ thẻ SIM…</string>
     <string name="simContacts_title">Liên hệ trên thẻ SIM</string>
     <string name="sim_account_name">SIM</string>
-    <string name="sim_capacity">Dung lượng thẻ SIM</string>
+    <string name="sim_capacity">Xem lưu trữ trên SIM</string>
     <string name="sim_card_no_free_space_message">Thẻ SIM của bạn đã đầy, không thể nhập liên hệ mới. Hãy xóa thẻ SIM và thử lại.</string>
     <string name="sim_card_no_free_space_title">Thẻ SIM đầy</string>
     <string name="sim_contact_existing">Liên hệ trên thẻ SIM đã tồn tại.</string>

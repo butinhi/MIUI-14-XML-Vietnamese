@@ -2473,7 +2473,7 @@ Nếu không có dự phòng, số điện thoại bị quên hoặc bị khóa,
 	<string name="app_pa_setting_service_red_envelope_summary">Get discounts and shopping offers</string>
 	<string name="app_stock_name_szzs">SSE</string>
 	<string name="cta_dialog_desc_calendar">For displaying calendar events and planned trips</string>
-	<string name="app_shopping_card_sale_volume_million">100万</string>
+	<string name="app_shopping_card_sale_volume_million">100 vạn</string>
 	<string name="base_minute_second">mm:ss</string>
 	<string name="app_express_manual_query_hint">Enter order number to search</string>
 	<string name="app_express_send_provider_xiaomi">Mi Express</string>
@@ -2495,7 +2495,7 @@ Nếu không có dự phòng, số điện thoại bị quên hoặc bị khóa,
 	<string name="app_express_company">Delivery service</string>
 	<string name="app_express_settings_recommend_item_1">"Can't find your package?"</string>
 	<string name="app_express_shunfeng_verify_dialog_title">Complete verification</string>
-	<string name="app_shopping_card_sale_volume_template">%1$s销量 %2$s</string>
+	<string name="app_shopping_card_sale_volume_template">%1$s bán hàng %2$s</string>
 	<string name="app_pa_setting_service_surrounding_summary">Discover interesting places nearby</string>
 	<string name="app_surround_feature_menus">Recommended items: %1$s</string>
 	<string name="app_course_section">Section %s</string>
@@ -2506,7 +2506,7 @@ You can also track express delivery on the official websites of delivery compani
 	<string name="app_surround_meituan">Meituan</string>
 	<string name="app_debug_settings_staging4qa_title">Staging4qa</string>
 	<string name="app_pa_setting_key_bugreport">key_bugreport</string>
-	<string name="app_travel_card_title_dep_from">%s出发</string>
+	<string name="app_travel_card_title_dep_from">%s khởi hành</string>
 	<string name="app_surround_avg_price">￥%1$s per person</string>
 	<string name="app_express_settings_disclaimer_desc">You can add your phone number to track the packages using the following delivery systems: Guoguo, SF Express (powered by Guoguo), JD, Mi Store, and Youpin.</string>
 	<string name="app_travel_train_seat_no_split">、</string>

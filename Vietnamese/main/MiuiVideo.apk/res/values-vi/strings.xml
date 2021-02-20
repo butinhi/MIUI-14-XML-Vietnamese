@@ -728,9 +728,9 @@ Hãy thử tìm kiếm cái gì khác."</string>
     <string name="passport_use_generated_pwd_message">Hãy chắc chắn rằng bạn đã nhớ mật khẩu. Bạn có thể sử dụng mật khẩu này để đăng nhập các dịch vụ Mi khác.</string>
     <string name="passport_use_generated_pwd_title">Nhớ mật khẩu của bạn</string>
     <string name="passport_user_agreement">Thỏa thuận Người dùng</string>
-    <string name="passport_user_agreement_p1">Đồng ý với </string>
+    <string name="passport_user_agreement_p1">"Đồng ý với "</string>
     <string name="passport_user_agreement_p2">Thỏa thuận Người dùng</string>
-    <string name="passport_user_agreement_p3"> và </string>
+    <string name="passport_user_agreement_p3">" và "</string>
     <string name="passport_user_agreement_p4">Chính sách Riêng tư</string>
     <string name="passport_vcode_notification_title">Xác minh đăng nhập của bạn là không đầy đủ</string>
     <string name="passport_vcode_prompt_long">Nhập mã xác minh</string>

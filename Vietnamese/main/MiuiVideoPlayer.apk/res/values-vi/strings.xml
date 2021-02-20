@@ -128,9 +128,9 @@
     <string name="passport_querying_phone_info">Đang yêu cầu thông tin tài khoản…</string>
     <string name="passport_area_code_title">Mã quốc gia</string>
     <string name="passport_area_code_hot">THƯỜNG SỬ DỤNG</string>
-    <string name="passport_user_agreement_p1">Đồng ý với </string>
+    <string name="passport_user_agreement_p1">"Đồng ý với "</string>
     <string name="passport_user_agreement_p2">Thỏa thuận Người dùng</string>
-    <string name="passport_user_agreement_p3"> và </string>
+    <string name="passport_user_agreement_p3">" và "</string>
     <string name="passport_user_agreement_p4">Chính sách Riêng tư</string>
     <string name="passport_privacy_policy">Chính sách Riêng tư</string>
     <string name="passport_user_agreement">Thỏa thuận Người dùng</string>

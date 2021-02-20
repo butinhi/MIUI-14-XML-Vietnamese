@@ -1010,7 +1010,7 @@ Nguyên nhân: \"%s\""</string>
     <string name="simContacts_emptyLoading">Đang tải liên hệ từ thẻ SIM…</string>
     <string name="simContacts_title">Liên hệ trên thẻ SIM</string>
     <string name="sim_account_name">SIM</string>
-    <string name="sim_capacity">Xem dung lượng thẻ SIM</string>
+    <string name="sim_capacity">Xem lưu trữ trên SIM</string>
     <string name="sim_capacity_content">Tổng %1$d | Đã dùng %2$d</string>
     <string name="sim_card_no_free_space_message">Không đủ dung lượng</string>
     <string name="sim_card_no_free_space_title">Thẻ SIM đầy</string>

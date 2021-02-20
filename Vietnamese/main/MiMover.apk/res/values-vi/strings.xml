@@ -809,7 +809,7 @@ Chúng tôi sẽ bảo vệ thông tin cá nhân của bạn theo luật pháp, 
 	<string name="miui_wait_link_title_1">"%d. Chạm \"Tôi là người gửi\" và chờ một chút."</string>
 	<string name="miui_wait_link_title_2">%d. Chọn điểm phát này trên thiết bị cũ để kết nối.</string>
 	<string name="permission_storage_summary">Để chuyển tệp và hình ảnh đến thiết bị mới</string>
-	<string name="permission_wifi_title">Đang bật/tắt Wi-Fi</string>
+	<string name="permission_wifi_title">Bật/tắt Wi-Fi</string>
 	<string name="close_cellular_summary">Do giới hạn hệ thống, kết nối mạng hiện tại là lưu lượng dữ liệu, vui lòng tắt lưu lượng dữ liệu và kết nối lại với điện thoại mới</string>
 	<string name="ble_start_ap_successed">Đã tạo điểm phát. Đang chờ kết nối…</string>
 	<string name="ble_enter_verifycode_timeout_summary">"Mã đã được nhập một thời gian dài. Kết nối thủ công."</string>

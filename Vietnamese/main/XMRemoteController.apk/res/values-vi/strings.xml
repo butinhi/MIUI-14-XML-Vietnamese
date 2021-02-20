@@ -228,7 +228,7 @@
     <string name="gesture_pad_orietaion_tips">Trượt về các hướng. Chạm để xác nhận.</string>
     <string name="gesture_pad_sencond_line_tips">· Chạm &amp; giữ trung tâm màn hình để xem menu. Trượt lên hoặc xuống để điều chỉnh âm lượng.</string>
     <string name="gesture_pad_vol_tips">Sử dụng phím âm lượng điện thoại để điều chỉnh âm lượng thiết bị được kết nối</string>
-    <string name="get_backup_failed">"Couldn't fix, try again"</string>
+    <string name="get_backup_failed">"Không thể sửa. Thử lại"</string>
     <string name="get_backup_succeed">Khôi phục thành công. Tổng: %1$d | Hiên tại: %2$d| Đã khôi phục: %3$d</string>
     <string name="get_data_fail_tips">Không thể nhận dữ liệu, hãy thử lại</string>
     <string name="get_info_failed">Không lấy thông tin</string>
@@ -858,9 +858,9 @@ Sau đó trả lời các câu hỏi"</string>
     <string name="passport_title_reg">Tạo tài khoản</string>
     <string name="passport_trust_device">Tin tưởng thiết bị này</string>
     <string name="passport_user_agreement">Thỏa thuận người dùng</string>
-    <string name="passport_user_agreement_p1">Bạn đồng ý với </string>
+    <string name="passport_user_agreement_p1">"Đồng ý với "</string>
     <string name="passport_user_agreement_p2">Thỏa thuận người dùng</string>
-    <string name="passport_user_agreement_p3"> và </string>
+    <string name="passport_user_agreement_p3">" và "</string>
     <string name="passport_user_agreement_p4">Chính sách Riêng tư</string>
     <string name="passport_vcode_notification_title">Xác minh đăng nhập của bạn chưa hoàn tất</string>
     <string name="passport_vcode_prompt_long">Nhập mã xác minh</string>

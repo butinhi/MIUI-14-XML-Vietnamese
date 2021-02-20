@@ -457,7 +457,7 @@ Nếu cả hai thiết bị không thể kết nối tới cùng một mạng, b
 
 2. Trên một số mẫu TV, tính năng này chỉ khả dụng khi phản chiếu màn hình bật. Xem \"Trợ giúp\" để biết thêm chi tiết."</string>
 	<string name="dialog_no_device_message_china">&lt;Data&gt;1. Kết nối cả điện thoại và TV vào cùng mạng Wi-Fi.&lt;br&gt;&lt;br&gt;2. Trên một số mẫu TV, tính năng này chỉ khả dụng khi phản chiếu màn hình bật. Xem &lt;a href=milink://com.milink.service/specification&gt;\"Trợ giúp\"&lt;/a&gt; để biết thêm chi tiết.&lt;/Data&gt;</string>
-	<string name="privacy_permission_wlan_china">Đang bật/tắt Wi-Fi</string>
+	<string name="privacy_permission_wlan_china">Bật/tắt Wi-Fi</string>
 	<string name="privacy_permission_wlan_desc_china">Nhận thông tin về các thiết bị có thể sàng lọc gần đó</string>
 	<string name="screen_projection_example_gallery_title">Ảnh &amp; video</string>
 	<string name="keyguard_security_setting_privacy_policy">Chính sách Riêng tư</string>

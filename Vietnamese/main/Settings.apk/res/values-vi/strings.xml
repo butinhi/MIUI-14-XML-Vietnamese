@@ -3764,8 +3764,8 @@ Bạn có thể thay đổi điều này sau đó từ Cài đặt > Ứng dụn
     <string name="device_build_id">Số phiên bản</string>
     <string name="device_memory">RAM</string>
     <string name="device_internal_memory">Bộ nhớ trong</string>
-    <string name="device_available_memory">Bộ nhớ trống</string>
-    <string name="device_total_memory">Tổng bộ nhớ</string>
+    <string name="device_available_memory">"Bộ nhớ trống "</string>
+    <string name="device_total_memory">"Tổng bộ nhớ "</string>
     <string name="device_sd_memory">Thẻ SD</string>
     <string name="device_cpu2_info">"2 nhân "</string>
     <string name="device_cpu6_info">"6 nhân "</string>
