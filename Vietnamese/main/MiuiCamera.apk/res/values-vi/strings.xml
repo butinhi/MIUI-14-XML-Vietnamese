@@ -2135,4 +2135,5 @@ Bên kia cần bật khóa chuyển "Ghi nhiều camera" trên thanh thông báo
 	<string name="beauty_skincolor_wheat">Lúa mì</string>
 	<string name="timerburst_pressed_hint">Nhấn để dừng chụp</string>
 	<string name="network_connection_prerequisites_china">Bật Bluetooth và Wi-Fi để có thể sử dụng tính năng Ghi âm điện thoại kép.</string>
+	<string name="mimoji_eyelid">Mí mắt</string>
 </resources>

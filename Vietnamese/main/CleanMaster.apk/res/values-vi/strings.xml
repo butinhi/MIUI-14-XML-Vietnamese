@@ -956,7 +956,7 @@
 	<string name="notification_memory_clean_used_size">Đã dùng %s bộ nhớ</string>
 	<string name="notification_low_storage_size_1_GB_hint">Dọn dẹp sâu có thể giúp đỡ</string>
 	<string name="notification_low_storage_size_1.5_GB_hint">Giải phóng bộ nhớ để tăng tốc thiết bị</string>
-	<string name="notification_uninstalled_clean_without_name">Các ứng dụng đã gỡ có thể để lại vài mục</string>
+	<string name="notification_uninstalled_clean_without_name">Có thể còn rác từ các ứng dụng đã gỡ</string>
 	<string name="notification_memory_clean_hint">Chạm để tăng tốc</string>
 	<string name="notification_low_storage_size_1.5_GB">Còn ít hơn %.1f GB dung lượng lưu trữ còn lại</string>
 	<string name="notification_low_storage_size_1_GB">Ít hơn %d GB dung lượng lưu trữ còn lại</string>

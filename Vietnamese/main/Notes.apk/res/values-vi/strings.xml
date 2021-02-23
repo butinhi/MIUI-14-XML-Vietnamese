@@ -916,4 +916,8 @@ Cho phép Ghi chú ghi âm."</string>
 	<string name="pref_quick_note_desc">Sử dụng phím tắt ở cạnh màn hình để tạo ghi chú và tác vụ, cũng như lưu URL, văn bản và hình ảnh đã sao chép vào Ghi chú.</string>
 	<string name="excerpt">Tạo một đoạn trích</string>
 	<string name="toast_excerpt_open_note">Mở ghi chú bằng đoạn trích</string>
+	<string name="sync_desc_state_complete">Đã đồng bộ với Xiaomi Cloud</string>
+	<string name="sync_desc_state_running">Đã đồng bộ với Xiaomi Cloud</string>
+	<string name="sync_desc_state_disable">Bật đồng bộ với đám mây</string>
+	<string name="sync_desc_state_complete_china">Tất cả %1$s đã được đồng bộ</string>
 </resources>

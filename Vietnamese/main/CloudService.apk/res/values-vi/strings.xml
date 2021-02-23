@@ -1107,4 +1107,5 @@ Thông tin vị trí có thể không được báo cáo khi kết nối mạng 
 	<string name="device_activation_card_title">Lần kích hoạt đầu tiên</string>
 	<string name="device_activation_card_cannot_get_yet">"Không thể nhận thông tin. Hãy thử lại sau 3-5 ngày."</string>
 	<string name="recommend_service_sharelocation_description">Xác định vị trí, khóa và xóa dữ liệu trên các thiết bị bị thiếu cũng như chia sẻ vị trí với bạn bè và gia đình của bạn</string>
+	<string name="micloud_setting_bluetooth_summary">Đồng bộ thông tin về thiết bị đã ghép nối với đám mây</string>
 </resources>

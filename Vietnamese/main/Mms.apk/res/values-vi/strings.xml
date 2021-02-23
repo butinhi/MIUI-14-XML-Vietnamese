@@ -1568,4 +1568,5 @@ Tắt Chế độ máy bay trước."</string>
 	<string name="pref_summary_enable_ad_notification">Bật thông báo nhóm về tin nhắn khuyến mại trong Bảng Thông báo</string>
 	<string name="no_dialogue_yet">Chọn cuộc gội thoại</string>
 	<string name="pref_title_enable_ad_notification">Tin nhắn quảng cáo</string>
+	<string name="rcs_chatbot_blocked_tip">"Ứng dụng nhỏ này vừa bị chặn. Không thể bắt đầu hội thoại."</string>
 </resources>

@@ -1,2 +1,11 @@
 
 *.tbt
+.idea/.gitignore
+.idea/misc.xml
+.idea/MIUI-12-XML-Vietnamese.iml
+.idea/modules.xml
+.idea/vcs.xml
+.idea/inspectionProfiles/Project_Default.xml
+Vietnamese/main/ZTestTrans.apk/res/values-vi/arrays.xml
+Vietnamese/main/ZTestTrans.apk/res/values-vi/plurals.xml
+Vietnamese/main/ZTestTrans.apk/res/values-vi/strings.xml

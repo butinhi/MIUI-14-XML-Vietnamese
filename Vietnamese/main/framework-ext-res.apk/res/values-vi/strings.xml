@@ -370,4 +370,8 @@
 	<string name="freeform_exchange_tip">Thả ra để mở ứng dụng</string>
 	<string name="turn_on_work_profile">Bật</string>
 	<string name="nearby_share">Chia sẻ lân cận</string>
+	<string name="application_cannot_open_alipay_health_code">"Không thể mở mã sức khỏe Alipay"</string>
+	<string name="application_cannot_open_weixin_health_code">"Không thể mở mã sức khỏe WeChat"</string>
+	<string name="miui_multiwindow_not_support_small_window">"%1$s không hỗ trợ cửa sổ nổi"</string>
+	<string name="miui_multiwindow_not_support_split">"%1$s không hỗ trợ chia màn hình"</string>
 </resources>

@@ -2851,4 +2851,6 @@ Bạn sẽ được thông báo khi có thể sử dụng lại cổng USB."</st
 	<string name="accessibility_enter_lock_setting">Chạm để mở cài đặt Tạp chí Khóa màn hình</string>
 	<string name="accessibility_keyboard_letter_board_caps_lock_button">Caps lock</string>
 	<string name="control_center_notification_switch_guide">Vuốt để chuyển giữa Trung tâm điều khiển và Bảng thông báo</string>
+	<string name="bluetooth_le_audio_profile_summary_use_for">Sử dụng cho LE_AUDIO</string>
+	<string name="bluetooth_le_audio_profile_summary_connected">Đã kết nối LE_AUDIO</string>
 </resources>

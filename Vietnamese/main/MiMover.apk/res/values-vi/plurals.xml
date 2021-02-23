@@ -94,4 +94,7 @@
 	<plurals name="hour">
 		<item quantity="other">&lt;g id="hour"&gt;%1$d&lt;/g&gt; giờ</item>
 	</plurals>
+	<plurals name="miuix_appcompat_items_selected">
+		<item quantity="other">Đã chọn %d mục</item>
+	</plurals>
 </resources>

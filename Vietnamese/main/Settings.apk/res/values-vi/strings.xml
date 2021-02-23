@@ -11297,4 +11297,11 @@ Chức năng này chỉ nhận được địa chỉ MAC Wi-Fi của bạn để
 	<string name="screen_enhance_engine_memc_note_2">%d. Tính năng này chỉ hoạt động khi bật công cụ video.</string>
 	<string name="color_game_led_time_title">LED sáng đúng giờ</string>
 	<string name="softbank_apn_lock_toast">APN đã khóa. Không thể sửa.</string>
+	<string name="expert_detail_content_description">Xem chi tiết</string>
+	<string name="launch_wechat_health_code">Mã sức khỏe WeChat</string>
+	<string name="launch_alipay_health_code">Mã sức khỏe Alipay</string>
+	<string name="launch_alipay_health_code_auto_close">Phím tắt mã sức khỏe Alipay không còn khả dụng. Bạn có thể chuyển sang một phím tắt khác.</string>
+	<string name="launch_wechat_health_code_auto_close">Phím tắt mã sức khỏe WeChat không còn khả dụng. Bạn có thể chuyển sang một phím tắt khác.</string>
+	<string name="bluetooth_le_audio_profile_summary_use_for">Sử dụng cho LE_AUDIO</string>
+	<string name="bluetooth_le_audio_profile_summary_connected">Đã kết nối LE_AUDIO</string>
 </resources>
