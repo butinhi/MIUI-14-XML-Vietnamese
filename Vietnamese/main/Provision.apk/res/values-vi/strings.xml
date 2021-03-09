@@ -327,4 +327,5 @@ Bạn cần đọc và đồng ý với Chính sách Riêng tư Mint Keyboard tr
 	<string name="title_set_fingerprint">Khóa màn hình</string>
 	<string name="item_contents_wwarning">"Nếu thiết bị của bạn bị mất, bạn sẽ không thể ngăn người khác sử dụng thiết bị và truy cập vào dữ liệu của mình trừ khi bạn đặt khóa màn hình. Vẫn bỏ qua?"</string>
 	<string name="boot_video_desc">Ngắm nhìn thế giới ở độ phân giải 2K</string>
+	<string name="permission_read_contacts">Truy cập liên hệ</string>
 </resources>

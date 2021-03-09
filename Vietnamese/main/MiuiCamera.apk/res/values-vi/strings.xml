@@ -2136,4 +2136,7 @@ Bên kia cần bật khóa chuyển "Ghi nhiều camera" trên thanh thông báo
 	<string name="timerburst_pressed_hint">Nhấn để dừng chụp</string>
 	<string name="network_connection_prerequisites_china">Bật Bluetooth và Wi-Fi để có thể sử dụng tính năng Ghi âm điện thoại kép.</string>
 	<string name="mimoji_eyelid">Mí mắt</string>
+	<string name="dialog_button_goto">Đi đến thiết lập</string>
+	<string name="dual_video_user_guide_remote_content">Chức năng ghi nhiều camera hỗ trợ hai điện thoại di động ghi lại hình ảnh từ các góc nhìn khác nhau và kết hợp chúng thành một video. Bạn có thể xem trước video và quay phim của hai điện thoại di động thông qua máy này và chỉ hỗ trợ ghi âm của máy này.</string>
+	<string name="dual_video_record_remote">Ghi âm chung nhiều máy</string>
 </resources>

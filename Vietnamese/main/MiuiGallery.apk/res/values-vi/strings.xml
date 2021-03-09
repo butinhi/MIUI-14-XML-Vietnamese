@@ -2729,4 +2729,16 @@ Phiên dịch có thể mất một lúc khi bạn sử dụng tính năng này 
 	<string name="photo_editor_navigator_sticker_download_without_wifi_msg">"Dường như bạn chưa kết nối Wi-Fi. Sử dụng %1$d MB dữ liệu di động để tải trình cắm?"</string>
 	<string name="magic_edit_dsc">Tất cả các thay đổi chưa được lưu sẽ bị mất. Vẫn thoát?</string>
 	<string name="magic_effect_text">Nghệ thuật</string>
+	<string name="cloud_bacup_disable_processing">Đang xử lý…</string>
+	<string name="backup_settings">Đồng bộ với đám mây</string>
+	<string name="cloud_login_ok">Tôi biết</string>
+	<string name="see_more_settings">Cài đặt bổ sung</string>
+	<string name="cloud_backup_status_disable">TẮT</string>
+	<string name="backup_settings_more">Cài đặt bổ sung</string>
+	<string name="cloud_backup_space">Lưu trữ đám mây</string>
+	<string name="cloud_backup_enable_title">Đồng bộ</string>
+	<string name="cloud_login_settings_title">Cài đặt Đồng bộ</string>
+	<string name="cloud_backup_title">Đồng bộ với đám mây</string>
+	<string name="cloud_backup_status_eneble">BẬT</string>
+	<string name="cloud_backup_open_button">Bật</string>
 </resources>

@@ -307,4 +307,7 @@ Thử lại"</string>
 	<string name="provision_skip_underline">Bỏ qua</string>
 	<string name="provision_next">Tiếp theo</string>
 	<string name="provision_back">Quay lại</string>
+	<string name="dialog_backup_failed">Không thể sao lưu</string>
+	<string name="dialog_buy_cloud_space">Nâng cấp</string>
+	<string name="button_confirm">Tôi biết</string>
 </resources>

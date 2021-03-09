@@ -157,4 +157,7 @@
 	<plurals name="usage_state_unlock_count_new">
 		<item quantity="other">Trung bình %.2f lần</item>
 	</plurals>
+	<plurals name="miuix_appcompat_items_selected">
+		<item quantity="other">%d mục đã chọn</item>
+	</plurals>
 </resources>

@@ -232,4 +232,6 @@
 	<string name="sound_effect_room">Phòng</string>
 	<string name="sound_transmission_scenes">Chuyển cảnh</string>
 	<string name="music_headset_effect_harman_kardon_summary">Âm thanh chuyên nghiệp được chứng nhận</string>
+	<string name="dolby_dax_title">Âm thanh vòm</string>
+	<string name="dolby_dax_profile_dynamic">Động</string>
 </resources>

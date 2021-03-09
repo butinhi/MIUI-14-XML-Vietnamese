@@ -3223,4 +3223,5 @@ Bất cứ người dùng nào cũng có thể cập nhật ứng dụng cho ng�
 	<string name="wifi_new_network_auto_connection">Cầu SSID ‑ Tự động kết nối</string>
 	<string name="sensor_answer_summary">Đưa điện thoại lên tai để tự động trả lời cuộc gọi đến</string>
 	<string name="sensor_answer_title">Nhấc để trả lời</string>
+	<string name="mi_mobile_sim_activate_ok">Kích hoạt</string>
 </resources>

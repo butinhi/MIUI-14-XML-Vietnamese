@@ -678,4 +678,6 @@
 	<string name="remove_dialog_title_format">Xóa \"%s\" khỏi Màn hình chính?</string>
 	<string name="remove_dialog_message">Các ứng dụng đã chọn chứa các tính năng hệ thống cần thiết. Bạn chỉ có thể xóa các phím tắt trên Màn hình chính của chúng.</string>
 	<string name="all_apps_install_contentcenter_title">Cài đặt Trung tâm Nội dung</string>
+	<string name="assistant_edge_gesture_summary">Vuốt từ góc dưới trái hoặc dưới phải để đánh thức Trợ lý Google</string>
+	<string name="assistant_edge_gesture_title">Vuốt lên từ góc để mở Trợ lý Google</string>
 </resources>

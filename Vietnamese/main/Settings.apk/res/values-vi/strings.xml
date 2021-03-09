@@ -11304,4 +11304,23 @@ Chức năng này chỉ nhận được địa chỉ MAC Wi-Fi của bạn để
 	<string name="launch_wechat_health_code_auto_close">Phím tắt mã sức khỏe WeChat không còn khả dụng. Bạn có thể chuyển sang một phím tắt khác.</string>
 	<string name="bluetooth_le_audio_profile_summary_use_for">Sử dụng cho LE_AUDIO</string>
 	<string name="bluetooth_le_audio_profile_summary_connected">Đã kết nối LE_AUDIO</string>
+	<string name="miheadset_key_config_gesture_control">Cử chỉ</string>
+	<string name="wifi_assistant_prompt">Trợ lý Wi-Fi</string>
+	<string name="miheadset_key_config_close">TẮT</string>
+	<string name="miheadset_key_config_volume_up">Phím Tăng âm lượng</string>
+	<string name="wifi_assistant_prompt_button">Tôi biết</string>
+	<string name="miheadset_key_config_volume_down">Phím Giảm âm lượng</string>
+	<string name="miheadset_ancClosed">TẮT</string>
+	<string name="miheadset_ancLow">Thấp</string>
+	<string name="title_special_features_health_global">Nhịp tim</string>
+	<string name="miheadset_transparentMode">Trong suốt</string>
+	<string name="miui_sos_pa_turn_off">TẮT</string>
+	<string name="wifi_assistant_keep_wifi_connection">Không, cảm ơn</string>
+	<string name="miheadset_ancMedium">Giữa</string>
+	<string name="device_activation_info">Kích hoạt thiết bị</string>
+	<string name="miheadset_ancHigh">Cao</string>
+	<string name="miui_sos_pa_turn_on">BẬT</string>
+	<string name="miheadset_key_config_call_ai">Trợ lý thoại</string>
+	<string name="miheadset_key_config_next_music">Bài tiếp theo</string>
+	<string name="bt_leaudio_open_dialog_title">Chú ý</string>
 </resources>

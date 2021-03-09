@@ -932,4 +932,19 @@
 	<string name="rhinoceros_info">"Tê giác trắng là loài động vật ăn cỏ dũng mãnh, tính tình hiền lành. Rất hiếm ngày nay, nó đang trên bờ vực tuyệt chủng."</string>
 	<string name="narwhal_info">Kỳ lân biển sở hữu một chiếc ngà lớn và ăn các con mồi sinh vật đáy, chủ yếu là cá dẹt.</string>
 	<string name="north_white_rhinoceros">Tê giác trắng</string>
+	<string name="miuix_appcompat_search_input_description">Tìm kiếm</string>
+	<string name="miuix_appcompat_action_mode_deselect_all">Bỏ chọn</string>
+	<string name="miuix_appcompat_deselect_all_description">Bỏ chọn tất cả</string>
+	<string name="miuix_appcompat_confirm_description">Xác nhận</string>
+	<string name="miuix_appcompat_action_mode_select_all">Chọn tất cả</string>
+	<string name="miuix_appcompat_select_all_description">Chọn tất cả</string>
+	<string name="miuix_appcompat_select_all">Chọn tất cả</string>
+	<string name="miuix_appcompat_action_mode_title_empty">Chọn mục</string>
+	<string name="miuix_appcompat_actionbar_immersion_button_more_description">Thêm</string>
+	<string name="miuix_appcompat_deselect_all">Bỏ chọn</string>
+	<string name="miuix_appcompat_delete_description">Xóa</string>
+	<string name="miuix_appcompat_search_action_mode_cancel">Hủy</string>
+	<string name="date_time_picker_dialog_title">Đặt ngày và giờ</string>
+	<string name="miuix_appcompat_cancel_description">Hủy</string>
+	<string name="miuix_appcompat_select_item">Chọn mục</string>
 </resources>

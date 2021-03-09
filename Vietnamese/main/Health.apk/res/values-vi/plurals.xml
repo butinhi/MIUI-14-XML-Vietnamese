@@ -277,4 +277,7 @@
 	<plurals name="hr_fp_detect_time_remainder">
 		<item quantity="other">%1$d giây còn lại</item>
 	</plurals>
+	<plurals name="miuix_appcompat_items_selected">
+		<item quantity="other">%d mục đã chọn</item>
+	</plurals>
 </resources>

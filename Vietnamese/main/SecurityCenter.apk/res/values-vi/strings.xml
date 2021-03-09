@@ -5035,4 +5035,20 @@ tham gia săn trứng của chúng tôi!"</string>
 	<string name="Settings_title_anti_virus_kddi">Cài đặt quét bảo mật</string>
 	<string name="antivirus_privacy_dialog_summary_kddi">"Khi bạn đang thực hiện quét bảo mật, kiểu thiết bị và kết quả quét của bạn sẽ được tải lên máy chủ %1$s và được sử dụng theo &lt;a href=\"%2$s\"&gt;Điều khoản và Điều kiện&lt;/a&gt;.&lt;br/&gt;&lt;br/&gt;Đọc và đồng ý với Điều khoản và điều kiện của %3$s trước khi thực hiện quét bảo mật.&lt;br/&gt;&lt;br/&gt;Nếu bạn không đồng ý tải dữ liệu lên máy chủ %4$s, bạn vẫn có thể sử dụng các định nghĩa vi rút được lưu trữ cục bộ trên thiết bị của mình."</string>
 	<string name="menu_text_garbage_cleanup_danger">%s rác</string>
+	<string name="warningcenter_policeassist_open_btn">Bật</string>
+	<string name="warningcenter_policeassist_close_btn">Tắt</string>
+	<string name="never_new">%d lần</string>
+	<string name="gb_shoulder_key_guide_btn_next">Tiếp theo</string>
+	<string name="app_manager_uninstall_button_text">Gỡ cài đặt</string>
+	<string name="gamebox_macro">Tổ hợp</string>
+	<string name="gb_shoulder_key_btn_save_exit">Lưu</string>
+	<string name="app_manager_tab_app">Ứng dụng</string>
+	<string name="app_manager_update">Cập nhật</string>
+	<string name="card_uninstall_button_text">Quản lý hội nghị</string>
+	<string name="warningcenter_policeassist_flow_privacy">Chính sách Riêng tư</string>
+	<string name="gb_shoulder_key_btn_cancel">Hủy</string>
+	<string name="warningcenter_policeassist_flow_locating">Đang nhận thông tin…</string>
+	<string name="superpower_notification_title_new">Pin còn ít hơn %s</string>
+	<string name="gb_shoulder_key_guide_btn_done">Tôi biết</string>
+	<string name="app_manager_tab_manager">Quản lý hội nghị</string>
 </resources>

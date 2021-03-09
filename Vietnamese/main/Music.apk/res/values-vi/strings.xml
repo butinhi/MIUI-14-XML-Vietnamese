@@ -1969,4 +1969,7 @@ Nếu bạn không đồng ý sử dụng các dịch vụ nói trên, bạn s�
 	<string name="invalid_number">Xin lỗi số không hợp lệ</string>
 	<string name="moe_message_to_unregister">Thiết bị đã được đăng ký để xác minh Tích hợp. Bấm vào nút để hủy đăng ký</string>
 	<string name="moe_unregister">HỦY ĐĂNG KÝ</string>
+	<string name="app_description_content">Máy quét cung cấp quét mã QR, quét để dịch, quét để giải quyết vấn đề, nhận dạng danh thiếp .v.v… Hãy chắc chắn rằng bạn hiểu rõ chức năng và dịch vụ được cung cấp bởi ứng dụng này.</string>
+	<string name="talkback_cut">Trình sửa nhạc chuông</string>
+	<string name="app_description_title">Giới thiệu Máy quét</string>
 </resources>

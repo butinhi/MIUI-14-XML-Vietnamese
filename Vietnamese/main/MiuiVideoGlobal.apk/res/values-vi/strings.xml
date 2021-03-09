@@ -2004,4 +2004,24 @@ Gửi mã này cho người giám sát."</string>
 	<string name="ad_bar_notification_setting_sub_title">Hiển thị các sự kiện trong ngăn Thông báo</string>
 	<string name="catchplay_video">Bắt bóng</string>
 	<string name="progressbar_title">Kiểm tra các vấn đề bảo mật…</string>
+	<string name="ytb_account">Tài khoản</string>
+	<string name="dialog_privacy_revoking">Rút lại sự đồng ý…</string>
+	<string name="brvah_app_name">Thư viện</string>
+	<string name="dialog_privacy_revoke_ok">Thu hồi</string>
+	<string name="search_bar_hint">Tìm kiếm video</string>
+	<string name="brvah_load_failed">Tải không thành công, vui lòng nhấp vào đây để thử lại</string>
+	<string name="ytb_play_next">Tiếp theo</string>
+	<string name="ytb_login_btn">Đăng nhập</string>
+	<string name="ytb_subscribed">Đăng ký của tôi</string>
+	<string name="dialog_privacy_revoke_cancel">Hủy</string>
+	<string name="privacy_revoke_title">Đồng ý Chinh sách Riêng tư</string>
+	<string name="ytb_login">Đăng nhập</string>
+	<string name="app_description_content">Máy quét cung cấp quét mã QR, quét để dịch, quét để giải quyết vấn đề, nhận dạng danh thiếp .v.v… Hãy chắc chắn rằng bạn hiểu rõ chức năng và dịch vụ được cung cấp bởi ứng dụng này.</string>
+	<string name="ytb_logout">Đăng xuất</string>
+	<string name="brvah_loading">Đang tải...</string>
+	<string name="no_history">Không có mục nào ở đây</string>
+	<string name="ytb_author_video">Video</string>
+	<string name="app_description_title">Giới thiệu Máy quét</string>
+	<string name="dialog_privacy_revoke_fail">Mạng không mạnh, vui lòng kiểm tra trạng thái mạng ~</string>
+	<string name="brvah_load_end">Không có thêm dữ liệu</string>
 </resources>

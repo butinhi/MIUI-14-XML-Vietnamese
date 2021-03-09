@@ -771,4 +771,9 @@ sau khi Sức khỏe Mi phân tích đủ dữ liệu"</string>
 	<string name="xiaomi_market_sdk_update_dialog_cancel">Lần tới</string>
 	<string name="voice_add_alarm">Thêm báo thức theo lệnh giọng nói</string>
 	<string name="xiaomi_market_sdk_update_dialog_title">Đã có phiên bản mới</string>
+	<string name="miuix_appcompat_select_all">Chọn tất cả</string>
+	<string name="miuix_appcompat_deselect_all">Bỏ chọn</string>
+	<string name="date_time_picker_dialog_title">Đặt ngày và giờ</string>
+	<string name="miuix_appcompat_select_item">Chọn mục</string>
+	<string name="send">Gửi</string>
 </resources>
