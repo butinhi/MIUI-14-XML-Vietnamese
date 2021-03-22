@@ -374,4 +374,5 @@
 	<string name="application_cannot_open_weixin_health_code">"Không thể mở mã sức khỏe WeChat"</string>
 	<string name="miui_multiwindow_not_support_small_window">"%1$s không hỗ trợ cửa sổ nổi"</string>
 	<string name="miui_multiwindow_not_support_split">"%1$s không hỗ trợ chia màn hình"</string>
+	<string name="long_press_power_key">Không</string>
 </resources>

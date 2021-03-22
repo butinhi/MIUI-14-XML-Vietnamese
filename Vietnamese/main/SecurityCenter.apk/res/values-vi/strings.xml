@@ -5051,4 +5051,22 @@ tham gia săn trứng của chúng tôi!"</string>
 	<string name="superpower_notification_title_new">Pin còn ít hơn %s</string>
 	<string name="gb_shoulder_key_guide_btn_done">Tôi biết</string>
 	<string name="app_manager_tab_manager">Quản lý hội nghị</string>
+	<string name="exo_controls_fullscreen_exit_description">Thoát toàn màn hình</string>
+	<string name="exo_controls_playback_speed">Tốc độ</string>
+	<string name="exo_controls_cc_enabled_description">Tắt phụ đề</string>
+	<string name="pp_privacy_lab_clipboard">Bảo vệ khay nhớ tạm</string>
+	<string name="exo_controls_overflow_hide_description">Ẩn cài đặt bổ sung</string>
+	<string name="exo_controls_seek_bar_description">Tiến trình phát lại</string>
+	<string name="exo_controls_shuffle_on_description">Bật trộn bài</string>
+	<string name="exo_controls_hide">Ẩn điều khiển trình phát</string>
+	<string name="exo_controls_fullscreen_enter_description">Vào toàn màn hình</string>
+	<string name="exo_controls_vr_description">Chế độ VR</string>
+	<string name="exo_controls_overflow_show_description">Hiện cài đặt bổ sung</string>
+	<string name="exo_controls_playback_speed_normal">Bình thường</string>
+	<string name="exo_controls_shuffle_off_description">Tắt trộn bài</string>
+	<string name="pp_privacy_lab_blur_location">Vị trí gần đúng</string>
+	<string name="exo_controls_settings_description">Cài đặt</string>
+	<string name="notification_exit_power_save_mode_now">Tắt</string>
+	<string name="exo_controls_cc_disabled_description">Bật phụ đề</string>
+	<string name="exo_controls_show">Hiển thị điều khiển trình phát</string>
 </resources>

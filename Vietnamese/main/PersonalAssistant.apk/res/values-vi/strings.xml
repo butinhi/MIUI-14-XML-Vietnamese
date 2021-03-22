@@ -2600,4 +2600,15 @@ Vui lòng gửi mã này cho nhân viên kỹ thuật."</string>
 	<string name="app_pa_setting_service_covid_summry">Xem thông tin mới nhất liên quan đến COVID-19</string>
 	<string name="app_pa_setting_service_covid">Thông tin COVID-19</string>
 	<string name="app_covid_card_title">Dịch vụ</string>
+	<string name="miuix_appcompat_search_input_description">Tìm kiếm</string>
+	<string name="miuix_appcompat_action_mode_deselect_all">Bỏ chọn</string>
+	<string name="miuix_appcompat_action_mode_title_empty">Chọn mục</string>
+	<string name="miuix_appcompat_actionbar_immersion_button_more_description">Thêm</string>
+	<string name="miuix_appcompat_delete_description">Xóa</string>
+	<string name="miuix_appcompat_deselect_all_description">Bỏ chọn tất cả</string>
+	<string name="miuix_appcompat_search_action_mode_cancel">Hủy</string>
+	<string name="miuix_appcompat_cancel_description">Hủy</string>
+	<string name="miuix_appcompat_confirm_description">Xác nhận</string>
+	<string name="miuix_appcompat_action_mode_select_all">Chọn tất cả</string>
+	<string name="miuix_appcompat_select_all_description">Chọn tất cả</string>
 </resources>

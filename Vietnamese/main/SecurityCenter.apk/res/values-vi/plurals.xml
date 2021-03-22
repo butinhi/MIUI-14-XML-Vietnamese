@@ -643,4 +643,10 @@ Nghỉ ngơi chút đi!"</item>
 	<plurals name="gtb_spring_festival_colored_egg">
 		<item quantity="other">"Chúc mừng! Bạn đã mở khóa %s Trứng phục sinh."</item>
 	</plurals>
+	<plurals name="exo_controls_rewind_by_amount_description">
+		<item quantity="other">Tua lại %d giây</item>
+	</plurals>
+	<plurals name="exo_controls_fastforward_by_amount_description">
+		<item quantity="other">Tua đi %d giây</item>
+	</plurals>
 </resources>

@@ -431,4 +431,9 @@ Báo cáo vấn đề này &gt;"</string>
 	<string name="notification_keyguard_show_content">Hiển thị thông báo và nội dung</string>
 	<string name="summary_aggregate_home">"Thông báo đẩy sẽ không được gom nhóm"</string>
 	<string name="show_weather">Hiển thị thông tin thời tiết</string>
+	<string name="notification_fold_description1">Thư mục thông báo đã được giới thiệu trong MIUI 9. Tính năng này lọc thông báo không quan trong và đặt chúng vào các thư mục riêng.</string>
+	<string name="notification_fold_footer_icon_summary">Cho phép biểu tượng thông báo không quan trọng hiển thị ở bên phải thanh thông báo</string>
+	<string name="notification_fold_footer_icon_title">Hiển thị biểu tượng</string>
+	<string name="notification_fold_description2">MIUI sẽ nhớ thông báo nào bạn chạm vào, và sử dụng nhiều tiêu chí để quyết định nó có quan trọng hay không.</string>
+	<string name="notification_fold_description3">Nếu thông báo mà bạn cho là quan trọng vẫn đi vào thư mục thông báo, hãy cho chúng tôi biết. Chúng tôi đánh giá cao phản hồi của bạn.</string>
 </resources>

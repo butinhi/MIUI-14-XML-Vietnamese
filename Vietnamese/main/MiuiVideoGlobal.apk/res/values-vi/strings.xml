@@ -2024,4 +2024,5 @@ Gửi mã này cho người giám sát."</string>
 	<string name="app_description_title">Giới thiệu Máy quét</string>
 	<string name="dialog_privacy_revoke_fail">Mạng không mạnh, vui lòng kiểm tra trạng thái mạng ~</string>
 	<string name="brvah_load_end">Không có thêm dữ liệu</string>
+	<string name="disagree">Không đồng ý</string>
 </resources>

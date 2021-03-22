@@ -11323,4 +11323,9 @@ Chức năng này chỉ nhận được địa chỉ MAC Wi-Fi của bạn để
 	<string name="miheadset_key_config_call_ai">Trợ lý thoại</string>
 	<string name="miheadset_key_config_next_music">Bài tiếp theo</string>
 	<string name="bt_leaudio_open_dialog_title">Chú ý</string>
+	<string name="miui_face_enroll_risk_warning_btn_cancel">Hủy</string>
+	<string name="headset_notification_switch_title">Tiện ích thanh thông báo</string>
+	<string name="face_data_introduction_add">Bắt đầu</string>
+	<string name="pre_install_app_gallery">Album</string>
+	<string name="miui_face_enroll_risk_warning_title_text">Chú ý</string>
 </resources>

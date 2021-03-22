@@ -2741,4 +2741,15 @@ Phiên dịch có thể mất một lúc khi bạn sử dụng tính năng này 
 	<string name="cloud_backup_title">Đồng bộ với đám mây</string>
 	<string name="cloud_backup_status_eneble">BẬT</string>
 	<string name="cloud_backup_open_button">Bật</string>
+	<string name="filter_sky_xiaying">Đỏ sáng</string>
+	<string name="network_title">Kết nối mạng</string>
+	<string name="filter_sky_jiyun">Mây tích</string>
+	<string name="filter_sky_yunmeng">Ảo mộng</string>
+	<string name="magic_video_cut_frame_back">Chạm lại để hủy lưu</string>
+	<string name="filter_sky_huanxia">Giấc mơ</string>
+	<string name="operation_google_lens">Google Lens</string>
+	<string name="magic_video_cut_frame">Đang xử lý…</string>
+	<string name="filter_sky_yunbo">Sóng</string>
+	<string name="filter_sky_nuanyang">Ấm áp</string>
+	<string name="filter_sky_xiguang">Tia sáng</string>
 </resources>
