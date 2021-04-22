@@ -759,4 +759,10 @@ Bạn cần phải cài đặt phiên bản MIUI của nhà phát triển để 
 	<string name="gold_master_dialog_title">%1$s muốn đọc khay nhớ tạm</string>
 	<string name="blur_location_is_on_tip">%1$s bắt đầu dịch vụ vị trí gần đúng. Bạn có muốn bật dịch vụ vị trí gần đúng?</string>
 	<string name="date_time_picker_dialog_title">Đặt ngày và giờ</string>
+	<string name="size_byte">B</string>
+	<string name="size_kilo_byte">KB</string>
+	<string name="size_giga_byte">GB</string>
+	<string name="size_mega_byte">MB</string>
+	<string name="size_tera_byte">TB</string>
+	<string name="size_peta_byte">PB</string>
 </resources>

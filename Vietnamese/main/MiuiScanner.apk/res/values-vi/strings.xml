@@ -1032,4 +1032,5 @@ Vui lòng tham khảo góc trên hình để đặt thiết bị và thử lại
 	<string name="editnull">Nội dung trống</string>
 	<string name="general_wifi_data_wrong_data">Nhập cả tên và mật khẩu</string>
 	<string name="change_wifi_info">Đổi chi tiết mạng</string>
+	<string name="picture">Album</string>
 </resources>

@@ -1972,4 +1972,9 @@ Nếu bạn không đồng ý sử dụng các dịch vụ nói trên, bạn s�
 	<string name="app_description_content">Máy quét cung cấp quét mã QR, quét để dịch, quét để giải quyết vấn đề, nhận dạng danh thiếp .v.v… Hãy chắc chắn rằng bạn hiểu rõ chức năng và dịch vụ được cung cấp bởi ứng dụng này.</string>
 	<string name="talkback_cut">Trình sửa nhạc chuông</string>
 	<string name="app_description_title">Giới thiệu Máy quét</string>
+	<string name="btn_text_view_all">Xem tất cả</string>
+	<string name="failed_to_connect_text">Không thể kết nối mạng</string>
+	<string name="failed_to_connect_hint">Lỗi mạng. Chờ một vài phút rồi thử lại.</string>
+	<string name="title_recently_played">Đã phát gần đây</string>
+	<string name="loading_text">Đang làm mới</string>
 </resources>

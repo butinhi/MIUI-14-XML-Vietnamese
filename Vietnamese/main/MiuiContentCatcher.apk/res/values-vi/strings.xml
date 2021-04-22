@@ -33,4 +33,5 @@ Xóa mật khẩu?"</string>
 	<string name="password_manager">Quản lý mật khẩu</string>
 	<string name="login_mi_account_summary">Để bật trình quản lý mật khẩu, bạn cần đăng nhập vào tài khoản Xiaomi, có đăng nhập không?</string>
 	<string name="password_manager_summary">Trình quản lý mật khẩu đám mây, sao lưu vào tài khoản Xiaomi</string>
+	<string name="back_button_label">Quay lại</string>
 </resources>

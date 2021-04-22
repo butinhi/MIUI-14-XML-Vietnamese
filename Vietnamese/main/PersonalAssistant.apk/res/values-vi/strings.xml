@@ -2611,4 +2611,10 @@ Vui lòng gửi mã này cho nhân viên kỹ thuật."</string>
 	<string name="miuix_appcompat_confirm_description">Xác nhận</string>
 	<string name="miuix_appcompat_action_mode_select_all">Chọn tất cả</string>
 	<string name="miuix_appcompat_select_all_description">Chọn tất cả</string>
+	<string name="miuix_appcompat_select_all">Chọn tất cả</string>
+	<string name="miuix_appcompat_deselect_all">Bỏ chọn</string>
+	<string name="date_time_picker_dialog_title">Đặt ngày và giờ</string>
+	<string name="close">Đóng</string>
+	<string name="miuix_appcompat_select_item">Chọn mục</string>
+	<string name="send">Gửi</string>
 </resources>

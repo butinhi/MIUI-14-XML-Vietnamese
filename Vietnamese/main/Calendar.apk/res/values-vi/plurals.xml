@@ -215,4 +215,7 @@
 	<plurals name="n_attendees">
 		<item quantity="other">%d lời mời</item>
 	</plurals>
+	<plurals name="miuix_appcompat_items_selected">
+		<item quantity="other">%d mục đã chọn</item>
+	</plurals>
 </resources>

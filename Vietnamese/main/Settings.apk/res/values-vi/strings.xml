@@ -11328,4 +11328,19 @@ Chức năng này chỉ nhận được địa chỉ MAC Wi-Fi của bạn để
 	<string name="face_data_introduction_add">Bắt đầu</string>
 	<string name="pre_install_app_gallery">Album</string>
 	<string name="miui_face_enroll_risk_warning_title_text">Chú ý</string>
+	<string name="headset_find_connected">Đã kết nối</string>
+	<string name="headset_find_cancel">Hủy</string>
+	<string name="miheadset_ancDepth">Sâu</string>
+	<string name="headset_find_tip_title">Chú ý</string>
+	<string name="headset_find_query_play">Phát</string>
+	<string name="headset_find_both">Kép</string>
+	<string name="miheadset_ancEquilibrium">Cân bằng</string>
+	<string name="headset_find_notify_connected">Đã kết nối</string>
+	<string name="headset_find_playing">Đang phát…</string>
+	<string name="headset_find_left">Bên trái</string>
+	<string name="miheadset_ancMild">Sáng</string>
+	<string name="headset_find_disconnect">Chưa kết nối</string>
+	<string name="miheadset_adaptive">Tự động</string>
+	<string name="headset_find_right">Bên phải</string>
+	<string name="screen_recorder_title">Quay phim màn hình</string>
 </resources>

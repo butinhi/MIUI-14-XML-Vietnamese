@@ -680,4 +680,6 @@
 	<string name="all_apps_install_contentcenter_title">Cài đặt Trung tâm Nội dung</string>
 	<string name="assistant_edge_gesture_summary">Vuốt từ góc dưới trái hoặc dưới phải để đánh thức Trợ lý Google</string>
 	<string name="assistant_edge_gesture_title">Vuốt lên từ góc để mở Trợ lý Google</string>
+	<string name="network_error">Lỗi kết nối mạng, vui lòng thử lại</string>
+	<string name="server_error">Lỗi máy chủ. Chờ một vài phút rồi thử lại.</string>
 </resources>

@@ -2752,4 +2752,26 @@ Phiên dịch có thể mất một lúc khi bạn sử dụng tính năng này 
 	<string name="filter_sky_yunbo">Sóng</string>
 	<string name="filter_sky_nuanyang">Ấm áp</string>
 	<string name="filter_sky_xiguang">Tia sáng</string>
+	<string name="toast_download_with_metered_network_btn_continue">Tải xuống</string>
+	<string name="ocr_save_to_note_new">Lưu vào Ghi chú</string>
+	<string name="webview_reload">Thử lại</string>
+	<string name="size_kilo_byte">KB</string>
+	<string name="web_sso_login_fail">Bạn cần đăng nhập lại</string>
+	<string name="size_peta_byte">PB</string>
+	<string name="toast_download_with_metered_network_title">Cảnh báo sử dụng dữ liệu</string>
+	<string name="miuix_appcompat_select_all">Chọn tất cả</string>
+	<string name="size_byte">B</string>
+	<string name="homepage_allphotos_tip_dialog_description_all">Tất cả</string>
+	<string name="size_giga_byte">GB</string>
+	<string name="hybrid_provider">Cung cấp bởi %1$s</string>
+	<string name="miuix_appcompat_deselect_all">Bỏ chọn</string>
+	<string name="size_mega_byte">MB</string>
+	<string name="size_tera_byte">TB</string>
+	<string name="no_network">Không thể kết nối mạng</string>
+	<string name="date_time_picker_dialog_title">Đặt ngày và giờ</string>
+	<string name="nearby_share">Chia sẻ lân cận</string>
+	<string name="miuix_appcompat_select_item">Chọn mục</string>
+	<string name="send">Gửi</string>
+	<string name="web_sso_login_message">Đang đăng nhập…</string>
+	<string name="homepage_allphotos_tip_dialog_button_negative">Bỏ qua</string>
 </resources>

@@ -411,4 +411,7 @@
 	<plurals name="pic_to_pdf_filter_count">
 		<item quantity="other">Đã lọc %d mục không hỗ trợ</item>
 	</plurals>
+	<plurals name="miuix_appcompat_items_selected">
+		<item quantity="other">%d mục đã chọn</item>
+	</plurals>
 </resources>

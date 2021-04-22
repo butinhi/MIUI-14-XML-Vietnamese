@@ -76,4 +76,7 @@
 		<item quantity="other">trong %d phút</item>
 		<item quantity="one">trong 1 phút</item>
 	</plurals>
+	<plurals name="miuix_appcompat_items_selected">
+		<item quantity="other">%d mục đã chọn</item>
+	</plurals>
 </resources>

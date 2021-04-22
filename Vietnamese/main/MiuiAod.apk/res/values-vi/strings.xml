@@ -498,4 +498,10 @@ dd/M"</string>
 	<string name="align_center_horizontally">Căn ngang và căn giữa</string>
 	<string name="align_right_horizontally">Căn chỉnh ngang và phải</string>
 	<string name="align_center_vertically">Xếp chồng và căn giữa</string>
+	<string name="miuix_appcompat_select_all">Chọn tất cả</string>
+	<string name="miuix_appcompat_deselect_all">Bỏ chọn</string>
+	<string name="date_time_picker_dialog_title">Đặt ngày và giờ</string>
+	<string name="close">Đóng</string>
+	<string name="miuix_appcompat_select_item">Chọn mục</string>
+	<string name="send">Gửi</string>
 </resources>

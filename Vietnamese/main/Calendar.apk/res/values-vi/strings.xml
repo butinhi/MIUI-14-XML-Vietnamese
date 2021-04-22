@@ -1560,4 +1560,16 @@ Bạn cũng có thể thêm nhắc nhở để không bỏ lỡ những điều 
 	<string name="share_by_wechat_friends">Vòng kết nối bạn bè</string>
 	<string name="share_by_wechat_collect_original">Thêm vào bộ sưu tập WeChat</string>
 	<string name="share_by_qq_original">Gửi cho bạn bè</string>
+	<string name="not_set">Chưa đặt</string>
+	<string name="v7_preference_off">TẮT</string>
+	<string name="calendar_privacy_policy">Chính sách Riêng tư</string>
+	<string name="miuix_appcompat_select_all">Chọn tất cả</string>
+	<string name="preference_copied">\"%1$s\" đã sao chép vào clipboard.</string>
+	<string name="miuix_appcompat_deselect_all">Bỏ chọn</string>
+	<string name="v7_preference_on">BẬT</string>
+	<string name="calendar_user_agreement">Thỏa thuận Người dùng</string>
+	<string name="expand_button_title">Nâng cao</string>
+	<string name="copy">Sao chép</string>
+	<string name="prefsx_notify_sound_none">Im lặng</string>
+	<string name="miuix_appcompat_select_item">Chọn mục</string>
 </resources>

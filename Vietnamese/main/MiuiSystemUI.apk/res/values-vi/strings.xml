@@ -2853,4 +2853,7 @@ Bạn sẽ được thông báo khi có thể sử dụng lại cổng USB."</st
 	<string name="control_center_notification_switch_guide">Vuốt để chuyển giữa Trung tâm điều khiển và Bảng thông báo</string>
 	<string name="bluetooth_le_audio_profile_summary_use_for">Sử dụng cho LE_AUDIO</string>
 	<string name="bluetooth_le_audio_profile_summary_connected">Đã kết nối LE_AUDIO</string>
+	<string name="miui_snooze_cancel">Hủy</string>
+	<string name="miui_snooze_to_settings">Cài đặt</string>
+	<string name="miui_snooze_always_float">"Không ẩn"</string>
 </resources>

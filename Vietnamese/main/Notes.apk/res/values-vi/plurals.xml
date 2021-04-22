@@ -127,4 +127,7 @@
 	<plurals name="item_terms">
 		<item quantity="other">%1$s mục</item>
 	</plurals>
+	<plurals name="miuix_appcompat_items_selected">
+		<item quantity="other">%d mục đã chọn</item>
+	</plurals>
 </resources>

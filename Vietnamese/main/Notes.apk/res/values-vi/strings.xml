@@ -920,4 +920,15 @@ Cho phép Ghi chú ghi âm."</string>
 	<string name="sync_desc_state_running">Đã đồng bộ với Xiaomi Cloud</string>
 	<string name="sync_desc_state_disable">Bật đồng bộ với đám mây</string>
 	<string name="sync_desc_state_complete_china">Tất cả %1$s đã được đồng bộ</string>
+	<string name="miuix_appcompat_select_all">Chọn tất cả</string>
+	<string name="size_byte">B</string>
+	<string name="size_kilo_byte">KB</string>
+	<string name="size_giga_byte">GB</string>
+	<string name="miuix_appcompat_deselect_all">Bỏ chọn</string>
+	<string name="size_mega_byte">MB</string>
+	<string name="size_tera_byte">TB</string>
+	<string name="size_peta_byte">PB</string>
+	<string name="close">Đóng</string>
+	<string name="miuix_appcompat_select_item">Chọn mục</string>
+	<string name="send">Gửi</string>
 </resources>

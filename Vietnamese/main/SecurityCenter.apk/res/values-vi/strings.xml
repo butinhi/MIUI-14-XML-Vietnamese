@@ -5069,4 +5069,15 @@ tham gia săn trứng của chúng tôi!"</string>
 	<string name="notification_exit_power_save_mode_now">Tắt</string>
 	<string name="exo_controls_cc_disabled_description">Bật phụ đề</string>
 	<string name="exo_controls_show">Hiển thị điều khiển trình phát</string>
+	<string name="gamebox_time">Hẹn giờ</string>
+	<string name="power_center_unoffical_battery_dialog_positive">Tìm hiểu thêm</string>
+	<string name="vb_ve_settings_ai_stronger">Tự động cập nhật</string>
+	<string name="storage_clear_cache">Giải phóng %s</string>
+	<string name="power_center_super_wireless_charge_dialog_positive">Tiếp tục mở</string>
+	<string name="power_dailog_night_charge_protection_done">Tôi biết</string>
+	<string name="gb_collimator_style">Loại</string>
+	<string name="gb_collimator_size">Kích thước</string>
+	<string name="gb_collimator_color">Màu sắc</string>
+	<string name="storage_clear_cache_large">Giải phóng %s</string>
+	<string name="mm_app_name">SIM Mi</string>
 </resources>

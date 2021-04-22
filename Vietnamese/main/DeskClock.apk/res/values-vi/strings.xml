@@ -759,4 +759,7 @@ sau khi Sức khỏe Mi phân tích đủ dữ liệu"</string>
 	<string name="date_time_picker_dialog_title">Đặt ngày và giờ</string>
 	<string name="miuix_appcompat_select_item">Chọn mục</string>
 	<string name="send">Gửi</string>
+	<string name="version_update_dialog_title">Đã có phiên bản mới</string>
+	<string name="version_update_dialog_positive_desc">Cập nhật</string>
+	<string name="version_update_dialog_negative_desc">Không phải bây giờ</string>
 </resources>

@@ -2025,4 +2025,12 @@ Gửi mã này cho người giám sát."</string>
 	<string name="dialog_privacy_revoke_fail">Mạng không mạnh, vui lòng kiểm tra trạng thái mạng ~</string>
 	<string name="brvah_load_end">Không có thêm dữ liệu</string>
 	<string name="disagree">Không đồng ý</string>
+	<string name="video_download_site_search">URL</string>
+	<string name="video_download_fail_hint">Không thể tải xuống</string>
+	<string name="video_download_storage_error">Không đủ dung lượng lưu trữ</string>
+	<string name="video_downloading">Đang tải xuống…</string>
+	<string name="video_download_network_error">Không thể kết nối mạng, hãy thử lại sau</string>
+	<string name="video_download_btn">Tải xuống</string>
+	<string name="search_bar_video_download_hint">Tìm kiếm hoặc nhập URL</string>
+	<string name="video_download_start">Đang tải xuống…</string>
 </resources>

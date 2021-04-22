@@ -436,4 +436,23 @@ Báo cáo vấn đề này &gt;"</string>
 	<string name="notification_fold_footer_icon_title">Hiển thị biểu tượng</string>
 	<string name="notification_fold_description2">MIUI sẽ nhớ thông báo nào bạn chạm vào, và sử dụng nhiều tiêu chí để quyết định nó có quan trọng hay không.</string>
 	<string name="notification_fold_description3">Nếu thông báo mà bạn cho là quan trọng vẫn đi vào thư mục thông báo, hãy cho chúng tôi biết. Chúng tôi đánh giá cao phản hồi của bạn.</string>
+	<string name="miuix_appcompat_search_input_description">Tìm kiếm</string>
+	<string name="miuix_appcompat_action_mode_deselect_all">Bỏ chọn</string>
+	<string name="miuix_appcompat_deselect_all_description">Bỏ chọn tất cả</string>
+	<string name="miui_snooze_always_float">"Không ẩn"</string>
+	<string name="miuix_appcompat_confirm_description">Xác nhận</string>
+	<string name="miuix_appcompat_action_mode_select_all">Chọn tất cả</string>
+	<string name="miuix_appcompat_select_all_description">Chọn tất cả</string>
+	<string name="miuix_appcompat_select_all">Chọn tất cả</string>
+	<string name="miui_snooze_cancel">Hủy</string>
+	<string name="miuix_appcompat_action_mode_title_empty">Chọn mục</string>
+	<string name="miuix_appcompat_actionbar_immersion_button_more_description">Thêm</string>
+	<string name="miuix_appcompat_delete_description">Xóa</string>
+	<string name="miuix_appcompat_deselect_all">Bỏ chọn</string>
+	<string name="miuix_appcompat_search_action_mode_cancel">Hủy</string>
+	<string name="date_time_picker_dialog_title">Đặt ngày và giờ</string>
+	<string name="miuix_appcompat_cancel_description">Hủy</string>
+	<string name="close">Đóng</string>
+	<string name="miuix_appcompat_select_item">Chọn mục</string>
+	<string name="send">Gửi</string>
 </resources>

@@ -947,4 +947,6 @@
 	<string name="date_time_picker_dialog_title">Đặt ngày và giờ</string>
 	<string name="miuix_appcompat_cancel_description">Hủy</string>
 	<string name="miuix_appcompat_select_item">Chọn mục</string>
+	<string name="close">Đóng</string>
+	<string name="send">Gửi</string>
 </resources>

@@ -3224,4 +3224,5 @@ Bất cứ người dùng nào cũng có thể cập nhật ứng dụng cho ng�
 	<string name="sensor_answer_summary">Đưa điện thoại lên tai để tự động trả lời cuộc gọi đến</string>
 	<string name="sensor_answer_title">Nhấc để trả lời</string>
 	<string name="mi_mobile_sim_activate_ok">Kích hoạt</string>
+	<string name="mi_mobile_settings_title">Mi Mobile</string>
 </resources>

@@ -234,4 +234,5 @@
 	<string name="music_headset_effect_harman_kardon_summary">Âm thanh chuyên nghiệp được chứng nhận</string>
 	<string name="dolby_dax_title">Âm thanh vòm</string>
 	<string name="dolby_dax_profile_dynamic">Động</string>
+	<string name="not_support_sound_transmission_prompt">Chú ý</string>
 </resources>
