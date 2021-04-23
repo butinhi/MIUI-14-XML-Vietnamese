@@ -558,4 +558,22 @@ Thử lại"</string>
 	<string name="chinese_symbol_animals_dog">Tuất</string>
 	<string name="pm">CH</string>
 	<string name="the_fifth_day">Mùng 5 Tết Nguyên Đán</string>
+	<string name="hint_restore_wechat_data">Ghi chú: Dữ liệu WeChat có thể không được khôi phục trong một số trường hợp do vấn đề tương thích.</string>
+	<string name="fmt_date_long_month_day">dd MMMM</string>
+	<string name="fmt_date_short_year_month_day">dd/MM/yyyy</string>
+	<string name="dialog_cloud_space_not_enough">Sao lưu này cần %1$s không gian trống trên đám mây. Nâng cấp gói lưu trữ của bạn để sao lưu.</string>
+	<string name="restore_detail_category_app_data">Dữ liệu WeChat</string>
+	<string name="btn_restore_cancel_app_app">"Không khôi phục dữ liệu WeChat"</string>
+	<string name="fmt_date_long_year_month_day">dd MMMM, yyyy</string>
+	<string name="cloud_backup_detail_app_data">Sao lưu dữ liệu WeChat</string>
+	<string name="restoring_app_data_title_no_progress">Đang khôi phục dữ liệu WeChat…</string>
+	<string name="fmt_date_numeric_month_day">d/M</string>
+	<string name="fmt_date_numeric_year_month_day">d/M/yyyy</string>
+	<string name="confirm_restore_app_data_summary">Khôi phục dữ liệu data sẽ ghi đè phiên bản dữ liệu ứng dụng hiện có. Vẫn khôi phục?</string>
+	<string name="cloud_backup_detail_app_data_summary">Sao lưu lịch sử chat, tệp tin và các mục khác</string>
+	<string name="pc_mode_not_support_restore_warning">"Không thể khôi phục trong chế độ PC. Tắt Chế độ PC và thử lại."</string>
+	<string name="restore_detail_category_app_data_summary">Lịch sử chat, tệp tin và các mục khác (%s)</string>
+	<string name="confirm_restore_app_data">Đang ghi đè dữ liệu ứng dụng</string>
+	<string name="fmt_chinese_date">e N</string>
+	<string name="fmt_date_short_month_day">dd/MM</string>
 </resources>

@@ -144,4 +144,7 @@
 	<plurals name="video_clean_scan_app_result">
 		<item quantity="other">%d ứng dụng có bộ đệm video</item>
 	</plurals>
+	<plurals name="whatsapp_file_audio_dec">
+		<item quantity="other">%1$s tệp âm thanh</item>
+	</plurals>
 </resources>

@@ -400,4 +400,7 @@
 	<string name="chinese_symbol_animals_dog">Tuất</string>
 	<string name="pm">CH</string>
 	<string name="the_fifth_day">Mùng 5 Tết Nguyên Đán</string>
+	<string name="gradienter_title">Mức</string>
+	<string name="remove_icon_description_content">"La bàn là một ứng dụng hệ thống. Bạn sẽ không thể sử dụng nó để kiểm tra chỉ đường, tọa độ, áp suất khí quyển và độ cao hiện tại sau khi bạn xóa lối tắt Màn hình chính."</string>
+	<string name="remove_icon_description_title">Xóa \"La bàn\" khỏi Màn hình chính?</string>
 </resources>

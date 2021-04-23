@@ -1977,4 +1977,5 @@ Nếu bạn không đồng ý sử dụng các dịch vụ nói trên, bạn s�
 	<string name="failed_to_connect_hint">Lỗi mạng. Chờ một vài phút rồi thử lại.</string>
 	<string name="title_recently_played">Đã phát gần đây</string>
 	<string name="loading_text">Đang làm mới</string>
+	<string name="hint_search_songs_playlists_artists">Tìm bài hát, danh sách phát và nghệ sĩ</string>
 </resources>

@@ -48,4 +48,13 @@
 		<item>Lưu ảnh và video từ trạng thái WhatsApp</item>
 		<item>Quản lý tập tin trên thiết bị và đặt ở chế độ riêng tư</item>
 	</string-array>
+	<string-array name="protection_name">
+		<item>Tự động</item>
+		<item>Không</item>
+		<item>Người dùng mới</item>
+	</string-array>
+	<string-array name="setting_home_page_show_list">
+		<item>Trang web</item>
+		<item>Mint Game</item>
+	</string-array>
 </resources>

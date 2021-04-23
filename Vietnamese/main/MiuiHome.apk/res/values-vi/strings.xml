@@ -682,4 +682,7 @@
 	<string name="assistant_edge_gesture_title">Vuốt lên từ góc để mở Trợ lý Google</string>
 	<string name="network_error">Lỗi kết nối mạng, vui lòng thử lại</string>
 	<string name="server_error">Lỗi máy chủ. Chờ một vài phút rồi thử lại.</string>
+	<string name="remove_sys_app_title">Xóa Lối tắt Màn hình chính?</string>
+	<string name="russia_preinstall_folder_name">Nga</string>
+	<string name="remove_sys_app_content">"Bạn có thể thêm lại Lối tắt Màn hình chính trong Cài đặt &gt; Ứng dụng &gt; Quản lý Màn hình chính và lối tắt. Xóa ngay?"</string>
 </resources>

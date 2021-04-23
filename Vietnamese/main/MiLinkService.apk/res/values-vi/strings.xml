@@ -562,4 +562,8 @@ Nếu cả hai thiết bị không thể kết nối tới cùng một mạng, b
 	<string name="global_privacy_explain">Chào mừng bạn đến với tính năng Truyền! Ứng dụng này cung cấp các dịch vụ sau:</string>
 	<string name="global_privacy_detail">"Đọc và đồng ý với &lt;a href=%1$s&gt;Thỏa thuận Người dùng&lt;/a&gt; và &lt;a href=%2$s&gt;Chính sách Riêng tư&lt;/a&gt; của chúng tôi trước khi sử dụng ứng dụng này.&lt;br&gt;Nếu bạn không đồng ý sử dụng các dịch vụ nói trên, bạn sẽ không thể sử dụng một số tính năng của ứng dụng này; tuy nhiên, chức năng cơ bản của nó sẽ vẫn có sẵn cho bạn."</string>
 	<string name="global_privacy_tip">Chúng tôi cần thu thập thông tin cá nhân cần thiết để cung cấp cho bạn các dịch vụ cơ bản và tối ưu hóa quá trình tuyển chọn. Bạn có thể tìm hiểu cách chúng tôi xử lý thông tin chúng tôi thu thập trong &lt;a href=%1$s&gt;Chính sách Riêng tư&lt;/a&gt;. Bạn có thể rút lại sự đồng ý của mình đối với Chính sách Riêng tư trong Cài đặt bất kỳ lúc nào.</string>
+	<string name="dialog_scanning_precondition_new_china">Bật Wi-Fi, Bluetooth, và dịch vụ vị trí để có thể truyền. Bật ngay??</string>
+	<string name="debug_mode_milink_version">Phiên bản MiLink</string>
+	<string name="debug_mode_merge_support">Hỗ trợ ứng dụng thấp nhất</string>
+	<string name="dialog_scanning_precondition_new_global">Bật Wi-Fi, Bluetooth, và dịch vụ vị trí để có thể truyền. Bật ngay??</string>
 </resources>

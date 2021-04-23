@@ -688,4 +688,8 @@
 		<item>Mỗi 4 giờ</item>
 		<item>Mỗi 12 giờ</item>
 	</string-array>
+	<string-array name="fortune_love">
+		<item>Đang yêu</item>
+		<item>Độc thân</item>
+	</string-array>
 </resources>

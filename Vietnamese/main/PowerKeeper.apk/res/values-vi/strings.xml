@@ -286,4 +286,10 @@ Tiết kiệm pin sẽ xử lý ứng dụng quan trọng một cách có chọn
 	<string name="accessibility_service_description">Tiết kiệm pin thông minh</string>
 	<string name="thermal_cancel">Tiếp tục mở</string>
 	<string name="thermal_confirm">Tắt</string>
+	<string name="modify_data">Chỉnh sửa dữ liệu</string>
+	<string name="insert_data">Thêm dữ liệu</string>
+	<string name="connect_intranet_hint">Vui lòng kết nối intranet</string>
+	<string name="checking_intranet">Kiểm tra kết nối intranet, vui lòng đợi...</string>
+	<string name="save_data">Lưu dữ liệu</string>
+	<string name="delete_data_confirm">Xác nhận xóa dữ liệu này</string>
 </resources>

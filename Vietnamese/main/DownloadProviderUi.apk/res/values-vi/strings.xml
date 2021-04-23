@@ -908,4 +908,9 @@ Tăng tốc tải xuống giữa các thiết bị."</string>
 	<string name="pm">CH</string>
 	<string name="the_fifth_day">Mùng 5 Tết Nguyên Đán</string>
 	<string name="toast_download_icon_restore_success">Đã thêm thành công</string>
+	<string name="tip_download_icon_restore">Thêm Lối tắt Màn hình chính cho Tải xuống</string>
+	<string formatted="false" name="dialog_download_dir_content">Thư mục đích mặc định tải xuống sẽ được thay đổi từ \"%s\" thành \"%s/DLManager\".</string>
+	<string name="dialog_download_dir_title">Thư mục tải xuống mới</string>
+	<string name="tip_download_icon_retry">"Không thể thêm lối tắt. Thử lại."</string>
+	<string name="toast_download_icon_restore_fail">"Không thể thêm lối tắt"</string>
 </resources>

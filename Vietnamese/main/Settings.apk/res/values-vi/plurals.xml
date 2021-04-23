@@ -598,4 +598,7 @@
 	<plurals name="miui_wifi_wakeup_summary">
 		<item quantity="other">Wi-Fi sẽ tự động được bật khi thiết bị của bạn phát hiện các mạng đã lưu gần đó và tắt sau %d phút nếu không có kết nối nào được thiết lập</item>
 	</plurals>
+	<plurals name="switch_headset_anti_lost_summary">
+		<item quantity="other">Nhận cảnh báo khi một trong những tai nghe của bạn rơi khỏi tai hoặc hộp sạc lâu hơn %d phút</item>
+	</plurals>
 </resources>

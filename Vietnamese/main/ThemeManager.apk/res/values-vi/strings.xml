@@ -1589,4 +1589,6 @@ Bạn sẽ thấy ảnh mới mỗi giờ."</string>
 	<string name="can_not_apply_error">"Định dạng video này không được hỗ trợ"</string>
 	<string name="can_not_apply_size_invalid">Video này quá lớn</string>
 	<string name="ringtone_confirm_dialog_title">Chú ý</string>
+	<string name="multiwindow_no_support_icon">"Không thể đổi biểu tượng khi sử dụng Chia màn hình"</string>
+	<string name="ringtone_confirm_dialog_message">"Nhạc chuông này quá dài. Vẫn sử dụng?"</string>
 </resources>

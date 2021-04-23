@@ -5080,4 +5080,5 @@ tham gia săn trứng của chúng tôi!"</string>
 	<string name="gb_collimator_color">Màu sắc</string>
 	<string name="storage_clear_cache_large">Giải phóng %s</string>
 	<string name="mm_app_name">SIM Mi</string>
+	<string name="gb_not_support_on_device">"Không thể sử dụng ứng dụng này trên màn hình bên ngoài"</string>
 </resources>

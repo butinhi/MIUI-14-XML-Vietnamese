@@ -3225,4 +3225,19 @@ Bất cứ người dùng nào cũng có thể cập nhật ứng dụng cho ng�
 	<string name="sensor_answer_title">Nhấc để trả lời</string>
 	<string name="mi_mobile_sim_activate_ok">Kích hoạt</string>
 	<string name="mi_mobile_settings_title">Mi Mobile</string>
+	<string name="fold_answer_pref_summary">Gập thiết bị lại để tự động nhận cuộc gọi đến</string>
+	<string name="mi_mobile_settings_summary">Gói cước dữ liệu cung cấp bởi Xiaomi</string>
+	<string name="four_point_five_switch_summary">Sử dụng 4.5G để tăng tốc độ truy cập dữ liệu và chất lượng cuộc gọi.</string>
+	<string name="wifi_call_available_message_for_ATT_MX">Bạn đang kết nối mạng Wi-Fi, Chất lượng cuộc gọi có thể phụ thuộc vào mạng.</string>
+	<string name="select_apn_list_title">Chọn APN mặc định: cho thẻ %1$s</string>
+	<string name="mi_mobile_sim_activate_title">Chào mừng tới Mi Mobile!</string>
+	<string name="mi_mobile_sim_activate_message">Kích hoạt SIM %d để có thể sử dụng Mi Mobile. Có thể mất khoảng 5 phút.</string>
+	<string name="unfold_speaker_pref_summary">Mở thiết bị khi đang gọi để mở loa ngoài</string>
+	<string name="fold_answer_pref_title">Gấp để nhận cuộc gọi</string>
+	<string name="unfold_close_camera_pref_summary">Mở thiết bị khi gọi video để tắt camera</string>
+	<string name="unfold_close_camera_pref_title">Mở để tắt camera</string>
+	<string name="call_fold_setting_title">Gập và mở</string>
+	<string name="unfold_speaker_pref_title">Mở để sử dụng loa ngoài</string>
+	<string name="call_fold_setting">Gập và mở</string>
+	<string name="wfcmode_ims_preferred">IMS ưa thích</string>
 </resources>

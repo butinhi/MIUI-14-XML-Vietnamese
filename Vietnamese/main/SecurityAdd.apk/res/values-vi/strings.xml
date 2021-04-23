@@ -745,4 +745,5 @@ An toàn và bảo mật"</string>
 	<string name="gb_adv_touch_custom_tip2">Độ nhạy cao hơn đối với các lần nhấn liên tục làm tăng tốc độ phản ứng với cử chỉ này, trong khi độ nhạy thấp hơn giúp cử chỉ ổn định hơn.</string>
 	<string name="gb_adv_touch_custom1">Phản hồi vuốt</string>
 	<string name="ew_save_title">Lưu</string>
+	<string name="gb_not_support_on_device">"Không thể sử dụng ứng dụng này trên màn hình bên ngoài"</string>
 </resources>

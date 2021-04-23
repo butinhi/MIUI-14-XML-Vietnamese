@@ -682,4 +682,6 @@
 	<string name="the_fifth_day">Mùng 5 Tết Nguyên Đán</string>
 	<string name="save_as">Lưu thành</string>
 	<string name="notification_save_as_complete">Đã lưu thành công</string>
+	<string name="remove_icon_description_content">"La bàn là một ứng dụng hệ thống. Bạn sẽ không thể sử dụng nó để kiểm tra chỉ đường, tọa độ, áp suất khí quyển và độ cao hiện tại sau khi bạn xóa lối tắt Màn hình chính."</string>
+	<string name="remove_icon_description_title">Xóa \"La bàn\" khỏi Màn hình chính?</string>
 </resources>

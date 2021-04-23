@@ -419,4 +419,7 @@
 	<string name="chinese_symbol_animals_dog">Tuất</string>
 	<string name="pm">CH</string>
 	<string name="the_fifth_day">Mùng 5 Tết Nguyên Đán</string>
+	<string name="app_notification_record_complete">"Đã lưu quay màn hình vào thư viện
+Chạm để xem"</string>
+	<string name="app_notification_channel_record_complete">Thông báo khi quay xong</string>
 </resources>

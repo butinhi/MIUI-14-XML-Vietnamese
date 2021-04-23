@@ -931,4 +931,5 @@ Cho phép Ghi chú ghi âm."</string>
 	<string name="close">Đóng</string>
 	<string name="miuix_appcompat_select_item">Chọn mục</string>
 	<string name="send">Gửi</string>
+	<string name="miui_lite_open_mind_toast">Mô hình này không hỗ trợ xem ghi chú tâm trí</string>
 </resources>

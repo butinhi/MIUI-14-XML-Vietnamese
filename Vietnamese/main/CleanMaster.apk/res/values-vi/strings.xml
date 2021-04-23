@@ -1043,4 +1043,5 @@
 	<string name="whatsapp_detail_cache_result">Đã giải phóng %s</string>
 	<string name="whatsapp_file_send">Đã gửi</string>
 	<string name="whatsapp_detail_sort_created">Sắp xếp theo ngày</string>
+	<string name="whatsapp_cache_clear">Đang xóa bộ nhớ đệm…</string>
 </resources>

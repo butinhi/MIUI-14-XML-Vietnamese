@@ -588,4 +588,25 @@ Bạn cần đọc và đồng ý với Chính sách Riêng tư Mint Keyboard tr
 	<string name="chinese_symbol_animals_dog">Tuất</string>
 	<string name="pm">CH</string>
 	<string name="the_fifth_day">Mùng 5 Tết Nguyên Đán</string>
+	<string name="fmt_weekday">W</string>
+	<string name="fmt_chinese_date">e t N</string>
+	<string name="fmt_date_numeric_month_day">d-M</string>
+	<string name="fmt_weekday_time_timezone">W T z</string>
+	<string name="fmt_date_long_month_day">d MMMM</string>
+	<string name="fmt_date_short_year_month_day">dd/MM/yyyy</string>
+	<string name="fmt_date_time">D T</string>
+	<string name="fmt_weekday_date_timezone">W, D z</string>
+	<string name="fmt_date_numeric_year_month_day">dd/MM/yyyy</string>
+	<string name="fmt_time_millis">CN</string>
+	<string name="fmt_date_long_year_month_day">d MMMM, yyyy</string>
+	<string name="fmt_weekday_timezone">W z</string>
+	<string name="fmt_time_second">CN</string>
+	<string name="fmt_date_short_month_day">d-M</string>
+	<string name="fmt_date">Thg 12</string>
+	<string name="fmt_time">T</string>
+	<string name="permission_read_message_introduction">Để xác thực chủ nhân thiết bị của bạn</string>
+	<string name="permission_read_contacts_introduction">Để xác minh bạn là ai</string>
+	<string name="permission_MIUIDaemon_introduction">MIUI Daemon cho phép bạn chuyển dữ liệu từ thiết bị khi màn hình hỏng.</string>
+	<string name="permission_read_message">Truy cập tin nhắn văn bản</string>
+	<string name="service_name_MIUIDaemon">MIUI Daemon</string>
 </resources>

@@ -1771,4 +1771,12 @@ Ghi chú: Chỉ cho phiên bản Ubuntu 8.04!"</item>
 		<item>Cơ bản</item>
 		<item>Tiếng pop</item>
 	</string-array>
+	<string-array name="wifi_link_turbo_mode_summary_entries">
+		<item>Chỉ tăng tốc độ bằng dữ liệu di động khi tín hiệu Wi-Fi kém</item>
+		<item>Kết hợp Wi-Fi và dữ liệu di động để tăng tốc độ kết nối</item>
+	</string-array>
+	<string-array name="wifi_link_turbo_mode_entries">
+		<item>Phụ trợ</item>
+		<item>Đầy đủ</item>
+	</string-array>
 </resources>

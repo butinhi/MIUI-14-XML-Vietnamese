@@ -235,4 +235,13 @@
 	<string name="dolby_dax_title">Âm thanh vòm</string>
 	<string name="dolby_dax_profile_dynamic">Động</string>
 	<string name="not_support_sound_transmission_prompt">Chú ý</string>
+	<string name="music_headset_audio_visual_unmute">Xem trước cùng âm thanh</string>
+	<string name="music_headset_audio_visual_mute">Xem trước không có âm thanh</string>
+	<string name="dolby_dax_geq_title">Bộ cân bằng đồ họa</string>
+	<string name="music_dirac_mode_redmi_earphones">Tai nghe Redmi</string>
+	<string name="music_dirac_mode_mi_dual_driver_in_ear_earphones">Tai nghe in-ear Mi Dual Driver</string>
+	<string name="dolby_dax_geq_select_title">Đặt trước</string>
+	<string name="not_support_sound_transmission_content">"Tính năng này không được hỗ trợ trên thiết bị đã kết nối. Thử thiết bị Bluetooth khác."</string>
+	<string name="dolby_dax_setting">Hiệu ứng Dolby</string>
+	<string name="misound_effect_setting">Âm thanh Mi</string>
 </resources>

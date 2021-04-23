@@ -968,4 +968,25 @@ Các bước: Mở APP WeChat&gt;My&gt;Cài đặt&gt;Chung&gt;Sao lưu và di c
 	<string name="monday_shortest">Th 2</string>
 	<string name="miuix_appcompat_cancel_description">Hủy</string>
 	<string name="miuix_appcompat_select_item">Chọn mục</string>
+	<string name="low_score_label_1">Khó kết nối máy mới và máy cũ</string>
+	<string name="low_score_label_2">Tốc độ truyền chậm</string>
+	<string name="dialog_rating_commit_toast">Quá trình gửi thành công và bạn sẽ sớm thoát khỏi "Chuyển Xiaomi"</string>
+	<string name="high_score_label_5">Thời lượng ước tính là chính xác</string>
+	<string name="high_score_label_6">Hướng dẫn sử dụng rõ ràng</string>
+	<string name="high_score_label_7">Giao diện đẹp</string>
+	<string name="high_score_label_8">Chuyển ổn định và trơn tru</string>
+	<string name="dialog_rating_high_score_summary">Rất hài lòng</string>
+	<string name="high_score_label_9">Thành công trong một lần chuyển</string>
+	<string name="high_score_label_1">Kết nối nhanh chóng giữa máy mới và máy cũ</string>
+	<string name="high_score_label_2">Đổi máy nhanh chóng</string>
+	<string name="high_score_label_3">Phạm vi truyền dữ liệu xa</string>
+	<string name="high_score_label_4">Thông tin truyền hoàn chỉnh</string>
+	<string name="low_score_label_7">Giao diện không tốt</string>
+	<string name="low_score_label_8">Dễ crash khi chuyển máy</string>
+	<string name="low_score_label_9">Chuyển nhiều lần mới thành công</string>
+	<string name="low_score_label_3">Ít dữ liệu có thể được chuyển</string>
+	<string name="low_score_label_4">Thông tin truyền tải bị mất</string>
+	<string name="low_score_label_5">Thời lượng ước tính không chính xác</string>
+	<string name="low_score_label_6">Hướng dẫn sử dụng không rõ ràng</string>
+	<string name="dialog_rating_low_score_summary">Rất không hài lòng</string>
 </resources>

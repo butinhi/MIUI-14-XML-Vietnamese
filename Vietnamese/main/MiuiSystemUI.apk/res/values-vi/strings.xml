@@ -2856,4 +2856,6 @@ Bạn sẽ được thông báo khi có thể sử dụng lại cổng USB."</st
 	<string name="miui_snooze_cancel">Hủy</string>
 	<string name="miui_snooze_to_settings">Cài đặt</string>
 	<string name="miui_snooze_always_float">"Không ẩn"</string>
+	<string name="miui_snooze_until_unlock_screen">Cho đến khi khóa</string>
+	<string name="miui_snooze_default_time">Trong %d phút</string>
 </resources>

@@ -1572,4 +1572,15 @@ Bạn cũng có thể thêm nhắc nhở để không bỏ lỡ những điều 
 	<string name="copy">Sao chép</string>
 	<string name="prefsx_notify_sound_none">Im lặng</string>
 	<string name="miuix_appcompat_select_item">Chọn mục</string>
+	<string name="ad_card_down">Tải ngay</string>
+	<string name="title_import_by_feishu">Nhập bởi Feishu</string>
+	<string name="fortune_card_love">Tình yêu may mắn：</string>
+	<string name="share_card">Chia sẻ thẻ</string>
+	<string name="fortune_love">Tình yêu</string>
+	<string name="fortune_card_financial">Tài chính：</string>
+	<string name="fortune_card_comprehensive">Tổng tài sản：</string>
+	<string name="sharing_tips">Bấm để chia sẻ hình ảnh</string>
+	<string name="ad_download_number_text_1">Tải xuống: %1$d vạn</string>
+	<string name="import_lark_failed">Lỗi dịch vụ, nhập không thành công</string>
+	<string name="summary_import_by_feishu">Hỗ trợ đồng hộ hóa một chạm bởi Feishu</string>
 </resources>

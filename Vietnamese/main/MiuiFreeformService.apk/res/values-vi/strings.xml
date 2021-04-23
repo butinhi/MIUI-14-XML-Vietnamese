@@ -24,4 +24,8 @@
 	<string name="how_to_slide_up_to_close">Đóng cửa sổ nổi</string>
 	<string name="how_to_open_freeform">Mở thông báo trong cửa sổ nổi</string>
 	<string name="bottom_bar_smallwindow_text">Thả ra</string>
+	<string name="fullscreen_slide_to_small_freeform_summary">Vuốt từ cuối màn hình lên góc trên bên phải của màn hình</string>
+	<string name="fullscreen_slide_to_small_freeform">Trượt toàn màn hình sang dạng tự do</string>
+	<string name="freeform_slide_to_small_freeform">Trượt tự do sang dạng tự do nhỏ</string>
+	<string name="freeform_slide_to_small_freeform_summary">Nhấn và trượt đến thanh tác vụ của cửa sổ nổi ở góc trên bên phải</string>
 </resources>
