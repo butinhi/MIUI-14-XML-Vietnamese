@@ -226,7 +226,7 @@ Kiểm tra cài đặt mạng và thử lại."</string>
 	<string name="restore_detail_category_settings">Cài đặt</string>
 	<string name="restore_detail_more">Thêm</string>
 	<string name="restore_detail_title">Chọn mục để khôi phục</string>
-	<string name="restore_network_pause">%s (Chạm để tiếp tục)</string>
+	<string name="restore_network_pause">Đã tạm dừng để tiết kiệm dữ liệu di động. Chạm để tiếp tục.</string>
 	<string name="restore_network_unconnect">%s (Đang chờ kết nối)</string>
     <string name="title_restore_with_current_network">Sử dụng kết nối hiện tại để tải tệp</string>
     <string name="desktop_wait_network">Đang chờ…</string>

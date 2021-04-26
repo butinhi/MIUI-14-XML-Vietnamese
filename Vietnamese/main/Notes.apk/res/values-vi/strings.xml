@@ -64,7 +64,7 @@
     <string name="alert_title_restore">Khôi phục ghi chú</string>
     <string name="alert_message_restore">Không thể mở ghi chú này. Khôi phục để chỉnh sửa nội dung.</string>
     <string name="note_sort_way">Sắp xếp ghi chú</string>
-    <string name="trash_folder_reminder">Ghi chú  mà bạn xóa sẽ bị xóa vĩnh viễn trong 30 ngày.</string>
+    <string name="trash_folder_reminder">Ghi chú  mà bạn xóa sẽ bị xóa vĩnh viễn trong %1$d ngày.</string>
     <string name="cta_reminder">Ứng dụng này yêu cầu kết nối internet để sao lưu ghi chú vào Xiaomi Cloud, cũng như đọc liên hệ của bạn để gắn nhãn ghi chú khi bạn thực hiện cuộc gọi.</string>
     <string name="menu_add_folder">Thêm vào thư mục</string>
     <string name="dialog_share_title">Chia sẻ ghi chú</string>
@@ -308,10 +308,10 @@ Cho phép Ghi chú ghi âm."</string>
 	<string name="todo_edit_btn_today">Hôm nay</string>
 	<string name="todo_edit_btn_tomorrow">Ngày mai</string>
 	<string name="todo_edit_text_hint">Nhập mô tả nhiệm vụ</string>
-	<string name="todo_event_description_a_week_ago">1 tuần trước</string>
-	<string name="todo_event_description_a_week_later">Trong 1 tuần</string>
-	<string name="todo_event_description_day_after_tomorrow">Trong 2 ngày</string>
-	<string name="todo_event_description_day_before_yesterday">2 ngày trước</string>
+	<string name="todo_event_description_a_week_ago">%1$d tuần trước</string>
+	<string name="todo_event_description_a_week_later">Trong %1$d tuần</string>
+	<string name="todo_event_description_day_after_tomorrow">Trong %1$d ngày</string>
+	<string name="todo_event_description_day_before_yesterday">%1$d ngày trước</string>
 	<string name="todo_event_description_today">Hôm nay</string>
 	<string name="todo_event_description_tomorrow">Ngày mai</string>
 	<string name="todo_event_description_yesterday">Hôm qua</string>

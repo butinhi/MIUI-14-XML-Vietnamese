@@ -516,9 +516,9 @@
     <string name="file_not_found">Không tìm thấy tập tin</string>
     <string name="app_usage_never">Chưa sử dụng</string>
     <string name="app_usage_recently">Sử dụng gần đây</string>
-    <string name="resutl_function_deep_clean_summary">" Hơn "<Data>&lt;font color=#ff0000 >%1$s&lt;/font> tập tin có thể bị xóa. Giải phóng thêm dung lượng trống.;</Data>" "</string>
-    <string name="resutl_function_wechat_clean_summary">" "<Data>&lt;font color=#ff0000 >%1$s&lt;/font> bộ nhớ đệm WeChat. Giải phóng thêm dung lượng trống.;</Data>" "</string>
-    <string name="resutl_function_qq_clean_summary">" "<Data>Bạn có thể xóa &lt;font color=#ff0000 >%1$s&lt;/font> bộ nhớ đệm được tạo bởi QQ;</Data>" "</string>
+    <string name="resutl_function_deep_clean_summary">&lt;font color=#ff0000 >%1$s&lt;/font> tập tin có thể bị xóa. Giải phóng thêm dung lượng trống.</string>
+    <string name="resutl_function_wechat_clean_summary">&lt;font color=#ff0000 >%1$s&lt;/font> bộ nhớ đệm WeChat. Giải phóng thêm dung lượng trống.</string>
+    <string name="resutl_function_qq_clean_summary">Bạn có thể xóa &lt;font color=#ff0000 >%1$s&lt;/font> bộ nhớ đệm được tạo bởi QQ</string>
     <string name="engine_tm">Tencent</string>
     <string name="engine_cm">Clean Master</string>
     <string name="app_description_title">Giới thiệu Trình dọn dẹp</string>
