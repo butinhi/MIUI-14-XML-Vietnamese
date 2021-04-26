@@ -2401,4 +2401,28 @@ Bên kia cần bật khóa chuyển "Ghi nhiều camera" trên thanh thông báo
 	<string name="fmt_date_short_month_day">d-M</string>
 	<string name="fmt_date">Thg 12</string>
 	<string name="fmt_time">T</string>
+	<string name="accessibility_lock_focus_success">Đã khóa lấy nét</string>
+	<string name="pref_customization_style">Kiểu tùy chỉnh</string>
+	<string name="histogram_summary_tip">Hiển thị phơi sáng thời gian thực</string>
+	<string name="accessibility_touch_focus_fail">"Không thể lấy nét"</string>
+	<string name="accessibility_reference_line_image_on">Hiện đường lưới</string>
+	<string name="audio_map_summary_tip">Theo dõi âm lượng của các kênh bên trái và bên phải trong thời gian thực và điều chỉnh nó bằng cách sử dụng thanh trượt</string>
+	<string name="accessibility_double_click_to_exit">Nhấn đúp để thoát</string>
+	<string name="pref_video_ai_audio_single">Âm thanh phía trước</string>
+	<string name="dual_video_user_guide_standalone_content_new">Ghi và lưu đồng thời hai video được quay từ hai góc nhìn.</string>
+	<string name="prep_video_ai_audio_new_desc_tip">Âm thanh từ đối tượng được tập trung và tăng cường</string>
+	<string name="dual_video_user_guide_merge_content_new">Ghi lại hình ảnh từ hai góc nhìn cùng một lúc và tổng hợp chúng thành video; bạn có thể chọn bố cục cửa sổ lớn hoặc nhỏ hoặc bố cục tỷ lệ bằng nhau.</string>
+	<string name="accessibility_touch_focus_success">Lấy nét thành công</string>
+	<string name="dual_video_user_guide_main_content_new">"Chức năng mở đồng thời nhiều camera có thể bật cùng lúc nhiều camera, hỗ trợ ghi hình 2 góc nhìn bất kỳ và có thể lựa chọn 2 hình thức khác nhau là “Kép” hoặc “Ghi đồng thời”.
+Sau khi bật chức năng "ghi nhiều camera", máy ảnh của điện thoại di động khác có thể được kết nối và ảnh thu được từ hai điện thoại di động có thể được kết hợp thành video "Kép"."</string>
+	<string name="dual_video_user_guide_remote_p">Điện thoại %d</string>
+	<string name="prep_video_ai_audio_single_desc_tip">Âm thanh từ phía sau màn hình được lọc</string>
+	<string name="prep_video_ai_audio_unsupported_headset_desc_tips">"Thu phóng âm thanh không hoạt động với theo dõ trong tai nghe và micrô bên ngoài"</string>
+	<string name="accessibility_multi_cam_reselect_button">Chọn lại máy ảnh</string>
+	<string name="accessibility_reference_line_image_off">Ẩn đường lưới</string>
+	<string name="accessibility_pro_parameters_panel_on">Mở menu với thông số PRO</string>
+	<string name="remote_online_permission">"Thay đổi quyền vị trí của máy ảnh thành \"Chỉ cho phép khi sử dụng ứng dụng\" để có thể sử dụng quay phim hai máy."</string>
+	<string name="prek_b_j_o">Tái tạo hiệu ứng âm thanh vòm</string>
+	<string name="super_night_owl_toast">Giữ chắc điện thoại</string>
+	<string name="prek_b_j_p">Giảm tác động của gió đến ghi âm</string>
 </resources>

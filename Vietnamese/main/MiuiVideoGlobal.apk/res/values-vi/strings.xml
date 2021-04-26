@@ -2033,4 +2033,19 @@ Gửi mã này cho người giám sát."</string>
 	<string name="video_download_btn">Tải xuống</string>
 	<string name="search_bar_video_download_hint">Tìm kiếm hoặc nhập URL</string>
 	<string name="video_download_start">Đang tải xuống…</string>
+	<string name="dialog_privacy_revoke_count_down">Rút lại (%1$d giây)</string>
+	<string name="dialog_privacy_revoke_description">Bằng cách tắt công tắc, bạn rút lại sự đồng ý của mình đối với Chính sách quyền riêng tư của Mi Video. Chúng tôi sẽ ngừng thu thập thông tin cá nhân của bạn. Thông tin cá nhân đã được thu thập và lưu giữ sẽ bị xóa trong khoảng thời gian cụ thể theo yêu cầu của luật hiện hành. Việc bạn rút lại sự đồng ý với Chính sách Bảo mật sẽ được coi là từ chối chấp nhận các dịch vụ trực tuyến dựa trên thông tin cá nhân được thu thập.</string>
+	<string name="dialog_disagree_privacychange_title">"Không đồng ý?"</string>
+	<string name="video_download_play_video_guide">Trước tiên, phát video.</string>
+	<string name="video_download_floating_guide">Tải xuống video miễn phí</string>
+	<string name="dialog_disagree_privacychange_info">"Bạn sẽ không thể sử dụng các dịch vụ phát trực tuyến của Mi Video nếu bạn không đồng ý với Chính sách quyền riêng tư của chúng tôi. Chạm \"Hủy\" để quay lại hoặc \"Không đồng ý\" để tiếp tục và sử dụng Mi Video như trình phát video cục bộ."</string>
+	<string name="dialog_privacy_info_new4">"Chào mừng bạn đến với Mi Video! Ứng dụng này cung cấp các dịch vụ sau:&lt;br&gt;&lt;/br&gt; - Dịch vụ stream trực tuyến&lt;br&gt;&lt;/br&gt;- Trình phát video cục bộ&lt;br&gt;&lt;/br&gt;Mi Video cần thu thập thông tin cá nhân cần thiết để cung cấp cho bạn các dịch vụ cơ bản. Bạn có thể tìm hiểu cách chúng tôi xử lý thông tin chúng tôi thu thập trong Chính sách Riêng tư của chúng tôi. Bạn sẽ có thể thay đổi các cài đặt liên quan trong Cài đặt &gt; Mật khẩu &amp; bảo mật.&lt;br&gt;&lt;/br&gt;Đọc và đồng ý với &lt;a href=%1$s&gt;Thỏa thuận Người dùng&lt;/a&gt; và &lt;a href=%2$s&gt;Chính sách Riêng tư&lt;/a&gt; của chúng tôi trước khi sử dụng Mi Video."</string>
+	<string name="video_download_forbidden">"Không thể tải xuống từ trang web này"</string>
+	<string name="privacy_revoke_setting">Bằng cách tắt công tắc, bạn rút lại sự đồng ý của mình đối với Chính sách Riêng tư của Mi Video.</string>
+	<string name="dialog_privacy_revoke_success">Rút lại thành công</string>
+	<string name="video_download_source">Tải xuống từ web</string>
+	<string name="ytb_login_hint">Đăng nhập để xem kênh Youtube đăng ký của bạn</string>
+	<string name="dialog_privacy_change_info">"Chúng tôi đã cập nhật Chính sách quyền riêng tư của Mi Video do những điều chỉnh trong các dịch vụ mà chúng tôi cung cấp. Để hiểu đầy đủ các quyền của bạn với tư cách là người dùng cũng như cách chúng tôi sử dụng dữ liệu của bạn, hãy đọc và đồng ý với &lt;a href=%1$s&gt;Thỏa thuận Người dùng&lt;/a&gt; và &lt;a href=%2$s&gt;Chính sách Riêng tư&lt;/a&gt; của chúng tôi trước khi sử dụng ứng dụng."</string>
+	<string name="dialog_privacy_change_title">Cập nhật Chính sách Riêng tư</string>
+	<string name="video_download_play_video_guide2">Sau đó nhấn nút để tải xuống.</string>
 </resources>

@@ -2858,4 +2858,12 @@ Bạn sẽ được thông báo khi có thể sử dụng lại cổng USB."</st
 	<string name="miui_snooze_always_float">"Không ẩn"</string>
 	<string name="miui_snooze_until_unlock_screen">Cho đến khi khóa</string>
 	<string name="miui_snooze_default_time">Trong %d phút</string>
+	<string name="choose_clock_dual_clock_hint_text">"Không thể đổi định dạng khi bật Đồng hồ kép"</string>
+	<string name="miui_snooze_toast_hint_until_unlock_screen">"Thông báo đến sẽ ẩn cho đến khi thiết bị khóa. "</string>
+	<string name="float_notification_snooze_strategy">Tạm thời ẩn thông báo nổi</string>
+	<string name="miui_snooze_toast_hint_default">"Thông báo đễn sẽ ẩn trong %d phút. "</string>
+	<string name="miui_snooze_user_set_success">Áp dụng thành công. Vào Cài đặt &gt; Thông báo &amp; Trung tâm điều khiển để có nhiều tùy chọn hơn.</string>
+	<string name="miui_snooze_user_set_fail">Vào Cài đặt &gt; Thông báo &amp; Trung tâm điều khiển để có nhiều tùy chọn hơn</string>
+	<string name="finger_error_single_mode">"Không thể sử dụng quét vân tay trong chế độ một tay. Thoát chế độ một tay và thử lại."</string>
+	<string name="start_camera_error_try_again">"Không thể chạy Máy ảnh. Thử lại."</string>
 </resources>
