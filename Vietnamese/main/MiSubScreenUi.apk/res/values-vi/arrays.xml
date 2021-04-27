@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<resources>
+	<string-array name="subscreen_mode_entries">
+		<item>%d giây</item>
+		<item>%d giây</item>
+		<item>%d giây</item>
+	</string-array>
+</resources>
