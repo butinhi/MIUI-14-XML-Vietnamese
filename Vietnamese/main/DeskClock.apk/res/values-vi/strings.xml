@@ -602,7 +602,7 @@ sau khi Sức khỏe Mi phân tích đủ dữ liệu"</string>
 	<string name="heavenly_stems_ding">"Đinh "</string>
 	<string name="friday_short">Th 6</string>
 	<string name="solar_term_winter_begins">Lập Đông</string>
-	<string name="fmt_chinese_date">e t N</string>
+	<string name="fmt_chinese_date">e N</string>
 	<string name="sunday_shortest">CN</string>
 	<string name="midnight">SA</string>
 	<string name="earthly_branches_xu">Tuất</string>
@@ -631,7 +631,7 @@ sau khi Sức khỏe Mi phân tích đủ dữ liệu"</string>
 	<string name="chinese_symbol_animals_monkey">Thân</string>
 	<string name="saturday_shortest">Th 7</string>
 	<string name="the_childrens_day">Tết thiếu nhi</string>
-	<string name="fmt_weekday_time_timezone">W T z</string>
+	<string name="fmt_weekday_time_timezone">zW T</string>
 	<string name="chinese_symbol_animals_sheep">Mùi</string>
 	<string name="the_second_day">Mùng 2 Tết Nguyên Đán</string>
 	<string name="solar_term_winter_solstice">Đông Chí</string>

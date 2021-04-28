@@ -300,7 +300,7 @@ Cho phép Ghi chú ghi âm."</string>
 	<string name="todo_alert_title_delete">Xóa nhiệm vụ đã xong</string>
 	<string name="todo_audio_default_content">"[Nhiệm vụ âm thanh] "</string>
 	<string name="todo_custom_remind_tag_pattern_with_md">HH:mm dd/MM</string>
-	<string name="todo_custom_remind_tag_pattern_with_ymd">HH:mm MM/dd/yyyy</string>
+	<string name="todo_custom_remind_tag_pattern_with_ymd">HH:mm dd/MM/yyyy</string>
 	<string name="todo_edit_audio_hint">Nói nhiệm vụ của bạn</string>
 	<string name="todo_edit_btn_cancel_remind">Hủy nhắc nhở</string>
 	<string name="todo_edit_btn_custom">Đặt nhắc nhở</string>
@@ -338,7 +338,7 @@ Cho phép Ghi chú ghi âm."</string>
 	<string name="todo_schedule_time_tomorrow">Ngày mai</string>
 	<string name="todo_schedule_time_y">yyyy/</string>
 	<string name="todo_schedule_time_yesterday">Hôm qua</string>
-	<string name="todo_schedule_time_ymdhm">HH:mm MM/dd/yyyy</string>
+	<string name="todo_schedule_time_ymdhm">HH:mm dd/MM/yyyy</string>
 	<string name="todo_search_hint">Tìm kiếm nhiệm vụ</string>
 	<string name="todo_time_picker_title">Đặt nhắc nhở</string>
 	<string name="todo_user_guide_tip1">Chào mừng tới Nhiệm vụ!</string>

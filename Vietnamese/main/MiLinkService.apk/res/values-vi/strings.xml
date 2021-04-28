@@ -324,7 +324,6 @@ Nếu cả hai thiết bị không thể kết nối tới cùng một mạng, b
 	<string name="month_november">Tháng mười một</string>
 	<string name="month_october">Tháng mười</string>
 	<string name="month_february">Tháng hai</string>
-	<string name="fmt_date">Thg 12</string>
 	<string name="chinese_symbol_animals_snake">Tỵ</string>
 	<string name="chinese_symbol_animals_mouse">Tý</string>
 	<string name="the_night_of_sevens">Lễ Thất Tịch</string>

@@ -447,12 +447,9 @@ Nhập số điện thoại đã được liên kết với thẻ SIM mới đ�
 	<string name="fmt_date_time">D T</string>
 	<string name="fmt_weekday_date_timezone">W, D z</string>
 	<string name="fmt_date_numeric_year_month_day">dd/MM/yyyy</string>
-	<string name="fmt_time_millis">CN</string>
 	<string name="fmt_date_long_year_month_day">d MMMM, yyyy</string>
 	<string name="fmt_weekday_timezone">W z</string>
-	<string name="fmt_time_second">CN</string>
 	<string name="fmt_date_short_month_day">d-M</string>
-	<string name="fmt_date">Thg 12</string>
 	<string name="fmt_time">T</string>
 	<string name="activate_popup_desc_sim_card_msg_with_charge_hint">Để kích hoạt %2$s, &lt;xliff:g id=number_sms refersto=1&gt;%1$d&lt;/xliff:g&gt; &lt;font color=#0097FF&gt;SMS có phí&lt;/font&gt; sẽ được gửi. Nhà mạng sẽ thu phí cho tin nhắn này.</string>
 	<string name="activate_popup_desc_2_intl_sim_cards_msg_with_charge_hint">Để kích hoạt %2$s, &lt;xliff:g id=number_sms refersto=2&gt;%1$d&lt;/xliff:g&gt; &lt;font color=#0097FF&gt;&lt;b&gt;SMS quốc tế có phí&lt;/b&gt; sẽ được gửi. Nhà mạng sẽ thu phí cho tin nhắn này.</string>

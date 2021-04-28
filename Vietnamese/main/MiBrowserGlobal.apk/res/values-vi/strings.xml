@@ -520,7 +520,6 @@ Kích thước cập nhật Delta: %2$s"</string>
 	<string name="sunday_short">CN</string>
 	<string name="category_file">Tập tin</string>
 	<string name="hashtag_follow_null">"Bạn chưa theo dõi ai"</string>
-	<string name="fmt_time_second">CN</string>
 	<string name="version_check_button_default">Kiểm tra cập nhật</string>
 	<string name="progress_dialog_setting_wallpaper">Đang cài đặt hình nền…</string>
 	<string name="fast_search_title">Tìm kiếm nhanh</string>
@@ -1135,7 +1134,6 @@ Trang mà bạn xem sẽ không xuất hiện trong lịch sử."</string>
 	<string name="earthly_branches_you">Dậu</string>
 	<string name="exit_clear_dialog_always">Nhớ lựa chọn của tôi</string>
 	<string name="my_cahnnel">Kênh của tôi</string>
-	<string name="fmt_date">Thg 12</string>
 	<string name="account_invalid_user_avatar">Ảnh này không hợp lệ. Thử lại ảnh khác.</string>
 	<string name="download_action">Tải xuống</string>
 	<string name="chinese_symbol_animals_snake">Tỵ</string>
@@ -1477,7 +1475,6 @@ Trang mà bạn xem sẽ không xuất hiện trong lịch sử."</string>
 	<string name="v7_preference_off">TẮT</string>
 	<string name="account_user_avatar_from_album">Album</string>
 	<string name="the_easter_day">Lễ Phục Sinh</string>
-	<string name="fmt_time_millis">CN</string>
 	<string name="enable_geolocation_confirm_message">Tắt dịch vụ vị trí sẽ ảnh hưởng đến dịch vụ được kiến nghị.</string>
 	<string name="pref_extras_reset_default_dlg">Khôi phục cài đặt mặc định?</string>
 	<string name="cloud_tab">Thẻ Xiaomi Cloud</string>

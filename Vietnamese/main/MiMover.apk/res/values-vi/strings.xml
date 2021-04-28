@@ -198,7 +198,6 @@ Sau khi tạo câu hỏi bảo mật mới và xác nhận ngày sinh của bạ
 	<string name="host_dialog_known_button">Tôi biết</string>
 	<string name="month_february">Tháng hai</string>
 	<string name="hsa_send_again_countdown">Gửi lại (%d giây)</string>
-	<string name="fmt_date">Thg 12</string>
 	<string name="chinese_symbol_animals_snake">Tỵ</string>
 	<string name="chinese_symbol_animals_mouse">Tý</string>
 	<string name="the_night_of_sevens">Lễ Thất Tịch</string>

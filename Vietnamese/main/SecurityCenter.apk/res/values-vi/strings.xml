@@ -4677,7 +4677,6 @@ Chuyển đổi giữa các ký tự khác nhau và các hiệu ứng đặc bi�
 	<string name="chinese_day_26">26</string>
 	<string name="chinese_day_25">25</string>
 	<string name="eras_bc">TCN</string>
-	<string name="fmt_time_millis">CN</string>
 	<string name="time_picker_label_hour">Giờ</string>
 	<string name="chinese_day_29">29</string>
 	<string name="fmt_date_short_month_day">d-M</string>
@@ -4700,7 +4699,6 @@ Chuyển đổi giữa các ký tự khác nhau và các hiệu ứng đặc bi�
 	<string name="fmt_time_12hour_minute_second_millis">h:mm:ss.S</string>
 	<string name="solar_term_summer_begins">Lập Hạ</string>
 	<string name="fmt_time_12hour_minute">HH:mm</string>
-	<string name="fmt_time_second">CN</string>
 	<string name="the_armys_day">Ngày thành lập quân đội</string>
 	<string name="earthly_branches_si">Tỵ</string>
 	<string name="fmt_time_12hour_minute_second">h:mm:ms</string>
@@ -4842,7 +4840,6 @@ Chuyển đổi giữa các ký tự khác nhau và các hiệu ứng đặc bi�
 	<string name="month_october">Tháng mười</string>
 	<string name="earthly_branches_you">Dậu</string>
 	<string name="month_february">Tháng hai</string>
-	<string name="fmt_date">Thg 12</string>
 	<string name="chinese_symbol_animals_snake">Tỵ</string>
 	<string name="chinese_symbol_animals_mouse">Tý</string>
 	<string name="the_night_of_sevens">Lễ Thất Tịch</string>

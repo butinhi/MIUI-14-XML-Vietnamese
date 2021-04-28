@@ -378,14 +378,11 @@
 	<string name="fmt_date_short_year_month_day">dd/MM/yyyy</string>
 	<string name="fmt_date_numeric_year_month_day">d/M/yyyy</string>
 	<string name="fmt_date_long_year_month_day">dd MMMM, yyyy</string>
-	<string name="fmt_date_short_month_day">dd/MMd</string>
+	<string name="fmt_date_short_month_day">dd/MM</string>
 	<string name="fmt_weekday">W</string>
 	<string name="fmt_weekday_time_timezone">W T z</string>
 	<string name="fmt_weekday_timezone">W z</string>
-	<string name="fmt_time_second">CN</string>
 	<string name="fmt_date_time">D T</string>
 	<string name="fmt_weekday_date_timezone">W, D z</string>
-	<string name="fmt_date">Thg 12</string>
-	<string name="fmt_time_millis">CN</string>
 	<string name="fmt_time">T</string>
 </resources>
