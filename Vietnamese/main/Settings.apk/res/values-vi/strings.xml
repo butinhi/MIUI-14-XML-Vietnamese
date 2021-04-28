@@ -11420,4 +11420,13 @@ Bạn chưa từng kết nối với %2$s trước đó."</string>
 	<string name="headset_find_tip">Tai nghe của bạn phải ở gần và được kết nối với thiết bị này để bạn tìm thấy chúng. Phát âm báo khi đang đeo tai nghe có thể làm hỏng thính giác của bạn.</string>
 	<string name="miheadset_key_config_press_right">Nhấn và giữ tai nghe bên phải</string>
 	<string name="subscreen_title">Màn hình phía sau</string>
+	<string name="external_ram_dialog_title">Khởi động lại thiết bị</string>
+	<string name="external_ram_dialog_message">Khởi động lại thiết bị để áp dụng thay đổi.</string>
+	<string name="external_ram_dialog_btn_cancel">Để sau</string>
+	<string name="external_ram_dialog_btn_ok">Khởi động lại</string>
+	<string name="permission_records_summary">Tóm tắt về cách ứng dụng sử dụng quyền</string>
+	<string name="external_ram_title">Mở rộng bộ nhớ</string>
+	<string name="external_ram_summary">"Thêm %1$s %2$s RAM bằng cách sử dụng bộ nhớ trong. Chỉ sử dụng tính năng này khi có đủ dung lượng bộ nhớ trên thiết bị của bạn."</string>
+	<string name="external_ram_toast">"Không thể sử dụng phần mở rộng bộ nhớ do không đủ dung lượng bộ nhớ"</string>
+	<string name="permission_records">Sử dụng quyền</string>
 </resources>

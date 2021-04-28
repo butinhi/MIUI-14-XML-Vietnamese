@@ -766,4 +766,6 @@ Bạn cần phải cài đặt phiên bản MIUI của nhà phát triển để 
 	<string name="cetus_invisible_mode_notice_audio">"Bạn đang ẩn danh. Không thể sử dụng micro."</string>
 	<string name="cetus_invisible_mode_notice_location">"Bạn đang ẩn danh. Không thể sử dụng dịch vụ vị trí."</string>
 	<string name="cetus_invisible_mode_notice_camera">"Bạn đang ẩn danh. Không thể sử dụng máy ảnh."</string>
+	<string name="close">Đóng</string>
+	<string name="send">Gửi</string>
 </resources>

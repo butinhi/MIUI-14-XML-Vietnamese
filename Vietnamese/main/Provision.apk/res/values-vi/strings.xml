@@ -606,4 +606,6 @@ Bạn cần đọc và đồng ý với Chính sách Riêng tư Mint Keyboard tr
 	<string name="permission_MIUIDaemon_introduction">MIUI Daemon cho phép bạn chuyển dữ liệu từ thiết bị khi màn hình hỏng.</string>
 	<string name="permission_read_message">Truy cập tin nhắn văn bản</string>
 	<string name="service_name_MIUIDaemon">MIUI Daemon</string>
+	<string name="close">Đóng</string>
+	<string name="send">Gửi</string>
 </resources>

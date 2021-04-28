@@ -596,4 +596,6 @@
 	<string name="chinese_symbol_animals_dog">Tuất</string>
 	<string name="pm">CH</string>
 	<string name="the_fifth_day">Mùng 5 Tết Nguyên Đán</string>
+	<string name="close">Đóng</string>
+	<string name="send">Gửi</string>
 </resources>

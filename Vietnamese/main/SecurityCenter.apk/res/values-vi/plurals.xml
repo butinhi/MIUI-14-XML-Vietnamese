@@ -667,4 +667,10 @@ Nghỉ ngơi chút đi!"</item>
 	<plurals name="card_uninstall_title">
 		<item quantity="other">&lt;Data&gt;Bạn có thể gỡ &lt;font color=#F22424&gt;%d&lt;/font&gt; ứng dụng&lt;/Data&gt;</item>
 	</plurals>
+	<plurals name="app_behavior_dashboard_total_usage_item">
+		<item quantity="other">%d ứng dụng</item>
+	</plurals>
+	<plurals name="app_behavior_dashboard_title_desc">
+		<item quantity="other">%d ứng dụng</item>
+	</plurals>
 </resources>

@@ -456,4 +456,6 @@ Nhập số điện thoại đã được liên kết với thẻ SIM mới đ�
 	<string name="activate_popup_desc_2_sim_cards_msg_with_charge_hint">Để kích hoạt %2$s, &lt;xliff:g id=number_sms refersto=2&gt;%1$d&lt;/xliff:g&gt; &lt;font color=#0097FF&gt;&lt;b&gt;SMS nội địa có phí&lt;/b&gt; sẽ được gửi. Nhà mạng sẽ thu phí cho tin nhắn này.</string>
 	<string name="activate_popup_desc_intl_sim_card_msg_with_charge_hint">Để kích hoạt %2$s, &lt;xliff:g id=number_sms refersto=1&gt;%1$d&lt;/xliff:g&gt; &lt;font color=#0097FF&gt;&lt;b&gt;SMS quốc tế có phí&lt;/b&gt;sẽ được gửi. Nhà mạng sẽ thu phí cho tin nhắn này.</string>
 	<string name="activate_popup_desc_mixed_sim_cards_msg_with_charge_hint">Để kích hoạt %3$s, &lt;xliff:g id=number_sms refersto=1&gt;%1$d&lt;/xliff:g&gt; &lt;font color=#0097FF&gt;&lt;b&gt;SMS nội địa có phí&lt;/b&gt; và &lt;xliff:g id=number_sms refersto=1&gt;%2$d&lt;/xliff:g&gt; &lt;font color=#0097FF&gt;&lt;b&gt;SMS quốc tế có phí&lt;/b&gt; sẽ được gửi. Nhà mạng sẽ thu phí cho tin nhắn này.</string>
+	<string name="close">Đóng</string>
+	<string name="send">Gửi</string>
 </resources>

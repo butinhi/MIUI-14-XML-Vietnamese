@@ -844,4 +844,10 @@ Bất kỳ người dùng nào cũng có thể thay mặt cho tất cả ngườ
 	<string name="softap_beacon_protection_summary">Bật bảo vệ đèn hiệu SoftAp bằng Hotspot</string>
 	<string name="softap_ocv_summary">Bật SoftAp OCV bằng Hotspot</string>
 	<string name="softap_ocv">Bật SoftAp OCV</string>
+	<string name="scam_cancle">Hủy</string>
+	<string name="do_not_show_again">Không hiển thị lại</string>
+	<string name="scam_ok">Quay số</string>
+	<string name="scam_message">"Bạn đang thiết lập chuyển tiếp cuộc gọi. Sau đó, tất cả các cuộc gọi đến của bạn sẽ được số điện thoại %1$s trả lời. Nếu bạn không sở hữu số chuyển tiếp này, bạn có thể có nguy cơ bị lộ thông tin cá nhân của mình hoặc ảnh hưởng đến bảo mật của tài sản của bạn. Sử dụng tính năng này một cách thận trọng."</string>
+	<string name="scam_title">Nhắc nhở rủi ro gian lận</string>
+	<string name="scam_message_2">**21*Số chuyển tiếp# là mã chuyển tiếp cuộc gọi. Liên hệ với nhà cung cấp dịch vụ của bạn nếu bạn có bất kỳ câu hỏi nào.</string>
 </resources>
