@@ -11429,4 +11429,5 @@ Bạn chưa từng kết nối với %2$s trước đó."</string>
 	<string name="external_ram_summary">"Thêm %1$s %2$s RAM bằng cách sử dụng bộ nhớ trong. Chỉ sử dụng tính năng này khi có đủ dung lượng bộ nhớ trên thiết bị của bạn."</string>
 	<string name="external_ram_toast">"Không thể sử dụng phần mở rộng bộ nhớ do không đủ dung lượng bộ nhớ"</string>
 	<string name="permission_records">Sử dụng quyền</string>
+	<string name="miheadset_network_not_available">Lỗi mạng. Chờ một vài phút rồi thử lại.</string>
 </resources>

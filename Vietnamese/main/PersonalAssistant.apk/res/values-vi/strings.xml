@@ -2618,4 +2618,5 @@ Vui lòng gửi mã này cho nhân viên kỹ thuật."</string>
 	<string name="app_travel_card_train_info_tip">Thông tin này chỉ được cung cấp để bạn tham khảo. Liên hệ với công ty đường sắt để biết thêm chi tiết.</string>
 	<string name="search_header_dialog_title">Đổi hình nền</string>
 	<string name="app_travel_card_flight_info_tip">Thông tin này chỉ được cung cấp để bạn tham khảo. Liên hệ với hãng hàng không để biết thêm chi tiết.</string>
+	<string name="app_first_loading_txt">Nạp thẻ thông minh...</string>
 </resources>

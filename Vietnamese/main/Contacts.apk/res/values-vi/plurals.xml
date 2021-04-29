@@ -200,4 +200,7 @@
 	<plurals name="contacts_trash_restore_respond">
 		<item quantity="other">Đã khôi phục thành công %d liên hệ</item>
 	</plurals>
+	<plurals name="miuix_appcompat_items_selected">
+		<item quantity="other">%d mục đã chọn</item>
+	</plurals>
 </resources>

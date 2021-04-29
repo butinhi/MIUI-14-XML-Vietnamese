@@ -2798,4 +2798,14 @@ Phiên dịch có thể mất một lúc khi bạn sử dụng tính năng này 
 	<string name="homepage_allphotos_tip_dialog_title">Bạn muốn thấy ảnh nào trong \"Ảnh\"?</string>
 	<string name="sync_backup_disable_confirm_title">Tắt đồng bộ</string>
 	<string name="homepage_allphotos_tip_dialog_description_only_camera">Chụp bởi Máy ảnh</string>
+	<string name="mishare_all_devices">Tất cả thiết bị</string>
+	<string name="cloud_full_space_tip_negative">Không phải bây giờ</string>
+	<string name="cloud_full_space_tip_positive">Nâng cấp</string>
+	<string name="filter_food_orangeflavor">Quýt</string>
+	<string name="cloud_full_space_tip_message">Nâng cấp gói lưu trữ đám mây của bạn để có thể đồng bộ tất cả ảnh và video.</string>
+	<string name="synced_photo_video_count">Đã đồng bộ %1$s và %2$s</string>
+	<string name="filter_popular_gingertea">Gừng</string>
+	<string name="cloud_full_space_tip_title">Hết bộ nhớ đám mây</string>
+	<string name="filter_popular_mango">Xoài</string>
+	<string name="filter_popular_windchime">Kêu vang</string>
 </resources>

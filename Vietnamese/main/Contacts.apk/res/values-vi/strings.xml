@@ -2156,4 +2156,10 @@ Chuyển vùng Mi cần kết nối Internet và truy cập thông tin vị trí
 	<string name="contacts_trash_activity_hint">Chọn liên hệ để khôi phục</string>
 	<string name="bh_order_pay">Thanh toán</string>
 	<string name="bh_cannot_action">"Không thể sử dụng %1$s. Cài đặt ứng dụng tương ứng trước."</string>
+	<string name="miuix_appcompat_select_all">Chọn tất cả</string>
+	<string name="miuix_appcompat_deselect_all">Bỏ chọn</string>
+	<string name="date_time_picker_dialog_title">Đặt ngày và giờ</string>
+	<string name="close">Đóng</string>
+	<string name="miuix_appcompat_select_item">Chọn mục</string>
+	<string name="send">Gửi</string>
 </resources>
