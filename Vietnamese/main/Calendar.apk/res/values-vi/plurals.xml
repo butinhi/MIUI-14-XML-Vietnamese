@@ -218,4 +218,49 @@
 	<plurals name="miuix_appcompat_items_selected">
 		<item quantity="other">%d mục đã chọn</item>
 	</plurals>
+	<plurals name="title_menstruation_margin_next_time_days">
+		<item quantity="other">%1$d ngày nữa đến chu kỳ tiếp theo</item>
+	</plurals>
+	<plurals name="title_menstruation_predict_period">
+		<item quantity="other">Dự tính ngày %1$d của chu kỳ</item>
+	</plurals>
+	<plurals name="subtitle_menstruation_continued_days">
+		<item quantity="other">Chu kỳ này kéo dài tổng cộng %1$d ngày</item>
+	</plurals>
+	<plurals name="mesens_card_title_days">
+		<item quantity="other">Ngày %1$d</item>
+	</plurals>
+	<plurals name="mesens_card_title_day_in_predict">
+		<item quantity="other">Ngày %1$d (mong đợi)</item>
+	</plurals>
+	<plurals name="title_menstruation_day">
+		<item quantity="other">Ngày %1$d của chu kỳ</item>
+	</plurals>
+	<plurals name="mesens_card_title_predict_date">
+		<item quantity="other">Chu kỳ tiếp theo trong %1$d ngày</item>
+	</plurals>
+	<plurals name="subtitle_menstruation_cycle_days">
+		<item quantity="other">Ngày %1$d của chu kỳ kinh nguyệt này</item>
+	</plurals>
+	<plurals name="day_index">
+		<item quantity="other">%1$d ngày</item>
+	</plurals>
+	<plurals name="subtitle_add_record">
+		<item quantity="other">Bạn đã không ghi lại %1$d ngày. Ghi lại chu kỳ của bạn để dự đoán được chính xác hơn.</item>
+	</plurals>
+	<plurals name="hide_completed_notes">
+		<item quantity="other">Ẩn %d tác vụ đã hoàn thành</item>
+	</plurals>
+	<plurals name="notes_custom_repeat_weeks">
+		<item quantity="other">tuần</item>
+	</plurals>
+	<plurals name="notes_custom_repeat_days">
+		<item quantity="other">ngày</item>
+	</plurals>
+	<plurals name="num_picker_hint">
+		<item quantity="other">" ngày"</item>
+	</plurals>
+	<plurals name="show_completed_notes">
+		<item quantity="other">Hiện %d tác vụ đã hoàn thành</item>
+	</plurals>
 </resources>

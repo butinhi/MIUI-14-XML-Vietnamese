@@ -3540,7 +3540,7 @@ Video sẽ được lưu trong Tăng tốc Trò chơi &gt; Khoảnh khắc quan 
 	<string name="warningcenter_mijia_alert_close">Đóng</string>
 	<string name="warningcenter_alert_home">Vị trí</string>
 	<string name="warningcenter_mijia_alert_view_device">Xem thiết bị</string>
-	<string name="permission_action_virtual">Tin nhắn ủy quyền null</string>
+	<string name="permission_action_virtual">Trả về dữ liệu rỗng</string>
 	<string name="warningcenter_mijia_info">Giám sát an ninh ngôi nhà của bạn</string>
 	<string name="warningcenter_mijia_notification_summary">Bạn có thể nhận được cảnh báo tức thì</string>
 	<string name="warningcenter_mijia_open_desc">"Bạn sẽ nhận được cảnh báo trên điện thoại này và các thiết bị chia sẻ khác bất cứ khi nào cảnh báo được phát ra từ thiết bị bạn đã thêm trong Mi Home"</string>
@@ -5186,4 +5186,10 @@ Ghi lại các trình tự và sử dụng chúng bất cứ lúc nào!"</string
 	<string name="privacy_show_other_permissions">Hiển thị các quyền khác</string>
 	<string name="app_behavior_desc_denied_on_background">Đã từ chối dưới nền</string>
 	<string name="app_behavior_record_setting_show_system">Hiển thị hành vi của dịch vụ hệ thống</string>
+	<string name="ew_monitor_exit_title">Gợi ý</string>
+	<string name="applock_mixtype_hidepwd_icon">Ẩn</string>
+	<string name="xspace_warning_dialog_button">Tôi biết</string>
+	<string name="applock_mixtype_showpwd_icon">Mở thư mục</string>
+	<string name="xspace_warning_dialog_title">Chú ý</string>
+	<string name="exception_checking">Đang kiểm tra…</string>
 </resources>

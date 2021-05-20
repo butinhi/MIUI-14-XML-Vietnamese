@@ -681,4 +681,12 @@
 	<string name="notification_save_as_complete">Đã lưu thành công</string>
 	<string name="remove_icon_description_content">"La bàn là một ứng dụng hệ thống. Bạn sẽ không thể sử dụng nó để kiểm tra chỉ đường, tọa độ, áp suất khí quyển và độ cao hiện tại sau khi bạn xóa lối tắt Màn hình chính."</string>
 	<string name="remove_icon_description_title">Xóa \"La bàn\" khỏi Màn hình chính?</string>
+	<string name="tap_to_record">Chạm vào nút trên màn hình để quay</string>
+	<string name="other_settings_pref_title">Cài đặt bổ sung</string>
+	<string name="no_content">Chưa có mục nào ở đây</string>
+	<string name="normal_settings_pref_title">Cài đặt chung</string>
+	<string name="recorder_record">Âm thanh</string>
+	<string name="remind_settings_pref_title">Thông báo</string>
+	<string name="all_record">Tất cả ghi âm</string>
+	<string name="no_playback_file">Chọn một bản ghi âm để xem chi tiết</string>
 </resources>

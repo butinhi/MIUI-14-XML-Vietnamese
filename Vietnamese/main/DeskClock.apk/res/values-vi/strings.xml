@@ -762,4 +762,5 @@ sau khi Sức khỏe Mi phân tích đủ dữ liệu"</string>
 	<string name="version_update_dialog_title">Đã có phiên bản mới</string>
 	<string name="version_update_dialog_positive_desc">Cập nhật</string>
 	<string name="version_update_dialog_negative_desc">Không phải bây giờ</string>
+	<string name="select_operation">Chọn</string>
 </resources>

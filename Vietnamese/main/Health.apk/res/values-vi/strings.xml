@@ -1930,4 +1930,7 @@ Nếu bạn không muốn tham gia các lớp học được đề xuất, bạn
 	<string name="date_time_picker_dialog_title">Đặt ngày và giờ</string>
 	<string name="miuix_appcompat_select_item">Chọn mục</string>
 	<string name="send">Gửi</string>
+	<string name="dialog_exit_use">Thoát</string>
+	<string name="download_apk">Đang tải xuống %s</string>
+	<string name="download_background">Tải xuống</string>
 </resources>

@@ -375,4 +375,9 @@
 	<string name="subscreen_settings_fail">"Không thể hoàn tất hành động"</string>
 	<string name="aod_lock_screen_date_v">"EE
 d/M"</string>
+	<string name="not_add_contact">Chưa được thêm</string>
+	<string name="has_add_contact">Đã thêm</string>
+	<string name="wilderness_dialing">Đang gọi</string>
+	<string name="subscreen_other_dialog_confirm">Bật</string>
+	<string name="wilderness_dcalling">Đã kết nối</string>
 </resources>

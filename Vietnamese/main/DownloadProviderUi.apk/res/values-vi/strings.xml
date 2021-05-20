@@ -910,4 +910,16 @@ Tăng tốc tải xuống giữa các thiết bị."</string>
 	<string name="dialog_download_dir_title">Thư mục tải xuống mới</string>
 	<string name="tip_download_icon_retry">"Không thể thêm lối tắt. Thử lại."</string>
 	<string name="toast_download_icon_restore_fail">"Không thể thêm lối tắt"</string>
+	<string name="diagnosis_log_sent_format">Nhật ký chẩn đoán đã gửi. ID:%s Hãy gửi mã này cho kỹ thuật viên.</string>
+	<string name="for_diagnosis_usage_only">Chỉ sử dụng thông tin này để chẩn đoán.</string>
+	<string name="temporary_not_available">Tạm thời không khả dụng</string>
+	<string name="diagnosis_log_send_failed">Gửi nhật ký chẩn đoán thất bại.</string>
+	<string name="passport_oauth_sucess_tip">Xác thực thành công</string>
+	<string name="sending">Đang gửi…</string>
+	<string name="passport_oauth_actionbar_title">Tài khoản Mi</string>
+	<string name="collect_diagnosis_log">Thu thập nhật ký chẩn đoán</string>
+	<string name="character_counter_content_description">Vượt quá giới hạn ký tự %1$d trên %2$d</string>
+	<string name="mtrl_chip_close_icon_content_description">Xóa %1$s</string>
+	<string name="send_diagnosis_log">Gửi nhật ký chẩn đoán</string>
+	<string name="password_toggle_content_description">Hiển thị mật khẩu</string>
 </resources>

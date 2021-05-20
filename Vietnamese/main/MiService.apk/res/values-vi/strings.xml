@@ -499,4 +499,9 @@
 	<string name="miuix_appcompat_select_item">Chọn mục</string>
 	<string name="close">Đóng</string>
 	<string name="send">Gửi</string>
+	<string name="miui_feedback_main_menu_view_privacy">Chính sách Riêng tư</string>
+	<string name="miui_feedback_main_item_feedback_list">Phản hồi của tôi</string>
+	<string name="miui_feedback_main_search_no_answer">Không tìm thấy kết quả</string>
+	<string name="miui_feedback_main_item_customer_service">Dịch vụ sau bán hàng</string>
+	<string name="miui_feedback_main_item_catch_full_log">Lấy nhật ký</string>
 </resources>

@@ -1,32 +1,5 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <resources>
-    <plurals name="call_recording_notification_complete">
-        <item quantity="other">%d cuộc gọi đã được ghi âm.</item>
-    </plurals>
-    <plurals name="livetalk_left_minute">
-        <item quantity="other">Còn lại %d phút</item>
-    </plurals>
-	<plurals name="duration_hours">
-        <item quantity="other">%d giờ</item>
-    </plurals>
-    <plurals name="duration_minutes">
-        <item quantity="other">%d phút</item>
-    </plurals>
-    <plurals name="duration_seconds">
-        <item quantity="other">%d giây</item>
-    </plurals>
-	<plurals name="conference_call_number">
-        <item quantity="other">%s người</item>
-    </plurals>
-    <plurals name="call_title_redialing_with_times">
-        <item quantity="other">Gọi lại %d lần</item>
-    </plurals>
-    <plurals name="antispam_marked_count">
-        <item quantity="other">Báo cáo bởi %d người dùng MIUI</item>
-    </plurals>
-	<plurals name="auto_disconnect_timer_tip">
-		<item quantity="other">Đang cúp máy trong %1$d giây</item>
-	</plurals>
 	<plurals name="abbrev_a_hour_ago">
 		<item quantity="other">1 giờ trước</item>
 	</plurals>

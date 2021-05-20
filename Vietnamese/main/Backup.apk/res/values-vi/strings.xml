@@ -1021,4 +1021,11 @@ Dữ liệu chưa được nhập phải được nhập lại."</string>
 	<string name="fmt_date_numeric_year_month_day">d/M/yyyy</string>
 	<string name="fmt_date_long_year_month_day">dd MMMM, yyyy</string>
 	<string name="fmt_date_short_month_day">dd/MM</string>
+	<string name="new_pc_restore_content2_pad">%d. Sao chép bản sao lưu từ máy tính của bạn vào MIUI-Backup-AllBackup.</string>
+	<string name="new_local_tab_restore_pad">Khôi phục</string>
+	<string name="backup_hint_pad">Giữ thiết bị của bạn luôn mở</string>
+	<string name="new_local_tab_backup_pad">Sao lưu</string>
+	<string name="new_pc_backup_summary2_pad">Kết nối thiết bị di động của bạn vào máy tính bằng cáp USB.</string>
+	<string name="new_pc_backup_restore_link_pad">Thiết bị di động</string>
+	<string name="not_enough_storage_tips">Hết bộ nhớ. Giải phóng thêm bộ nhớ và thử lại.</string>
 </resources>

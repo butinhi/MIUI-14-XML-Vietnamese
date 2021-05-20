@@ -1696,4 +1696,25 @@ Không thanh toán riêng"</string>
 	<string name="open_knowledge_vip">VIP kiến ​​thức mở</string>
 	<string name="under_way_msg">Việc phân phối thành viên có thể bị trễ 1-5 phút. Nếu lâu không được cấp, vui lòng phản hồi qua mục "Liên hệ CSKH-Liên hệ cuối trang".</string>
 	<string name="open_order_dialog">Nhận thông tin đặt hàng...</string>
+	<string name="talkback_speed">Tốc độ</string>
+	<string name="talkback_enter">Nhập</string>
+	<string name="login_register_by_local_phone_long_text">Tạo tài khoản</string>
+	<string name="request_error_network">Lỗi mạng đã xảy ra. Kiểm tra cài đặt mạng của bạn và thử lại.</string>
+	<string name="access_denied_info">Quá nhiều lần thử. Chờ một vài phút rồi thử lại.</string>
+	<string name="library_android_database_sqlcipher_libraryDescription">Android SQLite API dựa trên SQLCipher</string>
+	<string name="doing_login">Đang đăng nhập…</string>
+	<string name="user_name_phone_number">Số điện thoại</string>
+	<string name="doing_register">Đang tạo tài khoản…</string>
+	<string name="unknown_error_info">Lỗi không xác định</string>
+	<string name="library_android_database_sqlcipher_libraryName">SQLCipher cho Android</string>
+	<string name="skip_query_account">Bỏ qua</string>
+	<string name="request_error_invalid_token">Xác thực thất bại</string>
+	<string name="register_by_local_phone_long_text">Tạo tài khoản</string>
+	<string name="system_error_info">Hệ thống đang bận. Chờ một hoặc hai phút và thử lại.</string>
+	<string name="register_by_local_phone_short_text">Tạo tài khoản</string>
+	<string name="progressbar_title">Kiểm tra các vấn đề bảo mật…</string>
+	<string name="network_timeout_info">Lỗi kết nối mạng, vui lòng thử lại</string>
+	<string name="login_by_local_phone_short_text">Đăng nhập</string>
+	<string name="network_error_info">Lỗi mạng đã xảy ra. Kiểm tra cài đặt mạng của bạn và thử lại.</string>
+	<string name="login_with_sns">Đăng nhập bằng cách khác</string>
 </resources>

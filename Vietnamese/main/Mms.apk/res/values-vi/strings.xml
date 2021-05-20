@@ -1566,4 +1566,16 @@ Tắt Chế độ máy bay trước."</string>
 	<string name="no_dialogue_yet">Chọn cuộc gội thoại</string>
 	<string name="pref_title_enable_ad_notification">Tin nhắn quảng cáo</string>
 	<string name="rcs_chatbot_blocked_tip">"Ứng dụng nhỏ này vừa bị chặn. Không thể bắt đầu hội thoại."</string>
+	<string name="message_unread">Chưa đọc</string>
+	<string name="miuix_appcompat_select_all">Chọn tất cả</string>
+	<string name="promo_install_btn_text">Tiếp theo</string>
+	<string name="promo_install_learn_more_xiaomi">Tìm hiểu thêm</string>
+	<string name="miuix_appcompat_deselect_all">Bỏ chọn</string>
+	<string name="promo_no_thanks_btn_text_xiaomi">Không, cảm ơn</string>
+	<string name="small_window_log_text">Máy ảnh không làm việc trong chế độ Chia màn hình</string>
+	<string name="date_time_picker_dialog_title">Đặt ngày và giờ</string>
+	<string name="privacy_revoke_nonetwork_title">Không thể kết nối mạng</string>
+	<string name="miuix_appcompat_select_item">Chọn mục</string>
+	<string name="privacy_revoke_nonetwork_ok">Tôi biết</string>
+	<string name="privacy_revoke_nonetwork_msg">Mạng không mạnh, vui lòng kiểm tra trạng thái mạng ~</string>
 </resources>

@@ -447,4 +447,7 @@ Việc nghe ở mức âm lượng cao trong thời gian dài có thể gây t�
 	<string name="dnd_popup_message">Bạn có thể bật chế độ DND để tắt tiếng cuộc gọi và thông báo mà không cần tắt âm thanh phương tiện.</string>
 	<string name="miui_toast_zen_to_dnd_when_lock">Cuộc gọi và thông báo sẽ bị tắt tiếng khi thiết bị bị khóa</string>
 	<string name="smart_home_title">Thiết bị thông minh</string>
+	<string name="wireless_charging_fg_control_ok">Điều chỉnh</string>
+	<string name="wireless_charging_fg_control_cancel">Hủy</string>
+	<string name="wireless_charging_fg_control_messgae">"Tính năng sạc không dây ngược đã bị tắt vì chỉ còn dưới %d%% pin. Bạn có thể điều chỉnh cài đặt để cho phép sạc không dây ngược hoạt động lâu hơn."</string>
 </resources>

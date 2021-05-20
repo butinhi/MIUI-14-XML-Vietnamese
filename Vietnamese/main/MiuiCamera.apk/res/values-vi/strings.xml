@@ -2426,4 +2426,6 @@ Sau khi bật chức năng "ghi nhiều camera", máy ảnh của điện thoạ
 	<string name="esp_tip">Xem trước màn hình bên ngoài</string>
 	<string name="pref_camera_track_focus_preferred_description">"Tự động bật để duy trì sự tập trung vào người và động vật. Bạn cũng sẽ có thể chọn các đối tượng để theo dõi theo cách thủ công."</string>
 	<string name="prep_video_ai_audio_single_desc_tip_alone">Âm thanh từ phía sau màn hình được lọc ở chế độ ngang</string>
+	<string name="scan_install_prompt_header">Cài đặt Máy quét</string>
+	<string name="module_name_scanner">Máy quét</string>
 </resources>

@@ -375,4 +375,6 @@
 	<string name="miui_multiwindow_not_support_small_window">"%1$s không hỗ trợ cửa sổ nổi"</string>
 	<string name="miui_multiwindow_not_support_split">"%1$s không hỗ trợ chia màn hình"</string>
 	<string name="long_press_power_key">Không</string>
+	<string name="relaunch_dialog_alwaysUsePrompt">Nhớ lựa chọn của tôi</string>
+	<string name="relaunch_dialog_button_cancel">Hủy</string>
 </resources>
