@@ -1064,4 +1064,10 @@ Gửi mã này cho người giám sát."</string>
 	<string name="chinese_symbol_animals_dog">Tuất</string>
 	<string name="pm">CH</string>
 	<string name="the_fifth_day">Mùng 5 Tết Nguyên Đán</string>
+	<string name="fmt_date_numeric_month_day">d/M</string>
+	<string name="fmt_date_long_month_day">dd MMMM</string>
+	<string name="fmt_date_short_year_month_day">dd/MM/yyyy</string>
+	<string name="fmt_date_short_month_day">dd/MM</string>
+	<string name="fmt_date_numeric_year_month_day">d/M/yyyy</string>
+	<string name="fmt_date_long_year_month_day">dd MMMM, yyyy</string>
 </resources>

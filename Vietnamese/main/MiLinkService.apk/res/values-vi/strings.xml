@@ -168,7 +168,6 @@ Nếu cả hai thiết bị không thể kết nối tới cùng một mạng, b
 	<string name="fmt_time_12hour_minute_second_pm">h:mm:ss a</string>
 	<string name="abc_search_hint">Tìm kiếm...</string>
 	<string name="fmt_date_year">yyyy</string>
-	<string name="fmt_time">T3</string>
 	<string name="month_december_shortest">Thg 12</string>
 	<string name="chinese_day_30">30</string>
 	<string name="miuix_sbl_tracking_progress_labe_refreshing">Đang làm mới</string>
