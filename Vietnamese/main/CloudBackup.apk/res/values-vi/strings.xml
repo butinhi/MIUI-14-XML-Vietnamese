@@ -576,4 +576,8 @@ Thử lại"</string>
 	<string name="confirm_restore_app_data">Đang ghi đè dữ liệu ứng dụng</string>
 	<string name="fmt_chinese_date">e N</string>
 	<string name="fmt_date_short_month_day">dd/MM</string>
+	<string name="dialog_btn_enter">Cài đặt</string>
+	<string name="backup_action_access_permission">Cài đặt</string>
+	<string name="dialog_btn_confirm2">Tôi biết</string>
+	<string name="dialog_need_permission">Yêu cầu quyền</string>
 </resources>

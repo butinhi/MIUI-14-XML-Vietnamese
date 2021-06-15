@@ -450,4 +450,11 @@ Việc nghe ở mức âm lượng cao trong thời gian dài có thể gây t�
 	<string name="wireless_charging_fg_control_ok">Điều chỉnh</string>
 	<string name="wireless_charging_fg_control_cancel">Hủy</string>
 	<string name="wireless_charging_fg_control_messgae">"Tính năng sạc không dây ngược đã bị tắt vì chỉ còn dưới %d%% pin. Bạn có thể điều chỉnh cài đặt để cho phép sạc không dây ngược hoạt động lâu hơn."</string>
+	<string name="hearing_assist_transmission_tips_continue">Bật</string>
+	<string name="hearing_assist_bluetooth_enable_tips_start">Bật</string>
+	<string name="hearing_assist_bluetooth_enable_tips_title">Bật Bluetooth</string>
+	<string name="hearing_assist_transmission_label">Khối lượng trả về</string>
+	<string name="hearing_assist_transmission_tips_title">Khối lượng trả về</string>
+	<string name="hearing_assist_transmission_tips_cancel">Hủy</string>
+	<string name="hearing_assist_bluetooth_enable_tips_cancle">Hủy</string>
 </resources>

@@ -2808,4 +2808,7 @@ Phiên dịch có thể mất một lúc khi bạn sử dụng tính năng này 
 	<string name="cloud_full_space_tip_title">Hết bộ nhớ đám mây</string>
 	<string name="filter_popular_mango">Xoài</string>
 	<string name="filter_popular_windchime">Kêu vang</string>
+	<string name="home_page_custom">Tùy chỉnh</string>
+	<string name="home_page_camera">Máy ảnh</string>
+	<string name="home_page_all_photos">Tất cả</string>
 </resources>

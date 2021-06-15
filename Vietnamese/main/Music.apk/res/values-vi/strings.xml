@@ -1978,4 +1978,18 @@ Nếu bạn không đồng ý sử dụng các dịch vụ nói trên, bạn s�
 	<string name="title_recently_played">Đã phát gần đây</string>
 	<string name="loading_text">Đang làm mới</string>
 	<string name="hint_search_songs_playlists_artists">Tìm bài hát, danh sách phát và nghệ sĩ</string>
+	<string name="mtrl_badge_numberless_content_description">Thông báo mới</string>
+	<string name="mtrl_exceed_max_badge_number_content_description">Nhiều hơn %1$d thông báo mới</string>
+	<string name="character_counter_overflowed_content_description">Vượt quá giới hạn ký tự %1$d trên %2$d</string>
+	<string name="item_view_role_description">Tab</string>
+	<string name="nav_app_bar_navigate_up_description">Điều hướng lên trên</string>
+	<string name="material_slider_range_start">Khoảng bắt đầu,</string>
+	<string name="error_icon_content_description">Lỗi</string>
+	<string name="exposed_dropdown_menu_content_description">Hiển thị menu</string>
+	<string name="clear_text_end_icon_content_description">Văn bản</string>
+	<string name="material_slider_range_end">Khoảng kết thúc,</string>
+	<string name="joox_category_chart">Bảng xếp hạng</string>
+	<string name="nav_app_bar_open_drawer_description">Mở bảng điều hướng</string>
+	<string name="columbus_player_unit_sec">giây</string>
+	<string name="icon_content_description">Biểu tượng hộp thoại</string>
 </resources>

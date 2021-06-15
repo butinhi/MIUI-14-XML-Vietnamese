@@ -763,4 +763,8 @@ sau khi Sức khỏe Mi phân tích đủ dữ liệu"</string>
 	<string name="version_update_dialog_positive_desc">Cập nhật</string>
 	<string name="version_update_dialog_negative_desc">Không phải bây giờ</string>
 	<string name="select_operation">Chọn</string>
+	<string name="not_set_temporarily">Không, cảm ơn</string>
+	<string name="timer_got_it_new">Im lặng</string>
+	<string name="close_alarm_new">Dừng</string>
+	<string name="set_now">Vào thiết lập</string>
 </resources>

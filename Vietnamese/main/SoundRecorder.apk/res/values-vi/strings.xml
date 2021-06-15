@@ -689,4 +689,5 @@
 	<string name="remind_settings_pref_title">Thông báo</string>
 	<string name="all_record">Tất cả ghi âm</string>
 	<string name="no_playback_file">Chọn một bản ghi âm để xem chi tiết</string>
+	<string name="delete_recorder">Xóa</string>
 </resources>

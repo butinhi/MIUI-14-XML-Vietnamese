@@ -1028,4 +1028,6 @@ Dữ liệu chưa được nhập phải được nhập lại."</string>
 	<string name="new_pc_backup_summary2_pad">Kết nối thiết bị di động của bạn vào máy tính bằng cáp USB.</string>
 	<string name="new_pc_backup_restore_link_pad">Thiết bị di động</string>
 	<string name="not_enough_storage_tips">Hết bộ nhớ. Giải phóng thêm bộ nhớ và thử lại.</string>
+	<string name="new_pc_restore_content1_pad">%d. Kết nối thiết bị di động vào máy tính bằng cáp USB.</string>
+	<string name="apps_item_desc">Ứng dụng</string>
 </resources>

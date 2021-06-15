@@ -377,4 +377,7 @@
 	<string name="long_press_power_key">Không</string>
 	<string name="relaunch_dialog_alwaysUsePrompt">Nhớ lựa chọn của tôi</string>
 	<string name="relaunch_dialog_button_cancel">Hủy</string>
+	<string name="battery_authentic_failed_button">Tôi biết</string>
+	<string name="battery_authentic_failed_title">Chú ý</string>
+	<string name="other_ime">Các bàn phím khác</string>
 </resources>

@@ -3240,4 +3240,7 @@ Bất cứ người dùng nào cũng có thể cập nhật ứng dụng cho ng�
 	<string name="unfold_speaker_pref_title">Mở để sử dụng loa ngoài</string>
 	<string name="call_fold_setting">Gập và mở</string>
 	<string name="wfcmode_ims_preferred">IMS ưa thích</string>
+	<string name="full_forwarding_option_off">TẮT</string>
+	<string name="full_forwarding_number_error_title">Số điện thoại không hợp lệ</string>
+	<string name="full_forwarding_option_voicemail">Thư thoại</string>
 </resources>

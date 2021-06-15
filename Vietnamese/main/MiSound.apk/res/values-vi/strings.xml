@@ -244,4 +244,14 @@
 	<string name="not_support_sound_transmission_content">"Tính năng này không được hỗ trợ trên thiết bị đã kết nối. Thử thiết bị Bluetooth khác."</string>
 	<string name="dolby_dax_setting">Hiệu ứng Dolby</string>
 	<string name="misound_effect_setting">Âm thanh Mi</string>
+	<string name="hearing_assist_exit_btn_continue">Tiếp tục mở</string>
+	<string name="hearing_assist_btn_start">Bắt đầu</string>
+	<string name="see_details">Chi tiết</string>
+	<string name="hearing_assist_btn_headset_choice">Chọn thiết bị</string>
+	<string name="headset_use_prompt">Tai nghe</string>
+	<string name="hearing_assist_btn_stop">Dừng</string>
+	<string name="hearing_assist_title">Khối lượng trả về</string>
+	<string name="hearing_assist_bluetooth_headset_not_supported">Không hỗ trợ</string>
+	<string name="hearing_assist_exit_btn_stop">Tắt</string>
+	<string name="hearing_assist_bluetooth_headset_disconnected">Chưa kết nối</string>
 </resources>

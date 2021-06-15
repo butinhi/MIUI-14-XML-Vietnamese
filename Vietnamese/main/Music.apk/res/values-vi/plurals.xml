@@ -228,4 +228,7 @@ Lưu ý: Các tập tin cũng sẽ bị xóa khỏi thiết bị này."</item>
 	<plurals name="list_header_follow_count">
 		<item quantity="other">Đang theo dõi %d người</item>
 	</plurals>
+	<plurals name="mtrl_badge_content_description">
+		<item quantity="other">%d thông báo mới</item>
+	</plurals>
 </resources>

@@ -981,4 +981,6 @@
 	<string name="giant_panda">Gấu trúc lớn</string>
 	<string name="red_billed_tropicbird">Chim nhiệt đới</string>
 	<string name="service_ringtone_title">Nhạc chuông dịch vụ</string>
+	<string name="authorization_tips">Yêu cầu quyền</string>
+	<string name="authorization_btn_text">Bắt đầu</string>
 </resources>

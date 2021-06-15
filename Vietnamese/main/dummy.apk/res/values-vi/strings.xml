@@ -5071,7 +5071,7 @@ Cài đặt này ảnh hưởng đến tất cả người dùng trên điện t
     <string name="screen_dark_mode_smart_dark_apps_setting_title">Ứng dụng riêng lẻ</string>
     <string name="screen_dark_mode_smart_dark_summary">Cũng áp dụng chế độ tối cho ứng dụng bên thứ ba. Một vài ứng dụng có thể hiển thị không chính xác</string>
     <string name="screen_dark_mode_smart_dark_title">Chế độ tối toàn bộ</string>
-    <string name="screen_dark_mode_time_title">Đặt lịch</string>
+    <string name="screen_dark_mode_time_title">Đặt lịch Chế độ tối</string>
     <string name="screen_effect">Độ tương phản &amp; màu sắc</string>
     <string name="screen_fps_summary_power_save">Sử dụng tỷ lệ cố định tiêu thụ ít năng lượng hơn</string>
     <string name="screen_fps_summary_smooth">Một vài ứng dụng sẽ tự động tăng tốc độ làm mới để cải thiện chất lượng hình ảnh</string>
