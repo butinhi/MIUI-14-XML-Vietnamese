@@ -11695,4 +11695,43 @@ Bạn chưa từng kết nối với %2$s trước đó."</string>
 	<string name="chinese_symbol_animals_dog">Tuất</string>
 	<string name="pm">CH</string>
 	<string name="the_fifth_day">Mùng 5 Tết Nguyên Đán</string>
+	<string name="adjust_ligth">Điều chỉnh độ sáng</string>
+	<string name="charge_animation_style_lollipop">Luồng</string>
+	<string name="time_floating_window">Đồng hồ nổi</string>
+	<string name="three_gesture_horizontal">Vuốt ngang với %d ngón tay</string>
+	<string name="fmt_date_long_month_day">dd MMMM</string>
+	<string name="fmt_date_short_year_month_day">dd/MM/yyyy</string>
+	<string name="fmt_date_long_year_month_day">dd MMMM, yyyy</string>
+	<string name="bt_audiorepair_open_dialog_title">Khắc phục tình trạng lặp âm thanh</string>
+	<string name="fmt_date_short_month_day">dd/MM</string>
+	<string name="headphone_assisted_summary">"Truyền nguồn cấp dữ liệu micrô của điện thoại tới tai nghe Bluetooth được kết nối"</string>
+	<string name="dark_mode_auto_time_summary">Bật/tắt Chế độ tối khi đến lịch</string>
+	<string name="maintenance_title">Chế độ sửa chữa</string>
+	<string name="fmt_chinese_date">e N</string>
+	<string name="fmt_date_numeric_month_day">d/M</string>
+	<string name="switch_power_sound">Âm thanh sạc</string>
+	<string name="bt_audio_repair_property">Sửa lỗi âm thanh</string>
+	<string name="time_floating_window_summary">Hiển thị đồng hồ trong cửa sổ nổi ở trên ứng dụng khác</string>
+	<string name="upload_debug_log_detail">"Giúp cải thiện trải nghiệm thiết bị MIUI của bạn bằng cách tự động gửi dữ liệu chẩn đoán, thiết bị và dữ liệu sử dụng ứng dụng cho Xiaomi. Điều này sẽ giúp cải thiện tuổi thọ pin, hệ thống MIUI và độ ổn định của ứng dụng, v.v.
+Dữ liệu bạn sẽ gửi sẽ chứa thông tin chung về thiết bị của bạn và cách bạn sử dụng thiết bị (ví dụ: mức pin, hoạt động của hệ thống và ứng dụng cũng như lỗi). Dữ liệu sẽ được sử dụng để cải thiện các thiết bị MIUI.
+Việc tắt tính năng này không ảnh hưởng đến khả năng thiết bị của bạn gửi thông tin cần thiết cho các dịch vụ thiết yếu như cập nhật hệ thống và bảo mật."</string>
+	<string name="fmt_date_numeric_year_month_day">d/M/yyyy</string>
+	<string name="bt_audiorepair_working">Đang sửa lặp âm thanh…</string>
+	<string name="oaid_apps_summary">Cho phép hoặc hạn chế quyền truy cập cho các ứng dụng riêng lẻ</string>
+	<string name="bt_audiorepair_open_dialog_summary">"MIUI sẽ phát hiện và khắc phục các sự cố gây ra hiện tượng giật âm thanh Bluetooth. Bluetooth sẽ được khởi động lại trong quá trình này. Đừng rời khỏi trang này cho đến khi bạn nhìn thấy kết quả."</string>
+	<string name="smart_home_select_smart_device">Ứng dụng để quản lý thiết bị nhà thông minh</string>
+	<string name="screen_timeout_subtitle">Displaying static content for extended periods of time may make colors uneven</string>
+	<string name="dark_mode_day_night_mode_title">Sunset to sunrise</string>
+	<string name="fmt_time_12hour_minute_second_millis_pm">hh:mm:ss.S a</string>
+	<string name="dark_mode_day_night_mode_summary">Switch to Dark mode at sunset and turn it off at sunrise</string>
+	<string name="miheadset_single_ear_indicate">Wear both earphones to use noise cancellation</string>
+	<string name="fmt_time_12hour_pm">hh a</string>
+	<string name="smooth_adjust_ligth_summary">Make the transitions smoother as you adjust brightness manually. When this feature is on, slight color inconsistencies might appear in some cases.</string>
+	<string name="bluetooth_unlock_settings_unlock_summary">This feature works with selected wearable devices made by Xiaomi</string>
+	<string name="bt_audiorepair_dialog_open_success">Fixed successfully. Wait until the device reconnects.</string>
+	<string name="bt_audiorepair_summary">Fix audio stutter on connected Bluetooth devices</string>
+	<string name="bt_audiorepair_pre_title">Fix audio stutter</string>
+	<string name="fmt_time_12hour_minute_pm">hh:mm a</string>
+	<string name="au_pay">au PAY</string>
+	<string name="smooth_adjust_ligth">Smoothen transitions</string>
 </resources>

@@ -380,4 +380,14 @@
 	<string name="battery_authentic_failed_button">Tôi biết</string>
 	<string name="battery_authentic_failed_title">Chú ý</string>
 	<string name="other_ime">Các bàn phím khác</string>
+	<string name="relaunch_dialog_title">Khởi động lại \"%s\"?</string>
+	<string name="dock_tip_floatwindow">Nhấn giữ vào thanh và kéo nó đến cạnh màn hình để vào chế độ xem chia màn hình.</string>
+	<string name="stylus_pen_mask_screenshot">Chạm màn hình để chụp màn hình</string>
+	<string name="dock_tip_splitscreen_landscape_float">Giữ và kéo xuống để chuyển sang cửa sổ nổi.</string>
+	<string name="dock_tip_splitscreen_portrait_float">Giữ và kéo sang cạnh trái hoặc phải để chuyển sang cửa sổ nổi.</string>
+	<string name="stylus_pen_mask_text">Chạm màn hình để bắt đầu viết</string>
+	<string name="dock_tip_splitscreen_landscape_drag">Kéo thanh theo chiều ngang để chuyển vị trí của hai cửa sổ ứng dụng.</string>
+	<string name="dock_tip_splitscreen_portrait_drag">Kéo thanh theo chiều dọc để chuyển vị trí của hai cửa sổ ứng dụng.</string>
+	<string name="application_cannot_open_au_pay">Cài đặt au PAY trước</string>
+	<string name="relaunch_dialog_message">"Không thể điều chỉnh kích thước cửa sổ khi bạn đang sử dụng ứng dụng. Bạn có thể khởi chạy lại ứng dụng để điều chỉnh kích thước cửa sổ, nhưng dữ liệu ứng dụng sinh ra trong phiên này sẽ mất. Vẫn khởi chạy lại?"</string>
 </resources>

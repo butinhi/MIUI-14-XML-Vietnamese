@@ -983,4 +983,7 @@
 	<string name="service_ringtone_title">Nhạc chuông dịch vụ</string>
 	<string name="authorization_tips">Yêu cầu quyền</string>
 	<string name="authorization_btn_text">Bắt đầu</string>
+	<string name="usage_state_focus_mode_experience_warning_message_pad">"Chế độ Tập trung chỉ cho phép sử dụng Máy ảnh. Bạn sẽ không thể tắt chế độ Tập trung sớm."</string>
+	<string name="usage_state_focus_mode_warning_message_pad">"Chế độ Tập trung chỉ cho phép sử dụng Máy ảnh. Bạn sẽ không thể tắt chế độ Tập trung sớm."</string>
+	<string name="usage_state_focus_weak_summary_pad">Đặt thiết bị của bạn ra xa</string>
 </resources>
