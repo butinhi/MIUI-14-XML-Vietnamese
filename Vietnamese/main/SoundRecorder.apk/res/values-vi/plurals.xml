@@ -109,4 +109,10 @@
 	<plurals name="miuix_appcompat_items_selected">
 		<item quantity="other">%d mục đã chọn</item>
 	</plurals>
+	<plurals name="search_fm_records_hint">
+		<item quantity="other">%d bản ghi radio</item>
+	</plurals>
+	<plurals name="search_recorder_records_hint">
+		<item quantity="other">%d bản ghi âm</item>
+	</plurals>
 </resources>

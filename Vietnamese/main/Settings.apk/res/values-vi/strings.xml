@@ -1733,7 +1733,7 @@ Có người dùng khác trên thiết bị này.
     <string name="about_settings">Thông tin thiết bị</string>
     <string name="about_settings_summary">Xem thông tin pháp lý, trạng thái, phiên bản phần mềm</string>
     <string name="legal_information">Thông tin pháp lý</string>
-    <string name="contributors_title">MIUI Việt Nam</string>
+    <string name="contributors_title">Người đóng góp</string>
     <string name="manual">Hướng dẫn sử dụng</string>
     <string name="regulatory_information">Thông tin về quy định</string>
     <string name="copyright_title">Bản quyền</string>
@@ -4637,7 +4637,7 @@ Bạn có thể thay đổi điều này sau đó từ Cài đặt > Ứng dụn
     <string name="free_wifi_user_agreement">Khi bạn sử dụng WiWide để kết nối mạng, số điện thoại của bạn sẽ được dùng để xác minh danh tính.</string>
     <string name="free_wifi_user_agreement_allow">Cho phép</string>
     <string name="free_wifi_user_agreement_title">Cảnh báo riêng tư</string>
-    <string name="translation_contributors_title">MIUI Việt Nam</string>
+    <string name="translation_contributors_title">Người đóng góp</string>
     <string name="wifi_type_approval_title">Loại phê duyệt</string>
     <string name="wifi_type_approval_dialog_title">Thông tin về các quy định</string>
     <string name="status_sim">Tình trạng thẻ SIM</string>

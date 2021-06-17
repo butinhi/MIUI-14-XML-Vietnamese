@@ -1603,7 +1603,7 @@ Tính năng này có thể tắt trong [Cài đặt]"</string>
     <string name="contextual_card_removed_message">Đã xóa gợi ý</string>
     <string name="contextual_card_undo_dismissal_text">Hoàn tác</string>
     <string name="continue_reset_factory">Khôi phục cài đặt gốc</string>
-    <string name="contributors_title">MIUI Việt Nam</string>
+    <string name="contributors_title">Người đóng góp</string>
     <string name="control_center">TT Điều khiển</string>
     <string name="controls_label">Các điều khiển</string>
     <string name="controls_subtitle">Điều chỉnh việc sử dụng nguồn</string>

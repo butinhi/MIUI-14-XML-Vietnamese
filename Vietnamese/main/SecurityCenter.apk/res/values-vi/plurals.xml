@@ -673,4 +673,13 @@ Nghỉ ngơi chút đi!"</item>
 	<plurals name="app_behavior_dashboard_title_desc">
 		<item quantity="other">%d ứng dụng</item>
 	</plurals>
+	<plurals name="find_leak_risk">
+		<item quantity="other">%d mối nguy liên quan đến bảo mật</item>
+	</plurals>
+	<plurals name="gb_toolbox_guide_known">
+		<item quantity="other">Đã hiểu (%d giây)</item>
+	</plurals>
+	<plurals name="exit_dialog_scan_message_new">
+		<item quantity="other">"Điểm hiệu năng của thiết bị thấp hơn %d. Tối ưu ngay?"</item>
+	</plurals>
 </resources>
