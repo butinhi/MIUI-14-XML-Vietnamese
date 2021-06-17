@@ -468,11 +468,11 @@ dd/M"</string>
 	<string name="miuix_appcompat_action_mode_select_all">Chọn tất cả</string>
 	<string name="miuix_appcompat_select_all_description">Chọn tất cả</string>
 	<string name="fmt_time_24hour_minute">HH:mm</string>
-	<string name="month_march_shortest">Tháng 3</string>
+	<string name="month_march_shortest">Thg 3</string>
 	<string name="miuix_appcompat_action_mode_title_empty">Chọn mục</string>
 	<string name="miuix_appcompat_actionbar_immersion_button_more_description">Thêm</string>
 	<string name="miuix_appcompat_delete_description">Xóa</string>
-	<string name="month_may_shortest">Tháng năm</string>
+	<string name="month_may_shortest">Thg 5</string>
 	<string name="fmt_time_24hour_minute_second">H:mm:ss</string>
 	<string name="monday_shortest">Th 2</string>
 	<string name="miuix_appcompat_search_action_mode_cancel">Hủy</string>

@@ -186,7 +186,7 @@ Nhập số điện thoại đã được liên kết với thẻ SIM mới đ�
 	<string name="chinese_day_29">29</string>
 	<string name="abc_action_bar_up_description">Điều hướng lên trên</string>
 	<string name="abc_search_hint">Tìm kiếm…</string>
-	<string name="month_december_shortest">Tháng 12</string>
+	<string name="month_december_shortest">Thg 12</string>
 	<string name="chinese_day_30">30</string>
 	<string name="miuix_sbl_tracking_progress_labe_refreshing">Đang làm mới</string>
 	<string name="night">CH</string>
@@ -198,16 +198,16 @@ Nhập số điện thoại đã được liên kết với thẻ SIM mới đ�
 	<string name="morning">SA</string>
 	<string name="solar_term_slight_heat">Tiểu Thử</string>
 	<string name="the_labour_day">Quốc Tế Lao Động</string>
-	<string name="month_march_shortest">Tháng 3</string>
+	<string name="month_march_shortest">Thg 3</string>
 	<string name="solar_term_summer_begins">Lập Hạ</string>
 	<string name="the_armys_day">Ngày thành lập quân đội</string>
 	<string name="earthly_branches_si">Tỵ</string>
-	<string name="month_january_shortest">Tháng 1</string>
+	<string name="month_january_shortest">Thg 1</string>
 	<string name="chinese_symbol_animals_horse">Ngọ</string>
 	<string name="saturday">Thứ bảy</string>
 	<string name="the_double_ninth_festival">Tết Trùng Dương</string>
 	<string name="the_forth_day">Mùng 4 Tết Nguyên Đán</string>
-	<string name="month_october_shortest">Tháng 10</string>
+	<string name="month_october_shortest">Thg 10</string>
 	<string name="month_june">Tháng sáu</string>
 	<string name="abc_activitychooserview_choose_application">Chọn một ứng dụng</string>
 	<string name="the_third_day">Mùng 3 Tết Nguyên Đán</string>
@@ -258,11 +258,11 @@ Nhập số điện thoại đã được liên kết với thẻ SIM mới đ�
 	<string name="chinese_month_april">4</string>
 	<string name="month_july">Tháng bảy</string>
 	<string name="abc_searchview_description_clear">Xóa truy vấn</string>
-	<string name="month_august_shortest">Tháng 8</string>
+	<string name="month_august_shortest">Thg 8</string>
 	<string name="date_picker_lunar">Lịch âm</string>
 	<string name="the_lantern_festival">Tết Nguyên tiêu</string>
 	<string name="chinese_month_december">12</string>
-	<string name="month_july_shortest">Tháng 7</string>
+	<string name="month_july_shortest">Thg 7</string>
 	<string name="solar_term_spring_begins">Lập Xuân</string>
 	<string name="solar_term_autumn_equinox">Thu Phân</string>
 	<string name="the_christmas_day">Lễ Giáng Sinh</string>
@@ -308,7 +308,7 @@ Nhập số điện thoại đã được liên kết với thẻ SIM mới đ�
 	<string name="chinese_digit_nine">9</string>
 	<string name="miuix_appcompat_action_mode_title_empty">Chọn mục</string>
 	<string name="miuix_appcompat_delete_description">Xóa</string>
-	<string name="month_may_shortest">Tháng năm</string>
+	<string name="month_may_shortest">Thg 5</string>
 	<string name="chinese_digit_three">3</string>
 	<string name="chinese_symbol_animals_pig">Hợi</string>
 	<string name="earthly_branches_zi">Tý</string>
@@ -383,8 +383,8 @@ Nhập số điện thoại đã được liên kết với thẻ SIM mới đ�
 	<string name="abc_capital_off">TẮT</string>
 	<string name="solar_term_the_rains">Vũ Thủy</string>
 	<string name="heavenly_stems_bing">"Bính "</string>
-	<string name="month_june_shortest">Tháng 6</string>
-	<string name="month_april_shortest">Tháng 4</string>
+	<string name="month_june_shortest">Thg 6</string>
+	<string name="month_april_shortest">Thg 4</string>
 	<string name="solar_term_great_heat">Đại Thử</string>
 	<string name="month_september_short">Tháng 9</string>
 	<string name="the_spring_festival">Tết Nguyên Đán</string>
@@ -394,14 +394,14 @@ Nhập số điện thoại đã được liên kết với thẻ SIM mới đ�
 	<string name="month_april_short">Tháng 4</string>
 	<string name="abc_action_bar_home_description">Điều hướng về trang chủ</string>
 	<string name="month_may">Tháng năm</string>
-	<string name="month_february_shortest">Tháng 2</string>
+	<string name="month_february_shortest">Thg 2</string>
 	<string name="the_tw_childrens_day">Tết thiếu nhi</string>
 	<string name="chinese_day_elementary">Tết D.lịch</string>
 	<string name="the_arbor_day">Tết Trồng Cây</string>
 	<string name="chinese_month_october">10</string>
 	<string name="date_time_picker_dialog_title">Đặt ngày và giờ</string>
 	<string name="solar_term_summer_solstice">Hạ Chí</string>
-	<string name="month_september_shortest">Tháng 9</string>
+	<string name="month_september_shortest">Thg 9</string>
 	<string name="month_march">Tháng ba</string>
 	<string name="the_chinese_youth_day">Hội Giới Trẻ</string>
 	<string name="chinese_month_september">9</string>
@@ -421,7 +421,7 @@ Nhập số điện thoại đã được liên kết với thẻ SIM mới đ�
 	<string name="solar_term_autumn_begins">Lập Thu</string>
 	<string name="miuix_appcompat_search_action_mode_cancel">Hủy</string>
 	<string name="month_april">Tháng tư</string>
-	<string name="month_november_shortest">Tháng 11</string>
+	<string name="month_november_shortest">Thg 11</string>
 	<string name="solar_term_grain_buds">Tiểu Mãn</string>
 	<string name="month_december">Tháng mười hai</string>
 	<string name="heavenly_stems_ren">"Nhâm "</string>
@@ -458,4 +458,8 @@ Nhập số điện thoại đã được liên kết với thẻ SIM mới đ�
 	<string name="activate_popup_desc_mixed_sim_cards_msg_with_charge_hint">Để kích hoạt %3$s, &lt;xliff:g id=number_sms refersto=1&gt;%1$d&lt;/xliff:g&gt; &lt;font color=#0097FF&gt;&lt;b&gt;SMS nội địa có phí&lt;/b&gt; và &lt;xliff:g id=number_sms refersto=1&gt;%2$d&lt;/xliff:g&gt; &lt;font color=#0097FF&gt;&lt;b&gt;SMS quốc tế có phí&lt;/b&gt; sẽ được gửi. Nhà mạng sẽ thu phí cho tin nhắn này.</string>
 	<string name="close">Đóng</string>
 	<string name="send">Gửi</string>
+	<string name="fmt_time_12hour_minute_second_millis_pm">h:mm:ss.S a</string>
+	<string name="fmt_time_12hour_pm">ha</string>
+	<string name="fmt_time_12hour_minute_second_pm">h:mm:ss a</string>
+	<string name="fmt_time_12hour_minute_pm">h:mm a</string>
 </resources>

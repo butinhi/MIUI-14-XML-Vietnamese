@@ -1124,7 +1124,7 @@ Thông tin vị trí có thể không được báo cáo khi kết nối mạng 
 	<string name="time_picker_label_hour">H</string>
 	<string name="chinese_day_29">29</string>
 	<string name="no_network">Không thể kết nối mạng</string>
-	<string name="month_december_shortest">Tháng 12</string>
+	<string name="month_december_shortest">Thg 12</string>
 	<string name="chinese_day_30">30</string>
 	<string name="night">CH</string>
 	<string name="eras_ad">SCN</string>
@@ -1135,16 +1135,16 @@ Thông tin vị trí có thể không được báo cáo khi kết nối mạng 
 	<string name="morning">SA</string>
 	<string name="solar_term_slight_heat">Tiểu Thử</string>
 	<string name="the_labour_day">Quốc Tế Lao Động</string>
-	<string name="month_march_shortest">Tháng 3</string>
+	<string name="month_march_shortest">Thg 3</string>
 	<string name="solar_term_summer_begins">Lập Hạ</string>
 	<string name="the_armys_day">Ngày thành lập quân đội</string>
 	<string name="earthly_branches_si">Tỵ</string>
-	<string name="month_january_shortest">Tháng 1</string>
+	<string name="month_january_shortest">Thg 1</string>
 	<string name="chinese_symbol_animals_horse">Ngọ</string>
 	<string name="saturday">Thứ bảy</string>
 	<string name="the_double_ninth_festival">Tết Trùng Dương</string>
 	<string name="the_forth_day">Mùng 4 Tết Nguyên Đán</string>
-	<string name="month_october_shortest">Tháng 10</string>
+	<string name="month_october_shortest">Thg 10</string>
 	<string name="month_june">Tháng sáu</string>
 	<string name="the_third_day">Mùng 3 Tết Nguyên Đán</string>
 	<string name="solar_term_white_dews">Bạch Lộ</string>
@@ -1190,11 +1190,11 @@ Thông tin vị trí có thể không được báo cáo khi kết nối mạng 
 	<string name="thursday_short">Th 5</string>
 	<string name="chinese_month_april">4</string>
 	<string name="month_july">Tháng bảy</string>
-	<string name="month_august_shortest">Tháng 8</string>
+	<string name="month_august_shortest">Thg 8</string>
 	<string name="date_picker_lunar">Lịch âm</string>
 	<string name="the_lantern_festival">Tết Nguyên tiêu</string>
 	<string name="chinese_month_december">12</string>
-	<string name="month_july_shortest">Tháng 7</string>
+	<string name="month_july_shortest">Thg 7</string>
 	<string name="solar_term_spring_begins">Lập Xuân</string>
 	<string name="solar_term_autumn_equinox">Thu Phân</string>
 	<string name="the_christmas_day">Lễ Giáng Sinh</string>
@@ -1240,7 +1240,7 @@ Thông tin vị trí có thể không được báo cáo khi kết nối mạng 
 	<string name="chinese_digit_three">3</string>
 	<string name="chinese_symbol_animals_pig">Hợi</string>
 	<string name="miuix_appcompat_delete_description">Xóa</string>
-	<string name="month_may_shortest">Tháng năm</string>
+	<string name="month_may_shortest">Thg 5</string>
 	<string name="earthly_branches_zi">Tý</string>
 	<string name="chinese_symbol_animals_monkey">Thân</string>
 	<string name="saturday_shortest">Th 7</string>
@@ -1311,8 +1311,8 @@ Thông tin vị trí có thể không được báo cáo khi kết nối mạng 
 	<string name="solar_term_the_rains">Vũ Thủy</string>
 	<string name="heavenly_stems_bing">"Bính "</string>
 	<string name="hybrid_provider">Cung cấp bởi %1$s</string>
-	<string name="month_june_shortest">Tháng 6</string>
-	<string name="month_april_shortest">Tháng 4</string>
+	<string name="month_june_shortest">Thg 6</string>
+	<string name="month_april_shortest">Thg 4</string>
 	<string name="solar_term_great_heat">Đại Thử</string>
 	<string name="month_september_short">Tháng 9</string>
 	<string name="the_spring_festival">Tết Nguyên Đán</string>
@@ -1321,14 +1321,14 @@ Thông tin vị trí có thể không được báo cáo khi kết nối mạng 
 	<string name="the_water_lantern_festival">Tết Hạ Nguyên</string>
 	<string name="month_april_short">Tháng 4</string>
 	<string name="month_may">Tháng năm</string>
-	<string name="month_february_shortest">Tháng 2</string>
+	<string name="month_february_shortest">Thg 2</string>
 	<string name="the_tw_childrens_day">Tết thiếu nhi</string>
 	<string name="chinese_day_elementary">Tết D.lịch</string>
 	<string name="the_arbor_day">Tết Trồng Cây</string>
 	<string name="chinese_month_october">10</string>
 	<string name="date_time_picker_dialog_title">Đặt ngày và giờ</string>
 	<string name="solar_term_summer_solstice">Hạ Chí</string>
-	<string name="month_september_shortest">Tháng 9</string>
+	<string name="month_september_shortest">Thg 9</string>
 	<string name="send">Gửi</string>
 	<string name="month_march">Tháng ba</string>
 	<string name="the_chinese_youth_day">Hội Giới Trẻ</string>
@@ -1347,7 +1347,7 @@ Thông tin vị trí có thể không được báo cáo khi kết nối mạng 
 	<string name="solar_term_autumn_begins">Lập Thu</string>
 	<string name="miuix_appcompat_search_action_mode_cancel">Hủy</string>
 	<string name="month_april">Tháng tư</string>
-	<string name="month_november_shortest">Tháng 11</string>
+	<string name="month_november_shortest">Thg 11</string>
 	<string name="web_sso_login_fail">Bạn cần đăng nhập lại</string>
 	<string name="solar_term_grain_buds">Tiểu Mãn</string>
 	<string name="month_december">Tháng mười hai</string>
@@ -1389,4 +1389,12 @@ Thông tin vị trí có thể không được báo cáo khi kết nối mạng 
 	<string name="micloud_all_sub_resend_common_sms_with_charge_hint">"Để bật dịch vụ Tìm thiết bị và Xiaomi Cloud, &lt;xliff:g id=number_sms refersto=1&gt;%1$d&lt;/xliff:g&gt; &lt;font color=#0097FF&gt;&lt;b&gt;SMS có phí&lt;/b&gt;&lt;/font&gt; sẽ được gửi tự động.&lt;br/&gt;Khi bạn đổi thẻ SIM, &lt;xliff:g id=number_sms refersto=1&gt;%1$d&lt;/xliff:g&gt; &lt;font color=#0097FF&gt;&lt;b&gt;SMS có phí&lt;/b&gt;&lt;/font&gt; sẽ được gửi tự động để kích hoạt lại.&lt;br/&gt;Tất cả các khoản phí SMS được tạo ra bởi các hành động nói trên sẽ do nhà cung cấp dịch vụ của bạn thu. Xiaomi sẽ không tính phí bạn cho những tin nhắn này."</string>
 	<string name="privacy_doc_cloudservice_china_v2_with_charge_hint">"Chào mừng bạn đến với dịch vụ Xiaomi Cloud! Bạn có thể sử dụng Xiaomi Cloud để đồng bộ hóa tin nhắn, lịch sử cuộc gọi, danh bạ, ghi chú, cài đặt Trình duyệt, bài hát, ảnh và video, cài đặt Wi-Fi, bản ghi âm, Bố cục màn hình chính, ứng dụng, sự kiện lịch, các mục Danh sách chặn và App Vault trên tất cả các thiết bị đã được kết nối. Truy cập các mục bạn đồng bộ hóa từ bất kỳ trình duyệt nào tại &lt;font color=#0097FF&gt;&lt;b&gt;i.mi.com&lt;/b&gt;&lt;/font&gt;.&lt;br /&gt;&lt;br /&gt;Để kích hoạt các dịch vụ đó, &lt;xliff:g id=number_sms refersto=1&gt;%1$d&lt;/xliff:g&gt; &lt;font color=#0097FF&gt;&lt;b&gt;SMS nội địa có phí&lt;/b&gt;&lt;/font&gt; sẽ được gửi đi. Khi bạn đổi thẻ SIM, &lt;xliff:g id=number_sms refersto=1&gt;%1$d&lt;/xliff:g&gt; &lt;font color=#0097FF&gt;&lt;b&gt;SMS nội địa có phí&lt;/b&gt;&lt;/font&gt; sẽ được gửi tự động để kích hoạt lại.&lt;br/&gt;Tất cả các khoản phí SMS được tạo ra bởi các hành động nói trên sẽ do nhà cung cấp dịch vụ của bạn thu. Xiaomi sẽ không tính phí bạn cho những tin nhắn này.&lt;br /&gt;&lt;br /&gt;Chúng tôi sẽ bảo vệ thông tin cá nhân của bạn theo luật, quy định và chính sách bảo mật có liên quan.&lt;br /&gt;Để có thể hoạt động bình thường, các dịch vụ này cần kết nối với internet và yêu cầu các quyền sau để thu thập thông tin cá nhân của bạn:&lt;br /&gt;• Lịch:&lt;br /&gt;Để đồng bộ hóa các sự kiện&lt;br /&gt;• Truy cập SMS:&lt;br /&gt;Để đồng bộ tin nhắn&lt;br /&gt;• Truy cập MMS:&lt;br /&gt;Để đồng bộ tin nhắn&lt;br /&gt;• Truy cập liên hệ:&lt;br /&gt;Để đồng bộ liên hệ&lt;br /&gt;• Chỉnh sửa liên hệ:&lt;br /&gt;Để đồng bộ liên hệ&lt;br /&gt;• Bộ nhớ:&lt;br /&gt;Để lưu các mục trên thiết bị của bạn (ví dụ: hình ảnh, video, bài hát)&lt;br /&gt;Nếu bạn không đồng ý cấp các quyền đó hoặc chia sẻ và tải lên thông tin cá nhân của mình, bạn sẽ không thể sử dụng các dịch vụ này. Bạn có thể chọn gỡ cài đặt ứng dụng này, đăng xuất hoặc hạn chế quyền trong Cài đặt trong những trường hợp như vậy.&lt;br /&gt;Đọc và đồng ý với&lt;a href=%2$s&gt;&lt;u&gt;Thỏa thuận Người dùng&lt;/u&gt;&lt;/a&gt; và &lt;a href=%3$s&gt;&lt;u&gt;Chính sách Riêng tư&lt;/u&gt;&lt;/a&gt; của chúng tôi trước khi sử dụng dịch vụ.&lt;br /&gt;"</string>
 	<string name="privacy_doc_cloudservice_china_with_charge_hint">"Chào mừng bạn đến với dịch vụ Xiaomi Cloud! Bạn có thể sử dụng Xiaomi Cloud để đồng bộ hóa tin nhắn, lịch sử cuộc gọi, danh bạ, ghi chú, cài đặt Trình duyệt, bài hát, ảnh và video, cài đặt Wi-Fi, bản ghi âm, Bố cục màn hình chính, ứng dụng, sự kiện lịch, các mục Danh sách chặn và App Vault trên tất cả các thiết bị đã được kết nối. Truy cập các mục bạn đồng bộ hóa từ bất kỳ trình duyệt nào tại &lt;font color=#0097FF&gt;&lt;b&gt;i.mi.com&lt;/b&gt;&lt;/font&gt;.&lt;br /&gt;&lt;br /&gt;Để kích hoạt các dịch vụ đó, &lt;xliff:g id=number_sms refersto=1&gt;%1$d&lt;/xliff:g&gt; &lt;font color=#0097FF&gt;&lt;b&gt;SMS nội địa có phí&lt;/b&gt;&lt;/font&gt; sẽ được gửi đi. Khi bạn đổi thẻ SIM, &lt;xliff:g id=number_sms refersto=1&gt;%1$d&lt;/xliff:g&gt; &lt;font color=#0097FF&gt;&lt;b&gt;SMS nội địa có phí&lt;/b&gt;&lt;/font&gt; sẽ được gửi tự động để kích hoạt lại.&lt;br/&gt;Tất cả các khoản phí SMS được tạo ra bởi các hành động nói trên sẽ do nhà cung cấp dịch vụ của bạn thu. Xiaomi sẽ không tính phí bạn cho những tin nhắn này.&lt;br /&gt;&lt;br /&gt;Chúng tôi sẽ bảo vệ thông tin cá nhân của bạn theo luật, quy định và chính sách bảo mật có liên quan.&lt;br /&gt;Để có thể hoạt động bình thường, các dịch vụ này cần kết nối với internet và yêu cầu các quyền sau để thu thập thông tin cá nhân của bạn:&lt;br /&gt;• Lịch:&lt;br /&gt;Để đồng bộ hóa các sự kiện&lt;br /&gt;• Truy cập SMS:&lt;br /&gt;Để đồng bộ tin nhắn&lt;br /&gt;• Truy cập MMS:&lt;br /&gt;Để đồng bộ tin nhắn&lt;br /&gt;• Truy cập liên hệ:&lt;br /&gt;Để đồng bộ liên hệ&lt;br /&gt;• Chỉnh sửa liên hệ:&lt;br /&gt;Để đồng bộ liên hệ&lt;br /&gt;• Bộ nhớ:&lt;br /&gt;Để lưu các mục trên thiết bị của bạn (ví dụ: hình ảnh, video, bài hát)&lt;br /&gt;Nếu bạn không đồng ý cấp các quyền đó hoặc chia sẻ và tải lên thông tin cá nhân của mình, bạn sẽ không thể sử dụng các dịch vụ này. Bạn có thể chọn gỡ cài đặt ứng dụng này, đăng xuất hoặc hạn chế quyền trong Cài đặt trong những trường hợp như vậy.&lt;br /&gt;Đọc và đồng ý với&lt;a href=%2$s&gt;&lt;u&gt;Thỏa thuận Người dùng&lt;/u&gt;&lt;/a&gt; và &lt;a href=%3$s&gt;&lt;u&gt;Chính sách Riêng tư&lt;/u&gt;&lt;/a&gt; của chúng tôi trước khi sử dụng dịch vụ.&lt;br /&gt;"</string>
+	<string name="fmt_time_minute_second_millis">"m 'phút' s.S 'giây'"</string>
+	<string name="fmt_date_numeric_day">D</string>
+	<string name="fmt_time_minute_second">"m 'phút' s 'giây'"</string>
+	<string name="fmt_time_24hour">"H 'giờ'"</string>
+	<string name="fmt_time_minute">"m 'phút'"</string>
+	<string name="fmt_date_day">D</string>
+	<string name="fmt_time_12hour">"h 'giờ'"</string>
+	<string name="fmt_time_second_millis">"s.S 'giây'"</string>
 </resources>

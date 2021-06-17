@@ -943,7 +943,7 @@ Các bước: Mở APP WeChat&gt;My&gt;Cài đặt&gt;Chung&gt;Sao lưu và di c
 	<string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">Thất bại</string>
 	<string name="abc_capital_on">BẬT</string>
 	<string name="miuix_appcompat_delete_description">Xóa</string>
-	<string name="month_may_shortest">Tháng năm</string>
+	<string name="month_may_shortest">Thg 5</string>
 	<string name="abc_search_hint">Tìm kiếm…</string>
 	<string name="miuix_appcompat_search_action_mode_cancel">Hủy</string>
 	<string name="expand_button_title">Nâng cao</string>
@@ -959,7 +959,7 @@ Các bước: Mở APP WeChat&gt;My&gt;Cài đặt&gt;Chung&gt;Sao lưu và di c
 	<string name="abc_activity_chooser_view_see_all">Xem tất cả</string>
 	<string name="miuix_sbl_tracking_progress_labe_up_none">Không có dữ liệu</string>
 	<string name="abc_action_mode_done">Xong</string>
-	<string name="month_march_shortest">Tháng 3</string>
+	<string name="month_march_shortest">Thg 3</string>
 	<string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Kéo xuống để làm mới</string>
 	<string name="miuix_appcompat_actionbar_immersion_button_more_description">Thêm</string>
 	<string name="miuix_appcompat_deselect_all">Bỏ chọn</string>

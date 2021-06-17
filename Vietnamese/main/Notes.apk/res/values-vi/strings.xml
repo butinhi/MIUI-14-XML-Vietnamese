@@ -739,8 +739,8 @@ Cho phép Ghi chú ghi âm."</string>
 	<string name="note_gesture_guide_step3">Nhấn giữ một ghi chú và kéo thả vào thư mục để di chuyển ghi chú tới đó</string>
 	<string name="note_gesture_guide_step2">Nhấn giữ một ghi chú và kéo thả vào ghi chú khác để tạo thư mục</string>
 	<string name="note_gesture_guide_step1">Nhấn giữ dấu cộng để tạo ghi chú âm thanh</string>
-	<string name="month_march_shortest">Tháng 3</string>
-	<string name="month_may_shortest">Tháng năm</string>
+	<string name="month_march_shortest">Thg 3</string>
+	<string name="month_may_shortest">Thg 5</string>
 	<string name="monday_shortest">Th 2</string>
 	<string name="fmt_date_short_year_month">MMM, yyyy</string>
 	<string name="fmt_date_long_year_month">MMMM, yyyy</string>

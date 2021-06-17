@@ -488,8 +488,8 @@ Nếu cả hai thiết bị không thể kết nối tới cùng một mạng, b
 	<string name="v7_preference_off">TẮT</string>
 	<string name="not_set">Chưa đặt</string>
 	<string name="preference_copied">\"%1$s\" đã sao chép vào clipboard.</string>
-	<string name="month_march_shortest">Tháng 3</string>
-	<string name="month_may_shortest">Tháng năm</string>
+	<string name="month_march_shortest">Thg 3</string>
+	<string name="month_may_shortest">Thg 5</string>
 	<string name="monday_shortest">Th 2</string>
 	<string name="v7_preference_on">BẬT</string>
 	<string name="expand_button_title">Nâng cao</string>

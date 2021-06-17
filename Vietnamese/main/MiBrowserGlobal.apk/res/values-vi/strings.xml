@@ -21,7 +21,7 @@
 	<string name="mw_miuichromium_error_page_btn_report_issue">Báo cáo vấn đề</string>
 	<string name="passport_area_code_title">Mã quốc gia</string>
 	<string name="passport_empty_password">Mật khẩu không thể để trống</string>
-	<string name="month_december_shortest">Tháng 12</string>
+	<string name="month_december_shortest">Thg 12</string>
 	<string name="video_project_title">Chiếu video</string>
 	<string name="add_pwa_to_homescreen">Thêm lối tắt Màn hình chính?</string>
 	<string name="contextmenu_webpage_pdf">Lưu dưới dạng PDF</string>
@@ -632,7 +632,7 @@ Kích thước cập nhật Delta: %2$s"</string>
 	<string name="pref_privacy_clear_cookies_summary">Xóa tất cả cookie trình duyệt</string>
 	<string name="app_update_install">Sẵn sàng để cài đặt bản cập nhật.</string>
 	<string name="miuix_appcompat_delete_description">Xóa</string>
-	<string name="month_may_shortest">Tháng năm</string>
+	<string name="month_may_shortest">Thg 5</string>
 	<string name="remove_from_bookmarks">Xóa khỏi dấu trang</string>
 	<string name="report_action_intent_jump_in">Vào bên thứ ba</string>
 	<string name="action_menu_text_bandwidth_off">Tiết kiệm dữ liệu</string>
@@ -705,7 +705,7 @@ Kích thước cập nhật Delta: %2$s"</string>
 	<string name="net_error">Không thể kết nối mạng, hãy thử lại sau</string>
 	<string name="downloading">Đang tải xuống…</string>
 	<string name="passport_talkback_image_captcha">Mã xác nhận hình ảnh</string>
-	<string name="month_april_shortest">Tháng 4</string>
+	<string name="month_april_shortest">Thg 4</string>
 	<string name="empty_history_hint">Lịch sử trống</string>
 	<string name="list_menu_rename_result_fail">Không thể đổi tên</string>
 	<string name="same_bookmarks_warning">Bạn đã đánh dấu trang này</string>
@@ -959,7 +959,7 @@ Trang mà bạn xem sẽ không xuất hiện trong lịch sử."</string>
 	<string name="menu_addtodesk">Thêm vào Màn hình chính</string>
 	<string name="user_id_hint">Email/Điện thoại</string>
 	<string name="miuix_appcompat_search_action_mode_cancel">Hủy</string>
-	<string name="month_november_shortest">Tháng 11</string>
+	<string name="month_november_shortest">Thg 11</string>
 	<string name="mw_miuichromium_error_page_no_network">Không thể kết nối mạng</string>
 	<string name="category_bluetooth">Chia sẻ qua Bluetooth</string>
 	<string name="action_update_phone">Thay đổi số điện thoại</string>
@@ -1068,7 +1068,7 @@ Trang mà bạn xem sẽ không xuất hiện trong lịch sử."</string>
 	<string name="chinese_month_april">4</string>
 	<string name="mw_miui_content_select">Chọn</string>
 	<string name="abc_searchview_description_clear">Xóa truy vấn</string>
-	<string name="month_august_shortest">Tháng 8</string>
+	<string name="month_august_shortest">Thg 8</string>
 	<string name="mw_miuichromium_error_page_suggestion_check_app_proxy">Kiểm tra cài đặt ứng dụng proxy đã cài trên thiết bị của bạn.</string>
 	<string name="action_menu_text_find_in_page">Tìm trên trang</string>
 	<string name="the_anniversary_of_lifting_martial_law">Kỷ niệm Ngày Thiết quân Luật</string>
@@ -1260,7 +1260,7 @@ Trang mà bạn xem sẽ không xuất hiện trong lịch sử."</string>
 	<string name="fmt_time_12hour_minute">HH:mm</string>
 	<string name="error_console_header_text_minimized">Hiển thị JavaScript console</string>
 	<string name="vpn_detail_subscribe_autorenew">Làm mới</string>
-	<string name="month_january_shortest">Tháng 1</string>
+	<string name="month_january_shortest">Thg 1</string>
 	<string name="whatsapp_intro_dialog_title">Tính năng mới</string>
 	<string name="webpage_title">Dấu trang &amp; Lịch sử</string>
 	<string name="setting_privacy_password">Thiết lập mật khẩu bảo vệ Cá nhân</string>
@@ -1268,7 +1268,7 @@ Trang mà bạn xem sẽ không xuất hiện trong lịch sử."</string>
 	<string name="the_forth_day">Mùng 4 Tết Nguyên Đán</string>
 	<string name="delete_dialog_button">Xóa</string>
 	<string name="account_secure_info_pref_title">Thông tin tài khoản</string>
-	<string name="month_october_shortest">Tháng 10</string>
+	<string name="month_october_shortest">Thg 10</string>
 	<string name="recommend">Đề xuất</string>
 	<string name="permission_finish">Xong</string>
 	<string name="save_form_data_confirm_message">Tắt tính năng này có thể ảnh hưởng đến việc sử dụng.</string>
@@ -1558,7 +1558,7 @@ Trang mà bạn xem sẽ không xuất hiện trong lịch sử."</string>
 	<string name="folder_name_illegal">Tên thư mục không hợp lệ</string>
 	<string name="permission_for_storage">Để tải xuống</string>
 	<string name="sign_in_failed">Không thể đăng nhập</string>
-	<string name="month_july_shortest">Tháng 7</string>
+	<string name="month_july_shortest">Thg 7</string>
 	<string name="passport_international_phone_password_login_tip">(Với người dùng ngoài khu vực Trung Quốc, vui lòng nhập số điện thoại với định dạng như sau: +[Mã quốc gia][Số điện thoại], ví dụ +84 123456789</string>
 	<string name="video_downloaded_group">Đã tải xuống</string>
 	<string name="action_menu_text_copy_url">"   Sao chép URL"</string>
@@ -1694,7 +1694,7 @@ Trang mà bạn xem sẽ không xuất hiện trong lịch sử."</string>
 	<string name="chinese_month_october">10</string>
 	<string name="date_time_picker_dialog_title">Đặt ngày và giờ</string>
 	<string name="max_tabs_warning">Không thể mở nhiều thẻ</string>
-	<string name="month_september_shortest">Tháng 9</string>
+	<string name="month_september_shortest">Thg 9</string>
 	<string name="pref_check_security_url_title_international">Nhận URL</string>
 	<string name="pref_clear_all_data_dlg">Xóa tất cả dữ liệu đã lưu ở trên?</string>
 	<string name="mw_common_google_play_services_unsupported_text">%1$s sẽ không chạy nếu không có các dịch vụ của Google Play. Thiết bị của bạn không hỗ trợ các dịch vụ này.</string>
@@ -1750,7 +1750,7 @@ Trang mà bạn xem sẽ không xuất hiện trong lịch sử."</string>
 	<string name="morning">SA</string>
 	<string name="cannot_download">Chỉ có thể tải xuống từ trang web có địa chỉ \"http\" hoặc \"URLs\"</string>
 	<string name="force_touch_bookmark_history_title">Dấu trang &amp; Lịch sử</string>
-	<string name="month_march_shortest">Tháng 3</string>
+	<string name="month_march_shortest">Thg 3</string>
 	<string name="user_avatar_update_title">Thay đổi ảnh hồ sơ</string>
 	<string name="ssl_go_back">Quay lại</string>
 	<string name="category_apk">APK</string>
@@ -1917,7 +1917,7 @@ Trang mà bạn xem sẽ không xuất hiện trong lịch sử."</string>
 	<string name="cloud_sync_closed_toast">Không thể cập nhật do đồng bộ tắt</string>
 	<string name="error_not_support">Không hỗ trợ</string>
 	<string name="report_action_channel_page_slide_expose">Vuốt để chọn kênh</string>
-	<string name="month_june_shortest">Tháng 6</string>
+	<string name="month_june_shortest">Thg 6</string>
 	<string name="app_name_bluetooth">Chia sẻ qua Bluetooth</string>
 	<string name="download_change_dir">Thay đổi thư mục</string>
 	<string name="restart_phone_bind_title">Thay đổi số điện thoại khôi phục</string>
@@ -1938,7 +1938,7 @@ Trang mà bạn xem sẽ không xuất hiện trong lịch sử."</string>
 	<string name="exo_controls_play_description">Phát</string>
 	<string name="bookmark_needs_url">Dấu trang bắt buộc phải có chứa một địa chỉ URL</string>
 	<string name="uploads_disabled">Tải lên tập tin đã tắt</string>
-	<string name="month_february_shortest">Tháng 2</string>
+	<string name="month_february_shortest">Thg 2</string>
 	<string name="same_new_and_old_pwd">"Không thể giống với mật khẩu hiện tại"</string>
 	<string name="pref_privacy_clear_passwords">Xóa mật khẩu đã lưu</string>
 	<string name="category_video">Video</string>
@@ -1975,4 +1975,14 @@ Trang mà bạn xem sẽ không xuất hiện trong lịch sử."</string>
 	<string name="pref_privacy_clear_cache_dlg">Xóa nội dung bộ nhớ đệm và cơ sở dữ liệu trên máy?</string>
 	<string name="setting_home_page_show_title">Trang bắt đầu</string>
 	<string name="columbus_player_unit_sec">giây</string>
+	<string name="user_experience_content">Vui lòng xác nhận rằng bạn đã đọc và đồng ý với \"Chương trình trải nghiệm người dùng\"</string>
+	<string name="ssl_bad_clock_warning">Không thể thiết lập kết nối riêng tư đến %s1 do thời gian (%s2) trên thiết bị không chính xác.</string>
+	<string name="mw_miuichromium_error_page_suggestion_check_wifi_proxy">(Wi-Fi) Kiểm tra %s1cài đặt proxy%s2.</string>
+	<string name="permission_notification">gửi thông báo.</string>
+	<string name="mw_miuichromium_error_page_suggestion_check_mobile_proxy">(Dữ liệu di động) Đặt lại %s1 cài đặt APN%s2.</string>
+	<string name="lockpattern_recording_incorrect_too_short">Kết nối ít nhất %d điểm. Hãy thử lại.</string>
+	<string name="save_file">"Lưu "</string>
+	<string name="mw_miuichromium_error_page_description_no_connection">Không thể kết nối mạng do cấu hình kết mạng không chính xác hoặc tín hiệu yếu. Kiểm tra %s1cài đặt mạng%s2 và thử lại.</string>
+	<string name="nf_product_discount">"Lưu "</string>
+	<string name="sign_in_to">Đăng nhập vào %s1 %s2\"</string>
 </resources>

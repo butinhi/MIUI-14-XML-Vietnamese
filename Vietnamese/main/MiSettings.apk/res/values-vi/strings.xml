@@ -659,9 +659,9 @@
 	<string name="usage_permission_main_desc">"Chào mừng bạn đến Thời gian màn hình!
 Ứng dụng này cần kết nối mạng và yêu cầu các quyền dưới đây để hoạt động bình thường:"</string>
 	<string name="usage_new_home_classify_manage">Quản lý danh mục ứng dụng</string>
-	<string name="month_march_shortest">Tháng 3</string>
+	<string name="month_march_shortest">Thg 3</string>
 	<string name="usage_new_home_sys_no_limit_summary">"Không thể giới hạn thời gian cho ứng dụng hệ thống"</string>
-	<string name="month_may_shortest">Tháng năm</string>
+	<string name="month_may_shortest">Thg 5</string>
 	<string name="monday_shortest">Th 2</string>
 	<string name="usage_new_home_app_limit_title">Giới hạn thời gian màn hình</string>
 	<string name="usage_new_home_usage_detail">Chi tiết sử dụng</string>
