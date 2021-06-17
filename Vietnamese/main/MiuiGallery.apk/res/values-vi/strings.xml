@@ -1650,11 +1650,9 @@ Chụp nhiều ảnh bạn của bạn hơn!"</string>
 	<string name="evening">CH</string>
 	<string name="fmt_chinese_date">e t N</string>
 	<string name="fmt_date">D</string>
-	<string name="fmt_date_day">d</string>
 	<string name="fmt_date_long_month_day">d MMMM</string>
 	<string name="fmt_date_long_year_month">MMMM yyyy</string>
 	<string name="fmt_date_long_year_month_day">d MMMM yyyy</string>
-	<string name="fmt_date_numeric_day">d</string>
 	<string name="fmt_date_numeric_month_day">dd.MM</string>
 	<string name="fmt_date_numeric_year">yyyy</string>
 	<string name="fmt_date_numeric_year_month">MM.yyyy</string>
@@ -1666,7 +1664,6 @@ Chụp nhiều ảnh bạn của bạn hơn!"</string>
 	<string name="fmt_date_time_timezone">D T z</string>
 	<string name="fmt_date_timezone">D z</string>
 	<string name="fmt_date_year">yyyy</string>
-	<string name="fmt_time">T</string>
 	<string name="fmt_time_12hour">"h 'giờ'"</string>
 	<string name="fmt_time_12hour_minute">h:mm</string>
 	<string name="fmt_time_12hour_minute_pm">h:mm a</string>

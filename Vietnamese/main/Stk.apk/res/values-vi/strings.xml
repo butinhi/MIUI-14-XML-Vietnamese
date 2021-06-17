@@ -282,7 +282,7 @@
 	<string name="noon">CH</string>
 	<string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">Thất bại</string>
 	<string name="month_december_short">Tháng 12</string>
-	<string name="month_may_short">Tháng năm</string>
+	<string name="month_may_short">Tháng 5</string>
 	<string name="copy">Sao chép</string>
 	<string name="expand_button_title">Nâng cao</string>
 	<string name="month_october_short">Tháng 10</string>
@@ -384,7 +384,6 @@
 	<string name="fmt_weekday_timezone">W z</string>
 	<string name="fmt_date_time">D T</string>
 	<string name="fmt_weekday_date_timezone">W, D z</string>
-	<string name="fmt_time">T</string>
 	<string name="close">Đóng</string>
 	<string name="send">Gửi</string>
 	<string name="fmt_time_12hour_minute_second_millis_pm">h:mm:ss.S a</string>

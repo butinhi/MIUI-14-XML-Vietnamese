@@ -137,9 +137,6 @@
     <string name="timer_got_it">OK</string>
     <string name="timer_item_duration_display">%1$d phút %2$d giây</string>
     <string name="timer_item_label_hint">Nhãn hẹn giờ</string>
-    <string name="timer_item_picker_hour">Giờ</string>
-    <string name="timer_item_picker_minute">Phút</string>
-    <string name="timer_item_picker_second">Giây</string>
     <string name="timer_new_item">Thêm hẹn giờ</string>
     <string name="timer_notify_text">Báo lại sau hoặc bỏ hẹn giờ.</string>
     <string name="timer_start_alarm">Hết giờ!</string>
@@ -499,7 +496,6 @@ sau khi Sức khỏe Mi phân tích đủ dữ liệu"</string>
 	<string name="fmt_date_short_month_day">dd/MM</string>
 	<string name="fmt_time_12hour_minute_second_pm">hh:mm:ss a</string>
 	<string name="fmt_date_year">yyyy</string>
-	<string name="fmt_time">T</string>
 	<string name="month_december_shortest">Thg 12</string>
 	<string name="chinese_day_30">30</string>
 	<string name="night">CH</string>
@@ -660,7 +656,7 @@ sau khi Sức khỏe Mi phân tích đủ dữ liệu"</string>
 	<string name="fmt_time_24hour_minute">HH:mm</string>
 	<string name="noon">CH</string>
 	<string name="month_december_short">Tháng 12</string>
-	<string name="month_may_short">Tháng năm</string>
+	<string name="month_may_short">Tháng 5</string>
 	<string name="month_october_short">Tháng 10</string>
 	<string name="monday">Thứ hai</string>
 	<string name="wednesday_shortest">Th 4</string>
@@ -770,4 +766,5 @@ sau khi Sức khỏe Mi phân tích đủ dữ liệu"</string>
 	<string name="fmt_time_12hour_minute_second_millis_pm">h:mm:ss.S a</string>
 	<string name="fmt_time_12hour_pm">ha</string>
 	<string name="fmt_time_12hour_minute_pm">h:mm a</string>
+	<string name="timer_item_picker_second">"s 'giây'"</string>
 </resources>

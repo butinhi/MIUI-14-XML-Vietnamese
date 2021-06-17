@@ -930,7 +930,7 @@ Hãy chắc chắn bạn nhớ tất cả câu trả lời."</string>
 	<string name="monday_short">Th 2</string>
 	<string name="noon">CH</string>
 	<string name="month_december_short">Tháng 12</string>
-	<string name="month_may_short">Tháng năm</string>
+	<string name="month_may_short">Tháng 5</string>
 	<string name="month_october_short">Tháng 10</string>
 	<string name="monday">Thứ hai</string>
 	<string name="wednesday_shortest">Th 4</string>
@@ -1028,7 +1028,6 @@ Hãy chắc chắn bạn nhớ tất cả câu trả lời."</string>
 	<string name="fmt_date_long_year_month_day">d MMMM, yyyy</string>
 	<string name="fmt_weekday_timezone">W z</string>
 	<string name="fmt_date_short_month_day">d-M</string>
-	<string name="fmt_time">T</string>
 	<string name="fmt_time_12hour_minute_second_millis_pm">h:mm:ss.S a</string>
 	<string name="fmt_time_12hour_pm">ha</string>
 	<string name="fmt_time_12hour_minute_second_pm">h:mm:ss a</string>

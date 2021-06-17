@@ -498,7 +498,7 @@ Bạn cần đọc và đồng ý với Chính sách Riêng tư Mint Keyboard tr
 	<string name="noon">CH</string>
 	<string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">Thất bại</string>
 	<string name="month_december_short">Tháng 12</string>
-	<string name="month_may_short">Tháng năm</string>
+	<string name="month_may_short">Tháng 5</string>
 	<string name="expand_button_title">Nâng cao</string>
 	<string name="copy">Sao chép</string>
 	<string name="month_october_short">Tháng 10</string>
@@ -600,7 +600,6 @@ Bạn cần đọc và đồng ý với Chính sách Riêng tư Mint Keyboard tr
 	<string name="fmt_date_long_year_month_day">d MMMM, yyyy</string>
 	<string name="fmt_weekday_timezone">W z</string>
 	<string name="fmt_date_short_month_day">d-M</string>
-	<string name="fmt_time">T</string>
 	<string name="permission_read_message_introduction">Để xác thực chủ nhân thiết bị của bạn</string>
 	<string name="permission_read_contacts_introduction">Để xác minh bạn là ai</string>
 	<string name="permission_MIUIDaemon_introduction">MIUI Daemon cho phép bạn chuyển dữ liệu từ thiết bị khi màn hình hỏng.</string>

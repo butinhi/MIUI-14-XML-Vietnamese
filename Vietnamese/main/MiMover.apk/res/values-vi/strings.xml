@@ -205,7 +205,6 @@ Sau khi tạo câu hỏi bảo mật mới và xác nhận ngày sinh của bạ
 	<string name="fmt_date_numeric_year_month">M-yyyy</string>
 	<string name="tuesday_shortest">T</string>
 	<string name="failed_description">Thất bại</string>
-	<string name="fmt_date_day">Thg 12</string>
 	<string name="err_low_storage">Không đủ dung lượng lưu trữ</string>
 	<string name="login">Đăng nhập</string>
 	<string name="need_location_permission_confirm">Cài đặt</string>
@@ -322,7 +321,6 @@ Sau khi tạo câu hỏi bảo mật mới và xác nhận ngày sinh của bạ
 	<string name="fmt_time_12hour_minute_second_pm">h:mm:ss a</string>
 	<string name="fmt_date_year">yyyy</string>
 	<string name="no_network">Không thể kết nối mạng</string>
-	<string name="fmt_time">T</string>
 	<string name="trans_detail_item_app_data_skip_data">Không thể chuyển dữ liệu ứng dụng.</string>
 	<string name="succ_description">Hoàn tất</string>
 	<string name="error_title">Không thể đồng bộ</string>
@@ -349,7 +347,6 @@ Kích thước cập nhật Delta: %2$s"</string>
 	<string name="chinese_symbol_animals_horse">Ngọ</string>
 	<string name="saturday">Thứ bảy</string>
 	<string name="notif_icloud_canceling_summary">Đang hủy…</string>
-	<string name="fmt_date_numeric_day">Thg 12</string>
 	<string name="fmt_time_timezone">T z</string>
 	<string name="chinese_digit_thirty">30</string>
 	<string name="document">Tài liệu</string>
@@ -490,7 +487,7 @@ Kích thước cập nhật Delta: %2$s"</string>
 	<string name="noon">CH</string>
 	<string name="button_send">Gửi</string>
 	<string name="month_december_short">Tháng 12</string>
-	<string name="month_may_short">Tháng năm</string>
+	<string name="month_may_short">Tháng 5</string>
 	<string name="send_sms_for_sync_title">Cảnh báo sử dụng dữ liệu</string>
 	<string name="com_miui_weather2">THỜI TIẾT</string>
 	<string name="connect_wifi">Kết nối Wi-Fi</string>

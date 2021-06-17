@@ -345,7 +345,7 @@ Nhập số điện thoại đã được liên kết với thẻ SIM mới đ�
 	<string name="noon">CH</string>
 	<string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">Thất bại</string>
 	<string name="month_december_short">Tháng 12</string>
-	<string name="month_may_short">Tháng năm</string>
+	<string name="month_may_short">Tháng 5</string>
 	<string name="month_october_short">Tháng 10</string>
 	<string name="monday">Thứ hai</string>
 	<string name="wednesday_shortest">Th 4</string>
@@ -450,7 +450,6 @@ Nhập số điện thoại đã được liên kết với thẻ SIM mới đ�
 	<string name="fmt_date_long_year_month_day">d MMMM, yyyy</string>
 	<string name="fmt_weekday_timezone">W z</string>
 	<string name="fmt_date_short_month_day">d-M</string>
-	<string name="fmt_time">T</string>
 	<string name="activate_popup_desc_sim_card_msg_with_charge_hint">Để kích hoạt %2$s, &lt;xliff:g id=number_sms refersto=1&gt;%1$d&lt;/xliff:g&gt; &lt;font color=#0097FF&gt;SMS có phí&lt;/font&gt; sẽ được gửi. Nhà mạng sẽ thu phí cho tin nhắn này.</string>
 	<string name="activate_popup_desc_2_intl_sim_cards_msg_with_charge_hint">Để kích hoạt %2$s, &lt;xliff:g id=number_sms refersto=2&gt;%1$d&lt;/xliff:g&gt; &lt;font color=#0097FF&gt;&lt;b&gt;SMS quốc tế có phí&lt;/b&gt; sẽ được gửi. Nhà mạng sẽ thu phí cho tin nhắn này.</string>
 	<string name="activate_popup_desc_2_sim_cards_msg_with_charge_hint">Để kích hoạt %2$s, &lt;xliff:g id=number_sms refersto=2&gt;%1$d&lt;/xliff:g&gt; &lt;font color=#0097FF&gt;&lt;b&gt;SMS nội địa có phí&lt;/b&gt; sẽ được gửi. Nhà mạng sẽ thu phí cho tin nhắn này.</string>

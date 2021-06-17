@@ -67,7 +67,6 @@
 	<string name="mtrl_picker_range_header_title">Chọn một khoảng ngày</string>
 	<string name="abc_search_hint">Tìm kiếm...</string>
 	<string name="fmt_date_year">yyyy</string>
-	<string name="fmt_time">T</string>
 	<string name="chinese_day_30">30</string>
 	<string name="mtrl_picker_date_header_title">Chọn một ngày</string>
 	<string name="earthly_branches_chou">Sửu</string>

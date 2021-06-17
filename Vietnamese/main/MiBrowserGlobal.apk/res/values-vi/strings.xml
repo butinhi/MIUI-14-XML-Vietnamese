@@ -1141,7 +1141,6 @@ Trang mà bạn xem sẽ không xuất hiện trong lịch sử."</string>
 	<string name="play_video">Phát video</string>
 	<string name="video_manager_action_bar_end_view">Video</string>
 	<string name="contextmenu_copy">Sao chép</string>
-	<string name="fmt_date_day">d</string>
 	<string name="privacy_agreement">Thỏa thuận người dùng</string>
 	<string name="early_morning">SA</string>
 	<string name="action_menu_text_nightmode">Chế độ ban đêm</string>
@@ -1244,7 +1243,6 @@ Trang mà bạn xem sẽ không xuất hiện trong lịch sử."</string>
 	<string name="operation_info">Chi tiết</string>
 	<string name="mw_color_picker_dialog_title">Chọn màu</string>
 	<string name="file_info_size">Kích thước: </string>
-	<string name="fmt_time">T</string>
 	<string name="video_collection_view">Xem</string>
 	<string name="miuix_sbl_tracking_progress_labe_refreshing">Đang làm mới</string>
 	<string name="ad_mark">Quảng cáo</string>
@@ -1757,7 +1755,6 @@ Trang mà bạn xem sẽ không xuất hiện trong lịch sử."</string>
 	<string name="add_to_quicklink">Trang bắt đầu</string>
 	<string name="pref_other_title">Khác</string>
 	<string name="ticket_sign_in">Đăng nhập qua SMS</string>
-	<string name="fmt_date_numeric_day">d</string>
 	<string name="voice_semantic_analysis">Trình duyệt sẽ phân tích ngữ nghĩa sau khi bạn cho phép kết nối.</string>
 	<string name="com_facebook_send_button_text">Gửi</string>
 	<string name="passport_identification_expired">Mã xác minh đã hết hạn, vui lòng bắt đầu lại</string>
@@ -1876,7 +1873,7 @@ Trang mà bạn xem sẽ không xuất hiện trong lịch sử."</string>
 	<string name="noon">CH</string>
 	<string name="notification_download_failed">Không thể tải xuống</string>
 	<string name="month_december_short">Tháng 12</string>
-	<string name="month_may_short">Tháng năm</string>
+	<string name="month_may_short">Tháng 5</string>
 	<string name="save_file_already_exist_alert_message">Một tập tin cùng tên đã tồn tại, bạn có muốn thay thế?</string>
 	<string name="video_downloader_retry">Thử lại</string>
 	<string name="copy">Sao chép</string>

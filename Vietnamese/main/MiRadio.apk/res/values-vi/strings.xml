@@ -1330,7 +1330,6 @@ Vui lòng gửi mã này cho kỹ thuật viên."</string>
 	<string name="fmt_date_short_month_day">d-M</string>
 	<string name="fmt_time_12hour_minute_second_pm">h:mm:ss a</string>
 	<string name="fmt_date_year">yyyy</string>
-	<string name="fmt_time">T</string>
 	<string name="month_december_shortest">Thg 12</string>
 	<string name="chinese_day_30">30</string>
 	<string name="miuix_sbl_tracking_progress_labe_refreshing">Đang làm mới</string>
@@ -1354,7 +1353,6 @@ Vui lòng gửi mã này cho kỹ thuật viên."</string>
 	<string name="month_january_shortest">Thg 1</string>
 	<string name="chinese_symbol_animals_horse">Ngọ</string>
 	<string name="saturday">Thứ bảy</string>
-	<string name="fmt_date_numeric_day">d</string>
 	<string name="fmt_time_timezone">T z</string>
 	<string name="chinese_digit_thirty">30</string>
 	<string name="the_double_ninth_festival">Tết Trùng Dương</string>
@@ -1491,7 +1489,6 @@ Vui lòng gửi mã này cho kỹ thuật viên."</string>
 	<string name="tuesday_shortest">Th 3</string>
 	<string name="the_peace_day">Ngày Tưởng niệm</string>
 	<string name="heavenly_stems_gui">"Quý "</string>
-	<string name="fmt_date_day">d</string>
 	<string name="solar_term_grain_in_ear">Mang Chủng</string>
 	<string name="solar_term_vernal_equinox">Xuân Phân</string>
 	<string name="early_morning">SA</string>
@@ -1501,7 +1498,7 @@ Vui lòng gửi mã này cho kỹ thuật viên."</string>
 	<string name="noon">CH</string>
 	<string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">Thất bại</string>
 	<string name="month_december_short">Tháng 12</string>
-	<string name="month_may_short">Tháng năm</string>
+	<string name="month_may_short">Tháng 5</string>
 	<string name="fmt_time_24hour_minute_second">H:mm:ss</string>
 	<string name="fmt_time_12hour">"h 'giờ'"</string>
 	<string name="month_october_short">Tháng 10</string>
