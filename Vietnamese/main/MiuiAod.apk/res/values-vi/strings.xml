@@ -411,7 +411,7 @@ d/M"</string>
 	<string name="fmt_date_short_year_month_day">d MMM, yyyy</string>
 	<string name="fmt_date_long_year_month_day">d MMMM, yyyy</string>
 	<string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">Thất bại</string>
-	<string name="fmt_time_24hour">"H 'giờ'"</string>
+	<string name="fmt_time_24hour">"HH 'giờ'"</string>
 	<string name="fmt_date_short_month_day">d MMM</string>
 	<string name="the_spring_festival">Lễ hội mùa xuân</string>
 	<string name="fmt_chinese_date">e N</string>

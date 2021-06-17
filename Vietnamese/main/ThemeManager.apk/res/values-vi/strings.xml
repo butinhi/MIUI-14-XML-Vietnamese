@@ -1349,7 +1349,7 @@ Chạm vào đây để đăng nhập."</string>
 	<string name="chinese_month_may">5</string>
 	<string name="heavenly_stems_jia">"Giáp "</string>
 	<string name="heavenly_stems_bing">"Bính "</string>
-	<string name="fmt_time_24hour">"H 'giờ'"</string>
+	<string name="fmt_time_24hour">"HH 'giờ'"</string>
 	<string name="fmt_weekday_timezone">W z</string>
 	<string name="month_september_short">Tháng 9</string>
 	<string name="month_july_short">Tháng 7</string>

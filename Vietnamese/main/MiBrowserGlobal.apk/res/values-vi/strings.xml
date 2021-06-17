@@ -453,7 +453,7 @@ Kích thước cập nhật Delta: %2$s"</string>
 	<string name="action_menu_text_bookmark_added">Đã thêm dấu trang</string>
 	<string name="uuid">UUID(Click để sao chép)</string>
 	<string name="download_open_file_explorer_failed">Không thể mở Quản lý Tập tin</string>
-	<string name="fmt_time_24hour">Giờ</string>
+	<string name="fmt_time_24hour">HH</string>
 	<string name="action_menu_text_speed_test">Kiểm tra mạng</string>
 	<string name="more_recommend">Thêm đề xuất</string>
 	<string name="add_bookmark_group">Thêm nhóm</string>

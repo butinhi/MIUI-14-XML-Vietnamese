@@ -1206,7 +1206,7 @@ Nếu thiết bị của bạn nằm trong danh sách này, bạn có thể thê
 	<string name="fewer">Ít</string>
 	<string name="sleep_health_model_hint">Khuyến nghị đánh giá giấc ngủ được cung cấp bởi Miao Health</string>
 	<string name="reference">Tài liệu tham khảo</string>
-	<string name="fmt_time_24hour">"H 'giờ'"</string>
+	<string name="fmt_time_24hour">"HH 'giờ'"</string>
 	<string name="tb_home_weight_card">Cân nặng. %1$.1f kg. Lần cân: %2$s. Trạng thái: %3$s.</string>
 	<string name="the_spring_festival">Lễ hội Mùa Xuân</string>
 	<string name="climbing">Leo</string>

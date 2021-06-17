@@ -619,7 +619,7 @@ An toàn và bảo mật"</string>
 	<string name="solar_term_the_rains">Vũ Thủy</string>
 	<string name="heavenly_stems_bing">"Bính "</string>
 	<string name="gb_advance_settings_follow_up">Phản hồi cảm ứng</string>
-	<string name="fmt_time_24hour">Giờ</string>
+	<string name="fmt_time_24hour">HH</string>
 	<string name="month_june_shortest">Thg 6</string>
 	<string name="fmt_weekday_timezone">W z</string>
 	<string name="month_april_shortest">Thg 4</string>

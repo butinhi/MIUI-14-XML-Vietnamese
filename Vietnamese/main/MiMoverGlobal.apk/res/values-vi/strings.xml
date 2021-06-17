@@ -387,7 +387,7 @@ Kích thước cập nhật Delta: %2$s"</string>
 	<string name="heavenly_stems_yi">"Ất "</string>
 	<string name="heavenly_stems_bing">"Bính "</string>
 	<string name="size_giga_byte">GB</string>
-	<string name="fmt_time_24hour">"H 'giờ'"</string>
+	<string name="fmt_time_24hour">"HH 'giờ'"</string>
 	<string name="hybrid_provider">Được cung cấp bởi %1$s</string>
 	<string name="month_june_shortest">Thg 6</string>
 	<string name="select_all_description">Chọn tất cả</string>

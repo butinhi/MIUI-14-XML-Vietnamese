@@ -2234,7 +2234,7 @@ Nếu không có dự phòng, số điện thoại bị quên hoặc bị khóa,
 	<string name="app_pa_setting_service_my_collection_summary">Lưu yêu thích từ nhiều ứng dụng tại đây</string>
 	<string name="heavenly_stems_bing">"Bính "</string>
 	<string name="app_express_send">Gửi</string>
-	<string name="fmt_time_24hour">Giờ</string>
+	<string name="fmt_time_24hour">HH</string>
 	<string name="month_june_shortest">Thg 6</string>
 	<string name="app_pa_setting_service_my_express_summary">Theo dõi thông tin giao hàng</string>
 	<string name="solar_term_great_heat">Đại Thử</string>
