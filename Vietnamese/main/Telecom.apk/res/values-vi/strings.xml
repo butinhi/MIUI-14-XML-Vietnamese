@@ -1107,4 +1107,7 @@ Bất kỳ người dùng nào cũng có thể thay mặt cho tất cả ngườ
 	<string name="chinese_symbol_animals_dog">Tuất</string>
 	<string name="pm">CH</string>
 	<string name="the_fifth_day">Mùng 5 Tết Nguyên Đán</string>
+	<string name="date_picker_lunar">Lịch âm</string>
+	<string name="time_picker_dialog_title">Đặt thời gian</string>
+	<string name="date_time_picker_dialog_title">Đặt ngày và giờ</string>
 </resources>

@@ -584,4 +584,8 @@ Thử lại"</string>
 	<string name="fmt_time_12hour_pm">ha</string>
 	<string name="fmt_time_12hour_minute_second_pm">h:mm:ss a</string>
 	<string name="fmt_time_12hour_minute_pm">h:mm a</string>
+	<string name="backup_warning_reason_app_usage_denied">"Không thể đồng bộ dữ liệu.
+		Yêu cầu quyền."</string>
+	<string name="backup_failed_reason_app_usage_denied">Cấp các quyền yêu cầu để sao lưu</string>
+	<string name="dialog_app_usage_denied">Cho phép Sao lưu quyền \"Truy cập sử dụng\" trong Cài đặt để có thể sao lưu.</string>
 </resources>

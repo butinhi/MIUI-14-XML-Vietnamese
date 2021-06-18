@@ -504,4 +504,5 @@
 	<string name="miui_feedback_main_item_customer_service">Dịch vụ sau bán hàng</string>
 	<string name="miui_feedback_main_item_catch_full_log">Lấy nhật ký</string>
 	<string name="public_authorize_now">Cài đặt</string>
+	<string name="public_please_authorize">Cần quyền để tiếp tục</string>
 </resources>

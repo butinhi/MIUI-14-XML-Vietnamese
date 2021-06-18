@@ -1930,4 +1930,6 @@ Nếu bạn không muốn tham gia các lớp học được đề xuất, bạn
 	<string name="dialog_exit_use">Thoát</string>
 	<string name="download_apk">Đang tải xuống %s</string>
 	<string name="download_background">Tải xuống</string>
+    <string name="add_model_card2">"Chạm nút ở trên để thêm thẻ.
+        Bạn sẽ có thể theo dõi quá trình tập luyện và hoạt động của mình."</string>
 </resources>

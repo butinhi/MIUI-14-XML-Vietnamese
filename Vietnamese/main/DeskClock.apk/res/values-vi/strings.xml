@@ -767,4 +767,11 @@ sau khi Sức khỏe Mi phân tích đủ dữ liệu"</string>
 	<string name="fmt_time_12hour_pm">ha</string>
 	<string name="fmt_time_12hour_minute_pm">h:mm a</string>
 	<string name="timer_item_picker_second">"s 'giây'"</string>
+    <string name="week_ringtone_recommend_desc">Báo thức tự nhiên phát các âm thanh khác nhau tùy vào từng ngày. Đặt làm báo thức mặc định?</string>
+    <string name="fmt_time_minute_second_millis">"m'phút' s.S'giây'"</string>
+    <string name="slider_text_new">Vuốt lên để dừng</string>
+    <string name="fmt_time_24hour">"HH 'giờ'"</string>
+    <string name="fmt_time_minute">"m'phút'"</string>
+    <string name="shutdown_alarm_alert_enable_summary_new">Bật để tắt báo thức khi tắt thiết bị. Chỉ báo thức đặt ít nhất %d phút sau khi tắt điện thoại sẽ kêu.</string>
+    <string name="fmt_time_12hour">"h 'giờ'"</string>
 </resources>

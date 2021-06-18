@@ -3129,4 +3129,10 @@ Bạn sẽ được thông báo khi có thể sử dụng lại cổng USB."</st
 	<string name="fmt_time_12hour_minute_second_pm">h:mm:ss a</string>
 	<string name="fmt_weekday_date_timezone">W, D z</string>
 	<string name="fmt_time_12hour_minute_pm">h:mm a</string>
+    <string name="device_locked_without_biometric">Nhận diện sinh trắc học không thể thực hiện do sử dụng tính năng khóa màn hình một chạm của bên thứ ba</string>
+    <string name="shut_down_password_forget_password_suggesstion_one_content">Nhấn và giữ &lt;font color=#e6e6e6&gt;[Nút nguồn]&lt;/font&gt; và &lt;font color=#e6e6e6&gt;[Tăng âm lượng]&lt;/font&gt; cho đến khi bạn thấy &lt;img src=\"\"&gt;.</string>
+    <string name="miui_notification_menu_msg_unfold">Hiển thị phân tách %1$s thông báo?</string>
+    <string name="miui_unimportant_notifications">Thông báo không quan trọng</string>
+    <string name="shut_down_password_forget_password_suggesstion_two_content">Chọn &lt;font color=#e6e6e6&gt;[Xóa dữ liệu]&lt;/font&gt; và sau đó chạm &lt;font color=#e6e6e6&gt;[Khởi động lại]&lt;/font&gt;.</string>
+    <string name="miui_notification_menu_unfold">Đánh dấu là quan trọng</string>
 </resources>

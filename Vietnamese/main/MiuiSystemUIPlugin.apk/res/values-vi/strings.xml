@@ -454,4 +454,14 @@ Việc nghe ở mức âm lượng cao trong thời gian dài có thể gây t�
 	<string name="hearing_assist_transmission_tips_title">Khối lượng trả về</string>
 	<string name="hearing_assist_transmission_tips_cancel">Hủy</string>
 	<string name="hearing_assist_bluetooth_enable_tips_cancle">Hủy</string>
+	<string name="mtrl_picker_invalid_format_use">Sử dụng: %1$s</string>
+	<string name="mtrl_picker_date_header_title">Chọn một Ngày</string>
+	<string name="mtrl_picker_text_input_date_hint">Ngày</string>
+	<string name="mtrl_picker_invalid_format">Định dạng không hợp lệ.</string>
+	<string name="hearing_assist_transmission_tips_summary">"Tai nghe theo dõi trực tiếp truyền nguồn cấp dữ liệu micrô của điện thoại của bạn đến tai nghe Bluetooth được kết nối. Bật ngay bây giờ?"</string>
+	<string name="mtrl_picker_text_input_date_range_start_hint">Ngày bắt đầu</string>
+	<string name="hearing_assist_bluetooth_enable_tips_summary">Tai nghe theo dõi trực tiếp hoạt động khi bật Bluetooth. Bật Bluetooth ngay?</string>
+	<string name="mtrl_picker_text_input_date_range_end_hint">Ngày kết thúc</string>
+	<string name="mtrl_picker_date_header_unselected">Ngày đã chọn</string>
+	<string name="mtrl_picker_invalid_format_example">Ví dụ: %1$s</string>
 </resources>
