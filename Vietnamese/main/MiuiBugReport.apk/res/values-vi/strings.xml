@@ -1108,4 +1108,6 @@ Gửi mã này cho người giám sát."</string>
 	<string name="close">Đóng</string>
 	<string name="miuix_appcompat_select_item">Chọn mục</string>
 	<string name="send">Gửi</string>
+	<string name="catch_full_log_item_content_catching">Đang tạo nhật ký…</string>
+	<string name="catch_full_log_dialog_title">Đang tạo nhật ký…</string>
 </resources>

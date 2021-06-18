@@ -521,4 +521,5 @@ Cập nhật không khả dụng cho bạn!"</string>
 	<string name="channel_service">Dịch vụ Cập nhật nền</string>
 	<string name="notif_service_summary">Giữ để tắt thông báo \"Dịch vụ nền\"!</string>
 	<string name="downgrade_warning">Đã nhận thấy và chặn hạ cấp qua OTA! Để bạn không làm hỏng điện thoại!</string>
+	<string name="menu_title_show_notifications">Hiển thị thông báo</string>
 </resources>

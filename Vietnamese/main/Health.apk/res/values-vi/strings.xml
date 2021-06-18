@@ -1784,7 +1784,7 @@ Các thử nghiệm của chúng tôi cho thấy rằng phương pháp này đo 
 	<string name="course_player_see_detail">Xem giải thích chi tiết</string>
 	<string name="sport_audio_permission_dialog_content">Ứng dụng này cần quyền ghi lại âm thanh để có thể theo dõi quá trình tập luyện dựa trên âm thanh bạn tạo ra.</string>
 	<string name="lowest_freq">Tần suất thấp nhất</string>
-	<string name="MediaControlView_subtitle_track_number_and_lang_text">Track %1$d - %2$s</string>
+	<string name="MediaControlView_subtitle_track_number_and_lang_text">Bài %1$d - %2$s</string>
 	<string name="environment_detection_hint_two">Bài tập của bạn sẽ bị tạm dừng và tự động tiếp tục lại dựa trên âm thanh bạn tạo ra.</string>
 	<string name="skipping_ready">Bạn có thể bắt đầu tập luyện của mình ngay bây giờ</string>
 	<string name="health_uninstall_dialog_title">Gỡ cài đặt Sức khỏe Xiaomi?</string>

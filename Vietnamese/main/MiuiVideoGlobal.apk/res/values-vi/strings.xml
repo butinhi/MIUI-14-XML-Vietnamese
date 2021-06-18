@@ -2308,4 +2308,13 @@ Gửi mã này cho người giám sát."</string>
 	<string name="fmt_time_12hour_minute_second_pm">h:mm:ss a</string>
 	<string name="fmt_weekday_date_timezone">W, D z</string>
 	<string name="fmt_time_12hour_minute_pm">h:mm a</string>
+	<string name="local_video_size">Kích thước</string>
+	<string name="notification_tool">Công cụ</string>
+	<string name="lp_video_info_title">Thông tin</string>
+	<string name="lp_video_zoom_title">Thanh thu phóng</string>
+	<string name="local_video_name">Tên</string>
+	<string name="notification_last_played_status">Lịch sử phát</string>
+	<string name="local_video_dialog_default">Mặc định</string>
+	<string name="lp_video_zoom_stretch">Kéo dài</string>
+	<string name="lp_video_zoom_crop">Cắt</string>
 </resources>

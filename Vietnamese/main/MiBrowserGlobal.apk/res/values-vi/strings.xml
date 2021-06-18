@@ -1973,13 +1973,13 @@ Trang mà bạn xem sẽ không xuất hiện trong lịch sử."</string>
 	<string name="setting_home_page_show_title">Trang bắt đầu</string>
 	<string name="columbus_player_unit_sec">giây</string>
 	<string name="user_experience_content">Vui lòng xác nhận rằng bạn đã đọc và đồng ý với \"Chương trình trải nghiệm người dùng\"</string>
-	<string name="ssl_bad_clock_warning">Không thể thiết lập kết nối riêng tư đến %s1 do thời gian (%s2) trên thiết bị không chính xác.</string>
-	<string name="mw_miuichromium_error_page_suggestion_check_wifi_proxy">(Wi-Fi) Kiểm tra %s1cài đặt proxy%s2.</string>
+	<string name="ssl_bad_clock_warning" formatted="false">Không thể thiết lập kết nối riêng tư đến %s1 do thời gian (%s2) trên thiết bị không chính xác.</string>
+	<string name="mw_miuichromium_error_page_suggestion_check_wifi_proxy" formatted="false">(Wi-Fi) Kiểm tra %s1cài đặt proxy%s2.</string>
 	<string name="permission_notification">gửi thông báo.</string>
-	<string name="mw_miuichromium_error_page_suggestion_check_mobile_proxy">(Dữ liệu di động) Đặt lại %s1 cài đặt APN%s2.</string>
+	<string name="mw_miuichromium_error_page_suggestion_check_mobile_proxy" formatted="false">(Dữ liệu di động) Đặt lại %s1 cài đặt APN%s2.</string>
 	<string name="lockpattern_recording_incorrect_too_short">Kết nối ít nhất %d điểm. Hãy thử lại.</string>
 	<string name="save_file">"Lưu "</string>
-	<string name="mw_miuichromium_error_page_description_no_connection">Không thể kết nối mạng do cấu hình kết mạng không chính xác hoặc tín hiệu yếu. Kiểm tra %s1cài đặt mạng%s2 và thử lại.</string>
+	<string name="mw_miuichromium_error_page_description_no_connection" formatted="false">Không thể kết nối mạng do cấu hình kết mạng không chính xác hoặc tín hiệu yếu. Kiểm tra %s1cài đặt mạng%s2 và thử lại.</string>
 	<string name="nf_product_discount">"Lưu "</string>
-	<string name="sign_in_to">Đăng nhập vào %s1 %s2\"</string>
+	<string name="sign_in_to" formatted="false">Đăng nhập vào %s1 %s2\"</string>
 </resources>
