@@ -561,7 +561,7 @@ Vui lòng tham khảo góc trên hình để đặt thiết bị và thử lại
 	<string name="document_recognize_text">Nhận dạng văn bản</string>
 	<string name="please_select_an_item">Vui lòng chọn một mục</string>
 	<string name="textrecognition_results">Kết quả nhận dạng văn bản</string>
-	<string name="monitor_low_miui">MIUI version is too low</string>
+	<string name="monitor_low_miui">Phiên bản MIUI quá thấp</string>
 	<string name="are_you_sure_you_want_delete_file">Bạn có chắc muốn xóa %1$d tệp tin này?</string>
 	<string name="document_list_rename">Vui lòng nhập tên mới</string>
 	<string name="monitor_unsupport_device">Thiết bị này hiện không được hỗ trợ</string>
@@ -1028,4 +1028,5 @@ Vui lòng tham khảo góc trên hình để đặt thiết bị và thử lại
 	<string name="change_wifi_info">Đổi chi tiết mạng</string>
 	<string name="picture">Album</string>
 	<string name="translate_overtime">Thời gian chờ dịch vụ</string>
+    <string name="document_rename_error">Lỗi đổi tên</string>
 </resources>

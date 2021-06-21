@@ -611,4 +611,12 @@ Bạn cần đọc và đồng ý với Chính sách Riêng tư Mint Keyboard tr
 	<string name="fmt_time_12hour_pm">ha</string>
 	<string name="fmt_time_12hour_minute_second_pm">h:mm:ss a</string>
 	<string name="fmt_time_12hour_minute_pm">h:mm a</string>
+	<string name="disagreement_terminate_miuidaemon">"Nếu bạn không đồng ý cấp các quyền đó hoặc chia sẻ và tải lên thông tin cá nhân của mình, bạn sẽ không thể sử dụng dịch vụ này. Bạn có thể chọn không sử dụng dịch vụ này hoặc hạn chế quyền trong Cài đặt trong những trường hợp như vậy. Lưu ý rằng chúng tôi sẽ chỉ sử dụng các quyền khi bạn bắt đầu chuyển dữ liệu từ thiết bị của mình khi màn hình của thiết bị bị hỏng."</string>
+	<string name="other_settings_upload_debug_log_detail">"Giúp cải thiện trải nghiệm thiết bị MIUI của bạn bằng cách tự động gửi dữ liệu chẩn đoán, thiết bị và dữ liệu sử dụng ứng dụng cho Xiaomi. Điều này sẽ giúp cải thiện tuổi thọ pin, hệ thống MIUI và độ ổn định của ứng dụng, v.v.
+		Dữ liệu bạn sẽ gửi sẽ chứa thông tin chung về thiết bị của bạn và cách bạn sử dụng thiết bị (ví dụ: mức pin, hoạt động của hệ thống và ứng dụng cũng như lỗi). Dữ liệu sẽ được sử dụng để cải thiện các thiết bị MIUI.
+		Việc tắt tính năng này không ảnh hưởng đến khả năng thiết bị của bạn gửi thông tin cần thiết cho các dịch vụ thiết yếu như cập nhật hệ thống và bảo mật.
+		Bạn có thể kiểm soát tính năng này từ Cài đặt &gt; Mật khẩu &amp; bảo mật &gt; Quyền riêng tư &gt; Cách sử dụng và chẩn đoán."</string>
+	<string name="require_miuidaemon_authority_statement">Để cho phép chúng tôi cung cấp cho bạn dịch vụ này, bạn cần cấp các quyền sau để chúng tôi thu thập thông tin cá nhân của bạn:</string>
+	<string name="terms_of_use_lable_apps_wifi_device">Dịch vụ Mi, Xiaomi Cloud, Tìm thiết bị, Màn hình chính, Trò chơi, MIUI Daemon, Thành phần hệ thống MSA, Dịch vụ dịch, MIUI SDK, Ứng dụng nhanh, Kho ứng dụng, thống kê, Mi Link</string>
+	<string name="user_agreement_declare_wifi_device">Trước khi sử dụng MIUI, bạn phải đọc và đồng ý với Thỏa thuận người dùng và Chính sách quyền riêng tư của chúng tôi. Trong khi thiết bị của bạn đang được kích hoạt, Xiaomi Cloud, Dịch vụ sao lưu, Tìm thiết bị, Màn hình chính, Cụm từ thường gặp, Dịch vụ Giao tiếp Internet của Xiaomi, Dịch vụ Dịch thuật, MIUI Daemon, Trình xem HTML, MIUI SDK, Ứng dụng Phần tử Bảo mật, Hỗ trợ AI, Pin và hiệu suất, Power Detector, Joyose, OS AI Setting và Updater sẽ kết nối với mạng. Thẻ thông minh, Trình quản lý quyền và các dịch vụ thông minh sẽ kết nối với mạng và truy cập vị trí của bạn.</string>
 </resources>

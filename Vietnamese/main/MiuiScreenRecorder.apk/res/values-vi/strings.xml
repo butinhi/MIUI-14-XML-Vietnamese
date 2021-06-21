@@ -416,4 +416,5 @@
 	<string name="app_notification_record_complete">"Đã lưu quay màn hình vào thư viện
 Chạm để xem"</string>
 	<string name="app_notification_channel_record_complete">Thông báo khi quay xong</string>
+	<string name="view_recorded_file">Chạm để xem tệp đã ghi</string>
 </resources>

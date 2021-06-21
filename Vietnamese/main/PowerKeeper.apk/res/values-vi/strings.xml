@@ -292,4 +292,6 @@ Tiết kiệm pin sẽ xử lý ứng dụng quan trọng một cách có chọn
 	<string name="checking_intranet">Kiểm tra kết nối intranet, vui lòng đợi...</string>
 	<string name="save_data">Lưu dữ liệu</string>
 	<string name="delete_data_confirm">Xác nhận xóa dữ liệu này</string>
+    <string name="stricter_high_temp_state_message">"Thiết bị của bạn quá nóng, bạn không thể sử dụng các ứng dụng khác ngoài quay số và danh bạ"</string>
+    <string name="kill_pkg_toast_message">Thiết bị của bạn quá nóng và ứng dụng sẽ bị thoát</string>
 </resources>

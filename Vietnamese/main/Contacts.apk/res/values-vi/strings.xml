@@ -2162,7 +2162,7 @@ Chuyển vùng Mi cần kết nối Internet và truy cập thông tin vị trí
 	<string name="bh_text_phone_num">Số điện thoại</string>
 	<string name="bh_bills_info_label">Chi tiết</string>
 	<string name="bh_other_traffic">Số điện thoại khác</string>
-	<string name="bh_express_name">Delivery service</string>
+	<string name="bh_express_name">Dịch vụ chuyển phát</string>
 	<string name="bh_toast_copy">Sao chép thành công</string>
 	<string name="bh_text_operator">Nhà cung cấp</string>
 	<string name="bh_text_charge_name">Tổng</string>

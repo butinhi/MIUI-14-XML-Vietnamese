@@ -386,7 +386,7 @@
 	<string name="feedback_reproductivity_once">Một lần</string>
 	<string name="kr_authorization_agree">Đồng ý</string>
 	<string name="kr_authorization_contact">Tài khoản</string>
-	<string name="kr_authorization_exit">Exit</string>
+	<string name="kr_authorization_exit">Thoát</string>
 	<string name="kr_authorization_contact_desc">Để lấy thông tin Tài khoản Mi và xác nhận tài khoản của bạn</string>
 	<string name="kr_authorization_log_protocol">Giao thức nhật ký (tùy chọn)</string>
 	<string name="kr_authorization_log_protocol_desc">"Để cải thiện dịch vụ cung cấp đến bạn, chúng tôi sẽ tải số liệu thống kê sử dụng và nhật ký hệ thống lên máy chủ. Các mục đó có thể bao gồm thông tin cá nhân của bạn, cũng như thông tin về thiết bị và mạng. Chúng tôi sẽ sử dụng thông tin tải lên để xác định và phân tích lỗi trong hệ thống"</string>
@@ -1110,4 +1110,5 @@ Gửi mã này cho người giám sát."</string>
 	<string name="send">Gửi</string>
 	<string name="catch_full_log_item_content_catching">Đang tạo nhật ký…</string>
 	<string name="catch_full_log_dialog_title">Đang tạo nhật ký…</string>
+    <string name="catch_full_log_category">Loại nhật ký</string>
 </resources>

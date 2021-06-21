@@ -142,4 +142,7 @@
 	<plurals name="miuix_appcompat_items_selected">
 		<item quantity="other">%d mục đã chọn</item>
 	</plurals>
+	<plurals name="local_video_floder">
+		<item quantity="other">%d thư mục</item>
+	</plurals>
 </resources>

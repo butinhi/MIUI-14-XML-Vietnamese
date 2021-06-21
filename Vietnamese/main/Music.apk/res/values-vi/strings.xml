@@ -1989,4 +1989,6 @@ Nếu bạn không đồng ý sử dụng các dịch vụ nói trên, bạn s�
 	<string name="nav_app_bar_open_drawer_description">Mở bảng điều hướng</string>
 	<string name="columbus_player_unit_sec">giây</string>
 	<string name="icon_content_description">Biểu tượng hộp thoại</string>
+    <string name="columbus_player_speed_video">Bỏ qua VIDEO</string>
+    <string name="columbus_player_speed_title">Bỏ qua Video?</string>
 </resources>

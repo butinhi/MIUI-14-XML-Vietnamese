@@ -3495,4 +3495,14 @@ Bất cứ người dùng nào cũng có thể cập nhật ứng dụng cho ng�
 	<string name="date_picker_lunar">Lịch âm</string>
 	<string name="time_picker_dialog_title">Đặt thời gian</string>
 	<string name="date_time_picker_dialog_title">Đặt ngày và giờ</string>
+    <string name="full_forwarding_number_prefix">"Số điện thoại: "</string>
+    <string name="full_forwarding_option_forwarding">Đang chuyển tiếp</string>
+    <string name="mobile_special_network_optimization_config_summary">Khi mạng không ổn định, thử tự động sửa</string>
+    <string name="invalid_secretcode_format_txt">Mã bí mật không đúng định dạng!</string>
+    <string name="voicemail_callforward_settings">Thư thoại &amp; chuyển tiếp cuộc gọi</string>
+    <string name="full_forwarding_settings">Chuyển tiếp toàn bộ</string>
+    <string name="full_forwarding_number_error_msg">Chỉ những số điện thoại bắt đầu bằng \"0\" được hỗ trợ.</string>
+    <string name="mobile_special_network_optimization_config_title">Tối ưu Mạng đặc biệt</string>
+    <string name="play_voicemail_settings">Phát thư thoại</string>
+    <string name="full_forwarding_number">Số chuyển tiếp</string>
 </resources>

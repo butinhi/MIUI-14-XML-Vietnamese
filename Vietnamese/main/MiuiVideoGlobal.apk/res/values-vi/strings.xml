@@ -2319,4 +2319,6 @@ Gửi mã này cho người giám sát."</string>
 	<string name="lp_video_zoom_crop">Cắt</string>
 	<string name="local_video_date">Ngày</string>
 	<string name="local_video_time">Thời lượng</string>
+	<string name="columbus_player_speed_video">Bỏ qua VIDEO</string>
+	<string name="columbus_player_speed_title">Bỏ qua Video?</string>
 </resources>

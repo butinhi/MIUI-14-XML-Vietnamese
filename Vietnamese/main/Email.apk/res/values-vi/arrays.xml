@@ -93,4 +93,9 @@
 		<item>Hóa đơn</item>
 		<item>hóa đơn</item>
 	</string-array>
+    <string-array name="sign_in_dialog_item">
+        <item>Đăng nhập giao thức Outlook oauth imap</item>
+        <item>IMAP (Không có lịch)</item>
+        <item>EXCHANGE (Không có lịch)</item>
+    </string-array>
 </resources>

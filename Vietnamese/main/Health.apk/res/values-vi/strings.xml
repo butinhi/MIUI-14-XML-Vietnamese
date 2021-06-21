@@ -1932,4 +1932,7 @@ Nếu bạn không muốn tham gia các lớp học được đề xuất, bạn
 	<string name="download_background">Tải xuống</string>
     <string name="add_model_card2">"Chạm nút ở trên để thêm thẻ.
         Bạn sẽ có thể theo dõi quá trình tập luyện và hoạt động của mình."</string>
+	<string name="complete_progress">Tiến độ</string>
+    <string name="view_step_and_progress">Xem đếm bước hiện tại</string>
+    <string formatted="false" name="tb_step_widget">Hôm nay. %1$s. Tiến trình: %2$d%</string>
 </resources>

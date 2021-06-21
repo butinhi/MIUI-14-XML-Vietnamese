@@ -633,7 +633,7 @@
     <string name="no_bill_discribe">"Không tìm thấy bất kỳ hóa đơn nào.
 Hãy thử chuyển sang tài khoản email khác."</string>
     <string name="no_contacts">Không có liên hệ.</string>
-    <string name="no_content_in_body">[No Body]</string>
+    <string name="no_content_in_body">[Không có nội dung]</string>
     <string name="no_conversations">Không có thư nào</string>
     <string name="no_filtrable_email_account">Không có tài khoản để lọc</string>
     <string name="no_mails">Không có thư nào.</string>

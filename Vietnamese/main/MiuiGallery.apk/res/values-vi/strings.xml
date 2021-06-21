@@ -2088,7 +2088,7 @@ Chụp nhiều ảnh bạn của bạn hơn!"</string>
 	<string name="vlog_caption_ai_cancel">Hủy</string>
 	<string name="vlog_audio_metal">Kim loại</string>
 	<string name="vlog_filter_liulan">Sương mù</string>
-	<string name="vlog_saving">Exporting video…</string>
+	<string name="vlog_saving">Đang xuất video…</string>
 	<string name="photo_vlog_module_finish">Tải xuống trình biên tập video thành công</string>
 	<string name="video_compress_size">≈%s sau khi nén</string>
 	<string name="vlog_cancel_download">Hủy</string>
