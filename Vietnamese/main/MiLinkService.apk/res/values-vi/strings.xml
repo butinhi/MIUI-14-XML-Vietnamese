@@ -562,4 +562,5 @@ Nếu cả hai thiết bị không thể kết nối tới cùng một mạng, b
 	<string name="debug_mode_milink_version">Phiên bản MiLink</string>
 	<string name="debug_mode_merge_support">Hỗ trợ ứng dụng thấp nhất</string>
 	<string name="dialog_scanning_precondition_new_global">Bật Wi-Fi, Bluetooth, và dịch vụ vị trí để có thể truyền. Bật ngay??</string>
+	<string name="dialog_location_permission_title">Yêu cầu quyền</string>
 </resources>

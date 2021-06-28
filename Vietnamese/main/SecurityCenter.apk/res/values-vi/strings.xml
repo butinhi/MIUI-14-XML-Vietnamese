@@ -5358,4 +5358,8 @@ Ghi lại các trình tự và sử dụng chúng bất cứ lúc nào!"</string
     <string name="protect_screen_information_detail">"Bạn sẽ không thể chụp ảnh màn hình hoặc ghi lại màn hình khi đang nhập."</string>
     <string name="protect_screen_information">Màn hình của bạn được bảo vệ</string>
     <string name="pc_performance_mode_dialog_summary">Thiết bị của bạn sẽ có thể hoạt động trong %s ở chế độ Hiệu suất. Lưu ý rằng chế độ Hiệu suất làm tăng mức tiêu thụ điện năng và có thể dẫn đến quá nhiệt.</string>
+	<string name="verify_shut_down_password_title">Xác nhận tắt máy</string>
+	<string name="confirm_open_shut_down_password_title">Đặt mật khẩu</string>
+	<string name="app_settings_link">Cài đặt bổ sung trong ứng dụng</string>
+	<string name="scan_open_shut_down_password_title">Xác nhận tắt máy</string>
 </resources>

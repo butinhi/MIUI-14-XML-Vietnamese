@@ -1032,4 +1032,6 @@ Hãy chắc chắn bạn nhớ tất cả câu trả lời."</string>
 	<string name="fmt_time_12hour_pm">ha</string>
 	<string name="fmt_time_12hour_minute_second_pm">h:mm:ss a</string>
 	<string name="fmt_time_12hour_minute_pm">h:mm a</string>
+	<string name="operator_other">Số điện thoại</string>
+	<string name="skip_query_account">Bỏ qua</string>
 </resources>

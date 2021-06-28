@@ -220,4 +220,7 @@
 	<plurals name="miuix_appcompat_items_selected">
 		<item quantity="other">%d mục đã chọn</item>
 	</plurals>
+    <plurals name="search_head_hint_all">
+        <item quantity="other">Kết quả tìm kiếm (%1$d mục) </item>
+    </plurals>
 </resources>

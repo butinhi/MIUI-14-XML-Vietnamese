@@ -1668,4 +1668,23 @@ Gia nhập cùng 170 triệu Mi Fan!"</string>
 	<string name="transfer_summary">Tải xuống và các mục được chuyển qua Mi Share</string>
 	<string name="cdd_message">"Do các hạn chế của Android 11, bạn sẽ không thể xem một số tệp được tạo trong các ứng dụng của bên thứ ba trong Trình quản lý tệp."</string>
 	<string name="mirror_can_not_drag_mask_new">Kéo các mục vào %s</string>
+	<string name="not_added_category">Khả dụng</string>
+	<string name="display_setting">Mục đã hiển thị</string>
+	<string name="available_size">Trống: %s</string>
+	<string name="by_size">Kích thước</string>
+	<string name="total_size">Tổng: %s</string>
+	<string name="entry_phone_storage_internal">Bộ nhớ trong</string>
+	<string name="search_more_category">Thêm</string>
+	<string name="search_category_folder">Thư mục</string>
+	<string name="by_type">Loại</string>
+	<string name="category_editor_mode">Sửa</string>
+	<string name="remainder_size">Còn lại: %s</string>
+	<string name="added_category">Đã thêm</string>
+	<string name="edit_quick_category">Sửa</string>
+	<string name="by_name">Tên</string>
+	<string name="most_quick_category_hint">Bạn có thể thêm tới %d lối tắt</string>
+	<string name="category_more">Thêm</string>
+	<string name="entry_storage_cloned_app">Ứng dụng kép</string>
+	<string name="category_exit_editor_mode">Thoát</string>
+	<string name="entry_storage_usb">Bộ lưu trữ USB</string>
 </resources>

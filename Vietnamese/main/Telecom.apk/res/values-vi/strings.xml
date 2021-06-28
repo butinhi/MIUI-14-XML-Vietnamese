@@ -1102,4 +1102,5 @@ Bất kỳ người dùng nào cũng có thể thay mặt cho tất cả ngườ
 	<string name="date_picker_lunar">Lịch âm</string>
 	<string name="time_picker_dialog_title">Đặt thời gian</string>
 	<string name="date_time_picker_dialog_title">Đặt ngày và giờ</string>
+	<string name="message_no_voice_capability">"Không thể gọi điện trên thiết bị này"</string>
 </resources>

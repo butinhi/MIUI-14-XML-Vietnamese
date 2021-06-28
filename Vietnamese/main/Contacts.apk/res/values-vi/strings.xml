@@ -2178,4 +2178,5 @@ Chuyển vùng Mi cần kết nối Internet và truy cập thông tin vị trí
     <string name="bh_text_order_id">Số đơn hàng</string>
     <string name="bh_connect_address">"Tên người nhận"</string>
     <string name="bh_card_order_name">Gói dịch vụ</string>
+    <string name="wifi_pad_disable_phone">"Không thể gọi điện trên thiết bị này"</string>
 </resources>
