@@ -2823,4 +2823,14 @@ Phiên dịch có thể mất một lúc khi bạn sử dụng tính năng này 
 	<string name="alert_secret_album_title_new">Đã thêm thành công</string>
 	<string name="keyboard_shortcut_select_all">Chọn tất cả</string>
 	<string name="keyboard_shortcut_cut">Cắt</string>
+    <string name="widget_recommend_default_title_open_story">Bật \"Kỷ niệm\"</string>
+    <string name="widget_recommend_default_description_shop">Xem lại những khoảnh khắc tươi sáng nhất của bạn</string>
+    <string name="keyboard_shortcut_year">Xem theo năm</string>
+    <string name="filter_popular_summercloud">Sao hôm</string>
+    <string name="widget_recommend_default_description_no_story">Chưa có kỷ niệm ở đây</string>
+    <string name="widget_recommend_default_description_open_story">Chạm để mở Cài đặt và bật \"Kỷ niệm\"</string>
+    <string name="alert_secret_album_message_new">Vuốt xuống trong \"Album\" để xem mục riêng tư.</string>
+    <string name="movie_audio_no_cd">Không có âm thanh</string>
+    <string name="add_secret_ensure_message_new">Để xem các mục bạn đánh dấu riêng tư, vuốt xuống trong \"Album\".</string>
+    <string name="movie_audio_local_cd">Âm thanh trên máy</string>
 </resources>

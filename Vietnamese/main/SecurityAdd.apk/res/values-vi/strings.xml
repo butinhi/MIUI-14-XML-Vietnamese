@@ -778,4 +778,7 @@ An toàn và bảo mật"</string>
 	<string name="miuix_appcompat_select_item">Chọn mục</string>
 	<string name="send">Gửi</string>
 	<string name="web_sso_login_message">Đang đăng nhập…</string>
+	<string name="gb_gpu_tips_lod">Nâng cao độ rõ nét của hình ảnh bằng cách tối ưu hóa kết cấu của các đối tượng từ xa</string>
+	<string name="gb_gputuner_multi_render">Kết xuất đa luồng</string>
+	<string name="gb_gpu_tips_render">Sử dụng kết xuất đa luồng để tối ưu hiệu năng trò chơi</string>
 </resources>

@@ -11770,4 +11770,11 @@ Sao lưu đám mây:
 Sao lưu USB:
 Sao chép tệp tin sao lưu vào thiết bị của bạn (MIUI-backup-AllBackup). Vào cài đặt &gt; Sao lưu, khôi phục hoặc đặt lại &gt; Trên thiết bị, và chọn tệp tin sao lưu.
 "</string>
+    <string name="reset_network_title_noSim">Đặt lại Wi-Fi và Bluetooth</string>
+    <string name="kddi_nfc_secure_settings_title">Khóa khi trên Màn hình khóa</string>
+    <string name="magic_list_empty_text">Không có ứng dụng tương thích với tính năng này</string>
+    <string name="kddi_nfc_secure_toggle_summary">Cho phép tính năng NFC/Osaifu-keitai khi màn hình mở khóa</string>
+    <string name="kddi_nfc_quick_toggle_summary">Bật tính năng NFC/Osaifu-keitai</string>
+    <string name="gxzw_anim_unlock_effect">%s hiệu ứng vân tay</string>
+    <string name="kddi_nfc_disabled_summary">Không khả dụng vì NFC/Osaifu-keitai đã tắt</string>
 </resources>

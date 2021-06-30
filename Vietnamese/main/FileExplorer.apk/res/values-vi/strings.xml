@@ -1692,4 +1692,15 @@ Gia nhập cùng 170 triệu Mi Fan!"</string>
 	<string name="fmt_time_minute">"m'phút'"</string>
 	<string name="enter">↓</string>
 	<string name="start_all">Xem tất cả</string>
+    <string name="least_quick_category_hint">Thêm ít nhất %d lối tắt</string>
+    <string name="size_lv1">Nhỏ hơn %d KB</string>
+    <string name="guide_one_title">Các mục được sắp xếp thành một dòng thời gian</string>
+    <string name="size_lv6">Lớn hơn %d GB</string>
+    <string name="by_date">Thời gian sửa đổi</string>
+    <string name="guide_three_summary">Thêm, xóa, và sắp xếp lại lối tắt màn hình mở đầu.</string>
+    <string name="guide_two_title">Chỉ hiển thị các mục cần thiết</string>
+    <string name="guide_two_summary">Mặc định ẩn ảnh thư viện và ảnh chụp màn hình.</string>
+    <string name="guide_three_title">Sắp xếp lại lối tắt</string>
+    <string name="guide_one_summary">Các mục gần đây được nhóm lại theo ngày.</string>
+    <string name="recent_hide_camera_and_screenshots">"Không hiển thị các mục Thư viện và ảnh chụp màn hình trong tệp gần đây"</string>
 </resources>

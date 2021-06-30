@@ -3139,4 +3139,13 @@ Bạn sẽ được thông báo khi có thể sử dụng lại cổng USB."</st
     <string name="pad_zen_mode_warnings_keyguard_content">Thông báo sẽ được im lặng khi thiết bị khóa</string>
 	<string name="device_locked_without_biometric_face">Nhận diện sinh trắc học không thể thực hiện do sử dụng tính năng khóa màn hình một chạm của bên thứ ba</string>
 	<string name="device_locked_without_biometric_finger">Nhận diện sinh trắc học không thể thực hiện do sử dụng tính năng khóa màn hình một chạm của bên thứ ba</string>
+    <string name="input_pin_after_boot_msg">Cần nhập mã PIN mỗi khi thiết bị khởi động lại</string>
+    <string name="fs_gesture_final_see_more">Xem thêm demo trong Cài đặt &gt; Màn hình chính &gt; Điều hướng hệ thống</string>
+    <string name="fingerprint_not_identified_msg_pin">Xác thực vân tay đã thất bại vài lần. Vui lòng thử lại hoặc sử dụng mật khẩu kỹ thuật số để mở khóa</string>
+    <string name="fingerprint_not_identified_msg_password">Xác thực vân tay đã đạt số lần thất bại tối đa. Vui lòng thử lại hoặc sử dụng mật khẩu phức tạp để mở khóa</string>
+    <string name="fingerprint_again_identified_msg_pattern">Tính năng vân tay đã được khôi phục và có thể mở khóa bằng vân tay hoặc mẫu hình</string>
+    <string name="input_pattern_after_boot_msg">Cần vẽ mẫu hình mỗi khi thiết bị khởi động lại</string>
+    <string name="fingerprint_not_identified_msg_pattern">Xác thực vân tay đã đạt số lần thất bại tối đa, vui lòng thử lại hoặc vẽ mẫu hình để thực hiện</string>
+    <string name="fingerprint_again_identified_msg_password">Tính năng vân tay đã được khôi phục. Có thể sử dụng vân tay hoặc mật khẩu phức tạp để mở khóa</string>
+    <string name="fingerprint_again_identified_msg_pin">Tính năng vân tay đã được khôi phục và có thể mở khóa bằng vân tay hoặc mật khẩu kỹ thuật số</string>
 </resources>

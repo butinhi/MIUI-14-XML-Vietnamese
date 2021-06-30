@@ -5364,4 +5364,17 @@ Ghi lại các trình tự và sử dụng chúng bất cứ lúc nào!"</string
 	<string name="scan_open_shut_down_password_title">Xác nhận tắt máy</string>
 	<string name="pc_hidemode_normal_title">Cân bằng</string>
 	<string name="gtb_brightness_dialog_right_btn">Tiếp tục mở</string>
+    <string name="traffic_usage_warning_body_go_to_mi_sim">"Bạn đã sử dụng %s dữ liệu di động tháng này. Chạm để sử dụng Mi SIM."</string>
+    <string name="verify_shut_down_password_content">Yêu cầu xác nhận khóa màn hình nếu thiết bị của bạn bị tắt nguồn khi bị khóa</string>
+    <string name="scan_open_shut_down_password_content">Bảo vệ thiết bị của bạn khỏi bị truy cập trái phép</string>
+    <string name="suggest_to_use_mi_sim">Sử dụng Mi Sim để ngăn bạn phát sinh thêm phí của nhà mạng.</string>
+    <string name="shut_down_password_content">Nếu bạn làm mất thiết bị của mình, xác nhận tắt máy sẽ bảo vệ thiết bị khỏi bị tắt nguồn bởi bất kỳ ai tìm thấy thiết bị.</string>
+    <string name="confirm_open_shut_down_password_content">Đặt khóa màn hình trước khi bật xác nhận tắt máy.</string>
+    <string name="app_behavior_desc_denied_at">Đã từ chối lúc %s</string>
+    <string name="app_behavior_desc_denied_on_background_at">Đã từ chối dưới nền lúc %s</string>
+    <string name="app_behavior_desc_allowed_at">Đã cho phép lúc %s</string>
+    <string name="gtb_brightness_dialog_sub_message">*Bạn có thể bật hoặc tắt tính năng này trong Cài đặt.</string>
+    <string name="gtb_setting_item_title_brightness">Tự động giảm độ sáng màn hình</string>
+    <string name="app_behavior_desc_allowed_on_background_at">Đã cho phép dưới nền lúc %s</string>
+    <string name="first_aid_exception_sub_title">Các mục này sẽ bị bỏ qua khi quét</string>
 </resources>
