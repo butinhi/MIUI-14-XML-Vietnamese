@@ -2808,4 +2808,19 @@ Phiên dịch có thể mất một lúc khi bạn sử dụng tính năng này 
 	<string name="home_page_custom">Tùy chỉnh</string>
 	<string name="home_page_camera">Máy ảnh</string>
 	<string name="home_page_all_photos">Tất cả</string>
+	<string name="widget_recommend_default_title_on_story">Kỷ niệm</string>
+	<string name="keyboard_shortcut_day">ngày</string>
+	<string name="keyboard_shortcut_delete">Xóa</string>
+	<string name="movie_full_screen">Toàn màn hình</string>
+	<string name="widget_label_custom">Ảnh</string>
+	<string name="keyboard_shortcut_paste">Dán</string>
+	<string name="keyboard_shortcut_search">Tìm kiếm</string>
+	<string name="keyboard_shortcut_month">Xem theo tháng</string>
+	<string name="widget_label_recommend">Kỷ niệm</string>
+	<string name="movie_edit_photo">Ảnh</string>
+	<string name="keyboard_shortcut_copy">Sao chép</string>
+	<string name="widget_recommend_default_example">Giới thiệu</string>
+	<string name="alert_secret_album_title_new">Đã thêm thành công</string>
+	<string name="keyboard_shortcut_select_all">Chọn tất cả</string>
+	<string name="keyboard_shortcut_cut">Cắt</string>
 </resources>

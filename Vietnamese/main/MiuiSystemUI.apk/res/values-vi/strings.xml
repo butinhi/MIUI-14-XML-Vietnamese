@@ -3137,4 +3137,6 @@ Bạn sẽ được thông báo khi có thể sử dụng lại cổng USB."</st
     <string name="miui_notification_menu_unfold">Đánh dấu là quan trọng</string>
     <string name="pad_zen_mode_warnings_all_time_content">Thông báo sẽ được im lặng</string>
     <string name="pad_zen_mode_warnings_keyguard_content">Thông báo sẽ được im lặng khi thiết bị khóa</string>
+	<string name="device_locked_without_biometric_face">Nhận diện sinh trắc học không thể thực hiện do sử dụng tính năng khóa màn hình một chạm của bên thứ ba</string>
+	<string name="device_locked_without_biometric_finger">Nhận diện sinh trắc học không thể thực hiện do sử dụng tính năng khóa màn hình một chạm của bên thứ ba</string>
 </resources>

@@ -919,4 +919,5 @@ Tăng tốc tải xuống giữa các thiết bị."</string>
 	<string name="mtrl_chip_close_icon_content_description">Xóa %1$s</string>
 	<string name="send_diagnosis_log">Gửi nhật ký chẩn đoán</string>
 	<string name="password_toggle_content_description">Hiển thị mật khẩu</string>
+	<string name="fmt_time_minute">"m'phút'"</string>
 </resources>

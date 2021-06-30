@@ -1687,4 +1687,9 @@ Gia nhập cùng 170 triệu Mi Fan!"</string>
 	<string name="entry_storage_cloned_app">Ứng dụng kép</string>
 	<string name="category_exit_editor_mode">Thoát</string>
 	<string name="entry_storage_usb">Bộ lưu trữ USB</string>
+	<string name="next">Tiếp theo</string>
+	<string name="app_all_purpose_pad">Chào mừng bạn đến với Tập tin. Bạn có thể sử dụng ứng dụng này để quản lý các tập tin trong điện thoại của bạn.</string>
+	<string name="fmt_time_minute">"m'phút'"</string>
+	<string name="enter">↓</string>
+	<string name="start_all">Xem tất cả</string>
 </resources>

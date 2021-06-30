@@ -390,4 +390,5 @@
 	<string name="dock_tip_splitscreen_portrait_drag">Kéo thanh theo chiều dọc để chuyển vị trí của hai cửa sổ ứng dụng.</string>
 	<string name="application_cannot_open_au_pay">Cài đặt au PAY trước</string>
 	<string name="relaunch_dialog_message">"Không thể điều chỉnh kích thước cửa sổ khi bạn đang sử dụng ứng dụng. Bạn có thể khởi chạy lại ứng dụng để điều chỉnh kích thước cửa sổ, nhưng dữ liệu ứng dụng sinh ra trong phiên này sẽ mất. Vẫn khởi chạy lại?"</string>
+	<string name="small_freeform_enter_warning">Chế độ lái xe MIUI</string>
 </resources>

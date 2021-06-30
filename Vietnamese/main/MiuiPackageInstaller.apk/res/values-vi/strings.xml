@@ -640,4 +640,6 @@ Ngoài ra, bạn có thể tắt Chế độ đơn giản và thử lại."</str
 	<string name="fmt_time_12hour_minute_second_pm">h:mm:ss a</string>
 	<string name="fmt_weekday_date_timezone">W, D z</string>
 	<string name="fmt_time_12hour_minute_pm">h:mm a</string>
+	<string name="untrusted_external_source_warning_summary_tablet">Thiết bị và dữ liệu cá nhân của bạn dễ bị tấn công bởi ứng dụng được cài đặt từ những nguồn không xác định. Bằng cách chấp nhận cài đặt ứng dụng từ nguồn này, bạn đồng ý chịu trách nhiệm cho bất kỳ thiệt hại hoặc mất mát dữ liệu nào có thể gây ra bởi ứng dụng này.</string>
+	<string name="install_confirm_question_des_10_tablet">"Nếu bạn sẵn sàng chấp nhận rủi ro và muốn tiếp tục cài đặt, hãy cho phép cài đặt trong Bảo mật &gt; Quản lý ứng dụng &gt; Quyền &gt; Ứng dụng có thể có rủi ro. Nếu bạn không thể thấy \"Ứng dụng có thể có rủi ro\", cập nhật ứng dụng Bảo mật của bạn và thử lại."</string>
 </resources>

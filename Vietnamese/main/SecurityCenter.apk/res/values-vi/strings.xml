@@ -5362,4 +5362,6 @@ Ghi lại các trình tự và sử dụng chúng bất cứ lúc nào!"</string
 	<string name="confirm_open_shut_down_password_title">Đặt mật khẩu</string>
 	<string name="app_settings_link">Cài đặt bổ sung trong ứng dụng</string>
 	<string name="scan_open_shut_down_password_title">Xác nhận tắt máy</string>
+	<string name="pc_hidemode_normal_title">Cân bằng</string>
+	<string name="gtb_brightness_dialog_right_btn">Tiếp tục mở</string>
 </resources>
