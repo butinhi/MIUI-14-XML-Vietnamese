@@ -3148,4 +3148,5 @@ Bạn sẽ được thông báo khi có thể sử dụng lại cổng USB."</st
     <string name="fingerprint_not_identified_msg_pattern">Xác thực vân tay đã đạt số lần thất bại tối đa, vui lòng thử lại hoặc vẽ mẫu hình để thực hiện</string>
     <string name="fingerprint_again_identified_msg_password">Tính năng vân tay đã được khôi phục. Có thể sử dụng vân tay hoặc mật khẩu phức tạp để mở khóa</string>
     <string name="fingerprint_again_identified_msg_pin">Tính năng vân tay đã được khôi phục và có thể mở khóa bằng vân tay hoặc mật khẩu kỹ thuật số</string>
+    <string name="keyguard_invalid_sim_puk_hint">Mã PUK phải chứa %1$d chữ số.</string>
 </resources>

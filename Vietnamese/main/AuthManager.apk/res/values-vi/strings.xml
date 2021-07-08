@@ -765,4 +765,8 @@ Bạn cần phải cài đặt phiên bản MIUI của nhà phát triển để 
 	<string name="cetus_invisible_mode_notice_camera">"Bạn đang ẩn danh. Không thể sử dụng máy ảnh."</string>
 	<string name="close">Đóng</string>
 	<string name="send">Gửi</string>
+    <string name="HIPS_Perm_operator_get_phonenumbner">Truy cập số điện thoại để đăng nhập</string>
+    <string name="HIPS_Perm_operator_get_phonenumbner_Hint">"Nếu bây giờ bạn không thể đăng nhập bằng một lần nhấn, hãy quay lại trang đăng nhập và thử lại."</string>
+    <string name="HIPS_Perm_operator_get_phonenumbner_Desc">Xin số điện thoại từ nhà cung cấp dịch vụ để đăng nhập</string>
+    <string name="HIPS_Perm_operator_get_phonenumbner_Message">Ứng dụng này muốn lấy số điện thoại của bạn từ nhà cung cấp dịch vụ để đăng nhập. Cho phép?</string>
 </resources>

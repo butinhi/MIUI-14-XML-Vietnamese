@@ -1313,4 +1313,6 @@
 	<string name="fmt_time_24hour">"HH 'giờ'"</string>
 	<string name="fmt_time_minute">"m'phút'"</string>
 	<string name="fmt_time_12hour">"h 'giờ'"</string>
+    <string name="fmt_time_minute_second">"m 'phút' s 'giây'"</string>
+    <string name="fmt_time_second_millis">"s.S 'giây'"</string>
 </resources>

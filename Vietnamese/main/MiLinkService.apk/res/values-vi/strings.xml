@@ -563,4 +563,10 @@ Nếu cả hai thiết bị không thể kết nối tới cùng một mạng, b
 	<string name="debug_mode_merge_support">Hỗ trợ ứng dụng thấp nhất</string>
 	<string name="dialog_scanning_precondition_new_global">Bật Wi-Fi, Bluetooth, và dịch vụ vị trí để có thể truyền. Bật ngay??</string>
 	<string name="dialog_location_permission_title">Yêu cầu quyền</string>
+	<string name="mipaly_server_exit_touping">Vui lòng thoát khỏi màn hình hiện tại trước tiên</string>
+	<string name="file_read_des">Để hiển thị ảnh và các tệp khác trên màn hình bên ngoài</string>
+	<string name="p2p_location_des">Để kết nối thiết bị di động của bạn với màn hình bên ngoài</string>
+	<string name="audio_record_des">Để truyền âm thanh từ thiết bị di động của bạn sang màn hình bên ngoài</string>
+	<string name="notify">Truyền đang hoạt động trong nền</string>
+	<string name="dialog_location_permission_message">Ứng dụng này cần truy cập vào vị trí của bạn để có thể tìm thấy các màn hình bên ngoài gần đó. Chọn \"Luôn cho phép\" khi cấp quyền này để tránh các lỗi có thể xảy ra.</string>
 </resources>

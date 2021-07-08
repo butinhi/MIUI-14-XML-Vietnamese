@@ -1036,4 +1036,10 @@ Dữ liệu chưa được nhập phải được nhập lại."</string>
 	<string name="fmt_time_12hour_minute_second_pm">h:mm:ss a</string>
 	<string name="fmt_weekday_date_timezone">W, D z</string>
 	<string name="fmt_time_12hour_minute_pm">h:mm a</string>
+	<string name="enable_local_backup_tips">Bật tính năng này để có thể lưu bản sao lưu trên thiết bị và sao chép vào máy tính hoặc thiết bị lưu trữ. Bật ngay?</string>
+    <string name="disable_local_backup_tips">"Sau khi bạn tắt tính năng này, tất cả các bản sao lưu cục bộ sẽ bị xóa. Cài đặt sao lưu sẽ bị xóa và các mục sẽ không được sao lưu tự động nữa. Bạn sẽ vẫn có thể sử dụng thiết bị của mình như bình thường. Vẫn tắt?"</string>
+    <string name="enable_local_backup_and_restore">Bật sao lưu cục bộ</string>
+    <string name="disable_local_backup_and_restore">Tắt sao lưu cục bộ</string>
+    <string name="disable_local_backup">Tắt sao lưu cục bộ</string>
+    <string name="enable_local_backup">Bật sao lưu cục bộ</string>
 </resources>

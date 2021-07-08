@@ -1076,4 +1076,10 @@ Lưu ý rằng ứng dụng này cần kết nối với mạng và yêu cầu c
 	<string name="dialog_privacy_disagree_msg">Bằng cách tắt công tắc, bạn rút lại sự đồng ý của mình đối với Chính sách Riêng tư của Máy tính. Chúng tôi sẽ ngừng thu thập thông tin cá nhân của bạn. Thông tin cá nhân đã được thu thập và lưu giữ sẽ bị xóa trong khoảng thời gian cụ thể theo yêu cầu của luật hiện hành. Máy tính cần thu thập thông tin cá nhân cần thiết để cung cấp cho bạn các dịch vụ cơ bản. Việc bạn rút lại sự đồng ý đối với Chính sách bảo mật của nó sẽ được coi là từ chối chấp nhận các dịch vụ của nó dựa trên thông tin cá nhân được thu thập.</string>
 	<string name="privacy_revoke_error">"Không thể thu hồi quyền. Hãy thử lại."</string>
 	<string name="privacy_revoke_progress">Đang thu hồi…</string>
+    <string name="label_investment_disclaimer">Chúng tôi đang sử dụng khoảng thời gian kép ba tháng để tính toán định kỳ</string>
+    <string name="xiaomi_calculator_delete_description">"Máy tính là một ứng dụng hệ thống. Bạn sẽ không thể sử dụng nhiều trình chuyển đổi và các tính năng bổ sung sau khi gỡ cài đặt ứng dụng."</string>
+    <string name="xiaomi_calculator_remove_icon_description">"Máy tính là một ứng dụng hệ thống. Bạn sẽ không thể sử dụng nhiều trình chuyển đổi và các tính năng bổ sung sau khi xóa lối tắt Màn hình chính."</string>
+    <string name="xiaomi_calculator_delete_title">Gỡ cài đặt Máy tính?</string>
+    <string name="xiaomi_calculator_remove_icon_title">Xóa \"Máy tính\" khỏi Màn hình chính?</string>
+    <string name="label_monthly_investment">Đầu tư hàng tháng</string>
 </resources>

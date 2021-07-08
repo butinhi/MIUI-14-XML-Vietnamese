@@ -87,4 +87,5 @@
 	<string name="play_speed_explain">Điều chỉnh hệ số tốc độ chạy</string>
 	<string name="gb_game_macro_action_delay_desc">Đặt độ trễ cho hành động</string>
 	<string name="brvah_load_end">Không có thêm dữ liệu</string>
+	<string name="gb_macro_floatview_noti">Vui lòng cho phép MiMacro hiển thị trên ứng dụng khác</string>
 </resources>

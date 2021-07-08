@@ -4,4 +4,6 @@
 	<string name="disagree">Không đồng ý</string>
 	<string name="agree">Đồng ý</string>
 	<string name="setting">Cài đặt</string>
+	<string name="open_maintenance_mode">Bật</string>
+	<string name="open">Bật</string>
 </resources>

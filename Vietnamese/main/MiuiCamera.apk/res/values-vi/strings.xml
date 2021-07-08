@@ -2438,4 +2438,14 @@ Sau khi bật chức năng "ghi nhiều camera", máy ảnh của điện thoạ
     <string name="scan_install_prompt_message">Cài Máy quét và thử lại.</string>
     <string name="time_freeze_action_start_tip">Nhấn nút để đóng băng hình nền</string>
     <string name="dolly_zoom_capture_tip6">Di chuyển đối tượng của bạn ra giữa khung hình</string>
+	<string name="fmt_time_minute_second_millis">"m'phút' s.S'giây'"</string>
+	<string name="invisible_mode_dialog_to_close">Cài đặt</string>
+	<string name="fmt_time_24hour">"HH 'giờ'"</string>
+	<string name="invisible_mode_dialog_cancel">Hủy</string>
+	<string name="fmt_time_minute">"m'phút'"</string>
+	<string name="beauty_lens">Ống kính</string>
+	<string name="fmt_time_12hour">"h 'giờ'"</string>
+	<string name="beauty_lens_none">Không</string>
+    <string name="invisible_mode_dialog_summary">"Không thể sử dụng máy ảnh. Tắt chế độ Ẩn danh trong Cài đặt để có thể sử dụng máy ảnh."</string>
+    <string name="invisible_mode_dialog_title">"Bạn đang ẩn danh"</string>
 </resources>

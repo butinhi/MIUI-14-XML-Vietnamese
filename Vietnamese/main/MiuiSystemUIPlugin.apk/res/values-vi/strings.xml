@@ -464,4 +464,8 @@ Việc nghe ở mức âm lượng cao trong thời gian dài có thể gây t�
 	<string name="mtrl_picker_text_input_date_range_end_hint">Ngày kết thúc</string>
 	<string name="mtrl_picker_date_header_unselected">Ngày đã chọn</string>
 	<string name="mtrl_picker_invalid_format_example">Ví dụ: %1$s</string>
+	<string name="miui_toast_zen_to_dnd_T">Thông báo sẽ được im lặng</string>
+	<string name="kddi_miui_toast_zen_to_standard">Đã chuyển sang Chế độ im lặng. Cuộc gọi và thông báo sẽ được im lặng ngay.</string>
+	<string name="miui_toast_zen_dnd_to_off_T">Thông báo không còn được im lặng</string>
+	<string name="kddi_miui_toast_zen_standard_to_off">"Chế độ im lặng đã tắt. Cuộc gọi và thông báo sẽ không được im lặng."</string>
 </resources>

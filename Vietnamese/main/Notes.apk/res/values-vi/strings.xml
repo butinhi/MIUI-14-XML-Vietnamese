@@ -933,4 +933,9 @@ Cho phép Ghi chú ghi âm."</string>
     <string name="menu_add_handwrite_description">Thêm ghi chú viết tay</string>
     <string name="handwrite_description">Ghi chú viết tay</string>
     <string name="data_empty_folder">Không có thêm thư mục để hiển thị</string>
+	<string name="webview_reload">Thử lại</string>
+	<string name="web_sso_login_fail">Bạn cần đăng nhập lại</string>
+	<string name="hybrid_provider">Cung cấp bởi %1$s</string>
+	<string name="no_network">Không thể kết nối mạng</string>
+	<string name="web_sso_login_message">Đang đăng nhập…</string>
 </resources>

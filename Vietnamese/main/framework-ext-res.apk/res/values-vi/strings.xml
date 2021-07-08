@@ -394,4 +394,12 @@
 	<string name="small_freeform_memory_toast_game_type">"Không thể mở ngay bây giờ. Trò chơi này yêu cầu quá nhiều bộ nhớ để có thể hoạt động."</string>
 	<string name="small_freeform_memory_toast_app_type">"Không thể mở ngay bây giờ. Ứng dụng này yêu cầu quá nhiều bộ nhớ để có thể hoạt động."</string>
 	<string name="small_freeform_exit_tip">Đóng cửa sổ nổi</string>
+	<string name="screen_on_proximity_sensor_hint_has_navigation_bar_for_kddi">Để tắt tính năng này, bấm nút Tăng âm lượng.</string>
+	<string name="keyboard_identity_reject_confirm">Tôi biết</string>
+	<string name="screen_on_proximity_sensor_summary_for_kddi">"Đừng che cảm biến ánh sáng"</string>
+	<string name="keyboard_upgrade_success">Cập nhật bàn phím thành công</string>
+	<string name="keyboard_identity_reject_message">"Dường như bàn phím của bạn không tương thích với thiết bị này."</string>
+	<string name="keyboard_upgrade_failed">"Không thể cập nhật bàn phím"</string>
+	<string name="keyboard_identity_transfer_error_message">"Không thể kết nối bàn phím. Thử lại."</string>
+	<string name="keyboard_upgrade_start">Đang cập nhật bàn phím…</string>
 </resources>

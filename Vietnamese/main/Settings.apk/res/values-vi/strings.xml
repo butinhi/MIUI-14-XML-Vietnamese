@@ -11777,4 +11777,25 @@ Sao chép tệp tin sao lưu vào thiết bị của bạn (MIUI-backup-AllBacku
     <string name="kddi_nfc_quick_toggle_summary">Bật tính năng NFC/Osaifu-keitai</string>
     <string name="gxzw_anim_unlock_effect">%s hiệu ứng vân tay</string>
     <string name="kddi_nfc_disabled_summary">Không khả dụng vì NFC/Osaifu-keitai đã tắt</string>
+	<string name="voip_assistant_settings_off">TẮT</string>
+	<string name="voip_assistant_settings_on">BẬT</string>
+    <string name="voip_assistant_settings_summary">Ghi lại các cuộc gọi VoIP và sử dụng tính năng tối ưu hóa giọng nói</string>
+	<string name="enable_local_backup_title">Sao lưu trên máy</string>
+	<string name="enable_local_backup_cancel">Hủy</string>
+	<string name="enable_local_backup">Bật</string>
+    <string name="micloud_service_summary_temp">Đồng bộ ảnh, video, liên hệ và nhiều hơn nữa</string>
+    <string name="enable_local_backup_message">Bật tính năng này để có thể lưu bản sao lưu trên thiết bị và sao chép vào máy tính hoặc thiết bị lưu trữ. Bật ngay?</string>
+    <string name="local_backup_usestatus_title">Sao lưu trên máy đang tắt</string>
+    <string name="login_account_summary_temp">Quản lý tài khoản, dịch vụ đám mây và nhiều hơn nữa</string>
+	<string name="stylus_ota_updating">Cập nhật</string>
+	<string name="stylus_ota_model">Tên đời máy</string>
+	<string name="stylus_ota_latest">Phiên bản mới nhất</string>
+	<string name="stylus_ota_serial_number">Số sê-ri</string>
+	<string name="stylus_ota_new_version">Phiên bản mới</string>
+	<string name="stylus_ota_update">Cập nhật</string>
+	<string name="stylus_ota_hardware_version">Phiên bản phần cứng</string>
+    <string name="stylus_ota_check_update">Kiểm tra và cập nhật</string>
+    <string name="stylus_ota_firmware_update">Cập nhật firmware</string>
+    <string name="stylus_ota_downloading_firmware">Đang tải firmware</string>
+    <string name="stylus_ota_current_firmware_version">Phiên bản firmware hiện tại</string>
 </resources>

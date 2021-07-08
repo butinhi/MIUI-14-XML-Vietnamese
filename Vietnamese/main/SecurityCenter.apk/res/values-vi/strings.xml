@@ -5377,4 +5377,22 @@ Ghi lại các trình tự và sử dụng chúng bất cứ lúc nào!"</string
     <string name="gtb_setting_item_title_brightness">Tự động giảm độ sáng màn hình</string>
     <string name="app_behavior_desc_allowed_on_background_at">Đã cho phép dưới nền lúc %s</string>
     <string name="first_aid_exception_sub_title">Các mục này sẽ bị bỏ qua khi quét</string>
+	<string name="pp_privacy_lab_operator_introduction">Chú ý</string>
+    <string name="pp_manage_track">Giám sát trình theo dõi</string>
+    <string name="pp_block_mac_summary">Mặc định hạn chế tất cả các ứng dụng truy cập địa chỉ MAC của bạn.</string>
+    <string name="pp_virtual_identity_summary">ID ảo (OAID) có thể được cung cấp cho ứng dụng thay vì định danh thực của bạn. Nó bảo vệ sự riêng tư của bạn và cho phép bạn kiểm soát cách ứng dụng theo dõi hành vi của bạn.</string>
+    <string name="pc_performance_mode_noti_summary">Chế độ hiệu năng cao có thể tăng mức tiêu thụ điện và dẫn tới vấn đề quá nhiệt</string>
+    <string name="pp_anti_track_summary">"Không cho phép theo dõi hoạt động của bạn"</string>
+    <string name="pc_performance_mode_dialog_summary2">Hiệu năng thiết bị sẽ được cải thiện. Có thể tăng mức tiêu thụ điện và dẫn tới vấn đề quá nhiệt. Vẫn bật?</string>
+    <string name="pp_operator_get_number_summary">Ứng dụng sẽ hỏi quyền của bạn khi chúng muốn truy cập số điện thoại của bạn để đăng nhập.</string>
+    <string name="pp_privacy_lab_operator_get_number">Cần sự cho phép để truy cập số điện thoại</string>
+    <string name="pc_performance_mode_noti_title">Cải thiện hiệu năng thiết bị</string>
+    <string name="pp_antitrack_detail">Ứng dụng có thể theo dõi bạn qua định danh cá nhân, thông tin vị trí và các loại thông tin cá nhân khác được chia sẻ với chúng. Theo dõi hoạt động của bạn trên ứng dụng và web để chúng có thể cá nhân hóa quảng cáo và gợi ý dành cho bạn.</string>
+    <string name="pp_privacy_lab_operator_introduction_summary">"Ứng dụng có thể lưu lại số điện thoại của bạn nếu nó đã được cấp trước đó. Thay đổi quyền này không xóa số điện thoại đã được cấp trước đó."</string>
+    <string name="applock_numeric_pwd_type_line">Tổng số chữ số trong mật khẩu: %1$d. Số chữ số đã nhập: %2$d.</string>
+    <string name="pp_block_mac">Hạn chế truy cập địa chỉ MAC</string>
+    <string name="pp_manage_track_summary">Phát hiện và vô hiệu hóa các loại trình theo dõi khác nhau được nhúng trong ứng dụng. Những trình theo dõi như vậy có thể chia sẻ số nhận dạng cá nhân của bạn bằng cách truy cập và lưu các mục vào bộ nhớ trong hoặc sử dụng SDK được chia sẻ để theo dõi hoạt động của bạn.</string>
+    <string name="pp_privacy_lab_operator_get_number_summary">Yêu cầu các ứng dụng yêu cầu sự cho phép của bạn khi chúng muốn truy cập vào số điện thoại của bạn để đăng nhập</string>
+    <string name="pp_operator_get_number">Yêu cầu phê duyệt để truy cập số điện thoại</string>
+    <string name="pp_identifier_protection">Bảo vệ định danh cá nhân</string>
 </resources>
