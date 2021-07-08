@@ -11798,4 +11798,6 @@ Sao chép tệp tin sao lưu vào thiết bị của bạn (MIUI-backup-AllBacku
     <string name="stylus_ota_firmware_update">Cập nhật firmware</string>
     <string name="stylus_ota_downloading_firmware">Đang tải firmware</string>
     <string name="stylus_ota_current_firmware_version">Phiên bản firmware hiện tại</string>
+	<string name="sos_privacy_policy">Chính sách Riêng tư</string>
+    <string name="nfc_dnd_mode_summary">Phản hồi thẻ NFC với lượng giới hạn thẻ NDEF</string>
 </resources>

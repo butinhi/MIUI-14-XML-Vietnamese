@@ -294,4 +294,9 @@ Tiết kiệm pin sẽ xử lý ứng dụng quan trọng một cách có chọn
 	<string name="delete_data_confirm">Xác nhận xóa dữ liệu này</string>
     <string name="stricter_high_temp_state_message">"Thiết bị của bạn quá nóng, bạn không thể sử dụng các ứng dụng khác ngoài quay số và danh bạ"</string>
     <string name="kill_pkg_toast_message">Thiết bị của bạn quá nóng và ứng dụng sẽ bị thoát</string>
+	<string name="high_temp_benchmark_state">Nhiệt độ cao</string>
+    <string name="softbank_high_temp_toast_time_4min">Tắt đèn flash để tránh quá nóng</string>
+    <string name="softbank_high_temp_toast_time_10min">Tắt đèn pin để tránh quá nóng</string>
+    <string name="high_temp_benchmark_state_message">Thiết bị của bạn quá nóng. vui lòng thử lại sau khi thiết bị mát hơn:</string>
+    <string name="sleep_config_enhance_description_pad">"Bất cứ khi nào MIUI phát hiện bạn đang ngủ, nó sẽ đóng các ứng dụng nền, hạn chế sử dụng Bluetooth và Wi-Fi và sẽ không sáng màn hình để nhận thông báo."</string>
 </resources>

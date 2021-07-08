@@ -461,4 +461,15 @@ Nhập số điện thoại đã được liên kết với thẻ SIM mới đ�
 	<string name="fmt_time_12hour_pm">ha</string>
 	<string name="fmt_time_12hour_minute_second_pm">h:mm:ss a</string>
 	<string name="fmt_time_12hour_minute_pm">h:mm a</string>
+	<string name="activate_popup_desc_find_device_postfix_msg_one_sim">%1$s. Để kích hoạt \"%2$s\", nhập số điện thoại của bạn. Nếu bạn đổi thẻ SIM, SMS kích hoạt khác sẽ được gửi.</string>
+	<string name="error_sim_not_in_service_tip_one_sim">"Không thể kết nối mạng. Đảm bảo thẻ SIM của bạn hoạt động bình thường và thử lại."</string>
+	<string name="activate_popup_failed_send_sms_desc_one_sim">"Không thể gửi SMS kích hoạt. Đảm bảo thẻ SIM của bạn hoạt động bình thường và thử lại."</string>
+	<string name="activate_status_desc_request_activation_sms_server_error_tip_one_sim">"Không thể nhận SMS kích hoạt. Đảm bảo thẻ SIM của bạn hoạt động bình thường và thử lại."</string>
+	<string name="activate_popup_desc_voip_privacy_prefix_msg_one_sim">%1$s. Để kích hoạt \"%2$s\", nhập số điện thoại của bạn. Hỗ trợ kỹ thuật được cung cấp một phần bởi Weihuitel. Tham khảo Chính sách Riêng tư của Weihuitel để biết thêm chi tiết.</string>
+	<string name="sim_activate_failed">"Không thể kích hoạt dịch vụ"</string>
+	<string name="error_no_get_send_sms_permission_one_sim">Cho phép gửi SMS trước.</string>
+	<string name="activate_status_desc_acquire_phone_number_server_no_info_tip_one_sim">"Không thể xác thực số điện thoại. Đảm bảo thẻ SIM của bạn hoạt động bình thường và thử lại."</string>
+	<string name="activate_popup_desc_sim_card_downlink_msg_one_sim">Để kích hoạt %s, nhập số điện thoại của bạn.</string>
+	<string name="activate_popup_desc_failed_query_info_msg_one_sim">"Không thể kiểm tra số điện thoại. Đảm bảo thẻ SIM của bạn hoạt động bình thường và thử lại."</string>
+	<string name="sim_activate_prepare">Dịch vụ kích hoạt</string>
 </resources>

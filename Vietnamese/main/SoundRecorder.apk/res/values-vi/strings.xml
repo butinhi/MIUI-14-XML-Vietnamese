@@ -688,4 +688,6 @@
 	<string name="no_playback_file">Chọn một bản ghi âm để xem chi tiết</string>
 	<string name="delete_recorder">Xóa</string>
 	<string name="play_speed">Tốc độ phát</string>
+    <string name="notification_recording_ticker_for_pad">Thiết bị của bạn hiện đang ghi âm thanh ở chế độ Im lặng. Sử dụng các nút âm lượng để tắt chế độ Im lặng.</string>
+    <string name="low_battery_error_for_pad">"Còn dưới %s pin. Dừng và lưu bản ghi của bạn để đảm bảo rằng nó không bị mất."</string>
 </resources>

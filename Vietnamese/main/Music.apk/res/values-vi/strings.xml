@@ -1991,4 +1991,5 @@ Nếu bạn không đồng ý sử dụng các dịch vụ nói trên, bạn s�
 	<string name="icon_content_description">Biểu tượng hộp thoại</string>
     <string name="columbus_player_speed_video">Bỏ qua VIDEO</string>
     <string name="columbus_player_speed_title">Bỏ qua Video?</string>
+    <string name="privacy_request_subtitle_offline">Chào mừng tới Nhạc! Ứng dụng này cung cấp trình phát cục bộ cho tệp âm thanh.</string>
 </resources>

@@ -458,4 +458,5 @@ Báo cáo vấn đề này &gt;"</string>
 	<string name="float_notification_snooze_strategy">Tạm ẩn</string>
 	<string name="miui_snooze_until_unlock_screen">Cho đến khi khóa</string>
 	<string name="miui_snooze_default_time">Trong %d phút</string>
+	<string name="fmt_time_minute">"m'phút'"</string>
 </resources>

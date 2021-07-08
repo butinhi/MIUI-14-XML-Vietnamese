@@ -417,4 +417,7 @@
 Chạm để xem"</string>
 	<string name="app_notification_channel_record_complete">Thông báo khi quay xong</string>
 	<string name="view_recorded_file">Chạm để xem tệp đã ghi</string>
+	<string name="view_recorded_videos">Xem bản ghi</string>
+	<string name="low_memory_for_pad">Bạn còn ít hơn %1$d GB dung lượng lưu trữ khả dụng. Bạn có thể ghi lên đến %2$d phút.</string>
+	<string name="low_battery_for_pad">Sạc thiết bị của bạn trước khi bắt đầu ghi</string>
 </resources>

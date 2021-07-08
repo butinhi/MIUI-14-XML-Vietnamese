@@ -1038,4 +1038,7 @@ Hãy chắc chắn bạn nhớ tất cả câu trả lời."</string>
 	<string name="fmt_time_24hour">"HH 'giờ'"</string>
 	<string name="fmt_time_minute">"m'phút'"</string>
 	<string name="fmt_time_12hour">"h 'giờ'"</string>
+    <string name="operator_unicom_agreement">Dịch vụ xác thực cung cấp bởi China Unicom</string>
+    <string name="operator_mobile_agreement">Dịch vụ xác thực cung cấp bởi China Mobile</string>
+    <string name="operator_telecom_agreement">Dịch vụ xác thực cung cấp bởi eSurfing account</string>
 </resources>

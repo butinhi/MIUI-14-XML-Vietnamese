@@ -1103,4 +1103,8 @@ Bất kỳ người dùng nào cũng có thể thay mặt cho tất cả ngườ
 	<string name="time_picker_dialog_title">Đặt thời gian</string>
 	<string name="date_time_picker_dialog_title">Đặt ngày và giờ</string>
 	<string name="message_no_voice_capability">"Không thể gọi điện trên thiết bị này"</string>
+    <string name="test_account_1_short_description">Tài khoản với Market Wireless</string>
+    <string name="test_account_2_short_description">Talk to everyone in your Circles!</string>
+    <string name="test_account_3_short_description">Trò chuyện với người dùng Mạng Trò chuyện</string>
+    <string name="test_account_0_short_description">Tài khoản với Q Mobile</string>
 </resources>

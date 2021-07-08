@@ -397,4 +397,5 @@ Mawrth Vallis"</string>
 	<string name="weather_summary">Thông tin thời tiết địa phương</string>
 	<string name="snowmountain_title">Đỉnh núi tuyết</string>
 	<string name="xiaomi_market_sdk_update_dialog_title">Có cập nhật mới khả dụng</string>
+	<string name="download_button">Nút tải xuống</string>
 </resources>

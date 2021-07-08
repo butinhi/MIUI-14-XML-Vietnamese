@@ -1888,7 +1888,7 @@ Kích thước cập nhật Delta: %2$s"</string>
 	<string name="vo_comment_text">Nhận xét</string>
 	<string name="vo_feedback_sub_quality">Tiêu đề đảng, thô tục, vv</string>
 	<string formatted="false" name="vo_source_comment">%s · %s bình luận</string>
-	<string formatted="false" name="vo_vote_right">%d$% chống đảng</string>
+	<string formatted="false" name="vo_vote_right">%d$% chống lại</string>
 	<string name="ad_view">Tiếp xúc</string>
 	<string name="vo_info_flow_load_more_error">Mạng không mạnh, vui lòng kiểm tra trạng thái mạng ~</string>
 	<string name="vo_choose_activity_positive">Chọn thành phố</string>

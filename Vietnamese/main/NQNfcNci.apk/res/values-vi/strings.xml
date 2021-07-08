@@ -74,4 +74,14 @@ Bạn có muốn bật cho Dịch vụ NFC"</string>
 	<string name="abc_searchview_description_clear">Xóa truy vấn</string>
 	<string name="nfc_blocking_alert_message">Chạm để biết cách sửa.</string>
 	<string name="nfc_blocking_alert_title">NFC có thể bị chặn</string>
+	<string name="action_open">Mở</string>
+	<string name="title_connect_network">Kết nối mạng</string>
+	<string name="action_dial_number">Quay số</string>
+	<string name="action_connect_network">Kết nối</string>
+	<string name="action_sms">Gửi</string>
+	<string name="action_create_contact">Tạo</string>
+	<string name="action_bluetooth_pair">GHÉP NỐI</string>
+	<string name="title_create_contact">Tạo liên hệ</string>
+	<string name="action_enable_dnd">Không làm phiền</string>
+	<string name="action_keep_rw">Hủy</string>
 </resources>
