@@ -11800,4 +11800,7 @@ Sao chép tệp tin sao lưu vào thiết bị của bạn (MIUI-backup-AllBacku
     <string name="stylus_ota_current_firmware_version">Phiên bản firmware hiện tại</string>
 	<string name="sos_privacy_policy">Chính sách Riêng tư</string>
     <string name="nfc_dnd_mode_summary">Phản hồi thẻ NFC với lượng giới hạn thẻ NDEF</string>
+    <string name="unlock_sound_effect_enable_title">Phát âm thanh khi mở khóa thiết bị</string>
+    <string name="app_uninstall_sounds_enable_title">Phát âm thanh khi gỡ cài đặt ứng dụng</string>
+    <string name="lock_sound_effect_enable_title">Phát âm thanh khi khóa thiết bị</string>
 </resources>

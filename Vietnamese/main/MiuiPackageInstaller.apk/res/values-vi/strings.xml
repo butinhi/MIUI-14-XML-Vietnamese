@@ -642,4 +642,8 @@ Ngoài ra, bạn có thể tắt Chế độ đơn giản và thử lại."</str
 	<string name="fmt_time_12hour_minute_pm">h:mm a</string>
 	<string name="untrusted_external_source_warning_summary_tablet">Thiết bị và dữ liệu cá nhân của bạn dễ bị tấn công bởi ứng dụng được cài đặt từ những nguồn không xác định. Bằng cách chấp nhận cài đặt ứng dụng từ nguồn này, bạn đồng ý chịu trách nhiệm cho bất kỳ thiệt hại hoặc mất mát dữ liệu nào có thể gây ra bởi ứng dụng này.</string>
 	<string name="install_confirm_question_des_10_tablet">"Nếu bạn sẵn sàng chấp nhận rủi ro và muốn tiếp tục cài đặt, hãy cho phép cài đặt trong Bảo mật &gt; Quản lý ứng dụng &gt; Quyền &gt; Ứng dụng có thể có rủi ro. Nếu bạn không thể thấy \"Ứng dụng có thể có rủi ro\", cập nhật ứng dụng Bảo mật của bạn và thử lại."</string>
+	<string name="install_failed_incompatible_tablet">"Ứng dụng này không tương thích với thiết bị của bạn."</string>
+	<string name="anonymous_source_warning_tablet">Thiết bị và dữ liệu cá nhân của bạn dễ bị các ứng dụng không xác định tấn công hơn. Bằng cách cài đặt ứng dụng này, bạn đồng ý rằng bạn chịu trách nhiệm cho bất kỳ thiệt hại nào đối với thiết bị của mình hoặc mất mát dữ liệu có thể do việc sử dụng nó.</string>
+	<string name="install_failed_msg_tablet">"%1$s không thể cài đặt trên thiết bị của bạn."</string>
+	<string name="settings_warning_dialog_msg_tablet">"Thiết bị của bạn dễ gặp rủi ro về bảo mật. Bạn sẽ không được nhắc cài đặt các phiên bản ứng dụng an toàn nếu bạn tắt tính năng này. Vẫn tắt?"</string>
 </resources>

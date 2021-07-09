@@ -57,4 +57,8 @@
 		<item>Trang web</item>
 		<item>Mint Game</item>
 	</string-array>
+	<string-array name="setting_swipe_up_target">
+		<item>Tìm kiếm</item>
+		<item>Tin tức</item>
+	</string-array>
 </resources>

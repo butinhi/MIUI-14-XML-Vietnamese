@@ -2448,4 +2448,6 @@ Sau khi bật chức năng "ghi nhiều camera", máy ảnh của điện thoạ
 	<string name="beauty_lens_none">Không</string>
     <string name="invisible_mode_dialog_summary">"Không thể sử dụng máy ảnh. Tắt chế độ Ẩn danh trong Cài đặt để có thể sử dụng máy ảnh."</string>
     <string name="invisible_mode_dialog_title">"Bạn đang ẩn danh"</string>
+    <string name="fmt_time_minute_second">"m 'phút' s 'giây'"</string>
+    <string name="fmt_time_second_millis">"s.S 'giây'"</string>
 </resources>

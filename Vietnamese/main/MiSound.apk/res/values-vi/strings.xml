@@ -512,4 +512,20 @@
 	<string name="chinese_symbol_animals_dog">Tuất</string>
 	<string name="pm">CH</string>
 	<string name="the_fifth_day">Mùng 5 Tết Nguyên Đán</string>
+	<string name="headset_use_long_time">"Có vẻ như bạn đã đeo tai nghe lâu hơn khuyến nghị. Tháo chúng ra và tạm dừng."</string>
+	<string name="hearing_assist_volume">"Âm lượng micro"</string>
+	<string name="headset_use_support_noise_reduction">Có vẻ như môi trường hiện tại của bạn rất ồn ào. Sử dụng tính năng khử tiếng ồn để bảo vệ thính giác của bạn.</string>
+	<string name="headset_volume_prompt">Âm lượng tai nghe</string>
+	<string name="hearing_assist_tips_message_one">%d. Tính năng theo dõi trực tiếp tai nghe khả dụng trong Trung tâm điều khiển. Bạn có thể thêm nó vào đó.</string>
+	<string name="hearing_assist_exit_tips_summary">Theo dõi tai nghe trực tiếp hiện đang hoạt động. Tắt?</string>
+	<string name="hearing_assist_bluetooth_headset">Tai nghe Bluetooth</string>
+	<string name="headset_use_loud_volume">Âm lượng tai nghe đã ở mức cao trong một thời gian dài. Để bảo vệ thính giác của bạn, nó đã được hạ xuống mức khuyến nghị.</string>
+	<string name="headset_volume_content">Âm lượng tai nghe hiện tại vượt quá giới hạn được đề xuất. Giảm âm lượng để bảo vệ thính giác của bạn.</string>
+	<string name="hearing_assist_tips_message_two">%d. Tính năng này được hỗ trợ bởi các kiểu tai nghe Bluetooth được chọn.</string>
+	<string name="headset_use_not_support_noise_reduction">Có vẻ như môi trường hiện tại của bạn rất ồn ào. Đeo tai nghe bây giờ có thể ảnh hưởng đến thính giác của bạn.</string>
+	<string name="hearing_assist_exit_tips_title">Tắt theo dõi trực tiếp tai nghe</string>
+	<string name="fmt_time_minute_second">"m'min' s's'"</string>
+	<string name="fmt_weekday_date_timezone">W, D z</string>
+	<string name="fmt_time_second_millis">"s.S's'"</string>
+	<string name="fmt_weekday_timezone">W z</string>
 </resources>

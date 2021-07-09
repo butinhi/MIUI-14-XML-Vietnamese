@@ -84,4 +84,19 @@ Bạn có muốn bật cho Dịch vụ NFC"</string>
 	<string name="title_create_contact">Tạo liên hệ</string>
 	<string name="action_enable_dnd">Không làm phiền</string>
 	<string name="action_keep_rw">Hủy</string>
+	<string name="content_sms">Gửi một tin nhắn qua \"%2$s\" cho \"%1$s\" ngay?</string>
+	<string name="content_create_contact">Tạo liên hệ cho \"%1$s\"?</string>
+	<string name="title_dial_number">Quay số điện thoại</string>
+	<string name="content_connect_network">Kết nối với \"%1$s\" ngay?</string>
+	<string name="content_weblink">Mở \"%1$s\" ngay?</string>
+	<string name="title_sms">Gửi tin nhắn</string>
+	<string name="content_discover_tag">Mở ứng dụng để xử lý thẻ tag?</string>
+	<string name="title_discover_tag">Đã phát hiện thẻ NFC</string>
+	<string name="title_bluetooth_pair">Ghép đôi thiết bị Bluetooth</string>
+	<string name="content_bluetooth_pair">Ghép đôi \"%1$s\" ngay?</string>
+	<string name="content_disable_rw">"Có vẻ như bạn đã không tương tác với các thẻ NFC được phát hiện trong một thời gian dài. Hiện tại, thiết bị của bạn sẽ không đọc hoặc ghi thẻ. Mở khóa thiết bị của bạn sẽ bật lại tính năng này."</string>
+	<string name="content_enable_dnd">"Có vẻ như bạn không tương tác với các thẻ NFC được phát hiện. Chuyển sang DND để ngừng nhận thông báo."</string>
+	<string name="title_weblink">Mở liên kết</string>
+	<string name="action_open_tag">Đọc thẻ tag</string>
+	<string name="content_dial_number">Quay số \"%s\" ngay?</string>
 </resources>

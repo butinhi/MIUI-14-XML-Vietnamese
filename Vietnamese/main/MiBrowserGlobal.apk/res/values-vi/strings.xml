@@ -1986,4 +1986,5 @@ Trang mà bạn xem sẽ không xuất hiện trong lịch sử."</string>
 	<string name="columbus_player_speed_title">Bỏ qua Video?</string>
 	<string name="most_visited_sites">Truy cập nhiều nhất</string>
 	<string name="pref_security_do_not_track">Mặt nạ Riêng tư</string>
+	<string name="action_menu_text_video_download">Tải video</string>
 </resources>

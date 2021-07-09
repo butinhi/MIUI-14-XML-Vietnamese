@@ -682,4 +682,19 @@ Nghỉ ngơi chút đi!"</item>
 	<plurals name="exit_dialog_scan_message_new">
 		<item quantity="other">"Điểm hiệu năng của thiết bị thấp hơn %d. Tối ưu ngay?"</item>
 	</plurals>
+    <plurals name="gtb_brightness_dialog_message">
+        <item quantity="other">Tính năng này tự động giảm độ sáng màn hình sau %d phút không hoạt động để tiết kiệm pin. Vẫn để tính năng này bật?</item>
+    </plurals>
+    <plurals name="app_behavior_desc_duration_usage_time">
+        <item quantity="other">Đã dùng trong %1$d phút</item>
+    </plurals>
+    <plurals name="app_behavior_desc_duration_usage">
+        <item quantity="other">Đã cho phép %3$d lần trong khoảng %1$s và %2$s</item>
+    </plurals>
+    <plurals name="app_behavior_desc_duration_usage_time_end">
+        <item quantity="other">Đã sử dụng %1$d phút đến khi %2$s</item>
+    </plurals>
+    <plurals name="gtb_setting_item_summary_brightness">
+        <item quantity="other">Tự động giảm độ sáng màn hình sau %d phút không hoạt động</item>
+    </plurals>
 </resources>

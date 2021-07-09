@@ -2321,4 +2321,27 @@ Gửi mã này cho người giám sát."</string>
 	<string name="local_video_time">Thời lượng</string>
 	<string name="columbus_player_speed_video">Bỏ qua VIDEO</string>
 	<string name="columbus_player_speed_title">Bỏ qua Video?</string>
+    <string name="video_download_play_video_step1">Bước %1$d</string>
+    <string name="video_download_youtube_copyright_forbidden">"Không thể tải video YouTube vì hạn chế bản quyền"</string>
+    <string name="video_download_play_video_step2">Bước %2$d</string>
+    <string name="lp_video_zoom_fit_screen">Khớp</string>
+    <string name="video_download_title">Tải video</string>
+    <string name="local_video_create_a_new_playlist">Danh sách phát mới</string>
+    <string name="local_video_from_a_to_z">A tới Z</string>
+    <string name="local_video_from_long_to_short">Dài tới ngắn</string>
+    <string name="local_video_from_short_to_long">Ngắn tới dài</string>
+    <string name="video_download_login_guide">Đăng nhập vào %s để có thể tải video</string>
+    <string name="local_video_from_new_to_old">Mới đến cũ</string>
+    <string name="local_video_from_old_to_new">Cũ đến mới</string>
+    <string name="background_playback_enabled">Phát dưới nền đang bật</string>
+    <string name="s_double_tap_play_stop">Chạm hai lần để tạm dừng hoặc tiếp tục</string>
+    <string name="local_video_from_z_to_a">Z tới A</string>
+    <string name="lp_play_mode_shuffle">Phát trộn đang bật</string>
+    <string name="default_upgrade_hint">"Xin chào!
+        Mi Video đã sẵn sàng cập nhật.
+        Cập nhật ứng dụng để sử dụng các tính năng mới!
+        Mi Video Team"</string>
+    <string name="local_video_from_big_to_small">Lớn đến nhỏ</string>
+    <string name="local_video_number_of_selected">Đã chọn %1$d/%2$d</string>
+    <string name="local_video_from_small_to_big">Nhỏ đến lớn</string>
 </resources>
