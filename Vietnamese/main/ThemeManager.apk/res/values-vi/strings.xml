@@ -97,7 +97,6 @@
     <string name="home_apply_failured">Không thể áp dụng hình nền Màn hình chính</string>
     <string name="home_apply_success">Đã áp dụng hình nền Màn hình chính</string>
     <string name="in_the_end">Không còn mục nào nữa</string>
-    <string name="incompatible_dialog_message">Chủ đề này không tương thích với MIUI 9. Một vài thành phần có thể bị hiển thị sai.</string>
     <string name="incompatible_dialog_ok">Tôi biết</string>
     <string name="incompatible_dialog_title">Vấn đề tương thích</string>
     <string name="is_setting_wallpaper_message">Đang cài đặt hình nền…</string>
