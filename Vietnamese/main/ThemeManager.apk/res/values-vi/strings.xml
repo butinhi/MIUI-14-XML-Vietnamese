@@ -1587,4 +1587,5 @@ Bạn sẽ thấy ảnh mới mỗi giờ."</string>
 	<string name="ringtone_confirm_dialog_title">Chú ý</string>
 	<string name="multiwindow_no_support_icon">"Không thể đổi biểu tượng khi sử dụng Chia màn hình"</string>
 	<string name="ringtone_confirm_dialog_message">"Nhạc chuông này quá dài. Vẫn sử dụng?"</string>
+    <string name="incompatible_dialog_message">"Chủ đề này chưa hoàn toàn tương thích với phiên bản MIUI này. Một vài trang có thể hoạt động không chính xác."</string>
 </resources>

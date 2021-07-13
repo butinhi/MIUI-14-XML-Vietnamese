@@ -1575,4 +1575,20 @@ Tắt Chế độ máy bay trước."</string>
 	<string name="miuix_appcompat_select_item">Chọn mục</string>
 	<string name="privacy_revoke_nonetwork_ok">Tôi biết</string>
 	<string name="privacy_revoke_nonetwork_msg">Mạng không mạnh, vui lòng kiểm tra trạng thái mạng ~</string>
+	<string name="cancel">Hủy</string>
+	<string name="fmt_time_minute">"m'phút'"</string>
+	<string name="unable_get_location">"Bạn đang ẩn danh. Không thể sử dụng dịch vụ vị trí."</string>
+	<string name="unable_connect_camera">"Bạn đang ẩn danh. Không thể sử dụng máy ảnh."</string>
+	<string name="unable_use_microphone">"Bạn đang ẩn danh. Không thể sử dụng micro."</string>
+	<string name="invisible_mode_on">"Bạn đang ẩn danh"</string>
+	<string name="go_close">Cài đặt</string>
+    <string name="aim_show_card">Hiển thị thẻ</string>
+    <string name="leave_mms_tips_context_map">Rời khỏi Tin nhắn và mở bản đồ ngay?</string>
+    <string name="leave_mms_tips_context_email">Rời khỏi Tin nhắn và mở ứng dụng email ngay?</string>
+    <string name="leave_mms_tips_context_app_name">Rời khỏi Tin nhắn và mở \"%s\" ngay?</string>
+    <string name="leave_mms_tips_context_app">Rời khỏi Tin nhắn và mở ứng dụng ngay?</string>
+    <string name="pref_summary_switch_aim_card">Hiển thị thông báo có chứa video, hình ảnh và định dạng phức tạp dưới dạng thẻ</string>
+    <string name="pref_title_switch_aim_card">Chuyển đổi tin nhắn sang thẻ</string>
+    <string name="aim_show_original">Hiển thị tin nhắn</string>
+    <string name="leave_mms_tips_context_browser">Rời khỏi Tin nhắn và mở trình duyệt web ngay?</string>
 </resources>

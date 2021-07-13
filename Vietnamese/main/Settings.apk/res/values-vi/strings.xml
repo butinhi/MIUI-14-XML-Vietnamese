@@ -11803,4 +11803,19 @@ Sao chép tệp tin sao lưu vào thiết bị của bạn (MIUI-backup-AllBacku
     <string name="unlock_sound_effect_enable_title">Phát âm thanh khi mở khóa thiết bị</string>
     <string name="app_uninstall_sounds_enable_title">Phát âm thanh khi gỡ cài đặt ứng dụng</string>
     <string name="lock_sound_effect_enable_title">Phát âm thanh khi khóa thiết bị</string>
+	<string name="shoulder_key_settings">Nút ở cạnh</string>
+	<string name="color_game_led_color_title">Màu đèn</string>
+	<string name="color_game_led_feature_on">BẬT</string>
+	<string name="color_game_led_feature_off">TẮT</string>
+	<string name="shoulder_key_switch_status_open">Đã bật</string>
+    <string name="shoulder_key_switch_status_close">Đã đóng</string>
+    <string name="shoulder_key_sound_text_current">Đánh thức tương lai</string>
+    <string name="shoulder_key_sound_switch_title">Hiệu ứng âm thanh nút viền</string>
+    <string name="shoulder_key_sound_settings">Hiệu ứng âm thanh nút viền</string>
+    <string name="shoulder_key_sound_text_wind">Động cơ xe đua</string>
+    <string name="shoulder_key_game_light_settings">Hiệu ứng ánh sáng ngữ cảnh trò chơi</string>
+    <string name="shoulder_key_sound_text_sword">Thanh gươm ánh sáng</string>
+    <string name="shoulder_key_settings_title">Nâng nút viền</string>
+    <string name="shoulder_key_sound_text_bullet">Nạp đạn</string>
+    <string name="color_game_led_freq_title">Tần số nhấp nháy</string>
 </resources>

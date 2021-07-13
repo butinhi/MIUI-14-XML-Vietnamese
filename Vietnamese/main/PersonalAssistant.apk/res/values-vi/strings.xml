@@ -2602,4 +2602,25 @@ Vui lòng gửi mã này cho nhân viên kỹ thuật."</string>
     <string name="app_express_shunfeng_verify_failed">"Không thể xác minh thông tin liên hệ. Kiểm tra xem bốn chữ số cuối của số điện thoại bạn đã nhập có chính xác hay không và thử lại."</string>
     <string name="app_surround_title">Địa điểm thú vị quanh đây</string>
     <string name="app_surround_start_meituan_fail">Cài đặt Meituan để có thể sử dụng tính năng này</string>
+	<string name="stock_partner_nothing">Mặc định</string>
+	<string name="app_airstar_content_unauthorized_button">Bắt đầu</string>
+	<string name="fmt_time_minute">"m'phút'"</string>
+	<string name="app_airstar_default_asset_insurance_title">Bảo hiểm</string>
+    <string name="xiaomi_market_sdk_update_dialog_ok">Cập nhật ngay</string>
+    <string name="xiaomi_market_sdk_update_dialog_title">%s Phiên bản mới</string>
+    <string name="app_airstar_hint_eye_to_close">Chạm hai lần để ẩn chi tiết tài khoản</string>
+    <string name="app_airstar_default_asset_insurance_subtitle">Lên tới 6 triệu</string>
+    <string name="stock_partner_change_tip">Thao tác này có thể khiến dữ liệu không hiển thị đúng</string>
+    <string name="app_airstar_default_asset_loan_subtile">Lên tới 200K CNY</string>
+    <string name="stock_partner_schema">Chọn nguồn dữ liệu</string>
+    <string name="app_airstar_default_asset_fund_title">Số dư (CNY)</string>
+    <string name="xiaomi_market_sdk_update_dialog_cancel">Nói về nó sau</string>
+    <string name="app_pa_setting_service_airstar_summary">Xem thông tin tài chính, tín dụng và bảo hiểm</string>
+    <string name="stock_partner_change_failed">Không thể chuyển đổi nguồn dữ liệu cổ phiếu, vui lòng chuyển đổi lại</string>
+    <string name="app_airstar_hint_eye_to_open">Chạm hai lần để hiển thị chi tiết tài khoản</string>
+    <string name="app_airstar_content_unauthorized_subtitle">Thông báo, lời nhắc trả nợ và hơn thế nữa</string>
+    <string name="app_airstar_default_asset_fund_feature">"Thu thập hôm nay"</string>
+    <string name="app_airstar_content_unauthorized_title">Xem chi tiết tài chính của bạn tại đây</string>
+    <string name="app_airstar_default_asset_loan_title">Khoản vay khả dụng</string>
+    <string name="stock_partner_change_net_tip">Vui lòng kết nối mạng trước khi chuyển đổi</string>
 </resources>

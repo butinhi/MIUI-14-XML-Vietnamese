@@ -5395,4 +5395,10 @@ Ghi lại các trình tự và sử dụng chúng bất cứ lúc nào!"</string
     <string name="pp_privacy_lab_operator_get_number_summary">Yêu cầu các ứng dụng yêu cầu sự cho phép của bạn khi chúng muốn truy cập vào số điện thoại của bạn để đăng nhập</string>
     <string name="pp_operator_get_number">Yêu cầu phê duyệt để truy cập số điện thoại</string>
     <string name="pp_identifier_protection">Bảo vệ định danh cá nhân</string>
+    <string name="untrust_app_perm_install_list">Cho phép truy cập danh sách ứng dụng được cài đặt trên thiết bị này</string>
+    <string name="untrust_app_perm_oaid">Cho phép truy cập ID ảo của bạn</string>
+    <string name="untrust_app_perm_title">Ứng dụng từ một nguồn không xác định</string>
+    <string name="untrust_app_perm_network">Cho phép kết nối mạng</string>
+    <string name="untrust_app_perm_warn">Ứng dụng này đến từ một nguồn không xác định và có thể gây ra rủi ro bảo mật. Nó có thể sử dụng các quyền được liệt kê bên dưới để xâm phạm quyền riêng tư của bạn. Cấp các quyền này sau khi cân nhắc kỹ lưỡng.</string>
+    <string name="untrust_app_perm_notification">Cho phép thông báo</string>
 </resources>
