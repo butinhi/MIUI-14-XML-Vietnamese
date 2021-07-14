@@ -177,7 +177,7 @@ Rời khỏi trang này bây giờ?"</string>
 	<string name="new_update_available">Đã có phiên bản mới</string>
 	<string name="storage_permission_request_toast">Tải xuống yêu cầu truy cập vào lưu trữ thiết bị của bạn</string>
 	<string name="monday">Thứ hai</string>
-	<string name="year_month_day_format">HH:mm:ss dd-MM-yyyy</string>
+	<string name="year_month_day_format">dd MMM, yyyy</string>
 	<string name="quicklink_not_saved">Không thể thêm vào trang bắt đầu</string>
 	<string name="miuix_appcompat_action_mode_deselect_all">Bỏ chọn</string>
 	<string name="secureaccess">Chuyển sang chế độ An toàn</string>
@@ -247,7 +247,7 @@ Hãy nhớ rằng các tập tin tải xuống và dấu trang mà bạn thêm s
 	<string name="the_fifth_day">Mùng 5 Tết Nguyên Đán</string>
 	<string name="passport_error_empty_phone_num">Nhập số điện thoại</string>
 	<string name="video_activity_name">Ưa thích</string>
-	<string name="fmt_date_long_month_day">d MMMM</string>
+	<string name="fmt_date_long_month_day">dd MMMM</string>
 	<string name="abc_toolbar_collapse_description">Thu gọn</string>
 	<string name="bookmark_cannot_save_url">URL này không thể đánh dấu được.</string>
 	<string name="pref_site_settings_mic">Micro</string>
@@ -382,7 +382,7 @@ Kích thước cập nhật Delta: %2$s"</string>
 	<string name="mw_save_password_never">Không bao giờ</string>
 	<string name="download_filter_audio">ÂM NHẠC</string>
 	<string name="mw_common_google_play_services_wear_update_text">Cần phiên bản mới của dịch vụ Google Play. Dịch vụ sẽ sớm tự động cập nhật.</string>
-	<string name="privacy_message">Đọc và đồng ý với %1$s và %2$s của chúng tôi để tiếp tục.</string>
+	<string name="privacy_message">Trước khi sử dụng Trình duyệt, bạn cần đồng ý với &lt;font color=#4086f5&gt;&lt;a href=%1$s style=color:#4086f5;&gt;Thỏa thuận Người dùng&lt;/a&gt;&lt;/font&gt; và &lt;font color=#4086f5&gt;&lt;a href=%2$s style=color:#4086f5;&gt;Chính sách Riêng tư&lt;/a&gt;&lt;/font&gt; của chúng tôi.</string>
 	<string name="video_download_pause">Tạm dừng</string>
 	<string name="miuix_appcompat_action_mode_title_empty">Chọn mục</string>
 	<string name="ytb_login">Đăng nhập</string>
@@ -537,7 +537,7 @@ Kích thước cập nhật Delta: %2$s"</string>
 	<string name="pref_rate_app">Đồng ý</string>
 	<string name="miuix_appcompat_search_input_description">Tìm kiếm</string>
 	<string name="preference_copied">\"%1$s\" đã sao chép vào clipboard.</string>
-	<string name="fmt_date_numeric_month_day">d-M</string>
+	<string name="fmt_date_numeric_month_day">d/M</string>
 	<string name="mw_date_picker_dialog_other_button_label">Khác</string>
 	<string name="thursday">Thứ năm</string>
 	<string name="app_name_screenshot">Ảnh chụp màn hình</string>
@@ -772,7 +772,7 @@ Trang mà bạn xem sẽ không xuất hiện trong lịch sử."</string>
 	<string name="channel_manager">Quản lý kênh</string>
 	<string name="pref_privacy_formdata_title">Dữ liệu biểu mẫu</string>
 	<string name="summary_command_mode">Bật để vào Chế độ dòng lệnh</string>
-	<string name="fmt_date_short_month_day">d-M</string>
+	<string name="fmt_date_short_month_day">dd/MM</string>
 	<string name="fmt_time_12hour_minute_second_pm">h:mm:ss a</string>
 	<string name="mw_miuichromium_error_page_suggestion_contact_admin">Liên hệ với quản trị viên hệ thống của bạn.</string>
 	<string name="fmt_date_year">yyyy</string>
@@ -819,7 +819,7 @@ Trang mà bạn xem sẽ không xuất hiện trong lịch sử."</string>
 	<string name="permission_alert_window">Cho phép cửa sổ nổi để sử dụng tính năng này</string>
 	<string name="subscribe_success">Đăng ký thành công</string>
 	<string name="suggest_access_music">Mi Music</string>
-	<string name="passport_password_req_notice">Mật khẩu phải từ 8-16 ký tự và bao gồm cả số và chữ (phân biệt chữ hoa chữ thường).</string>
+	<string name="passport_password_req_notice">Mật khẩu phải dài 8-16 ký tự và kết hợp ít nhất hai trong số sau: chữ số, chữ cái và ký hiệu đặc biệt (ví dụ: 123abc@# hoặc 123abc hoặc abc@#).</string>
 	<string name="passport_verification_failed">Xác thực thất bại</string>
 	<string name="action_menu_text_setting">Cài đặt</string>
 	<string name="download_failed">Không thể tải xuống</string>
@@ -880,7 +880,7 @@ Trang mà bạn xem sẽ không xuất hiện trong lịch sử."</string>
 	<string name="exo_download_failed">Không tải xuống được</string>
 	<string name="aqi_quality_index_moderate">Vừa phải</string>
 	<string name="passport_input_phone_hint">Nhập số điện thoại</string>
-	<string name="fmt_date_long_year_month_day">d MMMM, yyyy</string>
+	<string name="fmt_date_long_year_month_day">dd MMMM, yyyy</string>
 	<string name="common_google_play_services_install_button">Cài đặt</string>
 	<string name="earthly_branches_zi">Tý</string>
 	<string name="download_paused_unknown">Tạm dừng</string>
@@ -1852,7 +1852,7 @@ Trang mà bạn xem sẽ không xuất hiện trong lịch sử."</string>
 	<string name="mw_opening_file_error">Không thể mở tập tin đã chọn</string>
 	<string name="update_email_address_dialog_message">Bạn cần xác thực danh tính của bạn trước khi cập nhật email khôi phục.</string>
 	<string name="mw_copy_to_clipboard_failure_message">Sao chép vào bộ nhớ tạm thất bại</string>
-	<string name="fmt_date_numeric_year_month_day">dd/MM/yyyy</string>
+	<string name="fmt_date_numeric_year_month_day">d/M/yyyy</string>
 	<string name="mw_common_signin_button_text">Đăng nhập</string>
 	<string name="app_name_downloads">Tải xuống</string>
 	<string name="fetch_video">Đang chuẩn bị video…</string>
@@ -1972,15 +1972,16 @@ Trang mà bạn xem sẽ không xuất hiện trong lịch sử."</string>
 	<string name="pref_privacy_clear_cache_dlg">Xóa nội dung bộ nhớ đệm và cơ sở dữ liệu trên máy?</string>
 	<string name="setting_home_page_show_title">Trang bắt đầu</string>
 	<string name="columbus_player_unit_sec">giây</string>
-	<string name="user_experience_content">Vui lòng xác nhận rằng bạn đã đọc và đồng ý với \"Chương trình trải nghiệm người dùng\"</string>
+	<string name="user_experience_content">"Chương trình Trải nghiệm Người dùng giúp chúng tôi cải thiện sản phẩm và dịch vụ của mình một cách có mục tiêu, cũng như giới thiệu các tính năng và dịch vụ mới hữu ích cho bạn. Chúng tôi sẽ bắt đầu thu thập và phân tích dữ liệu có liên quan (ví dụ: dữ liệu sử dụng sản phẩm) sau khi bạn đăng ký chương trình. Bằng cách nhấn vào \"Đăng ký\" bên dưới, bạn đồng ý với các điều khoản và điều kiện của &lt;font color=#4086f5&gt;&lt;a href=%1$s style=color:#4086f5;&gt;Chương trình Trải nghiệm Người dùng&lt;/a&gt;&lt;/font&gt;.
+		Bạn luôn có thể chọn không tham gia trong Cài đặt &gt; Riêng tư &amp; bảo mật."</string>
 	<string name="ssl_bad_clock_warning" formatted="false">Không thể thiết lập kết nối riêng tư đến %s1 do thời gian (%s2) trên thiết bị không chính xác.</string>
 	<string name="mw_miuichromium_error_page_suggestion_check_wifi_proxy" formatted="false">(Wi-Fi) Kiểm tra %s1cài đặt proxy%s2.</string>
-	<string name="permission_notification">gửi thông báo.</string>
+	<string name="permission_notification">%s muốn gửi thông báo.</string>
 	<string name="mw_miuichromium_error_page_suggestion_check_mobile_proxy" formatted="false">(Dữ liệu di động) Đặt lại %s1 cài đặt APN%s2.</string>
-	<string name="lockpattern_recording_incorrect_too_short">Kết nối ít nhất %d điểm. Hãy thử lại.</string>
-	<string name="save_file">"Lưu "</string>
+	<string name="lockpattern_recording_incorrect_too_short">Kết nối ít nhất 4 điểm. Hãy thử lại.</string>
+	<string name="save_file">"Lưu %s"</string>
 	<string name="mw_miuichromium_error_page_description_no_connection" formatted="false">Không thể kết nối mạng do cấu hình kết mạng không chính xác hoặc tín hiệu yếu. Kiểm tra %s1cài đặt mạng%s2 và thử lại.</string>
-	<string name="nf_product_discount">"Lưu "</string>
+	<string name="nf_product_discount">"Lưu %s"</string>
 	<string name="sign_in_to" formatted="false">Đăng nhập vào %s1 %s2\"</string>
 	<string name="columbus_player_speed_video">Bỏ qua VIDEO</string>
 	<string name="columbus_player_speed_title">Bỏ qua Video?</string>
