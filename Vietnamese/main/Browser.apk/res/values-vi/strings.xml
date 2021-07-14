@@ -3396,4 +3396,7 @@ Không được liệt kê "</string>
 Trò chơi vừa phải có lợi cho não, thưởng thức đồ uống trong trò chơi. Sắp xếp thời gian hợp lý và tận hưởng cuộc sống lành mạnh."</string>
 	<string name="leto_mgc_withdraw_request_submitted">Hồ sơ được gửi thành công, vui lòng kiên nhẫn chờ xem xét</string>
 	<string name="store__shared__coupons_will_expire_after_s">%s sau khi hết hạn, hãy đến hiệu sách để đổi sách miễn phí!</string>
+	<string name="free_account__user_profile__id">Ảnh thẻ</string>
+	<string name="personal__miaccount_profile_settings_view__choose_one_photo">Vui lòng chọn</string>
+	<string name="general__shared__stop">Dừng</string>
 </resources>
