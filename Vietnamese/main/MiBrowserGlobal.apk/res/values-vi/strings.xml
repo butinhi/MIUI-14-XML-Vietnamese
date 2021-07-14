@@ -1987,4 +1987,344 @@ Trang mà bạn xem sẽ không xuất hiện trong lịch sử."</string>
 	<string name="most_visited_sites">Truy cập nhiều nhất</string>
 	<string name="pref_security_do_not_track">Mặt nạ Riêng tư</string>
 	<string name="action_menu_text_video_download">Tải video</string>
+	<string name="permission_open_mic">Cho phép Trình duyệt Mi truy cập micro trong Cài đặt trước</string>
+	<string name="vpn_free_data_used_info">Lưu lượng miễn phí: %1$s | Đã dùng: %2$s</string>
+	<string name="whatsapp_principle_page_title">Bạn có thể lưu ảnh và video từ trạng thái WhatsApp bằng Trình duyệt Mi</string>
+	<string name="personalized_services_desc">Nhận kiến nghị nội dung cá nhân và quảng cáo</string>
+	<string name="hashtag_dialog_confirm">Bỏ theo dõi</string>
+	<string name="vpn_detail_guide3">Bạn sắp hết lưu lượng. Thử sử dụng gói 12 tháng. Chạm để tìm hiểu thêm về tùy chọn này.</string>
+	<string name="bookmark_sync_alert_title">Chọn mục để đồng bộ</string>
+	<string name="nf_set_follow_channel_as_default">Hiển thị \"%s\" khi khởi động</string>
+	<string name="vpn_detail_guide4">Bạn đã hết lưu lượng. Thử sử dụng gói 12 tháng. Chạm để tìm hiểu thêm về tùy chọn này.</string>
+	<string name="vpn_detail_guide1">Mở khóa tất cả máy chủ để tăng tốc kết nối</string>
+	<string name="vpn_detail_guide2">Đăng ký dịch vụ VPN để truy cập nhiều trang web hơn</string>
+	<string name="pref_site_settings_location_permission">Bật quyền vị trí trong &lt;font color=\"#247BFF\"&gt;Cài đặt Android&lt;/font&gt;.</string>
+	<string name="pref_site_settings_category_allow_except_third_party">Cho phép (ngoại trừ bên thứ ba)</string>
+	<string name="vpn_detail_guide5">Bạn sắp hết lưu lượng</string>
+	<string name="vpn_detail_guide6">Bạn đã hết lưu lượng</string>
+	<string name="setting_feed_language">Ngôn ngữ nội dung bảng tin</string>
+	<string name="privacy_message_main_tips_first">Trình duyệt Mi cần thu thập thông tin cá nhân cần thiết để cung cấp cho bạn các dịch vụ cơ bản. Bạn có thể tìm hiểu cách chúng tôi xử lý thông tin chúng tôi thu thập trong &lt;font color=\"#4086f5\"&gt;&lt;a href=\"%1$s\" style=\"color:#4086f5;\"&gt;Chính sách Riêng tư&lt;/a&gt;&lt;/font&gt; của chúng tôi. Bạn luôn có thể rút lại chấp thuận của mình đối với Chính sách Riêng tư của Trình duyệt Mi trong Cài đặt &gt; Riêng tư &amp; bảo mật. Đọc và đồng ý với &lt;font color=\"#4086f5\"&gt;&lt;a href=\"%2$s\" style=\"color:#4086f5;\"&gt;Thỏa thuận Người dùng&lt;/a&gt;&lt;/font&gt; và &lt;font color=\"#4086f5\"&gt;&lt;a href=\"%1$s\" style=\"color:#4086f5;\"&gt;Chính sách Riêng tư&lt;/a&gt;&lt;/font&gt; của chúng tôi trước khi sử dụng Trình duyệt Mi.</string>
+	<string name="incognito_off">Chế độ ẩn danh đã tắt.</string>
+	<string name="vpn_subscribe_tips_3">Trải nghiệm tốc độ cao</string>
+	<string name="vpn_subscribe_tips_2">Truy cập nhiều trang web hơn</string>
+	<string name="vpn_subscribe_tips_1">Sử dụng tất cả máy chủ khả dụng</string>
+	<string name="pref_site_settings_cookie_summary">Cookie là các tập tin được tạo bởi các trang web bạn đã truy cập để ghi nhớ các tùy chọn của bạn. Cookie của bên thứ ba được tạo bởi các trang web khác, là chủ sở hữu của nội dung (ví dụ: quảng cáo hoặc hình ảnh) mà bạn thấy trên các trang bạn truy cập.</string>
+	<string name="download_dialog_content_rcmd_text">Hàng triệu ứng dụng &amp; trò chơi miễn phí. Cài đặt mà không cần đăng nhập.</string>
+	<string name="traffic_fail_upload">Xảy ra lỗi. Bật lại VPN.</string>
+	<string name="feedback_info_app_package_name">"Tên gói: "</string>
+	<string name="permission_dialog_msg_camera">%s muốn sử dụng camera của bạn</string>
+	<string name="pref_site_settings_camera_ask">Các trang web cần xin phép và nhận quyền của bạn để sử dụng camera (kiến nghị)</string>
+	<string name="pref_privacy_performance_id_will_reset">ID hiệu suất sẽ được đặt lại</string>
+	<string name="bookmark_sync_tip_in_login_activity">Bằng cách chạm \"Đăng nhập\", bạn đồng ý tự động đồng bộ dấu trang và lịch sử trình duyệt. Bạn có thể tắt đồng bộ trong \"Tài khoản của tôi\" sau.</string>
+	<string name="interest_card_title">Chọn sở thích của bạn</string>
+	<string name="privacy_reset_fail">Không thể đặt lại. Thử lại.</string>
+	<string name="pref_security_report_url">Cải thiện trải nghiệm tìm kiếm và duyệt web</string>
+	<string name="incognito_title">Bạn đã ẩn danh</string>
+	<string name="incognito_on">Bạn đang ẩn danh!</string>
+	<string name="score_dialog_msg_score_perfect">Cám ơn sự ủng hộ của bạn! Đánh giá ứng dụng của chúng tôi trên Play Store?</string>
+	<string name="vpn_used_all_free_data_toast">Bạn đã hết lưu lượng. Đăng ký để tiếp tục.</string>
+	<string name="common_business_web_error_page_tip">Xảy ra lỗi. Cố gắng làm mới trang.</string>
+	<string name="mw_miuichromium_error_page_vpn_suggestion_des_2">Không theo dõi</string>
+	<string name="pref_site_settings_cookie_allow_summary">Các trang web sẽ hoạt động bình thường</string>
+	<string name="mw_miuichromium_error_page_vpn_suggestion_des_3">Không giới hạn tốc độ</string>
+	<string name="mw_miuichromium_error_page_vpn_suggestion_des_1">Máy chủ không giới hạn</string>
+	<string name="mw_video_download_no_permission">Yêu cầu quyền để tải xuống các mục</string>
+	<string name="pf_toast_add_success">Chuyển sang thư mục cá nhân thành công</string>
+	<string name="home_nf">Nội dung bảng tin</string>
+	<string name="feedback_info_system_version">"Phiên bản hệ thống: "</string>
+	<string name="ignore_add_game_center_dialog_this_week">Không hiển thị trong tuần này</string>
+	<string name="per_month">Mỗi tháng</string>
+	<string name="list_menu_delete_task">Xóa nhiệm vụ</string>
+	<string name="download_dialog_content_security_download">Tải an toàn (Kiến nghị)</string>
+	<string name="block_cookies_tips">Không cho phép các trang web truy cập và lưu cookie. Các tính năng trên một số trang web có thể không hoạt động đúng sau khi bạn chọn tùy chọn này.</string>
+	<string name="user_experience_agree">Tham gia</string>
+	<string name="msn_privacy">Tuyên bố Riêng tư Microsoft</string>
+	<string name="block_cookies">Chặn cookie của bên thứ ba</string>
+	<string name="batch_download_tip">Dường như nhiều mục đang được tải xuống cùng một lúc. Chặn các tải xuống này?</string>
+	<string name="pref_privacy_clear_site_settings_summary">Xóa tất cả cài đặt trang web. Các trang web sẽ yêu cầu quyền vào lần tiếp theo bạn truy cập.</string>
+	<string name="download_not_supported">Không thể tải xuống. URL không hợp lệ.</string>
+	<string name="msn_privacy_content">Nguồn cấp nội dung được cung cấp bởi Microsoft News</string>
+	<string name="delete_task_dialog_msg">Xóa nhiệm vụ đã chọn?</string>
+	<string name="vpn_guide_popup_window_text">Thử sử dụng VPN</string>
+	<string name="download_error_url_invalid">Không thể tải xuống. URL không hợp lệ.</string>
+	<string name="news_flow_more_recommend">Thêm mục kiến nghị</string>
+	<string name="ssl_bad_expired_warning">Kênh này được cung cấp bởi %1$s. Tuy nhiên, ngày và giờ được đặt trên thiết bị của bạn (%2$s) không cho phép thiết lập kết nối an toàn với %1$s. Bạn có thể đặt ngày và giờ chính xác hoặc chạm \"Tiếp tục\" nếu bạn vẫn muốn sử dụng kênh này.</string>
+	<string name="download_paused_waiting_to_retry">Đang chờ lần thử khác…</string>
+	<string name="xiaomi_sign_in_btn_txt">Đăng nhập hoặc tạo tài khoản</string>
+	<string name="ping_test_title">Mạng trễ</string>
+	<string name="pref_site_settings_cookie_block_third_party_summary">Một số tính năng của trang web có thể không hoạt động đúng</string>
+	<string name="delete_file_dialog_title">Xóa các tập tin đã chọn?</string>
+	<string name="pref_set_default_browser_toast">Đặt trình duyệt mặc định thành công</string>
+	<string name="pf_add_dialog_title">Đang chuyển sang thư mục cá nhân</string>
+	<string name="download_error_network">Không thể tải xuống. Kết nối mạng bị gián đoạn.</string>
+	<string name="privacy_message_welcome_tip_second">- Tải xuống hình ảnh và video từ nền tảng truyền thông xã hội</string>
+	<string name="feedback_info_language">"Ngôn ngữ: "</string>
+	<string name="whatsapp_status_saver">Lưu Trạng thái WhatsApp</string>
+	<string name="pref_site_settings_reset">Xóa và đặt lại</string>
+	<string name="nf_select_language">Chọn ngôn ngữ nội dung bảng tin</string>
+	<string name="tip_sync_disabled_by_incognito">Không thể đồng bộ các mục ở Chế độ ẩn danh</string>
+	<string name="pref_site_settings_location_ask">Các trang web cần xin phép và nhận quyền của bạn để truy cập thông tin vị trí (kiến nghị)</string>
+	<string name="must_play">Thiết yếu</string>
+	<string name="pref_site_settings_protected_content">Nội dung được bảo vệ</string>
+	<string name="le_download_failed_server_error">Không thể tải xuống do lỗi máy chủ.</string>
+	<string name="personalized_content_services">Dịch vụ nội dung cá nhân</string>
+	<string name="download_no_memory">Không thể tải xuống. Không đủ bộ nhớ.</string>
+	<string name="tip_sync_switch_off">Đồng bộ đang tắt. Bạn có thể bật trong \"Tài khoản của tôi\".</string>
+	<string name="privacy_authorize_summary">Bật và tắt phím nhanh để cấp hoặc hủy ủy quyền</string>
+	<string name="pref_adblock_summary">Các trang có thể tải chậm hơn khi tính năng này bật</string>
+	<string name="pref_clear_all_data_switch_title">Xóa dữ liệu duyệt khi thoát</string>
+	<string name="action_menu_text_web_mode">Chế độ Desktop</string>
+	<string name="permission_open_location">Cho phép Trình duyệt Mi truy cập vị trí của bạn trong Cài đặt trước</string>
+	<string name="delete_task_and_file_dialog_title">Xóa nhiệm vụ và tập tin đã chọn?</string>
+	<string name="feedback_info_location">"Khu vực: "</string>
+	<string name="download_dialog_content_ordinary_download">Tải thông thường</string>
+	<string name="vpn_offline_tip">Dịch vụ VPN hiện không khả dụng</string>
+	<string name="pref_desc_dns_prefetch">Cho phép trình duyệt phân giải tên miền trước khi tài nguyên (ví dụ: tệp hoặc liên kết) được yêu cầu</string>
+	<string name="fetch_video_ssl_bad_clock">Có vẻ như ngày và giờ được đặt trên thiết bị của bạn (%s) không chính xác. Điều chỉnh cài đặt và thử lại.</string>
+	<string name="sync_alert_checkbox_history">Lịch sử trình duyệt</string>
+	<string name="pref_security_do_not_track_summary">"Chọn tùy chọn này để thông báo cho trang web bạn truy cập rằng bạn không muốn bị thu thập hoặc theo dõi dữ liệu duyệt web. Các trang web khác nhau phản ứng với yêu cầu như vậy một cách khác nhau. 
+Một số trang web sẽ không sử dụng lịch sử duyệt web trước đó để cá nhân hóa quảng cáo của họ cho bạn, trong khi những trang khác vẫn có thể thu thập và sử dụng lịch sử duyệt web của bạn cho các mục đích khác nhau (như đảm bảo bảo mật, cung cấp nội dung, hiển thị quảng cáo có liên quan, v.v...)."</string>
+	<string name="pf_move_out">Xóa khỏi thư mục cá nhân</string>
+	<string name="download_failed_system_error">Không thể tải xuống do lỗi.</string>
+	<string name="user_experience_disagree">Không tham gia</string>
+	<string name="check_google_play_login">Kiểm tra xem bạn đã đăng nhập vào Play Store chưa</string>
+	<string name="pref_site_settings_midi_sysex_permission">Điều khiển hoàn toàn thiết bị MIDI</string>
+	<string name="dialog_channel_remove_content">Xóa tất cả các kênh cũng sẽ xóa Nội dung bảng tin.</string>
+	<string name="permission_dialog_msg_midi_sysex">%s muốn điều khiển thiết bị MIDI của bạn</string>
+	<string name="sku_price_everymonth">%1$s mỗi tháng</string>
+	<string name="pref_site_settings_mic_ask_permission">Bật quyền micro trong &lt;font color=\"#247BFF\"&gt;Cài đặt Android&lt;/font&gt;.</string>
+	<string name="has_already_subscribed_tips">Bạn đã đăng ký gói này</string>
+	<string name="ytb_login_to_look_subscribe">Đăng nhập để xem đăng ký YouTube của bạn.</string>
+	<string name="nf_feed_list_refresh_guide">Chạm để tải mục mới</string>
+	<string name="change_sub_now">Thay đổi gói</string>
+	<string name="traffic_fail_free_no_left">Bạn đã hết lưu lượng. Đăng ký để tiếp tục.</string>
+	<string name="download_videos_from_here">Bạn có thể tải xuống video từ các dịch vụ này</string>
+	<string name="welcome_to_mi_browser">Chào mừng sử dụng Trình duyệt Mi!</string>
+	<string name="open_whatsapp_status">Kiểm tra trạng thái WhatsApp</string>
+	<string name="edit_bookmark_tips">Thêm dấu trang thành công. &lt;font color=\"#247BFF\"&gt;Sửa&lt;/font&gt;</string>
+	<string name="news_native_see_all">Toàn bộ bài viết</string>
+	<string name="vpn_not_support_by_region">Dịch vụ VPN không khả dụng ở khu vực của bạn</string>
+	<string name="pf_add_dialog_content">Bản ghi lịch sử tải xuống sẽ bị xóa sau khi các mục liên quan được chuyển đến thư mục cá nhân.</string>
+	<string name="download_dialog_content_open_mi_picks">Mở (%1$d giây)</string>
+	<string name="ad_loading_tips_text">Đang tải quảng cáo…</string>
+	<string name="add_game_center_to_homescreen">Thêm lối tắt Màn hình chính?</string>
+	<string name="mw_url_copied">Sao chép URL thành công</string>
+	<string name="privacy_improve_performance_desc">Tự động gửi dữ liệu tổng hợp và báo cáo sự cố đến Trình duyệt Mi</string>
+	<string name="pref_site_settings_protected_content_allow_summary">Cho phép các trang web phát nội dung được bảo vệ (kiến nghị)</string>
+	<string name="mint_games">Trò chơi thịnh hành</string>
+	<string name="pref_site_settings_reset_confirmation">Xóa dữ liệu của trang web này (bao gồm cả cookie) và đặt lại quyền bây giờ?</string>
+	<string name="feedback_info_app_version">"Phiên bản ứng dụng: "</string>
+	<string name="improve_mi_browser_pe">Giúp chúng tôi cải thiện Trình duyệt Mi</string>
+	<string name="bookmark_sync_tip_logined">Đồng bộ dấu trang và lịch sử trình duyệt</string>
+	<string name="nf_feed_list_exit_toast">Chạm lại để đóng Nội dung bảng tin</string>
+	<string name="download_more_histories">Tải xuống trước đó</string>
+	<string name="download_dialog_insufficient_space_on_external">Thiết bị lưu trữ bên ngoài không đủ dung lượng</string>
+	<string name="pref_site_settings_notificaion_ask">Các trang web có thể hỏi bạn có muốn nhận thông báo hay không</string>
+	<string name="error_not_url_tips">Nhập URL hợp lệ</string>
+	<string name="permission_dialog_msg_camera_mic">%s muốn sử dụng camera và micro của bạn</string>
+	<string name="home_feed_channel">Hiển thị \"Tin tức\" trên thanh điều hướng</string>
+	<string name="vpn_used_all_toast">Bạn đã hết lưu lượng</string>
+	<string name="pf_move_out_dialog_title">Đang xóa khỏi thư mục cá nhân</string>
+	<string name="download_fail_dir">Không thể tải xuống. Điểm đến không tồn tại.</string>
+	<string name="pref_privacy_performance_id_is">"ID hiệu suất hiện tại: "</string>
+	<string name="dialog_game_banner">Khám phá các trò chơi phổ biến!</string>
+	<string name="user_guide_color_mode_info">Chế độ sáng và chế độ nền tối khả dụng</string>
+	<string name="pref_site_settings_protected_content_block_summary">Không cho phép các trang web phát nội dung được bảo vệ</string>
+	<string name="video_downloader_edit_hint">"Dán liên kết để tải video xuống. Ví dụ:
+https://www.facebook.com/miui.global.official/videos/1602181069951748"</string>
+	<string name="whatsapp_webpage_tips">Lưu Trạng thái WhatsApp</string>
+	<string name="pref_js_downloader">Tải xuống ảnh và video</string>
+	<string name="ins_login_tips">Đăng nhập để tải xuống video từ Instagram</string>
+	<string name="privacy_authorize_cannot_revoke_dialog_msg">Hành động này yêu cầu tải lên ID Hiệu suất, và không thể thực hiện được ở Chế độ ẩn danh. Thoát Chế độ ẩn danh và thử lại.</string>
+	<string name="pref_site_settings_cookie_allow_title">Cho phép sử dụng cookie</string>
+	<string name="pf_guide_msg_if_has_downloading">Không thể thêm tập tin đang tải xuống vào thư mục cá nhân</string>
+	<string name="translate_into">Dịch sang</string>
+	<string name="home_nf_recommend_on">Đề nghị cho bạn</string>
+	<string name="score_dialog_msg_score_not_good">Chúng tôi đánh giá cao phản hồi của bạn!</string>
+	<string name="pref_js_downloader_detail">Hiển thị phím tải xuống trên ảnh và video từ trang web mạng xã hội</string>
+	<string name="most_visited_sites_switch">Hiển thị trang web được truy cập nhiều nhất trên trang bắt đầu</string>
+	<string name="follow_detail_page_empty_tip">Người này hiện không đăng bất kỳ nội dung nào.</string>
+	<string name="pref_set_default_browser_tab">Chạm \"Trình duyệt\"</string>
+	<string name="pref_default_browser_str">Trình duyệt mặc định</string>
+	<string name="private_title">Tập tin ẩn</string>
+	<string name="whatsapp_principle_page_message">WhatsApp lưu ảnh và video mà bạn duyệt vào một thư mục ẩn. Những mục này sẽ biến mất sau 24 giờ. Giờ đây bạn có thể sử dụng Trình duyệt Mi để lưu lại.</string>
+	<string name="user_guide_control_privacy_tips">Kiểm soát toàn diện quyền riêng tư</string>
+	<string name="articles_collection_empty">Không có bài viết nào</string>
+	<string name="privacy_improve_performance">Giúp cải thiện hiệu suất của Trình duyệt Mi</string>
+	<string name="pref_site_settings_cookie_block_title">Chặn tất cả cookie (không kiến nghị)</string>
+	<string name="download_dialog_title_queued_body">Tập tin chưa khả dụng</string>
+	<string name="ytb_login_can_subscribe">Đăng nhập để đăng ký kênh.</string>
+	<string name="pref_privacy_clear_site_settings_dlg">Xóa tất cả cài đặt trang web ngay?</string>
+	<string name="video_collection_click_view">Video yêu thích của bạn ở đây</string>
+	<string name="translation_other">Ngôn ngữ khác</string>
+	<string name="players_still_play">&lt;font color=\"#ff2458\"&gt;%s&lt;/font&gt; game thủ cũng thích</string>
+	<string name="app_uninstall_description_content">Trình duyệt là ứng dụng hệ thống. Bạn sẽ không thể sử dụng dịch vụ tìm kiếm và duyệt web do ứng dụng cung cấp sau khi gỡ cài đặt.</string>
+	<string name="privacy_message_main_tips_second">Để có thể tìm kiếm ứng dụng trên thiết bị này và biết ứng dụng nào đã được cài đặt, Trình duyệt Mi cần truy cập thông tin cài đặt ứng dụng, thông tin này sẽ không được lưu cục bộ hoặc tải lên dưới bất kỳ hình thức nào.</string>
+	<string name="custom_page_guide_content">Dấu trang, cài đặt và công cụ thường dùng đặt tại đây!</string>
+	<string name="permission_open_camera">Cho phép Trình duyệt Mi truy cập camera trong Cài đặt trước</string>
+	<string name="download_video_from_social_site">Tải video từ các trang mạng xã hội</string>
+	<string name="sync_bookmark">Đồng bộ dấu trang</string>
+	<string name="pref_security_report_url_summary">Chia sẻ URL của các trang web bạn truy cập với Xiaomi</string>
+	<string name="translate_cur_page">Dịch trang này?</string>
+	<string name="bookmark_sync_tip_in_profile_page">"Chọn các mục để đồng bộ.
+Tắt phím nhanh để dừng đồng bộ."</string>
+	<string name="download_dialog_content_rcmd_get_apps">GetApps — Chợ ứng dụng Mi chính thức</string>
+	<string name="permission_open_storage">Cho phép Trình duyệt Mi truy cập bộ nhớ trong trong Cài đặt trước</string>
+	<string name="upload_usage_statistics">Bật để chia sẻ số liệu thống kê sử dụng với chúng tôi khi Chế độ ẩn danh bật</string>
+	<string name="list_menu_delete_task_and_file">Xóa nhiệm vụ và tập tin</string>
+	<string name="pref_clear_history_when_exit">Xóa lịch sử khi thoát</string>
+	<string name="pref_site_settings_cookie_block_third_party_incognito_title">Chặn cookie của bên thứ ba ở Chế độ ẩn danh</string>
+	<string name="vpn_data_current_period">Thời gian hiệu lực: %s</string>
+	<string name="translate_page">Dịch trang</string>
+	<string name="fb_login_tips">Đăng nhập để tải xuống video từ Facebook</string>
+	<string name="download_completed_tips">Tải xuống thành công. &lt;font color=\"#0081ff\"&gt;Chạm để xem.&lt;/font&gt;</string>
+	<string name="hashtag_dialog_confirm_unfollow">Bỏ theo dõi %s ngay?</string>
+	<string name="download_completed_private_tips">Tải xuống thành công và đã thêm vào tập tin ẩn. &lt;font color=\"#2dd9ce\"&gt;Chạm để xem.&lt;/font&gt;</string>
+	<string name="feedback_send_email_body_extra_info">Không xóa thông tin dưới đây vì chúng giúp chúng tôi xác định vấn đề.</string>
+	<string name="pref_site_settings_camera_ask_permission">Bật quyền camera trong &lt;font color=\"#247BFF\"&gt;Cài đặt Android&lt;/font&gt;.</string>
+	<string name="miui_facebook_enable_pref_summary">Quản lý thông báo Facebook thuận tiện hơn</string>
+	<string name="exit_clear_dialog_btn_ok">Xóa &amp; thoát</string>
+	<string name="pref_site_settings_cookie_block_summary">Hầu hết các tính năng của trang web có thể không hoạt động đúng</string>
+	<string name="common_business_not_block">Không chặn</string>
+	<string name="save_to_private_folder">Thêm vào tập tin ẩn</string>
+	<string name="category_move_limit_notice">Bạn có thể di chuyển từ 3 đến 7 mục lên phần trên của màn hình</string>
+	<string name="delete_file_dialog_msg">Bạn sẽ không thể khôi phục các mục đã xóa.</string>
+	<string name="app_uninstall_description_title">Gỡ cài đặt Trình duyệt?</string>
+	<string name="setting_swipe_up">Trượt lên trên Màn hình chính</string>
+	<string name="card_game_title_2">Phổ biến tuần này</string>
+	<string name="card_game_title_3">Lựa chọn của Mint</string>
+	<string name="vpn_detail_title">Dịch vụ VPN</string>
+	<string name="pref_site_settings_mic_ask">Các trang web cần xin phép và nhận quyền của bạn để sử dụng micro (kiến nghị)</string>
+	<string name="video_collection_empty">Không có video nào ở đây</string>
+	<string name="download_dialog_queued_body">Tập tin này đã được thêm vào danh sách tải xuống.</string>
+	<string name="feedback_info_product">"Mẫu: "</string>
+	<string name="whatsapp_downloadpage_tips">Lưu Trạng thái WhatsApp</string>
+	<string name="pref_site_settings_cookie_block_third_party_title">Chặn cookie của bên thứ ba</string>
+	<string name="privacy_message_welcome_tip_first">- Duyệt web nhanh chóng và an toàn</string>
+	<string name="ytb_want_to_subscribe">Đăng ký kênh này?</string>
+	<string name="download_dialog_media_not_found">Không thể tải xuống. Không tìm thấy thiết bị lưu trữ bên ngoài.</string>
+	<string name="traffic_fail_device_limit">Đã đạt giới hạn thiết bị đăng nhập</string>
+	<string name="user_guide_color_mode_title">Chọn bảng màu</string>
+	<string name="incognito_tips2">"Hoạt động của bạn vẫn có thể hiển thị với:
+• Trang web bạn truy cập
+• Người sử dụng lao động hoặc trường học của bạn
+• Nhà cung cấp dịch vụ Internet của bạn"</string>
+	<string name="incognito_tips1">"Mi Browser sẽ không lưu thông tin sau:
+• Lịch sử duyệt web của bạn
+• Cookie và dữ liệu trang web
+• Thông tin được nhập trong biểu mẫu"</string>
+	<string name="permission_dialog_msg_mic">%s muốn sử dụng micro của bạn</string>
+	<string name="whatsapp_tab_chats">Trò chuyện</string>
+	<string name="pref_site_settings_title">Cài đặt Trang web</string>
+	<string name="hashtag_follow_null_and_explore">Bạn chưa theo dõi ai. Hãy xem các video và tìm tài khoản bạn yêu thích.</string>
+	<string name="close_cant_recommand">Bạn sẽ không nhận được dịch vụ nội dung cá nhân nếu bạn tắt tính năng này.</string>
+	<string name="tip_not_support_external_sdcard_modify">Không thể sửa tập tin được lưu trữ trên thẻ SD</string>
+	<string name="le_network_chagne_to_none">Đã ngắt kết nối mạng. Tất cả các tải xuống đã bị tạm dừng.</string>
+	<string name="score_dialog_msg_score_explorer">Bạn có thích Trình duyệt Mi không?</string>
+	<string name="miui_facebook_enable_pref_title">Thông báo Facebook</string>
+	<string name="delete_task_and_file_dialog_msg">Nhiệm vụ sẽ bị xóa cùng với tập tin tương ứng. Bạn sẽ không thể khôi phục các mục đã xóa.</string>
+	<string name="privacy_message_welcome">Chào mừng sử dụng Trình duyệt Mi! Ứng dụng của chúng tôi cung cấp các dịch vụ sau:</string>
+	<string name="no_more_games">Không còn trò chơi nào khác</string>
+	<string name="channel_description">Tải xuống của trình duyệt</string>
+	<string name="mw_miuichromium_error_page_vpn_suggestion_img_text">Thử sử dụng VPN</string>
+	<string name="translation_to">Dịch sang</string>
+	<string name="click_always">Chạm \"Luôn luôn\"</string>
+	<string name="pref_privacy_performance_id_instead_by_random_id">Chúng tôi sẽ thay thế ID hiệu suất hiện tại của bạn bằng một ID mới được tạo ngẫu nhiên.</string>
+	<string name="pf_move_out_dialog_content">Các mục bị xóa sẽ được lưu ở vị trí ban đầu.</string>
+	<string name="mw_video_float_drag_scale_msg">Kéo để chia tỷ lệ</string>
+	<string name="list_menu_add_to_pf">Chuyển sang thư mục cá nhân</string>
+	<string name="pref_site_settings_all_sites">Tất cả trang web</string>
+	<string name="pref_privacy_clear_site_settings">Cài đặt Trang web</string>
+	<string name="mw_miuichromium_error_page_vpn_suggestion_btn_text">Thử sử dụng VPN</string>
+	<string name="nav_tab_guide_text">Bạn có thể quản lý các thẻ tại đây</string>
+	<string name="ssl_bad_warning">Kênh này được cung cấp bởi %1$s. Tuy nhiên, Trình duyệt Mi không thể xác minh máy chủ này thuộc về %1$s do chứng chỉ không hợp lệ hoặc đã bị thu hồi. Vấn đề này có thể do cấu hình không chính xác hoặc kết nối bị chặn. Chạm \"Tiếp tục\" nếu bạn vẫn muốn sử dụng kênh này.</string>
+	<string name="pref_site_settings_protected_content_ask_summary">Các trang web cần xin phép và nhận quyền của bạn để phát nội dung được bảo vệ</string>
+	<string name="enter_news_by_pull_down">Thả để mở nội dung bảng tin</string>
+	<string name="miui_facebook_open_dialog_msg">Bật để quản lý thông báo Facebook thuận tiện hơn</string>
+	<string name="whatsapp_no_status_tips">Không có ảnh hoặc video ở đây. Xem cập nhật trạng thái WhatsApp của bạn và quay lại đây lần nữa.</string>
+	<string name="error_unsupport_url_tips">Không thể tải xuống video này. Chúng tôi hiện hỗ trợ tải xuống video từ Facebook, Twitter và Instagram.</string>
+	<string name="fast_than">Trên %1$s%% người dùng</string>
+	<string name="pref_privacy_performance_id_reset">Đặt lại ID hiệu suất của bạn</string>
+	<string name="permission_dialog_msg_protected_content">%s muốn phát nội dung được bảo vệ</string>
+	<string name="user_guide_read_info_tips">Để có thể bao gồm ứng dụng vào kết quả tìm kiếm, Trình duyệt Mi cần truy cập danh sách ứng dụng đã cài đặt trên thiết bị của bạn.</string>
+	<string name="preference_des_autocomplete_search">Tự động điền tìm kiếm dựa trên lịch sử trình duyệt, đề xuất công cụ tìm kiếm và các trang web phổ biến</string>
+	<string name="video_downloader_fail">Không thể tải xuống mục này</string>
+	<string name="follow_hashtag_title">Hashtag</string>
+	<string name="traffic_fail_no_left">Bạn đã hết lưu lượng VPN</string>
+	<string name="translation_result_empty">Không thể dịch. Thử lại.</string>
+	<string name="pf_check_dialog_msg">Chạm vào biểu tượng trên để xem thư mục cá nhân của bạn</string>
+	<string name="personalized_services">Dịch vụ cá nhân</string>
+	<string name="list_menu_rename_result_repeat">Tập tin với tên này đã tồn tại</string>
+	<string name="incognito_message">Hiện bạn có thể trình duyệt một cách riêng tư và những người khác sử dụng thiết bị này sẽ không thấy hoạt động của bạn. Tuy nhiên, các lượt tải xuống và dấu trang vẫn được lưu.</string>
+	<string name="pf_delete_dialog_content">Các tập tin gốc cũng sẽ bị xóa.</string>
+	<string name="highly_recommend">Lựa chọn của Mint</string>
+	<string name="vpn_privacy_dialog_content">Dịch vụ này được cung cấp bởi Tai Xin. Đọc và đồng ý với &lt;font color=\"#4086f5\"&gt;&lt;a href=\"%1$s\" style=\"color:#4086f5;\"&gt;Chính sách Riêng tư Tai Xin&lt;/a&gt;&lt;/font&gt; trước khi sử dụng dịch vụ.</string>
+	<string name="home_game_channel">Hiển thị \"Trò chơi\" trên thanh điều hướng</string>
+	<string name="preference_title_autocomplete_search">Tự động điền tìm kiếm và URL</string>
+	<string name="what_is_new">Cập nhật ứng dụng để truy cập các tính năng mới</string>
+	<string name="set_default_browser_msg">Đặt Trình duyệt Mi làm trình duyệt mặc định</string>
+	<string name="whatsapp_principle_step_1">Duyệt ảnh và video từ thẻ \"Trạng thái\" trong WhatsApp.</string>
+	<string name="select_mibrowser">Chọn Trình duyệt Mi</string>
+	<string name="ytb_empty_subscribe">Không có đăng ký nào ở đây.</string>
+	<string name="verify_subscription">Đang cập nhật đăng ký…</string>
+	<string name="whatsapp_principle_step_2">Quay lại đây để lưu.</string>
+	<string name="ins_register_btn">Tạo tài khoản bằng email hoặc số điện thoại</string>
+	<string name="confirm_exit_cur_game">Đóng trò chơi này?</string>
+	<string name="setting_app_language">Ngôn ngữ trình duyệt</string>
+	<string name="vpn_data_used_info">Đã sử dụng %2$s trên tổng %1$s</string>
+	<string name="fm_guide_msg">Bạn có thể quản lý video, bài hát và ảnh trên máy bằng Trình duyệt Mi ngay bây giờ!</string>
+	<string name="bookmark_sync_tip_not_logined">Đăng nhập để đồng bộ dấu trang và lịch sử trình duyệt</string>
+	<string name="subscriptions_title">Quản lý đăng ký</string>
+	<string name="exit_clear_dialog_msg">Xóa lịch sử trước khi bạn thoát?</string>
+	<string name="download_privacy_head_text">Kéo xuống để xem tập tin ẩn</string>
+	<string name="feedback_info_system">"Hệ thống: "</string>
+	<string name="gaid">GAID (Bấm vào để xuất)</string>
+	<string name="clear_transfer_summary">Xóa cờ cài đặt hệ thống để bạn có thể chuyển lại</string>
+	<string name="topsite_click">Nhấp vào TopSite</string>
+	<string name="channel_layout">Bố cục kênh</string>
+	<string name="check_nf_info">Kiểm tra thông tin mục tin tức</string>
+	<string name="summary_detail_page">Thay đổi kiểu trang chi tiết</string>
+	<string name="debug_youtube_in_release">Gỡ lỗi youtube được phát hành</string>
+	<string name="feed_content_protection">Bảo vệ nội dung</string>
+	<string name="regid">RegId (Bấm vào để xuất)</string>
+	<string name="home_list_item_click">Nhấp vào mục danh sách trang chủ</string>
+	<string name="app_id">Firebase App ID (Bấm vào để xuất)</string>
+	<string name="list_item_click">Nhấp vào mục danh sách</string>
+	<string name="exported">Đã xuất</string>
+	<string name="mw_crash_report_template">"QUAN TRỌNG: Sự cố của bạn đã được tự động báo cáo cho hệ thống sự cố của chúng tôi. Bạn chỉ cần điền vào phần này nếu bạn có thể chia sẻ thêm thông tin như các bước để tái tạo sự cố.
+
+		Tên thiết bị:
+		Phiên bản hệ điều hành Android:
+		Phiên bản WebView (Trên Android L-M, đây là phiên bản của ứng dụng \"WebView Hệ thống Android \". Trên Android N-P, rất có thể đây là phiên bản của Chrome. Bạn có thể tìm thấy phiên bản của bất kỳ ứng dụng nào trong Cài đặt &gt; Ứng dụng &gt; dấu 3 chấm ở phía trên bên phải &gt; Hiển thị hệ thống.):
+		Ứng dụng: (Vui lòng liên kết đến trang Cửa hàng Play nếu có thể. Bạn có thể lấy liên kết từ bên trong ứng dụng Cửa hàng Play bằng cách nhấn vào 3 dấu chấm ở phía trên bên phải &gt; Chia sẻ &gt; Sao chép vào khay nhớ tạm. Hoặc bạn có thể tìm ứng dụng trên Trang web Cửa hàng Play: https://play.google.com/store/apps.)
+		Phiên bản ứng dụng:
+
+
+		Các bước để tái tạo:
+		(1)
+		(2)
+		(3)
+
+
+		Kết quả mong đợi:
+		(Điều gì đáng lẽ đã xảy ra?)
+
+
+		****KHÔNG THAY ĐỔI DƯỚI ĐÂY****
+		Crash ID: http://crash/%1$s"</string>
+	<string name="twitter_moments">Khoảnh khắc Twitter</string>
+	<string name="report_action_refresh_guide">Làm mới khởi động</string>
+	<string name="msg_token">Firebase Message Token (Bấm vào để xuất)</string>
+	<string name="change_detail_page_ceiling_style">Sử dụng trang chi tiết trần</string>
+	<string name="popular_game_video">Video Game phổ biến</string>
+	<string name="pref_title_dns_prefetch">Tìm nạp trước DNS</string>
+	<string name="check_nf_info_desc">Nhấn và giữ mục để hiển thị thông tin</string>
+	<string name="instance_id">Firebase Instance ID (Bấm vào để xuất)</string>
+	<string name="remote_config">Cấu hình từ xa (Bấm vào để xuất)</string>
+	<string name="clear_transfer_title">Xóa cờ chuyển</string>
+	<string name="summary_channel_layout">Buộc bố cục so le</string>
+	<string name="mw_crash_report_button_text">Cung cấp thêm thông tin</string>
+	<string name="mw_crashes_list_activity_title">Sự cố WebView</string>
+	<string name="mw_crash_label">Sự cố (%1$s) - [%2$s]</string>
+	<string name="mw_crashes_num">Sự cố (%1$d)</string>
 </resources>
