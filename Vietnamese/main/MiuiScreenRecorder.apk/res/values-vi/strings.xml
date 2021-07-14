@@ -131,7 +131,7 @@
 	<string name="chinese_day_22">22</string>
 	<string name="chinese_day_21">21</string>
 	<string name="the_new_years_day">Tết Nguyên Đán</string>
-	<string name="fmt_date_long_month_day">d MMMM</string>
+	<string name="fmt_date_long_month_day">dd MMMM</string>
 	<string name="chinese_day_28">28</string>
 	<string name="chinese_day_27">27</string>
 	<string name="the_easter_day">Lễ Phục Sinh</string>
@@ -140,7 +140,7 @@
 	<string name="eras_bc">TCN</string>
 	<string name="time_picker_label_hour">Giờ</string>
 	<string name="chinese_day_29">29</string>
-	<string name="fmt_date_short_month_day">d-M</string>
+	<string name="fmt_date_short_month_day">dd/MM</string>
 	<string name="fmt_time_12hour_minute_second_pm">h:mm:ss a</string>
 	<string name="fmt_date_year">yyyy</string>
 	<string name="month_december_shortest">Thg 12</string>
@@ -182,7 +182,7 @@
 	<string name="chinese_month_january">1</string>
 	<string name="fmt_weekday">W</string>
 	<string name="miuix_appcompat_search_input_description">Tìm kiếm</string>
-	<string name="fmt_date_numeric_month_day">d-M</string>
+	<string name="fmt_date_numeric_month_day">d/M</string>
 	<string name="chinese_day_13">13</string>
 	<string name="chinese_day_12">12</string>
 	<string name="chinese_day_11">11</string>
@@ -271,7 +271,7 @@
 	<string name="chinese_digit_zero">0</string>
 	<string name="chinese_symbol_animals_cow">Sửu</string>
 	<string name="the_armed_forces_day">Ngày Lực lượng Vũ trang</string>
-	<string name="fmt_date_long_year_month_day">d MMMM, yyyy</string>
+	<string name="fmt_date_long_year_month_day">dd MMMM, yyyy</string>
 	<string name="miuix_appcompat_select_all">Chọn tất cả</string>
 	<string name="chinese_digit_nine">9</string>
 	<string name="miuix_appcompat_action_mode_title_empty">Chọn mục</string>
@@ -288,7 +288,7 @@
 	<string name="the_second_day">Mùng 2 Tết Nguyên Đán</string>
 	<string name="tomorrow">Ngày mai</string>
 	<string name="solar_term_winter_solstice">Đông Chí</string>
-	<string name="fmt_date_numeric_year_month_day">dd/MM/yyyy</string>
+	<string name="fmt_date_numeric_year_month_day">d/M/yyyy</string>
 	<string name="month_march_short">Tháng 3</string>
 	<string name="solar_term_slight_cold">Tiểu Hàn</string>
 	<string name="sunday">Chủ nhật</string>

@@ -1043,7 +1043,7 @@ Kích thước cập nhật Delta: %2$s"</string>
 	<string name="ota_recovery_theme_dialog_title">Đang khôi phục chủ đề gốc</string>
 	<string name="theme_setting_all">Tất cả chủ đề</string>
 	<string name="search_sort_name">Sắp xếp</string>
-	<string name="fmt_date_numeric_year_month_day">d-M-yyyy</string>
+	<string name="fmt_date_numeric_year_month_day">d/M/yyyy</string>
 	<string name="mine_tab_title_local">Trên máy</string>
 	<string name="morning">SA</string>
 	<string name="de_mix_mode_desktop">Màn hình chính</string>
@@ -1073,7 +1073,7 @@ Kích thước cập nhật Delta: %2$s"</string>
 	<string name="search_non_filter_result">"Không tìm thấy kết quả"</string>
 	<string name="ota_recovery_theme_dialog_message">Một số yếu tố của chủ đề được sử dụng trước đây có thể không tương thích với phiên bản MIUI mới. Các yếu tố không tương thích sẽ được thay thế bằng các tùy chọn mặc định.</string>
 	<string name="search_sort_news">Mới nhất trước</string>
-	<string name="fmt_date_numeric_month_day">d-M</string>
+	<string name="fmt_date_numeric_month_day">d/M</string>
 	<string name="community_cta_dialog_ok">Đã hiểu</string>
 	<string name="super_wallpaper">Siêu Hình nền</string>
 	<string name="support_theme_store_supported">Cảm ơn sự hỗ trợ của bạn!</string>

@@ -667,7 +667,7 @@ Hãy thử tìm kiếm cái gì khác."</string>
     <string name="passport_message_dialog_title">Tin nhắn mã xác minh</string>
     <string name="passport_next">Tiếp theo</string>
     <string name="passport_notification_title">Đang nhập %1$s lỗi</string>
-    <string name="passport_password_req_notice">Mật khẩu phải từ 8-16 ký tự và bao gồm cả số và chữ (phân biệt chữ hoa chữ thường).</string>
+    <string name="passport_password_req_notice">Mật khẩu phải dài 8-16 ký tự và kết hợp ít nhất hai trong số sau: chữ số, chữ cái và ký hiệu đặc biệt (ví dụ: 123abc@# hoặc 123abc hoặc abc@#).</string>
     <string name="passport_phone_num_hint_text">Số điện thoại</string>
     <string name="passport_prev">Quay lại</string>
     <string name="passport_privacy_policy">Chính sách Riêng tư</string>

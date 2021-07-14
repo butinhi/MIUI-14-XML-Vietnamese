@@ -299,7 +299,7 @@
 	<string name="night">Tối</string>
 	<string name="the_second_day">Mùng hai tết Âm lịch</string>
 	<string name="eras_ad">Công nguyên</string>
-	<string name="fmt_date_numeric_year_month_day">dd/MM/yyyy</string>
+	<string name="fmt_date_numeric_year_month_day">d/M/yyyy</string>
 	<string name="morning">Sáng</string>
 	<string name="solar_term_slight_cold">Tiểu hàn</string>
 	<string name="solar_term_slight_heat">Tiểu thử</string>

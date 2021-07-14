@@ -246,7 +246,7 @@
     <string name="passport_input_password_for_login">Số điện thoại này đã được đăng ký. Vui lòng nhập mật khẩu để đăng nhập</string>
     <string name="passport_registered_phone_user_ID">ID người dùng: %s</string>
     <string name="passport_registered_phone_user_name">Tên người dùng: %s</string>
-    <string name="passport_password_req_notice">Mật khẩu phải từ 8–16 ký tự và bao gồm cả số và chữ (phân biệt chữ hoa chữ thường).</string>
+    <string name="passport_password_req_notice">Mật khẩu phải dài 8-16 ký tự và kết hợp ít nhất hai trong số sau: chữ số, chữ cái và ký hiệu đặc biệt (ví dụ: 123abc@# hoặc 123abc hoặc abc@#).</string>
     <string name="passport_reset_password_prompt">Mật khẩu không chính xác</string>
     <string name="passport_reset_password_title">Thiết lập lại mật khẩu</string>
     <string name="passport_auto_generate_pwd">Tạo mật khẩu bảo mật</string>
@@ -876,6 +876,7 @@ Gửi mã này cho người giám sát."</string>
 	<string name="exposed_dropdown_menu_content_description">Hiển thị menu</string>
 	<string name="clear_text_end_icon_content_description">Văn bản</string>
 	<string name="mtrl_picker_a11y_prev_month">Đổi sang tháng trước đó</string>
+	<string name="mtrl_picker_a11y_prev_month">Đổi sang tháng trước đó</string>
 	<string name="mtrl_picker_range_header_only_end_selected">Ngày bắt đầu – %1$s</string>
 	<string name="mtrl_picker_date_header_unselected">Ngày đã chọn</string>
 	<string name="mtrl_picker_invalid_format_example">Ví dụ: %1$s</string>
@@ -883,7 +884,7 @@ Gửi mã này cho người giám sát."</string>
 	<string name="shield_tag_ceil">"Không thể chặn thêm mục"</string>
 	<string name="miuix_sbl_tracking_progress_labe_refreshing">Đang làm mới…</string>
 	<string name="miui_lock_screen_large_date_12">"EEE
-dd/MM"</string>
+dd/M"</string>
 	<string name="miuix_sbl_tracking_progress_labe_up_refresh">Chỉ vài giây…</string>
 	<string name="miuix_sbl_tracking_progress_labe_refreshed">Đã làm mới</string>
 	<string name="miuix_sbl_tracking_progress_labe_up_none">"Đó là tất cả"</string>

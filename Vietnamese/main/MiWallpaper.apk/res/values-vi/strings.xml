@@ -9,7 +9,7 @@
 	<string name="chinese_day_23">23</string>
 	<string name="chinese_day_22">22</string>
 	<string name="chinese_day_21">21</string>
-	<string name="fmt_date_long_month_day">d MMMM</string>
+	<string name="fmt_date_long_month_day">dd MMMM</string>
 	<string name="miuix_sbl_tracking_progress_labe_up_refresh">Đang làm mới</string>
 	<string name="the_new_years_day">Tết Nguyên Đán</string>
 	<string name="chinese_day_28">28</string>
@@ -26,7 +26,7 @@
 	<string name="chinese_day_29">29</string>
 	<string name="not_set">Chưa đặt</string>
 	<string name="abc_action_bar_up_description">Quay lại</string>
-	<string name="fmt_date_short_month_day">d MMM</string>
+	<string name="fmt_date_short_month_day">dd/MM</string>
 	<string name="fmt_time_12hour_minute_second_pm">h:mm:ss a</string>
 	<string name="abc_search_hint">Tìm kiếm...</string>
 	<string name="fmt_date_year">yyyy</string>
@@ -74,7 +74,7 @@
 	<string name="chinese_month_january">1</string>
 	<string name="fmt_weekday">W</string>
 	<string name="preference_copied">\"%1$s\" đã sao chép vào clipboard.</string>
-	<string name="fmt_date_numeric_month_day">d-M</string>
+	<string name="fmt_date_numeric_month_day">d/M</string>
 	<string name="chinese_day_13">13</string>
 	<string name="chinese_day_12">12</string>
 	<string name="chinese_day_11">11</string>
@@ -166,7 +166,7 @@
 	<string name="chinese_digit_zero">0</string>
 	<string name="chinese_symbol_animals_cow">Sửu</string>
 	<string name="the_armed_forces_day">Ngày Lực lượng Vũ trang</string>
-	<string name="fmt_date_long_year_month_day">d MMMM, yyyy</string>
+	<string name="fmt_date_long_year_month_day">dd MMMM, yyyy</string>
 	<string name="chinese_digit_nine">9</string>
 	<string name="chinese_digit_three">3</string>
 	<string name="chinese_symbol_animals_pig">Hợi</string>

@@ -118,7 +118,7 @@ Hãy liên hệ với dịch vụ khách hàng Xiaomi."</string>
     <string name="mibi_giftcard_record">Phiếu quà tặng của tôi</string>
     <string name="mibi_giftcard_title">Phiếu quà tặng Mi Credit</string>
     <string name="mibi_giftcard_will_expire">Hết hạn vào %1$s</string>
-    <string name="mibi_giftcard_with_num">%1$s Mi Credit giảm giá có sẵn</string>
+    <string name="mibi_giftcard_with_num">&lt;font color=#FF7700&gt;&lt;xliff:g id=value&gt;%1$d&lt;/xliff:g&gt; Phiếu giảm giá Mi Coin khả dụng&lt;/font&gt;</string>
     <string name="mibi_illegal_intent">Yêu cầu nội dung bất hợp pháp</string>
     <string name="mibi_is_what">Bạn có thể mua những gì với Mi Credit?</string>
     <string name="mibi_label_balance">Số dư</string>
@@ -223,7 +223,7 @@ Trung tâm dịch vụ khách hàng: 400-100-5678"</string>
     <string name="mibi_progress_warning_waiting">Thanh toán vẫn chưa chuyển đến đến tài khoản của bạn.</string>
     <string name="mibi_prompt_info_button_hint">Chú ý (%d)</string>
     <string name="mibi_prompt_info_button_text">OK</string>
-    <string name="mibi_prompt_info_for_first_use">Mi Credit không thể sử dụng để mua các sản phẩm phần cứng trên Mi.com</string>
+    <string name="mibi_prompt_info_for_first_use">"&lt;font color=#ff7700&gt;Mi Coin không thể sử dụng để mua phần cứng trên Mi.com.&lt;/font&gt;"</string>
     <string name="mibi_prompt_info_title">Mẹo</string>
     <string name="mibi_recharge_grid_error_denomination">Số tiền Mi Credit phải là giữa %1$s và %2$s.</string>
     <string name="mibi_recharge_grid_item_more">Thêm</string>
@@ -362,7 +362,7 @@ Trung tâm dịch vụ khách hàng: 400-100-5678"</string>
     <string name="passport_message_dialog_title">SMS có mã xác minh</string>
     <string name="passport_next">Tiếp theo</string>
     <string name="passport_notification_title">Lỗi đăng nhập %1$s</string>
-    <string name="passport_password_req_notice">Mật khẩu phải từ 8-16 ký tự và bao gồm cả số và chữ (phân biệt chữ hoa chữ thường).</string>
+    <string name="passport_password_req_notice">Mật khẩu phải dài 8-16 ký tự và kết hợp ít nhất hai trong số sau: chữ số, chữ cái và ký hiệu đặc biệt (ví dụ: 123abc@# hoặc 123abc hoặc abc@#).</string>
     <string name="passport_phone_num_hint_text">Số điện thoại</string>
     <string name="passport_prev">Quay lại</string>
     <string name="passport_privacy_policy">Chính sách Riêng tư</string>

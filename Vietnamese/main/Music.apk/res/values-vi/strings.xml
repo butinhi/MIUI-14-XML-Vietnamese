@@ -1792,12 +1792,12 @@ Bạn có thể tìm thấy tất cả các bài hát của bạn ở một nơi
 	<string name="the_fifth_day">Mùng 5 Tết Nguyên Đán</string>
 	<string name="fmt_chinese_date">e N</string>
 	<string name="date_picker_lunar">Lịch âm</string>
-	<string name="fmt_date_numeric_month_day">d-M</string>
+	<string name="fmt_date_numeric_month_day">d/M</string>
 	<string name="the_double_ninth_festival">Lễ Trùng Cửu</string>
 	<string name="fmt_date_long_month_day">d MMMM</string>
 	<string name="fmt_date_short_year_month_day">d MMM, yyyy</string>
 	<string name="the_mid_autumn_festival">Lễ Trung Thu</string>
-	<string name="fmt_date_numeric_year_month_day">d-M-yyyy</string>
+	<string name="fmt_date_numeric_year_month_day">d/M/yyyy</string>
 	<string name="morning">SA</string>
 	<string name="fmt_date_long_year_month_day">d MMMM, yyyy</string>
 	<string name="the_dragon_boat_festival">Lễ hội Thuyền Rồng</string>

@@ -261,7 +261,7 @@
 	<string name="chinese_day_22">22</string>
 	<string name="chinese_day_21">21</string>
 	<string name="the_new_years_day">Tết Nguyên Đán</string>
-	<string name="fmt_date_long_month_day">d MMMM</string>
+	<string name="fmt_date_long_month_day">dd MMMM</string>
 	<string name="chinese_day_28">28</string>
 	<string name="chinese_day_27">27</string>
 	<string name="the_easter_day">Lễ Phục Sinh</string>
@@ -269,7 +269,7 @@
 	<string name="chinese_day_25">25</string>
 	<string name="eras_bc">TCN</string>
 	<string name="chinese_day_29">29</string>
-	<string name="fmt_date_short_month_day">d MMM</string>
+	<string name="fmt_date_short_month_day">dd/MM</string>
 	<string name="month_december_shortest">Thg 12</string>
 	<string name="chinese_day_30">30</string>
 	<string name="night">CH</string>
@@ -383,7 +383,7 @@
 	<string name="chinese_digit_zero">0</string>
 	<string name="chinese_symbol_animals_cow">Sửu</string>
 	<string name="the_armed_forces_day">Ngày Lực lượng Vũ trang</string>
-	<string name="fmt_date_long_year_month_day">d MMMM, yyyy</string>
+	<string name="fmt_date_long_year_month_day">dd MMMM, yyyy</string>
 	<string name="miuix_appcompat_select_all">Chọn tất cả</string>
 	<string name="chinese_digit_nine">9</string>
 	<string name="miuix_appcompat_action_mode_title_empty">Chọn mục</string>

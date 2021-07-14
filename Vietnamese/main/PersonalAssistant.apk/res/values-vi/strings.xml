@@ -1922,7 +1922,7 @@ Nếu không có dự phòng, số điện thoại bị quên hoặc bị khóa,
 	<string name="app_pa_setting_service_forecast_summary">Hiển thị gợi ý ứng dụng hoặc tính năng bạn thường dùng</string>
 	<string name="preference_copied">\"%1$s\" đã sao chép vào clipboard.</string>
 	<string name="app_express_empty_extra">KIỂM TRA</string>
-	<string name="fmt_date_numeric_month_day">d-M</string>
+	<string name="fmt_date_numeric_month_day">d/M</string>
 	<string name="app_pa_setting_service_recent_summary">Ứng dụng nhanh và lối tắt xuất hiện sau khi bạn vuốt xuống trong App vault</string>
 	<string name="chinese_day_13">13</string>
 	<string name="chinese_day_12">12</string>
@@ -2088,11 +2088,11 @@ Nếu không có dự phòng, số điện thoại bị quên hoặc bị khóa,
 	<string name="app_disclaimer_title">Từ chối</string>
 	<string name="pm">CH</string>
 	<string name="the_fifth_day">Mùng 5 Tết Nguyên Đán</string>
-	<string name="fmt_date_long_month_day">d MMMM</string>
+	<string name="fmt_date_long_month_day">dd MMMM</string>
 	<string name="search_menu_title">Tìm kiếm</string>
 	<string name="time_picker_label_hour">Giờ</string>
 	<string name="not_set">Chưa đặt</string>
-	<string name="fmt_date_short_month_day">d-M</string>
+	<string name="fmt_date_short_month_day">dd/MM</string>
 	<string name="fmt_time_12hour_minute_second_pm">h:mm:ss a</string>
 	<string name="fmt_date_year">yyyy</string>
 	<string name="night">CH</string>
@@ -2176,7 +2176,7 @@ Nếu không có dự phòng, số điện thoại bị quên hoặc bị khóa,
 	<string name="miuix_search_history_clear">Xóa lịch sử tìm kiếm</string>
 	<string name="chinese_symbol_animals_cow">Sửu</string>
 	<string name="miuix_search_action_mode_cancel">Hủy</string>
-	<string name="fmt_date_long_year_month_day">d MMMM, yyyy</string>
+	<string name="fmt_date_long_year_month_day">dd MMMM, yyyy</string>
 	<string name="app_pa_setting_service_news">Tin tức</string>
 	<string name="chinese_digit_nine">9</string>
 	<string name="chinese_digit_three">3</string>
@@ -2189,7 +2189,7 @@ Nếu không có dự phòng, số điện thoại bị quên hoặc bị khóa,
 	<string name="miuix_appcompat_cloud_state_syncing">Đang đồng bộ với đám mây</string>
 	<string name="fmt_weekday_time_timezone">W T z</string>
 	<string name="miuix_search_history_default_title">Lịch sử tìm kiếm</string>
-	<string name="fmt_date_numeric_year_month_day">dd/MM/yyyy</string>
+	<string name="fmt_date_numeric_year_month_day">d/M/yyyy</string>
 	<string name="app_express_auth_extra">Thêm số điện thoại</string>
 	<string name="solar_term_slight_cold">Tiểu Hàn</string>
 	<string name="sunday">Chủ nhật</string>

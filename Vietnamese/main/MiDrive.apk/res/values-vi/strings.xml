@@ -117,8 +117,8 @@
     <string name="file_change_btn_upload">Tải lên tập tin</string>
     <string name="just_now">Vừa xong</string>
     <string name="yesterday">Hôm qua</string>
-    <string name="month_day_format">d MMM</string>
-    <string name="year_month_day_format">d MMM, yyyy</string>
+    <string name="month_day_format">dd/MM</string>
+    <string name="year_month_day_format">dd MMMM, yyyy</string>
     <string name="byteShort">B</string>
     <string name="kilobyteShort">KB</string>
     <string name="megabyteShort">MB</string>

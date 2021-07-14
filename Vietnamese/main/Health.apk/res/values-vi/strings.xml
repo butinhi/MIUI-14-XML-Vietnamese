@@ -311,7 +311,7 @@ Kích thước: %2$s"</string>
 	<string name="password_toggle_content_description">Chuyển đổi chế độ hiển thị mật khẩu</string>
 	<string name="icon_content_description">Biểu tượng hộp thoại</string>
 	<string name="character_counter_overflowed_content_description">Giới hạn ký tự đã đạt %1$d trên %2$d</string>
-	<string name="mtrl_picker_date_format">dd MMM,yyyy</string>
+	<string name="mtrl_picker_date_format">dd MMM, yyyy</string>
 	<string name="mtrl_picker_date_header_title">Chọn một ngày</string>
 	<string name="mtrl_badge_numberless_content_description">Thông báo mới</string>
 	<string name="dialog_sleep_purpose">Chào mừng bạn đến với dịch vụ theo dõi giấc ngủ Sức khỏe Mi! Bạn có thể sử dụng dịch vụ này để ghi lại giấc ngủ và quản lý dữ liệu giấc ngủ của bạn. Sức khỏe Mi sẽ tự động ghi lại giấc ngủ của bạn dựa trên mức sử dụng điện thoại, số liệu thống kê hoạt động, cũng như thời gian ngủ và thức dậy bạn đặt. Để đảm bảo tính chính xác của dữ liệu giấc ngủ, Sức khỏe Mi cần có quyền tự khởi chạy. Tất cả dữ liệu liên quan đến tính năng này sẽ được lưu trữ cục bộ trên thiết bị của bạn.</string>
@@ -816,7 +816,7 @@ Bạn có thể chọn nguồn dữ liệu khác trong Thêm &gt; Nguồn dữ l
 	<string name="sleep_snore_audio_auto">Tự động ghi lại ngáy và nói mơ</string>
 	<string name="snore_detection_running_state_description">Micro đang bật. Nó sẽ tiếp tục hoạt động dưới nền.</string>
 	<string name="close">Tắt</string>
-	<string name="fmt_date_numeric_month_day">d-M</string>
+	<string name="fmt_date_numeric_month_day">d/M</string>
 	<string name="sleep_deep_light_analysis">Ngủ ngắn và ngủ sâu</string>
 	<string name="snore_detection_notification_title">Đang kiểm tra giấc ngủ</string>
 	<string name="the_mid_autumn_festival">Lễ Trung Thu</string>
@@ -1011,7 +1011,7 @@ Bạn có thể chọn nguồn dữ liệu khác trong Thêm &gt; Nguồn dữ l
 	<string name="stand_notice_title1">Đứng dậy và vận động một chút</string>
 	<string name="bone_mass">Chỉ số khối xương</string>
 	<string name="data_details">Chi tiết dữ liệu</string>
-	<string name="fmt_date_long_month_day">d MMMM</string>
+	<string name="fmt_date_long_month_day">dd MMMM</string>
 	<string name="tb_picker_weight">Cân nặng đã chọn: %1$s. Vuốt theo chiều dọc để chọn cân nặng.</string>
 	<string name="stand_notice_title5">Có vẻ như bạn chưa đứng dậy giải lao trong một giờ qua</string>
 	<string name="fall_sleep_hard">Vấn đề khi đi ngủ</string>
@@ -1026,7 +1026,7 @@ Bạn có thể chọn nguồn dữ liệu khác trong Thêm &gt; Nguồn dữ l
 Nếu sự cố này xảy ra thường xuyên, hãy kiểm tra thiết bị của bạn để biết các tác vụ tắt máy theo lịch hoặc cập nhật hệ thống qua đêm."</string>
 	<string name="snore_label">Ngáy</string>
 	<string name="visceral_fat">Chất béo nội tạng</string>
-	<string name="fmt_date_short_month_day">d MMM</string>
+	<string name="fmt_date_short_month_day">dd/MM</string>
 	<string name="tb_picker_sleep_goal">Mục tiêu ngủ đã chọn: %1$s. Vuốt theo chiều dọc để chọn mục tiêu.</string>
 	<string name="tb_user_step_target_btn">Thay đổi mục tiêu</string>
 	<string name="sleep_detection_guide_schedule_hint_two">Đặt lịch đi ngủ của bạn.</string>
@@ -1101,7 +1101,7 @@ Nếu sự cố này xảy ra thường xuyên, hãy kiểm tra thiết bị c�
 	<string name="tb_home_sleep_card_no_data">Ngủ. Không có dữ liệu hôm nay.</string>
 	<string name="snore_detection_abnormal_notification_title">Lỗi theo dõi giấc ngủ</string>
 	<string name="dream_talk">Nói mơ %1$s</string>
-	<string name="fmt_date_short_year_month_day">d MMM, yyyy</string>
+	<string name="fmt_date_short_year_month_day">dd/MM/yyyy</string>
 	<string name="description">Chi tiết</string>
 	<string name="protein_rate_descripe_content">"Tỷ lệ protein là tỷ lệ protein trong tổng trọng lượng của cơ thể con người. Điều quan trọng là phát hiện sự mất cân bằng dinh dưỡng và duy trì chế độ ăn uống lành mạnh."</string>
 	<string name="standard_format">(tiêu chuẩn: %1s)</string>
@@ -1142,7 +1142,7 @@ Nếu sự cố này xảy ra thường xuyên, hãy kiểm tra thiết bị c�
 	<string name="sleep_duration_more_description">"Bạn ngủ nhiều hơn cần thiết."</string>
 	<string name="tb_mens_month_period_date_unselected">%1$s. Ngày %2$d của chu kỳ kinh nguyệt. Chạm để chọn ngày.</string>
 	<string name="getUp_time_late_description">"Bạn dậy muộn. Ngủ nhiều quá không mang lại lợi ích đáng kể nào cho sức khỏe của bạn."</string>
-	<string name="fmt_date_long_year_month_day">d MMMM, yyyy</string>
+	<string name="fmt_date_long_year_month_day">dd MMMM, yyyy</string>
 	<string name="climb">Leo cầu thang</string>
 	<string name="tb_play_previous">Chuyển sang ghi âm trước đó</string>
 	<string name="snore_duration_label">Thời lượng ngáy</string>
@@ -1157,7 +1157,7 @@ Nếu sự cố này xảy ra thường xuyên, hãy kiểm tra thiết bị c�
 	<string name="min_altitude">Độ cao thấp nhất</string>
 	<string name="tb_exercise_detail_step_w_m_no_goal">Số bước trung bình hàng ngày: %1$d.</string>
 	<string name="tb_exercise_detail_duration_daily_enough">Thời lượng tập luyện tính bằng phút: %1$d. Tập luyện đã đủ.</string>
-	<string name="fmt_date_numeric_year_month_day">d-M-yyyy</string>
+	<string name="fmt_date_numeric_year_month_day">d/M/yyyy</string>
 	<string name="date_format_y_m_d_h_m_4">dd/MM/yyyy HH:mm:ss</string>
 	<string name="delete_record">Xóa bản ghi</string>
 	<string name="tb_mens_month_future_date">"%1$s. Không thể chọn ngày tương lai."</string>
