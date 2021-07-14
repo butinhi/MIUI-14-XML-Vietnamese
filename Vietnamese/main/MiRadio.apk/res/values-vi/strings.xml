@@ -1714,4 +1714,29 @@ Không thanh toán riêng"</string>
 	<string name="login_by_local_phone_short_text">Đăng nhập</string>
 	<string name="network_error_info">Lỗi mạng đã xảy ra. Kiểm tra cài đặt mạng của bạn và thử lại.</string>
 	<string name="login_with_sns">Đăng nhập bằng cách khác</string>
+    <string name="talkback_cover">Che</string>
+    <string name="doing_query_account">Đang kiểm tra thông tin tài khoản…</string>
+    <string name="talkback_pack_up_dialog">Cất đi</string>
+    <string name="user_agreement_hint_default">"Tôi đã đọc và đồng ý với &lt;a href=\"%1$s\"&gt;Thỏa thuận Người dùng&lt;/a&gt; và &lt;a href=\"%2$s\"&gt;Chính sách Riêng tư.&lt;/a&gt;"</string>
+    <string name="login_by_local_phone_long_text">Đăng nhập ngay</string>
+    <string name="request_error_unknown">Đã xảy ra lỗi hệ thống. Quay lại rồi thử lại.</string>
+    <string name="talkback_back15s">Trở lại</string>
+    <string name="talkback_expand_dialog">Mở rộng</string>
+    <string name="user_agreement_hint_with_mobile">"Tôi đã đọc và đồng ý với &lt;a href=\"%1$s\"&gt;Thỏa thuận Người dùng&lt;/a&gt;, &lt;a href=\"%2$s\"&gt;Chính sách Riêng tư&lt;/a&gt;, và &lt;a href=\"%3$s\"&gt;Điều khoản và Điều kiện của dịch vụ xác thực China Mobile&lt;/a&gt;."</string>
+    <string name="talkback_delete">Xóa</string>
+    <string name="talkback_fast_forward">Tua nhanh</string>
+    <string name="talkback_rule_description">Mô tả quy tắc</string>
+    <string name="global_remove_app_description_title">Xóa \"Đài FM\" khỏi Màn hình chính?</string>
+    <string name="talkback_change_mode">Thay đổi chế độ</string>
+    <string name="user_agreement_hint_with_telecom">"Tôi đã đọc và đồng ý với &lt;a href=\"%1$s\"&gt;Thỏa thuận Người dùng&lt;/a&gt;, &lt;a href=\"%2$s\"&gt;Chính sách Riêng tư&lt;/a&gt;, và &lt;a href=\"%3$s\"&gt;Điều khoản và Điều kiện của dịch vụ xác thực tài khoản eSurfing&lt;/a&gt;."</string>
+    <string name="talkback_history">Lịch sử</string>
+    <string name="global_remove_app_description_content">"Đài FM là ứng dụng hệ thống. Bạn sẽ không thể nghe các chương trình phát thanh sau khi xóa phím tắt Màn hình chính."</string>
+    <string name="user_agreement_hint_with_unicom">"Tôi đã đọc và đồng ý với &lt;a href=\"%1$s\"&gt;Thỏa thuận Người dùng&lt;/a&gt;, &lt;a href=\"%2$s\"&gt;Chính sách Riêng tư&lt;/a&gt;, và &lt;a href=\"%3$s\"&gt;Điều khoản và Điều kiện của dịch vụ xác thực China Unicom&lt;/a&gt;."</string>
+    <string name="login_other">Tài khoản Mi khác</string>
+    <string name="global_app_description_content">"Đài FM là một ứng dụng hệ thống. Bạn sẽ không thể nghe các chương trình phát thanh sau khi gỡ cài đặt ứng dụng."</string>
+    <string name="global_app_description_title">Gỡ cài đặt Đài FM?</string>
+    <string name="talkback_playing_list">Danh sách phát</string>
+    <string name="talkback_classify">Phân loại</string>
+    <string name="talkback_timing">Thời gian</string>
+    <string name="talkback_sort">Sắp xếp</string>
 </resources>

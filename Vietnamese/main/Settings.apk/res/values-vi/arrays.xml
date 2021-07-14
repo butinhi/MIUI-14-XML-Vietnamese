@@ -1779,4 +1779,9 @@ Ghi chú: Chỉ cho phiên bản Ubuntu 8.04!"</item>
 		<item>Phụ trợ</item>
 		<item>Đầy đủ</item>
 	</string-array>
+    <string-array name="color_game_led_freq_entries">
+        <item>Mỗi hai giây</item>
+        <item>Mỗi ba giây</item>
+        <item>Mỗi năm giây</item>
+    </string-array>
 </resources>
