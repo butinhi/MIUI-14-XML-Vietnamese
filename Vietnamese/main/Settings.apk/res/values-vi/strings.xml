@@ -11818,4 +11818,5 @@ Sao chép tệp tin sao lưu vào thiết bị của bạn (MIUI-backup-AllBacku
     <string name="shoulder_key_settings_title">Nâng nút viền</string>
     <string name="shoulder_key_sound_text_bullet">Nạp đạn</string>
     <string name="color_game_led_freq_title">Tần số nhấp nháy</string>
+    <string name="color_game_led_freq_entries">Mỗi %d giây</string>
 </resources>

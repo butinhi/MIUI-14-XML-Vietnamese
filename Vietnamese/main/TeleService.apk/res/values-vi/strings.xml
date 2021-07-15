@@ -3510,4 +3510,9 @@ Bất cứ người dùng nào cũng có thể cập nhật ứng dụng cho ng�
     <string name="mobile_network_dual_card_optimizationmobile_title">Tối ưu hóa mạng di động sim kép</string>
     <string name="mobile_geo_location_config_title">Tối ưu hóa chất lượng mạng điểm cố định</string>
     <string name="fiveg_carrier_aggregation_title">Tổng hợp mạng 5G</string>
+	<string name="menu_new_display_open">Mở trong cửa sổ mới</string>
+	<string name="menu_pc_open">Mở bằng chương trình máy tính</string>
+    <string name="relay_call_released_due_to_connect_lost">Mất kết nối. Tiếp tục cuộc gọi trên thiết bị đã ngắt kết nối.</string>
+    <string name="relay_connection_service_label">Tích hợp Chuyển tiếp cuộc gọi</string>
+    <string name="relay_call_answered_by_other_devices">Cuộc gọi này đã được trả lời trên thiết bị khác.</string>
 </resources>
