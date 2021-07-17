@@ -2165,10 +2165,10 @@ Chứng chỉ bộ nhớ có thể không bật</string>
     <string name="power_discharge_by_only_enhanced">Nên kéo dài đến khoảng %1$s dựa trên mức sử dụng của bạn</string>
     <string name="power_remaining_duration_only_shutdown_imminent">Điện thoại có thể tắt sớm</string>
     <string name="power_remaining_duration_shutdown_imminent">Điện thoại có thể tắt sớm (%1$s)</string>
-    <string name="power_remaining_less_than_duration">Ít hơn %1$s còn lại (%2$s)</string>
-    <string name="power_remaining_less_than_duration_only">Ít hơn %1$s còn lại</string>
-    <string name="power_remaining_more_than_subtext">Nhiều hơn %1$s còn lại (%2$s)</string>
-    <string name="power_remaining_only_more_than_subtext">Nhiều hơn %1$s còn lại</string>
+    <string name="power_remaining_less_than_duration">Còn lại ít hơn %1$s (%2$s)</string>
+    <string name="power_remaining_less_than_duration_only">Còn lại ít hơn %1$s</string>
+    <string name="power_remaining_more_than_subtext">Còn lại nhiều hơn %1$s (%2$s)</string>
+    <string name="power_remaining_only_more_than_subtext">Còn lại nhiều hơn %1$s</string>
     <string name="no_mobile_data_roaming">Chuyển vùng dữ liệu không khả dụng</string>
     <string name="network_disconnected">Đã ngắt kết nối</string>
     <string name="network_could_not_connect">Không thể kết nối</string>
@@ -2559,7 +2559,7 @@ Cuộc gọi khẩn cấp chỉ khả dụng trong vùng phủ sóng Mạng di �
     <string name="no_ecc_number">Không có số khẩn cấp tùy chỉnh.</string>
     <string name="notification_network_selection_without_operator">Mạng đã chọn không khả dụng</string>
     <string name="notification_voicemail_text">Chọn để xem thư thoại</string>
-    <string name="one_retry_left">1 lần thử còn lại</string>
+    <string name="one_retry_left">Còn lại 1 lần thử</string>
     <string name="only_use_LTE_data">Chỉ sử dụng Dữ liệu LTE</string>
     <string name="only_use_LTE_data_summary">Để bật chỉ sử dụng dữ liệu đơn, tính năng sẽ không thể sử dụng Gọi điện và tin nhắn văn bản.</string>
     <string name="pin_length_indicate">(4–8 chữ số)</string>
@@ -2574,7 +2574,7 @@ Cuộc gọi khẩn cấp chỉ khả dụng trong vùng phủ sóng Mạng di �
     <string name="puk_length_indicate">(8 chữ số)</string>
     <string name="register_femtocell_point_result_fail_tip">Không thể kết nối với mạng này bây giờ. Vui lòng thử lại sau.</string>
     <string name="register_femtocell_point_wait_tip">Đang đăng ký %s…</string>
-    <string name="retries_left">%d lần thử còn lại</string>
+    <string name="retries_left">Còn lại %d lần thử</string>
     <string name="sim_permanently_locked">Nhập sai PUK2 hơn 10 lần. Thẻ SIM đã khóa vĩnh viễn</string>
     <string name="sum_search_femtocell_networks">Chọn femtocell thủ công</string>
     <string name="switch_dds_to_sub_alert_msg">Vui lòng chuyển dữ liệu di động sang CT SIM</string>

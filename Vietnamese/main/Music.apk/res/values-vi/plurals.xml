@@ -144,7 +144,7 @@ Lưu ý: Các tập tin cũng sẽ bị xóa khỏi thiết bị này."</item>
 		<item quantity="other">(%d bài hát)</item>
     </plurals>	    
     <plurals name="Nsleep_quit_warning">
-        <item quantity="other">%d phút còn lại</item>
+        <item quantity="other">Còn lại %d phút</item>
     </plurals>
 	 <plurals name="comment_input_length_invalid">
         <item quantity="other">Bạn có thể nhập tới %1$d ký tự.</item>

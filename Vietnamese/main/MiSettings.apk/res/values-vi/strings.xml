@@ -8,7 +8,7 @@
 	<string name="usage_app_limit_alter_summary">"Có vẻ giới hạn thời gian này ít hơn thời gian bạn sử dụng ứng dụng hôm nay. Vẫn đặt giới hạn?"</string>
 	<string name="usage_app_limit_alter_title">Kiểm tra giới hạn thời gian màn hình</string>
 	<string name="usage_app_limit_prelong">Mở rộng thời gian</string>
-	<string name="usage_app_limit_reach_summay">%s còn lại</string>
+	<string name="usage_app_limit_reach_summay">Còn lại %s</string>
 	<string name="usage_app_limit_reach_title">%s đã đạt giới hạn thời gian</string>
 	<string name="usage_app_limit_summary">"Ứng dụng đã chọn sẽ không khả dụng khi đạt giới hạn thời gian"</string>
 	<string name="usage_app_limit_title">Giới hạn thời gian màn hình</string>

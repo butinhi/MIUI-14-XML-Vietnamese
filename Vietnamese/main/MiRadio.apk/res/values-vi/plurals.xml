@@ -16,10 +16,10 @@
         <item quantity="other">Trình phát sẽ dừng trong %d phút</item>
     </plurals>
     <plurals name="Nsleep_quit_warning">
-        <item quantity="other">%d phút còn lại</item>
+        <item quantity="other">Còn lại %d phút</item>
     </plurals>
     <plurals name="Nsleep_quit_warning_custom">
-        <item quantity="other">Tùy chỉnh:%d phút còn lại</item>
+        <item quantity="other">Tùy chỉnh: Còn lại %d phút</item>
     </plurals>
     <plurals name="Nsong_group_detail_subtitle">
         <item quantity="other">Đã tạo %1$s | Tất cả %2$d bài hát</item>

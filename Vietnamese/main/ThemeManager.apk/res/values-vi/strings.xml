@@ -787,7 +787,7 @@ Chủ đề sẽ xác định ứng dụng nào bạn đang sử dụng và hi�
 	<string name="wallpaper_loop_title_desk_wallpaper">Trình chiếu hình nền Màn hình chính</string>
 	<string name="wallpaper_loop_title_lock_walpaper">Trình chiếu hình nền Màn hình khóa</string>
 	<string name="audition_ringtone">Phát</string>
-	<string name="count_down_tip">%ds còn lại</string>
+	<string name="count_down_tip">Còn lại %d giây</string>
 	<string name="like_list">Mục tôi đã thích</string>
 	<string name="playing_ringtone">Đang phát</string>
 	<string name="trial_count_empty">Không còn mục nào để phát. Quay lại vào ngày mai!</string>
@@ -1037,7 +1037,7 @@ Kích thước cập nhật Delta: %2$s"</string>
 	<string name="miuix_sbl_tracking_progress_labe_refreshing">Đang làm mới…</string>
 	<string name="no_network_desc">"Không thể kết nối mạng"</string>
 	<string name="de_no_more_recommendations">"Đó là tất cả."</string>
-	<string name="miuix_appcompat_cloud_state_syncing">Đồng bộ với đám mây</string>
+	<string name="miuix_appcompat_cloud_state_syncing">Đồng bộ đám mây</string>
 	<string name="night">CH</string>
 	<string name="update_community_tip">Cập nhật Cộng đồng Mi để có thể sử dụng tính năng này</string>
 	<string name="ota_recovery_theme_dialog_title">Đang khôi phục chủ đề gốc</string>

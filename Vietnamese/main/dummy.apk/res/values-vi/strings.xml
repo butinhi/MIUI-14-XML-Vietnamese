@@ -4496,7 +4496,7 @@ OTG tự động tắt sau 10 phút không hoạt động."</string>
     <string name="power_discharge_by_only">Nên kéo dài đến khoảng %1$s</string>
     <string name="power_discharge_by_only_enhanced">Nên kéo dài đến khoảng %1$s dựa trên mức sử dụng của bạn</string>
     <string name="power_discharge_by_only_short">Cho đến %1$s</string>
-    <string name="power_discharge_remaining">%1$s còn lại</string>
+    <string name="power_discharge_remaining">Còn lại %1$s</string>
     <string name="power_discharging_duration">%1$s - còn lại khoảng %2$s</string>
     <string name="power_discharging_duration_enhanced">Khoảng %1$s còn lại dựa trên mức sử dụng của bạn (%2$s)</string>
     <string name="power_flashlight">Đèn pin</string>
@@ -4526,10 +4526,10 @@ OTG tự động tắt sau 10 phút không hoạt động."</string>
     <string name="power_remaining_duration_only_short">Còn lại%1$s</string>
     <string name="power_remaining_duration_only_shutdown_imminent">Điện thoại có thể tắt sớm</string>
     <string name="power_remaining_duration_shutdown_imminent">Điện thoại có thể tắt sớm (%1$s)</string>
-    <string name="power_remaining_less_than_duration">Ít hơn %1$s còn lại (%2$s)</string>
-    <string name="power_remaining_less_than_duration_only">Ít hơn %1$s còn lại</string>
-    <string name="power_remaining_more_than_subtext">Nhiều hơn %1$s còn lại (%2$s)</string>
-    <string name="power_remaining_only_more_than_subtext">Nhiều hơn %1$s còn lại</string>
+    <string name="power_remaining_less_than_duration">Còn lại ít hơn %1$s (%2$s)</string>
+    <string name="power_remaining_less_than_duration_only">Còn lại ít hơn %1$s</string>
+    <string name="power_remaining_more_than_subtext">Còn lại nhiều hơn %1$s (%2$s)</string>
+    <string name="power_remaining_only_more_than_subtext">Còn lại nhiều hơn %1$s</string>
     <string name="power_screen">Màn hình</string>
     <string name="power_settings_title">Hiệu suất hệ thống</string>
     <string name="power_suggestion_extend_battery">Tăng thời lượng pin %1$s</string>
@@ -6554,7 +6554,7 @@ Vân tay đã lưu của bạn cũng sẽ bị xóa khỏi hồ sơ này và b�
     <string name="usage_app_limit_alter_summary">Có vẻ như thời gian giới hạn này ngắn hơn thời gian bạn dùng ứng dụng hôm nay. Vẫn đặt giới hạn?</string>
     <string name="usage_app_limit_alter_title">Kiểm tra giới hạn thời gian màn hình</string>
     <string name="usage_app_limit_prelong">Mở rộng thời gian</string>
-    <string name="usage_app_limit_reach_summay">%s còn lại</string>
+    <string name="usage_app_limit_reach_summay">Còn lại %s</string>
     <string name="usage_app_limit_reach_title">%s đang đạt đến giới hạn thời gian màn hình</string>
     <string name="usage_app_limit_summary">Ứng dụng đã chọn sẽ không khả dụng khi đạt tới giới hạn thời gian màn hình</string>
     <string name="usage_app_limit_title">Giới hạn thời gian màn hình</string>
@@ -6640,7 +6640,7 @@ Vân tay đã lưu của bạn cũng sẽ bị xóa khỏi hồ sơ này và b�
     <string name="usagestats_app_category_miui_video_etc">Nhạc và video</string>
     <string name="usagestats_device_notification_des">Giới hạn thời gian sử dụng màn hình hôm nay: %s</string>
     <string name="usagestats_device_notification_des_over">Bạn đã đạt đến giới hạn thời gian sử dụng màn hình hôm nay</string>
-    <string name="usagestats_device_notification_des_reset" formatted="false">Giới hạn hôm nay: %s | %s còn lại</string>
+    <string name="usagestats_device_notification_des_reset" formatted="false">Giới hạn hôm nay: %s | Còn lại %s</string>
     <string name="usagestats_device_notification_title">Cảnh báo thời gian sử dụng màn hình</string>
     <string name="usagestats_device_timeout_des" formatted="false">Bạn đã sử dụng điện thoại %d giờ %d phút hôm nay. Hãy nghỉ ngơi!</string>
     <string name="usagestats_device_timeout_negative">Nhắc nhở trong 1 giờ</string>

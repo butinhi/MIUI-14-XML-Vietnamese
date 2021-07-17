@@ -315,28 +315,28 @@ Nếu bạn bật dữ liệu di động lại, nhà mạng sẽ tính phí bổ
         <item quantity="other">%d giây từ lần sạc cuối</item>
     </plurals>
     <plurals name="pc_statistics_battery_last_minute">
-        <item quantity="other">%d phút còn lại</item>
+        <item quantity="other">Còn lại %d phút</item>
     </plurals>
     <plurals name="pc_statistics_battery_last_hour">
-        <item quantity="other">%d giờ còn lại</item>
+        <item quantity="other">Còn lại %d giờ</item>
     </plurals>
 	<plurals name="power_main_battery_last_day">
-		<item quantity="other">%s ngày còn lại</item>
+		<item quantity="other">Còn lại %s ngày</item>
 	</plurals>
 	<plurals name="power_main_battery_last_hour">
-		<item quantity="other">%s giờ còn lại</item>
+		<item quantity="other">Còn lại %s giờ</item>
 	</plurals>
 	<plurals name="power_main_battery_last_minute">
-		<item quantity="other">%s phút còn lại</item>
+		<item quantity="other">Còn lại %s phút</item>
 	</plurals>
 	<plurals name="pc_main_sub_battery_text_day">
-		<item quantity="other">%s ngày còn lại</item>
+		<item quantity="other">Còn lại %s ngày</item>
 	</plurals>
 	<plurals name="pc_main_sub_battery_text_hour">
-		<item quantity="other">%s giờ còn lại</item>
+		<item quantity="other">Còn lại %s giờ</item>
 	</plurals>
 	<plurals name="pc_main_sub_battery_text_minute">
-		<item quantity="other">%s phút còn lại</item>
+		<item quantity="other">Còn lại %s phút</item>
 	</plurals>
 	<plurals name="pc_main_power_manager_day">
 		<item quantity="other">%s ngày cho đến khi sạc đầy</item>
@@ -545,7 +545,7 @@ Bạn có thể nhận dùng thử miễn phí %d ngày!"</item>
 		<item quantity="other">" %d mục có thể tối ưu"</item>
 	</plurals>
 	<plurals name="power_center_battery_suggest">
-		<item quantity="other">Tối ưu %d để tiết kiệm pin</item>
+		<item quantity="other">Tối ưu %d mục để tiết kiệm pin</item>
 	</plurals>
 	<plurals name="privacy_risk_install_app_tip">
 		<item quantity="other">%d ứng dụng rủi ro</item>

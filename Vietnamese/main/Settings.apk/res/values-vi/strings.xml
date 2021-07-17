@@ -2197,8 +2197,7 @@ Nếu thiết bị có nhiều người dùng, việc sử dụng lối tắt n�
     <string name="power_usage_summary_title">Pin &amp; hiệu suất</string>
     <string name="power_usage_summary">Cái gì đang sử dụng pin</string>
     <string name="power_usage_not_available">Không có dữ liệu sử dụng pin.</string>
-    <string name="power_usage_level_and_status">%1$s - %2$s</string>
-    <string name="power_discharge_remaining">%1$s còn lại</string>
+    <string name="power_discharge_remaining">Còn lại %1$s</string>
     <string name="power_charge_remaining">%1$s để tính phí</string>
     <string name="power_usage_list_summary">Mức sử dụng ứng dụng kể từ khi sạc đầy (cách đây ^1)</string>
     <string name="battery_since_unplugged">Sử dụng pin từ khi tháo đầu cắm</string>
@@ -7341,10 +7340,10 @@ Nếu điều này tiếp diễn, bạn có thể phải gỡ cài đặt ứng 
     <string name="power_remaining_duration_only_enhanced">Khoảng %1$s còn lại dựa trên mức sử dụng của bạn</string>
     <string name="power_remaining_duration_only_shutdown_imminent">Điện thoại có thể tắt sớm</string>
     <string name="power_remaining_duration_shutdown_imminent">Điện thoại có thể tắt sớm (%1$s)</string>
-    <string name="power_remaining_less_than_duration">Ít hơn %1$s còn lại (%2$s)</string>
-    <string name="power_remaining_less_than_duration_only">Ít hơn %1$s còn lại</string>
-    <string name="power_remaining_more_than_subtext">Nhiều hơn %1$s còn lại (%2$s)</string>
-    <string name="power_remaining_only_more_than_subtext">Nhiều hơn %1$s còn lại</string>
+    <string name="power_remaining_less_than_duration">Còn lại ít hơn %1$s (%2$s)</string>
+    <string name="power_remaining_less_than_duration_only">Còn lại ít hơn %1$s</string>
+    <string name="power_remaining_more_than_subtext">Còn lại nhiều hơn %1$s (%2$s)</string>
+    <string name="power_remaining_only_more_than_subtext">Còn lại nhiều hơn %1$s</string>
     <string name="power_usage_enhanced_debug">Còn lại %1$s (ML est mới)</string>
     <string name="power_usage_old_debug">Còn lại %1$s (est cũ)</string>
     <string name="pref_title_network_details">Chi tiết mạng</string>
@@ -8045,7 +8044,7 @@ Bạn có thể biến thiết bị Android của mình thành một điểm tru
 	<string name="usagestats_app_category_miui_video_etc">Nhạc và video</string>
 	<string name="usagestats_device_notification_des">Giới hạn thời gian sử dụng màn hình hôm nay: %s</string>
 	<string name="usagestats_device_notification_des_over">Bạn đã đạt đến giới hạn thời gian sử dụng màn hình hôm nay</string>
-	<string name="usagestats_device_notification_des_reset" formatted="false">Giới hạn hôm nay: %s | %s còn lại</string>
+	<string name="usagestats_device_notification_des_reset" formatted="false">Giới hạn hôm nay: %s | Còn lại %s</string>
 	<string name="usagestats_device_notification_title">Cảnh báo thời gian sử dụng màn hình</string>
 	<string name="usagestats_device_timeout_negative">Nhắc nhở trong 1 giờ</string>
 	<string name="usagestats_device_timeout_des" formatted="false">Bạn đã sử dụng điện thoại %d giờ %d phút hôm nay. Hãy nghỉ ngơi!</string>
@@ -8152,7 +8151,7 @@ Bật tính năng này và chạm vào nút Trợ năng ở cuối màn hình đ
 	<string name="usage_app_limit_alter_summary">"Có vẻ như thời gian giới hạn này ngắn hơn thời gian bạn dùng ứng dụng hôm nay. Vẫn đặt giới hạn?"</string>
 	<string name="usage_app_limit_alter_title">Kiểm tra giới hạn thời gian màn hình</string>
 	<string name="usage_app_limit_prelong">Mở rộng thời gian</string>
-	<string name="usage_app_limit_reach_summay">%s còn lại</string>
+	<string name="usage_app_limit_reach_summay">Còn lại %s</string>
 	<string name="usage_app_limit_reach_title">%s đang đạt đến giới hạn thời gian màn hình</string>
 	<string name="usage_app_limit_summary">"Ứng dụng đã chọn sẽ không khả dụng khi đạt tới giới hạn thời gian màn hình"</string>
 	<string name="usage_app_limit_title">Giới hạn thời gian màn hình</string>

@@ -239,7 +239,7 @@
     <string name="alert_dialog_dismiss">Bỏ qua</string>
     <string name="contactPhoto">Ảnh liên hệ</string>
     <string name="call_record_button_label">Đang ghi âm %s</string>
-    <string name="livetalk_left_minute">%s phút còn lại</string>
+    <string name="livetalk_left_minute">Còn lại %s phút</string>
     <string name="onscreen_rcs_text">Tin nhắn</string>
     <string name="call_self">Không thể gọi số của mình</string>
     <string name="cancel_call">Gác máy</string>

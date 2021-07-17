@@ -399,10 +399,10 @@ Hãy kiểm tra tính hợp lệ của chứng chỉ</string>
     <string name="private_dns_mode_provider">Hostname nhà cung cấp DNS riêng tư</string>
     <string name="private_dns_mode_opportunistic">Tự động</string>
     <string name="private_dns_mode_off">Tắt</string>
-    <string name="power_remaining_only_more_than_subtext">Nhiều hơn %1$s còn lại</string>
-    <string name="power_remaining_more_than_subtext">Nhiều hơn %1$s còn lại (%2$s)</string>
-    <string name="power_remaining_less_than_duration_only">Ít hơn %1$s còn lại</string>
-    <string name="power_remaining_less_than_duration">Ít hơn %1$s còn lại (%2$s)</string>
+    <string name="power_remaining_only_more_than_subtext">Còn lại nhiều hơn %1$s</string>
+    <string name="power_remaining_more_than_subtext">Còn lại nhiều hơn %1$s (%2$s)</string>
+    <string name="power_remaining_less_than_duration_only">Còn lại ít hơn %1$s</string>
+    <string name="power_remaining_less_than_duration">Còn lại ít hơn %1$s (%2$s)</string>
     <string name="power_remaining_duration_shutdown_imminent">Điện thoại sẽ tắt sớm (%1$s)</string>
     <string name="power_remaining_duration_only_shutdown_imminent">Điện thoại sẽ tắt sớm</string>
     <string name="power_remaining_duration_only_enhanced">Khoảng %1$s còn lại dựa trên mức sử dụng của bạn</string>

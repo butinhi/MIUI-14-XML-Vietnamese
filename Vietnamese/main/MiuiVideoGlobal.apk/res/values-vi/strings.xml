@@ -1514,7 +1514,7 @@ Kích thước cập nhật Delta: %2$s"</string>
  Nó không hiện gì cả."</string>
 	<string name="srl_header_pulling">Kéo xuống để làm mới</string>
 	<string name="sync_favorites_message">Đồng bộ ưa thích từ thiết bị này vào tài khoản của bạn? Các mục không khả dụng sẽ bị xóa.</string>
-	<string name="history_local_video">Cục bộ</string>
+	<string name="history_local_video">Trên máy</string>
 	<string name="sync_favorites_title">Đồng bộ ưa thích</string>
 	<string name="language_later_setting_tips">Bạn có thể thay đổi cài đặt ngôn ngữ trong Hồ sơ &gt; Ngôn ngữ.</string>
 	<string name="srl_header_failed">Làm mới thất bại</string>
@@ -1557,7 +1557,7 @@ Kích thước cập nhật Delta: %2$s"</string>
 	<string name="playlist_detail_recomm_title">Danh sách phát đề xuất</string>
 	<string name="tab_name_moment">Khoảnh khắc</string>
 	<string name="This_week">Tuần này</string>
-	<string name="tab_name_local">Cục bộ</string>
+	<string name="tab_name_local">Trên máy</string>
 	<string name="srl_header_refreshing">Đang làm mới…</string>
 	<string name="gallery_video_item4_default_text">Bình minh</string>
 	<string name="srl_footer_pulling">Kéo lên để tải thêm</string>
@@ -1814,7 +1814,7 @@ Gửi mã này cho người giám sát."</string>
 	<string name="playlist_new">Mới</string>
 	<string name="playlist_view_more">Thêm danh sách phát</string>
 	<string name="notification_bar">Bảng thông báo</string>
-	<string name="local_video_notification_title">Tìm thấy video cục bộ mới</string>
+	<string name="local_video_notification_title">Thông báo video mới trên máy</string>
 	<string name="galleryplus_screenshot_8k">Ảnh chụp màn hình 8K</string>
 	<string name="galleryplus_screenshot_8k_share">Gửi tệp tin đến</string>
 	<string name="galleryplus_v_dialog_hint_duplicate_name">Tệp tin này đã tồn tại</string>
@@ -2014,7 +2014,7 @@ Gửi mã này cho người giám sát."</string>
 	<string name="ytb_login_btn">Đăng nhập</string>
 	<string name="ytb_subscribed">Đăng ký của tôi</string>
 	<string name="dialog_privacy_revoke_cancel">Hủy</string>
-	<string name="privacy_revoke_title">Đồng ý Chinh sách Riêng tư</string>
+	<string name="privacy_revoke_title">Đồng ý Chính sách Riêng tư</string>
 	<string name="ytb_login">Đăng nhập</string>
 	<string name="app_description_content">Máy quét cung cấp quét mã QR, quét để dịch, quét để giải quyết vấn đề, nhận dạng danh thiếp .v.v… Hãy chắc chắn rằng bạn hiểu rõ chức năng và dịch vụ được cung cấp bởi ứng dụng này.</string>
 	<string name="ytb_logout">Đăng xuất</string>

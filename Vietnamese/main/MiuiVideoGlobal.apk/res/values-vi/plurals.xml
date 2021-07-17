@@ -76,7 +76,7 @@
 		<item quantity="other">%d người theo dõi</item>
 	</plurals>
 	<plurals name="mediation_animate_close_after">
-		<item quantity="other">%s giây còn lại</item>
+		<item quantity="other">Còn lại %s giây</item>
 	</plurals>
 	<plurals name="s_forward_tip">
 		<item quantity="other">%1$s giây</item>

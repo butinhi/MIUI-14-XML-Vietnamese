@@ -656,4 +656,7 @@
 	<plurals name="miuix_appcompat_items_selected">
 		<item quantity="other">%d mục đã chọn</item>
 	</plurals>
+	<plurals name="color_game_led_freq_entries">
+		<item quantity="other">Mỗi %d giây</item>
+	</plurals>
 </resources>

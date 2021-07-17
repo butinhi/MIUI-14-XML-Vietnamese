@@ -1434,7 +1434,7 @@ Kích thước cập nhật Delta: %2$s"</string>
 	<string name="ringtones_stop">Dừng</string>
 	<string name="ringtones_successful">Đặt nhạc chuông thành công</string>
 	<string name="search_history_delete_all_dialog_titile">Xóa lịch sử tìm kiếm ngay?</string>
-	<string name="search_result_local_songs">Cục bộ</string>
+	<string name="search_result_local_songs">Trên máy</string>
 	<string name="search_result_online_songs">Trực tuyến</string>
 	<string name="search_songs">Tìm kiếm bài hát</string>
 	<string name="select_clip_desc">Chọn một đoạn từ bài hát</string>

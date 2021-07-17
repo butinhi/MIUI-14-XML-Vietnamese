@@ -1400,7 +1400,7 @@ Chọn một trong các tùy chọn sau:"</string>
 	<string name="dlg_add_blacklist">Chặn số này?</string>
 	<string name="dlg_remove_blacklist">Bỏ chặn số này?</string>
 	<string name="expand_collapse_name_fields_description">Mở rộng hoặc thu gọn tên</string>
-	<string name="export_sim_contact_finish_failure">%1$d đã chuyển | %2$d còn lại</string>
+	<string name="export_sim_contact_finish_failure">Đã chuyển %1$d | Còn lại %2$d</string>
 	<string name="export_sim_contact_finish_success">Đã sao chép %d liên hệ</string>
 	<string name="export_sim_contacts_dialog_message">Thẻ SIM của bạn có thể lưu %d liên hệ</string>
 	<string name="group_name_contacts">Liên hệ</string>

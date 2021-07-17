@@ -1586,13 +1586,13 @@ Bạn cũng có thể thêm nhắc nhở để không bỏ lỡ những điều 
 	<string name="none">Không</string>
 	<string name="remind_title_record">Nhắc nhở ghi lại</string>
 	<string name="tb_mens_month_period_date_unselected">%1$s. Ngày %2$d của chu kỳ kinh nguyệt. Chạm để chọn ngày.</string>
-	<string name="privacy_revoke_switch_text">Đồng ý Chinh sách Riêng tư</string>
+	<string name="privacy_revoke_switch_text">Đồng ý Chính sách Riêng tư</string>
 	<string name="feedback">Phản hồi</string>
 	<string name="tb_picker_menstruation_days">Đã chọn số ngày: %1$d. Vuốt theo chiều dọc để thay đổi thời gian.</string>
 	<string name="next_step">Tiếp theo</string>
 	<string name="weather">THỜI TIẾT</string>
 	<string name="revoke_processing_message">Đang xử lý…</string>
-	<string name="revoke_confirmation_dialog_title">Đồng ý Chinh sách Riêng tư</string>
+	<string name="revoke_confirmation_dialog_title">Đồng ý Chính sách Riêng tư</string>
 	<string name="picker_day">Ngày đã chọn: %1$d. Vuốt theo chiều dọc để chọn.</string>
 	<string name="select_menstruation_end_date">Chọn ngày kết thúc của kỳ này</string>
 	<string name="movie_state_upcoming">Sắp tới</string>

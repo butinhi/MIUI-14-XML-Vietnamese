@@ -3399,4 +3399,20 @@ Trò chơi vừa phải có lợi cho não, thưởng thức đồ uống trong 
 	<string name="free_account__user_profile__id">Ảnh thẻ</string>
 	<string name="personal__miaccount_profile_settings_view__choose_one_photo">Vui lòng chọn</string>
 	<string name="general__shared__stop">Dừng</string>
+	<string name="general__shared__sign_in">Đăng nhập</string>
+	<string name="surfing_surfing__exit_one_recommend_positive">Xem</string>
+	<string name="reading__shared__collapse">Cất đi</string>
+	<string name="general__shared__favourite">Đăng ký</string>
+	<string name="store__fiction_detail_invert_order">Đảo ngược thứ tự</string>
+	<string name="reading__chapter_end_idea_item_view__expand">Mở rộng</string>
+	<string name="free_personal__sign_in">Đăng nhập</string>
+	<string name="reading__shared__toc_normal">Đặt hàng tích cực</string>
+	<string name="personal__recharge_notification_ticker">Nạp tiền thành công</string>
+	<string name="general__download_canceled">Đã hủy</string>
+	<string name="reading__shared__expand">Mở rộng</string>
+	<string name="general__shared__category">Phân loại</string>
+	<string name="reading__shared__toc_reverse">Đảo ngược thứ tự</string>
+	<string name="reading__chapter_need_pay_bean_buy_success">Thanh toán thành công</string>
+	<string name="store__fiction_detail_positive_order">Đặt hàng tích cực</string>
+	<string name="account__shared__need_login">Vui lòng đăng nhập trước</string>
 </resources>

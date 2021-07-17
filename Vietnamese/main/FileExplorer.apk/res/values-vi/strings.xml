@@ -39,12 +39,12 @@
     <string name="no_file">Trống</string>
     <string name="tab_category">Phân loại</string>
     <string name="category_all">Tất cả</string>
-    <string name="category_music">Nhạc</string>
+    <string name="category_music">Âm thanh</string>
     <string name="category_video">Video</string>
     <string name="category_picture">Hình ảnh</string>
     <string name="category_theme">Chủ đề</string>
     <string name="category_document">Tài liệu</string>
-    <string name="category_zip">Lưu trữ</string>
+    <string name="category_zip">Tệp nén</string>
     <string name="category_apk">APK</string>
     <string name="category_other">Khác</string>
     <string name="category_favorite">Yêu thích</string>
@@ -93,7 +93,7 @@
     <string name="dialog_type_video">Video</string>
     <string name="dialog_type_image">Hình ảnh</string>
     <string name="favorite_photo">Ảnh</string>
-    <string name="favorite_screen_cap">Ảnh chụp màn hình</string>
+    <string name="favorite_screen_cap">Chụp màn hình</string>
     <string name="favorite_ringtone">Nhạc chuông</string>
     <string name="file_loading">Vui lòng chờ…</string>
     <string name="ui_main_toast_favorite_removed">Đã bỏ yêu thích</string>
@@ -233,7 +233,7 @@
     <string name="backup_checkbox_msg">Sao lưu tự động</string>
     <string name="connection_error">Không thể kết nối</string>
     <string name="app_name_bluetooth">Bluetooth</string>
-    <string name="app_name_screenshot">Ảnh chụp màn hình</string>
+    <string name="app_name_screenshot">Chụp màn hình</string>
     <string name="app_name_downloadedrom">Gói cài đặt</string>
     <string name="app_name_downloads">Tải xuống</string>
     <string name="app_name_camera">Máy ảnh</string>
@@ -434,7 +434,7 @@
     <string name="upload_notification_success_content">Video của bạn nên được đánh giá trước khi chia sẻ với người khác</string>
     <string name="video_publish_hint">Mô tả hoàn chỉnh sẽ giúp người khác dễ dàng tìm thấy video của bạn</string>
     <string name="video_publish_hint2">Mô tả</string>
-    <string name="video_comment_limit">%1$s ký tự còn lại</string>
+    <string name="video_comment_limit">Còn lại %1$s ký tự</string>
     <string name="video_data_consumption_dialog_title">Cảnh báo dữ liệu di động</string>
     <string name="video_data_consumption_dialog_message">Tải lên sẽ yêu cầu %1$s dữ liệu di động</string>
     <string name="video_data_consumption_confirm">OK</string>

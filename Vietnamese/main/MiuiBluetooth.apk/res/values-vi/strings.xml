@@ -208,7 +208,7 @@ Vui lòng kiểm tra tính hợp lệ của chứng chỉ</string>
 	<string name="bluetooth_profile_opp">Chuyển tiếp tập tin</string>
 	<string name="retail_demo_reset_title">Yêu cầu mật khẩu</string>
 	<string name="time_unit_just_now">Vừa xong</string>
-	<string name="power_remaining_more_than_subtext">Nhiều hơn %1$s còn lại (%2$s)</string>
+	<string name="power_remaining_more_than_subtext">Còn lại nhiều hơn %1$s (%2$s)</string>
 	<string name="tts_engine_settings_title">Cài đặt %s</string>
 	<string name="bluetooth_a2dp_profile_summary_connected">Đã kết nối âm thanh phương tiện</string>
 	<string name="bluetooth_talkback_headset">Tai nghe chụp</string>
@@ -263,7 +263,7 @@ Số bit trên mẫu"</string>
 	<string name="tts_default_lang_title">Ngôn ngữ</string>
 	<string name="enabled_by_admin">Đã bật bởi Quản trị viên</string>
 	<string name="bluetooth_hid_profile_summary_use_for">Dùng để nhập</string>
-	<string name="power_remaining_less_than_duration">Ít hơn %1$s còn lại (%2$s)</string>
+	<string name="power_remaining_less_than_duration">Còn lại ít hơn %1$s (%2$s)</string>
 	<string name="bluetooth_connected_no_headset_no_a2dp_battery_level">Đã kết nối (không có phương tiện hoặc điện thoại) | Pin %1$s%2$s</string>
 	<string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">Thất bại</string>
 	<string name="verify_apps_over_usb_title">Xác minh ứng dụng qua USB</string>
@@ -432,7 +432,7 @@ Chế độ kênh"</string>
 	<string name="wifi_disabled_network_failure">Không thể cấu hình IP</string>
 	<string name="wifi_disabled_password_failure">Vấn đề xác thực</string>
 	<string name="miuix_sbl_tracking_progress_labe_up_nodata">Không có dữ liệu</string>
-	<string name="power_remaining_less_than_duration_only">Ít hơn %1$s còn lại</string>
+	<string name="power_remaining_less_than_duration_only">Còn lại ít hơn %1$s</string>
 	<string name="show_touches_summary">Hiển thị phản hồi trực quan thao tác chạm</string>
 	<string name="wapi_psk_type_hex">Hệ thập lục phân</string>
 	<string name="mr_controller_casting_screen">Đang truyền màn hình</string>
@@ -541,7 +541,7 @@ Chế độ kênh"</string>
 	<string name="bluetooth_pan_nap_profile_summary_connected">Chia sẻ kết nối internet với thiết bị</string>
 	<string name="mr_user_route_category_name">Thiết bị</string>
 	<string name="accessibility_wifi_signal_full">Tín hiệu Wi-Fi đầy.</string>
-	<string name="power_remaining_only_more_than_subtext">Nhiều hơn %1$s còn lại</string>
+	<string name="power_remaining_only_more_than_subtext">Còn lại nhiều hơn %1$s</string>
 	<string name="osu_sign_up_failed">Không thể hoàn tất đăng ký. Chạm để thử lại.</string>
 	<string name="bluetooth_pairing_decline">Hủy</string>
 	<string name="direct_boot_unaware_dialog_message">Lưu ý: Sau khi khởi động lại, ứng dụng này không thể khởi động cho đến khi bạn mở khóa điện thoại</string>

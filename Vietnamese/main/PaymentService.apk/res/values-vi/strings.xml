@@ -484,7 +484,7 @@ Trung tâm dịch vụ khách hàng: 400-100-5678"</string>
     <string name="mibi_lockpattern_need_to_unlock_wrong">&lt;font color=red>Sai mật khẩu, Bạn còn %d lần thử nữa&lt;/font></string>
     <string name="mibi_lockpattern_pattern_confirmed_header">Hình mở khóa mới của bạn:</string>
     <string name="mibi_lockpattern_pattern_entered_header">Hình mở khóa đã được ghi.</string>
-    <string name="mibi_lockpattern_recording_incorrect_too_short">Kết nối ít nhất %d điểm. Hya4 thử lại:</string>
+    <string name="mibi_lockpattern_recording_incorrect_too_short">Kết nối ít nhất %d điểm. Hãy thử lại:</string>
     <string name="mibi_lockpattern_recording_inprogress">Thả ngón tay khi hoàn tất.</string>
     <string name="mibi_lockpattern_recording_intro_header">Vẽ hình mở khóa:</string>
     <string name="mibi_lockpattern_retry_text"><u>Đặt lại hình mở khóa</u></string>
@@ -598,7 +598,7 @@ Trung tâm dịch vụ khách hàng: 400-100-5678"</string>
     <string name="mibi_recharge_value_money_special_unit">Mua %1$s tốn khoảng %2$s Mi Credit</string>
     <string name="mibi_recharge_warn_text">Bạn không thể mua hàng hóa vật lý bằng Mi Credit.</string>
     <string name="mibi_unit_value_redeemed">%1$s Mi Credit đã đổi</string>
-    <string name="mibi_unit_value_remained">%1$s Mi Credit còn lại</string>
+    <string name="mibi_unit_value_remained">Còn lại %1$s Mi Credit</string>
     <string name="passport_account_set_password">Đặt mật khẩu</string>
     <string name="passport_account_set_password_prompt">Đặt mật khẩu cho tài khoản của bạn để đăng nhập lần sau.</string>
     <string name="passport_account_set_password_title">Đặt mật khẩu</string>

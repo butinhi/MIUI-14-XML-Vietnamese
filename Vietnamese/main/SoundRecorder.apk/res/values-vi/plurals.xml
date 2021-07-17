@@ -43,7 +43,7 @@
 		<item quantity="other">Tìm kiếm trong %d ghi âm</item>
 	</plurals>
 	<plurals name="time_left_for_clear_file">
-		<item quantity="other">%d ngày còn lại</item>
+		<item quantity="other">Còn lại %d ngày</item>
 	</plurals>
 	<plurals name="trash_box_tip">
 		<item quantity="other">Mục đã xóa có thể được lưu trong thùng rác tới %d ngày</item>

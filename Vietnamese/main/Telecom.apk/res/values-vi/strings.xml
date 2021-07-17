@@ -531,10 +531,10 @@ Chứng chỉ bộ nhớ có thể không bật</string>
     <string name="power_discharge_by_only_enhanced">Nên kéo dài đến khoảng %1$s dựa trên mức sử dụng của bạn</string>
     <string name="power_remaining_duration_only_shutdown_imminent">Điện thoại có thể tắt sớm</string>
     <string name="power_remaining_duration_shutdown_imminent">Điện thoại có thể tắt sớm (%1$s)</string>
-    <string name="power_remaining_less_than_duration">Ít hơn %1$s còn lại (%2$s)</string>
-    <string name="power_remaining_less_than_duration_only">Ít hơn %1$s còn lại</string>
-    <string name="power_remaining_more_than_subtext">Nhiều hơn %1$s còn lại (%2$s)</string>
-    <string name="power_remaining_only_more_than_subtext">Nhiều hơn %1$s còn lại</string>
+    <string name="power_remaining_less_than_duration">Còn lại ít hơn %1$s (%2$s)</string>
+    <string name="power_remaining_less_than_duration_only">Còn lại ít hơn %1$s</string>
+    <string name="power_remaining_more_than_subtext">Còn lại nhiều hơn %1$s (%2$s)</string>
+    <string name="power_remaining_only_more_than_subtext">Còn lại nhiều hơn %1$s</string>
     <string name="ims_reg_title">Trạng thái đăng ký IMS</string>
     <string name="ims_reg_status_registered">Đã đăng ký</string>
     <string name="ims_reg_status_not_registered">Chưa đăng ký</string>

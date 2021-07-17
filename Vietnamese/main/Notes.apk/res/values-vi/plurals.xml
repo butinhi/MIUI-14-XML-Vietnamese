@@ -20,8 +20,7 @@
         <item quantity="one">%1$s kết quả cho \"%2$s\"</item>
     </plurals>
 	<plurals name="record_last_ten_seconds_reminder">
-        <item quantity="other">%d giây còn lại</item>
-        <item quantity="one">%d giây còn lại</item>
+        <item quantity="other">Còn lại %d giây</item>
     </plurals>
     <plurals name="word_count">
         <item quantity="other">%d ký tự</item>

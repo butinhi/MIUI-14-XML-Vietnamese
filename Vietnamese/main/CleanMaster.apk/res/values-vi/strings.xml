@@ -958,8 +958,8 @@
 	<string name="notification_low_storage_size_1.5_GB_hint">Giải phóng bộ nhớ để tăng tốc thiết bị</string>
 	<string name="notification_uninstalled_clean_without_name">Có thể còn rác từ các ứng dụng đã gỡ</string>
 	<string name="notification_memory_clean_hint">Chạm để tăng tốc</string>
-	<string name="notification_low_storage_size_1.5_GB">Còn ít hơn %.1f GB dung lượng lưu trữ còn lại</string>
-	<string name="notification_low_storage_size_1_GB">Ít hơn %d GB dung lượng lưu trữ còn lại</string>
+	<string name="notification_low_storage_size_1.5_GB">Còn lại ít hơn %.1f GB dung lượng lưu trữ</string>
+	<string name="notification_low_storage_size_1_GB">Còn lại ít hơn %d GB dung lượng lưu trữ</string>
 	<string name="clean_master_icon_recall_hint">Thêm một Lối tắt Màn hình chính</string>
 	<string name="notification_whatsapp_clean_size">Bộ đệm WhatsApp đã đạt%s</string>
 	<string name="notification_garbage_clean_hint">Dọn dẹp không gian bộ nhớ</string>

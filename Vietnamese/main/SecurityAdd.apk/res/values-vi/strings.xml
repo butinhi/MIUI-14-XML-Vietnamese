@@ -272,7 +272,7 @@
 	<string name="superpower_dialog_app_select_content">Ứng dụng bê thứ ba thường tốn pin hơn ứng dụng hệ thống. Vẫn thêm?</string>
 	<string name="superpower_dialog_app_select_title">Chú ý</string>
 	<string name="superpower_incharging">Đang sạc</string>
-	<string name="superpower_progress_battery_last">%s còn lại</string>
+	<string name="superpower_progress_battery_last">Còn lại %s</string>
 	<string name="superpower_progress_left_time">%1$d giờ %2$d phút</string>
 	<string name="superpower_search_hint">Tìm kiếm ứng dụng</string>
 	<string name="superpower_select_app_title">Bố cục Màn hình chính</string>

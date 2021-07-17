@@ -445,7 +445,7 @@ Nếu bạn quyết định xóa dữ liệu sức khỏe của bạn sau khi b�
 	<string name="home_tip_open_data_sync">Bật đồng bộ với đám mây</string>
 	<string name="data_account_info_loading">Đang lấy thông tin tài khoản…</string>
 	<string name="login_and_open_sync">Đăng nhập và bật đồng bộ</string>
-	<string name="health_data_cloud_sync_title">Đồng bộ với đám mây</string>
+	<string name="health_data_cloud_sync_title">Đồng bộ đám mây</string>
 	<string name="not_open_auto_sync">Đồng bộ đang tắt</string>
 	<string name="add_data_source_open_sync">Bật đồng bộ với đám mây để có thể thêm nguồn dữ liệu.</string>
 	<string name="today_hh_mm">Hôm nay HH:mm</string>
@@ -1531,7 +1531,7 @@ Nếu thiết bị của bạn nằm trong danh sách này, bạn có thể thê
 	<string name="period">Xe đạp</string>
 	<string name="unbound">Đã tháo</string>
 	<string name="hr_strength_high">Cao</string>
-	<string name="finish_stand2">Trợ lý hoạt động</string>
+	<string name="finish_stand2">Đứng dậy</string>
 	<string name="buy">Mua</string>
 	<string name="hr_re_detect_title">Bắt đầu lại</string>
 	<string name="total_slip">Số nét</string>
@@ -1825,7 +1825,7 @@ Các thử nghiệm của chúng tôi cho thấy rằng phương pháp này đo 
 	<string name="course_player_stop_tips_title">Kết thúc bài tập</string>
 	<string name="sleep_day_single_short_title">Ngủ ngắn</string>
 	<string name="sleep_day_multi_short_title">Ngủ ngắn %1$d</string>
-	<string name="MediaControlView_ad_remaining_time">Quảng cáo · %1$s còn lại</string>
+	<string name="MediaControlView_ad_remaining_time">Quảng cáo · Còn lại %1$s</string>
 	<string name="skipping_upload_dialog_msg">Khi thiết bị của bạn được kết nối với %s, bạn có thể chọn tải lên âm thanh được ghi lại trong quá trình tập luyện để cải thiện độ chính xác của thống kê tập luyện. Để bảo vệ quyền riêng tư của bạn, các tệp âm thanh sẽ được mã hóa. </string>
 	<string name="course_detail_consume">%1$d Kcal</string>
 	<string name="mcv2_overflow_left_button_desc">Quay lại danh sách nút trước đó</string>

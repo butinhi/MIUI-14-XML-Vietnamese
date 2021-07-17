@@ -178,7 +178,7 @@ http://miui.vn/"</string>
     <string name="action_mode_switcher_list_description">Xem theo danh sách</string>
     <string name="action_mode_switcher_grid_description">Xem theo ô lưới</string>
     <string name="action_folder_description">Xem thư mục</string>
-    <string name="action_settings_description">Mở Cài đặt</string>
+    <string name="action_settings_description">Cài đặt</string>
     <string name="menu_add_folder_description">Thêm thư mục</string>
     <string name="toolbar_share_description">Chia sẻ ghi chú này</string>
     <string name="toolbar_theme_description">Chọn chủ đề</string>
