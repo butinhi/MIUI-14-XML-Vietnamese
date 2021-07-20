@@ -265,7 +265,7 @@
 	<string name="scanning_device_tips">Đang tìm thiết bị lân cận… Đảm bảo các thiết bị khác đang trong chế độ hiển thị.</string>
 	<string name="tips_prompt_enable_midrop">Chia sẻ tệp tin với thiết bị lân cận</string>
 	<string name="wireless_charging_notification_message1">"Không thể tìm thấy thiết bị không dây để sạc. Sạc không dây ngược đã tắt."</string>
-	<string name="wireless_charging_notification_message2">Pin còn ít hơn 30%. Sạc không dây ngược đã tắt.</string>
+	<string name="wireless_charging_notification_message2">Pin còn ít hơn %s. Sạc không dây ngược đã tắt.</string>
 	<string name="wireless_charging_notification_message3">Có lỗi xảy ra trong quá trình sạc. Sạc không dây ngược đã tắt.</string>
 	<string name="wireless_charging_notification_titile">Đã tắt Sạc không dây ngược</string>
 	<string name="customer_location_judgment">Trung Quốc</string>

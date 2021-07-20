@@ -697,4 +697,7 @@ Vui lòng gửi mã này cho nhân viên kỹ thuật."</string>
 	<string name="channel_web_upload">Tải lên từ trình duyệt</string>
 	<string name="channel_phone_edit">Đã sửa trên điện thoại</string>
 	<string name="home_action_up">Quay lại</string>
+	<string name="channel_tablet_upload">Đã tải lên từ máy tính bảng</string>
+	<string name="channel_client_edit">Đã sửa trên thiết bị di động</string>
+	<string name="channel_tablet_view">Đã xem trên máy tính bảng</string>
 </resources>

@@ -2376,7 +2376,6 @@ Giao diện UT: %5$s"</string>
 	<string name="single_fiveg_enable_fiveg_dialog_msg_enable_fiveg">Chỉ một thẻ SIM có thể được kích hoạt cho mạng 5G. Chạm \"Kích hoạt\" bên dưới sẽ hủy kích hoạt các thẻ SIM khác.</string>
 	<string name="radio_info_radio_power">Cường độ của sóng di động</string>
 	<string name="wapi_password_is_not_hex_format">Ký tự hexa không hợp lệ</string>
-	<string name="fiveg_sa_switch_summary">Cho phép kết nối với mạng 5G ở Chế độ độc lập</string>
 	<string name="fiveg_network_mode_default">Tự động</string>
 	<string name="radioInfo_menu_viewFDN">Xem Số quay định sẵn</string>
 	<string name="radio_info_imei_label">"IMEI:"</string>

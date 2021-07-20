@@ -260,11 +260,6 @@
         <item>Sử dụng lần cuối</item>
         <item>Tên ứng dụng</item>
     </string-array>
-    <string-array name="wifi_peap_phase2_entries">
-        <item>Không có</item>
-        <item>MSCHAPV2</item>
-        <item>GTC</item>
-    </string-array>
     <string-array name="wifi_phase2_entries">
         <item>Không</item>
         <item>PAP</item>
@@ -304,6 +299,7 @@
         <item>1xRTT</item>
         <item>IS95B</item>
         <item>IS95A</item>
+        <item>NR</item>
     </string-array>
     <string-array name="mvno_type_entries">
         <item>Không có</item>
@@ -504,6 +500,9 @@
         <item>IPSec VPN có khóa được chia sẻ trước và xác thực Xauth</item>
         <item>IPSec VPN có chứng chỉ và xác thực Xauth</item>
         <item>IPSec VPN có chứng chỉ và xác thực kết hợp</item>
+        <item>IKEv2/IPSec VPN có chứng chỉ và xác thực tên đăng nhập/mật khẩu</item>
+        <item>IKEv2/IPSec VPN có khóa chia sẻ trước</item>
+        <item>IKEv2/IPSec VPN có chứng chỉ</item>
     </string-array>
     <string-array name="vpn_states">
         <item>Đã ngắt kết nối</item>
@@ -1291,14 +1290,6 @@ Ghi chú: Chỉ cho phiên bản Ubuntu 8.04!"</item>
         <item>Wi-Fi</item>
         <item>Di động</item>
     </string-array>
-    <string-array name="wifi_peap_phase2_entries_with_sim_auth">
-        <item>Không có</item>
-        <item>MSCHAPV2</item>
-        <item>GTC</item>
-        <item>SIM</item>
-        <item>AKA</item>
-        <item>"AKA'"</item>
-    </string-array>
     <string-array name="standard_configuration_version_description_primary">
         <item>CPU</item>
         <item>Dung lượng pin</item>
@@ -1614,32 +1605,43 @@ Ghi chú: Chỉ cho phiên bản Ubuntu 8.04!"</item>
 	<string-array name="cdma_system_select_choices">
 		<item>Chỉ ở nhà</item>
 		<item>Tự động</item>
-	</string-array>
-	<string-array name="preferred_network_mode_choices">
-		<item>LTE/TDSCDMA/CDMA/EVDO/GSM/WCDMA</item>
-		<item>TDSCDMA/CDMA/EVDO/GSM/WCDMA</item>
-		<item>LTE/TDSCDMA/GSM/WCDMA</item>
-		<item>LTE/TDSCDMA/WCDMA</item>
-		<item>TDSCDMA/GSM/WCDMA</item>
-		<item>LTE/TDSCDMA/GSM</item>
-		<item>TDSCDMA/GSM</item>
-		<item>LTE/TDSCDMA</item>
-		<item>TDSCDMA/WCDMA</item>
-		<item>Chỉ TDSCDMA</item>
-		<item>LTE / WCDMA</item>
-		<item>LTE</item>
-		<item>Toàn cầu</item>
-		<item>GSM/WCDMA/LTE</item>
-		<item>CDMA + LTE/EvDo</item>
-		<item>CDMA/EvDo/GSM/WCDMA</item>
-		<item>Chỉ EvDo</item>
-		<item>CDMA w/o EvDo</item>
-		<item>CDMA/EvDo tự động</item>
-		<item>GSM/WCDMA tự động</item>
-		<item>Chỉ WCDMA</item>
-		<item>Chỉ GSM</item>
-		<item>Ưu tiên GSM/WCDMA</item>
-	</string-array>
+    </string-array>
+    <string-array name="preferred_network_mode_choices">
+        <item>GSM/WCDMA ưa thích</item>
+        <item>Chỉ GSM</item>
+        <item>Chỉ WCDMA</item>
+        <item>GSM/WCDMA tự động</item>
+        <item>CDMA/EvDo tự động</item>
+        <item>CDMA w/o EvDo</item>
+        <item>EvDo only</item>
+        <item>CDMA/EvDo/GSM/WCDMA</item>
+        <item>CDMA + LTE/EvDo</item>
+        <item>GSM/WCDMA/LTE</item>
+        <item>Quốc tế</item>
+        <item>LTE</item>
+        <item>LTE / WCDMA</item>
+        <item>Chỉ TDSCDMA</item>
+        <item>TDSCDMA/WCDMA</item>
+        <item>LTE/TDSCDMA</item>
+        <item>TDSCDMA/GSM</item>
+        <item>LTE/TDSCDMA/GSM</item>
+        <item>TDSCDMA/GSM/WCDMA</item>
+        <item>LTE/TDSCDMA/WCDMA</item>
+        <item>LTE/TDSCDMA/GSM/WCDMA</item>
+        <item>TDSCDMA/CDMA/EVDO/GSM/WCDMA</item>
+        <item>LTE/TDSCDMA/CDMA/EVDO/GSM/WCDMA</item>
+        <item>Chỉ NR</item>
+        <item>NR/LTE</item>
+        <item>NR/LTE/CDMA/EvDo</item>
+        <item>NR/LTE/GSM/WCDMA</item>
+        <item>NR/LTE/CDMA/EvDo/GSM/WCDMA</item>
+        <item>NR/LTE/WCDMA</item>
+        <item>NR/LTE/TDSCDMA</item>
+        <item>NR/LTE/TDSCDMA/GSM</item>
+        <item>NR/LTE/TDSCDMA/WCDMA</item>
+        <item>NR/LTE/TDSCDMA/GSM/WCDMA</item>
+        <item>NR/LTE/TDSCDMA/CDMA/EvDo/GSM/WCDMA</item>
+    </string-array>
 	<string-array name="preferred_network_mode_choices_world_mode">
 		<item>Toàn cầu</item>
 		<item>LTE / CDMA</item>

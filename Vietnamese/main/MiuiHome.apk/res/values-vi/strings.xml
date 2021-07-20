@@ -948,4 +948,11 @@
 	<string name="fmt_time_12hour_minute_pm">h:mm a</string>
     <string name="recents_smallwindow_drag_text">Kéo vào đây để ghim</string>
     <string name="launcher_search">Tìm kiếm Màn hình chính</string>
+	<string name="fmt_time_minute_second_millis">"m 'phút' s.S 'giây'"</string>
+	<string name="fmt_time_minute_second">"m 'phút' s 'giây'"</string>
+	<string name="fmt_weekday_time_timezone">zW T</string>
+	<string name="fmt_time_24hour">"HH 'giờ'"</string>
+	<string name="fmt_time_minute">"m 'phút'"</string>
+	<string name="fmt_time_12hour">"h 'giờ'"</string>
+	<string name="fmt_time_second_millis">"s.S 'giây'"</string>
 </resources>

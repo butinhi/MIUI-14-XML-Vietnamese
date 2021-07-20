@@ -399,4 +399,5 @@
 	<string name="remove_icon_description_title">Xóa \"La bàn\" khỏi Màn hình chính?</string>
 	<string name="first_using_dialog_message_no_camera">La bàn cần kết nối internet và truy cập thông tin vị trí để có thể hoạt động bình thường. Đồng ý?</string>
 	<string name="open_perm_msg_no_camera">La bàn cần truy cập thông tin vị trí để có thể xác định tọa độ. Cho phép?</string>
+	<string name="fmt_time_minute">"m 'phút'"</string>
 </resources>

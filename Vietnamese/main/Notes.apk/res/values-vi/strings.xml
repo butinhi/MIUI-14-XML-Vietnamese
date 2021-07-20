@@ -442,7 +442,7 @@ Cho phép Ghi chú ghi âm."</string>
 	<string name="eras_bc">TCN</string>
 	<string name="fmt_time_millis">"S 'mili giây'"</string>
 	<string name="chinese_day_29">29</string>
-	<string name="fmt_date_short_month_day">dd/MM</string>
+	<string name="fmt_date_short_month_day">d MMM</string>
 	<string name="fmt_time_12hour_minute_second_pm">h:mm:ss a</string>
 	<string name="fmt_date_year">yyyy</string>
 	<string name="month_december_shortest">Thg 12</string>
@@ -938,4 +938,9 @@ Cho phép Ghi chú ghi âm."</string>
 	<string name="hybrid_provider">Cung cấp bởi %1$s</string>
 	<string name="no_network">Không thể kết nối mạng</string>
 	<string name="web_sso_login_message">Đang đăng nhập…</string>
+    <string name="toast_notes_hidden_pad">Ghi chú này đang ẩn. Kéo xuống bảng cạnh để xem ghi chú ẩn.</string>
+    <string name="note_not_text_stub">Không có văn bản</string>
+    <string name="widget_create_select_size">Chọn kích thước</string>
+    <string name="widget_empty_content">Chạm để chọn một ghi chú</string>
+    <string name="widget_note_list_page_title">Chọn ghi chú</string>
 </resources>

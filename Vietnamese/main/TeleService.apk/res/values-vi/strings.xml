@@ -2913,12 +2913,12 @@ Luôn sử dụng số này"</string>
 	<string name="msim_setting_install_virtual_sim_install">Cài đặt</string>
 	<string name="msim_setting_install_virtual_sim_tip">Dịch vụ Nhà mạng Mi</string>
 	<string name="ai_assistant_setting_title">Trợ lý cuộc gọi AI</string>
-	<string formatted="false" name="messageCW_kr">Dịch vụ mạng miễn phí cho phép bạn trả lời cuộc gọi thứ hai trong khi gọi, tạm dừng cuộc gọi đầu tiên. Nhập %s[Gửi] để bật hoặc %s[Gửi] để tắt.</string>
+	<string name="messageCW_kr">Dịch vụ mạng miễn phí cho phép bạn trả lời cuộc gọi thứ hai trong khi gọi, tạm dừng cuộc gọi đầu tiên. Nhập %1$s[Gửi] để bật hoặc %2$s[Gửi] để tắt.</string>
 	<string name="msim_setting_default_data">SIM dữ liệu</string>
 	<string name="msim_setting_install_virtual_sim_message">Cài đặt Dịch vụ Nhà mạng Mi để mua thẻ SIM và quản lý gói cước của bạn.</string>
 	<string name="msim_setting_no_sim_package_info">Không có thông tin số dư</string>
 	<string name="msim_setting_pop_text">Chọn thẻ SIM để gọi</string>
-	<string formatted="false" name="messageCFU_kr">Một dịch vụ mạng chuyển hướng tất cả các cuộc gọi đến và tin nhắn văn bản đến một số được chỉ định. Bạn phải đăng ký dịch vụ này. Bạn sẽ phải trả phí hàng tháng. Liên hệ với trung tâm khách hàng (114+[Gửi]) để đăng ký hoặc hủy đăng ký dịch vụ này. Nhập %s+[số để chuyển tiếp cuộc gọi đến][Gửi] để bật hoặc %s[Gửi] để tắt.</string>
+	<string name="messageCFU_kr">Một dịch vụ mạng chuyển hướng tất cả các cuộc gọi đến và tin nhắn văn bản đến một số được chỉ định. Bạn phải đăng ký dịch vụ này. Bạn sẽ phải trả phí hàng tháng. Liên hệ với trung tâm khách hàng (114+[Gửi]) để đăng ký hoặc hủy đăng ký dịch vụ này. Nhập %1$s+[số để chuyển tiếp cuộc gọi đến][Gửi] để bật hoặc %2$s[Gửi] để tắt.</string>
 	<string name="msim_setting_default_voice">Mặc định để gọi</string>
 	<string name="fiveg_sa_switch_warning_toast">Vui lòng khởi động lại điện thoại để áp dụng.</string>
 	<string name="msim_setting_set_package">Chọn gói cước</string>

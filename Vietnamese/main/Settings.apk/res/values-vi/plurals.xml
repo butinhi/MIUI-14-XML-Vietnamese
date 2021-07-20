@@ -474,9 +474,7 @@
 		<item quantity="one">1 ứng dụng</item>
 	</plurals>
 	<plurals name="zen_mode_bypassing_apps_subtext">
-		<item quantity="other">Thông báo từ %1$d ứng dụng có thể ghi đè Không làm phiền</item>
-		<item quantity="zero">Không có ứng dụng có thể ghi đè Không làm phiền</item>
-		<item quantity="one">Thông báo từ 1 ứng dụng có thể ghi đè Không làm phiền</item>
+		<item quantity="other">%s có thể gián đoạn</item>
 	</plurals>
 	<plurals name="backup_items_sysdata_tailer">
 		<item quantity="other">%d tập tin dữ liệu hệ thống</item>

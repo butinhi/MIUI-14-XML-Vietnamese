@@ -1038,4 +1038,6 @@ Giao thức truyền tải băng thông cao."</string>
 	<string name="fmt_time_12hour_minute_second_pm">h:mm:ss a</string>
 	<string name="fmt_weekday_date_timezone">W, D z</string>
 	<string name="fmt_time_12hour_minute_pm">h:mm a</string>
+	<string name="fiveg_sa_vice_switch_title">SA trên SIM thứ hai</string>
+	<string name="fiveg_sa_switch_summary">Bật chức năng SA của SIM phụ, chỉ để thử nghiệm</string>
 </resources>

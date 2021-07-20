@@ -770,4 +770,5 @@ Bạn cần phải cài đặt phiên bản MIUI của nhà phát triển để 
     <string name="HIPS_Perm_operator_get_phonenumbner_Desc">Xin số điện thoại từ nhà cung cấp dịch vụ để đăng nhập</string>
     <string name="HIPS_Perm_operator_get_phonenumbner_Message">Ứng dụng này muốn lấy số điện thoại của bạn từ nhà cung cấp dịch vụ để đăng nhập. Cho phép?</string>
 	<string name="pp_privacy_lab_operator_introduction">Chú ý</string>
+	<string name="animator_property_name_alpha">Thử nghiệm</string>
 </resources>

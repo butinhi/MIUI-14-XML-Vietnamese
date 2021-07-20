@@ -84,7 +84,7 @@
     <string name="copy_email">Sao chép địa chỉ email</string>
     <string name="copy_number">Sao chép số điện thoại</string>
     <string name="countdown_event_title">Đếm ngược: %1$s</string>
-    <string name="countdown_notify_before_3_day_title">Đếm ngược: %1$s sau 3 ngày</string>
+    <string name="countdown_notify_before_3_day_title">Đếm ngược: %1$s sau %2$d ngày</string>
     <string name="countdown_notify_title">Đếm ngược: %1$s</string>
     <string name="countdown_secondary_tag">Đếm ngược</string>
     <string name="countdown_today">Hôm nay</string>
@@ -99,7 +99,7 @@
     <string name="date_calculate_direction_content_description">Phương hướng hiện tại: %1s.</string>
     <string name="date_calculate_result">Kết quả</string>
     <string name="date_calculate_tab">Tính ngày</string>
-    <string name="date_calculate_today">0 ngày</string>
+    <string name="date_calculate_today">%d ngày</string>
     <string name="date_calculate_when">Bắt đầu</string>
     <string name="date_interval_description">Tính số ngày giữa 2 ngày</string>
     <string name="date_interval_end">Đến</string>
@@ -138,9 +138,9 @@
     <string name="edit_event_input_year">Nhập năm</string>
     <string name="edit_event_label">Chi tiết</string>
     <string name="edit_event_no_reminder_value">Không nhắc nhở</string>
-    <string name="edit_event_reminder_3_days_before">Và nhắc nhở trước 3 ngày</string>
+    <string name="edit_event_reminder_3_days_before">Và nhắc nhở trước %d ngày</string>
     <string name="edit_event_reminder_summary">Lúc %1$s cùng ngày</string>
-    <string name="edit_event_reminder_summary_3_days_before">Lúc %1$s 3 ngày trước</string>
+    <string name="edit_event_reminder_summary_3_days_before">Trước %2$d ngày và vào ngày đó lúc %1$s</string>
     <string name="edit_event_reminder_text">Lúc %2$s ngày %1$s</string>
     <string name="edit_event_reminder_time">Thời gian nhắc nhở</string>
     <string name="edit_event_reminder_with_another_day_text">%1$s, vào lúc %3$s %2$s</string>
@@ -356,8 +356,8 @@ Kiểm tra cài đặt mạng và thử lại."</string>
     <string name="select_date">Chuyển đến ngày</string>
     <string name="select_today_tip">Hôm nay</string>
     <string name="setting">Cài đặt</string>
-    <string name="setting_about_calendar_version">Phiên bản lịch: %1$s-%2$s</string>
-    <string name="setting_about_miui_version">Phiên bản MIUI: %1$s-%2$s</string>
+    <string name="setting_about_calendar_version">Phiên bản lịch:</string>
+    <string name="setting_about_miui_version">Phiên bản MIUI:</string>
     <string name="setting_about_summary">Phiên bản:</string>
     <string name="setting_accounts">Tài khoản Lịch</string>
     <string name="setting_daysoff_no_update">Thông tin về ngày lễ đã được cập nhật.</string>
@@ -552,7 +552,7 @@ Kiểm tra cài đặt mạng và thử lại."</string>
     <string name="edit_event_dislike_title">Tại sao bạn muốn hủy?</string>
     <string name="check_reminded_text">Xem</string>
     <string name="di_zhi">Địa chi</string>
-    <string name="electricity_amount_label">Tiêu thụ điện: %s</string>
+    <string name="electricity_amount_label">Tiêu thụ điện</string>
     <string name="electricity_bill_event_title">"Thanh toán tiền điện: "</string>
     <string name="electricity_detail_title">Tiền điện</string>
     <string name="electricity_event_delete_successfully">Xóa sự kiện thanh toán tiền điện thành công</string>
@@ -588,7 +588,7 @@ Kiểm tra cài đặt mạng và thử lại."</string>
     <string name="trip_card_title">Nhắc nhở chuyến đi</string>
     <string name="trip_card_movie_secondary_no_cinema">Xem hôm nay</string>
     <string name="trip_card_movie_secondary">Xem hôm nay  |  %1$s</string>
-    <string name="trip_card_hotel_secondary">Ngày nhận phòng | %1$s</string>
+    <string name="trip_card_hotel_secondary">Ngày nhận phòng</string>
     <string name="trip_card_flight_primary">Chuyến bay %1$s  %2$s - %3$s</string>
     <string name="ticket_activity_card_date_month">Tháng</string>
     <string name="ticket_activity_card_date_day">Ngày</string>
@@ -618,7 +618,7 @@ Kiểm tra cài đặt mạng và thử lại."</string>
     <string name="fortune_name">Tên gọi</string>
     <string name="fortune_name_hint">Vui lòng nhập</string>
     <string name="fortune_no_name">Vui lòng điền vào tiêu đề</string>
-    <string name="gas_amount_label">Tiêu thụ gas: %s</string>
+    <string name="gas_amount_label">Tiêu thụ gas</string>
     <string name="gas_bill_event_title">"Thanh toán gas: "</string>
     <string name="gas_cost_label">Cần thanh toán</string>
     <string name="gas_detail_name">Số tài khoản: %1$s</string>
@@ -692,7 +692,7 @@ Kiểm tra cài đặt mạng và thử lại."</string>
     <string name="life_card_electricity_bill_primary_no_account">Phí điện</string>
     <string name="life_card_gas_bill_primary">Thanh toán gas (số %1$s)</string>
     <string name="life_card_gas_bill_primary_no_account">Thanh toán gas</string>
-    <string name="life_card_gas_bill_secondary">Ngày thanh toán|%1$s</string>
+    <string name="life_card_gas_bill_secondary">Ngày thanh toán</string>
     <string name="life_card_loan_primary">Trả nợ (%1$s)</string>
     <string name="life_card_loan_primary_no_bank">Trả nợ</string>
     <string name="life_card_title">Nhắc nhở cuộc sống</string>
@@ -815,7 +815,7 @@ Kiểm tra cài đặt mạng và thử lại."</string>
     <string name="subscription_service">Đăng ký dịch vụ</string>
     <string name="card_credit_today">Hôm nay</string>
     <string name="card_credit_repayment">Ngày trả nợ</string>
-    <string name="gas_detail_deadline">Thời hạn thanh toán</string>
+    <string name="gas_detail_deadline">Thời hạn thanh toán: %1$s</string>
     <string name="gas_detail_account_name">Số tài khoản</string>
     <string name="gas_detail_header_title">Nhắc tiền điện</string>
     <string name="limit_detail_title">Giới hạn thành phố</string>
@@ -1735,4 +1735,8 @@ Bạn cũng có thể thêm nhắc nhở để không bỏ lỡ những điều 
 	<string name="title_menstruation_predict_start_today">Chu kỳ có thể sẽ bắt đầu hôm nay</string>
 	<string name="holiday_name_special_character_warning">"Tên kỳ nghỉ không thể chứa ký tự đặc biệt"</string>
 	<string name="notes_week_name_six">%1$s, %2$s, %3$s, %4$s, %5$s, và %6$s</string>
+	<string name="eee_dd_long_month">EEEE, dd MMMM</string>
+    <string name="xiaomi_calendar_delete_title">Xóa \"Lịch\" khỏi Màn hình chính?</string>
+    <string name="xiaomi_calendar_delete_description">Lịch là một ứng dụng hệ thống cho phép bạn tạo và quản lý sự kiện. Một vài tính năng của nó vẫn khả dụng sau khi bạn xóa Lối tắt Màn hình chính.</string>
+    <string name="ee_dd_short_month">EEE, dd MMM</string>
 </resources>

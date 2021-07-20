@@ -4141,7 +4141,7 @@ Bạn có thể thay đổi điều này sau đó từ Cài đặt > Ứng dụn
     <string name="virus_scanner_select_Cancel">Hủy</string>
     <string name="virus_scanner_provider">๖ۣۜßεℓ™ - MIUI.VN (%s)</string>
     <string name="virus_scanner_auto_update">Tự động cập nhật</string>
-    <string name="virus_scanner_date_formater">d MMM, yyyy</string>
+    <string name="virus_scanner_date_formater">dd MMMM, yyyy</string>
     <string name="virus_scanner_manual_update">Đã cập nhật lúc %s</string>
     <string name="virus_scanner_lib_updating">Đang nâng cấp cơ sở dữ liệu virus…</string>
     <string name="virus_scanner_lib_already_latest">Nhận dạng virus đã được cập nhật</string>
@@ -4362,7 +4362,7 @@ Bạn có thể thay đổi điều này sau đó từ Cài đặt > Ứng dụn
     <string name="wifi_priority_type_summary">Cho phép thiết lập ưu tiên cho mỗi điểm truy cập bằng tay</string>
     <string name="wifi_priority_settings_title">Cài đặt điểm truy cập ưu tiên</string>
     <string name="wifi_priority_settings_summary">Cài chế độ ưu tiên cho mỗi điểm truy cập</string>
-    <string name="wifi_priority_changed" formatted="false">Giá trị cũ %s | Giá trị mới %s</string>
+    <string name="wifi_priority_changed">Giá trị cũ %1$s | Giá trị mới %2$s</string>
     <string name="wifi_configured_ap_list">Danh sách điểm truy cập đã lưu</string>
     <string name="wifi_priority_label">Ưu tiên</string>
     <string name="wifi_available_title">Kết nối tới Wi-Fi</string>
@@ -5033,7 +5033,7 @@ Bạn có thể thay đổi điều này sau đó từ Cài đặt > Ứng dụn
     <string name="vip_list">Danh sách VIP</string>
     <string name="auto_silent">Hẹn giờ bật</string>
     <string name="repeat_call">Thông báo cuộc gọi lặp lại</string>
-    <string name="repeat_call_info">Cho phép bật âm thanh đối với cuộc gọi được lặp lại trong vòng 15 phút ở Chế độ im lặng</string>
+    <string name="repeat_call_info">Cho phép bật âm thanh đối với cuộc gọi được lặp lại trong vòng %d phút khi chế độ Không làm phiền bật</string>
     <string name="silent_duration">Thời lượng</string>
     <string name="mode_enable">Bật</string>
     <string name="mode_disable">Tắt</string>
@@ -6478,7 +6478,7 @@ Quản trị viên của bạn có thể giám sát hoạt động mạng của 
      <string name="bootloader_device_bind_sim_invalid">Thẻ SIM không khả dụng. Hãy thay thế và thử lại.</string>
      <string name="bootloader_locked_answer_2_no_sim">"1. Chạm \"Thêm tài khoản\" bên dưới để liên kết Tài khoản Mi với thiết bị này
 2. Tải xuống công cụ mở khóa từ trang web của chúng tôi. Lưu ý rằng bạn phải sử dụng máy tính để mở khóa thiết bị. Tải xuống tại đây:"</string>
-     <string name="bootloader_status_privacy_dialog_message">Mở khóa Mi cần Tài khoản Mi, CPU ID, IMEI, IMSI để làm việc bình thường. Chúng tôi sưu tập, sử dụng, và truy cập dữ liệu của bạn theo %s. Đồng ý?</string>
+     <string name="bootloader_status_privacy_dialog_message">Mở khóa Mi cần Tài khoản Mi, CPU ID, IMEI, IMSI để làm việc bình thường. Đọc và đồng ý với &lt;a href=\"%1$s\"&gt;Chính sách Riêng tư&lt;/a&gt; của chúng tôi. Đồng ý?</string>
      <string name="bootloader_status_privacy_dialog_no">Hủy</string>
      <string name="bootloader_status_privacy_dialog_title">Yêu cầu quyền</string>
      <string name="bootloader_status_privacy_dialog_url_text">Chính sách Riêng tư</string>
@@ -6929,7 +6929,7 @@ Bạn chắc chắn sử dụng giờ được cấp bởi GPS?"</string>
     <string name="accessibility_manual_zen_less_time">Ít thời gian hơn.</string>
     <string name="accessibility_manual_zen_more_time">Nhiều thời gian hơn.</string>
     <string name="accessibility_notification_vibration_title">Chuông &amp; rung thông báo</string>
-    <string name="accessibility_service_master_switch_title">Sử dụng dịch vụ</string>
+    <string name="accessibility_service_master_switch_title">Sử dụng %1$s</string>
     <string name="accessibility_summary_state_stopped">Không hoạt động. Chạm để xem thông tin.</string>
     <string name="accessibility_touch_vibration_title">Rung phản hồi</string>
     <string name="accessibility_vibration_intensity_high">Cao</string>
@@ -7191,9 +7191,9 @@ Những ứng dụng sử dụng pin hàng đầu:"</string>
     <string name="battery_tip_unrestrict_app_dialog_message">Ứng dụng này có thể sử dụng pin trong nền. Pin của bạn có thể hết sớm hơn dự kiến.</string>
     <string name="battery_tip_unrestrict_app_dialog_ok">Gỡ bỏ</string>
     <string name="battery_tip_unrestrict_app_dialog_title">Gỡ bỏ hạn chế?</string>
-    <string name="call_records_summary_1">%1$d:%2$d SA | %3$d giây</string>
-    <string name="call_records_summary_2">%1$d Tháng 8 | %2$d phút %3$d giây</string>
-    <string name="call_records_summary_3">%1$d Tháng 8| %2$d phút %3$d giây</string>
+    <string name="call_records_summary_1">9:35 SA | 26 giây</string>
+    <string name="call_records_summary_2">16 Tháng 8 | 1 phút 16 giây</string>
+    <string name="call_records_summary_3">29 Tháng 2 | 2 phút 24 giây</string>
     <string name="change_wifi_state_app_detail_switch">Cho phép ứng dụng điều khiển WLAN</string>
     <string name="change_wifi_state_title">Điều khiển WLAN</string>
     <string name="change_wifi_state_app_detail_summary">Cho phép ứng dụng này bật hoặc tắt WLAN, quét và kết nối tới mạng WLAN, thêm hoặc xóa mạng, hoặc bật điểm phát sóng cục bộ</string>
@@ -7327,7 +7327,7 @@ Nếu điều này tiếp diễn, bạn có thể phải gỡ cài đặt ứng 
     <string name="notification_channel_summary_min">Tầm quan trọng thấp</string>
     <string name="notification_group_title">Nhóm danh mục thông báo</string>
     <string name="notification_importance_high_silent">Màn hình nổi lên</string>
-    <string name="notification_switch_label">Hiển thị thông báo</string>
+    <string name="notification_switch_label">Tất cả \"%1$s\" thông báo</string>
     <string name="notifications_enabled_with_info">Bật / %1$s</string>
     <string name="page_layout_34">Điện thoại</string>
     <string name="page_layout_35">Ghi chú</string>
@@ -7737,7 +7737,7 @@ Cập nhật cài đặt thành:
 	<string name="default_launcher_set_jeejen_message">Bấm phím Trang chính để thiết lập Jeejen</string>
     <string name="default_launcher_set_system_message">Bấm phím Trang chính để khôi phục trình khởi chạy mặc định</string>
     <string name="dump_log">Nhận nhật ký liên quan đến vấn đề</string>
-    <string name="dump_log_summary">"Tính năng này được thiết kế để tạo ra 284 bản ghi trong các phiên bản Alpha và Beta của MIUI.          Hãy thận trọng khi sử dụng.
+    <string name="dump_log_summary">"Tính năng này được thiết kế để tạo ra %s nhật ký trong các phiên bản Beta của MIUI. Hãy thận trọng khi sử dụng.
 Bạn có thể xem nhật ký được tạo trong Quản lý Tập tin."</string>
     <string name="miui_ime_xiaoai_voice_hint">Nhập văn bản nhanh hơn, thuận tiện hơn</string>
     <string name="miui_ime_xiaoai_voice_title">Nhập lời thoại Mi AI</string>
@@ -7995,15 +7995,15 @@ Bạn có thể biến thiết bị Android của mình thành một điểm tru
 	<string name="usage_state_app_usage_detail_title">Chi tiết sử dụng ứng dụng</string>
 	<string name="usage_state_app_usage_list_title">"Thời gian sử dụng màn hình của ứng dụng"</string>
 	<string name="usage_state_app_usage_list_week_title">"Thời gian sử dụng màn hình của ứng dụng"</string>
-	<string name="usage_state_app_usage_tip_title" formatted="false">Thời gian sử dụng màn hình giữa %d:00 và %d:00</string>
+	<string name="usage_state_app_usage_tip_title">Thời gian sử dụng màn hình giữa %1$d:00 và %2$d:00</string>
 	<string name="usage_state_app_use_time">Thời gian sử dụng màn hình ứng dụng</string>
 	<string name="usage_state_channel_mouth">30 ngày qua</string>
 	<string name="usage_state_channel_week">7 ngày qua</string>
-	<string name="usage_state_device_noti_today_tip_title" formatted="false">Thông báo trong khoảng %d:00 và %d:00</string>
-	<string name="usage_state_device_unlock_today_tip_title" formatted="false">Mở khóa thiết bị trong khoảng %d:00 và %d:00</string>
+	<string name="usage_state_device_noti_today_tip_title">Thông báo trong khoảng %1$d:00 và %2$d:00</string>
+	<string name="usage_state_device_unlock_today_tip_title">Mở khóa thiết bị trong khoảng %1$d:00 và %2$d:00</string>
 	<string name="usage_state_friday">T6</string>
 	<string name="usage_state_go_more">Thêm ứng dụng</string>
-	<string name="usage_state_hour_minute" formatted="false">%d giờ %d phút</string>
+	<string name="usage_state_hour_minute">%1$d giờ %2$d phút</string>
 	<string name="usage_state_less_one_minute">Ít hơn một phút</string>
 	<string name="usage_state_monday">T2</string>
 	<string name="usage_state_mourth_day">Thời gian màn hình lúc %s</string>
@@ -8025,10 +8025,10 @@ Bạn có thể biến thiết bị Android của mình thành một điểm tru
 	<string name="usage_state_usage_time_remind">Cảnh báo thời gian sử dụng màn hình</string>
 	<string name="usage_state_use_time_remind_title">Cảnh báo thời gian sử dụng màn hình</string>
 	<string name="usage_state_wednesday">T4</string>
-	<string name="usage_state_week_day_hour_minute" formatted="false">Cuối tuần: %d giờ %d phút</string>
+	<string name="usage_state_week_day_hour_minute">Cuối tuần: %1$d giờ %2$d phút</string>
 	<string name="usage_state_week_total_text">Thời gian sử dụng màn hình (7 ngày qua)</string>
 	<string name="usage_state_work_day">Ngày trong tuần</string>
-	<string name="usage_state_work_day_hour_minute" formatted="false">Ngày trong tuần: %d giờ %d phút</string>
+	<string name="usage_state_work_day_hour_minute">Ngày trong tuần: %1$d giờ %2$d phút</string>
 	<string name="usage_stats_normal_day">Ngày trong tuần</string>
 	<string name="usage_stats_week_day">Cuối tuần</string>
 	<string name="usagestats_app_category_miui_financial">Tài chính</string>
@@ -8044,10 +8044,10 @@ Bạn có thể biến thiết bị Android của mình thành một điểm tru
 	<string name="usagestats_app_category_miui_video_etc">Nhạc và video</string>
 	<string name="usagestats_device_notification_des">Giới hạn thời gian sử dụng màn hình hôm nay: %s</string>
 	<string name="usagestats_device_notification_des_over">Bạn đã đạt đến giới hạn thời gian sử dụng màn hình hôm nay</string>
-	<string name="usagestats_device_notification_des_reset" formatted="false">Giới hạn hôm nay: %s | Còn lại %s</string>
+	<string name="usagestats_device_notification_des_reset">Giới hạn hôm nay: %1$s | Còn lại %2$s</string>
 	<string name="usagestats_device_notification_title">Cảnh báo thời gian sử dụng màn hình</string>
 	<string name="usagestats_device_timeout_negative">Nhắc nhở trong 1 giờ</string>
-	<string name="usagestats_device_timeout_des" formatted="false">Bạn đã sử dụng điện thoại %d giờ %d phút hôm nay. Hãy nghỉ ngơi!</string>
+	<string name="usagestats_device_timeout_des">Bạn đã sử dụng điện thoại %1$d giờ %2$d phút hôm nay. Hãy nghỉ ngơi!</string>
 	<string name="usagestats_device_timeout_positive">Đã hiểu</string>
 	<string name="usagestats_device_timeout_title">Cảnh báo thời gian sử dụng màn hình</string>
 	<string name="dc_light_dialog_summary">Chất lượng hiển thị có thể bị ảnh hưởng khi bật Chế độ chống nhấp nháy. Vẫn bật?</string>
@@ -9212,7 +9212,7 @@ Chuyển sang %1$s sẽ không hủy dịch vụ %2$s của bạn."</string>
 	<string name="network_connection_connect_successful">Kết nối thành công</string>
 	<string name="network_connection_errorstate_dialog_message">Có gì đó đã xảy ra. Ứng dụng đã hủy yêu cầu chọn thiết bị.</string>
 	<string name="network_connection_request_dialog_showall">Hiển thị tất cả</string>
-	<string name="network_connection_request_dialog_title">Thiết bị để sử dụng với %1$s</string>
+	<string name="network_connection_request_dialog_title">Kết nối với thiết bị</string>
 	<string name="network_connection_timeout_dialog_message">Không tìm thấy thiết bị. Đảm bảo rằng thiết bị được bật và có thể kết nối.</string>
 	<string name="network_connection_timeout_dialog_ok">Thử lại</string>
 	<string name="nfc_disabled_summary">Không khả dụng vì NFC đã tắt</string>
@@ -10147,10 +10147,10 @@ Tiếp tục truy cập cài đặt bổ sung."</string>
 Nếu bạn không đồng ý cấp các quyền đó, bạn sẽ không thể sử dụng một số tính năng của ứng dụng này; tuy nhiên, chức năng cơ bản của nó vẫn sẽ có sẵn cho bạn. Bạn luôn có thể chọn tắt tính năng này."</string>
 	<string name="nfc_repair_action_desc">Chạm \"&lt;b&gt;Khôi phục&lt;/b&gt;"\" để sửa vấn đề ngăn bạn sử dụng tính năng NFC. Không rời trang hiện tại khi khôi phục tính năng NFC. Khởi động lại thiết bị để áp dụng thay đổi."</string>
 	<string name="multi_face_input_success_name_title">Tên</string>
-	<string formatted="false" name="nfc_repair_confirm_desc">"Bạn có gặp bất kỳ vấn đề nào dưới đây không?
-%d. Bạn không thể thêm hoặc ghi thẻ NFC.
-%d. Thẻ NFC của bạn không hoạt động.
-%d. Các tính năng NFC khác không chạy."</string>
+	<string name="nfc_repair_confirm_desc">"Bạn có gặp bất kỳ vấn đề nào dưới đây không?
+%1$d. Bạn không thể thêm hoặc ghi thẻ NFC.
+%2$d. Thẻ NFC của bạn không hoạt động.
+%3$d. Các tính năng NFC khác không chạy."</string>
 	<string name="restore_oaid_dialog_content">ID nhận dạng ảo của bạn hiện đang được nhiều ứng dụng sử dụng. Nếu bạn đặt lại ID, điều đó có thể khiến một số dữ liệu người dùng ứng dụng không chính xác hoặc bị mất. Bạn có chắc chắn đặt lại ID nhận dạng ảo không??</string>
 	<string name="nfc_repair_action_btn">Khôi phục</string>
 	<string name="structure_face_data_introduction_back">Quay lại</string>
@@ -11076,9 +11076,9 @@ Chức năng này chỉ nhận được địa chỉ MAC Wi-Fi của bạn để
 	<string name="bluetooth_audio_share_feature_notice_summary">Chia sẻ âm thanh với thiết bị khác đã kết nối?</string>
 	<string name="resolution_sub_title">MIUI có thể đóng ứng dụng chạy dưới nền khi chuyển độ phân giải</string>
 	<string name="miheadset_connectHeadsetForFw">Kết nối tai nghe để xem phiên bản firmware</string>
-	<string name="headset_remove_message_indicate">Tất cả thiết bị liên kết với Tài khoản Xiaomi sẽ bị xóa</string>
+	<string name="headset_remove_message_indicate">%1$s sẽ bị hủy kết nối khỏi tất cả thiết bị liên kết với Tài khoản Mi này</string>
 	<string name="miheadset_active">Quyền lực</string>
-	<string name="screen_enhance_engine_ai_note">"Để đảm bảo trải nghiệm xem tự nhiên nhất, tính năng này không hoạt động nếu hình ảnh có các màu chính hoặc chứa các điều chỉnh nâng cao."</string>
+	<string name="screen_enhance_engine_ai_note">%d. Tính năng này làm tăng nhẹ lượng pin tiêu thụ.</string>
 	<string name="miheadset_game_mode_summary">Giảm độ trễ âm thanh khi chơi game</string>
 	<string name="miheadset_disconnect_device">Ngắt kết nối thiết bị này?</string>
 	<string name="miheadset_define_self">Tự định nghĩa</string>
@@ -11190,7 +11190,7 @@ Chức năng này chỉ nhận được địa chỉ MAC Wi-Fi của bạn để
 	<string name="haptic_multitasking_card_long_press_03_content_description">Nhấn giữ xem trước của một ứng dụng</string>
 	<string name="haptic_cursor_movement_07_content_description">Điều chỉnh độ sáng</string>
 	<string name="flashback_didi_summary">Hiển thị thông tin chuyến đi</string>
-	<string name="screen_enhance_engine_memc_note_1">Tính năng này làm tăng nhẹ lượng pin tiêu thụ.</string>
+	<string name="screen_enhance_engine_memc_note_1">%d. Tính năng này làm tăng nhẹ lượng pin tiêu thụ.</string>
 	<string name="elastic_text">Lời nhắc và menu thả xuống xuất hiện với một cửa sổ bật lên đàn hồi giúp tập trung hơn vào các đối tượng này</string>
 	<string name="haptic_multitasking_gestures_04_content_description">Mở gần đây</string>
 	<string name="bluetooth_pairing_toast_add_to_blackfile">Đã chặn thành công. Bạn có thể quản lý các mục bị chặn trong \"Cài đặt bổ sung\".</string>
@@ -11200,7 +11200,7 @@ Chức năng này chỉ nhận được địa chỉ MAC Wi-Fi của bạn để
 	<string name="app_bluetooth_device_blacklist">Danh sách chặn Bluetooth</string>
 	<string name="flashback_open_switch_title">Thẻ ứng dụng</string>
 	<string name="bluetooth_device_blacklist_tital">Danh sách chặn Bluetooth</string>
-	<string name="miheadset_unpair_device_text">Tất cả thiết bị liên kết với Tài khoản Mi này sẽ bị xóa</string>
+	<string name="miheadset_unpair_device_text">%1$s sẽ bị hủy kết nối khỏi tất cả thiết bị liên kết với Tài khoản Mi này.</string>
 	<string name="bluetooth_message_move_out_of_blacklist">Bỏ chặn %1$s ngay?</string>
 	<string name="flashback_background_start_switch_title">Tự động tạo thẻ</string>
 	<string name="screen_enhance_engine_sr_note">Tính năng này làm tăng nhẹ lượng pin tiêu thụ.</string>
@@ -11818,4 +11818,10 @@ Sao chép tệp tin sao lưu vào thiết bị của bạn (MIUI-backup-AllBacku
     <string name="shoulder_key_sound_text_bullet">Nạp đạn</string>
     <string name="color_game_led_freq_title">Tần số nhấp nháy</string>
     <string name="color_game_led_freq_entries">Mỗi %d giây</string>
+	<string name="fiveg_sa_vice_switch_title">SA trên SIM thứ hai</string>
+    <string name="stylus_ota_update_failed">"Không thể cập nhật firmware"</string>
+    <string name="stylus_ota_demands">Giữ thiết bị kết nói với bút stylus qua Bluettoth. Cả hai thiết bị cần được sạc ít nhất %1$s trong suốt quá trình cập nhật.</string>
+    <string name="stylus_ota_timeout_failed">Phiên hết hạn</string>
+    <string name="stylus_ota_download_failed">"Không thể tải firmware"</string>
+	<string name="fiveg_sa_switch_summary">Bật chức năng SA của SIM phụ, chỉ để thử nghiệm</string>
 </resources>

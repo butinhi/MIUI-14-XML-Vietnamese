@@ -2450,4 +2450,6 @@ Sau khi bật chức năng "ghi nhiều camera", máy ảnh của điện thoạ
     <string name="invisible_mode_dialog_title">"Bạn đang ẩn danh"</string>
     <string name="fmt_time_minute_second">"m 'phút' s 'giây'"</string>
     <string name="fmt_time_second_millis">"s.S 'giây'"</string>
+    <string name="pref_camera_flashmode_entry_screen_halo">Lấp đầy hào quang</string>
+    <string name="accessibility_flash_screen_halo">Lấp đầy hào quang, trạng thái mở</string>
 </resources>

@@ -9,10 +9,6 @@
     <plurals name="Nminutes">
         <item quantity="other">Trước %d phút</item>
     </plurals>
-    <plurals name="month_more_events">
-        <item quantity="other">+%d</item>
-        <item quantity="one">1.0</item>
-    </plurals>
     <plurals name="weekN">
         <item quantity="other">TUẦN %d</item>
     </plurals>
@@ -29,7 +25,7 @@
         <item quantity="other">%1$s ngày</item>
     </plurals>
     <plurals name="anniversary_notify_before_3_day_title">
-        <item quantity="other">Kỷ niệm: Sau 3 ngày là kỷ niệm %2$d %1$s</item>
+        <item quantity="other">Kỷ niệm: %2$d năm kể từ %1$s trong %3$d ngày</item>
     </plurals>
     <plurals name="anniversary_notify_title">
         <item quantity="other">Kỷ niệm: %2$d năm %1$s</item>

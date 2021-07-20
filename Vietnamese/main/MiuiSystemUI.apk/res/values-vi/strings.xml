@@ -299,20 +299,20 @@
     <string name="recent_task_app_info_text">Thông tin</string>
     <string name="recent_task_cleaning">Đang dọn dẹp ứng dụng…</string>
     <string name="battery_low_title">Kết nối bộ sạc</string>
-    <string name="battery_low_percent_format">Còn lại %d%%</string>
+    <string name="battery_low_percent_format">Còn lại %s</string>
     <string name="invalid_charger">"Sạc USB không được hỗ trợ.
 Chỉ sử dụng bộ sạc đã cung cấp."</string>
     <string name="status_bar_settings_airplane">Chế độ máy bay</string>
     <string name="bluetooth_tethered">Bluetooth đã được kết nối</string>
-    <string name="usb_device_permission_prompt">Cho phép ứng dụng %1$s truy cập thiết bị USB?</string>
-    <string name="usb_accessory_permission_prompt">Cho phép ứng dụng %1$s truy cập phụ kiện USB?</string>
-    <string name="usb_device_confirm_prompt">Mở %1$s khi thiết bị USB này được kết nối?</string>
-    <string name="usb_accessory_confirm_prompt">Mở %1$s khi phụ kiện USB này được kết nối?</string>
+    <string name="usb_device_permission_prompt">Cho phép %1$s truy cập %2$s?</string>
+    <string name="usb_accessory_permission_prompt">Cho phép %1$s truy cập %2$s?</string>
+    <string name="usb_device_confirm_prompt">Mở %1$s để xử lý %2$s?</string>
+    <string name="usb_accessory_confirm_prompt">Mở %1$s để xử lý %2$s?</string>
     <string name="usb_accessory_uri_prompt">Không có ứng dụng nào được cài đặt làm việc với phụ kiện USB này. Tìm hiểu thêm về phụ kiện này tại %1$s</string>
     <string name="title_usb_accessory">Phụ kiện USB</string>
     <string name="label_view">Xem</string>
-    <string name="always_use_device">Sử dụng mặc định cho thiết bị USB này</string>
-    <string name="always_use_accessory">Sử dụng mặc định cho phụ kiện USB này</string>
+    <string name="always_use_device">Luôn mở %1$s khi %2$s kết nối</string>
+    <string name="always_use_accessory">Luôn cho phép %1$s khi %2$s kết nối</string>
     <string name="usb_debugging_title">Cho phép gỡ lỗi USB?</string>
     <string name="usb_debugging_message">"Mã khóa vân tay RSA của máy tính này là:
 %1$s"</string>
@@ -1260,9 +1260,9 @@ hoàn toàn"</string>
      <string name="keyguard_charging_info_tip_text4">Không sử dụng thiết bị khi sạc để tránh quá nhiệt.</string>
      <string name="keyguard_charging_info_tip_text5">Khi nhiệt độ pin quá nóng, tốc độ sạc sẽ giảm.</string>
      <string name="keyguard_charging_info_tip_text6">Tắt màn hình và rút thiết bị ra để làm mát thiết bị.</string>
-     <string name="keyguard_indication_charging_time">Đang sạc (%s đến khi đầy)</string>
-     <string name="keyguard_indication_charging_time_fast">Đang sạc nhanh (%s cho đến khi đầy)</string>
-     <string name="keyguard_indication_charging_time_slowly">Đang sạc chậm (%s cho đến khi đầy)</string>
+     <string name="keyguard_indication_charging_time">%2$s • Đang sạc (%1$ss đến khi đầy)</string>
+     <string name="keyguard_indication_charging_time_fast">%2$s • Đang sạc nhanh (%1$s cho đến khi đầy)</string>
+     <string name="keyguard_indication_charging_time_slowly">%2$s • Đang sạc chậm (%1$s cho đến khi đầy)</string>
      <string name="keyguard_indication_trust_disabled">Thiết bị sẽ khóa cho đến khi bạn mở khóa thủ công</string>
      <string name="keyguard_instructions_when_pattern_disabled">Bấm Menu để mở khóa.</string>
      <string name="keyguard_left_remotecentral">Điều khiển Mi</string>
@@ -1285,9 +1285,9 @@ hoàn toàn"</string>
      <string name="keyguard_permanent_disabled_sim_instructions">"Thẻ SIM của bạn đã bị vô hiệu hóa vĩnh viễn.
  Liên hệ với nhà cung cấp dịch vụ không dây để cung cấp thẻ SIM khác."</string>
      <string name="keyguard_permanent_disabled_sim_message_short">Thẻ SIM không khả dụng.</string>
-     <string name="keyguard_plugged_in">Đang sạc</string>
-     <string name="keyguard_plugged_in_charging_fast">Đang sạc nhanh</string>
-     <string name="keyguard_plugged_in_charging_slowly">Đang sạc chậm</string>
+     <string name="keyguard_plugged_in">%s • Đang sạc</string>
+     <string name="keyguard_plugged_in_charging_fast">%s • Đang sạc nhanh</string>
+     <string name="keyguard_plugged_in_charging_slowly">%s • Đang sạc chậm</string>
      <string name="keyguard_quick_charging_info_click_to_detail">Sạc nhanh. Chạm để xem chi tiết.</string>
      <string name="keyguard_sim_locked_message">Thẻ SIM đã bị khóa.</string>
      <string name="keyguard_sim_puk_locked_message">Thẻ SIM là khóa PUK.</string>
@@ -1308,7 +1308,7 @@ hoàn toàn"</string>
      <string name="kg_invalid_confirm_pin_hint">Mã PIN không khớp</string>
      <string name="kg_invalid_puk">Nhập lại mã PUK chính xác. Nếu nhập sai lần nữa, SIM sẽ bị khóa vĩnh viễn.</string>
      <string name="kg_invalid_sim_pin_hint">Nhập mã PIN từ 4 đến 8 số.</string>
-     <string name="kg_invalid_sim_puk_hint">Mã PUK phải gồm 8 số.</string>
+     <string name="kg_invalid_sim_puk_hint">Mã PUK phải gồm %1$d số.</string>
      <string name="kg_login_too_many_attempts">Quá nhiều lần nhập hình</string>
      <string name="kg_password_instructions">Nhập mật khẩu</string>
      <string name="kg_password_pin_failed">Không thể mở khóa bằng PIN SIM</string>
@@ -1388,7 +1388,7 @@ Bạn cũng được kết nối với %3$s, ứng dụng này có thể giám s
      <string name="nav_bar_default">(mặc định)</string>
      <string name="nav_bar_layout">Bố trí</string>
      <string name="notification_all_categories">Tất cả danh mục</string>
-     <string name="notification_app_settings">Tùy chỉnh: %1$s</string>
+     <string name="notification_app_settings">Tùy chỉnh</string>
      <string name="notification_channel_alerts">Cảnh báo</string>
      <string name="notification_channel_battery">Pin</string>
      <string name="notification_channel_controls_closed_accessibility">Đã đóng điều khiển thông báo của %1$s</string>
@@ -2236,7 +2236,7 @@ d MMMM"</string>
 	<string name="qs_control_big_tile_state_disconnecting">Đang ngắt kết nối…</string>
 	<string name="qs_control_header_tiles_title">TT Điều khiển</string>
 	<string name="wifi_security_none_owe">Không/Enhanced Open</string>
-	<string name="status_bar_clock_date_weekday_format_12">EEE dd/MM</string>
+	<string name="status_bar_clock_date_weekday_format_12">EEE, d MMM</string>
 	<string name="qs_control_customize_sub_title">Kéo thả nút vừa thêm để sắp xếp</string>
 	<string name="qs_control_big_tile_state_opening">Đang bật…</string>
 	<string name="qs_control_customize_title">Nút đã thêm</string>
@@ -2254,7 +2254,7 @@ d MMMM"</string>
 	<string name="qs_control_big_tile_state_connecting">Đang kết nối…</string>
 	<string name="notification_aggregate_text">Đánh dấu thông báo từ %1$s là không quan trọng</string>
 	<string name="small_window_guide_title">Cửa sổ nổi</string>
-	<string name="status_bar_clock_date_weekday_format">EEE dd/MM</string>
+	<string name="status_bar_clock_date_weekday_format">EEE, d MMM</string>
 	<string name="bluetooth_paired">Đã lưu</string>
 	<string name="quick_settings_cellular_detail_dialog_negative_button_cancel">Hủy</string>
 	<string name="quick_settings_cellular_detail_dialog_positive_button_turnoff">Tắt</string>
@@ -3149,4 +3149,6 @@ Bạn sẽ được thông báo khi có thể sử dụng lại cổng USB."</st
     <string name="fingerprint_again_identified_msg_password">Tính năng vân tay đã được khôi phục. Có thể sử dụng vân tay hoặc mật khẩu phức tạp để mở khóa</string>
     <string name="fingerprint_again_identified_msg_pin">Tính năng vân tay đã được khôi phục và có thể mở khóa bằng vân tay hoặc mật khẩu kỹ thuật số</string>
     <string name="keyguard_invalid_sim_puk_hint">Mã PUK phải chứa %1$d chữ số.</string>
+	<string name="fiveg_sa_vice_switch_title">SA trên SIM thứ hai</string>
+	<string name="fiveg_sa_switch_summary">Bật chức năng SA của SIM phụ, chỉ để thử nghiệm</string>
 </resources>

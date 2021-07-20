@@ -339,8 +339,6 @@
         <item>LHDC V3</item>
         <item>LHDC V2</item>
         <item>LHDC V1</item>
-        <item>Bật codec tùy chọn</item>
-        <item>Tắt codec tùy chọn</item>
     </string-array>
     <string-array name="bluetooth_a2dp_codec_titles">
         <item>Sử dụng lựa chọn hệ thống (Mặc định)</item>

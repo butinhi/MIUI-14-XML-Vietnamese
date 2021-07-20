@@ -151,7 +151,7 @@
     <string name="head_set_tip_dialog_ok">Tôi biết</string>
     <string name="rename_fail_tip">Không thể đổi tên. Mục có tên này đã tồn tại.</string>
     <string name="cloud_record">Đã đồng bộ %d mục</string>
-    <string name="fm_record">Ghi âm FM (%d)</string>
+    <string name="fm_record">Đài FM</string>
     <string name="record_picker_title">Chọn một bản ghi</string>
     <string name="sync_only_in_wifi">Chỉ sử dụng Wi-Fi để đồng bộ</string>
     <string name="sync_only_in_wifi_summary">Ghi âm sẽ không dùng dữ liệu di động để tải lên các bản ghi âm</string>
@@ -687,7 +687,7 @@
 	<string name="all_record">Tất cả ghi âm</string>
 	<string name="no_playback_file">Chọn một bản ghi âm để xem chi tiết</string>
 	<string name="delete_recorder">Xóa</string>
-	<string name="play_speed">Tốc độ phát</string>
+	<string name="play_speed">Tốc độ phát %1$.1fX</string>
     <string name="notification_recording_ticker_for_pad">Thiết bị của bạn hiện đang ghi âm thanh ở chế độ Im lặng. Sử dụng các nút âm lượng để tắt chế độ Im lặng.</string>
     <string name="low_battery_error_for_pad">"Còn dưới %s pin. Dừng và lưu bản ghi của bạn để đảm bảo rằng nó không bị mất."</string>
 </resources>

@@ -275,8 +275,6 @@
 		<item>LHDC V3</item>
 		<item>LHDC V2</item>
 		<item>LHDC V1</item>
-		<item>Bật Codec Tùy chọn</item>
-		<item>Tắt Codec Tùy chọn</item>
 	</string-array>
 	<string-array name="bluetooth_map_versions">
 		<item>MAP 1.2 (Mặc định)</item>

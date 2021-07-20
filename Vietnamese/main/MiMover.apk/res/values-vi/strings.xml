@@ -317,7 +317,7 @@ Sau khi tạo câu hỏi bảo mật mới và xác nhận ngày sinh của bạ
 	<string name="abc_action_bar_up_description">Quay lại</string>
 	<string name="confirm_description">Xác nhận</string>
 	<string name="err_binder_died">Ứng dụng đã dừng đột ngột.</string>
-	<string name="fmt_date_short_month_day">dd/MM</string>
+	<string name="fmt_date_short_month_day">d MMM</string>
 	<string name="fmt_time_12hour_minute_second_pm">h:mm:ss a</string>
 	<string name="fmt_date_year">yyyy</string>
 	<string name="no_network">Không thể kết nối mạng</string>

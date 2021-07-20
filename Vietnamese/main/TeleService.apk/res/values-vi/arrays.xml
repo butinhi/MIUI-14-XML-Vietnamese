@@ -47,26 +47,22 @@
     <string-array name="bluetooth_a2dp_codec_titles">
         <item>Sử dụng lựa chọn hệ thống (Mặc định)</item>
         <item>SBC</item>
-		<item>AAC</item>
-		<item>Qualcomm® aptX™ audio</item>
-		<item>Qualcomm® aptX™ HD audio</item>
-		<item>LDAC</item>
-		<item>Qualcomm® aptX™ Adaptive audio</item>
-		<item>Qualcomm® aptX™ TWS+ audio</item>
-        <item>Bật codec tùy chọn</item>
-        <item>Tắt codec tùy chọn</item>
+        <item>AAC</item>
+        <item>Qualcomm® aptX™ audio</item>
+        <item>Qualcomm® aptX™ HD audio</item>
+        <item>LDAC</item>
+        <item>Qualcomm® aptX™ Adaptive audio</item>
+        <item>Qualcomm® aptX™ TWS+ audio</item>
     </string-array>
     <string-array name="bluetooth_a2dp_codec_summaries">
         <item>Sử dụng lựa chọn hệ thống (Mặc định)</item>
         <item>SBC</item>
-		<item>AAC</item>
-		<item>Qualcomm® aptX™ audio</item>
-		<item>Qualcomm® aptX™ HD audio</item>
-		<item>LDAC</item>
-		<item>Qualcomm® aptX™ Adaptive audio</item>
-		<item>Qualcomm® aptX™ TWS+ audio</item>
-        <item>Bật codec tùy chọn</item>
-        <item>Tắt codec tùy chọn</item>
+        <item>AAC</item>
+        <item>Qualcomm® aptX™ audio</item>
+        <item>Qualcomm® aptX™ HD audio</item>
+        <item>LDAC</item>
+        <item>Qualcomm® aptX™ Adaptive audio</item>
+        <item>Qualcomm® aptX™ TWS+ audio</item>
     </string-array>
     <string-array name="bluetooth_a2dp_codec_sample_rate_titles">
         <item>Sử dụng lựa chọn hệ thống (Mặc định)</item>
@@ -268,31 +264,6 @@
         <item>Ẩn số</item>
         <item>Hiển thị số</item>
     </string-array>
-    <string-array name="preferred_network_mode_choices">
-        <item>LTE/TDSCDMA/CDMA/EVDO/GSM/WCDMA</item>
-        <item>TDSCDMA/CDMA/EVDO/GSM/WCDMA</item>
-        <item>LTE/TDSCDMA/GSM/WCDMA</item>
-        <item>LTE/TDSCDMA/WCDMA</item>
-        <item>TDSCDMA/GSM/WCDMA</item>
-        <item>LTE/TDSCDMA/GSM</item>
-        <item>TDSCDMA/GSM</item>
-        <item>LTE/TDSCDMA</item>
-        <item>TDSCDMA/WCDMA</item>
-        <item>Chỉ TDSCDMA</item>
-        <item>LTE / WCDMA</item>
-        <item>LTE</item>
-        <item>Toàn cầu</item>
-        <item>GSM/WCDMA/LTE</item>
-        <item>CDMA + LTE/EvDo</item>
-        <item>CDMA/EvDo/GSM/WCDMA</item>
-        <item>Chỉ EvDo</item>
-        <item>CDMA w/o EvDo</item>
-        <item>CDMA/EvDo tự động</item>
-        <item>GSM/WCDMA tự động</item>
-        <item>Chỉ WCDMA</item>
-        <item>Chỉ GSM</item>
-        <item>Ưu tiên GSM/WCDMA</item>
-    </string-array>
     <string-array name="list_language_entries">
         <item>Tiếng Anh</item>
         <item>Tiếng Pháp</item>
@@ -399,5 +370,41 @@
 	</string-array>
 	<string-array name="config_rcs_provision_error_on_publish_response">
 		<item>404 không tìm thấy</item>
+	</string-array>
+	<string-array name="preferred_network_mode_choices">
+		<item>GSM/WCDMA ưa thích</item>
+		<item>Chỉ GSM</item>
+		<item>Chỉ WCDMA</item>
+		<item>GSM/WCDMA tự động</item>
+		<item>CDMA/EvDo tự động</item>
+		<item>CDMA w/o EvDo</item>
+		<item>EvDo only</item>
+		<item>CDMA/EvDo/GSM/WCDMA</item>
+		<item>CDMA + LTE/EvDo</item>
+		<item>GSM/WCDMA/LTE</item>
+		<item>Quốc tế</item>
+		<item>LTE</item>
+		<item>LTE / WCDMA</item>
+		<item>Chỉ TDSCDMA</item>
+		<item>TDSCDMA/WCDMA</item>
+		<item>LTE/TDSCDMA</item>
+		<item>TDSCDMA/GSM</item>
+		<item>LTE/TDSCDMA/GSM</item>
+		<item>TDSCDMA/GSM/WCDMA</item>
+		<item>LTE/TDSCDMA/WCDMA</item>
+		<item>LTE/TDSCDMA/GSM/WCDMA</item>
+		<item>TDSCDMA/CDMA/EVDO/GSM/WCDMA</item>
+		<item>LTE/TDSCDMA/CDMA/EVDO/GSM/WCDMA</item>
+		<item>Chỉ NR</item>
+		<item>NR/LTE</item>
+		<item>NR/LTE/CDMA/EvDo</item>
+		<item>NR/LTE/GSM/WCDMA</item>
+		<item>NR/LTE/CDMA/EvDo/GSM/WCDMA</item>
+		<item>NR/LTE/WCDMA</item>
+		<item>NR/LTE/TDSCDMA</item>
+		<item>NR/LTE/TDSCDMA/GSM</item>
+		<item>NR/LTE/TDSCDMA/WCDMA</item>
+		<item>NR/LTE/TDSCDMA/GSM/WCDMA</item>
+		<item>NR/LTE/TDSCDMA/CDMA/EvDo/GSM/WCDMA</item>
 	</string-array>
 </resources>

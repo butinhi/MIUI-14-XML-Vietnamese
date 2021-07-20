@@ -306,4 +306,12 @@
 	<string name="fmt_time_12hour_minute_second_pm">h:mm:ss a</string>
 	<string name="fmt_time_12hour_minute_pm">h:mm a</string>
 	<string name="screenshot_thumbnail">Hình thu nhỏ ảnh chụp màn hình</string>
+	<string name="partial_screenshot_failed_to_save_title">"Không thể lưu. Không đủ bộ nhớ."</string>
+	<string name="accessible_cancel">Hủy</string>
+	<string name="partial_screenshot_insert_failed">Không thể lưu</string>
+	<string name="partial_screenshot_failed_to_capture_title">"Ứng dụng này không cho phép chụp màn hình"</string>
+	<string name="accessible_rect">Chữ nhật</string>
+	<string name="accessible_ellipse">Elíp</string>
+	<string name="take_screenshot">Cả màn hình</string>
+	<string name="accessible_irregular">Hình tùy chỉnh</string>
 </resources>

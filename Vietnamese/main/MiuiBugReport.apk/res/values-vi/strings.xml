@@ -316,9 +316,9 @@
     <string name="catch_full_log_dump_hprof_failed">Không thể tạo nhật ký treo máy</string>
     <string name="catch_full_log_item_content_catch_direct">"1. Quay lại tính năng bạn muốn báo cáo và thực hiện lại.
 2. Quay lại trang này và chạm \"Kết thúc và tải lên\"."</string>
-    <string name="catch_full_log_item_content_need_open">"1. Chạm \"Tạo nhật ký\".
-2. Quay lại tính năng bạn muốn báo cáo và tái tạo nó.
-3. Quay lại trang này và chạm \"Kết thúc và tải lên\"."</string>
+    <string name="catch_full_log_item_content_need_open">"%1$d. Chạm \"Bắt đầu\" để tạo nhật ký.
+%2$d. Quay lại tính năng bạn muốn báo cáo và tái tạo nó.
+%3$d. Quay lại trang này và chạm \"Kết thúc và tải lên\"."</string>
 	<string name="catch_full_log_item_content_title">Bước:</string>
     <string name="catch_full_log_item_title_audio">Âm thanh, ghi âm, và âm thanh cuộc gọi</string>
     <string name="catch_full_log_item_title_bt">Bluetooth</string>
@@ -478,7 +478,7 @@
     <string name="passport_message_dialog_title">Tin nhắn mã xác minh</string>
     <string name="passport_next">Tiếp theo</string>
     <string name="passport_notification_title">Lỗi đăng nhập %1$s</string>
-    <string name="passport_password_req_notice">Mật khẩu phải từ 8-16 ký tự và bao gồm cả số và chữ (phân biệt chữ hoa chữ thường).</string>
+    <string name="passport_password_req_notice">Mật khẩu phải dài 8-16 ký tự và kết hợp ít nhất hai trong số sau: chữ số, chữ cái và ký hiệu đặc biệt (ví dụ: 123abc@# hoặc 123abc hoặc abc@#).</string>
     <string name="passport_phone_num_hint_text">Số điện thoại</string>
     <string name="passport_prev">Quay lại</string>
     <string name="passport_privacy_policy">Chính sách Riêng tư</string>

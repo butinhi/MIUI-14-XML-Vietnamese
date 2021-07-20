@@ -4679,7 +4679,7 @@ Chuyển đổi giữa các ký tự khác nhau và các hiệu ứng đặc bi�
 	<string name="eras_bc">TCN</string>
 	<string name="time_picker_label_hour">Giờ</string>
 	<string name="chinese_day_29">29</string>
-	<string name="fmt_date_short_month_day">dd/MM</string>
+	<string name="fmt_date_short_month_day">d MMM</string>
 	<string name="fmt_time_12hour_minute_second_pm">h:mm:ss a</string>
 	<string name="fmt_date_year">yyyy</string>
 	<string name="month_december_shortest">Thg 12</string>
@@ -4785,7 +4785,7 @@ Chuyển đổi giữa các ký tự khác nhau và các hiệu ứng đặc bi�
 	<string name="earthly_branches_wu">Ngọ</string>
 	<string name="chinese_digit_two">2</string>
 	<string name="earthly_branches_shen">Thân</string>
-	<string name="fmt_date_short_year_month_day">dd/MM/yyyy</string>
+	<string name="fmt_date_short_year_month_day">d MMM, yyyy</string>
 	<string name="the_eve_of_the_spring_festival">Giao Thừa</string>
 	<string name="fmt_date_time_timezone">D T z</string>
 	<string name="yesterday">Hôm qua</string>

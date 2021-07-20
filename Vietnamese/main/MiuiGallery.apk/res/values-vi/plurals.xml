@@ -426,4 +426,7 @@
 	<plurals name="synced_immerse_title">
 		<item quantity="other">Đã đồng bộ hóa thành công %1$d ảnh và %2$d video </item>
 	</plurals>
+    <plurals name="photo_count">
+        <item quantity="other">%d ảnh</item>
+    </plurals>
 </resources>

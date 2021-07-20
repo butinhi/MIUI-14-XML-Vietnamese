@@ -100,6 +100,8 @@
         <item>Bangkok</item>
         <item>Bắc Kinh</item>
         <item>Hồng Kông</item>
+        <item>Macao</item>
+        <item>Singapore</item>
         <item>Irkutsk</item>
         <item>Kuala Lumpur</item>
         <item>Perth</item>
@@ -526,8 +528,6 @@
         <item>Không</item>
         <item>Xuất và gửi nhật ký</item>
         <item>Tạo nhật ký và lưu vào tập tin</item>
-        <item>Xem ID thiết bị thống kê</item>
-		<item>Cập nhật cấu hình máy chủ tức thì</item>
     </string-array>
 	<string-array name="fortune_random_name">
         <item>Wang Wei</item>
@@ -697,20 +697,6 @@
         <item>IPL</item>
         <item>Trong nước</item>
         <item>Giải đấu T20</item>
-    </string-array>
-    <string-array name="english_complete_months">
-        <item>Tháng Một</item>
-        <item>Tháng Hai</item>
-        <item>Tháng Ba</item>
-        <item>Tháng Tư</item>
-        <item>Tháng Năm</item>
-        <item>Tháng Sáu</item>
-        <item>Tháng Bảy</item>
-        <item>Tháng Tám</item>
-        <item>Tháng Chín</item>
-        <item>Tháng Mười</item>
-        <item>Tháng Mười Một</item>
-        <item>Tháng Mười Hai</item>
     </string-array>
     <string-array name="weather_forecasts">
         <item>Trời quang</item>
