@@ -6536,9 +6536,9 @@ Tính năng này có thể tắt trong [Cài đặt]"</string>
      <string name="following_us_title">Theo dõi chúng tôi</string>
      <string name="font_setting_title">Kiểu chữ</string>
      <string name="forget_password_dialog_button_text">Quay lại</string>
-     <string name="forget_password_dialog_content_four"><Data>2. Chọn &lt;font color=#e6e6e6>[Wipe data]&lt;/font>, và chờ đến khi thiết bị khởi động lại.</Data></string>
+     <string name="forget_password_dialog_content_four">2. Chọn [Wipe data], và chờ đến khi thiết bị khởi động lại.</string>
      <string name="forget_password_dialog_content_one"><Data>Nếu bạn quên mật khẩu, bạn sẽ không thể khôi phục. Tuy nhiên, bạn có thể đặt lại mật khẩu sau khi bạn &lt;font color=#ec2700>xóa tất cả dữ liệu trên thiết bị&lt;/font> (bao gồm ảnh, liên hệ v.v...). Sao lưu tất cả dữ liệu quan trọng trước khi thực hiện điều này.</Data></string>
-     <string name="forget_password_dialog_content_three">"<Data>"1. Tắt thiết bị. Bấm nút &lt;font color=#e6e6e6>[Nguồn]&lt;/font> và &lt;font color=#e6e6e6>[Âm lượng+]&lt;/font> đồng thời, giữ đến khi bạn nhìn thấy &lt;img src=''> icon."</Data>"</string>
+     <string name="forget_password_dialog_content_three">1. Tắt thiết bị. Bấm nút [Nguồn] và [Âm lượng+] đồng thời, giữ đến khi bạn nhìn thấy biểu tượng *</string>
      <string name="forget_password_dialog_content_two">Thực hiện theo các bước sau để xóa dữ liệu:</string>
      <string name="forget_password_dialog_title">Thiết lập lại mật khẩu</string>
      <string name="game_mode_settings">Chế độ trò chơi</string>
