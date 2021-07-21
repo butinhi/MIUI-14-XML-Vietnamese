@@ -697,4 +697,13 @@ Nghỉ ngơi chút đi!"</item>
     <plurals name="gtb_setting_item_summary_brightness">
         <item quantity="other">Tự động giảm độ sáng màn hình sau %d phút không hoạt động</item>
     </plurals>
+    <plurals name="sim_lock_puk_dialog_message">
+        <item quantity="other">Bạn chỉ còn %d lần thử để xác minh mã PUK của SIM. Nếu bạn đạt đến giới hạn nhập sai mã PUK, thẻ SIM của bạn sẽ bị hủy. Vẫn tiếp tục?</item>
+    </plurals>
+    <plurals name="simlock_set_pin_error">
+        <item quantity="other">Mã PIN bạn đã nhập không chính xác. Còn lại %d lần thử.</item>
+    </plurals>
+    <plurals name="simlock_set_puk_error">
+        <item quantity="other">Nhập mã PUK của SIM. Còn lại %d lần thử.</item>
+    </plurals>
 </resources>

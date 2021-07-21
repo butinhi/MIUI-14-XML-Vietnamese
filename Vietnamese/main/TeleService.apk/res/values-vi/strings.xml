@@ -3508,7 +3508,7 @@ Bất cứ người dùng nào cũng có thể cập nhật ứng dụng cho ng�
     <string name="mobile_geo_location_config_summary">Đánh dấu các vị trí bất thường của tín hiệu mạng để cải thiện trải nghiệm giao tiếp của người dùng</string>
     <string name="label_ndp_nck">Mở khóa mạng SIM NCK</string>
     <string name="mobile_network_dual_card_optimizationmobile_title">Tối ưu hóa mạng di động sim kép</string>
-    <string name="mobile_geo_location_config_title">Tối ưu hóa chất lượng mạng điểm cố định</string>
+    <string name="mobile_geo_location_config_title">Tối ưu hóa mạng điểm cố định</string>
     <string name="fiveg_carrier_aggregation_title">Tổng hợp mạng 5G</string>
 	<string name="menu_new_display_open">Mở trong cửa sổ mới</string>
 	<string name="menu_pc_open">Mở bằng chương trình máy tính</string>

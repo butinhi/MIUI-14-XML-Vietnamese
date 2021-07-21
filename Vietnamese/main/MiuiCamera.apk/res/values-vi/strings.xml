@@ -2418,8 +2418,8 @@ Sau khi bật chức năng "ghi nhiều camera", máy ảnh của điện thoạ
 	<string name="accessibility_reference_line_image_off">Ẩn đường lưới</string>
 	<string name="accessibility_pro_parameters_panel_on">Mở menu với thông số PRO</string>
 	<string name="remote_online_permission">"Thay đổi quyền vị trí của máy ảnh thành \"Chỉ cho phép khi sử dụng ứng dụng\" để có thể sử dụng quay phim hai máy."</string>
-	<string name="prek_b_j_o">Tái tạo hiệu ứng âm thanh vòm</string>
-	<string name="super_night_owl_toast">Giữ chắc điện thoại</string>
+    <string name="prek_b_j_o">Bật để tạo lại hiệu ứng âm thanh nổi vòm. Chuyển sang chế độ ngang hoặc kết nối tai nghe để có hiệu quả tốt nhất.</string>
+    <string name="super_night_owl_toast">Giữ chắc điện thoại</string>
 	<string name="prek_b_j_p">Giảm tác động của gió đến ghi âm</string>
 	<string name="prep_video_ai_audio_new_desc_tip_alone">Âm thanh từ đối tượng được lấy nét được tăng cường ở chế độ ngang</string>
 	<string name="esp_tip">Xem trước màn hình bên ngoài</string>

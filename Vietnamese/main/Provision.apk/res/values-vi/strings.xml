@@ -217,7 +217,7 @@ Bạn phải đồng ý với Chính sách Riêng tư Kika trước khi sử d�
 	<string name="disagreement_donnot_use_service">"Nếu bạn chọn không đồng ý cấp quyền hoặc chia sẻ và tải lên thông tin cá nhân của bạn, bạn sẽ không thể sử dụng dịch vụ này. Bạn có thể chọn không sử dụng dịch vụ này trong các trường hợp như vậy."</string>
 	<string name="require_network_authority_statement">Để cho phép chúng tôi cung cấp cho bạn các dịch vụ cơ bản, bạn cần phải kết nối mạng và cấp các quyền dưới đây để chúng tôi thu thập thông tin cá nhân của bạn:</string>
 	<string name="game_introduction">Trình cắm Game cho phép bạn đăng nhập, tạo đặt hàng, hoàn tất thanh toán, sử dụng phiếu giảm giá, và tham gia sự kiện khuyến mại.</string>
-	<string name="close_location_service_setting">Bạn có thể chọn tắt truy cập vị trí trong Cài đặt &gt; Cài đặt bổ sung &gt; Riêng tư hoặc hạn chế quyền cho các ứng dụng riêng trong Bảo mật.</string>
+	<string name="close_location_service_setting">Bạn có thể chọn tắt quyền truy cập thông tin vị trí trong Cài đặt > Bảo vệ quyền riêng tư > Quản lý hoặc hạn chế quyền đối với từng ứng dụng trong Bảo mật.</string>
 	<string name="permission_call_records_introduction">Để truy cập lịch sử cuộc gọi nhằm mục đích hiển thị các mục bị chặn</string>
 	<string name="permission_direct_call_introduction">Để thêm các mục vào danh sách chặn</string>
 	<string name="service_name_recorder">Ghi âm</string>
