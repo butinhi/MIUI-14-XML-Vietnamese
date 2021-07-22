@@ -290,7 +290,7 @@
 	<string name="fmt_date_long_year_month_day">dd MMMM, yyyy</string>
 	<string name="feedback">Phản hồi</string>
 	<string name="month_may_shortest">Thg 5</string>
-	<string name="fmt_date_short_month_day">dd/MM</string>
+	<string name="fmt_date_short_month_day">d MMM</string>
 	<string name="month_december_shortest">Thg 12</string>
 	<string name="miuix_sbl_tracking_progress_labe_refreshing">Đang làm mới…</string>
 	<string name="saturday_shortest">T7</string>
@@ -321,7 +321,7 @@
 	<string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">"Không thể tải"</string>
 	<string name="solar_term_hoar_frost_falls">Sương giáng</string>
 	<string name="wednesday_shortest">T4</string>
-	<string name="fmt_date_numeric_month_day">dd/MM</string>
+	<string name="fmt_date_numeric_month_day">d/M</string>
 	<string name="the_mid_autumn_festival">Lễ Trung Thu</string>
 	<string name="the_partys_day">Thành lập Đảng Cộng sản Trung Quốc</string>
 	<string name="monday_shortest">T2</string>
@@ -353,7 +353,7 @@
 	<string name="month_september_shortest">Thg 9</string>
 	<string name="the_international_womens_day">"Ngày Phụ nữ"</string>
 	<string name="friday_shortest">T6</string>
-	<string name="fmt_date_short_year_month_day">dd/MM/yyyy</string>
+	<string name="fmt_date_short_year_month_day">d MMM, yyyy</string>
 	<string name="the_eve_of_the_spring_festival">Đêm trừ tịch</string>
 	<string name="permission_location_introduce">Hiển thị các cửa hàng dịch vụ gần bạn nhất</string>
 	<string name="the_spirit_festival">Lễ Vu Lan</string>

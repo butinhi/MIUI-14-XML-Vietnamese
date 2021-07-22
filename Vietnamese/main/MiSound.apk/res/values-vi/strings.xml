@@ -269,7 +269,7 @@
 	<string name="chinese_day_25">25</string>
 	<string name="eras_bc">TCN</string>
 	<string name="chinese_day_29">29</string>
-	<string name="fmt_date_short_month_day">dd/MM</string>
+	<string name="fmt_date_short_month_day">d MMM</string>
 	<string name="month_december_shortest">Thg 12</string>
 	<string name="chinese_day_30">30</string>
 	<string name="night">CH</string>

@@ -2034,7 +2034,7 @@ In dễ dàng trên khổ A4"</string>
 	<string name="makeup_effect_entry_cool_makeup">Xanh nữ</string>
 	<string name="makeup_effect_entry_dusk_night">Mờ mịt</string>
 	<string name="video_cast_dialog_msg_unavailable">Vui lòng bật Bluetooth và Wi-Fi trước khi sử dụng tính năng ghi nhiều camera</string>
-	<string name="dolly_zoom_capture_tip1">Đặt đối tượng của bạn vào khung và giữ thiết bị cách xa ít nhất %d mét</string>
+	<string name="dolly_zoom_capture_tip1">Đặt đối tượng của bạn vào khung</string>
 	<string name="dolly_zoom_capture_tip2">Di chuyển thiết bị ra xa chủ thể của bạn một cách ổn định</string>
 	<string name="accessibility_video_sky_function_panel_on">Mở bảng chức năng xxxxxxx</string>
 	<string name="dolly_zoom_capture_tip3">Mất dấu chủ thể. Bắt đầu lại.</string>
@@ -2390,13 +2390,13 @@ Bên kia cần bật khóa chuyển "Ghi nhiều camera" trên thanh thông báo
 	<string name="fmt_date_numeric_month_day">d/M</string>
 	<string name="fmt_weekday_time_timezone">W T z</string>
 	<string name="fmt_date_long_month_day">dd MMMM</string>
-	<string name="fmt_date_short_year_month_day">dd/MM/yyyy</string>
+	<string name="fmt_date_short_year_month_day">d MMM, yyyy</string>
 	<string name="fmt_date_time">D T</string>
 	<string name="fmt_weekday_date_timezone">W, D z</string>
 	<string name="fmt_date_numeric_year_month_day">d/M/yyyy</string>
 	<string name="fmt_date_long_year_month_day">dd MMMM, yyyy</string>
 	<string name="fmt_weekday_timezone">W z</string>
-	<string name="fmt_date_short_month_day">dd/MM</string>
+	<string name="fmt_date_short_month_day">d MMM</string>
 	<string name="accessibility_lock_focus_success">Đã khóa lấy nét</string>
 	<string name="pref_customization_style">Kiểu tùy chỉnh</string>
 	<string name="histogram_summary_tip">Hiển thị phơi sáng thời gian thực</string>

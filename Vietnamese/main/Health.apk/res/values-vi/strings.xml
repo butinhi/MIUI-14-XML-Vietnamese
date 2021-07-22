@@ -1132,7 +1132,7 @@ Nếu sự cố này xảy ra thường xuyên, hãy kiểm tra thiết bị c�
 	<string name="tb_exercise_goal_info">Mục tiêu hoạt động hàng ngày: %1$s. %2$s</string>
 	<string name="open_stand_assistant">Chạm để mở Trợ lý hoạt động</string>
 	<string name="snore_detection_abnormal_state">Phiên bị gián đoạn</string>
-	<string name="tb_snore_detection_main">Về các tính năng liên quan đến nói mơ và ngáy: %1%s. Vuốt ngang ở phía trên màn hình để chuyển tới trang tiếp theo.</string>
+	<string name="tb_snore_detection_main">Về các tính năng liên quan đến nói mơ và ngáy: %1$s. Vuốt ngang ở phía trên màn hình để chuyển tới trang tiếp theo.</string>
 	<string name="sleep_snore_audio_hight_power_desc">Hãy nhớ rằng sử dụng tính năng này tiêu thụ một lượng điện năng đáng kể. Cắm sạc trong khi bạn ngủ để tránh bị gián đoạn cũng là một ý tưởng tốt.</string>
 	<string name="rem_duration_normal_description">Thời lượng ngủ REM bình thường</string>
 	<string name="snore_detection_enable">Phát hiện ngáy và nói mơ</string>

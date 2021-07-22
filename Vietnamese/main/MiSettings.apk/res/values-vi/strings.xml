@@ -325,7 +325,7 @@
 	<string name="time_picker_label_hour">Giờ</string>
 	<string name="chinese_day_29">29</string>
 	<string name="not_set">Chưa đặt</string>
-	<string name="fmt_date_short_month_day">dd/MM</string>
+	<string name="fmt_date_short_month_day">d MMM</string>
 	<string name="fmt_time_12hour_minute_second_pm">h:mm:ss a</string>
 	<string name="fmt_date_year">yyyy</string>
 	<string name="month_december_shortest">Thg 12</string>

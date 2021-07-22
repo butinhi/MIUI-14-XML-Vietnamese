@@ -596,8 +596,8 @@ Kiểm tra cài đặt mạng và thử lại."</string>
     <string name="talk_back_month">Tháng</string>
     <string name="swipe_up_guide_hint_text">Trượt lên để tìm hiểu thêm</string>
     <string name="shift_type_rest">Hưu trí</string>
-    <string name="ad_card_download_count">%1$d người tải xuống</string>
-    <string name="ad_card_download_count_million">%1$d vạn tải xuống</string>
+    <string name="ad_card_download_count">%1$s người tải xuống</string>
+    <string name="ad_card_download_count_million">%1$s vạn tải xuống</string>
     <string name="ad_card_download_use_count_million">%1$d vạn người đang dùng</string>
     <string name="ad_card_paused">Tiếp tục tải xuống</string>
     <string name="ad_card_downloading">Đang tải xuống</string>

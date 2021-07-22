@@ -105,11 +105,11 @@
 	<string name="my_style_title">Phong cách của tôi</string>
 	<string name="delete">Xóa</string>
 	<string name="minimalist_clock">Đồng hồ đơn giản</string>
-	<string name="aod_lock_screen_date_smartcover_b">EE d/M</string>
+	<string name="aod_lock_screen_date_smartcover_b">EE dd/MM</string>
 	<string name="aod_lock_screen_date_12_smartcover">"EE
 d/M"</string>
 	<string name="aod_lock_screen_date_smartcover">"EE
-d/M"</string>
+dd/MM"</string>
 	<string name="mtrl_picker_date_header_title">Chọn một ngày</string>
 	<string name="mtrl_badge_numberless_content_description">Thông báo mới</string>
 	<string name="mtrl_picker_range_header_title">Chọn một khoảng ngày</string>
@@ -408,7 +408,7 @@ d/M"</string>
 	<string name="the_double_ninth_festival">Lễ Trùng Cửu</string>
 	<string name="miuix_sbl_tracking_progress_labe_up_refresh">Đang làm mới</string>
 	<string name="fmt_date_long_month_day">dd MMMM</string>
-	<string name="fmt_date_short_year_month_day">d MMM, yyyy</string>
+	<string name="fmt_date_short_year_month_day">dd/MM/yyyy</string>
 	<string name="fmt_date_long_year_month_day">dd MMMM, yyyy</string>
 	<string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">Thất bại</string>
 	<string name="fmt_time_24hour">"HH 'giờ'"</string>
