@@ -277,10 +277,6 @@
         <item>Chỉ hệ thống trên máy</item>
         <item>Tự động</item>
     </string-array>
-    <string-array name="cdma_subscription_choices">
-        <item>RUIM/SIM</item>
-        <item>NV</item>
-    </string-array>
     <string-array name="tty_mode_entries">
         <item>TTY Tắt</item>
         <item>TTY Đầy</item>
@@ -353,12 +349,6 @@
 		<item>WCDMA</item>
 		<item>LTE</item>
 		<item>Chế độ ba</item>
-	</string-array>
-	<string-array name="bluetooth_avrcp_version_values">
-		<item>avrcp14</item>
-		<item>avrcp13</item>
-		<item>avrcp15</item>
-		<item>avrcp16</item>
 	</string-array>
 	<string-array name="bluetooth_map_versions">
 		<item>MAP 1.2 (Mặc định)</item>

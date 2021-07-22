@@ -152,7 +152,6 @@ d MMMM"</string>
 	<string name="fmt_date_short_year_month_day">dd/MM/yyyy</string>
 	<string name="the_eve_of_the_spring_festival">Giao Thừa</string>
 	<string name="update">Cập nhật</string>
-	<string name="mars_id">Sao Hỏa</string>
 	<string name="fmt_date_time_timezone">D T z</string>
 	<string name="yesterday">Hôm qua</string>
 	<string name="chinese_month">Tháng</string>
@@ -387,7 +386,6 @@ Mawrth Vallis"</string>
 	<string name="miuix_appcompat_action_mode_title_empty">Chọn mục</string>
 	<string name="miuix_appcompat_actionbar_immersion_button_more_description">Thêm</string>
 	<string name="miuix_appcompat_delete_description">Xóa</string>
-	<string name="geometry_id">Hình học</string>
 	<string name="miuix_appcompat_search_action_mode_cancel">Hủy</string>
 	<string name="miuix_appcompat_cancel_description">Hủy</string>
 	<string name="weather_super_wallpaper_label">Thời tiết</string>

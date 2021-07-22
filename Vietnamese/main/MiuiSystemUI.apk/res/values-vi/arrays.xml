@@ -333,12 +333,6 @@
 		<item>Bật lọc phương tiện Pkts</item>
 		<item>Đã bật</item>
 	</string-array>
-	<string-array name="bluetooth_avrcp_version_values">
-		<item>avrcp14</item>
-		<item>avrcp13</item>
-		<item>avrcp15</item>
-		<item>avrcp16</item>
-	</string-array>
 	<string-array name="origin_carrier_names">
 		<item>"CHINA  MOBILE"</item>
 		<item>CMCC</item>

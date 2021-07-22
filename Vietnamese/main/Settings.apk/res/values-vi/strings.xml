@@ -7063,7 +7063,6 @@ Nếu bạn thực hiện bất kì thao tác nào kể trên, thêm Tài khoả
     <string name="condition_device_muted_title">Điện thoại đã tắt âm</string>
     <string name="condition_device_vibrate_summary">Cuộc gọi và thông báo sẽ rung điệ thoại</string>
     <string name="condition_device_vibrate_title">Điện thoại đã đặt sang rung</string>
-    <string name="config_charging_function_name">Đang sạc</string>
     <string name="connected_device_add_device_summary">Bluetooth sẽ được bật để ghép nối</string>
     <string name="connected_device_add_device_title">Thêm thiết bị</string>
     <string name="connected_device_available_call_title">Thiết bị gọi khả dụng</string>

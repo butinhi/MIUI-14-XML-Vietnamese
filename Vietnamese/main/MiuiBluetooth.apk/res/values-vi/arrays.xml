@@ -38,12 +38,6 @@
 		<item>88,2 kHz</item>
 		<item>96,0 kHz</item>
 	</string-array>
-	<string-array name="bluetooth_avrcp_version_values">
-		<item>avrcp14</item>
-		<item>avrcp13</item>
-		<item>avrcp15</item>
-		<item>avrcp16</item>
-	</string-array>
 	<string-array name="select_logd_size_lowram_titles">
 		<item>Tắt</item>
 		<item>64K</item>

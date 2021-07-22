@@ -1598,10 +1598,6 @@ Ghi chú: Chỉ cho phiên bản Ubuntu 8.04!"</item>
 		<item>Sự rõ ràng của hướng dẫn</item>
 		<item>Tính năng này hữu ích</item>
 	</string-array>
-	<string-array name="cdma_subscription_choices">
-		<item>RUIM/SIM</item>
-		<item>NV</item>
-	</string-array>
 	<string-array name="cdma_system_select_choices">
 		<item>Chỉ ở nhà</item>
 		<item>Tự động</item>
@@ -1740,12 +1736,6 @@ Ghi chú: Chỉ cho phiên bản Ubuntu 8.04!"</item>
 	<string-array name="enabled_networks_subsidy_locked_choices">
 		<item>Chỉ LTE</item>
 		<item>GSM/WCDMA/LTE</item>
-	</string-array>
-	<string-array name="bluetooth_avrcp_version_values">
-		<item>avrcp14</item>
-		<item>avrcp13</item>
-		<item>avrcp15</item>
-		<item>avrcp16</item>
 	</string-array>
 	<string-array name="paper_color_values">
 		<item>Đủ màu</item>
