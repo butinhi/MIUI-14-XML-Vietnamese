@@ -25,7 +25,7 @@
         <item quantity="other">Báo cáo bởi %d người dùng MIUI</item>
     </plurals>
 	<plurals name="auto_disconnect_timer_tip">
-		<item quantity="other">Đang cúp máy trong %1$d giây</item>
+		<item quantity="other">Đang cúp máy trong %1$s giây…</item>
 	</plurals>
 	<plurals name="abbrev_a_hour_ago">
 		<item quantity="other">1 giờ trước</item>
