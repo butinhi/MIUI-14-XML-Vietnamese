@@ -153,15 +153,6 @@
     <string name="enable_ap_set">Thiết lập</string>
     <string name="enable_hotspot">Bật điểm phát sóng Wi-Fi thành công</string>
     <string name="exit">Thoát</string>
-    <string name="file_count">%1$d</string>
-    <string name="file_size_b">%1$d B</string>
-    <string name="file_size_gb">%2$1.2f GB</string>
-    <string name="file_size_kb">%2$1.2f KB</string>
-    <string name="file_size_mb">%2$1.2f MB</string>
-    <string name="file_speed_b">%1$d B/s</string>
-    <string name="file_speed_gb">%2$1.2f GB/s</string>
-    <string name="file_speed_kb">%2$1.2f KB/s</string>
-    <string name="file_speed_mb">%2$1.2f MB/s</string>
     <string name="files_selected">Đã chọn</string>
     <string name="files_selected_count">Tập tin đã chọn: %1$d | Tổng: %2$s</string>
     <string name="internal_storage">Bộ nhớ trong</string>
@@ -340,7 +331,6 @@ Kiểm tra cài đặt mạng và thử lại."</string>
     <string name="ck">Phản hồi</string>
     <string name="cl">Không xóa thông tin dưới đây vì chúng giúp chúng tôi xác định vấn đề.</string>
     <string name="cm">Phản hồi Mi Drop</string>
-    <string name="cn">%1$d</string>
     <string name="co">Ứng dụng đã cài đặt</string>
     <string name="cp">Ứng dụng hệ thống</string>
     <string name="cq">Ảnh</string>

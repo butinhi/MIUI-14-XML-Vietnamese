@@ -867,7 +867,6 @@
     <string name="kuaipan_over_space">Không đủ dung lượng lưu trữ.</string>
     <string name="kuaipan_photo_folder_divider">,</string>
     <string name="kuaipan_photo_locate">Vị trí: %1$s</string>
-    <string name="kuaipan_photo_more_folder_count">%1$s</string>
     <string name="kuaipan_prompt">Máy chủ đang bảo trì</string>
     <string name="kuaipan_prompt_message">"
 Hiện máy chủ đang bảo trì.

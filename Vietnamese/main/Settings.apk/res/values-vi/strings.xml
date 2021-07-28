@@ -6398,7 +6398,6 @@ Quản trị viên của bạn có thể giám sát hoạt động mạng của 
     <string name="use_media_format_desc">Xóa Lưu trữ USB? <b>Tất cả</b> tập tin sẽ bị xóa vĩnh viễn.</string>
     <string name="usb_dlg_confirm_unmount_title">Ngắt kết nối lưu trữ USB?</string>
     <string name="usb_dlg_confirm_unmount_text">Nếu bạn ngắt kết nối lưu trữ USB, vài ứng dụng sẽ dừng lại và có thể không khả dụng cho đến khi bạn kết nối lại.</string>
-    <string name="miracast_dialog_title">%1$s</string>
 	<string name="accessibility_wifi_security_type_none">Mở mạng</string>
     <string name="bluetooth_ask_enablement_and_lasting_discovery_no_name">Một ứng dụng muốn bật Bluetooth và đặt điện thoại của bạn ở chế độ hiển thị với các thiết bị khác. Bạn có thể thay đổi cài đặt này sau trong cài đặt Bluetooth.</string>
 	<string name="carrier_show_in_lock_screen">Chỉ hiển thị trên màn hình khóa</string>
@@ -11818,8 +11817,11 @@ Sao chép tệp tin sao lưu vào thiết bị của bạn (MIUI-backup-AllBacku
     <string name="color_game_led_freq_entries">Mỗi %d giây</string>
 	<string name="fiveg_sa_vice_switch_title">SA trên SIM thứ hai</string>
     <string name="stylus_ota_update_failed">"Không thể cập nhật firmware"</string>
-    <string name="stylus_ota_demands">Giữ thiết bị kết nói với bút stylus qua Bluettoth. Cả hai thiết bị cần được sạc ít nhất %1$s trong suốt quá trình cập nhật.</string>
+    <string name="stylus_ota_demands">Giữ thiết bị kết nói với bút stylus qua Bluetooth. Cả hai thiết bị cần được sạc ít nhất %1$s trong suốt quá trình cập nhật.</string>
     <string name="stylus_ota_timeout_failed">Phiên hết hạn</string>
     <string name="stylus_ota_download_failed">"Không thể tải firmware"</string>
 	<string name="fiveg_sa_switch_summary">Bật chức năng SA của SIM phụ, chỉ để thử nghiệm</string>
+	<string name="pad_flash_drive_backup_enable">Sử dụng thiết bị USB để sao lưu hoặc khôi phục các mục</string>
+    <string name="disable_quick_start">Tắt khởi động nhanh</string>
+    <string name="enable_quick_start">Bật khởi động nhanh</string>
 </resources>

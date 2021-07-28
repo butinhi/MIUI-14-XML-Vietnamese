@@ -121,7 +121,6 @@
     <string name="comment_upload_account_not_activitied">"Your account hasn't been activated yet."</string>
     <string name="comment_count_hint">Touch to rate:</string>
     <string name="comment_invalid">Rate the app by touching the stars above the comment box</string>
-    <string name="comment_version_name">%1$s</string>
     <string name="comment_cannot_comment">"You can only comment after you've used the app"</string>
     <string name="app_comments_title">Comments：%1$s</string>
     <string name="edit_comment_title">Edit comment: %1$s</string>

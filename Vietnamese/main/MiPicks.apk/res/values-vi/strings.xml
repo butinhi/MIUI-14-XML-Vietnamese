@@ -101,7 +101,6 @@
     <string name="comment_upload_need_login">Sign in to comment?</string>
     <string name="comment_upload_not_logined">Sign in now</string>
     <string name="comment_upload_success">Your comment has been sent! It will be displayed after a brief review.</string>
-    <string name="comment_version_name">%1$s</string>
     <string name="common_loading_text">Loading…</string>
     <string name="connect_fail">Lost network connection</string>
     <string name="connect_no_enough_space_message">Not enough space available on your device</string>

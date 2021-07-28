@@ -690,4 +690,5 @@
 	<string name="play_speed">Tốc độ phát %1$.1fX</string>
     <string name="notification_recording_ticker_for_pad">Thiết bị của bạn hiện đang ghi âm thanh ở chế độ Im lặng. Sử dụng các nút âm lượng để tắt chế độ Im lặng.</string>
     <string name="low_battery_error_for_pad">"Còn dưới %s pin. Dừng và lưu bản ghi của bạn để đảm bảo rằng nó không bị mất."</string>
+	<string name="fmt_time_minute">"m 'phút'"</string>
 </resources>

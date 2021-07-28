@@ -15,9 +15,6 @@
     <plurals name="step_num_format">
         <item quantity="other">%1$d bước</item>
     </plurals>
-    <plurals name="steps_format">
-        <item quantity="other">%1$d</item>
-    </plurals>
     <plurals name="subtitle_add_record">
         <item quantity="other">Bạn đã không ghi lại %1$d ngày. Ghi lại chu kỳ của bạn để dự đoán được chính xác hơn.</item>
     </plurals>

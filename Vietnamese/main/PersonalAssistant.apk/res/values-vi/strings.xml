@@ -2623,4 +2623,10 @@ Vui lòng gửi mã này cho nhân viên kỹ thuật."</string>
     <string name="app_airstar_content_unauthorized_title">Xem chi tiết tài chính của bạn tại đây</string>
     <string name="app_airstar_default_asset_loan_title">Khoản vay khả dụng</string>
     <string name="stock_partner_change_net_tip">Vui lòng kết nối mạng trước khi chuyển đổi</string>
+	<string name="app_olympic_gold_medal_total">Tổng</string>
+    <string name="app_olympic_card_service_des">Xếp hạng được cập nhật thời gian thực</string>
+    <string name="app_olympic_card_title">Bảng huy chương Olympic</string>
+    <string name="app_olympic_gold_medal_country_region">Đội</string>
+    <string name="app_olympic_card_title_info">Dữ liệu được cung cấp bởi bên thứ ba, có thể có độ trễ</string>
+    <string name="app_olympic_card_service_title">Bảng huy chương Olympic</string>
 </resources>

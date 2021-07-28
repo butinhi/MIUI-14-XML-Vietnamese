@@ -1076,4 +1076,15 @@ Gửi mã này cho người giám sát."</string>
 	<string name="fmt_time_12hour_minute_second_pm">h:mm:ss a</string>
 	<string name="fmt_weekday_date_timezone">W, D z</string>
 	<string name="fmt_time_12hour_minute_pm">h:mm a</string>
+	<string name="fmt_time_minute_second_millis">"m 'phút' s.S 'giây'"</string>
+	<string name="mibi_incognito_mode_dialog_to_close">Cài đặt</string>
+	<string name="fmt_time_minute_second">"m 'phút' s 'giây'"</string>
+	<string name="fmt_weekday_time_timezone">zW T</string>
+	<string name="fmt_time_24hour">"HH 'giờ'"</string>
+	<string name="mibi_incognito_mode_dialog_cancel">Hủy</string>
+	<string name="fmt_time_minute">"m 'phút'"</string>
+	<string name="fmt_time_12hour">"h 'giờ'"</string>
+	<string name="mibi_incognito_mode_dialog_title">"Bạn đang ẩn danh"</string>
+	<string name="fmt_time_second_millis">"s.S 'giây'"</string>
+	<string name="mibi_incognito_mode_dialog_summary_camera">"Không thể sử dụng máy ảnh. Tắt chế độ Ẩn danh trong Cài đặt để có thể sử dụng máy ảnh."</string>
 </resources>

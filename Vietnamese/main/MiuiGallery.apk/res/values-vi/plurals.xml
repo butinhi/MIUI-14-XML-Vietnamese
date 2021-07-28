@@ -429,4 +429,25 @@
     <plurals name="photo_count">
         <item quantity="other">%d ảnh</item>
     </plurals>
+    <plurals name="slim_complete_video_count">
+        <item quantity="other">Đã tối ưu %d video</item>
+    </plurals>
+    <plurals name="talkback_album_item_content">
+        <item quantity="other">%1$s, %2$s mục</item>
+    </plurals>
+    <plurals name="slim_photo_count">
+        <item quantity="other">%d ảnh</item>
+    </plurals>
+    <plurals name="slim_remain_photo_count_v2">
+        <item quantity="other">Còn lại %d mục cần tối ưu\</item>
+    </plurals>
+    <plurals name="slim_complete_photo_count_v2">
+        <item quantity="other">Đã tối ưu %d ảnh</item>
+    </plurals>
+    <plurals name="photo_editor_talkback_crop_scale_value">
+        <item quantity="other">Xoay %d độ</item>
+    </plurals>
+    <plurals name="slim_videos_count">
+        <item quantity="other">%d video</item>
+    </plurals>
 </resources>

@@ -18,8 +18,7 @@
         <item quantity="one">Độ trễ cực kỳ ngắn (%1$d mili giây)</item>
     </plurals>
     <plurals name="accessibilty_autoclick_preference_subtitle_long_delay">
-        <item quantity="other">Độ trễ dài (%1$d mili giây)</item>
-        <item quantity="one">Độ trễ dài (%1$d mili giây)</item>
+        <item quantity="other">Dài (%1$s giây)</item>
     </plurals>
     <plurals name="accessibilty_autoclick_preference_subtitle_short_delay">
         <item quantity="other">Độ trễ ngắn (%1$d mili giây)</item>

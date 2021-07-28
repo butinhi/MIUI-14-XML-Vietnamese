@@ -126,7 +126,7 @@ Nếu bạn bật dữ liệu di động lại, nhà mạng sẽ tính phí bổ
         <item quantity="other">%1$d lượt xem</item>
     </plurals>
     <plurals name="result_virus_header">
-        <item quantity="other">Đã tìm thấy %d virus và ứng dụng không an toàn</item>
+        <item quantity="other">Phát hiện %d ứng dụng độc hại</item>
     </plurals>
     <plurals name="result_sign_header">
         <item quantity="other">Đã tìm thấy %d ứng dụng không chính thức</item>
@@ -288,7 +288,7 @@ Nếu bạn bật dữ liệu di động lại, nhà mạng sẽ tính phí bổ
         <item quantity="other">Nhập ít nhất %d chữ số</item>
     </plurals>
 	<plurals name="hints_scan_danger_result_with_number">
-        <item quantity="other">Tìm thấy %d nguy cơ, sửa ngay</item>
+        <item quantity="other">Phát hiện %d nguy cơ</item>
     </plurals>
 	<plurals name="function_shield_num">
         <item quantity="other">%d tính năng</item>

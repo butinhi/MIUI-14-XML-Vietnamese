@@ -965,7 +965,6 @@ Hãy nhớ rằng các tập tin tải xuống và dấu trang mà bạn thêm s
     <string name="voice_title_listening">Đang nghe…</string>
     <string name="voice_title_please">Bắt đầu nói…</string>
     <string name="voice_title_speech_again">Không thể hiểu bạn</string>
-    <string name="weather_description_no_aqi">%1$s</string>
     <string name="weather_location_confirm_message">Tắt tính năng này có thể ảnh hưởng đến việc sử dụng.</string>
     <string name="weather_publish_time">Đã cập nhật %1$s</string>
     <string name="webpage_title">Dấu trang &amp; Lịch sử</string>

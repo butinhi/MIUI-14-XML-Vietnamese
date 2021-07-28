@@ -3037,4 +3037,30 @@ Phiên dịch có thể mất một lúc khi bạn sử dụng tính năng này 
     <string name="text_item_type_talkback_scene_baby">Trẻ em</string>
     <string name="doodle_paint_select_heavy_talkback">Dày</string>
     <string name="text_item_type_talkback_festival_chuxi">Đêm giao thừa Năm mới Âm lịch</string>
+	<string name="slim_action">Tối ưu</string>
+	<string name="slim_dialog_empty_positive">Tôi biết</string>
+	<string name="slim_action_auto_backup_tip">Bật đồng bộ với đám mây</string>
+	<string name="slim_dialog_empty_title">Chú ý</string>
+	<string name="slim_action_auto_backup">Bật</string>
+	<string name="slim_stop_v2">Dừng</string>
+	<string name="assistant_page_community">Cộng đồng</string>
+	<string name="slim_dialog_positive">Tối ưu</string>
+	<string name="slim_action_auto_backup_sub_tip">Giải phóng bộ nhớ lưu trữ</string>
+    <string formatted="false" name="slim_dialog_message">"Thay thế ảnh và video gốc bằng bản sao chất lượng cao %d ngày sau khi các mục được tạo. Các tệp gốc sẽ được lưu trữ trên đám mây. Bạn sẽ có thể giải phóng khoảng %s bộ nhớ cục bộ."</string>
+    <string name="widget_editor_load_fail">"Không thể tải ảnh"</string>
+    <string name="exif_tag_smart_fusion">Kết hợp Thông minh</string>
+    <string name="widget_talkback_recommend">Thư viện. Kỷ niệm.</string>
+    <string name="slim_preference_title">Tối ưu lưu trữ</string>
+    <string name="slim_dialog_title">Tối ưu lưu trữ</string>
+    <string name="slim_complete_download_tip">Tự động tải bản sao chất lượng cao thay vì bản gốc.</string>
+    <string name="slim_dialog_empty_message">"Không tìm thấy mục có thể tối ưu."</string>
+    <string name="slim_preference_scanning">Đang phân tích ảnh và video…</string>
+    <string name="slim_action_auto_backup_disable_description">Lưu trữ ảnh và video gốc trên đám mây trong khi vẫn giữ các bản sao nhỏ hơn chất lượng cao trên thiết bị này.</string>
+    <string name="slim_action_auto_backup_enable_description">Tải các mục lên đám mây…</string>
+    <string name="slim_complete_count">"Đã tối ưu %1$s và %2$s. "</string>
+    <string name="widget_talkback_custom">Thư viện. Ảnh đã chọn.</string>
+    <string name="slim_success_tip">Đã giải phóng %s dung lượng lưu trữ</string>
+    <string name="exif_title_smart_fusion">Tăng cường hình ảnh:</string>
+    <string name="slim_preference_summery">Lưu trữ ảnh và video gốc trên đám mây trong khi vẫn giữ các bản sao nhỏ hơn chất lượng cao trên thiết bị này. Các bản sao nhỏ hơn sẽ thay thế các tệp gốc %d ngày sau khi các mục được tạo.</string>
+    <string name="album_screenshot_and_screen_recorder_name">Ảnh chụp và quay phim màn hình</string>
 </resources>

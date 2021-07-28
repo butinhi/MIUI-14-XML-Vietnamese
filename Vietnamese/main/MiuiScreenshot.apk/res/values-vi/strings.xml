@@ -314,4 +314,10 @@
 	<string name="accessible_ellipse">Elíp</string>
 	<string name="take_screenshot">Cả màn hình</string>
 	<string name="accessible_irregular">Hình tùy chỉnh</string>
+	<string name="fmt_time_minute_second_millis">"m 'phút' s.S 'giây'"</string>
+	<string name="fmt_time_minute_second">"m 'phút' s 'giây'"</string>
+	<string name="fmt_time_24hour">"HH 'giờ'"</string>
+	<string name="fmt_time_minute">"m 'phút'"</string>
+	<string name="fmt_time_12hour">"h 'giờ'"</string>
+	<string name="fmt_time_second_millis">"s.S 'giây'"</string>
 </resources>

@@ -1042,4 +1042,11 @@ Dữ liệu chưa được nhập phải được nhập lại."</string>
     <string name="disable_local_backup_and_restore">Tắt sao lưu cục bộ</string>
     <string name="disable_local_backup">Tắt sao lưu cục bộ</string>
     <string name="enable_local_backup">Bật sao lưu cục bộ</string>
+	<string name="fmt_time_minute_second_millis">"m 'phút' s.S 'giây'"</string>
+	<string name="fmt_time_minute_second">"m 'phút' s 'giây'"</string>
+	<string name="fmt_weekday_time_timezone">zW T</string>
+	<string name="fmt_time_24hour">"HH 'giờ'"</string>
+	<string name="fmt_time_minute">"m 'phút'"</string>
+	<string name="fmt_time_12hour">"h 'giờ'"</string>
+	<string name="fmt_time_second_millis">"s.S 'giây'"</string>
 </resources>
