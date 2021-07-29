@@ -363,8 +363,6 @@ Hãy liên hệ với quản trị viên của tổ chức nếu bạn có thắ
     <string name="factorytest_no_action">Không tìm thấy gói cung cấp tác vụ FACTORY_TEST.</string>
     <string name="factorytest_not_system">Tác vụ FACTORY_TEST chỉ được hỗ trợ cho các gói được cài đặt trong /system/app.</string>
     <string name="factorytest_reboot">Khởi động lại</string>
-    <string name="fast_scroll_alphabet">" ABCDEFGHIJKLMNOPQRSTUVWXYZ"</string>
-    <string name="fast_scroll_numeric_alphabet">" 0123456789ABCDEFGHIJKLMNOPQRSTUVWXYZ"</string>
     <string name="fcComplete">Mã tính năng đã hoàn tất.</string>
     <string name="fcError">Sự cố kết nối hoặc mã tính năng không hợp lệ.</string>
     <string name="find">Tìm</string>
@@ -564,7 +562,6 @@ Hãy thử lại sau %2$d giây."</string>
     <string name="kg_wrong_password">Mật khẩu sai</string>
     <string name="kg_wrong_pattern">Hình sai</string>
     <string name="kg_wrong_pin">PIN sai</string>
-    <string name="kilobyteShort">kB</string>
     <string name="language_picker_section_all">Tất cả ngôn ngữ</string>
     <string name="language_picker_section_suggested">Ðược đề xuất</string>
     <string name="language_selection_title">Thêm ngôn ngữ</string>

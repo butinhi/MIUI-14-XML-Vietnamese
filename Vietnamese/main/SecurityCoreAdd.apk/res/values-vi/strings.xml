@@ -508,7 +508,6 @@ Hãy chắc chắn tên của cơ quan bạn chính xác. Đọc và đồng ý 
 	<string name="preference_copied">\"%1$s\" đã sao chép vào clipboard.</string>
 	<string name="miuix_sbl_tracking_progress_labe_refreshing">Đang làm mới</string>
 	<string name="abc_action_bar_home_description">Vào Trang bắt đầu</string>
-	<string name="search_input_txt_na">"&lt;font color='#ff0000'&gt;%s&lt;/font&gt;"</string>
 	<string name="abc_searchview_description_voice">Tìm kiếm giọng nói</string>
 	<string name="miuix_sbl_tracking_progress_labe_refreshed">Đã làm mới</string>
 	<string name="abc_activity_chooser_view_see_all">Xem tất cả</string>

@@ -965,7 +965,6 @@ Chạm %s để bắt đầu tải xuống lần sau khi bạn kết nối đế
     <string name="warning_tip_title">Cảnh báo sử dụng dữ liệu</string>
     <string name="welcome_to_new_music">Chào mừng sử dụng phiên bản Nhạc Mi mới nhất</string>
     <string name="save">Lưu</string>
-    <string name="apk_filter">APK</string>
     <string name="buy_other_flow">Dữ liệu thông thường</string>
     <string name="buy_traffic">China Unicom</string>
     <string name="download_traffic_dialog_buy_package">Mua gói lưu lượng âm nhạc</string>

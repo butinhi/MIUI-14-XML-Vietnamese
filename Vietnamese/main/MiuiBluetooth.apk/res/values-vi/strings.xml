@@ -136,7 +136,6 @@
 	<string name="daltonizer_mode_deuteranomaly">Mù màu xanh lá cây (đỏ- xanh)</string>
 	<string name="local_backup_password_summary_change">Chạm để thay đổi hoặc xóa mật khẩu sao lưu toàn bộ máy tính</string>
 	<string name="tts_status_not_supported">%1$s chưa được hỗ trợ</string>
-	<string name="wifi_security_WAPI_PSK">WAPI PSK</string>
 	<string name="ime_security_warning">Phương thức nhập này có thể thu thập tất cả văn bản bạn nhập, bao gồm dữ liệu cá nhân như mật khẩu và số thẻ tín dụng. Phương thức nhập này đến từ ứng dụng %1$s. Sử dụng phương thức nhập này?</string>
 	<string name="tts_install_data_summary">Cài đặt dữ liệu giọng nói được yêu cầu để cấu thành giọng nói</string>
 	<string name="battery_info_status_not_charging">Đã kết nối, không sạc bây giờ</string>
@@ -175,7 +174,6 @@ Chứng chỉ bộ nhớ có thể không bật</string>
 	<string name="wifi_ssid_is_empty">SSID không được để trống</string>
 	<string name="bluetooth_connected_no_map">Đã kết nối (không truy cập tin nhắn) %1$s</string>
 	<string name="battery_info_status_full">Đầy</string>
-	<string name="wifi_security_WAPI_CERT">WAPI CERT</string>
 	<string name="power_remaining_duration_shutdown_imminent">Điện thoại có thể tắt sớm (%1$s)</string>
 	<string name="bluetooth_headset_profile_summary_use_for">Dùng cho âm thanh điện thoại</string>
 	<string name="select_logpersist_title">Lưu dữ liệu trình ghi nhật ký ổn định</string>
@@ -250,9 +248,7 @@ Số bit trên mẫu"</string>
 	<string name="daltonizer_type_overridden">Ghi đè bởi %1$s</string>
 	<string name="wapi_password_length_is_min">Mật khẩu không thể ngắn quá 8 ký tự</string>
 	<string name="ime_security_warning_global">Phương thức nhập có thể thu thập tất cả văn bản bạn nhập, bao gồm cả dữ liệu cá nhân như mật khẩu và số thẻ tín dụng. Sử dụng %1$s?</string>
-	<string name="wifi_security_wep">WEP</string>
 	<string name="wifi_status_sign_in_required">Yêu cầu đăng nhập</string>
-	<string name="content_description_menu_button">Menu</string>
 	<string name="bluetooth_connected_no_a2dp_battery_level">Đã kết nối (không có phương tiện) | Pin %1$s%2$s</string>
 	<string name="bluetooth_connected_no_headset_battery_level">Đã kết nối (không có điện thoại) | Pin %1$s%2$s</string>
 	<string name="picture_color_mode">Chế độ màu hình ảnh</string>
@@ -281,7 +277,6 @@ Số bit trên mẫu"</string>
 	<string name="wait_for_debugger">Chờ bộ gỡ lỗi</string>
 	<string name="bluetooth_opp_profile_summary_not_connected">Chưa kết nối với máy chủ chuyển tiếp tập tin</string>
 	<string name="debug_app_set">Ứng dụng gỡ lỗi: %1$s</string>
-	<string name="wifi_security_short_WAPI_PSK">WAPI PSK</string>
 	<string name="allow_mock_location_summary">Cho phép giả lập vị trí</string>
 	<string name="bluetooth_select_a2dp_codec_ldac_playback_quality">Codec LDAC âm thanh Bluetooth: Chất lượng phát lại</string>
 	<string name="overlay_display_devices_title">Mô phỏng màn hình phụ</string>
@@ -294,14 +289,12 @@ Số bit trên mẫu"</string>
 	<string name="bluetooth_map_profile_summary_use_for">Sử dụng cho MAP</string>
 	<string name="category_work">Công việc</string>
 	<string name="debug_networking_category">Mạng</string>
-	<string name="wifi_security_short_wpa_wpa2">WPA/WPA2</string>
 	<string name="bluetooth_profile_dun">Dùng cho truy cập mạng quay số</string>
 	<string name="bluetooth_show_devices_without_names_summary">Thiết bị Bluetooth không có tên sẽ được hiển thị (chỉ có địa chỉ MAC)</string>
 	<string name="tts_default_rate_title">Tốc độ lời nói</string>
 	<string name="wifi_wapi_psk_type">Loại mật khẩu</string>
 	<string name="accessibility_display_daltonizer_preference_subtitle">Tính năng này là tính năng thử nghiệm có thể ảnh hưởng đến hiệu suất.</string>
 	<string name="running_process_item_user_label">Người dùng: %1$s</string>
-	<string name="wifi_security_wpa2">WPA2 PSK</string>
 	<string name="show_hw_layers_updates_summary">Phần cứng đang được cập nhật sẽ flash màu xanh</string>
 	<string name="simulate_color_space">Mô phỏng không gian màu</string>
 	<string name="bluetooth_select_a2dp_codec_ldac_playback_quality_dialog_title">"Chọn Codec LDAC âm thanh Bluetooth:
@@ -395,7 +388,6 @@ Chế độ kênh"</string>
 	<string name="bluetooth_profile_map">Tin nhắn văn bản</string>
 	<string name="dev_settings_warning_title">Cho phép cài đặt phát triển?</string>
 	<string name="bluetooth_headset_profile_summary_connected">Đã kết nối âm thanh điện thoại</string>
-	<string name="wifi_security_short_wpa2">WPA2</string>
 	<string name="bluetooth_talkback_input_peripheral">Thiết bị đầu vào</string>
 	<string name="wifi_hand_sel_wapi_cert">Chứng chỉ WAPI</string>
 	<string name="osu_connect_failed">Không thể kết nối</string>
@@ -418,7 +410,6 @@ Chế độ kênh"</string>
 	<string name="zen_interruption_level_priority">Chỉ ưu tiên</string>
 	<string name="daltonizer_mode_disabled">Đã tắt</string>
 	<string name="category_personal">Cá nhân</string>
-	<string name="wifi_security_short_wpa">WPA</string>
 	<string name="show_touches">Hiển thị chạm</string>
 	<string name="private_dns_mode_off">Tắt</string>
 	<string name="bluetooth_dun_profile_summary_use_for">Dùng cho truy cập mạng quay số</string>
@@ -468,7 +459,6 @@ Chế độ kênh"</string>
 	<string name="bluetooth_profile_pan_nap">Dùng cho chia sẻ kết nối internet</string>
 	<string name="loading_injected_setting_summary">Đang tải…</string>
 	<string name="wapi_yes">Có</string>
-	<string name="wifi_security_short_eap">802.1x</string>
 	<string name="pointer_location_summary">Che màn hình hiển thị dữ liệu chạm hiện tại</string>
 	<string name="show_screen_updates_summary">Nhấp nháy toàn bộ bề mặt (surface) cửa sổ khi cập nhật</string>
 	<string name="bluetooth_active_no_battery_level">Kích hoạt</string>
@@ -479,7 +469,6 @@ Chế độ kênh"</string>
 	<string name="power_discharge_by_only_short">Cho đến %1$s</string>
 	<string name="wapi_password_hex_length_invalid">Số ký tự hệ thập lục phân phải là số chẵn</string>
 	<string name="speed_label_fast">Nhanh</string>
-	<string name="wifi_security_passpoint">Passpoint</string>
 	<string name="mr_controller_stop">Dừng</string>
 	<string name="bluetooth_profile_pan">Truy cập internet</string>
 	<string name="window_animation_scale_title">Tỷ lệ ảnh động của cửa sổ</string>
@@ -522,7 +511,6 @@ Chế độ kênh"</string>
 	<string name="wapi_cert_is_not_selected">Chọn chứng chỉ trước</string>
 	<string name="tts_lang_not_selected">Chưa chọn ngôn ngữ</string>
 	<string name="bluetooth_select_a2dp_codec_type">Codec âm thanh Bluetooth</string>
-	<string name="wifi_security_short_wep">WEP</string>
 	<string name="wifi_security_wapi_psk_hexadecimal">Hexa</string>
 	<string name="bluetooth_hearingaid_left_pairing_message">Đang ghép nối máy trợ thính trái…</string>
 	<string name="screen_zoom_summary_very_large">Hơi lớn</string>
@@ -566,7 +554,6 @@ Tốc độ lấy mẫu"</string>
 	<string name="alarm_template_far">vào %1$s</string>
 	<string name="bluetooth_talkback_headphone">Tai nghe</string>
 	<string name="wifi_auto_sel_wapi_cert">Chọn tự động</string>
-	<string name="wifi_security_short_WAPI_CERT">WAPI CERT</string>
 	<string name="runningservices_settings_title">Đang chạy dịch vụ</string>
 	<string name="select_application">Chọn ứng dụng</string>
 	<string name="bluetooth_select_a2dp_codec_bits_per_sample">Số bit âm thanh Bluetooth mỗi mẫu</string>
@@ -580,7 +567,6 @@ Tốc độ lấy mẫu"</string>
 	<string name="external_source_untrusted">Không được phép</string>
 	<string name="wapi_cert_is_not_exist">Không có chứng chỉ khả dụng, vui lòng cài đặt chứng chỉ trước.</string>
 	<string name="bluetooth_talkback_phone">Điện thoại</string>
-	<string name="wifi_security_wpa">WPA PSK</string>
 	<string name="miuix_sbl_tracking_progress_labe_refreshed">Đã làm mới</string>
 	<string name="bluetooth_pairing_accept_all_caps">GHÉP NỐI</string>
 	<string name="wifi_metered_label">Đã đo</string>
@@ -1040,4 +1026,6 @@ Giao thức truyền tải băng thông cao."</string>
 	<string name="fmt_time_12hour_minute_pm">h:mm a</string>
 	<string name="fiveg_sa_vice_switch_title">SA trên SIM thứ hai</string>
 	<string name="fiveg_sa_switch_summary">Bật chức năng SA của SIM phụ, chỉ để thử nghiệm</string>
+	<string name="wifi_security_wpa2">WPA2-Cá nhân</string>
+	<string name="wifi_security_wpa">WPA-Cá nhân</string>
 </resources>

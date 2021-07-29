@@ -49,8 +49,6 @@
 	<string name="grant_dialog_button_more_info">Thêm thông tin</string>
 	<string name="help_feedback_label">Trợ giúp và phản hồi</string>
 	<string name="icon_content_description">Biểu tượng hộp thoại</string>
-	<string name="lb_control_display_fast_forward_multiplier">%1$dX</string>
-	<string name="lb_control_display_rewind_multiplier">%1$dX</string>
 	<string name="lb_guidedaction_continue_title">Tiếp tục</string>
 	<string name="lb_guidedaction_finish_title">Kết thúc</string>
 	<string name="lb_media_player_error">Trình phát phương tiện lỗi mã %1$d mở rộng %2$d</string>

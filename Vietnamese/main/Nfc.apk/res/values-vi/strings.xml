@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">Dịch vụ NFC</string>
-    <string name="nfcUserLabel">NFC</string>
     <string name="inbound_me_profile_title">Thông tin liên hệ đã nhận qua NFC</string>
     <string name="inbound_me_profile_text">Chạm để thêm người này làm người liên hệ.</string>
     <string name="outbound_me_profile_title">Hoàn tất tương tác NFC</string>

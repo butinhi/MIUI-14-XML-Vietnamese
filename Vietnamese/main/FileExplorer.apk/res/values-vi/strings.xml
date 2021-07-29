@@ -201,7 +201,6 @@
     <string name="search_file_type_picture">Ảnh</string>
     <string name="search_file_type_video">Video</string>
     <string name="search_file_type_music">Nhạc</string>
-    <string name="search_file_type_apk">Apk</string>
     <string name="search_file_type_doc">Tài liệu</string>
     <string name="search_title_hint">Tìm kiếm</string>
     <string name="search_keyword">Thẻ</string>
@@ -442,7 +441,6 @@
     <string name="video_upload_retry_title">Hãy thử lại</string>
     <string name="video_upload_retry_message">Không thể tải lên, thử lại?</string>
     <string name="video_upload_retry_confirm">Hãy thử lại</string>
-    <string name="xiaomi_btn_str">Mi</string>
     <string name="wechat_btn_str">WeChat</string>
     <string name="phone_login_title">Điện thoại</string>
     <string name="phone_num_et_hint">Nhập số điện thoại</string>

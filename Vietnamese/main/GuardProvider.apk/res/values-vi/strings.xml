@@ -6,11 +6,9 @@
     <string name="title_activity_main">MainActivity</string>
     <string name="Tencent">Tencent</string>
     <string name="AVL">AVL</string>
-    <string name="Mi">Mi</string>
     <string name="Avast">Avast</string>
     <string name="DesTencent">Tencent</string>
     <string name="DesAVL">AVL</string>
-    <string name="DesMi">Mi</string>
     <string name="DesAvast">Avast</string>
     <string name="tencent_dialog_title">Chính sách Riêng tư của Tencent</string>
     <string name="tencent_dialog_header">Tính năng này sẽ được mã hóa và tải ID thiết bị của bạn lên máy chủ của Tencent (%s).</string>

@@ -120,7 +120,6 @@
     <string name="toyrobot">ToyRobot</string>
     <string name="daydream">Daydream</string>
     <string name="miclassic">MiClassic</string>
-    <string name="cta_permission_delimiter">, </string>
     <string name="cta_permission_and"> và </string>
     <string name="cta_title">Điều khoản Sử dụng</string>
     <string name="cta_message_license">Bằng việc sử dụng sản phẩm này, bạn đồng ý với điều khoản trong Điều khoản Dịch vụ và Chính sách Riêng tư.</string>
@@ -179,7 +178,6 @@
     <string name="kungfu">Kung fu</string>
     <string name="leisure">Giải trí</string>
     <string name="messagesent">Tin nhắn đã gửi</string>
-    <string name="mi">Mi</string>
     <string name="miremix">Mi (Remix)</string>
     <string name="mix">MIX</string>
     <string name="moment">Khoảnh khắc</string>
@@ -250,9 +248,9 @@ dd/MM"</string>
 	<string name="miui_lock_screen_date_two_lines_12">"EEEE
 dd/MM"</string>
 	<string name="wallpaper_group_more_system_wallpaper_title">Thêm hình nền hệ thống</string>
-	<string name="africaanimals_preview">Savanna</string>
-	<string name="arcticanimals_preview">The Arctic</string>
-	<string name="australiaanimals_preview">Australia</string>
+	<string name="africaanimals_preview">Xavan</string>
+	<string name="arcticanimals_preview">Vùng Bắc Cực</string>
+	<string name="australiaanimals_preview">Úc</string>
 	<string name="amazonanimals_preview">Rừng nhiệt đới</string>
 	<string name="stoneskimming_preview">Bước nhẹ</string>
 	<string name="wallpaper_group_color_move_title">Màu sắc lỏng</string>

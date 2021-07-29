@@ -362,7 +362,6 @@
 	<string name="connected_via_network_scorer">Tự động kết nối qua %1$s</string>
 	<string name="connected_via_network_scorer_default">Tự động kết nối thông qua nhà cung cấp xếp hạng mạng</string>
 	<string name="connected_via_passpoint">Được kết nối qua %1$s</string>
-	<string name="content_description_menu_button">Menu</string>
 	<string name="convert_to_fbe_warning">"Chuyển đổi phân vùng dữ liệu sang chế độ mã hóa dựa trên tệp.
  !!Cảnh báo!! Tính năng này sẽ xóa tất cả dữ liệu của bạn.
  Tính năng này trong giai đoạn alpha và có thể không hoạt động đúng cách.
@@ -650,15 +649,6 @@
 	<string name="wifi_not_in_range">Ngoài vùng phủ sóng</string>
 	<string name="wifi_remembered">Đã lưu</string>
 	<string name="wifi_security_none">Không</string>
-	<string name="wifi_security_passpoint">Passpoint</string>
-	<string name="wifi_security_short_eap">802.1x</string>
-	<string name="wifi_security_short_wep">WEP</string>
-	<string name="wifi_security_short_wpa">WPA</string>
-	<string name="wifi_security_short_wpa2">WPA2</string>
-	<string name="wifi_security_short_wpa_wpa2">WPA/WPA2</string>
-	<string name="wifi_security_wep">WEP</string>
-	<string name="wifi_security_wpa">WPA PSK</string>
-	<string name="wifi_security_wpa2">WPA2 PSK</string>
 	<string name="wifi_status_mac_randomized">MAC là ngẫu nhiên</string>
 	<string name="wifi_status_no_internet">Không có kết nối mạng</string>
 	<string name="wifi_status_sign_in_required">Yêu cầu đăng nhập</string>

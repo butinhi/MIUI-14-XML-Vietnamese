@@ -35,7 +35,6 @@
     <string name="status_bar_toggle_cast">Chiếu</string>
     <string name="status_bar_toggle_edit">Sắp xếp</string>
     <string name="status_bar_toggle_battery_saver">Tiết kiệm Pin</string>
-    <string name="status_bar_toggle_nfc">NFC</string>
     <string name="screen_rotation_freeze_message">Đã tắt tự động xoay.</string>
     <string name="perm_send_push_dspt">Cho phép tin nhắn đẩy Mi</string>
     <string name="perm_send_push_lab">Gửi tin nhắn đẩy</string>

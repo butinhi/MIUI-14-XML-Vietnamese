@@ -169,7 +169,6 @@
 	<string name="Audio_Headset_Jak_Headphone">Tai nghe</string>
 	<string name="str_add_mccmnc_cancel">Hủy</string>
 	<string name="desense_at_warning_title">Cảnh báo</string>
-	<string name="bt_title">Chia sẻ qua Bluetooth</string>
 	<string name="rf_desense_dbm">"dBm"</string>
 	<string name="rf_desense_button_set">Đặt</string>
 	<string name="strCancel">Hủy</string>
@@ -259,13 +258,11 @@
 	<string name="audio_val_type_mic">Micro</string>
 	<string name="volte_set_string">Đặt</string>
 	<string name="hqa_nfc_return">Quay lại</string>
-	<string name="nfc">NFC</string>
 	<string name="failed">Thất bại</string>
 	<string name="Audio_Hybrid_Dynamic_set">Đặt</string>
 	<string name="battery_health_over_voltage">Quá áp</string>
 	<string name="battery_set">Đặt</string>
 	<string name="battery_status">Trạng thái pin:</string>
-	<string name="wifi_tx_gain_format">%.1f</string>
 	<string name="battery_temperature">Nhiệt độ pin:</string>
 	<string name="lte_send">Gửi</string>
 	<string name="vodata_enable">Bật</string>

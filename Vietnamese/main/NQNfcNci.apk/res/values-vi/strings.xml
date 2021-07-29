@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">Dịch vụ Nfc</string>
-    <string name="nfcUserLabel">Nfc</string>
     <string name="accessibility_nfc_enabled">Đã bật NFC.</string>
     <string name="tap_to_beam">Nhấn để truyền</string>
     <string name="beam_progress">Tia đến...</string>

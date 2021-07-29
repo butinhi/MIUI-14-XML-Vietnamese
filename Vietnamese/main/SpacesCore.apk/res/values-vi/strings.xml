@@ -135,7 +135,6 @@ Chọn tài khoản để thay đổi."</string>
     <string name="pref_connections_network_access_summary">Khi ở trong không gian này, các không gian khác sẽ không có quyền truy cập mạng</string>
     <string name="pref_connections_network_access_title">Truy cập mạng độc quyền</string>
     <string name="pref_connections_nfc_summary">Bật NFC trong không gian này</string>
-    <string name="pref_connections_nfc_title">NFC</string>
     <string name="pref_connections_private_apns_summary">Định cấu hình APN riêng cho không gian này</string>
     <string name="pref_connections_private_apns_title">Tên điểm truy cập riêng tư</string>
     <string name="pref_connections_usb_summary">Bật truyền tệp qua kết nối USB</string>

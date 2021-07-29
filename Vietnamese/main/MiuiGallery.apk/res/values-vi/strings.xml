@@ -694,7 +694,6 @@ Chụp nhiều ảnh bạn của bạn hơn!"</string>
     <string name="more_face_album_name">Nhiều người</string>
     <string name="move_to_other_albums_tip">Chuyển album này đến Album khác?</string>
     <string name="must_pick_file">Chọn ảnh</string>
-    <string name="name_split">, </string>
     <string name="need_to_turn_on_network">Thiết bị chưa kết nối internet</string>
     <string name="need_to_turn_on_sync">Bật đồng bộ với Xiaomi Cloud</string>
     <string name="need_to_turn_on_sync_first">Bật đồng bộ với Xiaomi Cloud trước</string>
@@ -2752,18 +2751,12 @@ Phiên dịch có thể mất một lúc khi bạn sử dụng tính năng này 
 	<string name="toast_download_with_metered_network_btn_continue">Tải xuống</string>
 	<string name="ocr_save_to_note_new">Lưu vào Ghi chú</string>
 	<string name="webview_reload">Thử lại</string>
-	<string name="size_kilo_byte">KB</string>
 	<string name="web_sso_login_fail">Bạn cần đăng nhập lại</string>
-	<string name="size_peta_byte">PB</string>
 	<string name="toast_download_with_metered_network_title">Cảnh báo sử dụng dữ liệu</string>
 	<string name="miuix_appcompat_select_all">Chọn tất cả</string>
-	<string name="size_byte">B</string>
 	<string name="homepage_allphotos_tip_dialog_description_all">Tất cả</string>
-	<string name="size_giga_byte">GB</string>
 	<string name="hybrid_provider">Cung cấp bởi %1$s</string>
 	<string name="miuix_appcompat_deselect_all">Bỏ chọn</string>
-	<string name="size_mega_byte">MB</string>
-	<string name="size_tera_byte">TB</string>
 	<string name="no_network">Không thể kết nối mạng</string>
 	<string name="date_time_picker_dialog_title">Đặt ngày và giờ</string>
 	<string name="nearby_share">Chia sẻ lân cận</string>

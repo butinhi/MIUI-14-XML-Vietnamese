@@ -153,7 +153,6 @@ Xác định vị trí và khóa thiết bị của bạn trong trường hợp 
     <string name="antispam_sync">Cài đặt Không làm phiền</string>
     <string name="deskclock_backup">Sao lưu Đồng hồ</string>
     <string name="secret_photo">Ảnh ẩn</string>
-    <string name="wipe_data_dialog_msg_separator">, </string>
     <string name="micloud_space_duokan_title">Duokan</string>
     <string name="micloud_space_duokan_detail">Tải xuống và quản lý sách điện tử với ứng dụng Duokan.</string>
     <string name="micloud_space_applist_title">Quản lý ứng dụng</string>

@@ -139,7 +139,7 @@
     <string name="user_locked_prompt">Mở khóa thiết bị để truy cập liên hệ.</string>
     <string name="package_not_available">\"%s\" không khả dụng</string>
     <string name="select_voice_call_sim">Chọn thẻ SIM</string>
-    <string name="msim_select_default_time_left">(%d s)</string>
+    <string name="msim_select_default_time_left">(%d giây)</string>
     <string name="select_sim_hint">Không thể sử dụng SIM %2$d, khi đang sử dụng SIM %1$d.</string>
     <string name="select_one_sim_title">Chỉ có thể sử dụng SIM %1$d</string>
     <string name="can_not_use">Không thể sử dụng</string>

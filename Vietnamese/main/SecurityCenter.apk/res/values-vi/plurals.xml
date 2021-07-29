@@ -706,4 +706,7 @@ Nghỉ ngơi chút đi!"</item>
     <plurals name="simlock_set_puk_error">
         <item quantity="other">Nhập mã PUK của SIM. Còn lại %d lần thử.</item>
     </plurals>
+    <plurals name="virus_clear_dialog_content">
+        <item quantity="other">Xóa %d ứng dụng đã chọn?</item>
+    </plurals>
 </resources>

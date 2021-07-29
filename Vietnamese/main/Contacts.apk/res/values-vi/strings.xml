@@ -181,9 +181,6 @@
     <string name="cloud_state_loading">Vui lòng chờ…</string>
     <string name="cloud_state_sync_finished">Đã đồng bộ với Xiaomi Cloud</string>
     <string name="cloud_state_syncing">Đã đồng bộ với Xiaomi Cloud</string>
-    <string name="combined_title_and_miprofile_swaped">%1$s, %2$s</string>
-    <string name="combined_title_and_miprofile_swaped_huge_mode">"%1$s
-%2$s"</string>
     <string name="composer_failed_to_get_database_infomation">Không thể lấy thông tin cơ sở dữ liệu.</string>
     <string name="composer_has_no_exportable_contact">Không có liên hệ có thể xuất. Nếu bạn có liên hệ trên điện thoại, một số nhà cung cấp có thể không cho phép liên hệ được xuất từ điện thoại.</string>
     <string name="composer_not_initialized">Trình soạn vCard không khởi động đúng.</string>

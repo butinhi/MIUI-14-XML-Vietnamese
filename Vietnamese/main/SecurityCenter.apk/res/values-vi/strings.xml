@@ -618,7 +618,6 @@ Khi hiệu chỉnh, MIUI sẽ gửi tin nhắn đến nhà mạng để nhận m
     <string name="roaming_limit_warning_notification_body">Chạm để xem sử dụng dữ liệu.</string>
     <string name="roaming_limit_network_notification_body">Chạm để xem mạng dữ liệu khả dụng</string>
     <string name="roaming_limit_dialog_message">Đã đạt đến giới hạn dữ liệu chuyển vùng hàng ngày.</string>
-    <string name="search_input_txt_na">"&lt;font color='#ff0000'>%s&lt;/font>"</string>
     <string name="roaming_allow_network_dialog_title">Cho phép chuyển vùng dữ liệu di động?</string>
     <string name="title_limit_traffic_per_day">Giới hạn sử dụng dữ liệu hàng ngày</string>
     <string name="daily_limit_and_lock_screen">Giới hạn dữ liệu &amp; thông báo</string>
@@ -3583,7 +3582,6 @@ Sau khi được đặt, nếu bạn đóng ứng dụng, các quyền sẽ tr�
 	<string name="app_behavior_perm_change_tip_virtual">\"%1s\" thay đổi thành ủy quyền trống</string>
 	<string name="v7_preference_off">TẮT</string>
 	<string name="kilobyte_per_second">KB/s</string>
-	<string name="size_kilo_byte">KB</string>
 	<string name="dual_setting_simcard1">SIM 1</string>
 	<string name="dual_setting_simcard2">SIM 2</string>
 	<string name="search_menu_title">Tìm kiếm</string>
@@ -3594,13 +3592,10 @@ Sau khi được đặt, nếu bạn đóng ứng dụng, các quyền sẽ tr�
 	<string name="kilobyteShort">KB</string>
 	<string name="not_set">Chưa đặt</string>
 	<string name="abc_capital_off">TẮT</string>
-	<string name="size_byte">B</string>
 	<string name="cd_back">Quay lại</string>
 	<string name="abc_action_bar_up_description">Quay lại</string>
-	<string name="size_giga_byte">GB</string>
 	<string name="abc_capital_on">BẬT</string>
 	<string name="abc_search_hint">Tìm kiếm...</string>
-	<string name="size_tera_byte">TB</string>
 	<string name="abc_searchview_description_clear">Xóa truy vấn</string>
 	<string name="usage_type_gps">GPS</string>
 	<string name="im">IM</string>
@@ -3611,7 +3606,6 @@ Sau khi được đặt, nếu bạn đóng ứng dụng, các quyền sẽ tr�
 	<string name="miuix_sbl_tracking_progress_labe_release_to_refresh">Thả ra để làm mới</string>
 	<string name="storage_menu_mount">Gắn</string>
 	<string name="abc_activitychooserview_choose_application">Chọn ứng dụng</string>
-	<string name="size_peta_byte">PB</string>
 	<string name="abc_shareactionprovider_share_with">Chia sẻ với</string>
 	<string name="abc_shareactionprovider_share_with_application">Chia sẻ với %s</string>
 	<string name="abc_searchview_description_search">Tìm kiếm</string>
@@ -3626,7 +3620,6 @@ Sau khi được đặt, nếu bạn đóng ứng dụng, các quyền sẽ tr�
 	<string name="abc_activity_chooser_view_see_all">Xem tất cả</string>
 	<string name="abc_action_mode_done">Hoàn tất</string>
 	<string name="optional_permissions">Quyền tùy chọn</string>
-	<string name="size_mega_byte">MB</string>
 	<string name="priority_storage_app_settings">Dữ liệu sẽ được lưu vào %1$s</string>
 	<string name="storage_wizard_format_confirm_v2_action">Định dạng ^1</string>
 	<string name="miuix_sbl_tracking_progress_labe_up_refresh">Chỉ vài giây…</string>
@@ -5488,7 +5481,6 @@ Ghi lại các trình tự và sử dụng chúng bất cứ lúc nào!"</string
 	<string name="virus_app_type_installed">Đã cài đặt</string>
 	<string name="virus_app_verison_text">Phiên bản: %s</string>
 	<string name="risk_type_title">Loại</string>
-	<string name="virus_app_type_uninstalled">Apk</string>
 	<string name="virus_app_delete_uninstalled">Xóa</string>
 	<string name="risk_info_title">Mô tả</string>
 	<string name="virus_app_size_text">Kích thước: %s</string>

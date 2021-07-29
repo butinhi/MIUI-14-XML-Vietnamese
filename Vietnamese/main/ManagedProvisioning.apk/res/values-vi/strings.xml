@@ -241,7 +241,6 @@
 	<string name="v7_preference_on">BẬT</string>
 	<string name="mtrl_chip_close_icon_content_description">Xóa %1$s</string>
 	<string name="car_ui_alert_dialog_default_button">Đóng</string>
-	<string name="car_ui_ellipsis">…</string>
 	<string name="car_ui_preference_switch_on">BẬT</string>
 	<string name="something_went_wrong">Lỗi</string>
 	<string name="car_ui_preference_switch_off">TẮT</string>

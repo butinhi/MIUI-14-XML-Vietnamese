@@ -12,8 +12,6 @@
     <string name="calibrate_failed">Đo độ cao thất bại</string>
     <string name="pressure_title">Áp suất</string>
     <string name="altitude_title">Độ cao</string>
-    <string name="pressure">%.1f</string>
-    <string name="altitude">%.1f</string>
     <string name="pressure_unit">hPa</string>
     <string name="altitude_unit">m</string>
     <string name="dialog_title_no_network">Bật mạng</string>

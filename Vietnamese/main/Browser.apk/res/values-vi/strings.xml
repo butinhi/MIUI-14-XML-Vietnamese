@@ -396,7 +396,6 @@ Rời khỏi trang này?"</string>
     <string name="last_month">Tháng trước</string>
     <string name="license_activity_title">Giấy phép WebView hệ thống</string>
     <string name="loading_tips">Kéo xuống để làm mới</string>
-    <string name="local_bookmarks">Mi</string>
     <string name="login_failed_toast">Không thể đăng nhập, làm mới và thử lại</string>
     <string name="long_press_edit">Bấm giữ để chỉnh sửa</string>
     <string name="low_memory_error">Không thể hoàn tất tác vụ trước đó do thiếu bộ nhớ.</string>

@@ -1582,7 +1582,6 @@ Hãy nhấn vào đúng nút có số bạn nghe được"</string>
 4.Ảnh bạn đã chụp sẽ hiển thị bên dưới. Chạm vào \"Xóa\" để hoàn tất kiểm tra."</string>
 	<string name="cit_tool_wlan_rxbg_test_channel">kênh:</string>
 	<string name="cit_tool_wlan_rx_ap">Rx: AP</string>
-	<string name="get_BLUETOOTH">Chia sẻ qua Bluetooth</string>
 	<string name="cit_tfcard_unmounted">Thẻ SD không khả dụng</string>
 	<string name="cit_magnetic_info_hint">Hãy xoay thiết bị như 8 hình dạng</string>
 	<string name="cit_tool_wlan_tx_st_chan">kênh:</string>

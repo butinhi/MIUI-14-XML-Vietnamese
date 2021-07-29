@@ -57,8 +57,6 @@ Tất cả dữ liệu người dùng trước của bạn sẽ được lưu."<
     <string name="install_failed_msg">Không thể cài đặt %1$s trên điện thoại này.</string>
     <string name="installing">Đang cài đặt…</string>
     <string name="launch">Mở</string>
-    <string name="lb_control_display_fast_forward_multiplier">%1$dX</string>
-    <string name="lb_control_display_rewind_multiplier">%1$dX</string>
     <string name="lb_playback_controls_closed_captioning_disable">Tắt phụ đề</string>
     <string name="lb_playback_controls_closed_captioning_enable">Bật phụ đề</string>
     <string name="lb_playback_controls_fast_forward">Tua nhanh</string>
@@ -737,7 +735,6 @@ Cho phép điều này ngay bây giờ và trong tương lai?"</string>
     <string name="unknown_apps_user_restriction_dlg_text">Ứng dụng chưa xác định không thể cài bởi người dùng này</string>
 	<string name="bluetooth_enable_inband_ringing">Bật đổ chuông trong dải</string>
 	<string name="bluetooth_enable_inband_ringing_summary">Cho phép nhạc chuông trên điện thoại được phát trên tai nghe Bluetooth</string>
-	<string name="content_description_menu_button">Menu</string>
 	<string name="debug_hw_renderer">Đặt kết xuất đồ họa GPU</string>
 	<string name="power_discharging_duration_short">%1$s - còn lại %2$s</string>
 	<string name="telephony_monitor_switch">Giám sát điện thoại</string>

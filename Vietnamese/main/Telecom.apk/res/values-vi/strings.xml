@@ -698,16 +698,7 @@ Chất lượng phát"</string>
 	<string name="bluetooth_select_a2dp_codec_lhdc_latency">Codec Âm thanh Bluetooth LHDC: Độ trễ</string>
 	<string name="bluetooth_select_a2dp_codec_lhdc_playback_quality">Codec Âm thanh Bluetooth LHDC: Chất lượng phát</string>
 	<string name="volume_boost_text">Tăng âm lượng thành công</string>
-	<string name="wifi_security_wpa2">WPA2 PSK</string>
-	<string name="wifi_security_short_wpa2">WPA2</string>
-	<string name="wifi_security_short_wpa">WPA</string>
-	<string name="wifi_security_wep">WEP</string>
-	<string name="wifi_security_short_eap">802.1x</string>
 	<string name="wifi_security_owe">Mở tăng cường</string>
-	<string name="wifi_security_short_wpa_wpa2">WPA/WPA2</string>
-	<string name="wifi_security_short_wep">WEP</string>
-	<string name="wifi_security_wpa">WPA PSK</string>
-	<string name="wifi_security_passpoint">Passpoint</string>
 	<string name="bluetooth_talkback_bluetooth">Bluetooth</string>
 	<string name="dialog_voicemail_not_ready_message">Để thiết lập thư thoại, hãy vào Menu &gt; Cài đặt.</string>
 	<string name="wifi_whitelist_roaming">Cầu nối SSID ‑ Chuyển giao nhanh</string>
@@ -1107,4 +1098,6 @@ Bất kỳ người dùng nào cũng có thể thay mặt cho tất cả ngườ
     <string name="test_account_2_short_description">Trò chuyện với bất cứ ai trong Vòng kết nối của bạn!</string>
     <string name="test_account_3_short_description">Trò chuyện với người dùng Mạng Trò chuyện</string>
     <string name="test_account_0_short_description">Tài khoản với Q Mobile</string>
+    <string name="wifi_security_wpa2">WPA2-Cá nhân</string>
+    <string name="wifi_security_wpa">WPA-Cá nhân</string>
 </resources>

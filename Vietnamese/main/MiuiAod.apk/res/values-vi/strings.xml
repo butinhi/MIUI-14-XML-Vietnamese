@@ -452,7 +452,6 @@ dd/M"</string>
 	<string name="step_component_info_tip">Đếm bước chân được cung cấp bởi Sức khỏe Xiaomi. Cài đặt hoặc cập nhật Sức khỏe Xiaomi và đồng ý với các điều khoản và điều kiện của nó để tiếp tục.</string>
 	<string name="aod_component">Mục đã hiển thị</string>
 	<string name="step_component_info_active_tip">Đếm bước chân được cung cấp bởi Sức khỏe Xiaomi. Đồng ý với Điều khoản và Điều kiện của Sức khỏe Xiaomi để tiếp tục.</string>
-	<string name="item_view_role_description">Tab</string>
 	<string name="material_slider_range_start">Khoảng bắt đầu,</string>
 	<string name="mtrl_exceed_max_badge_number_content_description">Nhiều hơn %1$d thông báo mới</string>
 	<string name="material_slider_range_end">Khoảng kết thúc,</string>

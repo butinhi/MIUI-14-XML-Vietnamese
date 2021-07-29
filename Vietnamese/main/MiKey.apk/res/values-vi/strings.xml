@@ -79,7 +79,6 @@
     <string name="toggle_sleep">Khóa</string>
     <string name="toggle_bright">Độ sáng</string>
     <string name="toggle_flight">C.độ M.Bay</string>
-    <string name="toggle_nfc">NFC</string>
     <string name="action_open_camera360_capture">Hiệu ứng Camera360</string>
     <string name="action_open_camera360_edit">Sửa ảnh Camera360</string>
     <string name="action_kuaidi">Gọi taxi</string>

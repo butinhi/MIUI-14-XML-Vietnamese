@@ -41,7 +41,6 @@
 	<string name="month_november_short">Tháng 11</string>
 	<string name="chinese_day_24">24</string>
 	<string name="chinese_day_23">23</string>
-	<string name="size_kilo_byte">KB</string>
 	<string name="chinese_day_22">22</string>
 	<string name="chinese_day_21">21</string>
 	<string name="the_new_years_day">Tết Nguyên Đán</string>
@@ -57,7 +56,6 @@
 	<string name="chinese_day_29">29</string>
 	<string name="abc_action_bar_up_description">Điều hướng lên trên</string>
 	<string name="abc_search_hint">Tìm kiếm…</string>
-	<string name="size_tera_byte">TB</string>
 	<string name="month_december_shortest">Thg 12</string>
 	<string name="chinese_day_30">30</string>
 	<string name="night">CH</string>
@@ -151,7 +149,6 @@
 	<string name="chinese_digit_two">2</string>
 	<string name="earthly_branches_shen">Thân</string>
 	<string name="the_eve_of_the_spring_festival">Giao Thừa</string>
-	<string name="size_peta_byte">PB</string>
 	<string name="yesterday">Hôm qua</string>
 	<string name="chinese_month">Tháng</string>
 	<string name="the_seventh_day">Mùng 7 Tết Nguyên Đán</string>
@@ -172,7 +169,6 @@
 	<string name="saturday_short">Th 7</string>
 	<string name="user_experience_program">Chương trình Trải nghiệm Người dùng</string>
 	<string name="chinese_month_august">8</string>
-	<string name="size_mega_byte">MB</string>
 	<string name="heavenly_stems_geng">"Canh "</string>
 	<string name="copyright">© 2015 Nok Nok Labs, Inc. Tất cả các quyền được bảo lưu.</string>
 	<string name="chinese_digit_zero">0</string>
@@ -180,7 +176,6 @@
 	<string name="chinese_symbol_animals_cow">Sửu</string>
 	<string name="the_armed_forces_day">Ngày Lực lượng Vũ trang</string>
 	<string name="miuix_appcompat_select_all">Chọn tất cả</string>
-	<string name="size_byte">B</string>
 	<string name="chinese_digit_nine">9</string>
 	<string name="miuix_appcompat_action_mode_title_empty">Chọn mục</string>
 	<string name="chinese_digit_three">3</string>
@@ -260,7 +255,6 @@
 	<string name="abc_capital_off">TẮT</string>
 	<string name="heavenly_stems_bing">"Bính "</string>
 	<string name="solar_term_the_rains">Vũ Thủy</string>
-	<string name="size_giga_byte">GB</string>
 	<string name="month_june_shortest">Thg 6</string>
 	<string name="month_april_shortest">Thg 4</string>
 	<string name="solar_term_great_heat">Đại Thử</string>

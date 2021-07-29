@@ -686,7 +686,6 @@ Dữ liệu chưa được nhập phải được nhập lại."</string>
 	<string name="v7_preference_off">TẮT</string>
 	<string name="abc_searchview_description_query">Tìm kiếm truy vấn</string>
 	<string name="abc_searchview_description_submit">Gửi truy vấn</string>
-	<string name="size_kilo_byte">KB</string>
 	<string name="miuix_sbl_tracking_progress_labe_release_to_refresh">Thả ra để làm mới</string>
 	<string name="miuix_sbl_tracking_progress_labe_up_refresh">Đang làm mới</string>
 	<string name="search_menu_title">Tìm kiếm</string>
@@ -698,10 +697,8 @@ Dữ liệu chưa được nhập phải được nhập lại."</string>
 	<string name="not_set">Chưa đặt</string>
 	<string name="abc_searchview_description_search">Tìm kiếm</string>
 	<string name="abc_capital_off">TẮT</string>
-	<string name="size_byte">B</string>
 	<string name="abc_action_bar_up_description">Quay lại</string>
 	<string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">Thất bại</string>
-	<string name="size_giga_byte">GB</string>
 	<string name="abc_capital_on">BẬT</string>
 	<string name="abc_search_hint">Tìm kiếm...</string>
 	<string name="expand_button_title">Nâng cao</string>
@@ -764,7 +761,6 @@ Dữ liệu chưa được nhập phải được nhập lại."</string>
 	<string name="new_pc_restore_content2">%d. Sao chép bản sao lưu từ máy tính của bạn vào MIUI-Backup-AllBackup.</string>
 	<string name="new_task_finished">Xong</string>
 	<string name="new_pc_backup_restore_link">Thiết bị di động</string>
-	<string name="size_mega_byte">MB</string>
 	<string name="abc_action_menu_overflow_description">Thêm tùy chọn</string>
 	<string name="chinese_day_20">20</string>
 	<string name="month_november_short">Tháng 11</string>

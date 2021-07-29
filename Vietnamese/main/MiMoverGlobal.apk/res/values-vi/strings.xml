@@ -20,7 +20,6 @@
 	<string name="fmt_time_millis">"S 'mili giây'"</string>
 	<string name="chinese_day_29">29</string>
 	<string name="perm_payment_lab">Thanh toán Mi</string>
-	<string name="size_tera_byte">TB</string>
 	<string name="month_december_shortest">Thg 12</string>
 	<string name="chinese_day_30">30</string>
 	<string name="eras_ad">SCN</string>
@@ -227,7 +226,6 @@ Sau khi tạo câu hỏi bảo mật mới và xác nhận ngày sinh của bạ
 	<string name="pm">CH</string>
 	<string name="the_fifth_day">Mùng 5 Tết Nguyên Đán</string>
 	<string name="search_input_description">Tìm kiếm</string>
-	<string name="size_kilo_byte">KB</string>
 	<string name="fmt_date_long_month_day">dd MMMM</string>
 	<string name="time_picker_label_hour">Giờ</string>
 	<string name="select_item_contacts">Liên hệ</string>
@@ -306,7 +304,6 @@ Kích thước cập nhật Delta: %2$s"</string>
 	<string name="earthly_branches_shen">Thân</string>
 	<string name="fmt_date_short_year_month_day">d MMM, yyyy</string>
 	<string name="the_eve_of_the_spring_festival">Giao Thừa</string>
-	<string name="size_peta_byte">PB</string>
 	<string name="fmt_date_time_timezone">D T z</string>
 	<string name="yesterday">Hôm qua</string>
 	<string name="chinese_month">Tháng</string>
@@ -324,13 +321,11 @@ Kích thước cập nhật Delta: %2$s"</string>
 	<string name="the_tw_youth_day">Hội Giới Trẻ</string>
 	<string name="heavenly_stems_xin">"Tân "</string>
 	<string name="privacy_policy">Chính sách Riêng tư</string>
-	<string name="size_mega_byte">MB</string>
 	<string name="hsa_tip_message_shutdown_hsa">Làm thế nào tắt xác thực hai yếu tố</string>
 	<string name="import_again">Nhập lại</string>
 	<string name="err_bakfile_not_exist">"Tệp sao lưu không tồn tại."</string>
 	<string name="chinese_symbol_animals_cow">Sửu</string>
 	<string name="fmt_date_long_year_month_day">dd MMMM, yyyy</string>
-	<string name="size_byte">B</string>
 	<string name="chinese_digit_nine">9</string>
 	<string name="chinese_digit_three">3</string>
 	<string name="chinese_symbol_animals_pig">Hợi</string>
@@ -386,7 +381,6 @@ Kích thước cập nhật Delta: %2$s"</string>
 	<string name="err_unknown">Lỗi không xác định</string>
 	<string name="heavenly_stems_yi">"Ất "</string>
 	<string name="heavenly_stems_bing">"Bính "</string>
-	<string name="size_giga_byte">GB</string>
 	<string name="fmt_time_24hour">"HH 'giờ'"</string>
 	<string name="hybrid_provider">Được cung cấp bởi %1$s</string>
 	<string name="month_june_shortest">Thg 6</string>

@@ -961,7 +961,6 @@ Trang mà bạn xem sẽ không xuất hiện trong lịch sử."</string>
 	<string name="miuix_appcompat_search_action_mode_cancel">Hủy</string>
 	<string name="month_november_shortest">Thg 11</string>
 	<string name="mw_miuichromium_error_page_no_network">Không thể kết nối mạng</string>
-	<string name="category_bluetooth">Chia sẻ qua Bluetooth</string>
 	<string name="action_update_phone">Thay đổi số điện thoại</string>
 	<string name="modify_download_path_no_sdcard_dlg_msg">Thẻ nhớ SD được yêu cầu để thay đổi đường dẫn này.</string>
 	<string name="pref_file_downlaod_save_reset_default_settings">Khôi phục vị trí mặc định</string>
@@ -1716,7 +1715,6 @@ Trang mà bạn xem sẽ không xuất hiện trong lịch sử."</string>
 	<string name="pref_extras_send_feedback">Gửi phản hồi</string>
 	<string name="noti_no_permission_record">Không có mục nào ở đây.</string>
 	<string name="contextmenu_webpage_html">Lưu làm tập tin HTML</string>
-	<string name="local_bookmarks">Mi</string>
 	<string name="phone_hint">Số điện thoại</string>
 	<string name="pm">CH</string>
 	<string name="mw_miuichromium_error_page_suggestion_correct_url">Kiểm tra địa chỉ mà bạn nhập và thử lại bằng URL chính xác.</string>
@@ -1915,7 +1913,6 @@ Trang mà bạn xem sẽ không xuất hiện trong lịch sử."</string>
 	<string name="error_not_support">Không hỗ trợ</string>
 	<string name="report_action_channel_page_slide_expose">Vuốt để chọn kênh</string>
 	<string name="month_june_shortest">Thg 6</string>
-	<string name="app_name_bluetooth">Chia sẻ qua Bluetooth</string>
 	<string name="download_change_dir">Thay đổi thư mục</string>
 	<string name="restart_phone_bind_title">Thay đổi số điện thoại khôi phục</string>
 	<string name="video_download_exists">Tải xuống đã tồn tại.</string>

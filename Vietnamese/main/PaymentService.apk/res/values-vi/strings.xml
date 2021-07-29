@@ -41,7 +41,6 @@
     <string name="mibi_deduct_success">Đã kích hoạt giao thức thanh toán tự động</string>
     <string name="mibi_deduct_success_sub">Phương thức khấu trừ: %1$s</string>
     <string name="mibi_deduct_type">Phương thức thanh toán</string>
-    <string name="mibi_denomination_mibi_unit">MI</string>
     <string name="mibi_denomination_money_unit">Tệ</string>
     <string name="mibi_detail_consume_account">ID mua</string>
     <string name="mibi_detail_consume_amount">Mệnh giá</string>

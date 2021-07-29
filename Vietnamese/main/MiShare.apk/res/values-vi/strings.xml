@@ -105,7 +105,6 @@ Bạn có thể tìm thấy danh sách thiết bị tương thích trên trang w
     <string name="wifi_is_not_enabled">Bật Wi-Fi trước</string>
 	<string name="cancel">Hủy</string>
 	<string name="v7_preference_off">TẮT</string>
-	<string name="xiaomi">Mi</string>
 	<string name="btn_cancel_send">Hủy lần chuyển này</string>
 	<string name="file_transfer_progress_title">Tiến độ</string>
 	<string name="miuix_sbl_tracking_progress_labe_release_to_refresh">Thả ra để làm mới</string>

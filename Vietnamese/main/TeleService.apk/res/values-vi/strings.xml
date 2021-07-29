@@ -2891,25 +2891,16 @@ Luôn sử dụng số này"</string>
 	<string name="kt_lte_msim_emm_cause_19_22">SIM %d đang đăng ký mạng… Chờ một vài phút rồi thử lại.</string>
 	<string name="lgu_emm_cause_2">Yêu cầu kích hoạt. Đến gặp trung tâm dịch vụ khách hàng (+82-2-3416-7010).</string>
 	<string name="lgu_msim_emm_cause_others">"SIM %d không thể kết nối mạng. Đến gặp trung tâm dịch vụ khách hàng (+82-2-3416-7010)."</string>
-	<string name="wifi_security_short_wpa">WPA</string>
 	<string name="miuix_sbl_tracking_progress_labe_refreshing">Đang làm mới</string>
 	<string name="miuix_sbl_tracking_progress_labe_release_to_refresh">Thả ra để làm mới</string>
 	<string name="miuix_sbl_tracking_progress_labe_up_refresh">Đang làm mới</string>
-	<string name="wifi_security_short_wpa_wpa2">WPA/WPA2</string>
-	<string name="wifi_security_wpa">WPA PSK</string>
 	<string name="miuix_sbl_tracking_progress_labe_refreshed">Đã làm mới</string>
 	<string name="bluetooth_talkback_bluetooth">Bluetooth</string>
-	<string name="wifi_security_short_wpa2">WPA2</string>
-	<string name="wifi_security_wpa2">WPA2 PSK</string>
 	<string name="miuix_sbl_tracking_progress_labe_up_none">Đừng làm vậy</string>
-	<string name="wifi_security_wep">WEP</string>
-	<string name="wifi_security_short_eap">802.1x</string>
 	<string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Kéo xuống để làm mới</string>
 	<string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">Thất bại</string>
 	<string name="miuix_sbl_tracking_progress_labe_up_nodata">Không có dữ liệu</string>
 	<string name="wifi_security_owe">Mở tăng cường</string>
-	<string name="wifi_security_short_wep">WEP</string>
-	<string name="wifi_security_passpoint">Passpoint</string>
 	<string name="msim_setting_install_virtual_sim_install">Cài đặt</string>
 	<string name="msim_setting_install_virtual_sim_tip">Dịch vụ Nhà mạng Mi</string>
 	<string name="ai_assistant_setting_title">Trợ lý cuộc gọi AI</string>
@@ -3515,4 +3506,6 @@ Bất cứ người dùng nào cũng có thể cập nhật ứng dụng cho ng�
     <string name="relay_call_released_due_to_connect_lost">Mất kết nối. Tiếp tục cuộc gọi trên thiết bị đã ngắt kết nối.</string>
     <string name="relay_connection_service_label">Tích hợp Chuyển tiếp cuộc gọi</string>
     <string name="relay_call_answered_by_other_devices">Cuộc gọi này đã được trả lời trên thiết bị khác.</string>
+	<string name="wifi_security_wpa2">WPA2-Cá nhân</string>
+	<string name="wifi_security_wpa">WPA-Cá nhân</string>
 </resources>

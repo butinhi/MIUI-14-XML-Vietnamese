@@ -399,7 +399,6 @@
     <string name="deepclean_list_item_from_dcim_thumbnails">Hình thu nhỏ</string>
     <string name="deepclean_list_item_from_download">Tải xuống</string>
     <string name="deepclean_list_item_from_music">Nhạc</string>
-    <string name="deepclean_list_item_from_miui">MIUI</string>
     <string name="deepclean_list_item_from_sdcard">Thẻ SD</string>
     <string name="deepclean_size_summary_less">Thiết bị sắp hết dung lượng trống</string>
     <string name="deepclean_size_summary_not_enough">Không đủ dung lượng</string>
@@ -965,7 +964,6 @@
 	<string name="notification_garbage_clean_hint">Dọn dẹp không gian bộ nhớ</string>
 	<string name="permission_dialog_storage_title">Yêu cầu quyền</string>
 	<string name="permission_dialog_storage_btn2">Hủy</string>
-	<string name="notification_size_1.5_GB">%.1f</string>
 	<string name="permission_dialog_storage_btn1">Cài đặt</string>
 	<string name="install_time_format">dd/MM/yyyy</string>
 	<string name="permission_dialog_storage_content">Dọn dẹp cần quyền truy cập bộ nhớ trong để hoạt động bình thường. Chạm \"Cài đặt\" để quản lý quyền bộ nhớ.</string>
@@ -1048,7 +1046,6 @@
 	<string name="month_november_short">Tháng 11</string>
 	<string name="chinese_day_24">24</string>
 	<string name="chinese_day_23">23</string>
-	<string name="size_kilo_byte">KB</string>
 	<string name="chinese_day_22">22</string>
 	<string name="chinese_day_21">21</string>
 	<string name="the_new_years_day">Tết Nguyên Đán</string>
@@ -1060,7 +1057,6 @@
 	<string name="eras_bc">TCN</string>
 	<string name="time_picker_label_hour">H</string>
 	<string name="chinese_day_29">29</string>
-	<string name="size_tera_byte">TB</string>
 	<string name="month_december_shortest">Thg 12</string>
 	<string name="chinese_day_30">30</string>
 	<string name="night">CH</string>
@@ -1148,7 +1144,6 @@
 	<string name="chinese_digit_two">2</string>
 	<string name="earthly_branches_shen">Thân</string>
 	<string name="the_eve_of_the_spring_festival">Giao Thừa</string>
-	<string name="size_peta_byte">PB</string>
 	<string name="the_seventh_day">Mùng 7 Tết Nguyên Đán</string>
 	<string name="chinese_month">Tháng</string>
 	<string name="heavenly_stems_ding">"Đinh "</string>
@@ -1165,14 +1160,12 @@
 	<string name="the_tw_youth_day">Hội Giới Trẻ</string>
 	<string name="saturday_short">Th 7</string>
 	<string name="heavenly_stems_xin">"Tân "</string>
-	<string name="size_mega_byte">MB</string>
 	<string name="chinese_month_august">8</string>
 	<string name="heavenly_stems_geng">"Canh "</string>
 	<string name="chinese_digit_zero">0</string>
 	<string name="chinese_symbol_animals_cow">Sửu</string>
 	<string name="the_armed_forces_day">Ngày Lực lượng Vũ trang</string>
 	<string name="miuix_appcompat_select_all">Chọn tất cả</string>
-	<string name="size_byte">B</string>
 	<string name="miuix_appcompat_action_mode_title_empty">Chọn mục</string>
 	<string name="chinese_digit_nine">9</string>
 	<string name="chinese_digit_three">3</string>
@@ -1246,7 +1239,6 @@
 	<string name="heavenly_stems_jia">"Giáp "</string>
 	<string name="solar_term_the_rains">Vũ Thủy</string>
 	<string name="heavenly_stems_bing">"Bính "</string>
-	<string name="size_giga_byte">GB</string>
 	<string name="month_june_shortest">Thg 6</string>
 	<string name="month_april_shortest">Thg 4</string>
 	<string name="solar_term_great_heat">Đại Thử</string>

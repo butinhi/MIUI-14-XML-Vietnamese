@@ -5309,7 +5309,6 @@ Cài đặt này ảnh hưởng đến tất cả người dùng trên điện t
     <string name="search_hint">Cài đặt tìm kiếm</string>
     <string name="search_home_key">Trang chính;Phím trang chính</string>
     <string name="search_input_hint">Tìm kiếm cài đặt</string>
-    <string name="search_input_txt_na">"&lt;font color='#ff0000'>%s&lt;/font>"</string>
     <string name="search_key_settings_title">Phím;Nút</string>
     <string name="search_lab_functions_title">Tính năng Beta;Chức năng Phòng thí nghiệm</string>
     <string name="search_label">Cài đặt</string>
@@ -7427,15 +7426,10 @@ Cho phép cài đặt này đối với tất cả ứng dụng muốn quét?"</
     <string name="wifi_scan_throttling">Điều chỉnh quét Wi-Fi</string>
     <string name="wifi_scan_throttling_summary">Giảm hao pin &amp; tăng cường hiệu năng mạng</string>
     <string name="wifi_security">Bảo mật</string>
-    <string name="wifi_security_eap">802.1x EAP</string>
     <string name="wifi_security_none">Không</string>
-    <string name="wifi_security_none_owe">Không/Enhanced Open</string>
+    <string name="wifi_security_none_owe">Không/Tăng cường Mở</string>
     <string name="wifi_security_owe">Mở tăng cường</string>
     <string name="wifi_security_short_none_owe">Không/OWE</string>
-    <string name="wifi_security_wapi_psk_hexadecimal">Hexa</string>
-    <string name="wifi_security_wpa">WPA PSK</string>
-    <string name="wifi_security_wpa2">WPA2 PSK</string>
-    <string name="wifi_security_wpa_wpa2">WPA/WPA2 PSK</string>
     <string name="wifi_select_network">Chọn Wi‑Fi</string>
     <string name="wifi_setting_category">Mạng có sẵn</string>
     <string name="wifi_setting_frequency_band_error">Đã xảy ra sự cố khi thiết đặt dải tần số.</string>

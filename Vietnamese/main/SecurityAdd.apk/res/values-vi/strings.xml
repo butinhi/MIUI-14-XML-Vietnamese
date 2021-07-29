@@ -741,7 +741,6 @@ An toàn và bảo mật"</string>
 	<string name="ew_save_title">Lưu</string>
 	<string name="gb_not_support_on_device">"Không thể sử dụng ứng dụng này trên màn hình bên ngoài"</string>
 	<string name="v7_preference_off">TẮT</string>
-	<string name="size_kilo_byte">kB</string>
 	<string name="miuix_sbl_tracking_progress_labe_release_to_refresh">Thả ra để làm mới</string>
 	<string name="miuix_sbl_tracking_progress_labe_up_refresh">Đang làm mới</string>
 	<string name="miuix_appcompat_deselect_all_description">Bỏ chọn tất cả</string>

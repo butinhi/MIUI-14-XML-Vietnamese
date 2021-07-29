@@ -471,7 +471,6 @@
     <string name="remove_account_notice">Bạn muốn làm gì với các tin nhắn, liên hệ, và các dữ liệu đã được đồng bộ từ tài khoản Mi của bạn?</string>
     <string name="update_contacts_description">Cho phép Sina Weibo sử dụng Tài khoản Mi của bạn để đồng bộ liên hệ giữa các nền tảng</string>
     <string name="wipe_data_dialog_msg">%s sẽ bị xóa nếu bạn tiếp tục.</string>
-    <string name="wipe_data_dialog_msg_separator">, </string>
     <string name="wipe_data_dialog_title">Một số mục chưa được đồng bộ</string>
     <string name="unbind_weibo_description">Sau khi bạn ngắt kết nối tài khoản này, bạn sẽ không thể để đồng bộ liên hệ của bạn từ Weibo hoặc sử dụng tài khoản Sina Weibo để đăng nhập.</string>
     <string name="account_dspt_provision2">Tìm hiểu thêm</string>

@@ -151,7 +151,6 @@
 	<string name="connected_via_network_scorer">Tự động kết nối qua %1$s</string>
 	<string name="connected_via_network_scorer_default">Tự động kết nối thông qua nhà cung cấp xếp hạng mạng</string>
 	<string name="connected_via_passpoint">Được kết nối qua %1$s</string>
-	<string name="content_description_menu_button">Menu</string>
 	<string name="convert_to_fbe_warning">"Chuyển đổi phân vùng dữ liệu sang chế độ mã hóa dựa trên tệp.
  !!Cảnh báo!! Tính năng này sẽ xóa tất cả dữ liệu của bạn.
  Tính năng này trong giai đoạn alpha và có thể không hoạt động đúng cách.
@@ -237,8 +236,6 @@
 	<string name="keep_screen_on_summary">Màn hình sẽ không bao giờ chuyển sang chế độ nghỉ khi sạc</string>
 	<string name="launch_defaults_none">Chưa đặt mặc định</string>
 	<string name="launch_defaults_some">Đã đặt một số ứng dụng chạy mặc định</string>
-	<string name="lb_control_display_fast_forward_multiplier">%1$dX</string>
-	<string name="lb_control_display_rewind_multiplier">%1$dX</string>
 	<string name="lb_guidedaction_continue_title">Tiếp tục</string>
 	<string name="lb_guidedaction_finish_title">Kết thúc</string>
 	<string name="lb_media_player_error">Trình phát phương tiện lỗi mã %1$d mở rộng %2$d</string>
@@ -505,16 +502,7 @@
 	<string name="wifi_scan_throttling_summary">Giảm hao pin &amp; tăng cường hiệu năng mạng</string>
 	<string name="wifi_security_none">Không</string>
 	<string name="wifi_security_owe">Mở tăng cường</string>
-	<string name="wifi_security_passpoint">Passpoint</string>
-	<string name="wifi_security_short_eap">802.1x</string>
-	<string name="wifi_security_short_wep">WEP</string>
-	<string name="wifi_security_short_wpa">WPA</string>
-	<string name="wifi_security_short_wpa2">WPA2</string>
-	<string name="wifi_security_short_wpa_wpa2">WPA/WPA2</string>
 	<string name="wifi_security_wapi_psk_hexadecimal">Hexa</string>
-	<string name="wifi_security_wep">WEP</string>
-	<string name="wifi_security_wpa">WPA PSK</string>
-	<string name="wifi_security_wpa2">WPA2 PSK</string>
 	<string name="wifi_ssid_is_empty">SSID không được trống</string>
 	<string name="wifi_ssid_length_is_max">SSID không được dài quá 32 kí tự</string>
 	<string name="wifi_status_mac_randomized">MAC là ngẫu nhiên</string>
@@ -547,9 +535,7 @@ Lưu trữ thông tin xác thực có thể không bật</string>
 	<string name="power_remaining_duration_only_short">Còn lại %1$s</string>
 	<string name="wifi_connected_mac_randomization">Đã kết nối MAC ngẫu nhiên</string>
 	<string name="wifi_connected_mac_randomization_summary">Tạo địa chỉ MAC ngẫu nhiên khi kết nối đến mạng WLAN</string>
-	<string name="wifi_security_eap">802.1x EAP</string>
-	<string name="wifi_security_wpa_wpa2">WPA/WPA2 PSK</string>
-	<string name="bluetooth_connected">Đã kết nối%1$s</string>
+	<string name="bluetooth_connected">Đã kết nối %1$s</string>
 	<string name="bluetooth_connected_no_a2dp">Đã kết nối (không có phương tiện)%1$s</string>
 	<string name="bluetooth_connected_no_headset">Đã kết nối (không có điện thoại)%1$s</string>
 	<string name="bluetooth_connected_no_headset_no_a2dp">Đã kết nối (không có điện thoại hay phương tiện)%1$s</string>
@@ -711,4 +697,6 @@ Bất kỳ người dùng nào cũng có thể thay mặt cho tất cả ngườ
 	<string name="softap_beacon_protection_summary">Bật bảo vệ đèn hiệu SoftAp bằng Hotspot</string>
 	<string name="softap_ocv_summary">Bật SoftAp OCV bằng Hotspot</string>
 	<string name="softap_ocv">Bật SoftAp OCV</string>
+	<string name="wifi_security_wpa2">WPA2-Cá nhân</string>
+	<string name="wifi_security_wpa">WPA-Cá nhân</string>
 </resources>

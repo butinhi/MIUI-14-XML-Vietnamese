@@ -7,7 +7,6 @@
     <string name="permdesc_bluetoothShareManager">Cho phép ứng dụng truy cập trình quản lý BluetoothShare và sử dụng trình quản lý đó để chuyển tệp.</string>
     <string name="permlab_bluetoothWhitelist">Truy cập thiết bị bluetooth nằm trong danh sách trắng.</string>
     <string name="permdesc_bluetoothWhitelist">Cho phép ứng dụng tạm thời đưa thiết bị Bluetooth vào danh sách trắng, cho phép thiết bị đó gửi các tệp tới thiết bị này mà không cần xác nhận của người dùng.</string>
-    <string name="bt_share_picker_label">Bluetooth</string>
     <string name="unknown_device">Thiết bị không xác định</string>
     <string name="unknownNumber">Không xác định</string>
     <string name="airplane_error_title">Chế độ trên máy bay</string>
@@ -126,7 +125,6 @@
     <string name="bluetooth_sap_notif_disconnect_button">Ngắt kết nối</string>
     <string name="bluetooth_sap_notif_force_disconnect_button">Buộc ngắt kết nối</string>
     <string name="hello">Hello World, TestActivity</string>
-    <string name="app_name">Chia sẻ qua Bluetooth</string>
     <string name="insert_record">Chèn bản ghi</string>
     <string name="update_record">Xác nhận bản ghi</string>
     <string name="ack_record">Bản ghi Ack</string>
@@ -196,7 +194,6 @@
     <string name="unbind_device_alert_ok">Hủy ghép nối</string>
     <string name="unbind_device_alert_title">Hủy ghép nối thiết bị</string>
 	<string name="a2dp_sink_mbs_label">Âm thanh Bluetooth</string>
-    <string name="opp_notification_group">Chia sẻ qua Bluetooth</string>
     <string name="pbap_notification_group">Chia sẻ liên hệ qua Bluetooth</string>
 	<string name="bluetooth_advanced_feat_description">Tính năng Duyệt Bluetooth nâng cao</string>
     <string name="bluetooth_opp_file_limit_exceeded">Tệp lớn hơn 4GB không thể truyền</string>
@@ -272,13 +269,11 @@
 	<string name="notice_audio_share_disconnected">Không còn chia sẻ âm thanh vì bị ngắt kết nối</string>
 	<string name="bt_audio_share_notification_title">Chia sẻ âm thanh</string>
 	<string name="bt_audio_share_notification_content">Chạm để xem tùy chọn</string>
-	<string name="snapdragon_sound_notification_title">Chia sẻ qua Bluetooth</string>
 	<string name="snapdragon_sound_notification_content">Thiết bị này hỗ trợ công nghệ Qualcomm® Snapdragon Sound™</string>
 	<string name="chinese_day_20">20</string>
 	<string name="month_november_short">Tháng 11</string>
 	<string name="chinese_day_24">24</string>
 	<string name="chinese_day_23">23</string>
-	<string name="size_kilo_byte">KB</string>
 	<string name="chinese_day_22">22</string>
 	<string name="chinese_day_21">21</string>
 	<string name="miuix_sbl_tracking_progress_labe_up_refresh">Đang làm mới</string>
@@ -299,7 +294,6 @@
 	<string name="fmt_time_12hour_minute_second_pm">h:mm:ss a</string>
 	<string name="abc_search_hint">Tìm kiếm…</string>
 	<string name="fmt_date_year">yyyy</string>
-	<string name="size_tera_byte">TB</string>
 	<string name="month_december_shortest">Thg 12</string>
 	<string name="chinese_day_30">30</string>
 	<string name="miuix_sbl_tracking_progress_labe_refreshing">Đang làm mới</string>
@@ -411,7 +405,6 @@
 	<string name="earthly_branches_shen">Thân</string>
 	<string name="fmt_date_short_year_month_day">dd/MM/yyyy</string>
 	<string name="the_eve_of_the_spring_festival">Giao Thừa</string>
-	<string name="size_peta_byte">PB</string>
 	<string name="fmt_date_time_timezone">D T z</string>
 	<string name="yesterday">Hôm qua</string>
 	<string name="chinese_month">Tháng</string>
@@ -433,14 +426,12 @@
 	<string name="saturday_short">Th 7</string>
 	<string name="heavenly_stems_xin">"Tân "</string>
 	<string name="chinese_month_august">8</string>
-	<string name="size_mega_byte">MB</string>
 	<string name="heavenly_stems_geng">"Canh "</string>
 	<string name="chinese_digit_zero">0</string>
 	<string name="chinese_symbol_animals_cow">Sửu</string>
 	<string name="the_armed_forces_day">Ngày Lực lượng Vũ trang</string>
 	<string name="fmt_date_long_year_month_day">dd MMMM, yyyy</string>
 	<string name="miuix_appcompat_select_all">Chọn tất cả</string>
-	<string name="size_byte">B</string>
 	<string name="chinese_digit_nine">9</string>
 	<string name="miuix_appcompat_action_mode_title_empty">Chọn mục</string>
 	<string name="miuix_appcompat_delete_description">Xóa</string>
@@ -527,7 +518,6 @@
 	<string name="abc_capital_off">TẮT</string>
 	<string name="solar_term_the_rains">Vũ Thủy</string>
 	<string name="heavenly_stems_bing">"Bính "</string>
-	<string name="size_giga_byte">GB</string>
 	<string name="fmt_time_24hour">HH</string>
 	<string name="month_june_shortest">Thg 6</string>
 	<string name="fmt_weekday_timezone">W z</string>
@@ -595,4 +585,5 @@
 	<string name="the_fifth_day">Mùng 5 Tết Nguyên Đán</string>
 	<string name="close">Đóng</string>
 	<string name="send">Gửi</string>
+	<string name="opp_notification_group">Chia sẻ Bluetooth</string>
 </resources>

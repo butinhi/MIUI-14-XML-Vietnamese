@@ -1892,7 +1892,6 @@ Bạn có muốn thử và kết nối lại mạng Wi-Fi để hoàn tất cu�
 	<string name="mr_controller_close_description">Đóng</string>
 	<string name="password">Mật khẩu</string>
 	<string name="fire_type_description">Lửa</string>
-	<string name="wifi_security_short_eap">802.1x</string>
 	<string name="callFailed_non_selected_user_clearing">Xóa người dùng không được chọn</string>
 	<string name="modem_setting_info">Thông tin cài đặt MODEM</string>
 	<string name="callFailed_too_many_calls">Không thể thực hiện cuộc gọi vì đã có hai cuộc gọi đang được thực hiện. Ngắt kết nối một trong số đó hoặc gộp chúng thành cuộc gọi hội nghị để thực hiện cuộc gọi mới.</string>
@@ -1903,7 +1902,6 @@ Bạn có muốn thử và kết nối lại mạng Wi-Fi để hoàn tất cu�
 	<string name="power_suggestion_extend_battery">Tăng thời lượng pin %1$s</string>
 	<string name="callFailed_normal">Xóa cuộc gọi thường</string>
 	<string name="power_discharge_by_only_short">Cho đến %1$s</string>
-	<string name="wifi_security_passpoint">Passpoint</string>
 	<string name="wifi_call_notification_message">Dịch vụ này được cung cấp bởi Orange. Có thể mất đến vài giờ để kích hoạt dịch vụ. Bạn sẽ nhận được một tin nhắn xác nhận sớm nhất có thể khi nó khả dụng.</string>
 	<string name="media_transfer_this_device_name">Thiết bị này</string>
 	<string name="callFailed_no_circuit_avail">Không có mạch khả dụng</string>
@@ -1914,7 +1912,6 @@ Bạn có muốn thử và kết nối lại mạng Wi-Fi để hoàn tất cu�
 	<string name="callFailed_user_not_member_of_CUG">Người dùng không phải thành viên của CUG</string>
 	<string name="mr_chooser_searching">Đang tìm thiết bị</string>
 	<string name="supp_service_over_ut_precautions_roaming">Để sử dụng %s, đảm bảo dữ liệu di động và chuyển vùng dữ liệu đã được bật. Bạn có thể thay đổi trong cài đặt mạng di động.</string>
-	<string name="wifi_security_wep">WEP</string>
 	<string name="wifi_call_setting_vodafone_uk">Gọi Wi-Fi</string>
 	<string name="callFailed_information_element_non_existent">Yếu tố thông tin không tồn tại hoặc chưa được triển khai</string>
 	<string name="callFailed_normal_unspecified">Bình thường, không xác định</string>
@@ -1955,7 +1952,6 @@ Bạn có muốn thử và kết nối lại mạng Wi-Fi để hoàn tất cu�
 	<string name="callFailed_no_route_to_destination">Không có đường tới đích</string>
 	<string name="mr_cast_dialog_title_view_placeholder">Không có thông tin khả dụng</string>
 	<string name="smart_forwarding_settings_menu_summary">"Khi một số không liên lạc được, luôn chuyển tiếp đến số khác của bạn"</string>
-	<string name="wifi_security_short_wpa2">WPA2</string>
 	<string name="callFailed_invalid_number_format">Định dạng số không hợp lệ (số chưa hoàn tất)</string>
 	<string name="modem_set_title">Cài đặt MODEM</string>
 	<string name="wifi_call_help_title">Trợ giúp Gọi Wi-Fi</string>
@@ -1977,7 +1973,6 @@ Nếu bạn chọn ưu tiên mạng di động, nó sẽ được dùng mặc đ
 	<string name="network_2G">2G</string>
 	<string name="fiveg_power_secret_code_tip">Thực hiện việc đó trong ứng dụng Bảo mật - Pin - Tiết kiệm 5G</string>
 	<string name="wifi_scan_throttling_summary">Giảm hao pin &amp; tăng cường hiệu năng mạng</string>
-	<string name="wifi_security_short_wep">WEP</string>
 	<string name="callFailed_invalid_transit_NW_selection">Lựa chọn mạng chuyển tuyến không hợp lệ</string>
 	<string name="mr_cast_button_connecting">Nút truyền. Đang kết nối</string>
 	<string name="mr_button_content_description">Nút truyền</string>
@@ -1988,7 +1983,6 @@ Nếu bạn chọn ưu tiên mạng di động, nó sẽ được dùng mặc đ
 	<string name="bluetooth_dun_profile_summary_connected">Đã kết] nối tới máy chủ Dun</string>
 	<string name="mr_controller_album_art">Ảnh bìa album</string>
 	<string name="callFailed_NetworkCongested">Nghẽn mạng. Liên hệ nhà mạng để được trợ giúp.</string>
-	<string name="wifi_security_short_wpa_wpa2">WPA/WPA2</string>
 	<string name="bluetooth_profile_dun">Truy cập mạng Dial-up</string>
 	<string name="mr_controller_collapse_group">Thu gọn</string>
 	<string name="callFailed_requested_facility_not_subscribed">Cơ sở yêu cầu không đăng ký</string>
@@ -1996,7 +1990,6 @@ Nếu bạn chọn ưu tiên mạng di động, nó sẽ được dùng mặc đ
 	<string name="manual_mode_disallowed_summary">Không khả dụng khi kết nối tới %1$s</string>
 	<string name="mr_controller_volume_slider">Thanh trượt âm lượng</string>
 	<string name="operator">Nhà cung cấp</string>
-	<string name="wifi_security_wpa2">WPA2 PSK</string>
 	<string name="supp_service_over_ut_precautions_dialog_dismiss">Bỏ qua</string>
 	<string name="mr_user_route_category_name">Thiết bị</string>
 	<string name="fake_phone_activity_placeCall_text">Cuộc gọi đến giả mạo</string>
@@ -2007,7 +2000,6 @@ Nếu bạn chọn ưu tiên mạng di động, nó sẽ được dùng mặc đ
 	<string name="callFailed_destination_out_of_order">Điểm đến ngoài thứ tự</string>
 	<string name="pane_title_emergency_dialpad">Quay số khẩn cấp</string>
 	<string name="osu_sign_up_failed">Không thể hoàn tất đăng ký. Chạm để thử lại.</string>
-	<string name="wifi_security_short_wpa">WPA</string>
 	<string name="prompt_to_suggest_to_open_volte_from_operator">Không thể thực hiện cuộc gọi. Liên hệ China Telecom để bật dịch vụ VoLTE.</string>
 	<string name="callFailed_bearer_capability_not_authorized">Khả năng mang không được ủy quyền</string>
 	<string name="mobile_connection_management">Quản lý kết nối mạng di động</string>
@@ -2058,7 +2050,6 @@ Nếu bạn chọn ưu tiên mạng di động, nó sẽ được dùng mặc đ
 	<string name="callFailed_bearer_service_not_implemented">Dịch vụ mang không được triển khai</string>
 	<string name="callFailed_NetworkBusy">Mạng bận. Vui lòng thử gọi lại sau.</string>
 	<string name="emergency_information_confirm_hint">Chạm lại để xem thông tin</string>
-	<string name="wifi_security_wpa">WPA PSK</string>
 	<string name="modem_setting_button_title">Vào menu cài đặt</string>
 	<string name="data_usage_ota">Cập nhật hệ thống</string>
 	<string name="callFailed_message_type_non_implemented">Loại tin nhắn không tồn tại hoặc chưa triển khai</string>

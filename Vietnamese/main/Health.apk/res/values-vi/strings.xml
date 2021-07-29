@@ -1761,7 +1761,6 @@ Các thử nghiệm của chúng tôi cho thấy rằng phương pháp này đo 
 	<string name="personal_recommend">Nội dung gợi ý cá nhân hóa</string>
 	<string name="miuix_search_recommendation_item_del_des">Xóa</string>
 	<string name="MediaControlView_audio_track_none_text">Không</string>
-	<string name="date_format_m_s">mm:ss</string>
 	<string name="MediaControlView_audio_track_text">Track âm thanh</string>
 	<string name="play_button_content_description">Phát</string>
 	<string name="mcv2_replay_button_desc">Phát lại</string>

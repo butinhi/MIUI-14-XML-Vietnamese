@@ -1058,7 +1058,6 @@ Vân tay đã lưu của bạn cũng sẽ bị xóa khỏi hồ sơ này và b�
     <string name="wifi_display_operating_channel">Kênh điều hành</string>
     <string name="wifi_band_24ghz">2,4 GHz</string>
     <string name="wifi_band_5ghz">5 GHz</string>
-    <string name="nfc_quick_toggle_title">NFC</string>
     <string name="nfc_quick_toggle_summary">Cho phép trao đổi dữ liệu khi điện thoại chạm vào thiết bị khác</string>
     <string name="android_beam_settings_title">Android Beam</string>
     <string name="android_beam_on_summary">Bật chia sẻ nội dung qua NFC</string>
@@ -2813,7 +2812,6 @@ Mọi người dùng đều có thể cập nhật ứng dụng cho tất cả n
     <string name="restriction_wifi_config_summary">Cho phép sửa đổi cài đặt Wi-Fi và Mạng di động</string>
     <string name="restriction_bluetooth_config_title">Bluetooth</string>
     <string name="restriction_bluetooth_config_summary">Cho phép sửa đổi cài đặt và ghép nối Bluetooth</string>
-    <string name="restriction_nfc_enable_title">NFC</string>
     <string name="restriction_nfc_enable_summary_config">Cho phép trao đổi dữ liệu khi %1$s này kết nối với thiết bị NFC khác</string>
     <string name="restriction_nfc_enable_summary">Cho phép trao đổi dữ liệu khi điện thoại chạm vào thiết bị khác</string>
     <string name="restriction_location_enable_title">Vị trí</string>
@@ -3575,7 +3573,6 @@ Bạn có thể thay đổi điều này sau đó từ Cài đặt > Ứng dụn
     <string name="search_airplane_mode">Chế độ máy bay;chế độ máy bay;Máy bay;máy bay;Chuyến bay</string>
     <string name="search_usb_tethering_button_text">Kết nối USB;Kết nối;USB</string>
     <string name="search_bluetooth_tether_checkbox_text">Kết nối Bluetooth;kết nối</string>
-    <string name="search_nfc_quick_toggle_title">NFC</string>
     <string name="search_android_beam_settings_title">NFC;Android Beam;Beam</string>
     <string name="search_vpn_settings_title">VPN;Thêm VPN;Bật VPN</string>
     <string name="search_vpn_settings_password">Mật khẩu VPN;Bảo vệ VPN</string>
@@ -4378,7 +4375,6 @@ Bạn có thể thay đổi điều này sau đó từ Cài đặt > Ứng dụn
     <string name="saved_wifi_delete">Xóa</string>
     <string name="wifi_enable_data_and_wifi_roam">Trợ lý Wi-Fi</string>
     <string name="wifi_enable_data_and_wifi_roam_summary">Bật dữ liệu và Wi-Fi để chuyển đổi dữ liệu khi kết nối Wi-Fi yếu.</string>
-    <string name="nfc_category_title">NFC</string>
     <string name="android_beam_tips">Hãy chắc rằng hai thiết bị này được chạm vào nhau, và sau đó chạm vào nội dung bạn muốn chuyển.</string>
     <string name="bt_trace_log">Nhật ký điều chỉnh Bluetooth</string>
     <string name="bt_trace_log_summary">Nhật ký điều chỉnh Bluetooth</string>
@@ -6347,7 +6343,6 @@ Quản trị viên của bạn có thể giám sát hoạt động mạng của 
     <string name="search_notification_app_list_settings">Thông báo ứng dụng;Thông báo</string>
     <string name="search_oldman_mode">Chế độ thu gọn;Chế độ người già;Chế độ rút gọn</string>
     <string name="search_owner_info_settings">Thông tin chủ sở hữu</string>
-    <string name="search_restriction_nfc_enable_title">NFC</string>
     <string name="search_safe_result_header_title_system">Riêng tư;Bảo mật;Nguồn không xác định;Hiển thị mật khẩu;Chữ ký ứng dụng;Xóa ủy nhiệm</string>
     <string name="search_screen_paper_mode">Chế độ đọc sách;chế độ đọc sách;đọc;đèn xanh;đèn vàng;chế độ ban đêm</string>
     <string name="search_tether_settings_title_bluetooth">Kết nối Bluetooth;kết nối</string>
@@ -8210,21 +8205,6 @@ Bật tính năng này và chạm vào nút Trợ năng ở cuối màn hình đ
 	<string name="volume_launch_camera_summary">Nhấn hai lần nút âm lượng để mở Máy ảnh khi màn hình khóa</string>
 	<string name="wakeup_and_sleep_settings_category_name">Cài đặt màn hình khóa</string>
 	<string name="music_dirac_mode_half_in_ear">Mi nửa In-Ear</string>
-    <string name="wifi_security_WAPI_CERT">WAPI CERT</string>
-    <string name="wifi_security_WAPI_PSK">WAPI PSK</string>
-    <string name="wifi_security_eap">802.1x EAP</string>
-    <string name="wifi_security_passpoint">Passpoint</string>
-    <string name="wifi_security_short_WAPI_CERT">WAPI CERT</string>
-    <string name="wifi_security_short_WAPI_PSK">WAPI PSK</string>
-    <string name="wifi_security_short_eap">802.1x</string>
-    <string name="wifi_security_short_wep">WEP</string>
-    <string name="wifi_security_short_wpa">WPA</string>
-    <string name="wifi_security_short_wpa2">WPA2</string>
-    <string name="wifi_security_short_wpa_wpa2">WPA/WPA2</string>
-    <string name="wifi_security_wep">WEP</string>
-    <string name="wifi_security_wpa">WPA PSK</string>
-    <string name="wifi_security_wpa2">WPA2 PSK</string>
-    <string name="wifi_security_wpa_wpa2">WPA/WPA2 PSK</string>
     <string name="abort_backup_confirm">Sao lưu chưa hoàn tất. Dừng lại không?</string>
     <string name="abort_restore_confirm">Khôi phục chưa hoàn tất. Vẫn dừng lại?</string>
     <string name="account_contact_backup_info">Dữ liệu Tài khoản Google, Tài khoản Mi và Liên hệ</string>
@@ -9979,24 +9959,18 @@ Sao chép tệp tin sao lưu vào thiết bị của bạn (MIUI-backup-AllBacku
 	<string name="kilobyte_per_second">KB/s</string>
 	<string name="face_unlock_reveal_eye">Hãy để đôi mắt được nhìn rõ</string>
 	<string name="miuix_sbl_tracking_progress_labe_release_to_refresh">Thả ra để làm mới</string>
-	<string name="size_kilo_byte">KB</string>
 	<string name="miuix_sbl_tracking_progress_labe_up_refresh">Đang làm mới</string>
-	<string name="size_peta_byte">PB</string>
 	<string name="megabyte_per_second">MB/s</string>
 	<string name="kilobyteShort">KB</string>
 	<string name="face_unlock_reveal_mouth">Hãy để môi được nhìn rõ</string>
 	<string name="face_unlock_check_failed">Không nhận dạng được</string>
-	<string name="size_byte">B</string>
 	<string name="face_unlock_not_found">Không nhận dạng được</string>
-	<string name="size_giga_byte">GB</string>
 	<string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">Thất bại</string>
 	<string name="wifi_security_owe">Mở tăng cường</string>
 	<string name="byteShort">B</string>
-	<string name="size_tera_byte">TB</string>
 	<string name="miuix_sbl_tracking_progress_labe_refreshing">Đang làm mới</string>
 	<string name="gigabyteShort">GB</string>
 	<string name="megabyteShort">MB</string>
-	<string name="search_input_txt_na">"&lt;font color='#ff0000'&gt;%s&lt;/font&gt;"</string>
 	<string name="structure_face_data_input_error_away_screen">Mang điện thoại xa khuôn mặt của bạn một chút</string>
 	<string name="miuix_sbl_tracking_progress_labe_refreshed">Đã làm mới</string>
 	<string name="radio_info_imei_label">"IMEI:"</string>
@@ -10006,8 +9980,6 @@ Sao chép tệp tin sao lưu vào thiết bị của bạn (MIUI-backup-AllBacku
 	<string name="miuix_sbl_tracking_progress_labe_up_nodata">Không có dữ liệu</string>
 	<string name="structure_face_data_input_error_overly_light">Đèn nền quá sáng</string>
 	<string name="structure_face_data_input_error_expose_features">Không nhìn rõ các phần khuôn mặt</string>
-	<string name="content_description_menu_button">Menu</string>
-	<string name="size_mega_byte">MB</string>
 	<string name="unlock_failed">Lỗi nội bộ</string>
 	<string name="storage_use_title">Đã dùng</string>
 	<string name="freeform_guide_move_title">Di chuyển cửa sổ nổi xung quanh</string>
@@ -10041,7 +10013,7 @@ Tiếp tục truy cập cài đặt bổ sung."</string>
 	<string name="face_unlock_offset_top">Nâng điện thoại lên một chút</string>
 	<string name="miui_accessibility_asr_summary">Phiên âm và lưu văn bản</string>
 	<string name="regional_screen_shot">Ảnh chụp màn hình một phần</string>
-	<string name="face_data_suggesstion_second">"Đảm bảo tất cả các phần khuôn mặt của bạn không bị che bởi vật nào và nhìn thấy rõ ràng. Khuôn mặt của bạn cũng cần được chiếu sáng tốt."</string>
+	<string name="face_data_suggesstion_second">"Đảm bảo rằng tất cả các bộ phận trên khuôn mặt của bạn đều có thể nhìn thấy rõ ràng. Không đeo bất kỳ phụ kiện nào có thể che khuôn mặt của bạn. Giữ cho khuôn mặt của bạn sáng đều và tránh ánh sáng trực tiếp"</string>
 	<string name="backup_at_once">Sao lưu</string>
 	<string name="face_data_input_title">Thêm dữ liệu khuôn mặt</string>
 	<string name="clear_data_alert_info">Tất cả sao lưu được lưu trên thiết bị này sẽ bị xóa vĩnh viễn. Sao lưu các mục quan trọng vào máy tính và Xiaomi Cloud trước khi bạn tiếp tục.</string>
@@ -10297,7 +10269,6 @@ Nếu bạn không đồng ý cấp các quyền đó, bạn sẽ không thể s
 	<string name="cached_apps_freezer_device_default">Mặc định thiết bị</string>
 	<string name="interact_across_profiles_consent_dialog_permissions_title">Quản lý Quyền</string>
 	<string name="graphics_driver_all_apps_preference_title">Bật cho tất cả ứng dụng</string>
-	<string name="keywords_add_bt_device">Chia sẻ qua Bluetooth</string>
 	<string name="guest_new_guest">Thêm khách</string>
 	<string name="power_menu_lock_screen_category">Màn hình khóa</string>
 	<string name="zen_mode_reminders_list_first">Nhắc nhở</string>
@@ -11224,7 +11195,7 @@ Chức năng này chỉ nhận được địa chỉ MAC Wi-Fi của bạn để
 	<string name="switch_headset_anti_lost">Mẹo chống mất tai nghe</string>
 	<string name="switch_headset_anti_lost_title">Chống mất tai nghe</string>
 	<string name="switch_headset_anti_lost_summary">Điện thoại bật lên lời nhắc chống thất lạc một phút sau khi bỏ tai nghe khỏi hộp</string>
-	<string name="mashup_sound_africa">Savanna</string>
+	<string name="mashup_sound_africa">Xavan</string>
 	<string name="xiaoai_global_shortcut">Chung</string>
 	<string name="recommend_text_wakeup_xiaoai">Cài đặt</string>
 	<string name="xiaoai_key_shortcut">Phím</string>
@@ -11824,4 +11795,6 @@ Sao chép tệp tin sao lưu vào thiết bị của bạn (MIUI-backup-AllBacku
 	<string name="pad_flash_drive_backup_enable">Sử dụng thiết bị USB để sao lưu hoặc khôi phục các mục</string>
     <string name="disable_quick_start">Tắt khởi động nhanh</string>
     <string name="enable_quick_start">Bật khởi động nhanh</string>
+	<string name="wifi_security_wpa2">WPA2-Cá nhân</string>
+	<string name="wifi_security_wpa">WPA-Cá nhân</string>
 </resources>

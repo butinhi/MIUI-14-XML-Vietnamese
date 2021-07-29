@@ -906,7 +906,6 @@ Hãy thử hộp thư khác."</string>
     <string name="send_feed_back_keywords">gửi phản hồi</string>
     <string name="send_mail">Gửi</string>
     <string name="sender_whitelist_cleared">Hình ảnh sẽ không được hiển thị tự động.</string>
-    <string name="senders_split_token">, </string>
     <string name="sending">Đang gửi…</string>
     <string name="sending_message">Đang gửi thư…</string>
     <string name="sending_quick_reply">Đang gửi \"%s\"</string>
@@ -933,14 +932,7 @@ Hãy thử hộp thư khác."</string>
     <string name="show_elided">▶ Hiển thị nội dung trích dẫn</string>
     <string name="show_images">Tải xuống và hiển thị ảnh</string>
     <string name="show_password">Hiển thị mật khẩu</string>
-    <string name="signature">"
-
-
-
-%s"</string>
     <string name="silent_ringtone">Im lặng</string>
-    <string name="single_new_message_notification_big_text">"%1$s
-%2$s"</string>
     <string name="smtp_password_error">Mật khẩu của máy chủ thư đi không chính xác</string>
     <string name="sort_attachment">Sắp xếp theo</string>
     <string name="storage">Bộ nhớ</string>
@@ -1506,7 +1498,6 @@ Vui lòng xác nhận xem mật khẩu ứng dụng đã được bật chưa, n
 	<string name="month_november_short">Tháng 11</string>
 	<string name="chinese_day_20">20</string>
 	<string name="chinese_day_24">24</string>
-	<string name="size_kilo_byte">KB</string>
 	<string name="chinese_day_23">23</string>
 	<string name="chinese_day_22">22</string>
 	<string name="miuix_sbl_tracking_progress_labe_up_refresh">Đang làm mới</string>
@@ -1523,7 +1514,6 @@ Vui lòng xác nhận xem mật khẩu ứng dụng đã được bật chưa, n
 	<string name="chinese_day_29">29</string>
 	<string name="tell_you_later">Để sau</string>
 	<string name="http_auth_dialog_password">Mật khẩu</string>
-	<string name="size_tera_byte">TB</string>
 	<string name="month_december_shortest">Thg 12</string>
 	<string name="chinese_day_30">30</string>
 	<string name="miuix_sbl_tracking_progress_labe_refreshing">Đang làm mới</string>
@@ -1619,7 +1609,6 @@ Vui lòng xác nhận xem mật khẩu ứng dụng đã được bật chưa, n
 	<string name="earthly_branches_shen">Thân</string>
 	<string name="mailbox_folder">Thư mục</string>
 	<string name="the_eve_of_the_spring_festival">Giao Thừa</string>
-	<string name="size_peta_byte">PB</string>
 	<string name="yesterday">Hôm qua</string>
 	<string name="the_seventh_day">Mùng 7 Tết Nguyên Đán</string>
 	<string name="chinese_month">Tháng</string>
@@ -1637,7 +1626,6 @@ Vui lòng xác nhận xem mật khẩu ứng dụng đã được bật chưa, n
 	<string name="the_tw_youth_day">Hội Giới Trẻ</string>
 	<string name="heavenly_stems_xin">"Tân "</string>
 	<string name="saturday_short">Th 7</string>
-	<string name="size_mega_byte">MB</string>
 	<string name="chinese_month_august">8</string>
 	<string name="heavenly_stems_geng">"Canh "</string>
 	<string name="operation_settging">Hành động</string>
@@ -1645,7 +1633,6 @@ Vui lòng xác nhận xem mật khẩu ứng dụng đã được bật chưa, n
 	<string name="chinese_symbol_animals_cow">Sửu</string>
 	<string name="the_armed_forces_day">Ngày Lực lượng Vũ trang</string>
 	<string name="miuix_appcompat_select_all">Chọn tất cả</string>
-	<string name="size_byte">B</string>
 	<string name="miuix_appcompat_action_mode_title_empty">Chọn mục</string>
 	<string name="chinese_digit_nine">9</string>
 	<string name="chinese_digit_three">3</string>
@@ -1724,7 +1711,6 @@ Vui lòng xác nhận xem mật khẩu ứng dụng đã được bật chưa, n
 	<string name="heavenly_stems_jia">"Giáp "</string>
 	<string name="solar_term_the_rains">Vũ Thủy</string>
 	<string name="heavenly_stems_bing">"Bính "</string>
-	<string name="size_giga_byte">GB</string>
 	<string name="month_june_shortest">Thg 6</string>
 	<string name="month_april_shortest">Thg 4</string>
 	<string name="solar_term_great_heat">Đại Thử</string>

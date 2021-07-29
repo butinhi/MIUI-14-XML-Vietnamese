@@ -640,7 +640,6 @@ Chạm %2$s để bắt đầu tải xuống lần sau khi bạn kết nối đ�
     <string name="warning_tip_ok">Tạm dừng</string>
     <string name="warning_tip_title">Cảnh báo sử dụng dữ liệu</string>
     <string name="save">Lưu</string>
-    <string name="apk_filter">APK</string>
     <string name="filter_by_duration_format">%2$d phút %5$2d giây</string>
     <string name="menu_enter_edit_mode">Trình chỉnh sửa</string>
     <string name="action_item_as_ring">Đặt làm nhạc chuông</string>

@@ -35,7 +35,6 @@
     <string name="msg_qr_success">Xử lý thành công.</string>
     <string name="msg_qr_timeout">Hết thời gian quét mã QR.</string>
     <string name="msg_screen_small_status">Kích thước màn hình quá nhỏ để hiển thị bản xem trước mã QR.</string>
-    <string name="nfc">NFC</string>
     <string name="nfc_disabled_text">NFC đã bị tắt. Nhấn vào đây để chuyển đến cài đặt NFC của hệ thống.</string>
     <string name="nfc_enabled_text">NFC đã được bật. Nhấn vào đây để chuyển đến cài đặt NFC của hệ thống.</string>
     <string name="nfctext">NFC đã bị tắt trong hệ thống</string>

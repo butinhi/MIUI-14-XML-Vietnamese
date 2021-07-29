@@ -524,8 +524,8 @@
 	<string name="hearing_assist_tips_message_two">%d. Tính năng này được hỗ trợ bởi các kiểu tai nghe Bluetooth được chọn.</string>
 	<string name="headset_use_not_support_noise_reduction">Có vẻ như môi trường hiện tại của bạn rất ồn ào. Đeo tai nghe bây giờ có thể ảnh hưởng đến thính giác của bạn.</string>
 	<string name="hearing_assist_exit_tips_title">Tắt theo dõi trực tiếp tai nghe</string>
-	<string name="fmt_time_minute_second">"m'min' s's'"</string>
+	<string name="fmt_time_minute_second">"m 'phút' s 'giây'"</string>
 	<string name="fmt_weekday_date_timezone">W, D z</string>
-	<string name="fmt_time_second_millis">"s.S's'"</string>
+	<string name="fmt_time_second_millis">"s.S 'giây'"</string>
 	<string name="fmt_weekday_timezone">W z</string>
 </resources>

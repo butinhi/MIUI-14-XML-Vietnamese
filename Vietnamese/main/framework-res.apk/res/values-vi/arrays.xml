@@ -94,10 +94,6 @@
     <string-array name="wfcOperatorErrorNotificationMessages">
         <item>Đăng ký với nhà cung cấp dịch vụ của bạn (Mã lỗi: %1$s)</item>
     </string-array>
-    <string-array name="wfcSpnFormats">
-        <item>%s</item>
-        <item>Gọi điện qua Wi-Fi %s</item>
-    </string-array>
     <string-array name="origin_carrier_names">
         <item>CHINA MOBILE</item>
         <item>China Mobile</item>

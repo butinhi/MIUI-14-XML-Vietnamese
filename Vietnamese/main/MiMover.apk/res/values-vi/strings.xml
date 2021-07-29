@@ -24,7 +24,6 @@
 	<string name="chinese_day_29">29</string>
 	<string name="perm_payment_lab">Thanh toán Mi</string>
 	<string name="transfer_title_old_sending">Đang gửi…</string>
-	<string name="size_tera_byte">TB</string>
 	<string name="month_december_shortest">Thg 12</string>
 	<string name="chinese_day_30">30</string>
 	<string name="select_item_summary_loading">Đang làm mới</string>
@@ -308,7 +307,6 @@ Sau khi tạo câu hỏi bảo mật mới và xác nhận ngày sinh của bạ
 	<string name="the_fifth_day">Mùng 5 Tết Nguyên Đán</string>
 	<string name="notification_trans_receive_title">Đang nhận dữ liệu</string>
 	<string name="search_input_description">Tìm kiếm</string>
-	<string name="size_kilo_byte">KB</string>
 	<string name="fmt_date_long_month_day">dd MMMM</string>
 	<string name="transfer_lose_connect_title">Thiết bị đã ngắt kết nối</string>
 	<string name="time_picker_label_hour">Giờ</string>
@@ -419,7 +417,6 @@ Kích thước cập nhật Delta: %2$s"</string>
 	<string name="com_mi_liveassistant">Trợ lý phát trực tiếp</string>
 	<string name="the_eve_of_the_spring_festival">Giao Thừa</string>
 	<string name="video">Video</string>
-	<string name="size_peta_byte">PB</string>
 	<string name="fmt_date_time_timezone">D T z</string>
 	<string name="yesterday">Hôm qua</string>
 	<string name="the_seventh_day">Mùng 7 Tết Nguyên Đán</string>
@@ -444,14 +441,12 @@ Kích thước cập nhật Delta: %2$s"</string>
 	<string name="heavenly_stems_xin">"Tân "</string>
 	<string name="privacy_policy">Chính sách Riêng tư</string>
 	<string name="ble_connect_failed_title">Không thể kết nối</string>
-	<string name="size_mega_byte">MB</string>
 	<string name="option_privacy_policy">Chính sách Riêng tư</string>
 	<string name="hsa_tip_message_shutdown_hsa">Làm thế nào tắt xác thực hai yếu tố</string>
 	<string name="import_again">Nhập lại</string>
 	<string name="err_bakfile_not_exist">"Tệp sao lưu không tồn tại."</string>
 	<string name="chinese_symbol_animals_cow">Sửu</string>
 	<string name="fmt_date_long_year_month_day">dd MMMM, yyyy</string>
-	<string name="size_byte">B</string>
 	<string name="chinese_digit_nine">9</string>
 	<string name="chinese_digit_three">3</string>
 	<string name="chinese_symbol_animals_pig">Hợi</string>
@@ -529,7 +524,6 @@ Kích thước cập nhật Delta: %2$s"</string>
 	<string name="heavenly_stems_yi">"Ất "</string>
 	<string name="heavenly_stems_bing">"Bính "</string>
 	<string name="com_xiaomi_jr">Tài chính Mi</string>
-	<string name="size_giga_byte">GB</string>
 	<string name="fmt_time_24hour">"HH 'giờ'"</string>
 	<string name="hybrid_provider">Được cung cấp bởi %1$s</string>
 	<string name="month_june_shortest">Thg 1</string>

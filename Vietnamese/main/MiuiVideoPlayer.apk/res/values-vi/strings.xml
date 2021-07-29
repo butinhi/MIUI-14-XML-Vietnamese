@@ -421,7 +421,6 @@
     <string name="average_score">Đánh giá trung bình</string>
     <string name="count_comment">%d đánh giá</string>
     <string name="count_comment_wan">%.2f0 đánh giá</string>
-    <string name="avg_score">%.1f</string>
     <string name="all">Tất cả</string>
     <string name="positive_comment">Thích</string>
     <string name="negative_comment">Không thích</string>

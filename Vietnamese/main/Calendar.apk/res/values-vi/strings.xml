@@ -38,7 +38,6 @@
     <string name="agenda_tomorrow">NGÀY MAI, %1$s</string>
     <string name="agenda_view">Sự kiện</string>
     <string name="alarm_label">Tôi biết</string>
-    <string name="alert_reminder_divider">|</string>
     <string name="alert_reminder_expired">Đã hết hạn</string>
     <string name="alert_title">Thông báo lịch</string>
     <string name="anniversary_event_title">Kỷ niệm: %1$s</string>
