@@ -11805,4 +11805,8 @@ Sao chép tệp tin sao lưu vào thiết bị của bạn (MIUI-backup-AllBacku
     <string name="surround_sound_only_speaker_desc">Tăng cường độ sâu tái tạo âm thanh cho loa</string>
     <string name="stylus_ota_check_failed_battery">"Không thể kiểm tra. Pin của bút stylus đang yếu."</string>
     <string name="stylus_ota_check_failed_info">"Không thể kiểm tra phiên bản firmware. Gắn lại bút stylus."</string>
+	<string name="stylus_ota_completed">Đã cập nhật thành công</string>
+    <string name="stylus_ota_completed_tip">Cập nhật firmware thành công. Lắp bút stylus để ghép nối.</string>
+    <string name="stylus_ota_hava_new_version">"Phiên bản mới: "</string>
+    <string name="stylus_ota_net_error">"Không thể kiểm tra cập nhật. Kết nối mạng và thử lại."</string>
 </resources>
