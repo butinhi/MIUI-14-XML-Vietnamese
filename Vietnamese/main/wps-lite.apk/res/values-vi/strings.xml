@@ -444,4 +444,10 @@
 	<string name="public_online_security_permission_denied">Tài liệu được mã hóa và lưu bằng định dạng bảo mật trực tuyến WPS. Không thể thực hiện thao tác này do tài khoản của bạn không đủ thẩm quyền.</string>
 	<string name="public_iat_addAudioComment_error">Không thể thêm nhận xét tại vị trí này</string>
 	<string name="public_default_sheet_lable_name">Trình xem biểu mẫu WPS</string>
+	<string name="public_search_next">Tiếp theo</string>
+	<string name="public_app_packageName">Trình xem tài liệu OPPO (WPS tùy chỉnh)</string>
+	<string name="public_search_prev">Trước</string>
+	<string name="public_scre_dialog_title">Câu lệnh "Trình xem tài liệu WPS"</string>
+	<string name="public_scre_dialog_smallTip">Bằng cách nhấp vào Đồng ý, bạn đồng ý với nội dung trên.</string>
+	<string formatted="false" name="public_scre_dialog_message">“"Trình xem Tài liệu WPS" là phần mềm được sử dụng để xem các tài liệu văn phòng của người dùng. Phần mềm này yêu cầu bạn cung cấp quyền lưu trữ tệp để sử dụng bình thường. Để cải thiện trải nghiệm sản phẩm tốt hơn, WPS Office sẽ thu thập thông tin sử dụng chức năng và tuân thủ nghiêm ngặt &lt;a href=\"%s\"&gt;Thỏa thuận Người dùng&lt;/a&gt; và &lt;a href=\"%s\"&gt;Chính sách Riêng tư&lt;/a&gt; và các hướng dẫn khác để bảo vệ an toàn thông tin của bạn.</string>
 </resources>

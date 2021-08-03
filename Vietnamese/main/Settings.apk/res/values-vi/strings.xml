@@ -11797,4 +11797,12 @@ Sao chép tệp tin sao lưu vào thiết bị của bạn (MIUI-backup-AllBacku
     <string name="enable_quick_start">Bật khởi động nhanh</string>
 	<string name="wifi_security_wpa2">WPA2-Cá nhân</string>
 	<string name="wifi_security_wpa">WPA-Cá nhân</string>
+	<string name="surround_sound_title">Âm thanh vòm</string>
+	<string name="headset_head_tracking_desc">Điều chỉnh âm thanh vòm dựa trên chuyển động đầu</string>
+	<string name="surround_sound_only_headset_desc">Tăng cường độ sâu tái tạo âm thanh cho tai nghe</string>
+	<string name="surround_sound_all_desc">Tăng cường độ sâu tái tạo âm thanh cho tai nghe và loa</string>
+	<string name="headset_head_tracking_title">Theo dõi chuyển động đầu</string>
+    <string name="surround_sound_only_speaker_desc">Tăng cường độ sâu tái tạo âm thanh cho loa</string>
+    <string name="stylus_ota_check_failed_battery">"Không thể kiểm tra. Pin của bút stylus đang yếu."</string>
+    <string name="stylus_ota_check_failed_info">"Không thể kiểm tra phiên bản firmware. Gắn lại bút stylus."</string>
 </resources>

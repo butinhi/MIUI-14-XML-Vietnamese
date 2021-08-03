@@ -468,4 +468,5 @@ Bạn có thể tìm thấy danh sách thiết bị tương thích trên trang w
 	<string name="the_fifth_day">Mùng 5 Tết Nguyên Đán</string>
 	<string name="common_google_play_services_unknown_issue">%1$s đang gặp sự cố với các dịch vụ của Google Play. Hãy thử lại.</string>
 	<string name="error_remote_ap_working">Bảo người khác tắt điểm phát di động</string>
+	<string name="fmt_time_minute">"m 'phút'"</string>
 </resources>

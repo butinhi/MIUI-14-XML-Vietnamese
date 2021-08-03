@@ -3137,4 +3137,5 @@ Bạn sẽ được thông báo khi có thể sử dụng lại cổng USB."</st
 	<string name="fiveg_sa_switch_summary">Bật chức năng SA của SIM phụ, chỉ để thử nghiệm</string>
 	<string name="wifi_security_wpa2">WPA2-Cá nhân</string>
 	<string name="wifi_security_wpa">WPA-Cá nhân</string>
+    <string name="keyguard_charging_double_fast_and_level_tip">Đang tăng tốc độ sạc %s</string>
 </resources>

@@ -408,11 +408,11 @@ dd/MM"</string>
 	<string name="the_double_ninth_festival">Lễ Trùng Cửu</string>
 	<string name="miuix_sbl_tracking_progress_labe_up_refresh">Đang làm mới</string>
 	<string name="fmt_date_long_month_day">dd MMMM</string>
-	<string name="fmt_date_short_year_month_day">dd/MM/yyyy</string>
+	<string name="fmt_date_short_year_month_day">d MMM, yyyy</string>
 	<string name="fmt_date_long_year_month_day">dd MMMM, yyyy</string>
 	<string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">Thất bại</string>
 	<string name="fmt_time_24hour">"HH 'giờ'"</string>
-	<string name="fmt_date_short_month_day">dd/MM</string>
+	<string name="fmt_date_short_month_day">d MMM</string>
 	<string name="the_spring_festival">Lễ hội mùa xuân</string>
 	<string name="fmt_chinese_date">e N</string>
 	<string name="miuix_sbl_tracking_progress_labe_refreshing">Đang làm mới</string>

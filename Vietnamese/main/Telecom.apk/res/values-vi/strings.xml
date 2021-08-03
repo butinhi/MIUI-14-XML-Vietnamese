@@ -1100,4 +1100,5 @@ Bất kỳ người dùng nào cũng có thể thay mặt cho tất cả ngườ
     <string name="test_account_0_short_description">Tài khoản với Q Mobile</string>
     <string name="wifi_security_wpa2">WPA2-Cá nhân</string>
     <string name="wifi_security_wpa">WPA-Cá nhân</string>
+	<string name="notification_channel_missed_call_DND">Không làm phiền</string>
 </resources>

@@ -979,4 +979,7 @@ Các bước: Mở APP WeChat&gt;My&gt;Cài đặt&gt;Chung&gt;Sao lưu và di c
 	<string name="low_score_label_5">Thời lượng ước tính không chính xác</string>
 	<string name="low_score_label_6">Hướng dẫn sử dụng không rõ ràng</string>
 	<string name="dialog_rating_low_score_summary">Rất không hài lòng</string>
+	<string name="dialog_airplane_mode_button">Cài đặt</string>
+	<string name="dialog_airplane_mode_title">Tắt Chế độ Máy bay</string>
+	<string name="dialog_airplane_mode_content">"Mi Mover không thể hoạt động khi bật Chế độ máy bay. Tắt nó trong Cài đặt trước."</string>
 </resources>

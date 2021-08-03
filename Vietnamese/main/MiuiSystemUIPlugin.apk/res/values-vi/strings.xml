@@ -468,4 +468,7 @@ Việc nghe ở mức âm lượng cao trong thời gian dài có thể gây t�
 	<string name="kddi_miui_toast_zen_to_standard">Đã chuyển sang Chế độ im lặng. Cuộc gọi và thông báo sẽ được im lặng ngay.</string>
 	<string name="miui_toast_zen_dnd_to_off_T">Thông báo không còn được im lặng</string>
 	<string name="kddi_miui_toast_zen_standard_to_off">"Chế độ im lặng đã tắt. Cuộc gọi và thông báo sẽ không được im lặng."</string>
+	<string name="accessibility_description_hours">Giờ</string>
+	<string name="accessibility_description_minutes">Phút</string>
+	<string name="accessibility_description_seconds">Giây</string>
 </resources>

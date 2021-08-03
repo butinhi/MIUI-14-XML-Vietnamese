@@ -5497,4 +5497,13 @@ Ghi lại các trình tự và sử dụng chúng bất cứ lúc nào!"</string
     <string name="virus_detail_app">Chứa vi-rút</string>
     <string name="antivirus_riskapp_title">Rủi ro có thể xảy ra</string>
     <string name="virus_engine_choose_text">Định nghĩa vi-rút trực tuyến</string>
+	<string name="wireless_charging_saver_message">Tiết kiệm pin đang bật. Vẫn bật sạc không dây ngược?</string>
+	<string name="wireless_charging_fg_control_ok">Điều chỉnh</string>
+	<string name="wireless_charging_saver_ok">Giữ</string>
+	<string name="wireless_charging_connected_message">"Không thể sử dụng sạc không dây ngược khi thiết bị của bạn đang được sạc không dây."</string>
+	<string name="wireless_charging_ok">Tôi biết</string>
+	<string name="wireless_charging_saver_cancel">Tắt</string>
+	<string name="wireless_charging_fg_control_cancel">Hủy</string>
+    <string name="wireless_charging_fg_control_messgae">"Sạc không dây ngược đã tắt vì còn ít hơn %s pin. Bạn có thể cài đặt cho phép sạc không dây ngược hoạt động lâu hơn."</string>
+    <string name="wireless_charging_low_battery_level_message">"Không thể sử dụng sạc không dây ngược khi pin còn ít hơn %s."</string>
 </resources>
