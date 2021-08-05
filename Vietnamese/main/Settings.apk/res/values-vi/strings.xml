@@ -11788,7 +11788,7 @@ Sao chép tệp tin sao lưu vào thiết bị của bạn (MIUI-backup-AllBacku
     <string name="color_game_led_freq_entries">Mỗi %d giây</string>
 	<string name="fiveg_sa_vice_switch_title">SA trên SIM thứ hai</string>
     <string name="stylus_ota_update_failed">"Không thể cập nhật firmware"</string>
-    <string name="stylus_ota_demands">Giữ thiết bị kết nói với bút stylus qua Bluetooth. Cả hai thiết bị cần được sạc ít nhất %1$s trong suốt quá trình cập nhật.</string>
+    <string name="stylus_ota_demands">Giữ Bluetooth bật trong suốt quá trình cập nhật. Đảm bảo pin không xuống dưới %1$s.</string>
     <string name="stylus_ota_timeout_failed">Phiên hết hạn</string>
     <string name="stylus_ota_download_failed">"Không thể tải firmware"</string>
 	<string name="fiveg_sa_switch_summary">Bật chức năng SA của SIM phụ, chỉ để thử nghiệm</string>

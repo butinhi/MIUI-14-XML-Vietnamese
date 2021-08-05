@@ -5506,4 +5506,19 @@ Ghi lại các trình tự và sử dụng chúng bất cứ lúc nào!"</string
 	<string name="wireless_charging_fg_control_cancel">Hủy</string>
     <string name="wireless_charging_fg_control_messgae">"Sạc không dây ngược đã tắt vì còn ít hơn %s pin. Bạn có thể cài đặt cho phép sạc không dây ngược hoạt động lâu hơn."</string>
     <string name="wireless_charging_low_battery_level_message">"Không thể sử dụng sạc không dây ngược khi pin còn ít hơn %s."</string>
+	<string name="gb_voice_changer_user_vip_expired">Đã hết hạn</string>
+	<string name="gb_turbo_new_flag">Mới</string>
+	<string name="app_predict_privacy_btn_sure_text">Đồng ý</string>
+	<string name="gtb_guide_gtb_button_done">"Hoàn thành"</string>
+	<string name="app_predict_classification_search_empty">Không tìm thấy kết quả</string>
+	<string name="app_predict_widget_title">Gợi ý ứng dụng</string>
+	<string name="gamebox_screenshot">Chụp màn hình</string>
+	<string name="app_predict_search_btn_cancel_text">Hủy</string>
+	<string name="app_predict_privacy_btn_exit_text">Thoát</string>
+	<string name="app_predict_widget_experience_now">Thử</string>
+	<string name="app_predict_privacy_privacy_policy_text">Chính sách Riêng tư</string>
+	<string name="app_predict_privacy_title">Gợi ý ứng dụng</string>
+	<string name="gb_ngtb_cpu">Bộ vi xử lý</string>
+	<string name="app_predict_search_local_app">Trên thiết bị này</string>
+	<string name="app_predict_privacy_user_agreement_text">Thỏa thuận Người dùng</string>
 </resources>

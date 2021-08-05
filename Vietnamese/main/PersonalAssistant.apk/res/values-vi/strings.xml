@@ -2629,4 +2629,14 @@ Vui lòng gửi mã này cho nhân viên kỹ thuật."</string>
     <string name="app_olympic_gold_medal_country_region">Đội</string>
     <string name="app_olympic_card_title_info">Dữ liệu được cung cấp bởi bên thứ ba, có thể có độ trễ</string>
     <string name="app_olympic_card_service_title">Bảng huy chương Olympic</string>
+	<string name="alipay_exception_too_many_people_wait_retry">Lỗi mạng, vui lòng thử lại sau</string>
+	<string name="alipay_exception_network_error_wait_retry">Không thể kết nối mạng, vui lòng thử lại sau</string>
+	<string name="alipay_am_confirm">OK</string>
+	<string name="alipay_exception_network_slow">Mạng quá chậm</string>
+	<string name="alipay_exception_network_error_check_network">Không thể kết nối mạng</string>
+	<string name="alipay_am_download">Tải xuống</string>
+	<string name="alipay_ins_common_biz_ok">OK</string>
+	<string name="alipay_am_cancel">Hủy</string>
+	<string name="alipay_exception_network_error_retry">Lỗi mạng, vui lòng thử lại sau</string>
+	<string name="alipay_ins_common_biz_tips">Gợi ý</string>
 </resources>
