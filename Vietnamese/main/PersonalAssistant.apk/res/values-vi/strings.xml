@@ -2639,4 +2639,21 @@ Vui lòng gửi mã này cho nhân viên kỹ thuật."</string>
 	<string name="alipay_am_cancel">Hủy</string>
 	<string name="alipay_exception_network_error_retry">Lỗi mạng, vui lòng thử lại sau</string>
 	<string name="alipay_ins_common_biz_tips">Gợi ý</string>
+    <string name="app_pa_setting_service_china_thanks">Lợi ích của người dùng Xiaomi</string>
+    <string name="alipay_verify_failed_install_tip">Xác minh không thành công, Alipay chưa được cài đặt trên thiết bị hiện tại, vui lòng tải xuống và cài đặt và thử lại</string>
+    <string name="alipay_accountmanager_notlogin_top_tip">Đăng nhập vào tài khoản Alipay của bạn và tận hưởng cuộc sống thanh toán tiện lợi</string>
+    <string name="app_china_thanks_card_title">Phúc lợi của Mi Fan</string>
+    <string name="alipay_accountmanager_has_no_authinfo_tip">Chưa áp dụng cho bất kỳ chức năng nào</string>
+    <string name="app_pa_setting_service_china_thanks_summary">Tìm hiểu về các hoạt động phúc lợi mới nhất của Xiaomi</string>
+    <string name="alipay_am_guide_download_tip">Alipay chưa được cài đặt trên thiết bị hiện tại, vui lòng tải xuống và cài đặt và thử lại</string>
+    <string name="app_china_thanks_content_description">Ảnh</string>
+    <string name="alipay_am_logout_tip">Bạn có chắc chắn đăng xuất không?</string>
+    <string name="alipay_ins_common_biz_login_expire">Đăng nhập Alipay đã hết hạn, hãy xác nhận để đăng nhập lại!</string>
+    <string name="alipay_ins_common_biz_account_inconsistent">Tài khoản hiện tại không phù hợp với Alipay.</string>
+    <string name="alipay_accountmanager">Quản lý tài khoản Alipay</string>
+    <string name="alipay_client_service_protocol">Alipay và thỏa thuận dịch vụ khách hàng</string>
+    <string name="alipay_auth_state_not_open">Chưa mở</string>
+    <string name="ant_protocol">Chính sách Riêng tư của Alipay</string>
+    <string name="alipay_auth_state_open">Đã bật lên</string>
+    <string name="alipay_accountmanager_has_authinfo_tip">Đã được áp dụng cho các chức năng sau</string>
 </resources>

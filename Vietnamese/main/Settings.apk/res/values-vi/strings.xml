@@ -11809,4 +11809,7 @@ Sao chép tệp tin sao lưu vào thiết bị của bạn (MIUI-backup-AllBacku
     <string name="stylus_ota_completed_tip">Cập nhật firmware thành công. Lắp bút stylus để ghép nối.</string>
     <string name="stylus_ota_hava_new_version">"Phiên bản mới: "</string>
     <string name="stylus_ota_net_error">"Không thể kiểm tra cập nhật. Kết nối mạng và thử lại."</string>
+    <string name="disable_uft">Tắt uft</string>
+    <string name="sunlight_mode_summary_new">Điều chỉnh độ sáng theo ánh sáng xung quanh mạnh để tránh màn hình quá tối. Biểu tượng mặt trời nhỏ sẽ xuất hiện ở đầu màn hình khi ánh sáng xung quanh mạnh.</string>
+    <string name="enable_uft">Bật uft</string>
 </resources>

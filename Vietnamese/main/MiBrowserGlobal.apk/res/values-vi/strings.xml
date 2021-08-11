@@ -2325,4 +2325,5 @@ Tắt phím nhanh để dừng đồng bộ."</string>
 	<string name="mw_crashes_list_activity_title">Sự cố WebView</string>
 	<string name="mw_crash_label">Sự cố (%1$s) - [%2$s]</string>
 	<string name="mw_crashes_num">Sự cố (%1$d)</string>
+	<string name="debug_youtube_file">Gỡ lỗi tệp youtube</string>
 </resources>

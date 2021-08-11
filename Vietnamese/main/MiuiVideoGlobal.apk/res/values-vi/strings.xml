@@ -2345,4 +2345,11 @@ Gửi mã này cho người giám sát."</string>
     <string name="local_video_number_of_selected">Đã chọn %1$d/%2$d</string>
     <string name="local_video_from_small_to_big">Nhỏ đến lớn</string>
     <string name="video_download_folder_title">Tải xuống Mi Video</string>
+	<string name="long_video_you_may_also_like">Bạn có thể thích</string>
+	<string name="long_video_no_more_content">Không có dữ liệu</string>
+	<string name="favor_movie">Phim</string>
+    <string name="galleryplus_permission_content_opt">Mi Video cần quyền để hoạt động bình thường. Xóa tất cả dữ liệu ứng dụng trong Cài đặt và mở lại ứng dụng.</string>
+    <string name="long_video_watch_on">Xem trên</string>
+    <string name="galleryplus_permission_content_xms">Mi Video cần quyền để hoạt động bình thường. Đi tới Cài đặt và cấp cho Mi Video các quyền cần thiết.</string>
+    <string name="out_of_memory_background_playback_is_suspended">Đã tạm dừng phát lại trong nền do không đủ bộ nhớ</string>
 </resources>

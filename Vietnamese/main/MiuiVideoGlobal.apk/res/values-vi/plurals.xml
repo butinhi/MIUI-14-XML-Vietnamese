@@ -145,4 +145,10 @@
 	<plurals name="local_video_floder">
 		<item quantity="other">%d thư mục</item>
 	</plurals>
+	<plurals name="long_video_minute">
+		<item quantity="other">%d phút</item>
+	</plurals>
+	<plurals name="long_video_season">
+		<item quantity="other">%d phần</item>
+	</plurals>
 </resources>
