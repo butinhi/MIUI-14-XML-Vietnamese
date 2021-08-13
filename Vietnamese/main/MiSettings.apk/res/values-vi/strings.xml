@@ -987,4 +987,9 @@
 	<string name="usage_state_focus_mode_warning_message_sim_pad">"Chế độ Tập trung chỉ co phép sử dụng Máy ảnh và gọi cuộc cọi khẩn cấp. Bạn sẽ không thể tắt Chế độ tập trung sớm."</string>
 	<string name="all_ringtone_summary_pad">Chọn nhạc chuông</string>
 	<string name="steady_on_screen_notification_title_pad">Đặt điện thoại xuống và nghỉ ngơi một chút</string>
+	<string name="usage_app_desktop_widget_limit">Còn lại %s</string>
+	<string name="desktop_widget_screen_use_time">Thời gian màn hình</string>
+	<string name="desktop_widget_not_support">"Thống kê thời gian màn hình
+		không được tạo ra trong Không gian thứ hai"</string>
+	<string name="desktop_widget_authorization">Chạm để cấp quyền và có thể xem thống kê</string>
 </resources>

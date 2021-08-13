@@ -709,4 +709,10 @@ Nghỉ ngơi chút đi!"</item>
     <plurals name="virus_clear_dialog_content">
         <item quantity="other">Xóa %d ứng dụng đã chọn?</item>
     </plurals>
+	<plurals name="behavior_widget_perm_counts">
+		<item quantity="other">%d lần</item>
+	</plurals>
+    <plurals name="behavior_widget_app_text">
+        <item quantity="other">%2$d ứng dụng bao gồm %1$s</item>
+    </plurals>
 </resources>
