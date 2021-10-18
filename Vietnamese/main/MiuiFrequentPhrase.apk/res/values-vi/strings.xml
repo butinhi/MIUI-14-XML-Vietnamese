@@ -335,4 +335,6 @@
 	<string name="chinese_symbol_animals_dog">Tuất</string>
 	<string name="pm">CH</string>
 	<string name="the_fifth_day">Mùng 5 Tết Nguyên Đán</string>
+	<string name="miuix_access_state_desc">Đã chọn</string>
+	<string name="miuix_indexer_selected">Đã chọn %s</string>
 </resources>

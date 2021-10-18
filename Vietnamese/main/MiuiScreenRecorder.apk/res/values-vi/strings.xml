@@ -420,4 +420,8 @@ Chạm để xem"</string>
 	<string name="low_memory_for_pad">Bạn còn ít hơn %1$d GB dung lượng lưu trữ khả dụng. Bạn có thể ghi lên đến %2$d phút.</string>
 	<string name="low_battery_for_pad">Sạc thiết bị của bạn trước khi bắt đầu ghi</string>
 	<string name="fmt_time_minute">"m 'phút'"</string>
+	<string name="miuix_access_state_desc">Đã chọn</string>
+	<string name="miuix_indexer_selected">Đã chọn %s</string>
+	<string name="view_privacy">Chính sách Riêng tư</string>
+	<string name="privacy_settings">Riêng tư</string>
 </resources>

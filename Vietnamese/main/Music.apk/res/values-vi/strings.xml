@@ -1991,4 +1991,8 @@ Nếu bạn không đồng ý sử dụng các dịch vụ nói trên, bạn s�
     <string name="columbus_player_speed_video">Bỏ qua VIDEO</string>
     <string name="columbus_player_speed_title">Bỏ qua Video?</string>
     <string name="privacy_request_subtitle_offline">Chào mừng tới Nhạc! Ứng dụng này cung cấp trình phát cục bộ cho tệp âm thanh.</string>
+	<string name="add">Thêm</string>
+	<string name="columbus_skip_ad">Bỏ qua</string>
+	<string name="columbus_ad_flag_text">Quảng cáo</string>
+	<string name="music_quality">Chế độ âm thanh</string>
 </resources>

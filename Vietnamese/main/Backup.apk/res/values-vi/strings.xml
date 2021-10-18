@@ -1045,4 +1045,17 @@ Dữ liệu chưa được nhập phải được nhập lại."</string>
 	<string name="fmt_time_minute">"m 'phút'"</string>
 	<string name="fmt_time_12hour">"h 'giờ'"</string>
 	<string name="fmt_time_second_millis">"s.S 'giây'"</string>
+	<string name="miuix_access_state_desc">Đã chọn</string>
+	<string name="miuix_indexer_selected">Đã chọn %s</string>
+	<string name="permission_content_title">Yêu cầu quyền</string>
+	<string name="permission_dialog_positive_btn">Cài đặt</string>
+	<string name="permission_read_calllog">Truy cập lịch sử cuộc gọi</string>
+	<string name="permission_related">Quản lý Quyền</string>
+	<string name="check_privacy_policy">Chính sách Riêng tư</string>
+	<string name="permission_read_contacts">Truy cập vào danh bạ của bạn</string>
+	<string name="privacy_settings">Riêng tư</string>
+	<string name="permission_read_calendar">Truy cập lịch của bạn</string>
+	<string name="privacy_settings_title">Chính sách Riêng tư</string>
+	<string name="permission_read_sms">Truy cập tin nhắn</string>
+	<string name="permission_read_storage">Truy cập và lưu mục vào bộ nhớ</string>
 </resources>

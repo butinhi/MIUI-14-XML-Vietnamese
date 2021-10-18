@@ -774,4 +774,7 @@ sau khi Sức khỏe Mi phân tích đủ dữ liệu"</string>
     <string name="fmt_time_minute">"m'phút'"</string>
     <string name="shutdown_alarm_alert_enable_summary_new">Bật để tắt báo thức khi tắt thiết bị. Chỉ báo thức đặt ít nhất %d phút sau khi tắt điện thoại sẽ kêu.</string>
     <string name="fmt_time_12hour">"h 'giờ'"</string>
+	<string name="privacy_settings_title">Riêng tư</string>
+	<string name="query_privacy_policy">Chính sách Riêng tư</string>
+	<string name="permission_related">Quản lý Quyền</string>
 </resources>

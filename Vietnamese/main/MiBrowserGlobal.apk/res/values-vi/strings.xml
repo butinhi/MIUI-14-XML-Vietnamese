@@ -2326,4 +2326,12 @@ Tắt phím nhanh để dừng đồng bộ."</string>
 	<string name="mw_crash_label">Sự cố (%1$s) - [%2$s]</string>
 	<string name="mw_crashes_num">Sự cố (%1$d)</string>
 	<string name="debug_youtube_file">Gỡ lỗi tệp youtube</string>
+	<string name="columbus_skip_ad">Bỏ qua</string>
+	<string name="offline_opt_in_decline">Không, cảm ơn</string>
+	<string name="columbus_ad_flag_text">Quảng cáo</string>
+	<string name="risk_stop">Dừng</string>
+	<string name="risk_safe_url">Trang web này an toàn</string>
+	<string name="risk_continue">Tiếp tục</string>
+	<string name="risk_detail">Chi tiết</string>
+	<string name="mw_chip_remove_icon_content_description">Xóa \'%1$s\'</string>
 </resources>

@@ -3056,4 +3056,25 @@ Phiên dịch có thể mất một lúc khi bạn sử dụng tính năng này 
     <string name="exif_title_smart_fusion">Tăng cường hình ảnh:</string>
     <string name="slim_preference_summery">Lưu trữ ảnh và video gốc trên đám mây trong khi vẫn giữ các bản sao nhỏ hơn chất lượng cao trên thiết bị này. Các bản sao nhỏ hơn sẽ thay thế các tệp gốc %d ngày sau khi các mục được tạo.</string>
     <string name="album_screenshot_and_screen_recorder_name">Ảnh chụp và quay phim màn hình</string>
+	<string name="screen_talkback_text">Nhắn tin</string>
+	<string name="screen_talkback_mark">Đánh dấu</string>
+	<string name="screen_talkback_mosaic">Khảm</string>
+	<string name="photo_editor_crop_size_free">Tùy chỉnh</string>
+	<string name="screen_talkback_a_little_large">Lớn</string>
+	<string name="screen_talkback_pen">Bút</string>
+	<string name="cloud_action_open">Bật</string>
+	<string name="photo_editor_crop_size_fullscreen">Toàn màn hình</string>
+	<string name="photo_editor_crop_size_origin">Gốc</string>
+	<string name="cloud_action_upgrade">Nâng cấp</string>
+	<string name="cloud_action_view">Xem</string>
+	<string name="screen_talkback_eraser">Tẩy</string>
+	<string name="photo_video_count">%1$s và %2$s</string>
+	<string name="screen_talkback_large">๖ۣۜßεℓ™</string>
+	<string name="screen_talkback_medium">Giữa</string>
+	<string name="screen_talkback_a_little_small">Nhỏ</string>
+	<string name="grant_permission_go_and_set_3">Cài đặt</string>
+	<string name="grant_permission_unlock_and_set_2">Mở khóa</string>
+	<string name="permission_contacts_name_2">Truy cập vào danh bạ của bạn</string>
+	<string name="permission_storage_name_2">Truy cập và lưu ảnh và tệp tin trên thiết bị</string>
+	<string name="grant_permission_go_and_set_2">Cài đặt</string>
 </resources>

@@ -320,4 +320,7 @@
 	<string name="fmt_time_minute">"m 'phút'"</string>
 	<string name="fmt_time_12hour">"h 'giờ'"</string>
 	<string name="fmt_time_second_millis">"s.S 'giây'"</string>
+	<string name="notification_channel_alerts">Cảnh báo</string>
+	<string name="garbage_count">Có %1$s instance cũ</string>
+	<string name="memory_leak">Rò rỉ bộ nhớ</string>
 </resources>

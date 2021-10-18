@@ -963,4 +963,24 @@ Cho phép Ghi chú ghi âm."</string>
 	<string name="material_minute_suffix">%1$s phút</string>
 	<string name="material_hour_selection">Chọn giờ</string>
     <string name="widget_havenot_content_new">Chạm để tạo ghi chú. Chạm giữ để thay đổi kích thước.</string>
+	<string name="miui_penengine_ppw_select_copy_paste">Trùng</string>
+	<string name="miui_penengine_tool_text_hint">Nhấn để nhập văn bản</string>
+	<string name="miui_penengine_setting_select_background">Nền</string>
+	<string name="miui_penengine_button_cancel">Hủy</string>
+	<string name="miui_penengine_ppw_select_paste">Dán</string>
+	<string name="miui_penengine_note_title">Tiêu đề</string>
+	<string name="miui_penengine_ppw_shortcut_single_click">Bấm</string>
+	<string name="miui_penengine_setting_show_grid_background">Chấm</string>
+	<string name="miui_penengine_ppw_select_delete">Xóa</string>
+	<string name="miui_penengine_setting_show_white_background">Trắng</string>
+	<string name="miui_penengine_ppw_select_cut">Cắt</string>
+	<string name="miui_penengine_setting_show_black_background">Đen</string>
+	<string name="miui_penengine_ppw_select_copy">Sao chép</string>
+	<string name="app_widget_name_new">Ghi chú </string>
+	<string name="widget_take_notes_title">Ghi chú </string>
+	<string name="pref_permission_manage_key_recording">Truy cập trực tiếp micro để ghi âm.</string>
+	<string name="widget_size_item_big">Lớn</string>
+	<string name="widget_size_item_medium">Trung bình</string>
+	<string name="pref_permission_manage_key_contact">Truy cập vào danh bạ của bạn</string>
+	<string name="widget_size_item_small">Nhỏ</string>
 </resources>

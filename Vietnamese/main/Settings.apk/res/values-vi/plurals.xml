@@ -655,4 +655,7 @@
 	<plurals name="color_game_led_freq_entries">
 		<item quantity="other">Mỗi %d giây</item>
 	</plurals>
+	<plurals name="mtrl_badge_content_description">
+		<item quantity="other">%d thông báo mới</item>
+	</plurals>
 </resources>

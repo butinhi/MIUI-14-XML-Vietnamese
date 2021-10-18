@@ -78,4 +78,7 @@
 	<plurals name="tenure_years">
 		<item quantity="other">%d năm</item>
 	</plurals>
+	<plurals name="miuix_appcompat_items_selected">
+		<item quantity="other">%d mục đã chọn</item>
+	</plurals>
 </resources>

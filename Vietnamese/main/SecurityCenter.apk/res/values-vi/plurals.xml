@@ -715,4 +715,7 @@ Nghỉ ngơi chút đi!"</item>
     <plurals name="behavior_widget_app_text">
         <item quantity="other">%2$d ứng dụng bao gồm %1$s</item>
     </plurals>
+	<plurals name="summary_result_absorbed_time_format">
+		<item quantity="other">%d phút</item>
+	</plurals>
 </resources>

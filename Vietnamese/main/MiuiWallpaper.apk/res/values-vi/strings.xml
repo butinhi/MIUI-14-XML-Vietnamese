@@ -396,4 +396,11 @@ Mawrth Vallis"</string>
 	<string name="snowmountain_title">Đỉnh núi tuyết</string>
 	<string name="xiaomi_market_sdk_update_dialog_title">Có cập nhật mới khả dụng</string>
 	<string name="download_button">Nút tải xuống</string>
+	<string name="miuix_appcompat_select_all">Chọn tất cả</string>
+	<string name="miui_clock_city_name_second">Đồng hồ thứ hai</string>
+	<string name="miuix_appcompat_deselect_all">Bỏ chọn</string>
+	<string name="date_time_picker_dialog_title">Đặt ngày và giờ</string>
+	<string name="close">Đóng</string>
+	<string name="miuix_appcompat_select_item">Chọn mục</string>
+	<string name="send">Gửi</string>
 </resources>

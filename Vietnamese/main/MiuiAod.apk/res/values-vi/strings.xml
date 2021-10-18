@@ -500,4 +500,7 @@ dd/M"</string>
 	<string name="close">Đóng</string>
 	<string name="miuix_appcompat_select_item">Chọn mục</string>
 	<string name="send">Gửi</string>
+	<string name="notification_channel_alerts">Cảnh báo</string>
+	<string name="garbage_count">Có %1$s instance cũ</string>
+	<string name="memory_leak">Rò rỉ bộ nhớ</string>
 </resources>

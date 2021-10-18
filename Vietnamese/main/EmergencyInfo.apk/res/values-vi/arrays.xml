@@ -250,4 +250,22 @@
         <item>, đang hoạt động (nội dung phương tiện)</item>
         <item>, đang hoạt động (điện thoại)</item>
     </string-array>
+	<string-array name="bluetooth_map_versions">
+		<item>MAP 1.2 (Mặc định)</item>
+		<item>MAP 1.3</item>
+		<item>MAP 1.4</item>
+	</string-array>
+	<string-array name="bluetooth_avrcp_versions">
+		<item>AVRCP 1.4 (Mặc định)</item>
+		<item>AVRCP 1.3</item>
+		<item>AVRCP 1.5</item>
+		<item>AVRCP 1.6</item>
+	</string-array>
+	<string-array name="bt_hci_snoop_log_entries">
+		<item>Đã tắt</item>
+		<item>Đã bật lọc</item>
+		<item>Đã bật lọc tiêu đề</item>
+		<item>Bật lọc phương tiện Pkts</item>
+		<item>Đã bật</item>
+	</string-array>
 </resources>

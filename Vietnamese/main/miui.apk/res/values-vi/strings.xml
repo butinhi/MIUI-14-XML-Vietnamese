@@ -398,4 +398,5 @@
 	<string name="tap_to_update_system_app">Chạm để cập nhật ứng dụng hệ thống</string>
 	<string name="com_android_soundrecorder">Trình ghi âm</string>
 	<string name="com_xiaomi_midrop">Mi Drop</string>
+	<string name="com_mi_globalbrowser">Trình duyệt Mi</string>
 </resources>

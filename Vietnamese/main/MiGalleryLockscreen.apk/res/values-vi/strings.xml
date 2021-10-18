@@ -1177,4 +1177,7 @@ d MMMM"</string>
 	<string name="fmt_time_minute">"m 'phút'"</string>
 	<string name="fmt_time_12hour">"h 'giờ'"</string>
 	<string name="fmt_time_second_millis">"s.S 'giây'"</string>
+	<string name="k_test">Kiểm tra</string>
+	<string name="goto_confirm">Cài đặt</string>
+	<string name="require_permission">Yêu cầu quyền</string>
 </resources>

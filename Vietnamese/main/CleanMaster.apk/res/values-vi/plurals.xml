@@ -202,4 +202,7 @@
 	<plurals name="miuix_appcompat_items_selected">
 		<item quantity="other">%d mục đã chọn</item>
 	</plurals>
+	<plurals name="every_x_day">
+		<item quantity="other">Mỗi %d ngày</item>
+	</plurals>
 </resources>

@@ -505,4 +505,7 @@
 	<string name="miui_feedback_main_item_catch_full_log">Lấy nhật ký</string>
 	<string name="public_authorize_now">Cài đặt</string>
 	<string name="public_please_authorize">Cần quyền để tiếp tục</string>
+	<string name="miuix_access_state_desc">Đã chọn</string>
+	<string name="miuix_indexer_selected">Đã chọn %s</string>
+	<string name="fmt_time_minute">"m 'phút'"</string>
 </resources>

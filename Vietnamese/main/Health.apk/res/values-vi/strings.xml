@@ -1934,4 +1934,14 @@ Nếu bạn không muốn tham gia các lớp học được đề xuất, bạn
 	<string name="complete_progress">Tiến độ</string>
     <string name="view_step_and_progress">Xem đếm bước hiện tại</string>
     <string formatted="false" name="tb_step_widget">Hôm nay. %1$s. Tiến trình: %2$d%</string>
+	<string name="click_to_solve">Trợ giúp</string>
+	<string name="miuix_access_state_desc">Đã chọn</string>
+	<string name="miuix_indexer_selected">Đã chọn %s</string>
+	<string name="listening_duration">Tai nghe</string>
+	<string name="avg_earphone_listening_duration">Tai nghe</string>
+	<string name="hearing">Thính giác</string>
+	<string name="lock_show_solve_go">Cài đặt</string>
+	<string name="first_aid_card">Hồ sơ Sơ cứu Y tế</string>
+	<string name="earphone_listening_duration">Tai nghe</string>
+	<string name="lock_show_dialog_title">Chú ý</string>
 </resources>

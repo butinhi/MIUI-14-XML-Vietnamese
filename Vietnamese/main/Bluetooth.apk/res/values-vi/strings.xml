@@ -586,4 +586,5 @@
 	<string name="close">Đóng</string>
 	<string name="send">Gửi</string>
 	<string name="opp_notification_group">Chia sẻ Bluetooth</string>
+	<string name="fmt_time_minute">"m 'phút'"</string>
 </resources>

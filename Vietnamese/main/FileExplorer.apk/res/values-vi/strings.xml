@@ -1700,4 +1700,6 @@ Gia nhập cùng 170 triệu Mi Fan!"</string>
     <string name="guide_three_title">Sắp xếp lại lối tắt</string>
     <string name="guide_one_summary">Các mục gần đây được nhóm lại theo ngày.</string>
     <string name="recent_hide_camera_and_screenshots">"Không hiển thị các mục Thư viện và ảnh chụp màn hình trong tệp gần đây"</string>
+	<string name="app_name_recorder">Trình ghi âm</string>
+	<string name="clean_hint_pad">Xóa rác để giải phóng bộ nhớ</string>
 </resources>

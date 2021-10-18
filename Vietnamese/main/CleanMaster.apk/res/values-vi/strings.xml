@@ -1307,4 +1307,9 @@
 	<string name="fmt_time_12hour">"h 'giờ'"</string>
     <string name="fmt_time_minute_second">"m 'phút' s 'giây'"</string>
     <string name="fmt_time_second_millis">"s.S 'giây'"</string>
+	<string name="xiaomi_market_sdk_update_dialog_ok">Cập nhật</string>
+	<string name="miuix_access_state_desc">Đã chọn</string>
+	<string name="miuix_indexer_selected">Đã chọn %s</string>
+	<string name="xiaomi_market_sdk_update_dialog_title">Đã có phiên bản mới</string>
+	<string name="xiaomi_market_sdk_update_dialog_cancel">Không phải bây giờ</string>
 </resources>

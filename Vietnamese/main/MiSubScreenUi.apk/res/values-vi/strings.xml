@@ -390,4 +390,7 @@ d/M"</string>
 	<string name="wilderness_is_starting">Đang bật Siêu tiết kiệm pin…</string>
 	<string name="sps_cancel">Nhấn giữ để thoát</string>
 	<string name="add_emergency_contact">Thêm Liên hệ khẩn cấp</string>
+	<string name="contentDescripton_back">Quay lại</string>
+	<string name="contentDescripton_increase">Thêm</string>
+	<string name="contentDescripton_reduce">Ít hơn</string>
 </resources>

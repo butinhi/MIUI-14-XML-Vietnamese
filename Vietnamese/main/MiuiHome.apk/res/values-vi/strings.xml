@@ -959,4 +959,15 @@
 	<string name="navigation_set_miui_home_as_default_dialog_cancel">Hủy</string>
 	<string name="navigation_set_miui_home_as_default_dialog_title">Gợi ý</string>
     <string name="navigation_set_miui_home_as_default_dialog_message">Trình khởi chạy không thuộc hệ thống không hỗ trợ sử dụng cử chỉ toàn màn hình. Bạn có muốn chuyển sang Trình khởi chạy hệ thống và bật cử chỉ toàn màn hình không?</string>
+	<string name="open_personal_assistant_settings">Cài đặt App vault</string>
+	<string name="navigation_guide_provision_see_more_pad_with_virtual_key">Xem thêm demo trong Cài đặt &gt; Màn hình chính &gt; Điều hướng hệ thống</string>
+	<string name="maml_download_dialog_cancel_text_china">Chờ Wi-Fi</string>
+	<string name="navigation_guide_finish_text">Tôi biết</string>
+	<string name="maml_download_dialog_cancel_text">Chờ Wi-Fi</string>
+	<string name="maml_download_dialog_checkbox_text">Không hiển thị lại</string>
+	<string name="maml_download_dialog_confirm_text">Tải xuống</string>
+	<string name="system_shortcuts_edit">Sửa</string>
+	<string name="ota_layout_adjustment_button_text">Tôi biết</string>
+	<string name="maml_download_dialog_title">Cảnh báo sử dụng dữ liệu</string>
+	<string name="recents_clear_all_tasks">Xóa hết</string>
 </resources>

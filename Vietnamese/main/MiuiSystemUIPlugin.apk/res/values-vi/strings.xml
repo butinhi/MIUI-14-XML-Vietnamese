@@ -471,4 +471,20 @@ Việc nghe ở mức âm lượng cao trong thời gian dài có thể gây t�
 	<string name="accessibility_description_hours">Giờ</string>
 	<string name="accessibility_description_minutes">Phút</string>
 	<string name="accessibility_description_seconds">Giây</string>
+	<string name="miuix_appcompat_action_mode_deselect_all">Bỏ chọn</string>
+	<string name="miuix_appcompat_deselect_all_description">Bỏ chọn tất cả</string>
+	<string name="miuix_appcompat_confirm_description">Xác nhận</string>
+	<string name="miuix_appcompat_action_mode_select_all">Chọn tất cả</string>
+	<string name="miplay_accessibility_volume">Thể tích</string>
+	<string name="miuix_appcompat_select_all_description">Chọn tất cả</string>
+	<string name="miuix_appcompat_action_mode_title_empty">Chọn mục</string>
+	<string name="miuix_appcompat_actionbar_immersion_button_more_description">Thêm</string>
+	<string name="miuix_appcompat_delete_description">Xóa</string>
+	<string name="miplay_accessibility_cast">Chọn thiết bị</string>
+	<string name="miplay_accessibility_play">Phát</string>
+	<string name="miuix_appcompat_search_action_mode_cancel">Hủy</string>
+	<string name="miuix_appcompat_cancel_description">Hủy</string>
+	<string name="miplay_accessibility_prev">Bài trước</string>
+	<string name="miplay_accessibility_pause">Tạm dừng</string>
+	<string name="miplay_accessibility_next">Bài tiếp theo</string>
 </resources>

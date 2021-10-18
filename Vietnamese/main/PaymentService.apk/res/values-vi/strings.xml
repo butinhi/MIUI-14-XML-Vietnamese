@@ -1086,4 +1086,11 @@ Gửi mã này cho người giám sát."</string>
 	<string name="mibi_incognito_mode_dialog_title">"Bạn đang ẩn danh"</string>
 	<string name="fmt_time_second_millis">"s.S 'giây'"</string>
 	<string name="mibi_incognito_mode_dialog_summary_camera">"Không thể sử dụng máy ảnh. Tắt chế độ Ẩn danh trong Cài đặt để có thể sử dụng máy ảnh."</string>
+	<string name="mibi_button_disagree">Không đồng ý</string>
+	<string name="miuix_access_state_desc">Đã chọn</string>
+	<string name="miuix_indexer_selected">Đã chọn %s</string>
+	<string name="mibi_recharge_more_channels_title">Thêm</string>
+	<string name="mibi_return">Quay lại</string>
+	<string name="mibi_format_bill_time">HH:mm dd-MM-yyyy</string>
+	<string name="mibi_recharge_other_amount">Số lượng khác</string>
 </resources>

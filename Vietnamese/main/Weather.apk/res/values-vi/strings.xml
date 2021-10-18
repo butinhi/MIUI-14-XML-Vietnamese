@@ -814,4 +814,7 @@ Chạm vào màn hình để thêm thủ công hoặc định vị lại thành 
 	<string name="the_fifth_day">Mùng 5 Tết Nguyên Đán</string>
 	<string name="xiaomi_weather_description_content_remove">"Thời tiết là ứng dụng hệ thống. Bạn sẽ không thể xem thông tin thời tiết hoặc dùng các widget liên quan sau khi xóa Lối tắt Màn hình chính."</string>
 	<string name="xiaomi_weather_description_title_remove">Xóa \"Thời tiết\" khỏi Màn hình chính?</string>
+	<string name="fmt_time_minute">"m 'phút'"</string>
+	<string name="date_time_picker_dialog_title">Đặt ngày và giờ</string>
+	<string name="send">Gửi</string>
 </resources>

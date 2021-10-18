@@ -26,4 +26,7 @@
 	<string name="auto_reject_toggle_title">Tự động từ chối cuộc gọi đến.</string>
 	<string name="call_composer_toggle_title">Bật cuộc gọi của trình soạn cuộc gọi</string>
 	<string name="call_composer_toggle_summary">Cho phép quay số cuộc gọi của người soạn cuộc gọi</string>
+	<string name="ims_rtt_automatic_mode">Tự động</string>
+	<string name="ims_ar_mode_unknown">Không xác định</string>
+	<string name="ims_rtt_unknown_mode">Không xác định</string>
 </resources>

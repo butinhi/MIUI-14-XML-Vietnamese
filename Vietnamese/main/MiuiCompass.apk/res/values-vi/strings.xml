@@ -398,4 +398,10 @@
 	<string name="first_using_dialog_message_no_camera">La bàn cần kết nối internet và truy cập thông tin vị trí để có thể hoạt động bình thường. Đồng ý?</string>
 	<string name="open_perm_msg_no_camera">La bàn cần truy cập thông tin vị trí để có thể xác định tọa độ. Cho phép?</string>
 	<string name="fmt_time_minute">"m 'phút'"</string>
+	<string name="new_cta_v2_app_purpose">Hiển thị hướng, tọa độ, áp suất khí quyển và độ cao hiện tại</string>
+	<string name="new_permission_location_desc">Hiển thị tọa độ và áp suất khí quyển</string>
+	<string name="preference_privacy_policy">Chính sách Riêng tư</string>
+	<string name="preference_privacy_setting">Riêng tư</string>
+	<string name="get_location">Truy cập vị trí</string>
+	<string name="open_camera">Sử dụng máy ảnh</string>
 </resources>

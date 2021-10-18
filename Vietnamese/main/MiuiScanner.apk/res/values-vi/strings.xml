@@ -1032,4 +1032,6 @@ Vui lòng tham khảo góc trên hình để đặt thiết bị và thử lại
 	<string name="fmt_time_minute">"m'phút'"</string>
 	<string name="privacy_policy">Chính sách Riêng tư</string>
     <string name="hint_no_permissions_text">Nhấn nút Cài đặt và vào Quản lý Quyền để bật quyền lưu trữ của máy ảnh và điện thoại để sử dụng bình thường. Quét</string>
+	<string name="miuix_access_state_desc">Đã chọn</string>
+	<string name="miuix_indexer_selected">Đã chọn %s</string>
 </resources>

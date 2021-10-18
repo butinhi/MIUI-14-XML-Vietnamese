@@ -560,8 +560,8 @@
 	<string name="the_fifth_day">Mùng 5 Tết Nguyên Đán</string>
 	<string name="fmt_date_numeric_month_day">d/M</string>
 	<string name="fmt_date_long_month_day">dd MMMM</string>
-	<string name="fmt_date_short_year_month_day">dd/MM/yyyy</string>
-	<string name="fmt_date_short_month_day">dd/MM</string>
+	<string name="fmt_date_short_year_month_day">d MMM, yyyy</string>
+	<string name="fmt_date_short_month_day">d MMM</string>
 	<string name="fmt_date_numeric_year_month_day">d/M/yyyy</string>
 	<string name="fmt_date_long_year_month_day">dd MMMM, yyyy</string>
 	<string name="fmt_time_12hour_minute_second_millis_pm">h:mm:ss.S a</string>
@@ -579,4 +579,6 @@
 	<string name="fmt_time_minute">"m 'phút'"</string>
 	<string name="fmt_time_12hour">"h 'giờ'"</string>
 	<string name="fmt_time_second_millis">"s.S 'giây'"</string>
+	<string name="miuix_access_state_desc">Đã chọn</string>
+	<string name="miuix_indexer_selected">Đã chọn %s</string>
 </resources>

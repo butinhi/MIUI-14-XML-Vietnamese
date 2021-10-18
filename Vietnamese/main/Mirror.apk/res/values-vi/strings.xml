@@ -455,4 +455,9 @@
 	<string name="fullscreen_sink_activity_label">Điện thoại của tôi</string>
 	<string name="softap_notification_title">"Kết nối tới điểm phát của %1$s"</string>
 	<string name="settings_connect_pc_group">Làm việc với máy tính của bạn</string>
+	<string name="miuix_access_state_desc">Đã chọn</string>
+	<string name="miuix_indexer_selected">Đã chọn %s</string>
+	<string name="fmt_time_minute">"m 'phút'"</string>
+	<string name="guide_window_title">Quay lại</string>
+	<string name="guide_window_btn_know">Tôi biết</string>
 </resources>

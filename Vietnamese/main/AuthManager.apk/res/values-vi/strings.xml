@@ -764,4 +764,13 @@ Bạn cần phải cài đặt phiên bản MIUI của nhà phát triển để 
     <string name="HIPS_Perm_operator_get_phonenumbner_Message">Ứng dụng này muốn lấy số điện thoại của bạn từ nhà cung cấp dịch vụ để đăng nhập. Cho phép?</string>
 	<string name="pp_privacy_lab_operator_introduction">Chú ý</string>
 	<string name="animator_property_name_alpha">Thử nghiệm</string>
+	<string name="v7_preference_off">TẮT</string>
+	<string name="not_set">Chưa đặt</string>
+	<string name="preference_copied">\"%1$s\" đã sao chép vào clipboard.</string>
+	<string name="miuix_access_state_desc">Đã chọn</string>
+	<string name="miuix_indexer_selected">Đã chọn %s</string>
+	<string name="fmt_time_minute">"m 'phút'"</string>
+	<string name="v7_preference_on">BẬT</string>
+	<string name="expand_button_title">Nâng cao</string>
+	<string name="copy">Sao chép</string>
 </resources>

@@ -55,4 +55,7 @@
 	<plurals name="miuix_appcompat_items_selected">
 		<item quantity="other">%d mục đã chọn</item>
 	</plurals>
+	<plurals name="authorization_status_hold_time">
+		<item quantity="other">%d giây</item>
+	</plurals>
 </resources>

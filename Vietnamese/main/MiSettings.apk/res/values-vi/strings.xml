@@ -992,4 +992,13 @@
 	<string name="desktop_widget_not_support">"Thống kê thời gian màn hình
 		không được tạo ra trong Không gian thứ hai"</string>
 	<string name="desktop_widget_authorization">Chạm để cấp quyền và có thể xem thống kê</string>
+	<string name="split_page_start">Bắt đầu</string>
+	<string name="fps_high">Cao</string>
+	<string name="miuix_access_state_desc">Đã chọn</string>
+	<string name="low_flicker_mode">ÁNH SÁNG YẾU</string>
+	<string name="miuix_indexer_selected">Đã chọn %s</string>
+	<string name="fps_radio_btn_title">Tần số quét</string>
+	<string name="intelligent_radio_btn_title">Tự động (đề xuất)</string>
+	<string name="fps_normal">Tiêu chuẩn</string>
+	<string name="customize_radio_btn_title">Tùy chỉnh</string>
 </resources>

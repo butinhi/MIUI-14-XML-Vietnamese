@@ -469,4 +469,11 @@ Bạn có thể tìm thấy danh sách thiết bị tương thích trên trang w
 	<string name="common_google_play_services_unknown_issue">%1$s đang gặp sự cố với các dịch vụ của Google Play. Hãy thử lại.</string>
 	<string name="error_remote_ap_working">Bảo người khác tắt điểm phát di động</string>
 	<string name="fmt_time_minute">"m 'phút'"</string>
+	<string name="miuix_access_state_desc">Đã chọn</string>
+	<string name="miuix_indexer_selected">Đã chọn %s</string>
+	<string name="device_list_more">Thêm</string>
+	<string name="uwb_setting_guide">Tìm hiểu thêm</string>
+	<string name="device_list_all">Tất cả thiết bị</string>
+	<string name="transfer_to_summary">Mi Share cho phép bạn gửi ảnh và tập tin đến điện thoại Mi lân cận và các thiết bị tương thích khác.</string>
+	<string name="custom_define_permission_desc_android.permission_group.STORAGE">Để gửi và nhận tệp tin</string>
 </resources>

@@ -2656,4 +2656,5 @@ Vui lòng gửi mã này cho nhân viên kỹ thuật."</string>
     <string name="ant_protocol">Chính sách Riêng tư của Alipay</string>
     <string name="alipay_auth_state_open">Đã bật lên</string>
     <string name="alipay_accountmanager_has_authinfo_tip">Đã được áp dụng cho các chức năng sau</string>
+	<string name="app_stock_info_desc">Mô tả</string>
 </resources>

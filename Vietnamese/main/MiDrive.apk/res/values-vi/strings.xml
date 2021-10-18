@@ -963,4 +963,18 @@ Vui lòng gửi mã này cho nhân viên kỹ thuật."</string>
 	<string name="chinese_symbol_animals_dog">Tuất</string>
 	<string name="pm">CH</string>
 	<string name="the_fifth_day">Mùng 5 Tết Nguyên Đán</string>
+	<string name="btn_recall_text_ok_timer">Thu hồi</string>
+	<string name="permission_camera_desc">Chụp ảnh và quay phim</string>
+	<string name="permission_storage_title">Lưu trữ</string>
+	<string name="permission_camera_title">Máy ảnh</string>
+	<string name="privacy_user_notice_dialog_title">Chú ý</string>
+	<string name="permission_phone_title">Thông tin thiết bị</string>
+	<string name="pre_privacy_recall">Đồng ý Chính sách Riêng tư</string>
+	<string name="privacy_user_notice_dialog_exit_btn_text">Thoát</string>
+	<string name="miuix_access_state_desc">Đã chọn</string>
+	<string name="permission_phone_desc">Truy cập số điện thoại và trạng thái thiết bị</string>
+	<string name="miuix_indexer_selected">Đã chọn %s</string>
+	<string name="permission_account_title">Tài khoản</string>
+	<string name="privacy_recall_dialog_title">Đồng ý Chính sách Riêng tư</string>
+	<string name="privacy_user_notice_dialog_ok_btn_text">Đồng ý</string>
 </resources>

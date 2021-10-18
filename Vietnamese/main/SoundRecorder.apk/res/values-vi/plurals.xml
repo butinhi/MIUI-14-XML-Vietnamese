@@ -115,4 +115,7 @@
 	<plurals name="search_recorder_records_hint">
 		<item quantity="other">%d bản ghi âm</item>
 	</plurals>
+	<plurals name="mtrl_badge_content_description">
+		<item quantity="other">%d thông báo mới</item>
+	</plurals>
 </resources>

@@ -2352,4 +2352,26 @@ Gửi mã này cho người giám sát."</string>
     <string name="long_video_watch_on">Xem trên</string>
     <string name="galleryplus_permission_content_xms">Mi Video cần quyền để hoạt động bình thường. Đi tới Cài đặt và cấp cho Mi Video các quyền cần thiết.</string>
     <string name="out_of_memory_background_playback_is_suspended">Đã tạm dừng phát lại trong nền do không đủ bộ nhớ</string>
+	<string name="ui_common_title_back">Quay lại</string>
+	<string name="columbus_skip_ad">Bỏ qua</string>
+	<string name="add_local_shortcut_add">Thêm</string>
+	<string name="local_video_shortcut_name">Video của tôi</string>
+	<string name="current_service_key">Dịch vụ</string>
+	<string name="mediation_ad">Quảng cáo</string>
+	<string name="ovp_hint_the_latest_version">Đã cập nhật</string>
+	<string name="dialog_app_comment_cancel">Hủy</string>
+	<string name="default_localization_key">Hệ thống</string>
+	<string name="tab_name_download">Tải xuống</string>
+	<string name="download_guide_known">Tôi biết</string>
+	<string name="question_step">Bỏ qua</string>
+	<string name="columbus_ad_flag_text">Quảng cáo</string>
+	<string name="ovp_navigation_darkmode">Chế độ tối</string>
+	<string name="ovp_navigation_version_update">Kiểm tra cập nhật</string>
+	<string name="ovp_navigation_score">Đánh giá ứng dụng của chúng tôi</string>
+	<string name="ovp_hint_new">Mới</string>
+	<string name="dialog_app_comment_title">Đánh giá ứng dụng của chúng tôi</string>
+	<string name="popup_click_for_download_video">Tải video</string>
+	<string name="dialog_app_comment_select_feedback">Bạn có thể gửi phản hồi cho chúng tôi không?</string>
+	<string name="question_known">Tôi biết</string>
+	<string name="question_next">Tiếp theo</string>
 </resources>

@@ -2452,4 +2452,15 @@ Sau khi bật chức năng "ghi nhiều camera", máy ảnh của điện thoạ
     <string name="fmt_time_second_millis">"s.S 'giây'"</string>
     <string name="pref_camera_flashmode_entry_screen_halo">Lấp đầy hào quang</string>
     <string name="accessibility_flash_screen_halo">Lấp đầy hào quang, trạng thái mở</string>
+	<string name="download_waiting">Đang chờ</string>
+	<string name="download_automatic_cancel">Hủy</string>
+	<string name="pref_video_ai_audio_effect_comparation_3d_i">Âm thanh nổi 3D</string>
+	<string name="download_automatic_title">Tự động tải ảnh xuống từ Xiaomi Cloud</string>
+	<string name="pref_hybrid_video_mode_title">Hybrid</string>
+	<string name="pref_video_ai_audio_effect_comparation_3d_ii">Giới thiệu</string>
+	<string name="pref_video_ai_audio_effect_comparation_3d_original">Mở tệp tin gốc</string>
+	<string name="portait_effect_entry_original">Mở tệp tin gốc</string>
+	<string name="download_automatic_confirm">Tải xuống</string>
+	<string name="portait_effect_entry_holiday">Lễ hội</string>
+	<string name="video_hybrid_tip">Hybrid</string>
 </resources>

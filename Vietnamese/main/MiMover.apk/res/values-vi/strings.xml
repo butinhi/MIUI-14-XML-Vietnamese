@@ -982,4 +982,9 @@ Các bước: Mở APP WeChat&gt;My&gt;Cài đặt&gt;Chung&gt;Sao lưu và di c
 	<string name="dialog_airplane_mode_button">Cài đặt</string>
 	<string name="dialog_airplane_mode_title">Tắt Chế độ Máy bay</string>
 	<string name="dialog_airplane_mode_content">"Mi Mover không thể hoạt động khi bật Chế độ máy bay. Tắt nó trong Cài đặt trước."</string>
+	<string name="xiaomi_market_sdk_update_dialog_ok">Cập nhật</string>
+	<string name="xiaomi_market_sdk_update_dialog_title">Đã có phiên bản mới</string>
+	<string name="request_all_permission_title">Yêu cầu quyền</string>
+	<string name="permission_setting_button">Cài đặt</string>
+	<string name="xiaomi_market_sdk_update_dialog_cancel">Không phải bây giờ</string>
 </resources>

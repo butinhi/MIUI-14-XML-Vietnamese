@@ -1738,4 +1738,10 @@ Bạn cũng có thể thêm nhắc nhở để không bỏ lỡ những điều 
     <string name="xiaomi_calendar_delete_description">Lịch là một ứng dụng hệ thống cho phép bạn tạo và quản lý sự kiện. Một vài tính năng của nó vẫn khả dụng sau khi bạn xóa Lối tắt Màn hình chính.</string>
     <string name="ee_dd_short_month">EEE, dd MMM</string>
 	<string name="talkback_english">Tiếng Anh</string>
+	<string name="miuix_access_state_desc">Đã chọn</string>
+	<string name="miuix_indexer_selected">Đã chọn %s</string>
+	<string name="show_menstruation_info">Hiển thị thông tin kinh nguyệt</string>
+	<string name="date_time_picker_dialog_title">Đặt ngày và giờ</string>
+	<string name="close">Đóng</string>
+	<string name="send">Gửi</string>
 </resources>

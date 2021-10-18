@@ -167,4 +167,7 @@
 	<plurals name="exo_controls_fastforward_by_amount_description">
 		<item quantity="other">Tua đi %d giây</item>
 	</plurals>
+	<plurals name="miuix_appcompat_items_selected">
+		<item quantity="other">%d mục đã chọn</item>
+	</plurals>
 </resources>

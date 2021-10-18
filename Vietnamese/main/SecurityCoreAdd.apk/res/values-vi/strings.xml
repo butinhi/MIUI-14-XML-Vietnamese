@@ -786,4 +786,13 @@ xứng đáng có riêng một ứng dụng"</string>
 	<string name="fmt_time_12hour_minute_pm">h:mm a</string>
     <string name="settings_notification_second_space_show_in_locked_title">Hiển thị Thông báo Màn hình khóa</string>
     <string name="settings_notification_second_space_show_in_locked_summary">Hiển thị thông báo từ Không gian thứ hai trên Màn hình khóa</string>
+	<string name="fmt_time_minute_second_millis">"m 'phút' s.S 'giây'"</string>
+	<string name="miuix_access_state_desc">Đã chọn</string>
+	<string name="miuix_indexer_selected">Đã chọn %s</string>
+	<string name="fmt_time_minute_second">"m 'phút' s 'giây'"</string>
+	<string name="fmt_weekday_time_timezone">zW T</string>
+	<string name="fmt_time_24hour">"HH 'giờ'"</string>
+	<string name="fmt_time_minute">"m 'phút'"</string>
+	<string name="fmt_time_12hour">"h 'giờ'"</string>
+	<string name="fmt_time_second_millis">"s.S 'giây'"</string>
 </resources>
