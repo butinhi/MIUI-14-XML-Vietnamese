@@ -5702,11 +5702,11 @@ Ghi lại các trình tự và sử dụng chúng bất cứ lúc nào!"</string
 	<string name="privacy_dialog_positive_button_text">Đồng ý</string>
 	<string name="title_result_location">Vị trí</string>
 	<string name="HIPS_Perm_GetInstall_Desc">nhận thông tin về ứng dụng đã cài đặt trên thiết bị</string>
-	<string name="gd_setting_group_custom_gtb_apps">Game</string>
+	<string name="gd_setting_group_custom_gtb_apps">Trò Chơi</string>
     ````<string name="gd_setting_group_custom_line_location">Vị trí thanh công cụ</string>
     ````<string name="gd_setting_group_custom_settings">Cá nhân hóa</string>
     ````<string name="gd_setting_group_custom_vtb_apps">Ứng dụng Video</string>
-    ````<string name="gd_setting_group_smart_tool_box">Sidebar</string>
+    ````<string name="gd_setting_group_smart_tool_box">Thanh cạnh bên</string>
     ````<string name="gd_setting_group_title_switch">Thiết lập</string>
     ````<string name="gd_setting_gtb">Hiển thị trong khi chơi game</string>
    ```` <string name="gd_setting_gtb_desc">Các tính năng đặc biệt cho chơi game</string>
@@ -5718,9 +5718,21 @@ Ghi lại các trình tự và sử dụng chúng bất cứ lúc nào!"</string
     ````<string name="gd_setting_title">Sidebar</string>
     ````<string name="gd_setting_vtb">Hiển thị trong khi phát video</string>
     ````<string name="gd_setting_vtb_desc">Các tính năng đặc biệt cho phát video</string>
+	<string name="gd_app_edit_done">Xong</string>
+    	<string name="gd_app_edit_title">Thêm ứng dụng</string>
+    	<string name="gd_app_edit_title_new">Chỉnh sửa lối tắt của sổ nổi</string>
     ````<string name="power_center_surface_temp_high">Nóng</string>
     ````<string name="power_center_surface_temp_higher">Ấm</string>
     ````<string name="power_center_surface_temp_low">Mát</string>
     ````<string name="power_center_surface_temp_lower">Lạnh</string>
     ````<string name="power_center_surface_temp_normal">Bình thường</string>
+    	<string name="beauty_fc_assistant">Trợ lý Camera trước</string>
+    	<string name="beauty_fc_assistant_summary">Sử dụng đánh sáng và làm đẹp với camera trước</string>
+    	<string name="beauty_fc_assistant_summary_new">Hiển thị đánh sáng và làm đẹp khi sử dụng camera trước</string>
+    	<string name="beauty_fc_fill_lamp">Đánh sáng</string>
+    	<string name="beauty_fc_fill_lamp_new">Đánh sáng (sử dụng độ sáng màn hình)</string>
+    	<string name="beauty_fc_light">Cường độ đánh sáng</string>
+    	<string name="beauty_fc_video_call">Làm đẹp cuộc gọi videp</string>
+    	<string name="beauty_fc_video_call_summary">Hiện thị nút làm đẹp khi thực hiện cuộc gọi video của WeChat </string>
+	<string name="once_settings_title">Bảo vệ quyền riêng tư</string>
 </resources>
