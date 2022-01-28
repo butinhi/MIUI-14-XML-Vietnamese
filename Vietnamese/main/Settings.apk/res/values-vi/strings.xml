@@ -12123,4 +12123,6 @@ Có người dùng khác trên thiết bị này.
 	<string name="automatic_storage_manager_primary_switch_title">Sử dụng Trình quản lý bộ nhớ</string>
 	<string name="main_clear_button_text">Xóa tất cả dữ liệu</string>
 	<string name="sim_action_enable_sub_dialog_title">Bật %1$s?</string>
+	<string name="screen_brightness">Độ sáng màn hình</string>
+	<string name="brightness_auto_summary">Điều chỉnh độ sáng theo ánh sáng xung quanh để tiết kiệm pin</string>
 </resources>
