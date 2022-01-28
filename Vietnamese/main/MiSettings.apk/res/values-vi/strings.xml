@@ -1001,4 +1001,6 @@
 	<string name="intelligent_radio_btn_title">Tự động (đề xuất)</string>
 	<string name="fps_normal">Tiêu chuẩn</string>
 	<string name="customize_radio_btn_title">Tùy chỉnh</string>
+	<string name="normal_mode_summary_new">Cho phép nhấp nháy trong điều kiện ánh sáng yếu</string>
+	<string name="dc_light_hint_normal_other">Chế độ chống nhấp nháy có thể ảnh hưởng đến tốc độ làm mới và cách một số mục được hiển thị.</string>
 </resources>
