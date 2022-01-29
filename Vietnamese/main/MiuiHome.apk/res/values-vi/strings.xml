@@ -970,4 +970,5 @@
 	<string name="ota_layout_adjustment_button_text">Tôi biết</string>
 	<string name="maml_download_dialog_title">Cảnh báo sử dụng dữ liệu</string>
 	<string name="recents_clear_all_tasks">Xóa hết</string>
+	<string name="menu_no_word">Không hiển thị văn bản</string>
 </resources>
