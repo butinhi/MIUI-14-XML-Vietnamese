@@ -3077,4 +3077,17 @@ Phiên dịch có thể mất một lúc khi bạn sử dụng tính năng này 
 	<string name="permission_contacts_name_2">Truy cập vào danh bạ của bạn</string>
 	<string name="permission_storage_name_2">Truy cập và lưu ảnh và tệp tin trên thiết bị</string>
 	<string name="grant_permission_go_and_set_2">Cài đặt</string>
+	<string name="operation_watermark">Hình mờ bảo vệ</string>
+	<string name="photo_editor_privacy_watermark">Hình mờ bảo vệ</string>
+	<string name="watermark_enter">Hình mờ bảo vệ</string>
+	<string name="watermark_title">Hình mờ bảo vệ</string>
+	<string name="watermark_summary">Nhận dạng ảnh chụp ID được lưu trữ trên thiết bị này và nhận lời nhắc để thêm hình mờ bảo vệ</string>
+	<string name="album_permission_activity_title">Quản lý quyền</string>
+	<string name="saf_hyper_link_text">Quản lý quyền</string>
+	<string name="album_permission_state_granted">Cho phép</string>
+	<string name="album_permission_state_non_granted">Từ chối</string>
+	<string name="album_permission_tip_text">Thư viện cần quyền để có thể đồng bộ hóa, chỉnh sửa và quản lý các mục được hiển thị bên dưới.</string>
+	<string name="album_permission_title_granted">Cho phép</string>
+	<string name="album_permission_title_non_granted">Từ chối</string>
+	
 </resources>

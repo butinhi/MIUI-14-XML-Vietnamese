@@ -5732,7 +5732,8 @@ Ghi lại các trình tự và sử dụng chúng bất cứ lúc nào!"</string
     	<string name="beauty_fc_fill_lamp">Đánh sáng</string>
     	<string name="beauty_fc_fill_lamp_new">Đánh sáng (sử dụng độ sáng màn hình)</string>
     	<string name="beauty_fc_light">Cường độ đánh sáng</string>
-    	<string name="beauty_fc_video_call">Làm đẹp cuộc gọi videp</string>
+    	<string name="beauty_fc_video_call">Làm đẹp cuộc gọi video</string>
     	<string name="beauty_fc_video_call_summary">Hiện thị nút làm đẹp khi thực hiện cuộc gọi video của WeChat </string>
+	<string name="bottom_notice_title">Trượt lên để mở công cụ</string>
 	
 </resources>
