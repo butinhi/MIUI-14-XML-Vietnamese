@@ -1428,4 +1428,5 @@ Thông tin vị trí có thể không được báo cáo khi kết nối mạng 
 	<string name="find_permission_phone_summary">Để truy cập số điện thoại nhằm xác định vị trí thiết bị này khi nó không được kết nối với internet</string>
 	<string name="find_permission_location_summary">Để định vị thiết bị này</string>
 	<string name="find_permission_sms_summary">Để định vị thiết bị này khi nó không được kết nối với internet</string>
+	<string name="revoke_permission_title">Chú ý</string>
 </resources>
