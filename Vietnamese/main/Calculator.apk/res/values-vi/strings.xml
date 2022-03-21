@@ -1111,4 +1111,7 @@ Lưu ý rằng ứng dụng này cần kết nối với mạng và yêu cầu c
 	<string name="clearable_edittext_clear_description">Xóa</string>
 	<string name="miuix_appcompat_cancel_description">Hủy</string>
 	<string name="miuix_appcompat_select_item">Chọn mục</string>
+	<string name="fmt_date_numeric_day">D</string>
+	<string name="fmt_date_day">D</string>
+	<string name="menuDesc">Menu</string>
 </resources>

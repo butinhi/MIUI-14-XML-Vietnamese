@@ -1744,4 +1744,20 @@ Bạn cũng có thể thêm nhắc nhở để không bỏ lỡ những điều 
 	<string name="date_time_picker_dialog_title">Đặt ngày và giờ</string>
 	<string name="close">Đóng</string>
 	<string name="send">Gửi</string>
+	<string name="twenty_four_hour_time_format">HH:mm</string>
+	<string name="plain_year_format">yyyy</string>
+	<string name="twelve_hour_time_format">hh:mm aa</string>
+	<string name="fmt_date_numeric_day">D</string>
+	<string name="size_kilo_byte">KB</string>
+	<string name="fmt_date_day">D</string>
+	<string name="size_peta_byte">PB</string>
+	<string name="month_year_format">MMMM, yyyy</string>
+	<string name="size_byte">B</string>
+	<string name="date_format_y_m">MMM, yyyy</string>
+	<string name="size_giga_byte">GB</string>
+	<string name="size_mega_byte">MB</string>
+	<string name="size_tera_byte">TB</string>
+	<string name="fmt_time">T</string>
+	<string name="custom_year_format">yyyy</string>
+	<string name="talk_back_tab_switch_language">Chọn ngôn ngữ Lịch</string>
 </resources>

@@ -476,4 +476,13 @@ Bạn có thể tìm thấy danh sách thiết bị tương thích trên trang w
 	<string name="device_list_all">Tất cả thiết bị</string>
 	<string name="transfer_to_summary">Mi Share cho phép bạn gửi ảnh và tập tin đến điện thoại Mi lân cận và các thiết bị tương thích khác.</string>
 	<string name="custom_define_permission_desc_android.permission_group.STORAGE">Để gửi và nhận tệp tin</string>
+	<string name="xiaomi">Chuyển tập tin mà không cần kết nối Internet cho bất kỳ nội dung nào sau đây:</string>
+	<string name="fmt_time_second">Giây</string>
+	<string name="fmt_date">D</string>
+	<string name="fmt_time_millis">Giây</string>
+	<string name="fmt_time">T</string>
+	<string name="menu_item_permission_title">Chi tiết quyền</string>
+	<string name="fmt_date_numeric_day">D</string>
+	<string name="global_phone">Điện thoại của tôi</string>
+	<string name="fmt_date_day">D</string>
 </resources>

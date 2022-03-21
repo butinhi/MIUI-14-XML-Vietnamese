@@ -508,4 +508,13 @@
 	<string name="miuix_access_state_desc">Đã chọn</string>
 	<string name="miuix_indexer_selected">Đã chọn %s</string>
 	<string name="fmt_time_minute">"m 'phút'"</string>
+	<string name="fmt_time">T</string>
+	<string name="miui_feedback_main_menu_view_withdraw_consent">Đồng ý Chính sách Riêng tư</string>
+	<string name="miui_feedback_main_withdraw">Thu hồi</string>
+	<string name="withdraw_consent_failed_hint_connect_net">Mạng không mạnh, vui lòng kiểm tra trạng thái mạng ~</string>
+	<string name="withdrawing">Rút lại sự đồng ý…</string>
+	<string name="i_get_it">Tôi biết</string>
+	<string name="public_open_feedback_service">Bắt đầu</string>
+	<string name="withdraw_consent_failed_hint">Lỗi máy chủ. Chờ một vài phút rồi thử lại.</string>
+	<string name="user_must_known">Chú ý</string>
 </resources>

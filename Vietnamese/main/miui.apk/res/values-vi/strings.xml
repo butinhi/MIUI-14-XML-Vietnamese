@@ -399,4 +399,6 @@
 	<string name="com_android_soundrecorder">Trình ghi âm</string>
 	<string name="com_xiaomi_midrop">Mi Drop</string>
 	<string name="com_mi_globalbrowser">Trình duyệt Mi</string>
+	<string name="fmt_date_numeric_day">D</string>
+	<string name="fmt_date_day">D</string>
 </resources>

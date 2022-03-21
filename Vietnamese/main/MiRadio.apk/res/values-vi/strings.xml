@@ -1738,4 +1738,13 @@ Không thanh toán riêng"</string>
     <string name="talkback_classify">Phân loại</string>
     <string name="talkback_timing">Thời gian</string>
     <string name="talkback_sort">Sắp xếp</string>
+	<string name="request_cancel">Hủy</string>
+	<string name="fmt_time_second">Giây</string>
+	<string name="fmt_date">D</string>
+	<string name="input_length_exceeds_limit">Văn bản bạn nhập quá dài</string>
+	<string name="request_agree">Cho phép</string>
+	<string name="fmt_time_millis">Giây</string>
+	<string name="fmt_time">T</string>
+	<string name="common_google_play_services_unknown_issue">%1$s đang gặp sự cố với các dịch vụ của Google Play. Hãy thử lại.</string>
+	<string name="apk_filter">APK</string>
 </resources>

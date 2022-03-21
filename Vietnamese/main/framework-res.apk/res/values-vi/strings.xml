@@ -2716,4 +2716,7 @@ Bạn có thể thay đổi lối tắt này sang tính năng khác trong Cài �
 	<string name="dismiss_action">Tôi biết</string>
 	<string name="sensor_privacy_start_use_dialog_turn_on_button">Bỏ chặn</string>
 	<string name="face_setup_notification_title">Cài đặt Mở khóa khuôn mặt</string>
+	<string name="kilobyteShort">KB</string>
+	<string name="resolver_cross_profile_blocked">Tác vụ này không được cho phép</string>
+	<string name="nas_upgrade_notification_title">Trợ lý Thông báo</string>
 </resources>

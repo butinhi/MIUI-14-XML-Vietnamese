@@ -780,4 +780,20 @@ An toàn và bảo mật"</string>
 	<string name="gb_gpu_tips_lod">Nâng cao độ rõ nét của hình ảnh bằng cách tối ưu hóa kết cấu của các đối tượng từ xa</string>
 	<string name="gb_gputuner_multi_render">Kết xuất đa luồng</string>
 	<string name="gb_gpu_tips_render">Sử dụng kết xuất đa luồng để tối ưu hiệu năng trò chơi</string>
+	<string name="fmt_time_second">Giây</string>
+	<string name="fmt_date">D</string>
+	<string name="fmt_time_millis">Giây</string>
+	<string name="fmt_time">T</string>
+	<string name="fmt_date_numeric_day">D</string>
+	<string name="size_kilo_byte">KB</string>
+	<string name="fmt_date_day">D</string>
+	<string name="size_peta_byte">PB</string>
+	<string name="agree">Đồng ý</string>
+	<string name="auto_task_select_city">Chọn thành phố</string>
+	<string name="miuix_access_state_desc">Đã chọn</string>
+	<string name="size_byte">B</string>
+	<string name="miuix_indexer_selected">Đã chọn %s</string>
+	<string name="size_tera_byte">TB</string>
+	<string name="privacy_title">Thông báo người dùng</string>
+	<string name="auto_task_now_city">Vị trí hiện tại</string>
 </resources>

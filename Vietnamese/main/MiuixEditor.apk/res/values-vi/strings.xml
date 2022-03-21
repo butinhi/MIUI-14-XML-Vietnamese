@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<resources>
+	<string name="translation_query_error_network">Không thể nhận thông tin, kiểm tra kết nối mạng và thử lại</string>
+	<string name="select">Chọn</string>
+	<string name="add_frequent_phrases">Thêm cụm từ thường dùng</string>
+	<string name="query">Truy vấn</string>
+	<string name="floating_toolbar_open_overflow_description">Tùy chọn khác</string>
+	<string name="floating_toolbar_close_overflow_description">Đóng tràn</string>
+	<string name="edit_frequent_phrases">Chỉnh sửa cụm từ thường dùng</string>
+	<string name="translation_query_error">Không tìm thấy kết quả</string>
+	<string name="translate">Dịch</string>
+	<string name="call">Gọi</string>
+	<string name="frequent_phrases">Cụm từ thường dùng</string>
+	<string name="translation_more">Thêm</string>
+	<string name="open">Duyệt</string>
+</resources>

@@ -1944,4 +1944,16 @@ Nếu bạn không muốn tham gia các lớp học được đề xuất, bạn
 	<string name="first_aid_card">Hồ sơ Sơ cứu Y tế</string>
 	<string name="earphone_listening_duration">Tai nghe</string>
 	<string name="lock_show_dialog_title">Chú ý</string>
+	<string name="contact_permission_subtitle">Để đặt liên hệ khẩn cấp</string>
+	<string name="audio_permission_title">Truy cập trực tiếp micro để ghi âm.</string>
+	<string name="external_storage_permission_title">Truy cập và lưu mục vào bộ nhớ</string>
+	<string name="fmt_date_numeric_day">D</string>
+	<string name="location_permission_subtitle">Để theo dõi tập luyện ngoài trời và ghi lại tuyến đường</string>
+	<string name="contact_permission_title">Truy cập vào danh bạ của bạn</string>
+	<string name="system_permission">Chi tiết quyền</string>
+	<string name="external_storage_permission_subtitle">Dùng để đặt ảnh đại diện</string>
+	<string name="fmt_date_day">D</string>
+	<string name="location_permission_title">Truy cập vị trí</string>
+	<string name="fmt_time">T</string>
+	<string name="camera_permission_title">Sử dụng máy ảnh</string>
 </resources>

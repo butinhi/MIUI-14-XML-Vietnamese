@@ -1003,4 +1003,7 @@
 	<string name="customize_radio_btn_title">Tùy chỉnh</string>
 	<string name="normal_mode_summary_new">Cho phép nhấp nháy trong điều kiện ánh sáng yếu</string>
 	<string name="dc_light_hint_normal_other">Chế độ chống nhấp nháy có thể ảnh hưởng đến tốc độ làm mới và cách một số mục được hiển thị.</string>
+	<string name="fmt_time">T</string>
+	<string name="fmt_date_numeric_day">D</string>
+	<string name="fmt_date_day">D</string>
 </resources>

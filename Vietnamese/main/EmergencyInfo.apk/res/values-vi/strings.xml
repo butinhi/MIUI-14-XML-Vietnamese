@@ -797,4 +797,20 @@ Bất cứ người dùng nào cũng có thể cập nhật ứng dụng cho ng�
 	<string name="available_via_app">Có sẵn qua %1$s</string>
 	<string name="enhanced_connectivity">Tăng cường Kết nối</string>
 	<string name="wifi_enhanced_mac_randomization">Wi-Fi‑Mac ngẫu nhiên nâng cao</string>
+	<string name="battery_meter_very_low_overlay_symbol">!</string>
+	<string name="wifi_security_sae">WPA3-Cá nhân</string>
+	<string name="wifi_security_eap_wpa">WPA-Doanh nghiệp</string>
+	<string name="wifi_security_eap_suiteb">WPA3-Doanh nghiệp 192-bit</string>
+	<string name="bluetooth_talkback_bluetooth">Chế độ ngủ cơ bản</string>
+	<string name="wifi_whitelist_roaming">Cầu SSID ‑ Ghép nối nhanh</string>
+	<string name="wifi_new_network_auto_connection_summary">Bật tự động kết nối tới WPA/WPA2‑PSK 5GHz SSID với định danh của mạng WPA/WPA2‑PSK 2GHz SSID trên sự khớp một phần SSID và BSSID</string>
+	<string name="wifi_new_network_auto_connection">Cầu SSID ‑ Tự động kết nối</string>
+	<string name="wifi_whitelist_roaming_summary">Cho phép chuyển vùng giữa các SSID WPA/WPA2‑PSK AP khác nhau với cùng cổng địa chỉ MAC</string>
+	<string name="wifitrackerlib_wifi_security_eap_suiteb">WPA3-Doanh nghiệp 192-bit</string>
+	<string name="item_view_role_description">Tab</string>
+	<string name="data_connection_4g">4G</string>
+	<string name="accessibility_ethernet_connected">Đã kết nối ethernet.</string>
+	<string name="data_connection_3_5g">Giờ</string>
+	<string name="data_connection_3g">3G</string>
+	<string name="wifitrackerlib_wifi_security_sae">WPA3-Cá nhân</string>
 </resources>

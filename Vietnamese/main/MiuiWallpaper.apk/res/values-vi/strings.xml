@@ -403,4 +403,10 @@ Mawrth Vallis"</string>
 	<string name="close">Đóng</string>
 	<string name="miuix_appcompat_select_item">Chọn mục</string>
 	<string name="send">Gửi</string>
+	<string name="fmt_date_numeric_day">D</string>
+	<string name="fmt_time_second">"s 'giây'"</string>
+	<string name="fmt_date_day">D</string>
+	<string name="fmt_date">D</string>
+	<string name="fmt_time_millis">"S 'mili giây'"</string>
+	<string name="fmt_time">T</string>
 </resources>

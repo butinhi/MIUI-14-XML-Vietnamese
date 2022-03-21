@@ -289,4 +289,5 @@
 	<string name="material_timepicker_minute">Phút</string>
 	<string name="material_slider_range_end">Khoảng kết thúc,</string>
 	<string name="material_timepicker_text_input_mode_description">Chuyển sang chế độ nhập văn bản để nhập thời gian.</string>
+	<string name="item_view_role_description">Tab</string>
 </resources>

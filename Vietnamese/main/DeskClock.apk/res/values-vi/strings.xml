@@ -777,4 +777,21 @@ sau khi Sức khỏe Mi phân tích đủ dữ liệu"</string>
 	<string name="privacy_settings_title">Riêng tư</string>
 	<string name="query_privacy_policy">Chính sách Riêng tư</string>
 	<string name="permission_related">Quản lý Quyền</string>
+	<string name="permission_granted">Cho phép</string>
+	<string name="fmt_date_numeric_day">D</string>
+	<string name="permission_rejected">Thẻ SIM của bạn không cho phép kết nối với mạng này.</string>
+	<string name="repeat_type">Lặp lại</string>
+	<string name="fmt_time_24hour_minute_second_millis">h:mm:ss.S</string>
+	<string name="fmt_date_day">D</string>
+	<string name="read_internal_storage">Lưu trữ</string>
+	<string name="select_all">Chọn tất cả</string>
+	<string name="unselect_all">Bỏ chọn tất cả</string>
+	<string name="permission_desc">Chi tiết quyền</string>
+	<string name="fmt_time_12hour_minute_second_millis">h:mm:ss.S</string>
+	<string name="fmt_time_12hour_minute">HH:mm</string>
+	<string name="fmt_time_24hour_minute_second">H:mm:ss</string>
+	<string name="fmt_time">T</string>
+	<string name="fmt_date_long_year_month">MMMM, yyyy</string>
+	<string name="fmt_time_12hour_minute_second">h:mm:ms</string>
+	<string name="selected">Đã chọn</string>
 </resources>

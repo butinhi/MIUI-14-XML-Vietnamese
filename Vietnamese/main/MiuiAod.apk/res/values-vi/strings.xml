@@ -503,4 +503,7 @@ dd/M"</string>
 	<string name="notification_channel_alerts">Cảnh báo</string>
 	<string name="garbage_count">Có %1$s instance cũ</string>
 	<string name="memory_leak">Rò rỉ bộ nhớ</string>
+	<string name="fmt_date_numeric_day">D</string>
+	<string name="fmt_date_day">D</string>
+	<string name="fmt_time">T</string>
 </resources>

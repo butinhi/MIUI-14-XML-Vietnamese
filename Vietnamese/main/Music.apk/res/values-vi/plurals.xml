@@ -231,4 +231,7 @@ Lưu ý: Các tập tin cũng sẽ bị xóa khỏi thiết bị này."</item>
 	<plurals name="mtrl_badge_content_description">
 		<item quantity="other">%d thông báo mới</item>
 	</plurals>
+	<plurals name="miuix_appcompat_items_selected">
+		<item quantity="other">%d mục đã chọn</item>
+	</plurals>
 </resources>
