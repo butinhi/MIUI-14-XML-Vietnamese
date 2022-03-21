@@ -1071,4 +1071,5 @@ Hãy chắc chắn bạn nhớ tất cả câu trả lời."</string>
 	<string name="miuix_indexer_selected">Đã chọn %s</string>
 	<string name="permission_withdraw">Thu hồi</string>
 	<string name="permission_read_sms">Truy cập tin nhắn</string>
+	<string name="personal_info_desc">Ảnh, biệt danh và hơn nữa</string>
 </resources>
