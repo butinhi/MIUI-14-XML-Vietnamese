@@ -501,4 +501,6 @@ Nhập số điện thoại đã được liên kết với thẻ SIM mới đ�
 	<string name="fmt_date_numeric_year">yyyy</string>
 	<string name="fmt_weekday_date_time_timezone">W, D T z</string>
 	<string name="fmt_time_12hour_minute_second">H:mm:ss</string>
+	<string name="fmt_date_numeric_day">D</string>
+	<string name="fmt_date_day">D</string>
 </resources>

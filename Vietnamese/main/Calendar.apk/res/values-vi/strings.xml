@@ -1760,4 +1760,5 @@ Bạn cũng có thể thêm nhắc nhở để không bỏ lỡ những điều 
 	<string name="fmt_time">T</string>
 	<string name="custom_year_format">yyyy</string>
 	<string name="talk_back_tab_switch_language">Chọn ngôn ngữ Lịch</string>
+	<string name="custom_dd_format">D</string>
 </resources>

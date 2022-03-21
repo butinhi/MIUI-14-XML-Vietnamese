@@ -1025,4 +1025,6 @@ Cho phép Ghi chú ghi âm."</string>
 	<string name="miui_penengine_tool_pencil">Bút chì</string>
 	<string name="pad_insert_image_menu_select_from_pad_gallery">Album</string>
 	<string name="pref_permission_manage_key_storage">Lưu trữ</string>
+	<string name="miuix_access_state_desc">Đã chọn</string>
+	<string name="miuix_indexer_selected">Đã chọn %s</string>
 </resources>

@@ -5771,4 +5771,5 @@ Ghi lại các trình tự và sử dụng chúng bất cứ lúc nào!"</string
 	<string name="adv_version_text">Phiên bản: %s</string>
 	<string name="vb_video_effects_3d_summary">Tăng cường độ sâu tái tạo âm thanh cho tai nghe và loa</string>
 	<string name="auto_task_default_task_title_save_power">Tiết kiệm pin</string>
+	<string name="custom_define_permission_desc_android.permission.SEND_SMS">Để định vị thiết bị này khi nó không được kết nối với internet</string>
 </resources>

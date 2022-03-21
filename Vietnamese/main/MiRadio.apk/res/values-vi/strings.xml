@@ -1747,4 +1747,6 @@ Không thanh toán riêng"</string>
 	<string name="fmt_time">T</string>
 	<string name="common_google_play_services_unknown_issue">%1$s đang gặp sự cố với các dịch vụ của Google Play. Hãy thử lại.</string>
 	<string name="apk_filter">APK</string>
+	<string name="fmt_date_numeric_day">D</string>
+	<string name="fmt_date_day">D</string>
 </resources>

@@ -1001,4 +1001,5 @@
 	<string name="fmt_date_numeric_year">yyyy</string>
 	<string name="fmt_weekday_date_time_timezone">W, D T z</string>
 	<string name="fmt_time_12hour_minute_second">h:mm:ms</string>
+	<string name="custom_define_permission_desc_android.permission.READ_PHONE_STATE">Để truy cập số điện thoại nhằm xác định vị trí thiết bị này khi nó không được kết nối với internet</string>
 </resources>

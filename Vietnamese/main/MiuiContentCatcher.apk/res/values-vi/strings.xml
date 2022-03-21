@@ -359,4 +359,6 @@ Xóa mật khẩu?"</string>
 	<string name="fmt_time_12hour_minute_pm">h:mm a</string>
 	<string name="fmt_weekday_date_time_timezone">W, D T z</string>
 	<string name="fmt_time_12hour_minute_second">H:mm:ss</string>
+	<string name="fmt_date_numeric_day">D</string>
+	<string name="fmt_date_day">D</string>
 </resources>

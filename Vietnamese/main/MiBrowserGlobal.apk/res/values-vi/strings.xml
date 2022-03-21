@@ -2344,4 +2344,6 @@ Tắt phím nhanh để dừng đồng bộ."</string>
 	<string name="fmt_time">T</string>
 	<string name="fmt_time_millis">Giây</string>
 	<string name="crash_page_button">Thử lại</string>
+	<string name="fmt_date_numeric_day">D</string>
+	<string name="fmt_date_day">D</string>
 </resources>

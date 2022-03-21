@@ -2440,4 +2440,6 @@ Gửi mã này cho người giám sát."</string>
 	<string name="dialog_bookmark_cancel">Hủy</string>
 	<string name="fmt_date_numeric_year">yyyy</string>
 	<string name="dialog_privacy_revoke_title">Đồng ý Chính sách Riêng tư</string>
+	<string name="fmt_date_numeric_day">D</string>
+	<string name="fmt_date_day">D</string>
 </resources>

@@ -688,4 +688,5 @@ Bạn cần đọc và đồng ý với Chính sách Riêng tư Mint Keyboard tr
 	<string name="permission_read_app_list">nhận thông tin về ứng dụng đã cài đặt trên thiết bị</string>
 	<string name="service_name_bluetooth">Chế độ ngủ cơ bản</string>
 	<string name="privacy_title">Thông báo người dùng</string>
+	<string name="withdraw_consent">Đồng ý Chính sách Riêng tư</string>
 </resources>

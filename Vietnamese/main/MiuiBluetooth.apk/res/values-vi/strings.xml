@@ -1181,4 +1181,6 @@ Giao thức truyền tải băng thông cao."</string>
 	<string name="data_connection_3_5g">Giờ</string>
 	<string name="item_view_role_description">Tab</string>
 	<string name="wifitrackerlib_wifi_security_sae">WPA3-Cá nhân</string>
+	<string name="fmt_date_numeric_day">D</string>
+	<string name="fmt_date_day">D</string>
 </resources>
