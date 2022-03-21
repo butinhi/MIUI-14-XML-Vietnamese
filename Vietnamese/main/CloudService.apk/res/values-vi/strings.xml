@@ -1423,4 +1423,5 @@ Thông tin vị trí có thể không được báo cáo khi kết nối mạng 
 	<string name="button_quit">Thoát</string>
 	<string name="agree_and_continue">Đồng ý</string>
 	<string name="button_revoke">Thu hồi</string>
+	<string name="personal_info_desc">Ảnh, biệt danh và hơn nữa</string>
 </resources>
