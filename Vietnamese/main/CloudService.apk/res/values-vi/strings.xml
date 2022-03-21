@@ -1423,4 +1423,10 @@ Thông tin vị trí có thể không được báo cáo khi kết nối mạng 
 	<string name="button_quit">Thoát</string>
 	<string name="agree_and_continue">Đồng ý</string>
 	<string name="button_revoke">Thu hồi</string>
+	<string name="permission_management">Chi tiết quyền</string>
+	<string name="find_device_permissions_header">Chào mừng bạn đến với Tìm thiết bị! Bạn có thể sử dụng ứng dụng này để định vị, theo dõi và khóa thiết bị của mình khi thiết bị bị mất. Tìm thiết bị yêu cầu các quyền sau:</string>
+	<string name="find_permission_phone_summary">Để truy cập số điện thoại nhằm xác định vị trí thiết bị này khi nó không được kết nối với internet</string>
+	<string name="find_permission_location_summary">Để định vị thiết bị này</string>
+	<string name="find_permission_sms_summary">Để định vị thiết bị này khi nó không được kết nối với internet</string>
+	<string name="revoke_permission_title">Chú ý</string>
 </resources>
