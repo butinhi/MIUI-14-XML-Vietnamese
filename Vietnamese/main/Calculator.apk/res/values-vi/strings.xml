@@ -1114,4 +1114,6 @@ Lưu ý rằng ứng dụng này cần kết nối với mạng và yêu cầu c
 	<string name="fmt_date_numeric_day">D</string>
 	<string name="fmt_date_day">D</string>
 	<string name="menuDesc">Menu</string>
+	<string name="miuix_access_state_desc">Đã chọn</string>
+	<string name="miuix_indexer_selected">Đã chọn %s</string>
 </resources>

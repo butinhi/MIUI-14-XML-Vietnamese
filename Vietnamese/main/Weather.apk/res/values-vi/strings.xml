@@ -829,4 +829,8 @@ Chạm vào màn hình để thêm thủ công hoặc định vị lại thành 
 	<string name="size_peta_byte">PB</string>
 	<string name="fmt_time_millis">"S 'mili giây'"</string>
 	<string name="fmt_time">T</string>
+	<string name="dialog_score_general">Trung tính</string>
+	<string name="miuix_access_state_desc">Đã chọn</string>
+	<string name="miuix_indexer_selected">Đã chọn %s</string>
+	<string name="select_show_city">Chọn vị trí</string>
 </resources>

@@ -473,4 +473,24 @@
 	<string name="fmt_date_numeric_day">D</string>
 	<string name="fmt_date_day">D</string>
 	<string name="settings_permission_description">Chi tiết quyền</string>
+	<string name="pad_settings_handoff_video_title">Video</string>
+	<string name="loading_view_abort_close_text">Đóng</string>
+	<string name="pad_settings_handoff_disable">TẮT</string>
+	<string name="pad_settings_handoff_wps_title">Tài liệu</string>
+	<string name="cast_mcc_tips_button_cancel">Bỏ qua</string>
+	<string name="invisible_mode_dialog_cancel">Hủy</string>
+	<string name="pad_settings_handoff_app_title">Ứng dụng</string>
+	<string name="pad_fullscreen_sink_activity_label">Điện thoại của tôi</string>
+	<string name="pad_settings_handoff_clipboard_title">Bộ nhớ tạm</string>
+	<string name="loading">Đang làm mới</string>
+	<string name="invisible_mode_dialog_title">"Bạn đang ẩn danh"</string>
+	<string name="pad_settings_pc_use_tile">Về tính năng này</string>
+	<string name="cast_mcc_tips_button_ok">Cài đặt</string>
+	<string name="pad_settings_handoff_disconnect">Chưa kết nối</string>
+	<string name="pad_settings_handoff_device_title">Thiết bị đã kết nối</string>
+	<string name="pad_settings_pc_history_title">Lịch sử kết nối</string>
+	<string name="pad_settings_bluetooth_enable_title">Bật Bluetooth</string>
+	<string name="pad_settings_pc_trusted_title">Tự động kết nối</string>
+	<string name="invisible_mode_dialog_positive">Tắt</string>
+	<string name="pad_settings_handoff_p2p_title">Phát sóng</string>
 </resources>

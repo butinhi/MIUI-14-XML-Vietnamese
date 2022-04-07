@@ -613,4 +613,14 @@
 	<string name="call_progress_info_call_rejected">Cuộc gọi bị từ chối</string>
 	<string name="call_progress_info_no_user_responding">Không có phản hồi người dùng</string>
 	<string name="call_progress_info_user_busy">Người dùng bận</string>
+	<string name="bluetooth_permission_title">Yêu cầu quyền</string>
+	<string name="relay_known">Tôi biết</string>
+	<string name="incoming_video_crs_call">Đang phát nhạc chờ video của bên kia</string>
+	<string name="bluetooth_permission_grant_immediately">Cho phép</string>
+	<string name="caller_info_name_delimiter">" hoặc "</string>
+	<string name="saf_permission_grant_permission_immediately">Tiếp theo</string>
+	<string name="saf_permission_title">Yêu cầu quyền</string>
+	<string name="bluetooth_permission_later">Không phải bây giờ</string>
+	<string name="saf_permission_later">Không phải bây giờ</string>
+	<string name="relay_network_error">Không thể kết nối mạng, hãy thử lại sau</string>
 </resources>

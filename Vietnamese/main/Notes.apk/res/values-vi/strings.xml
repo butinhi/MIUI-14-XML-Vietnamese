@@ -1027,4 +1027,8 @@ Cho phép Ghi chú ghi âm."</string>
 	<string name="pref_permission_manage_key_storage">Lưu trữ</string>
 	<string name="miuix_access_state_desc">Đã chọn</string>
 	<string name="miuix_indexer_selected">Đã chọn %s</string>
+	<string name="setting_micloud_sync_title">Đồng bộ đám mây</string>
+	<string name="setting_note_list_layout_title">Bố cục</string>
+	<string name="setting_big_screen_layout_columns">Sidebar</string>
+	<string name="setting_layout">Bố cục</string>
 </resources>

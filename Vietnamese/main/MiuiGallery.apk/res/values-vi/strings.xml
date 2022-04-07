@@ -3177,4 +3177,18 @@ Phiên dịch có thể mất một lúc khi bạn sử dụng tính năng này 
 	<string name="media_type_pano_photo">Chụp toàn cảnh</string>
 	<string name="media_type_gif">Hình ảnh chuyển động</string>
 	<string name="download_delete_error_positive">Xóa</string>
+	<string name="solar_labour_day_title">Quốc Tế Lao Động</string>
+	<string name="chinese_night_of_sevens_title">Lễ Thất Tịch</string>
+	<string name="national_day">Quốc Khánh</string>
+	<string name="chinese_lantern_festival_title">Tết Nguyên tiêu</string>
+	<string name="sea_title">Sóng</string>
+	<string name="album_screen_record">Quay màn hình</string>
+	<string name="solar_children_day_title">Tết thiếu nhi</string>
+	<string name="solar_christmas_title">Lễ Giáng Sinh</string>
+	<string name="solar_national_day_title">Quốc Khánh</string>
+	<string name="labour_day">Quốc Tế Lao Động</string>
+	<string name="chinese_mid_automn_festival_title">Tết Trung Thu</string>
+	<string name="chinese_dragon_boat_festival_title">Tết Đoan ngọ</string>
+	<string name="solar_new_year_title">Tết Nguyên Đán</string>
+	<string name="solar_valentines_day_title">Lễ Tình Nhân</string>
 </resources>

@@ -1047,4 +1047,6 @@ Vui lòng tham khảo góc trên hình để đặt thiết bị và thử lại
 	<string name="picture_editor">Chỉnh sửa</string>
 	<string name="fmt_date">D</string>
 	<string name="fmt_time">T</string>
+	<string name="switchover">Chuyển</string>
+	<string name="format_error">Mật khẩu không hợp lệ</string>
 </resources>

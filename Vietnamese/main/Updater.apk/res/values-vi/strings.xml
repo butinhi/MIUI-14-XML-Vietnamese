@@ -522,4 +522,13 @@ Cập nhật không khả dụng cho bạn!"</string>
 	<string name="notif_service_summary">Giữ để tắt thông báo \"Dịch vụ nền\"!</string>
 	<string name="downgrade_warning">Đã nhận thấy và chặn hạ cấp qua OTA! Để bạn không làm hỏng điện thoại!</string>
 	<string name="menu_title_show_notifications">Hiển thị thông báo</string>
+	<string name="fetch_notification_download_retry">Thử lại</string>
+	<string name="fetch_notification_download_downloading">Đang tải xuống</string>
+	<string name="fetch_notification_download_paused">Đã tạm dừng đồng bộ</string>
+	<string name="fetch_notification_download_pause">Tạm dừng</string>
+	<string name="fetch_notification_download_resume">Tiếp tục</string>
+	<string name="fetch_notification_default_channel_name">Tải xuống</string>
+	<string name="fetch_notification_download_complete">Thành công</string>
+	<string name="fetch_notification_download_failed">Thất bại</string>
+	<string name="fetch_notification_download_cancel">Hủy</string>
 </resources>

@@ -621,4 +621,7 @@ Tiết kiệm pin sẽ xử lý ứng dụng quan trọng một cách có chọn
 	<string name="item_view_role_description">Tab</string>
 	<string name="fmt_date_numeric_day">D</string>
 	<string name="fmt_date_day">D</string>
+	<string name="miuix_access_state_desc">Đã chọn</string>
+	<string name="miuix_indexer_selected">Đã chọn %s</string>
+	<string name="fmt_time_minute">"m 'phút'"</string>
 </resources>

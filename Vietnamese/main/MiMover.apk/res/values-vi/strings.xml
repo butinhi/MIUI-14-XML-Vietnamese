@@ -1012,4 +1012,21 @@ Các bước: Mở APP WeChat&gt;My&gt;Cài đặt&gt;Chung&gt;Sao lưu và di c
 	<string name="cancel_tranfer">Hủy</string>
 	<string name="app_update_64_dialog_cancel">Không phải bây giờ</string>
 	<string name="app_update_64_dialog_confirm">Cập nhật</string>
+	<string name="cancel_btn">Hủy</string>
+	<string name="apps_cannot_be_transfered_confirm_button">Bắt đầu</string>
+	<string name="skip_transfer">Bỏ qua</string>
+	<string name="lockscreen_access_pattern_cleared">Đã xóa hình mở khóa</string>
+	<string name="apple_contacts">Liên hệ</string>
+	<string name="recommend_hint">Đề xuất</string>
+	<string name="lockscreen_access_pattern_start">Bắt đầu hình mở khóa</string>
+	<string name="host_verify_lock_retry">Xác thực màn hình khóa</string>
+	<string name="set_new_device_lock">Đặt mật khẩu</string>
+	<string name="apple_video">Video</string>
+	<string name="provision_select_data_null">Chọn mục để chuyển</string>
+	<string name="apple_image">Ảnh</string>
+	<string name="host_verify_lock_hint">Nhập khóa màn hình</string>
+	<string name="lockscreen_access_pattern_cell_added">Đã thêm ô</string>
+	<string name="trans_apple_button_reconnect">Kết nối lại</string>
+	<string name="refuse_accept">Không đồng ý</string>
+	<string name="apps_cannot_be_transfered_next_button">Tiếp theo</string>
 </resources>

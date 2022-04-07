@@ -503,4 +503,7 @@ Nhập số điện thoại đã được liên kết với thẻ SIM mới đ�
 	<string name="fmt_time_12hour_minute_second">H:mm:ss</string>
 	<string name="fmt_date_numeric_day">D</string>
 	<string name="fmt_date_day">D</string>
+	<string name="miuix_access_state_desc">Đã chọn</string>
+	<string name="miuix_indexer_selected">Đã chọn %s</string>
+	<string name="fmt_time_minute">"m 'phút'"</string>
 </resources>

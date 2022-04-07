@@ -935,4 +935,8 @@ Tăng tốc tải xuống giữa các thiết bị."</string>
 	<string name="dialog_user_know_button2">Đồng ý</string>
 	<string name="dialog_user_know_button1">Thoát</string>
 	<string name="dialog_privacy_update_button2">Đồng ý</string>
+	<string name="size">Kích thước</string>
+	<string name="nowInstall">Cài đặt</string>
+	<string name="category">Danh mục</string>
+	<string name="downloadCount">Tải xuống</string>
 </resources>

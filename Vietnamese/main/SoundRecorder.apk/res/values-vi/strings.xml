@@ -747,4 +747,6 @@
 	<string name="progress">%1$s%%</string>
 	<string name="size_mega_byte">MB</string>
 	<string name="fmt_date">D</string>
+	<string name="permission_read_phone_state">Truy cập thông tin thiết bị</string>
+	<string name="new_saf_permission_dialog_grant_permission_immediately">Tiếp theo</string>
 </resources>

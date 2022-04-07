@@ -1722,4 +1722,6 @@ Gia nhập cùng 170 triệu Mi Fan!"</string>
 	<string name="pref_permission_manage_key_storage">Truy cập ảnh, phương tiện và tệp trên thiết bị của bạn</string>
 	<string name="miuix_access_state_desc">Đã chọn</string>
 	<string name="miuix_indexer_selected">Đã chọn %s</string>
+	<string name="internal_storage">Bộ nhớ trong</string>
+	<string name="midriver_install_button_text">Cài đặt</string>
 </resources>

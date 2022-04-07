@@ -2215,4 +2215,6 @@ Chuyển vùng Mi cần kết nối Internet và truy cập thông tin vị trí
 	<string name="privacy_settings_read_phone_state">Truy cập thông tin thiết bị</string>
 	<string name="item_offical">Chính thức</string>
 	<string name="comma">Dấu phẩy</string>
+	<string name="new_saf_permission_dialog_title">Yêu cầu quyền</string>
+	<string name="new_saf_permission_dialog_grant_permission_immediately">Tiếp theo</string>
 </resources>

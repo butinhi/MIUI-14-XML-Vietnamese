@@ -94,4 +94,5 @@
 	<string name="mtrl_chip_close_icon_content_description">Xóa %1$s</string>
 	<string name="icon_content_description">Biểu tượng hộp thoại</string>
 	<string name="abc_searchview_description_clear">Xóa truy vấn</string>
+	<string name="dialog_saf_title">Yêu cầu quyền</string>
 </resources>

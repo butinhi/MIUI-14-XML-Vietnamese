@@ -1237,4 +1237,9 @@ Bất kỳ người dùng nào cũng có thể thay mặt cho tất cả ngườ
 	<string name="data_connection_3_5g">Giờ</string>
 	<string name="item_view_role_description">Tab</string>
 	<string name="wifitrackerlib_wifi_security_sae">WPA3-Cá nhân</string>
+	<string name="miuix_access_state_desc">Đã chọn</string>
+	<string name="miuix_indexer_selected">Đã chọn %s</string>
+	<string name="config_rat_4g">4G</string>
+	<string name="config_rat_3g">3G</string>
+	<string name="config_rat_2g">2G</string>
 </resources>

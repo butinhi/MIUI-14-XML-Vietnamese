@@ -3312,4 +3312,15 @@ dd/MM"</string>
 	<string name="fmt_date_day">D</string>
 	<string name="item_view_role_description">Tab</string>
 	<string name="wifitrackerlib_wifi_security_sae">WPA3-Cá nhân</string>
+	<string name="privacy_dialog_title">Riêng tư</string>
+	<string name="privacy_recent_used_title">Gần đây</string>
+	<string name="privacy_using_title">Hiện tại</string>
+	<string name="traffic_unit_byte">B</string>
+	<string name="miui_keyboard_shortcut_click">Bấm</string>
+	<string name="traffic_unit_gigabyte">GB</string>
+	<string name="miui_keyboard_shortcut_double_click">Bấm đúp</string>
+	<string name="recent_used_microphone">Ứng dụng này đã ghi âm</string>
+	<string name="qs_bill_message_unit_cny">Tệ</string>
+	<string name="traffic_unit_megabyte">MB</string>
+	<string name="traffic_unit_kilobyte">KB</string>
 </resources>

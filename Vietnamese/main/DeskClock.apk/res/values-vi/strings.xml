@@ -794,4 +794,6 @@ sau khi Sức khỏe Mi phân tích đủ dữ liệu"</string>
 	<string name="fmt_date_long_year_month">MMMM, yyyy</string>
 	<string name="fmt_time_12hour_minute_second">h:mm:ms</string>
 	<string name="selected">Đã chọn</string>
+	<string name="remark_hint">Nhập nhãn</string>
+	<string name="read_phone_state">Truy cập thông tin thiết bị</string>
 </resources>

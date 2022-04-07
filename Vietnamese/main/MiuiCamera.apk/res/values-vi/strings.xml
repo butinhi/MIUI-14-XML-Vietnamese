@@ -2504,4 +2504,13 @@ Sau khi bật chức năng "ghi nhiều camera", máy ảnh của điện thoạ
 	<string name="pref_privacy_watermark_entry">Hình mờ bảo vệ</string>
 	<string name="pref_privacy_watermark_edit_history">Lịch sử</string>
 	<string name="accessibility_privacy_watermark">Hình mờ bảo vệ</string>
+	<string name="pref_camera_track_focus_intro_goto">Bật</string>
+	<string name="miuix_access_state_desc">Đã chọn</string>
+	<string name="miuix_indexer_selected">Đã chọn %s</string>
+	<string name="beauty_lens_description_title">Ống kính</string>
+	<string name="portait_effect_entry_cold_white">Ánh sao</string>
+	<string name="live_workspace_title_play">Phát</string>
+	<string name="live_workspace_title_pause">Dừng</string>
+	<string name="live_workspace_title_pre_edit">Chọn mục để xóa</string>
+	<string name="beauty_mo_or">Mở tệp tin gốc</string>
 </resources>

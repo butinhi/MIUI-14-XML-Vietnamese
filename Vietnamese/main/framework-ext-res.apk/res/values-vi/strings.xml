@@ -526,4 +526,14 @@
 	<string name="mi">Chuyển tập tin mà không cần kết nối Internet cho bất kỳ nội dung nào sau đây:</string>
 	<string name="mix">MIX</string>
 	<string name="device_pad">Mi Pad</string>
+	<string name="ks_lock_screen">Màn hình khóa</string>
+	<string name="small_freeform_check_memory_exception_positive_message">Đóng</string>
+	<string name="sc_notification_warning_settings">Vào Cài đặt</string>
+	<string name="sc_notification_warning_restore">Khôi phục</string>
+	<string name="ks_launch_notification_center">Bảng thông báo</string>
+	<string name="small_freeform_check_memory_exception_negative_message">Hủy</string>
+	<string name="ks_back_home">Màn hình chính</string>
+	<string name="ks_launch_control_center">TT Điều khiển</string>
+	<string name="ks_launch_recents_tasks">Mở Gần đây</string>
+	<string name="dark_mode_enable">Bật</string>
 </resources>

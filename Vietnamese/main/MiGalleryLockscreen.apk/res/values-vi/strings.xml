@@ -1271,4 +1271,24 @@ d MMMM"</string>
 	<string name="i_know">Tôi biết</string>
 	<string name="header_help">Trợ giúp</string>
 	<string name="mishop_login_other">Tài khoản khác</string>
+	<string name="lks_please_reload">Tải lại</string>
+	<string name="lks_loop_icon_open_ok">Tôi biết</string>
+	<string name="lks_set_as_lks_wallpaper">Đặt làm Màn hình khóa</string>
+	<string name="lks_more">Thêm</string>
+	<string name="lks_retry">Thử lại</string>
+	<string name="lks_like">Thêm vào yêu thích</string>
+	<string name="lks_liked">Đã thêm vào yêu thích</string>
+	<string name="lks_loop_icon_close_title">Chú ý</string>
+	<string name="lks_cta_reject">Không đồng ý</string>
+	<string name="lks_cta_title">Điều khoản và Điều kiện</string>
+	<string name="lks_loop_icon_ask_title">Trình chiếu Màn hình khóa</string>
+	<string name="lks_loop_icon_close_cancle">Hủy</string>
+	<string name="lks_download">Tải xuống</string>
+	<string name="lks_cta_dont_mention">Không hiển thị lại</string>
+	<string name="lks_no_network">Không thể kết nối mạng</string>
+	<string name="lks_to_history">Lịch sử</string>
+	<string name="lks_cta_ok">Đồng ý</string>
+	<string name="lks_loop_icon_ask_ok">Bật</string>
+	<string name="lks_loop_icon_dlg_title">Trình chiếu Màn hình khóa</string>
+	<string name="lks_loop_icon_ask_cancle">Hủy</string>
 </resources>

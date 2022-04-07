@@ -358,4 +358,5 @@
 	<string name="fmt_time_12hour_minute_second">H:mm:ss</string>
 	<string name="fmt_date_numeric_day">D</string>
 	<string name="fmt_date_day">D</string>
+	<string name="multi_window_cvw_title">Chế độ lái xe MIUI</string>
 </resources>

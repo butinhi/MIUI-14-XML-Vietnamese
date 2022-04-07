@@ -1098,4 +1098,10 @@ Dữ liệu chưa được nhập phải được nhập lại."</string>
 	<string name="permission_write_calllog">Chỉnh sửa lịch sử cuộc gọi:</string>
 	<string name="permission_read_apps">nhận thông tin về ứng dụng đã cài đặt trên thiết bị</string>
 	<string name="enable_local_backup_tips_global">Bật tính năng này để có thể lưu bản sao lưu trên thiết bị này và chép vào máy tính. Bật ngay?</string>
+	<string name="private_policy_text">Chính sách Riêng tư</string>
+	<string name="agree_button">Đồng ý</string>
+	<string name="permission_management_entrance">Quản lý quyền truy cập</string>
+	<string name="user_know_button_text">Tôi biết</string>
+	<string name="permission_read_storage_global">Lưu trữ</string>
+	<string name="grant_all_permission_title">Yêu cầu quyền</string>
 </resources>

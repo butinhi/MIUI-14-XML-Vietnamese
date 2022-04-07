@@ -1899,4 +1899,17 @@ Vui lòng xác nhận xem mật khẩu ứng dụng đã được bật chưa, n
 	<string name="fmt_date_numeric_year">yyyy</string>
 	<string name="fmt_weekday_date_time_timezone">W, D T z</string>
 	<string name="fmt_time_12hour_minute_second">h:mm:ms</string>
+	<string name="default_signature_phone">Đã gửi từ điện thoại Mi của tôi</string>
+	<string name="compose_encrypt_lock_description">Mã hóa</string>
+	<string name="mi_slide_menu">Sidebar</string>
+	<string name="shrink">Thu gọn</string>
+	<string name="unselected">Không chọn</string>
+	<string name="invalid_recipient_dialog_title">Không thể gửi</string>
+	<string name="compose_encrypt_unlock_description">Giải mã</string>
+	<string name="miuix_access_state_desc">Đã chọn</string>
+	<string name="miuix_indexer_selected">Đã chọn %s</string>
+	<string name="error_message_respond_revert_25">Kiểm tra kết nối mạng và thử lại.</string>
+	<string name="error_message_respond_revert_06">Mật khẩu bạn nhập không chính xác.</string>
+	<string name="folder_list_switch_account">Chuyển</string>
+	<string name="selected">Đã chọn</string>
 </resources>

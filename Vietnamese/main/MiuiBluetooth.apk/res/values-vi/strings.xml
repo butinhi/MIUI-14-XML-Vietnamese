@@ -1183,4 +1183,15 @@ Giao thức truyền tải băng thông cao."</string>
 	<string name="wifitrackerlib_wifi_security_sae">WPA3-Cá nhân</string>
 	<string name="fmt_date_numeric_day">D</string>
 	<string name="fmt_date_day">D</string>
+	<string name="confignet_cancel">Hủy</string>
+	<string name="config_net_not_my_device">Hủy</string>
+	<string name="bluetooth_connected_active">Đã kết nối %1$s</string>
+	<string name="bt_plugin_update_done_dialog_exit">Áp dụng</string>
+	<string name="bt_plugin_update_dialog_cancle">Không phải bây giờ</string>
+	<string name="fmt_time_minute">"m 'phút'"</string>
+	<string name="bt_plugin_update_done_toast">Đã cập nhật thành công</string>
+	<string name="bt_plugin_update_dialog_update">Cập nhật</string>
+	<string name="confignet_app_download">Cài đặt</string>
+	<string name="config_net_device_connect">Kết nối</string>
+	<string name="config_net_device_find">Kết nối thiết bị</string>
 </resources>

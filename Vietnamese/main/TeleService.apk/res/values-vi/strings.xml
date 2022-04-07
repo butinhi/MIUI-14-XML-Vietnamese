@@ -3673,4 +3673,13 @@ Bất cứ người dùng nào cũng có thể cập nhật ứng dụng cho ng�
 	<string name="general_settings_category">Chung</string>
 	<string name="accessibility_ethernet_connected">Đã kết nối ethernet.</string>
 	<string name="data_connection_3_5g">Giờ</string>
+	<string name="HIPS_Perm_Read_Contact_Desc">Truy cập vào danh bạ của bạn</string>
+	<string name="HIPS_Perm_External_Storage">Lưu trữ</string>
+	<string name="miuix_access_state_desc">Đã chọn</string>
+	<string name="miuix_indexer_selected">Đã chọn %s</string>
+	<string name="HIPS_Perm_External_Storage_Desc">Truy cập và lưu tệp tin và ảnh trên thiết bị của bạn:</string>
+	<string name="HIPS_Perm_Read_Contact">Liên hệ</string>
+	<string name="config_rat_4g">4G</string>
+	<string name="config_rat_3g">3G</string>
+	<string name="config_rat_2g">2G</string>
 </resources>

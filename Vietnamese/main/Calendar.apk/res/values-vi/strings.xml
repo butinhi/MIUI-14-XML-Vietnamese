@@ -1761,4 +1761,10 @@ Bạn cũng có thể thêm nhắc nhở để không bỏ lỡ những điều 
 	<string name="custom_year_format">yyyy</string>
 	<string name="talk_back_tab_switch_language">Chọn ngôn ngữ Lịch</string>
 	<string name="custom_dd_format">D</string>
+	<string name="in_progress">Đang thực hiện</string>
+	<string name="widget_spec_agenda_birth_today">Hôm nay</string>
+	<string name="count_down_date_view">Đếm ngược</string>
+	<string name="widget_normal_weekN">Tuần %d</string>
+	<string name="widget_normal_new_event">Thêm sự kiện</string>
+	<string name="date_view">Ngày</string>
 </resources>

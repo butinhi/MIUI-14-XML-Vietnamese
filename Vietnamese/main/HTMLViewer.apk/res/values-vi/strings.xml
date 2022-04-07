@@ -357,4 +357,6 @@
 	<string name="error_continue_via_browser">Chi tiết</string>
 	<string name="fmt_date_day">D</string>
 	<string name="action_use_network">Sử dụng</string>
+	<string name="miuix_access_state_desc">Đã chọn</string>
+	<string name="miuix_indexer_selected">Đã chọn %s</string>
 </resources>

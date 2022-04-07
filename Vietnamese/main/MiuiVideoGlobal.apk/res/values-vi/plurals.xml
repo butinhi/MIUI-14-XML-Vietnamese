@@ -151,4 +151,7 @@
 	<plurals name="long_video_season">
 		<item quantity="other">%d phần</item>
 	</plurals>
+	<plurals name="mtrl_badge_content_description">
+		<item quantity="other">%d thông báo mới</item>
+	</plurals>
 </resources>

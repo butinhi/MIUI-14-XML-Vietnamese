@@ -689,4 +689,7 @@ Bạn cần đọc và đồng ý với Chính sách Riêng tư Mint Keyboard tr
 	<string name="service_name_bluetooth">Chế độ ngủ cơ bản</string>
 	<string name="privacy_title">Thông báo người dùng</string>
 	<string name="withdraw_consent">Đồng ý Chính sách Riêng tư</string>
+	<string name="sim_card_dial_card">SIM %d để gọi</string>
+	<string name="sim_card_network_card">SIM dữ liệu %d</string>
+	<string name="enable_or_disable_bluetooth">Bật/tắt Bluetooth</string>
 </resources>

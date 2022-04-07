@@ -428,4 +428,6 @@ Chạm %2$s  để bắt đầu tải xuống nội dung này vào lần tiếp 
 	<string name="fmt_time_12hour_minute_pm">h:mm a</string>
 	<string name="fmt_weekday_date_time_timezone">W, D T z</string>
 	<string name="fmt_time_12hour_minute_second">h:mm:ms</string>
+	<string name="miuix_access_state_desc">Đã chọn</string>
+	<string name="miuix_indexer_selected">Đã chọn %s</string>
 </resources>

@@ -1132,4 +1132,10 @@ Gửi mã này cho người giám sát."</string>
 	<string name="mibi_auth_manage_perm_grant">Cho phép</string>
 	<string name="mibi_privacy_manage_user_license">Thỏa thuận Người dùng</string>
 	<string name="mibi_auth_manage_perm_ungrant">Bật</string>
+	<string name="mibi_review_model_icon_6">Trò chơi</string>
+	<string name="mibi_review_model_icon_5">Nhạc</string>
+	<string name="mibi_review_model_icon_1">Chủ đề</string>
+	<string name="mibi_review_model_icon_4">Video</string>
+	<string name="mibi_btn_agree_continue">Đồng ý và tiếp tục</string>
+	<string name="mibi_review_model_icon_3">Đã đọc</string>
 </resources>

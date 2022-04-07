@@ -1470,4 +1470,16 @@ Thông tin vị trí có thể không được báo cáo khi kết nối mạng 
 	<string name="update_dialog_update_button_text">Cập nhật</string>
 	<string name="update_dialog_check_button_text">Kiểm tra cập nhật</string>
 	<string name="alert_sync_merge_dialog_cancel">Hủy</string>
+	<string name="privacy_runtime_perm_calendar_desc">Để đồng bộ sự kiện lịch</string>
+	<string name="accept_all_permission_title">Yêu cầu quyền</string>
+	<string name="xiaomi_market_sdk_update_dialog_ok">Cập nhật</string>
+	<string name="privacy_runtime_perm_external_storage_title">Lưu trữ</string>
+	<string name="permission_status_allow">Cho phép</string>
+	<string name="xiaomi_market_sdk_update_dialog_title">Đã có phiên bản mới</string>
+	<string name="permission_status_deny">Thẻ SIM của bạn không cho phép kết nối với mạng này.</string>
+	<string name="privacy_runtime_perm_sms_title">Truy cập tin nhắn</string>
+	<string name="accept_all_positive">Chọn</string>
+	<string name="accept_use_permissions">Từ chối</string>
+	<string name="xiaomi_market_sdk_update_dialog_cancel">Không phải bây giờ</string>
+	<string name="privacy_runtime_perm_phone_state_title">Truy cập thông tin thiết bị</string>
 </resources>

@@ -1680,4 +1680,8 @@ Bạn sẽ thấy ảnh mới mỗi giờ."</string>
 	<string name="purchased">Đặt hàng</string>
 	<string name="fold_restore_default_theme_dialog_disagree">Không, cảm ơn</string>
 	<string name="fold_restore_default_success">Khôi phục thành công</string>
+	<string name="repeat_exchange_dialog_title">Thử lại</string>
+	<string name="exchange_code_dialog_title">Chú ý</string>
+	<string name="repeat_exchange_dialog_positive_btn">Kiểm tra</string>
+	<string name="application_notify_title">Chú ý</string>
 </resources>

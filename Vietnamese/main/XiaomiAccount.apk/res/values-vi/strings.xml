@@ -1103,4 +1103,11 @@ Hãy chắc chắn bạn nhớ tất cả câu trả lời."</string>
 	<string name="cloud_service_status_storage_not_enough">Không đủ dung lượng</string>
 	<string name="cloud_service_status_cloud_not_open">TẮT</string>
 	<string name="privacy_policy_reject_confirm_title">Chú ý</string>
+	<string name="system_error_info">Hệ thống đang bận. Chờ một hoặc hai phút và thử lại.</string>
+	<string name="area_code_no_search_result">Không tìm thấy kết quả</string>
+	<string name="access_denied_info">Quá nhiều lần thử. Chờ một vài phút rồi thử lại.</string>
+	<string name="progressbar_title">Kiểm tra các vấn đề bảo mật…</string>
+	<string name="network_timeout_info">Lỗi kết nối mạng, vui lòng thử lại</string>
+	<string name="unknown_error_info">Lỗi không xác định</string>
+	<string name="network_error_info">Lỗi mạng đã xảy ra. Kiểm tra cài đặt mạng của bạn và thử lại.</string>
 </resources>

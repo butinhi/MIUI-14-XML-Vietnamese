@@ -1631,4 +1631,11 @@ Tắt Chế độ máy bay trước."</string>
 	<string name="service_abandon_retry_deny">Quay lại</string>
 	<string name="miuix_indexer_selected">Đã chọn %s</string>
 	<string name="service_abandon_retry_setting">Cài đặt</string>
+	<string name="system_permission_declare_smart_message">Chào mừng tới Tin nhắn Thông minh!</string>
+	<string name="mms_mx_privacy_policy">Chính sách Riêng tư Tin nhắn Mi</string>
+	<string name="mms_user_agreement">Thỏa thuận Người dùng</string>
+	<string name="mms_smart_msg_privacy_policy">Chính sách Riêng tư Tin nhắn Thông minh</string>
+	<string name="system_permission_declare_mi_message">Chào mừng tới Tin nhắn Mi!</string>
+	<string name="system_permission_declare_user_agree">Đồng ý</string>
+	<string name="title_not_show_read_mms_perm_req">Yêu cầu quyền</string>
 </resources>
