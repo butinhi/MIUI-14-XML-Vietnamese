@@ -5816,4 +5816,5 @@ Ghi lại các trình tự và sử dụng chúng bất cứ lúc nào!"</string
 	<string name="superpower_notification_new_title_new">Pin còn ít hơn %s</string>
 	<string name="setting_back_sound_loading_msg">Đang làm mới</string>
 	<string name="gtb_timer">Hẹn giờ</string>
+	<string name="privacy_revoke_category_title">Rút lại sự đồng ý và hủy bỏ dịch vụ</string>
 </resources>

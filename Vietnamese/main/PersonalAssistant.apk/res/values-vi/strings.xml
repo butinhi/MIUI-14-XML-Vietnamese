@@ -2926,4 +2926,9 @@ Vui lòng gửi mã này cho nhân viên kỹ thuật."</string>
 	<string name="pa_express_state_abandoned">Bị bỏ rơi</string>
 	<string name="pa_sports_cancel_shown">Xóa khỏi hiển thị</string>
 	<string name="pa_sports_widget_empty_basketball">Bóng rổ</string>
+	<string name="pa_accessibility_picker_widget_app_group_item_add_to_third_2">%s đã chọn.</string>
+	<string name="pa_accessibility_picker_widget_app_group_item_add_to_minus_desktop_2">%s đã chọn.</string>
+	<string name="pa_express_manual_select_company_toast">Chọn dịch vụ chuyển phát nhanh</string>
+	<string name="pa_stock_widget_name">Tồn kho</string>
+	<string name="pa_express_item_menu_signed">Đã giao</string>
 </resources>

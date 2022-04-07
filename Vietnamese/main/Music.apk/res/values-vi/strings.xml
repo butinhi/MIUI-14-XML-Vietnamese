@@ -2046,4 +2046,7 @@ Nếu bạn không đồng ý sử dụng các dịch vụ nói trên, bạn s�
 	<string name="offline_opt_in_decline">Không, cảm ơn</string>
 	<string name="autoplay_is_off">Tự động phát đã tắt</string>
 	<string name="autoplay_is_on">Tự động phát được bật</string>
+	<string name="imported">Đã nhập</string>
+	<string name="free">Miễn phí</string>
+	<string name="downloaded">Hoàn tất</string>
 </resources>

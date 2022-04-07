@@ -2217,4 +2217,5 @@ Chuyển vùng Mi cần kết nối Internet và truy cập thông tin vị trí
 	<string name="comma">Dấu phẩy</string>
 	<string name="new_saf_permission_dialog_title">Yêu cầu quyền</string>
 	<string name="new_saf_permission_dialog_grant_permission_immediately">Tiếp theo</string>
+	<string name="bh_withdrawal_of_consent_and_cancellation_of_services">Rút lại sự đồng ý và hủy bỏ dịch vụ</string>
 </resources>

@@ -2513,4 +2513,5 @@ Sau khi bật chức năng "ghi nhiều camera", máy ảnh của điện thoạ
 	<string name="live_workspace_title_pause">Dừng</string>
 	<string name="live_workspace_title_pre_edit">Chọn mục để xóa</string>
 	<string name="beauty_mo_or">Mở tệp tin gốc</string>
+	<string name="mode_edit_moving">Đã chuyển tới hàng %1$d, vị trí %2$d</string>
 </resources>

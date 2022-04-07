@@ -587,4 +587,6 @@ Việc nghe ở mức âm lượng cao trong thời gian dài có thể gây t�
 	<string name="quick_settings_wifi_detail_dual_wifi_switching_prompt">Chuyển giữa các mạng</string>
 	<string name="quick_settings_powermode_label">Chế độ hiệu suất</string>
 	<string name="quick_settings_bluetooth_detail_empty_text">Không có thiết bị kết nối khả dụng</string>
+	<string name="miplay_device_full_name">"%2$s của %1$s"</string>
+	<string name="miplay_song_title_empty">Không có mục nào ở đây</string>
 </resources>
