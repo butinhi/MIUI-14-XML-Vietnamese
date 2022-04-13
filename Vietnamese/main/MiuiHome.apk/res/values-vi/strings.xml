@@ -390,7 +390,7 @@
 	<string name="privacy_thumbnail_blur_summary">Làm mờ xem trước ứng dụng trong Gần đây</string>
 	<string name="privacy_thumbnail_blur_title">Làm mờ xem trước ứng dụng</string>
 	<string name="activity_not_unlocked">Chờ cho đến khi thiết bị được khởi động lại hoàn toàn trước khi mở ứng dụng</string>
-    <string name="system_shortcuts_more_operation">Thông tin ứng dụng</string>
+    <string name="system_shortcuts_more_operation">Thông tin</string>
 	<string name="default_folder_title_meitu">Ứng dụng Meitu</string>
 	<string name="shake_to_align_icons">Lắc thiết bị để sắp xếp biểu tượng</string>
 	<string name="shake_to_align_icons_summary">Lắc thiết bị khi đang trong chế độ sửa để tự động xếp biểu tượng vào ô trống</string>
@@ -505,7 +505,7 @@
 	<string name="recents_title_app_manager">Quản lý ứng dụng</string>
 	<string name="please_slide_agian">Hãy trượt lại</string>
 	<string name="memory_clear_result_mega">Đã xóa %1$sMB</string>
-	<string name="recents_app_info_button_label">Thông tin ứng dụng</string>
+	<string name="recents_app_info_button_label">Thông tin</string>
 	<string name="recents_title_security_scan">Quét bảo mật</string>
 	<string name="recent_menu_item_multi_window">Chia</string>
 	<string name="recent_menu_item_unlock">Mở khóa</string>
