@@ -139,7 +139,6 @@
     <string name="edit_event_no_reminder_value">Không nhắc nhở</string>
     <string name="edit_event_reminder_3_days_before">Và nhắc nhở trước %d ngày</string>
     <string name="edit_event_reminder_summary">Lúc %1$s cùng ngày</string>
-    <string name="edit_event_reminder_summary_3_days_before">Trước %2$d ngày và vào ngày đó lúc %1$s</string>
     <string name="edit_event_reminder_text">Lúc %2$s ngày %1$s</string>
     <string name="edit_event_reminder_time">Thời gian nhắc nhở</string>
     <string name="edit_event_reminder_with_another_day_text">%1$s, vào lúc %3$s %2$s</string>
@@ -1767,4 +1766,5 @@ Bạn cũng có thể thêm nhắc nhở để không bỏ lỡ những điều 
 	<string name="widget_normal_weekN">Tuần %d</string>
 	<string name="widget_normal_new_event">Thêm sự kiện</string>
 	<string name="date_view">Ngày</string>
+        <string name="edit_event_reminder_summary_3_days_before">Trước 3 ngày và vào ngày đó lúc %1$s</string>
 </resources>
