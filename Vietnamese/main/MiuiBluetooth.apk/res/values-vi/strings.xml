@@ -1194,4 +1194,6 @@ Giao thức truyền tải băng thông cao."</string>
 	<string name="confignet_app_download">Cài đặt</string>
 	<string name="config_net_device_connect">Kết nối</string>
 	<string name="config_net_device_find">Kết nối thiết bị</string>
+	<string name="headset_incall_answer">Trả lời</string>
+	<string name="headset_incall_reject">Hủy</string>
 </resources>

@@ -1031,4 +1031,7 @@ Cho phép Ghi chú ghi âm."</string>
 	<string name="setting_note_list_layout_title">Bố cục</string>
 	<string name="setting_big_screen_layout_columns">Sidebar</string>
 	<string name="setting_layout">Bố cục</string>
+	<string name="menu_edit">Sửa</string>
+	<string name="note_module_name">Ghi chú </string>
+	<string name="setting_cloud_service">Dịch vụ Xiaomi Cloud</string>
 </resources>

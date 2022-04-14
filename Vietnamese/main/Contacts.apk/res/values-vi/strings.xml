@@ -2218,4 +2218,5 @@ Chuyển vùng Mi cần kết nối Internet và truy cập thông tin vị trí
 	<string name="new_saf_permission_dialog_title">Yêu cầu quyền</string>
 	<string name="new_saf_permission_dialog_grant_permission_immediately">Tiếp theo</string>
 	<string name="bh_withdrawal_of_consent_and_cancellation_of_services">Rút lại sự đồng ý và hủy bỏ dịch vụ</string>
+	<string name="bh_open_carrier_services_short">Dịch vụ Nhà mạng Mi</string>
 </resources>

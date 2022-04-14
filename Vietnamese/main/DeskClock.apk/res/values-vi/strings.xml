@@ -796,4 +796,8 @@ sau khi Sức khỏe Mi phân tích đủ dữ liệu"</string>
 	<string name="selected">Đã chọn</string>
 	<string name="remark_hint">Nhập nhãn</string>
 	<string name="read_phone_state">Truy cập thông tin thiết bị</string>
+	<string name="add_timer_dialog_title">Thêm hẹn giờ</string>
+	<string name="timer_alert_type_no">Không</string>
+	<string name="timer_item_edit">Sửa</string>
+	<string name="timer_desc_use_sleep">Ngủ ngắn</string>
 </resources>
