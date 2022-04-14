@@ -2931,5 +2931,6 @@ Vui lòng gửi mã này cho nhân viên kỹ thuật."</string>
 	<string name="pa_express_manual_select_company_toast">Chọn dịch vụ chuyển phát nhanh</string>
 	<string name="pa_stock_widget_name">Tồn kho</string>
 	<string name="pa_express_item_menu_signed">Đã giao</string>
-    <string name="pa_home_head_time_format">%2$s | %1$s</string>
+        <string name="pa_home_head_time_format">%2$s | %1$s</string>
+        <string name="pa_picker_home_search_hint">Tìm kiếm các widgets</string>
 </resources>
