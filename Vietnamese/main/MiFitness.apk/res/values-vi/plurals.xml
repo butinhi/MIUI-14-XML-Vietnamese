@@ -1,67 +1,493 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
-	<plurals name="abbrev_a_hour_ago">
-		<item quantity="other">1 giờ trước</item>
-	</plurals>
-	<plurals name="abbrev_half_hour_ago">
-		<item quantity="other">Nửa giờ trước</item>
-	</plurals>
-	<plurals name="less_than_one_minute_ago">
-		<item quantity="other">Vừa xong</item>
-	</plurals>
-	<plurals name="abbrev_in_a_hour">
-		<item quantity="other">Trong 1 giờ</item>
-	</plurals>
-	<plurals name="in_a_hour">
-		<item quantity="other">Trong 1 giờ</item>
-	</plurals>
-	<plurals name="num_minutes_ago">
-		<item quantity="other">%d phút trước</item>
-		<item quantity="one">1 phút trước</item>
-	</plurals>
-	<plurals name="in_half_hour">
-		<item quantity="other">Trong nửa giờ</item>
-	</plurals>
-	<plurals name="exo_controls_rewind_by_amount_description">
-		<item quantity="other">Tua lại %d giây</item>
-	</plurals>
-	<plurals name="half_hour_ago">
-		<item quantity="other">Nửa giờ trước</item>
-	</plurals>
-	<plurals name="exo_controls_fastforward_by_amount_description">
-		<item quantity="other">Tua đi %d giây</item>
-	</plurals>
-	<plurals name="a_hour_ago">
-		<item quantity="other">1 giờ trước</item>
-	</plurals>
-	<plurals name="abbrev_in_num_minutes">
-		<item quantity="other">trong %d phút</item>
-		<item quantity="one">trong 1 phút</item>
-	</plurals>
-	<plurals name="abbrev_num_minutes_ago">
-		<item quantity="other">%d phút trước</item>
-		<item quantity="one">1 phút trước</item>
-	</plurals>
-	<plurals name="abbrev_less_than_one_minute_ago">
-		<item quantity="other">Vừa xong</item>
-	</plurals>
-	<plurals name="mtrl_badge_content_description">
-		<item quantity="other">%d thông báo mới</item>
-	</plurals>
-	<plurals name="in_less_than_one_minute">
-		<item quantity="other">Tức thì</item>
-	</plurals>
-	<plurals name="abbrev_in_half_hour">
-		<item quantity="other">Trong nửa giờ</item>
-	</plurals>
-	<plurals name="abbrev_in_less_than_one_minute">
-		<item quantity="other">Tức thì</item>
-	</plurals>
-	<plurals name="in_num_minutes">
-		<item quantity="other">trong %d phút</item>
-		<item quantity="one">trong 1 phút</item>
-	</plurals>
-	<plurals name="miuix_appcompat_items_selected">
-		<item quantity="other">%d mục đã chọn</item>
-	</plurals>
+    <plurals name="a_hour_ago">
+        <item quantity="other">1 giờ trước</item>
+    </plurals>
+    <plurals name="abbrev_a_hour_ago">
+        <item quantity="other">1 giờ trước</item>
+    </plurals>
+    <plurals name="abbrev_half_hour_ago">
+        <item quantity="other">Nửa giờ trước</item>
+    </plurals>
+    <plurals name="abbrev_in_a_hour">
+        <item quantity="other">Trong 1 giờ</item>
+    </plurals>
+    <plurals name="abbrev_in_half_hour">
+        <item quantity="other">Trong nửa giờ</item>
+    </plurals>
+    <plurals name="abbrev_in_less_than_one_minute">
+        <item quantity="other">Tức thì</item>
+    </plurals>
+    <plurals name="abbrev_in_num_minutes">
+        <item quantity="other">sau %d phút</item>
+    </plurals>
+    <plurals name="abbrev_less_than_one_minute_ago">
+        <item quantity="other">Vừa xong</item>
+    </plurals>
+    <plurals name="abbrev_num_minutes_ago">
+        <item quantity="other">%d phút trước</item>
+    </plurals>
+    <plurals name="common_selected_num">
+        <item quantity="other">Đã chọn %1$d mục</item>
+    </plurals>
+    <plurals name="common_share_unit_kilometer_desc">
+        <item quantity="other">%1$s km</item>
+    </plurals>
+    <plurals name="common_share_unit_meter_desc">
+        <item quantity="other">%1$s m</item>
+    </plurals>
+    <plurals name="common_unit_calorie">
+        <item quantity="other">" kcal"</item>
+    </plurals>
+    <plurals name="common_unit_calorie_desc">
+        <item quantity="other">%1$d kcal</item>
+    </plurals>
+    <plurals name="common_unit_day_desc">
+        <item quantity="other">%1$d ngày</item>
+    </plurals>
+    <plurals name="common_unit_heart_rate">
+        <item quantity="other">" BPM"</item>
+    </plurals>
+    <plurals name="common_unit_heart_rate_desc">
+        <item quantity="other">%1$d BPM</item>
+    </plurals>
+    <plurals name="common_unit_heart_rate_desc2">
+        <item quantity="other">%1$d BPM</item>
+    </plurals>
+    <plurals name="common_unit_kilometer">
+        <item quantity="other">km</item>
+    </plurals>
+    <plurals name="common_unit_kilometer_desc_new">
+        <item quantity="other">%1$s km</item>
+    </plurals>
+    <plurals name="common_unit_meter_desc_new">
+        <item quantity="other">%1$s m</item>
+    </plurals>
+    <plurals name="common_unit_step">
+        <item quantity="other">" bước"</item>
+    </plurals>
+    <plurals name="common_unit_step_desc">
+        <item quantity="other">%1$d bước</item>
+    </plurals>
+    <plurals name="common_unit_time">
+        <item quantity="other">lần</item>
+    </plurals>
+    <plurals name="common_unit_time_desc">
+        <item quantity="other">%1$d giờ</item>
+    </plurals>
+    <plurals name="common_unit_time_rope_skipping_desc">
+        <item quantity="other">%1$d lần nhảy</item>
+    </plurals>
+    <plurals name="common_unit_time_rowing_desc">
+        <item quantity="other">%1$d sải chèo</item>
+    </plurals>
+    <plurals name="course_content_segment">
+        <item quantity="other">%d phiên</item>
+    </plurals>
+    <plurals name="course_practised_num">
+        <item quantity="other">Tập luyện: %d</item>
+    </plurals>
+    <plurals name="course_start_times">
+        <item quantity="other">Tập luyện: %d</item>
+    </plurals>
+    <plurals name="day_in_simplify">
+        <item quantity="other">" %1$d ngày"</item>
+    </plurals>
+    <plurals name="device_last_charged_time">
+        <item quantity="other">Lần sạc trước là %1$d ngày trước</item>
+    </plurals>
+    <plurals name="device_settings_alarm_add_max_expression_plurals">
+        <item quantity="other">Bạn có thể thêm đến %1$s báo thức</item>
+    </plurals>
+    <plurals name="device_settings_alarm_clocks">
+        <item quantity="other">%1$d báo thức</item>
+    </plurals>
+    <plurals name="device_settings_common_items">
+        <item quantity="other">%1$d sự kiện</item>
+    </plurals>
+    <plurals name="device_settings_common_minute">
+        <item quantity="other">%1$d phút</item>
+    </plurals>
+    <plurals name="device_settings_common_unit_heart_rate_desc">
+        <item quantity="other">%1$d BPM</item>
+    </plurals>
+    <plurals name="device_settings_event_content_max_length">
+        <item quantity="other">Bạn có thể nhập đến %1$d ký tự</item>
+    </plurals>
+    <plurals name="device_settings_event_minder_add_max_expression">
+        <item quantity="other">Bạn có thể thêm đến %1$d sự kiện</item>
+    </plurals>
+    <plurals name="device_settings_heart_rate_monitor_freq">
+        <item quantity="other">%1$d phút</item>
+    </plurals>
+    <plurals name="device_settings_heart_rate_warning_freq">
+        <item quantity="other">%1$d BPM</item>
+    </plurals>
+    <plurals name="device_settings_huami_shortcut_quantity_limit_tips">
+        <item quantity="other">Bạn có thể thêm tối đa %1$d tiện ích</item>
+    </plurals>
+    <plurals name="device_settings_huami_sporttype_quantity_limit_tips">
+        <item quantity="other">Bạn có thể thêm đến %1$d tập luyện</item>
+    </plurals>
+    <plurals name="device_settings_hypoxemia_notice_threshold_percent">
+        <item quantity="other">%1$d%%</item>
+    </plurals>
+    <plurals name="device_settings_spo2_freq_freq">
+        <item quantity="other">%1$d phút</item>
+    </plurals>
+    <plurals name="device_settings_unit_heart_rate">
+        <item quantity="other">BPM</item>
+    </plurals>
+    <plurals name="device_settings_widget_manager_max_toast">
+        <item quantity="other">Bạn có thể thêm đến %d tiện ích</item>
+    </plurals>
+    <plurals name="device_settings_world_clock_select_number_v2">
+        <item quantity="other">Đã chọn %1$d mục</item>
+    </plurals>
+    <plurals name="device_tab_device_size">
+        <item quantity="other">(%1$d)</item>
+    </plurals>
+    <plurals name="exo_controls_fastforward_by_amount_description">
+        <item quantity="other">Tua nhanh %d giây</item>
+        <item quantity="one">Tua nhanh %d giây</item>
+    </plurals>
+    <plurals name="exo_controls_rewind_by_amount_description">
+        <item quantity="other">Tua lại %d giây</item>
+        <item quantity="one">Tua lại %d giây</item>
+    </plurals>
+    <plurals name="face_common_img_num">
+        <item quantity="other">%1$d</item>
+    </plurals>
+    <plurals name="half_hour_ago">
+        <item quantity="other">Nửa giờ trước</item>
+    </plurals>
+    <plurals name="health_common_minute_unit">
+        <item quantity="other">%1$d phút</item>
+    </plurals>
+    <plurals name="health_common_unit_calorie_desc">
+        <item quantity="other">%1$d kcal</item>
+    </plurals>
+    <plurals name="health_common_unit_step">
+        <item quantity="other">số bước</item>
+    </plurals>
+    <plurals name="health_common_unit_step_desc">
+        <item quantity="other">%1$d bước</item>
+    </plurals>
+    <plurals name="health_common_unit_step_desc2">
+        <item quantity="other">%1$d</item>
+    </plurals>
+    <plurals name="health_curse_cycle_days">
+        <item quantity="other">Độ dài chu kỳ: %1$d ngày</item>
+    </plurals>
+    <plurals name="health_curse_danger_will">
+        <item quantity="other">Kỳ dễ thụ thai sau %d ngày</item>
+    </plurals>
+    <plurals name="health_curse_danger_will_before">
+        <item quantity="other">Kỳ dễ thụ thai sau %d ngày</item>
+    </plurals>
+    <plurals name="health_curse_day">
+        <item quantity="other">ngày</item>
+    </plurals>
+    <plurals name="health_curse_days_bracket">
+        <item quantity="other">(%d ngày)</item>
+    </plurals>
+    <plurals name="health_curse_days_left_future">
+        <item quantity="other">%d ngày cho đến khi kỳ kinh nguyệt kết thúc</item>
+    </plurals>
+    <plurals name="health_curse_days_left_pre">
+        <item quantity="other">%d ngày cho đến khi kỳ kinh nguyệt kết thúc</item>
+    </plurals>
+    <plurals name="health_curse_in_days">
+        <item quantity="other">Kỳ kinh nguyệt: %1$d ngày</item>
+    </plurals>
+    <plurals name="health_curse_in_future">
+        <item quantity="other">Kỳ kinh nguyệt ngày %d</item>
+    </plurals>
+    <plurals name="health_curse_in_pre">
+        <item quantity="other">Kỳ kinh nguyệt ngày %d</item>
+    </plurals>
+    <plurals name="health_curse_in_start_before">
+        <item quantity="other">Kỳ kinh nguyệt sau %d ngày</item>
+    </plurals>
+    <plurals name="health_curse_in_start_will">
+        <item quantity="other">Kỳ kinh nguyệt sau %d ngày</item>
+    </plurals>
+    <plurals name="health_curse_ovum_start">
+        <item quantity="other">Rụng trứng sau %d ngày</item>
+    </plurals>
+    <plurals name="health_curse_period">
+        <item quantity="other">Chu kỳ %d-ngày</item>
+    </plurals>
+    <plurals name="health_hearing_noise_count">
+        <item quantity="other">%1$d</item>
+    </plurals>
+    <plurals name="health_mh_home_title">
+        <item quantity="other">Vận động %1$d phút</item>
+    </plurals>
+    <plurals name="health_sleep_breath_quality_value">
+        <item quantity="other">Điểm hít thở: %1$d</item>
+    </plurals>
+    <plurals name="health_sleep_dream_talk_count_unit">
+        <item quantity="other"></item>
+        <item quantity="one"></item>
+    </plurals>
+    <plurals name="health_sleep_snore_decibel_unit">
+        <item quantity="other">dB</item>
+    </plurals>
+    <plurals name="health_spo2_home_value">
+        <item quantity="other">Oxy trong máu %1$d%%</item>
+    </plurals>
+    <plurals name="health_stand_count_desc">
+        <item quantity="other">%1$d giờ</item>
+    </plurals>
+    <plurals name="health_stand_count_desc_no_value">
+        <item quantity="other">giờ</item>
+    </plurals>
+    <plurals name="health_stand_unit_time">
+        <item quantity="other">giờ</item>
+    </plurals>
+    <plurals name="health_target_calories_unit">
+        <item quantity="other">%1$d kcal</item>
+    </plurals>
+    <plurals name="health_target_mhs_unit">
+        <item quantity="other">%1$d phút</item>
+    </plurals>
+    <plurals name="health_target_stand_times_unit">
+        <item quantity="other">%1$d giờ</item>
+    </plurals>
+    <plurals name="health_target_step_unit">
+        <item quantity="other">%1$d</item>
+    </plurals>
+    <plurals name="health_unit_spo2_percent_desc">
+        <item quantity="other">%1$d%%</item>
+    </plurals>
+    <plurals name="health_weight_compared_with_more_days_gain">
+        <item quantity="other">%1$s kg | + %3$s kg kể từ %2$d ngày trước</item>
+    </plurals>
+    <plurals name="health_weight_compared_with_more_days_loss">
+        <item quantity="other">%1$s kg | - %3$s kg kể từ %2$d ngày trước</item>
+    </plurals>
+    <plurals name="health_weight_home_title">
+        <item quantity="other">Cân nặng %s kg</item>
+    </plurals>
+    <plurals name="heartrate_fp_detect_time_remainder">
+        <item quantity="other">Còn lại %1$d giây</item>
+    </plurals>
+    <plurals name="hour_in_simplify">
+        <item quantity="other">%1$d giờ</item>
+    </plurals>
+    <plurals name="in_a_hour">
+        <item quantity="other">Trong 1 giờ</item>
+    </plurals>
+    <plurals name="in_half_hour">
+        <item quantity="other">Trong nửa giờ</item>
+    </plurals>
+    <plurals name="in_less_than_one_minute">
+        <item quantity="other">Tức thì</item>
+    </plurals>
+    <plurals name="in_num_minutes">
+        <item quantity="other">trong %d phút</item>
+    </plurals>
+    <plurals name="less_than_one_minute_ago">
+        <item quantity="other">Vừa mới</item>
+    </plurals>
+    <plurals name="medal_count">
+        <item quantity="other">Tổng: %1$d | Gần đây: %2$d</item>
+    </plurals>
+    <plurals name="min_in_simplify">
+        <item quantity="other">%1$d phút</item>
+    </plurals>
+    <plurals name="min_in_simplify_2">
+        <item quantity="other">%1$d phút</item>
+    </plurals>
+    <plurals name="miuix_appcompat_items_selected">
+        <item quantity="other">Đã chọn %d mục</item>
+    </plurals>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="other">%d thông báo mới</item>
+        <item quantity="one">%d thông báo mới</item>
+    </plurals>
+    <plurals name="nfc_common_card_num">
+        <item quantity="other">%1$d</item>
+    </plurals>
+    <plurals name="nfc_common_unit_word_des">
+        <item quantity="other">Bạn có thể nhập đến %1$d ký tự</item>
+    </plurals>
+    <plurals name="nfc_issue_card_hold_on_">
+        <item quantity="other">&lt;Data>"Giữ thiết bị kết nối với điện thoại.
+Mất khoảng %1$d phút."&lt;/Data></item>
+    </plurals>
+    <plurals name="notify_sms_reply_delay_time">
+        <item quantity="other">%1$d giây</item>
+    </plurals>
+    <plurals name="notify_unit_second">
+        <item quantity="other">giây</item>
+    </plurals>
+    <plurals name="num_minutes_ago">
+        <item quantity="other">%d phút trước</item>
+    </plurals>
+    <plurals name="provider_exercise_goal_unit">
+        <item quantity="other">bước</item>
+    </plurals>
+    <plurals name="provider_step_goal_unit">
+        <item quantity="other">bước</item>
+    </plurals>
+    <plurals name="sport_local_sport_setting_speed">
+        <item quantity="other">%1$d km/h</item>
+    </plurals>
+    <plurals name="sport_unit_kilometer">
+        <item quantity="other">km</item>
+    </plurals>
+    <plurals name="sport_unit_meter">
+        <item quantity="other">m</item>
+    </plurals>
+    <plurals name="time_update_days_before">
+        <item quantity="other">%1$d ngày trước</item>
+    </plurals>
+    <plurals name="trail_hint_unit_kcal">
+        <item quantity="other">kcal</item>
+    </plurals>
+    <plurals name="trail_hint_unit_meter">
+        <item quantity="other">m</item>
+    </plurals>
+    <plurals name="trail_hint_unit_minute">
+        <item quantity="other">phút</item>
+    </plurals>
+    <plurals name="trail_hint_unit_step">
+        <item quantity="other"></item>
+        <item quantity="one"></item>
+    </plurals>
+    <plurals name="trail_label_step">
+        <item quantity="other">bước</item>
+    </plurals>
+    <plurals name="trail_label_times">
+        <item quantity="other">tập luyện</item>
+    </plurals>
+    <plurals name="trail_row_energy_working_unit">
+        <item quantity="other">W</item>
+    </plurals>
+    <plurals name="trail_share_unit_kilometer">
+        <item quantity="other">" km"</item>
+    </plurals>
+    <plurals name="trail_sport_data_group_count">
+        <item quantity="other">Hiệp</item>
+    </plurals>
+    <plurals name="trail_sport_group_info_title_desc">
+        <item quantity="other">Ván: %d</item>
+    </plurals>
+    <plurals name="trail_sport_hour_unit">
+        <item quantity="other">%d giờ</item>
+    </plurals>
+    <plurals name="trail_sport_hour_unit_only">
+        <item quantity="other">giờ</item>
+    </plurals>
+    <plurals name="trail_sport_times">
+        <item quantity="other">%d tập luyện</item>
+    </plurals>
+    <plurals name="trail_sport_unit_speed_plurals">
+        <item quantity="other">%s km/h</item>
+    </plurals>
+    <plurals name="trail_unit_score_desc_new">
+        <item quantity="other">%1$s</item>
+    </plurals>
+    <plurals name="trail_unit_time_rope_skipping">
+        <item quantity="other"></item>
+        <item quantity="one"></item>
+    </plurals>
+    <plurals name="unit_hour_1">
+        <item quantity="other">giờ</item>
+    </plurals>
+    <plurals name="unit_hour_2">
+        <item quantity="other">giờ</item>
+    </plurals>
+    <plurals name="unit_hour_desc">
+        <item quantity="other">%1$d giờ</item>
+    </plurals>
+    <plurals name="unit_hour_desc2">
+        <item quantity="other">%1$d giờ</item>
+    </plurals>
+    <plurals name="unit_kilometer_space">
+        <item quantity="other">" km"</item>
+    </plurals>
+    <plurals name="unit_kilometer_without_space">
+        <item quantity="other">km</item>
+    </plurals>
+    <plurals name="unit_meter_space">
+        <item quantity="other">" m"</item>
+    </plurals>
+    <plurals name="unit_meter_without_space">
+        <item quantity="other">m</item>
+    </plurals>
+    <plurals name="unit_min_1">
+        <item quantity="other">" phút"</item>
+    </plurals>
+    <plurals name="unit_min_2">
+        <item quantity="other">" phút"</item>
+    </plurals>
+    <plurals name="unit_min_desc">
+        <item quantity="other">%1$d phút</item>
+    </plurals>
+    <plurals name="unit_min_desc2">
+        <item quantity="other">%1$d phút</item>
+    </plurals>
+    <plurals name="unit_min_desc2_with_space">
+        <item quantity="other">%1$d phút</item>
+    </plurals>
+    <plurals name="unit_min_desc3">
+        <item quantity="other">%1$d phút</item>
+    </plurals>
+    <plurals name="unit_point_desc">
+        <item quantity="other">%1$d</item>
+    </plurals>
+    <plurals name="unit_seconds_1">
+        <item quantity="other">giây</item>
+    </plurals>
+    <plurals name="unit_seconds_desc">
+        <item quantity="other">%1$d giây</item>
+    </plurals>
+    <plurals name="unit_seconds_short_desc">
+        <item quantity="other">%1$d giây</item>
+    </plurals>
+    <plurals name="unit_speed_meter_sed">
+        <item quantity="other">m/s</item>
+    </plurals>
+    <plurals name="userinfo_birthday_format">
+        <item quantity="other">(%1$d)</item>
+    </plurals>
+    <plurals name="userinfo_common_unit_age">
+        <item quantity="other">%1$d tuổi</item>
+    </plurals>
+    <plurals name="userinfo_common_unit_calorie">
+        <item quantity="other">kcal</item>
+    </plurals>
+    <plurals name="userinfo_common_unit_heart_rate">
+        <item quantity="other">" BPM"</item>
+    </plurals>
+    <plurals name="userinfo_common_unit_step">
+        <item quantity="other">" bước"</item>
+    </plurals>
+    <plurals name="userinfo_common_unit_time">
+        <item quantity="other">giờ</item>
+    </plurals>
+    <plurals name="userinfo_target_calories_unit">
+        <item quantity="other">%1$d kcal</item>
+    </plurals>
+    <plurals name="userinfo_target_mhs_unit">
+        <item quantity="other">%1$d phút</item>
+    </plurals>
+    <plurals name="userinfo_target_stand_times_unit">
+        <item quantity="other">%1$d giờ</item>
+    </plurals>
+    <plurals name="userinfo_target_step_unit">
+        <item quantity="other">%1$d</item>
+    </plurals>
+    <plurals name="userinfo_unit_heart_rate_space">
+        <item quantity="other">%1$d BPM</item>
+    </plurals>
+    <plurals name="userinfo_unit_min">
+        <item quantity="other">phút</item>
+    </plurals>
+    <plurals name="userinfo_user_age_display_format_year">
+        <item quantity="other">%1$d tuổi</item>
+    </plurals>
 </resources>
