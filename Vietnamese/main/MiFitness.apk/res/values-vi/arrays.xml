@@ -720,29 +720,6 @@
         <item>Th 7</item>
         <item>Cn</item>
     </string-array>
-    <string-array name="device_settings_face_fun">
-        <item>@string/device_settings_common_null</item>
-        <item>Nhịp tim</item>
-        <item>Stress</item>
-        <item>Ngủ</item>
-        <item>Năng lượng</item>
-        <item>Số bước</item>
-        <item>Calo</item>
-        <item>Đứng</item>
-        <item>Pin</item>
-        <item>Ngày</item>
-        <item>Thời tiết</item>
-        <item>Áp suất không khí</item>
-        <item>Độ cao</item>
-        <item>Hẹn giờ</item>
-        <item>Báo thức</item>
-        <item>AQI</item>
-        <item>Độ ẩm</item>
-        <item>Tập luyện</item>
-        <item>Chỉ số UV</item>
-        <item>Bình minh &amp; hoàng hôn</item>
-        <item>Gió</item>
-    </string-array>
     <string-array name="device_settings_reminder_period_array">
         <item>Sự kiện một lần</item>
         <item>Hàng ngày</item>
@@ -751,47 +728,10 @@
         <item>Hàng năm</item>
         <item>Tùy chỉnh</item>
     </string-array>
-    <string-array name="device_settings_screen_wake_sates">
-        <item>@string/device_settings_wrist_bright_day_all</item>
-        <item>@string/device_settings_wrist_bright_custom_time</item>
-        <item>@string/device_settings_wrist_bright_close</item>
-    </string-array>
     <string-array name="device_settings_unlock_phone_distance_list">
         <item>Rất gần</item>
         <item>Gần</item>
         <item>Ít gần</item>
-    </string-array>
-    <string-array name="device_settings_vibrate_mode_type_array">
-        <item>@string/device_settings_incoming_call</item>
-        <item>@string/device_settings_event_remind</item>
-        <item>@string/device_settings_alarm</item>
-        <item>@string/device_settings_app_notify</item>
-        <item>@string/device_settings_long_sit</item>
-        <item>@string/device_settings_sms</item>
-        <item>@string/device_settings_sport_reach_goal</item>
-    </string-array>
-    <string-array name="face_fun">
-        <item>@string/face_common_null</item>
-        <item>Nhịp tim</item>
-        <item>Stress</item>
-        <item>Ngủ</item>
-        <item>Năng lượng</item>
-        <item>Bước</item>
-        <item>Calo</item>
-        <item>Đứng</item>
-        <item>Pin</item>
-        <item>Ngày</item>
-        <item>Thời tiết</item>
-        <item>Áp suất không khí</item>
-        <item>Độ cao</item>
-        <item>Hẹn giờ</item>
-        <item>Báo thức</item>
-        <item>AQI</item>
-        <item>Độ ẩm</item>
-        <item>Tập luyện</item>
-        <item>Chỉ số UV</item>
-        <item>Bình minh &amp; hoàng hôn</item>
-        <item>Gió</item>
     </string-array>
     <string-array name="health_blood_pressure_repeat_mode_mild_abnormal_array">
         <item>Th 2, Th 4, Th 6</item>
