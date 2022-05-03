@@ -1391,7 +1391,7 @@ Chạm vào đây để đăng nhập."</string>
 	<string name="pm">CH</string>
 	<string name="mtrl_picker_range_header_unselected">Ngày bắt đầu – Ngày kết thúc</string>
 	<string name="miui_lock_screen_large_date_12">"EEE
-dd/M"</string>
+dd/MM"</string>
 	<string name="miui_clock_city_name_second">Đồng hồ thứ hai</string>
 	<string name="community_message_trigger_triggered">BẬT</string>
 	<string name="use_hint">Chú ý</string>
@@ -1399,16 +1399,16 @@ dd/M"</string>
 	<string name="ad_details">Chi tiết</string>
 	<string name="miui_clock_city_name_local">Trên máy</string>
 	<string name="community_message_trigger_disabled">TẮT</string>
-	<string name="miui_lock_screen_date">EEEE, d MMMM</string>
+	<string name="miui_lock_screen_date">EEEE dd/MM</string>
 	<string name="i_know">Tôi biết</string>
-	<string name="miui_lock_screen_date_12">EEEE, d MMMM</string>
+	<string name="miui_lock_screen_date_12">EEEE dd/MM</string>
 	<string name="miui_lock_screen_large_date">"EEE
-dd/M"</string>
+dd/MM"</string>
 	<string name="ad_download_now">Tải xuống</string>
 	<string name="miui_lock_screen_date_two_lines">"EEEE
-d MMMM"</string>
+dd/MM"</string>
 	<string name="miui_lock_screen_date_two_lines_12">"EEEE
-d MMMM"</string>
+dd/MM"</string>
 	<string name="theme_designer_products">Chủ đề nhà thiết kế</string>
 	<string name="community_community_message_trigger_title">Thông báo về hoạt động</string>
 	<string name="forbid_video_wallpaper_by_second_space">Áp dụng hình nền động trong Không gian thứ nhất trước.</string>
