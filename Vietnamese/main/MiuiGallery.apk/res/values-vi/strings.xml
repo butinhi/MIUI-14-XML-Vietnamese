@@ -3191,4 +3191,8 @@ Phiên dịch có thể mất một lúc khi bạn sử dụng tính năng này 
 	<string name="chinese_dragon_boat_festival_title">Tết Đoan ngọ</string>
 	<string name="solar_new_year_title">Tết Nguyên Đán</string>
 	<string name="solar_valentines_day_title">Lễ Tình Nhân</string>
+	<string name="trash_purge_all_cloud">Tất cả các mục trong thùng rác sẽ bị xóa vĩnh viễn khỏi đám mây và tất cả các thiết bị được đồng bộ hóa. Vẫn xóa?</string>
+    	<string name="trash_purge_all_local">Tất cả các mục trong thùng rác sẽ bị xóa vĩnh viễn. Vẫn xóa?</string>
+	<string name="group_header_title_media_group">Kiểu phương tiện</string>
+	<string name="group_header_title_immutable_album">Sắp xếp ảnh</string>
 </resources>
