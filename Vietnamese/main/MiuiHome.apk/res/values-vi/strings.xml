@@ -1004,4 +1004,5 @@
 	<string name="custom_define_permission_desc_android.permission.READ_PHONE_STATE">Để truy cập số điện thoại nhằm xác định vị trí thiết bị này khi nó không được kết nối với internet</string>
 	<string name="miuix_access_state_desc">Đã chọn</string>
 	<string name="miuix_indexer_selected">Đã chọn %s</string>
+	<string name="animation_rate_title">Tốc độ ảnh động</string>
 </resources>
