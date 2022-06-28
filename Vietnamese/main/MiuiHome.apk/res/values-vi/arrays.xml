@@ -1,5 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+	<string-array name="animation_rate_entries">
+        <item>Thư thái</item>
+        <item>Tiêu chuẩn</item>
+        <item>Nhanh</item>
+    </string-array>
     <string-array name="editing_mode_entries">
         <item>Hình nền</item>
         <item>Tiện ích</item>
