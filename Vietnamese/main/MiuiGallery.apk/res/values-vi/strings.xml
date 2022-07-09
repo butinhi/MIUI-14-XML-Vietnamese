@@ -3195,4 +3195,6 @@ Phiên dịch có thể mất một lúc khi bạn sử dụng tính năng này 
     	<string name="trash_purge_all_local">Tất cả các mục trong thùng rác sẽ bị xóa vĩnh viễn. Vẫn xóa?</string>
 	<string name="group_header_title_media_group">Kiểu phương tiện</string>
 	<string name="group_header_title_immutable_album">Sắp xếp ảnh</string>
+	<string name="cta_network_declare">Để đồng bộ hóa ảnh và video với Xiaomi Cloud, ứng dụng này cần kết nối với internet.</string>
+	<string name="map_guide_message">Xem ảnh và video của bạn trên bản đồ</string>
 </resources>
