@@ -5816,4 +5816,5 @@ Ghi lại các trình tự và sử dụng chúng bất cứ lúc nào!"</string
 	<string name="setting_back_sound_loading_msg">Đang làm mới</string>
 	<string name="gtb_timer">Hẹn giờ</string>
 	<string name="privacy_revoke_category_title">Rút lại sự đồng ý và hủy bỏ dịch vụ</string>
+	<string name="menu_summary_garbage_cleanup_new_new">%s bộ nhớ trong</string>
 </resources>
