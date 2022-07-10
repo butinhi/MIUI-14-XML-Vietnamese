@@ -4603,9 +4603,9 @@ Bạn có thể thay đổi điều này sau đó từ Cài đặt > Ứng dụn
     <string name="bluetooth_unlock_state_key_error">Mật khẩu không đúng</string>
     <string name="bluetooth_unlock_state_too_far">Không đủ gần</string>
     <string name="bluetooth_unlock_state_ok">Đã mở khóa</string>
-    <string name="miui_lab_settings">MIUI LAB</string>
+    <string name="miui_lab_settings">MIUI lab</string>
     <string name="miui_lab_slogan">Học hỏi - Khám phá - Không ngừng vươn lên</string>
-    <string name="miui_lab_features">Tính năng MIUI LAB</string>
+    <string name="miui_lab_features">Tính năng MIUI lab</string>
     <string name="miui_lab_taplus_title">Kích hoạt ứng dụng</string>
     <string name="miui_lab_taplus_desc">Bấm và giữ một mục để kích hoạt thao tác</string>
     <string name="miui_lab_feature_on">Bật</string>
@@ -9929,8 +9929,8 @@ Sao chép tệp tin sao lưu vào thiết bị của bạn (MIUI-backup-AllBacku
 	<string name="bluetooth_connect_settings">Cài đặt kết nối Bluetooth</string>
 	<string name="bluetooth_display_settings">Cài đặt hiển thị Bluetooth</string>
 	<string name="bluetooth_mi_fast_connect">Liên kết Mi</string>
-	<string name="easymode_hint">Chạm để tắt Chế độ đơn giản</string>
-	<string name="oldman_mode_settings">Chế độ đơn giản</string>
+	<string name="easymode_hint">Chạm để tắt Chế độ thu gọn</string>
+	<string name="oldman_mode_settings">Chế độ thu gọn</string>
 	<string name="input_method_quick_access">Truy cập nhanh</string>
 	<string name="input_method_quick_paste_summary">Xem các mục đã sao chép bằng cách chạm biểu tượng clipboard</string>
 	<string name="input_method_cloud_paste_mode_bubble_title">Bong bóng</string>
@@ -12167,7 +12167,7 @@ Có người dùng khác trên thiết bị này.
 	<string name="fmt_date_day">D</string>
 	<string name="miheadset_hd_audio_title">Âm thanh HD</string>
 	<string name="beauty_fc_assistant">Trợ lý Camera trước</string>
-	<string name="privacy_lab_settings">Lab Bảo vệ Riêng tư</string>
+	<string name="privacy_lab_settings">Lab bảo vệ riêng tư</string>
 	<string name="memorycard_calculating">Đang tính…</string>
 	<string name="gd_setting_title">Sidebar</string>
 	<string name="menu_item_notification_power_text">Tối ưu pin</string>
@@ -12307,4 +12307,8 @@ Bật tính năng này và chạm vào nút Trợ năng ở cuối màn hình đ
 	<string name="font_cta_alert_btn_negative">Hủy</string>
 	<string name="sd_eject_new">Ngắt kết nối thẻ SD</string>
 	<string name="deferred_setup_hintViewTitle">Đang kiểm tra…</string>
+	<string name="expand_card_action">Thẻ bổ sung</string>
+	<string name="music_playback_control_cross_device_flow">Truyền tín hiệu âm thanh trên các thiết bị</string>
+    <string name="music_video_flow_across_device">Điều khiển và truyền tín hiệu âm thanh trên các thiết bị</string>
+	<string name="device_mall_card_title">Kiểm tra các tính năng khả dụng</string>
 </resources>
