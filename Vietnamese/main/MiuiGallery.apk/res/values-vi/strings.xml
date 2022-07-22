@@ -3192,9 +3192,25 @@ Phiên dịch có thể mất một lúc khi bạn sử dụng tính năng này 
 	<string name="solar_new_year_title">Tết Nguyên Đán</string>
 	<string name="solar_valentines_day_title">Lễ Tình Nhân</string>
 	<string name="trash_purge_all_cloud">Tất cả các mục trong thùng rác sẽ bị xóa vĩnh viễn khỏi đám mây và tất cả các thiết bị được đồng bộ hóa. Vẫn xóa?</string>
-    	<string name="trash_purge_all_local">Tất cả các mục trong thùng rác sẽ bị xóa vĩnh viễn. Vẫn xóa?</string>
+    <string name="trash_purge_all_local">Tất cả các mục trong thùng rác sẽ bị xóa vĩnh viễn. Vẫn xóa?</string>
 	<string name="group_header_title_media_group">Kiểu phương tiện</string>
 	<string name="group_header_title_immutable_album">Sắp xếp ảnh</string>
 	<string name="cta_network_declare">Để đồng bộ hóa ảnh và video với Xiaomi Cloud, ứng dụng này cần kết nối với internet.</string>
 	<string name="map_guide_message">Xem ảnh và video của bạn trên bản đồ</string>
+	<string name="story_guide_tip_download_btn">Tải xuống</string>
+    <string name="story_guide_tip_download_desc">Tải xuống các mẫu cho kỷ niệm của bạn</string>
+    <string name="story_guide_tip_download_title">Tải xuống các mẫu</string>
+    <string name="story_guide_tip_generate_btn">Bắt đầu</string>
+    <string name="story_guide_tip_generate_desc">Chụp ảnh. Kết nối bộ sạc. Thiết bị khóa.</string>
+    <string name="story_guide_tip_generate_title">Làm cho ký ức xuất hiện</string>
+    <string name="story_guide_tip_open_btn">Bật</string>
+    <string name="story_guide_tip_open_desc">Xem lại những khoảnh khắc tươi sáng nhất của bạn</string>
+    <string name="story_guide_tip_open_title">Ký ức</string>
+    <string name="story_guide_tip_revisit_btn">Bắt đầu</string>
+    <string name="story_guide_tip_revisit_desc">Chụp ảnh. Kết nối bộ sạc. Thiết bị khóa.</string>
+    <string name="story_guide_tip_revisit_title">Sống lại những khoảnh khắc tươi sáng nhất của bạn</string>
+	<string name="all_story_title">Tất cả những kỷ niệm</string>
+	<string name="all_story_empty_desc">Chưa có ký ức nào ở đây</string>
+    <string name="all_story_empty_tip">"Không có ký ức nào ở đây. Kết nối bộ sạc và tắt màn hình để hiển thị những kỷ niệm."</string>
+	<string name="empty_tip_btn">Chụp ảnh</string>
 </resources>

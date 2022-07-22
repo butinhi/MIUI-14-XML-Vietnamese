@@ -12311,4 +12311,5 @@ Bật tính năng này và chạm vào nút Trợ năng ở cuối màn hình đ
 	<string name="music_playback_control_cross_device_flow">Truyền tín hiệu âm thanh trên các thiết bị</string>
     <string name="music_video_flow_across_device">Điều khiển và truyền tín hiệu âm thanh trên các thiết bị</string>
 	<string name="device_mall_card_title">Kiểm tra các tính năng khả dụng</string>
+	<string name="params_interpretation">Thông số chi tiết</string>
 </resources>
