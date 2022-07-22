@@ -3213,4 +3213,5 @@ Phiên dịch có thể mất một lúc khi bạn sử dụng tính năng này 
 	<string name="all_story_empty_desc">Chưa có ký ức nào ở đây</string>
     <string name="all_story_empty_tip">"Không có ký ức nào ở đây. Kết nối bộ sạc và tắt màn hình để hiển thị những kỷ niệm."</string>
 	<string name="empty_tip_btn">Chụp ảnh</string>
+	<string name="today_of_year">Vào ngày này</string>
 </resources>
