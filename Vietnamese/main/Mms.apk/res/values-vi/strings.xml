@@ -1638,4 +1638,35 @@ Tắt Chế độ máy bay trước."</string>
 	<string name="system_permission_declare_mi_message">Chào mừng tới Tin nhắn Mi!</string>
 	<string name="system_permission_declare_user_agree">Đồng ý</string>
 	<string name="title_not_show_read_mms_perm_req">Yêu cầu quyền</string>
+	<string name="mx_privacy_policy_revoke">Rút lại sự đồng ý đối với chính sách bảo mật của tin nhắn Mi</string>
+	<string name="smart_msg_privacy_policy_revoke">Rút lại sự đồng ý đối với chính sách quyền riêng tư của tin nhắn thông minh</string>
+	<string name="privacy_dialog_tips_revoke" formatted="false">"Nếu tiếp tục, bạn sẽ rút lại sự đồng ý của mình đối với chính sách quyền riêng tư của %s. Thông tin cá nhân đã được thu thập và lưu giữ sẽ bị xóa trong khoảng thời gian cụ thể theo luật và quy định hiện hành trừ khi có yêu cầu khác. Vì %s cung cấp các dịch vụ của mình dựa trên việc thu thập thông tin cá nhân cần thiết, việc rút lại sự đồng ý của bạn sẽ được coi là từ chối chấp nhận các dịch vụ của %s. Rút lại sự đồng ý ngay bây giờ?"</string>
+	<string name="system_permission_perm_sms">Để xem và gửi tin nhắn</string>
+    <string name="system_permission_perm_storage">Để xem, gửi và lưu trữ tệp</string>
+	<string name="system_permission_perm_takephoto">Để chụp ảnh và quay video</string>
+	<string name="system_permission_perm_send_sms">Để gửi tin nhắn văn bản</string>
+	<string name="system_permission_perm_call_phone">Để thực hiện cuộc gọi</string>
+	<string name="system_permission_perm_new_read_sms">Để truy cập nội dung tin nhắn</string>
+    <string name="system_permission_perm_new_receive_mms">Để truy cập nội dung tin nhắn</string>
+	<string name="system_permission_perm_calendar">Để tạo sự kiện lịch</string>
+	<string name="system_permission_perm_email">Để tạo và gửi email</string>
+	<string name="system_permission_perm_write_contact">Để tạo và chỉnh sửa danh bạ</string>
+	<string name="system_permission_perm_read_contact">Để truy cập danh bạ khi tạo tin nhắn</string>
+	<string name="system_permission_perm_call_log">Để truy cập các liên hệ gần đây của bạn khi tạo tin nhắn</string>
+	<string name="pref_title_perm_write_contacts">Chỉnh sửa danh bạ</string>
+	<string name="pref_title_perm_calander">Truy cập lịch</string>
+	<string name="toast_new_not_show_microphone_perm_req">Cho phép Nhắn tin truy cập micrô để sử dụng tính năng này</string>
+	<string name="toast_not_show_account_perm_req">Cho phép Nhắn tin truy cập vào các tài khoản được lưu trữ trên thiết bị của bạn để sử dụng tính năng này</string>
+	<string name="toast_not_show_calendar_perm_req">Cho phép Nhắn tin truy cập Lịch để sử dụng tính năng này</string>
+	<string name="toast_not_show_call_log_perm_req">Cho phép Nhắn tin truy cập nhật ký cuộc gọi của bạn để sử dụng tính năng này</string>
+    <string name="toast_not_show_call_perm_req">Cho phép Nhắn tin thực hiện cuộc gọi để sử dụng tính năng này</string>
+    <string name="toast_not_show_camera_perm_req">Cho phép Nhắn tin sử dụng máy ảnh để có thể sử dụng tính năng này</string>
+    <string name="toast_not_show_clipboard_perm_req">Cho phép Nhắn tin truy cập khay nhớ tạm để sử dụng tính năng này</string>
+    <string name="toast_not_show_email_perm_req">Cho phép Nhắn tin truy cập email của bạn để sử dụng tính năng này</string>
+    <string name="toast_not_show_location_perm_req">Cho phép Nhắn tin truy cập vị trí của bạn để sử dụng tính năng này</string>
+    <string name="toast_not_show_microphone_perm_req">Cho phép Nhắn tin sử dụng micrô để có thể sử dụng tính năng này</string>
+    <string name="toast_not_show_read_mms_perm_req">Để có thể xem các tin nhắn đã nhận, bạn cần cấp quyền cho Nhắn tin để đọc SMS và MMS. Bạn có thể cấp quyền này trong Cài đặt.</string>
+    <string name="toast_not_show_send_sms_perm_req">Để có thể sử dụng tính năng này, trước tiên hãy cho phép ứng dụng này gửi tin nhắn.</string>
+    <string name="toast_not_show_storage_perm_req">Cho phép Nhắn tin truy cập bộ nhớ để có thể sử dụng tính năng này</string>
+    <string name="toast_not_show_write_contacts_perm_req">Cho phép Nhắn tin chỉnh sửa danh bạ để sử dụng tính năng này</string>
 </resources>
