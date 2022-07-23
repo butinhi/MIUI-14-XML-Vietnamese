@@ -1990,7 +1990,7 @@ Chụp nhiều ảnh bạn của bạn hơn!"</string>
 	<string name="album_ai_international_description">Người</string>
 	<string name="empty_album_other_list_title">Không có album ở đây</string>
 	<string name="empty_album_rubbish_list_title">Không có album ở đây</string>
-	<string name="album_rubbish_page_title">Thùng rác</string>
+	<string name="album_rubbish_page_title">Album đã xoá</string>
 	<string name="remove_single_album_from_rubbish_page_tip">Khôi phục album đã chọn?</string>
 	<string name="album_ai_description">Người, địa điểm, vật thể</string>
 	<string name="other_album_operation_remove_from_other_albums">Xóa</string>
@@ -3213,4 +3213,5 @@ Phiên dịch có thể mất một lúc khi bạn sử dụng tính năng này 
 	<string name="all_story_empty_desc">Chưa có ký ức nào ở đây</string>
     <string name="all_story_empty_tip">"Không có ký ức nào ở đây. Kết nối bộ sạc và tắt màn hình để hiển thị những kỷ niệm."</string>
 	<string name="empty_tip_btn">Chụp ảnh</string>
+	<string name="today_of_year">Vào ngày này</string>
 </resources>
