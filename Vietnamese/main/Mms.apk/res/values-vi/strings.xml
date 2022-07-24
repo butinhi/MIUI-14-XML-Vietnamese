@@ -1660,13 +1660,10 @@ Tắt Chế độ máy bay trước."</string>
 	<string name="toast_not_show_calendar_perm_req">Cho phép Nhắn tin truy cập Lịch để sử dụng tính năng này</string>
 	<string name="toast_not_show_call_log_perm_req">Cho phép Nhắn tin truy cập nhật ký cuộc gọi của bạn để sử dụng tính năng này</string>
     <string name="toast_not_show_call_perm_req">Cho phép Nhắn tin thực hiện cuộc gọi để sử dụng tính năng này</string>
-    <string name="toast_not_show_camera_perm_req">Cho phép Nhắn tin sử dụng máy ảnh để có thể sử dụng tính năng này</string>
     <string name="toast_not_show_clipboard_perm_req">Cho phép Nhắn tin truy cập khay nhớ tạm để sử dụng tính năng này</string>
     <string name="toast_not_show_email_perm_req">Cho phép Nhắn tin truy cập email của bạn để sử dụng tính năng này</string>
     <string name="toast_not_show_location_perm_req">Cho phép Nhắn tin truy cập vị trí của bạn để sử dụng tính năng này</string>
-    <string name="toast_not_show_microphone_perm_req">Cho phép Nhắn tin sử dụng micrô để có thể sử dụng tính năng này</string>
     <string name="toast_not_show_read_mms_perm_req">Để có thể xem các tin nhắn đã nhận, bạn cần cấp quyền cho Nhắn tin để đọc SMS và MMS. Bạn có thể cấp quyền này trong Cài đặt.</string>
     <string name="toast_not_show_send_sms_perm_req">Để có thể sử dụng tính năng này, trước tiên hãy cho phép ứng dụng này gửi tin nhắn.</string>
-    <string name="toast_not_show_storage_perm_req">Cho phép Nhắn tin truy cập bộ nhớ để có thể sử dụng tính năng này</string>
     <string name="toast_not_show_write_contacts_perm_req">Cho phép Nhắn tin chỉnh sửa danh bạ để sử dụng tính năng này</string>
 </resources>
