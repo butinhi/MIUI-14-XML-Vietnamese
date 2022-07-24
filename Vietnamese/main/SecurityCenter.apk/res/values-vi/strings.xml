@@ -4081,7 +4081,6 @@ Sau khi được đặt, nếu bạn đóng ứng dụng, các quyền sẽ tr�
 	<string name="ew_info_range">Phạm vi dịch vụ</string>
 	<string name="ew_not_support_area">"Cảnh báo không hỗ trợ ở khu vực này"</string>
 	<string name="gtb_wlan_speed_tips">Đang dùng Mi WiFi…</string>
-	<string formatted="false" name="gtb_setting_item_summary_smart_wlan_speed">Tăng tốc độ kết nối khoảng 10%%-20%% khi kết nối tới router Mi/Redmi</string>
 	<string name="gtb_setting_item_title_smart_wlan_speed">Tăng tốc Mi WiFi</string>
 	<string name="charger_detect_no_remind">Không hiển thị lại</string>
 	<string name="charger_detect_button_ok">Tôi biết</string>
@@ -5818,4 +5817,7 @@ Ghi lại các trình tự và sử dụng chúng bất cứ lúc nào!"</string
 	<string name="privacy_revoke_category_title">Rút lại sự đồng ý và hủy bỏ dịch vụ</string>
 	<string name="menu_summary_garbage_cleanup_new_new">%s bộ nhớ trong</string>
 	<string name="gtb_content_switch">Nội dung đề xuất</string>
+	<string name="gtb_content_switch_summary">Nhận đề xuất nội dung liên quan đến trò chơi</string>
+	<string name="gtb_setting_item_summary_smart_wlan_speed" formatted="false">Tăng tốc độ kết nối lên 10%-20% khi kết nối với bộ định tuyến Mi/Redmi</string>
+    <string name="gtb_setting_item_summary_smart_wlan_speed_new">Tăng tốc độ kết nối lên %1$s-%2$s khi kết nối với bộ định tuyến Mi/Redmi</string>
 </resources>
