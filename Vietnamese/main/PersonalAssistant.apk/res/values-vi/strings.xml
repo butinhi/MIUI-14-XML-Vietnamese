@@ -2933,7 +2933,6 @@ Vui lòng gửi mã này cho nhân viên kỹ thuật."</string>
 	<string name="pa_express_item_menu_signed">Đã giao</string>
         <string name="pa_home_head_time_format">%2$s | %1$s</string>
         <string name="pa_picker_home_search_hint">Tìm kiếm các widgets</string>
-        <string name="pa_sports_widget_empty_recommend">Khuyến khích</string>
         <string name="pa_picker_tab_title_category">Thể loại</string>
-        <string name="pa_picker_tab_title_recommend">Khuyến khích</string
+        <string name="pa_picker_tab_title_recommend">Khuyến khích</string>
 </resources>
