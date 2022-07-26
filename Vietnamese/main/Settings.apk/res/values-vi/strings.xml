@@ -12316,7 +12316,6 @@ Bật tính năng này và chạm vào nút Trợ năng ở cuối màn hình đ
 	<string name="p2p_summary_enable_GPS">Tính năng này hoạt động khi các dịch vụ vị trí được bật</string>
 	<string name="safe_install_mode_settings">Chế độ bảo mật</string>
 	<string name="finger_add_user_info_dialog_message">"Để bạn có thể sử dụng tính năng Mở khóa bằng vân tay và thanh toán bằng vân tay, chúng tôi cần thu thập dấu vân tay của bạn. Dấu vân tay sẽ được lưu trữ cục bộ trên thiết bị này. Để xóa nó, hãy tìm kiếm \"Mở khóa bằng vân tay\" trong Cài đặt rồi chọn Mở khóa bằng vân tay > Vân tay. Bạn sẽ không thể sử dụng tính năng này nếu bạn không đồng ý."</string>
-	<string name="multi_face_input">Thêm dữ liệu khuôn mặt</string>
 	<string name="new_fingerprint_to_new_face_dialog_msg">Để có thể sử dụng tính năng Mở khóa bằng khuôn mặt, trước tiên hãy thêm dữ liệu khuôn mặt. Thêm vào ngay?</string>
 	<string name="miui_face_enroll_risk_warning_title_text_cn">Cảnh báo về bảo mật</string>
 	<string name="face_data_suggesstion_first_cn">Để bạn có thể sử dụng tính năng Mở khóa bằng khuôn mặt, chúng tôi cần thu thập dữ liệu khuôn mặt của bạn, dữ liệu này sau đó sẽ được lưu trữ cục bộ trên thiết bị này. Để xóa nó, hãy tìm kiếm Mở khóa bằng khuôn mặt trong Cài đặt rồi chọn Mở khóa bằng khuôn mặt > Dữ liệu khuôn mặt.</string>
