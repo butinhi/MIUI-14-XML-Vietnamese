@@ -557,7 +557,7 @@
     <string name="record_parent">Trình ghi âm</string>
     <string name="red_dowm_blue_grow">Xanh - lên, đỏ - xuống</string>
     <string name="red_grow_blue_dowm">Đỏ - lên, xanh - xuống</string>
-    <string name="refreshing">Đang làm mới…</string>
+    <string name="refreshing">Đang làm mới...</string>
     <string name="remain_flow">Dữ liệu di động</string>
     <string name="req_no_data">Không thể nhận thông tin</string>
     <string name="req_no_sdata">Không tìm thấy kết quả</string>
@@ -1746,7 +1746,7 @@ Nếu không có dự phòng, số điện thoại bị quên hoặc bị khóa,
 	<string name="refresh_error">Đã xảy ra lỗi mạng. Chờ một vài phút rồi thử lại.</string>
 	<string name="refresh_over_pull">Thả để làm mới</string>
 	<string name="refresh_pull">Kéo để làm mới</string>
-	<string name="refresh_refreshing">Đang làm mới…</string>
+	<string name="refresh_refreshing">Đang làm mới...</string>
 	<string name="selected_shortcuts_title">Tính năng</string>
 	<string name="setting_title_resident_function">Tính năng thường xuyên</string>
 	<string name="shopping_depreciate">Giảm giá ￥%s</string>
@@ -1864,15 +1864,15 @@ Nếu không có dự phòng, số điện thoại bị quên hoặc bị khóa,
 	<string name="app_debug_settings_preview_title">Xem trước</string>
 	<string name="bluetooth_card_btm_btn_more">Thêm thiết bị</string>
 	<string name="express_provider_mimall">Cửa hàng Mi</string>
-	<string name="miuix_sbl_tracking_progress_labe_refreshing">Đang làm mới</string>
+	<string name="miuix_sbl_tracking_progress_labe_refreshing">Đang làm mới...</string>
 	<string name="miuix_sbl_tracking_progress_labe_up_none">Không có dữ liệu</string>
 	<string name="miuix_sbl_tracking_progress_labe_release_to_refresh">Thả ra để làm mới</string>
 	<string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Kéo xuống để làm mới</string>
 	<string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">Thất bại</string>
-	<string name="miuix_sbl_tracking_progress_labe_up_refresh">Đang làm mới</string>
+	<string name="miuix_sbl_tracking_progress_labe_up_refresh">Đang làm mới...</string>
 	<string name="miuix_sbl_tracking_progress_labe_up_nodata">Không có dữ liệu</string>
 	<string name="miuix_sbl_tracking_progress_labe_refreshed">Đã làm mới</string>
-	<string name="mru_setting_brief_detail">"Ứng dụng nhanh và lối tắt gần đây. "</string>
+	<string name="mru_setting_brief_detail">"Ứng dụng nhanh và lối tắt gần đây."</string>
 	<string name="mru_title">Mục gần đây</string>
 	<string name="mru_setting_brief">Ứng dụng nhanh và lối tắt xuất hiện sau khi bạn vuốt xuống trong App vault</string>
 	<string name="cancel">Hủy</string>
@@ -2400,7 +2400,7 @@ Nếu không có dự phòng, số điện thoại bị quên hoặc bị khóa,
 	<string name="app_stock_network_unavailable">Không thể kết nối mạng</string>
 	<string name="app_express_phone_binding_send_ok">Gửi mã xác minh đến %s</string>
 	<string name="app_express_phone_binding_input_verifacation_code">Mã xác thực QQ hoặc mật khẩu hộp thư</string>
-	<string name="app_stock_search_loading">Đang làm mới</string>
+	<string name="app_stock_search_loading">Đang làm mới...</string>
 	<string name="app_express_phone_binding_title">Thêm số điện thoại</string>
 	<string name="app_express_order_number">Số Đặt hàng: %s</string>
 	<string name="app_express_phone_binding_send_verifacation_code">Gửi mã</string>
@@ -2735,7 +2735,7 @@ Vui lòng gửi mã này cho nhân viên kỹ thuật."</string>
 	<string name="pa_setting_privacy_perm_storage">Lưu trữ</string>
 	<string name="pa_lite_setting_others">Cài đặt bổ sung</string>
 	<string name="pa_express_phone_binding_retry">Gửi lại</string>
-	<string name="pa_picker_list_loading">Đang làm mới</string>
+	<string name="pa_picker_list_loading">Đang làm mới...</string>
 	<string name="pa_picker_home_title">Thêm tiện ích</string>
 	<string name="pa_sports_all_match">Xem tất cả</string>
 	<string name="pa_lite_setting_service_timetable">Lịch học</string>
@@ -2840,7 +2840,7 @@ Vui lòng gửi mã này cho nhân viên kỹ thuật."</string>
 	<string name="pa_picker_toast_add_successfully">Đã thêm thành công</string>
 	<string name="pa_scan">Quét</string>
 	<string name="pa_lite_setting_service_quick_func">Lối tắt</string>
-	<string name="pa_picker_loading">Đang làm mới</string>
+	<string name="pa_picker_loading">Đang làm mới...</string>
 	<string name="pa_picker_detail_small_widget">Tiện ích</string>
 	<string name="pa_sports_all_league">Sự kiện</string>
 	<string name="pa_rtk_more_content_description">Tùy chọn</string>
@@ -2853,7 +2853,7 @@ Vui lòng gửi mã này cho nhân viên kỹ thuật."</string>
 	<string name="pa_sports_league_detail_view">Xem</string>
 	<string name="pa_edit_color_group">Độ tương phản &amp; màu sắc</string>
 	<string name="pa_picker_detail_preview_load_fail_can_not_add_widget">Đang làm mới</string>
-	<string name="pa_stock_search_loading">Đang làm mới</string>
+	<string name="pa_stock_search_loading">Đang làm mới...</string>
 	<string name="pa_scan_app">Máy quét</string>
 	<string name="pa_setting_privacy_revoke_no_net_title">Không thể kết nối mạng</string>
 	<string name="pa_sports_title">Thể thao</string>
@@ -2933,4 +2933,7 @@ Vui lòng gửi mã này cho nhân viên kỹ thuật."</string>
 	<string name="pa_express_item_menu_signed">Đã giao</string>
         <string name="pa_home_head_time_format">%2$s | %1$s</string>
         <string name="pa_picker_home_search_hint">Tìm kiếm các widgets</string>
+        <string name="pa_sports_widget_empty_recommend">Khuyến khích</string>
+        <string name="pa_picker_tab_title_category">Thể loại</string>
+        <string name="pa_picker_tab_title_recommend">Khuyến khích</string
 </resources>
