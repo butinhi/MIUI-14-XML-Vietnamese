@@ -359,4 +359,5 @@
 	<string name="fmt_date_numeric_day">D</string>
 	<string name="fmt_date_day">D</string>
 	<string name="multi_window_cvw_title">Chế độ lái xe MIUI</string>
+	<string name="bottom_bar_smallwindow_drag_text">Kéo vào đây để ghim</string>
 </resources>

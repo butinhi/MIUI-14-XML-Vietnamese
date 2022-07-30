@@ -2219,4 +2219,10 @@ Chuyển vùng Mi cần kết nối Internet và truy cập thông tin vị trí
 	<string name="new_saf_permission_dialog_grant_permission_immediately">Tiếp theo</string>
 	<string name="bh_withdrawal_of_consent_and_cancellation_of_services">Rút lại sự đồng ý và hủy bỏ dịch vụ</string>
 	<string name="bh_open_carrier_services_short">Dịch vụ Nhà mạng Mi</string>
+	<string name="manage_external_storage_dialog_positive">Cài đặt</string>
+	<string name="invisible_mode_dialog_to_close">Tắt</string>
+	<string name="privacy_settings_write_contacts">Chỉnh sửa danh bạ</string>
+	<string name="invisible_mode_dialog_cancel">Hủy</string>
+	<string name="manage_external_storage_dialog_title">Yêu cầu quyền</string>
+	<string name="invisible_mode_title">"Bạn đang ẩn danh"</string>
 </resources>

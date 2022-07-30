@@ -1116,4 +1116,5 @@ Lưu ý rằng ứng dụng này cần kết nối với mạng và yêu cầu c
 	<string name="menuDesc">Menu</string>
 	<string name="miuix_access_state_desc">Đã chọn</string>
 	<string name="miuix_indexer_selected">Đã chọn %s</string>
+	<string name="tenure_year_month">%1$s và %2$s</string>
 </resources>

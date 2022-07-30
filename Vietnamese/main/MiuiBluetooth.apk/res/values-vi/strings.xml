@@ -1196,4 +1196,7 @@ Giao thức truyền tải băng thông cao."</string>
 	<string name="config_net_device_find">Kết nối thiết bị</string>
 	<string name="headset_incall_answer">Trả lời</string>
 	<string name="headset_incall_reject">Hủy</string>
+	<string name="fast_connect_connection_fail">Không thể kết nối</string>
+	<string name="miheadset_spatial_audio_phone">Thiết bị này</string>
+	<string name="miheadset_spatial_audio_headset">Tai nghe &amp; hiệu ứng âm thanh</string>
 </resources>

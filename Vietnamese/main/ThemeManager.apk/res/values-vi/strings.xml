@@ -1684,4 +1684,10 @@ Bạn sẽ thấy ảnh mới mỗi giờ."</string>
 	<string name="exchange_code_dialog_title">Chú ý</string>
 	<string name="repeat_exchange_dialog_positive_btn">Kiểm tra</string>
 	<string name="application_notify_title">Chú ý</string>
+	<string name="privacy_phone_read_and_write_storage_above_eleven">Lưu trữ</string>
+	<string name="resource_search_history">Lịch sử tìm kiếm</string>
+	<string name="set_calling">Vào thiết lập</string>
+	<string name="toast_transparent_wallpaper_filter_set_failured">Không áp dụng</string>
+	<string name="toast_transparent_wallpaper_filter_set_successfully">Đã áp dụng màn hình khóa</string>
+	<string name="ad_close">Đóng</string>
 </resources>

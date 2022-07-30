@@ -1291,4 +1291,15 @@ d MMMM"</string>
 	<string name="lks_loop_icon_ask_ok">Bật</string>
 	<string name="lks_loop_icon_dlg_title">Trình chiếu Màn hình khóa</string>
 	<string name="lks_loop_icon_ask_cancle">Hủy</string>
+	<string name="google_login_btn_content_description">Đăng nhập bằng Google</string>
+	<string name="main_fragment_title_home_excellent">Đặc sắc</string>
+	<string name="user_agreement_hint_default">&lt;Data&gt;Tôi đã đọc và đồng ý với &lt;a href=%1$s&gt;Thỏa thuận Người dùng&lt;/a&gt; và &lt;a href=%2$s&gt;Chính sách Riêng tư.&lt;/a&gt;&lt;/Data&gt;</string>
+	<string name="user_agreement_hint_with_unicom">&lt;Data&gt;Tôi đã đọc và đồng ý với &lt;a href=%1$s&gt;Thỏa thuận Người dùng&lt;/a&gt;, &lt;a href=%2$s&gt;Chính sách Riêng tư&lt;/a&gt; và &lt;a href=%3$s&gt;Điều khoản và Điều kiện của dịch vụ xác minh China Unicom&lt;/a&gt;.&lt;/Data&gt;</string>
+	<string name="detail_recomm_personal">Đề xuất</string>
+	<string name="weixin_login_btn_content_description">Đăng nhập với WeChat</string>
+	<string name="back">Quay lại</string>
+	<string name="detail_recomm_excellent">Đặc sắc</string>
+	<string name="user_agreement_hint_with_telecom">&lt;Data&gt;Tôi đã đọc và đồng ý với &lt;a href=%1$s&gt;Thỏa thuận Người dùng&lt;/a&gt;, &lt;a href=%2$s&gt;Chính sách Riêng tư&lt;/a&gt; và &lt;a href=%3$s&gt;Điều khoản và Điều kiện của dịch vụ xác minh tài khoản eSurfing&lt;/a&gt;.&lt;/Data&gt;</string>
+	<string name="facebook_login_btn_content_description">Đăng nhập bằng Facebook</string>
+	<string name="user_agreement_hint_with_mobile">&lt;Data&gt;Tôi đã đọc và đồng ý với &lt;a href=%1$s&gt;Thỏa thuận Người dùng&lt;/a&gt;, &lt;a href=%2$s&gt;Chính sách Riêng tư&lt;/a&gt; và &lt;a href=%3$s&gt;Điều khoản và Điều kiện của dịch vụ xác minh China Mobile&lt;/a&gt;.&lt;/Data&gt;</string>
 </resources>

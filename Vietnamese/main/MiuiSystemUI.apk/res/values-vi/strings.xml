@@ -3323,4 +3323,6 @@ dd/MM"</string>
 	<string name="qs_bill_message_unit_cny">Tệ</string>
 	<string name="traffic_unit_megabyte">MB</string>
 	<string name="traffic_unit_kilobyte">KB</string>
+	<string name="dialog_forget_password_cancel">Hủy</string>
+	<string name="dialog_forget_password_ok">Tắt</string>
 </resources>

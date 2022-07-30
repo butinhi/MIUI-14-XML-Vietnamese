@@ -800,4 +800,10 @@ sau khi Sức khỏe Mi phân tích đủ dữ liệu"</string>
 	<string name="timer_alert_type_no">Không</string>
 	<string name="timer_item_edit">Sửa</string>
 	<string name="timer_desc_use_sleep">Ngủ ngắn</string>
+	<string name="white_noise_selected">Đã chọn</string>
+	<string name="miuix_access_state_desc">Đã chọn</string>
+	<string name="miuix_indexer_selected">Đã chọn %s</string>
+	<string name="unknown_ringtone_title">Không xác định</string>
+	<string name="white_noise_not_selected">Không chọn</string>
+	<string name="add_new_sound">Thêm nhạc chuông</string>
 </resources>

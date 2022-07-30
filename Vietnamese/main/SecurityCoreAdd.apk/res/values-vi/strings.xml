@@ -830,4 +830,7 @@ xứng đáng có riêng một ứng dụng"</string>
 	<string name="size_giga_byte">GB</string>
 	<string name="size_tera_byte">TB</string>
 	<string name="size_mega_byte">MB</string>
+	<string name="xspace_head">Ứng dụng kép</string>
+	<string name="xspace_resolver_activity_title">Chọn ứng dụng</string>
+	<string name="alwaysUsePrompt">Nhớ lựa chọn của tôi</string>
 </resources>

@@ -427,4 +427,17 @@
 	<string name="fmt_date_numeric_year">yyyy</string>
 	<string name="fmt_weekday_date_time_timezone">W, D T z</string>
 	<string name="fmt_time_12hour_minute_second">h:mm:ms</string>
+	<string name="doc_photo_handwrite_remove">Xóa</string>
+	<string name="doc_photo_close">Đang tắt</string>
+	<string name="doc_photo_enhance_effect">Hiệu ứng</string>
+	<string name="doc_photo_enhance_crop">Cắt</string>
+	<string name="doc_photo_remind">Chú ý</string>
+	<string name="doc_photo_crop_left_rotate">Bên trái</string>
+	<string name="doc_photo_not_save">"Không lưu"</string>
+	<string name="doc_photo_save_effect_toast">Lưu thay đổi?</string>
+	<string name="doc_photo_crop_right_rotate">Bên phải</string>
+	<string name="doc_photo_enhance_undistortion_version4">Thủy chuẩn</string>
+	<string name="doc_photo_no_remind">Không hiển thị lại</string>
+	<string name="doc_photo_handwrite_recover">Khôi phục</string>
+	<string name="open">BẬT</string>
 </resources>

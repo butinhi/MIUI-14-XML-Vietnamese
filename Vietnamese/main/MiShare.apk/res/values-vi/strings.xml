@@ -487,4 +487,6 @@ Bạn có thể tìm thấy danh sách thiết bị tương thích trên trang w
 	<string name="fmt_date_day">D</string>
 	<string name="menu_new_display_open">Mở trong cửa sổ mới</string>
 	<string name="menu_pc_open">Mở bằng chương trình máy tính</string>
+	<string name="wait_remote_receive_tips_china">Đang chờ…</string>
+	<string name="error_msg_network_error_china">Lỗi mạng. Thử lại.</string>
 </resources>

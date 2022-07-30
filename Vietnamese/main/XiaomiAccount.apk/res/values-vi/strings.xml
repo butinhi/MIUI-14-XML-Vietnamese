@@ -1110,4 +1110,26 @@ Hãy chắc chắn bạn nhớ tất cả câu trả lời."</string>
 	<string name="network_timeout_info">Lỗi kết nối mạng, vui lòng thử lại</string>
 	<string name="unknown_error_info">Lỗi không xác định</string>
 	<string name="network_error_info">Lỗi mạng đã xảy ra. Kiểm tra cài đặt mạng của bạn và thử lại.</string>
+	<string name="cloud_member_vipname_ultra">Kim cương</string>
+	<string name="xiaomi_market_sdk_update_dialog_ok">Cập nhật</string>
+	<string name="network_error">Lỗi kết nối mạng.</string>
+	<string name="library_android_database_sqlcipher_libraryDescription">Android SQLite API dựa trên SQLCipher</string>
+	<string name="xiaomi_market_sdk_update_dialog_title">Đã có phiên bản mới</string>
+	<string name="update_apk_version_later">Không phải bây giờ</string>
+	<string name="cloud_member_status_expired">Đã hết hạn</string>
+	<string name="library_android_database_sqlcipher_libraryName">SQLCipher cho Android</string>
+	<string name="check_apk_update">Kiểm tra cập nhật</string>
+	<string name="new_version">Phiên bản mới</string>
+	<string name="login_notification_title">Đăng nhập vào Tài khoản Mi của bạn</string>
+	<string name="cloud_member_vipname_free">Miễn phí</string>
+	<string name="xiaomi_market_sdk_update_dialog_cancel">Không phải bây giờ</string>
+	<string name="has_no_new_version">Đã cập nhật</string>
+	<string name="cloud_member_status_non_vip">Nâng cấp</string>
+	<string name="cloud_member_vipname_mega">Bạch kim</string>
+	<string name="update_apk_version_now">Cập nhật</string>
+	<string name="login_notification_button_text">Đăng nhập</string>
+	<string name="cloud_member_vipname_premium">Vàng</string>
+	<string name="find_new_apk_version">Tìm thấy phiên bản mới!</string>
+	<string name="phone_register">Sử dụng số điện thoại</string>
+	<string name="copy_link">Sao chép URL</string>
 </resources>

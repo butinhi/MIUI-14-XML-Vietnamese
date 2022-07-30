@@ -1034,4 +1034,19 @@ Cho phép Ghi chú ghi âm."</string>
 	<string name="menu_edit">Sửa</string>
 	<string name="note_module_name">Ghi chú </string>
 	<string name="setting_cloud_service">Dịch vụ Xiaomi Cloud</string>
+	<string name="save_to_local_icon_name">Lưu</string>
+	<string name="access_denied_info">Quá nhiều lần thử. Chờ một vài phút rồi thử lại.</string>
+	<string name="permission_storage_desc_new_v12">Để thêm hình ảnh vào ghi chú và lưu ghi chú dưới dạng hình ảnh</string>
+	<string name="library_android_database_sqlcipher_libraryDescription">Android SQLite API dựa trên SQLCipher</string>
+	<string name="save_to_local_failure_message">Không thể lưu</string>
+	<string name="save_to_local_success_message">Lưu thành công</string>
+	<string name="unknown_error_info">Lỗi không xác định</string>
+	<string name="library_android_database_sqlcipher_libraryName">SQLCipher cho Android</string>
+	<string name="system_error_info">Hệ thống đang bận. Chờ một hoặc hai phút và thử lại.</string>
+	<string name="progressbar_title">Kiểm tra các vấn đề bảo mật…</string>
+	<string name="network_timeout_info">Lỗi kết nối mạng, vui lòng thử lại</string>
+	<string name="dlg_info_save_to_local_message">Đang lưu…</string>
+	<string name="permission_storage_desc_pad_new_v12">Để thêm hình ảnh vào ghi chú và lưu ghi chú dưới dạng hình ảnh</string>
+	<string name="network_error_info">Lỗi mạng đã xảy ra. Kiểm tra cài đặt mạng của bạn và thử lại.</string>
+	<string name="widget_size_item_super_big">๖ۣۜßεℓ™</string>
 </resources>

@@ -1024,4 +1024,7 @@ Vui lòng gửi mã này cho nhân viên kỹ thuật."</string>
 	<string name="fmt_time_12hour_minute_pm">h:mm a</string>
 	<string name="fmt_weekday_date_time_timezone">W, D T z</string>
 	<string name="fmt_time_12hour_minute_second">h:mm:ms</string>
+	<string name="permission_storage_desc_pad">Truy cập ảnh, phương tiện và tệp trên thiết bị của bạn</string>
+	<string name="permission_account_desc_pad">Truy cập tất cả tài khoản được lưu trên thiết bị</string>
+	<string name="permission_storage_title_pad">Lưu trữ</string>
 </resources>

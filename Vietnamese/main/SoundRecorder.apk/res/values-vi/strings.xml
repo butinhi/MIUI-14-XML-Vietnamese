@@ -749,4 +749,15 @@
 	<string name="fmt_date">D</string>
 	<string name="permission_read_phone_state">Truy cập thông tin thiết bị</string>
 	<string name="new_saf_permission_dialog_grant_permission_immediately">Tiếp theo</string>
+	<string name="system_error_info">Hệ thống đang bận. Chờ một hoặc hai phút và thử lại.</string>
+	<string name="access_denied_info">Quá nhiều lần thử. Chờ một vài phút rồi thử lại.</string>
+	<string name="library_android_database_sqlcipher_libraryDescription">Android SQLite API dựa trên SQLCipher</string>
+	<string name="manage_external_storage">Truy cập tất cả các tệp</string>
+	<string name="downloading">Đang tải xuống</string>
+	<string name="progressbar_title">Kiểm tra các vấn đề bảo mật…</string>
+	<string name="download_pause">Tải xuống đã tạm dừng</string>
+	<string name="network_timeout_info">Lỗi kết nối mạng, vui lòng thử lại</string>
+	<string name="unknown_error_info">Lỗi không xác định</string>
+	<string name="library_android_database_sqlcipher_libraryName">SQLCipher cho Android</string>
+	<string name="network_error_info">Lỗi mạng đã xảy ra. Kiểm tra cài đặt mạng của bạn và thử lại.</string>
 </resources>

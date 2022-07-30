@@ -1483,4 +1483,5 @@ Thông tin vị trí có thể không được báo cáo khi kết nối mạng 
 	<string name="xiaomi_market_sdk_update_dialog_cancel">Không phải bây giờ</string>
 	<string name="privacy_runtime_perm_phone_state_title">Truy cập thông tin thiết bị</string>
 	<string name="btn_revoke_permission">Thu hồi</string>
+	<string name="privacy_runtime_perm_calendar_title">Truy cập lịch</string>
 </resources>

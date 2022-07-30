@@ -1104,4 +1104,7 @@ Dữ liệu chưa được nhập phải được nhập lại."</string>
 	<string name="user_know_button_text">Tôi biết</string>
 	<string name="permission_read_storage_global">Lưu trữ</string>
 	<string name="grant_all_permission_title">Yêu cầu quyền</string>
+	<string name="permission_write_contacts">Chỉnh sửa danh bạ</string>
+	<string name="category_contacts">Liên hệ</string>
+	<string name="backup_notice_title">Chú ý</string>
 </resources>

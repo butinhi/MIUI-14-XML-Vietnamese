@@ -718,4 +718,7 @@ Nghỉ ngơi chút đi!"</item>
 	<plurals name="summary_result_absorbed_time_format">
 		<item quantity="other">%d phút</item>
 	</plurals>
+	<plurals name="mtrl_badge_content_description">
+		<item quantity="other">%d thông báo mới</item>
+	</plurals>
 </resources>

@@ -211,4 +211,8 @@
 		<item>Cao</item>
 		<item>Cao nhất</item>
 	</string-array>
+	<string-array name="cache_sort_type">
+		<item>Kích thước</item>
+		<item>Tên</item>
+	</string-array>
 </resources>

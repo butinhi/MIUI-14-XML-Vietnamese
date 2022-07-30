@@ -13,4 +13,9 @@
 	<string name="frequent_phrases">Cụm từ thường dùng</string>
 	<string name="translation_more">Thêm</string>
 	<string name="open">Duyệt</string>
+	<string name="google_call">Gọi</string>
+	<string name="google_email">E-mail</string>
+	<string name="google_map">Bản đồ</string>
+	<string name="google_open">Mở</string>
+	<string name="google_translate">Dịch</string>
 </resources>

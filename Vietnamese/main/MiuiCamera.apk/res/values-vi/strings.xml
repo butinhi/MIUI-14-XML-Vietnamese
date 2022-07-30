@@ -2514,4 +2514,9 @@ Sau khi bật chức năng "ghi nhiều camera", máy ảnh của điện thoạ
 	<string name="live_workspace_title_pre_edit">Chọn mục để xóa</string>
 	<string name="beauty_mo_or">Mở tệp tin gốc</string>
 	<string name="mode_edit_moving">Đã chuyển tới hàng %1$d, vị trí %2$d</string>
+	<string name="beauty_makeups_yuanqi">Tươi mới</string>
+	<string name="edit_touch_up">Trang điểm</string>
+	<string name="beauty_makeups_danyan">Trắng mơ</string>
+	<string name="beauty_makeups_subeffect_makeup">Trang điểm</string>
+	<string name="beauty_makeups_subeffect_filter">Bộ lọc</string>
 </resources>

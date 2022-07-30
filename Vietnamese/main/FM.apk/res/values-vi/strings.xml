@@ -95,4 +95,9 @@
 	<string name="icon_content_description">Biểu tượng hộp thoại</string>
 	<string name="abc_searchview_description_clear">Xóa truy vấn</string>
 	<string name="dialog_saf_title">Yêu cầu quyền</string>
+	<string name="permission_require">Yêu cầu quyền</string>
+	<string name="permission_confirm">Cho phép</string>
+	<string name="permission_guide_tip">Chú ý</string>
+	<string name="permission_cancel">Không cho phép</string>
+	<string name="permission_to_setting">Cài đặt</string>
 </resources>

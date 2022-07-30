@@ -1912,4 +1912,12 @@ Vui lòng xác nhận xem mật khẩu ứng dụng đã được bật chưa, n
 	<string name="error_message_respond_revert_06">Mật khẩu bạn nhập không chính xác.</string>
 	<string name="folder_list_switch_account">Chuyển</string>
 	<string name="selected">Đã chọn</string>
+	<string name="icoud_login_pw_hint">Nhập mật khẩu</string>
+	<string name="email_filter_choose_item">Chọn mục</string>
+	<string name="folder">Thư mục</string>
+	<string name="email_filter_choose_folder">Chọn thư mục</string>
+	<string name="email_filter_create_folder">Tạo thư mục</string>
+	<string name="default_signature_pad">Đã gửi từ điện thoại Mi của tôi</string>
+	<string name="email_filter_enter_folder_name">Tên thư mục</string>
+	<string name="quick_translation">Dịch</string>
 </resources>

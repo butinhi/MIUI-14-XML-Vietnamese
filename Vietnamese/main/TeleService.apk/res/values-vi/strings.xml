@@ -3682,4 +3682,11 @@ Bất cứ người dùng nào cũng có thể cập nhật ứng dụng cho ng�
 	<string name="config_rat_4g">4G</string>
 	<string name="config_rat_3g">3G</string>
 	<string name="config_rat_2g">2G</string>
+	<string name="switch_cancel_btn_text">Hủy</string>
+	<string name="preferred_network_type_pref_entries_4g_non_preferred_mx_at">4G/3G/2G</string>
+	<string name="fiveg_nrca_switch_title">Tổng hợp mạng 5G</string>
+	<string name="hide_stk_name">Công cụ SIM</string>
+	<string name="esim_inactive_notification_title_global">Tối ưu hóa mạng di động sim kép</string>
+	<string name="nrca_need_reset">Vui lòng khởi động lại điện thoại để áp dụng.</string>
+	<string name="preferred_network_type_pref_entries_3g_non_preferred_mx_at">3G/2G</string>
 </resources>

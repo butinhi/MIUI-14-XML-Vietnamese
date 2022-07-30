@@ -480,4 +480,7 @@
 	<string name="throwing_print">In</string>
 	<string name="screen_editor_delete_dialog_msg">Xóa ảnh chụp màn hình này?</string>
 	<string name="doodle_paint_select_heavy_talkback">Dày</string>
+	<string name="device_list_more">Thêm</string>
+	<string name="global_phone">Điện thoại của tôi</string>
+	<string name="device_list_all">Tất cả thiết bị</string>
 </resources>

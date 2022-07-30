@@ -801,4 +801,6 @@ An toàn và bảo mật"</string>
 	<string name="gb_webwindow_schemedialog_accept">Mở</string>
 	<string name="gamebooster_network_dialog_message_pad">Cho phép Bảo mật kết nối mạng để sử dụng tất cả tính năng Tăng tốc trò chơi?</string>
 	<string name="gb_webwindow_schemedialog_cancel">Hủy</string>
+	<string name="recall_kid_mode">Đồng ý Chính sách Riêng tư</string>
+	<string name="privacy_name">Chính sách Riêng tư</string>
 </resources>

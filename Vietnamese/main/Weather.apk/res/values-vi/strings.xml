@@ -833,4 +833,5 @@ Chạm vào màn hình để thêm thủ công hoặc định vị lại thành 
 	<string name="miuix_access_state_desc">Đã chọn</string>
 	<string name="miuix_indexer_selected">Đã chọn %s</string>
 	<string name="select_show_city">Chọn vị trí</string>
+	<string name="content_desc_activity_main_page">Trang %1$d/%2$d</string>
 </resources>

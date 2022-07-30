@@ -536,4 +536,8 @@
 	<string name="ks_launch_control_center">TT Điều khiển</string>
 	<string name="ks_launch_recents_tasks">Mở Gần đây</string>
 	<string name="dark_mode_enable">Bật</string>
+	<string name="nps_ContentTitle">Đang dò GPS</string>
+	<string name="mw_guide_dialog_button_confirm">Tôi biết</string>
+	<string name="relaunch_dialog_button_confirm">Khởi động lại</string>
+	<string name="relaunch_action">Khởi động lại</string>
 </resources>

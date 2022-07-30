@@ -589,4 +589,7 @@ Việc nghe ở mức âm lượng cao trong thời gian dài có thể gây t�
 	<string name="quick_settings_bluetooth_detail_empty_text">Không có thiết bị kết nối khả dụng</string>
 	<string name="miplay_device_full_name">"%2$s của %1$s"</string>
 	<string name="miplay_song_title_empty">Không có mục nào ở đây</string>
+	<string name="miuix_access_state_desc">Đã chọn</string>
+	<string name="miuix_indexer_selected">Đã chọn %s</string>
+	<string name="controls_media_title">Phương tiện</string>
 </resources>

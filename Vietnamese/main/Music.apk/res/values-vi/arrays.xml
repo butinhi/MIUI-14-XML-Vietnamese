@@ -27,4 +27,8 @@
 		<item>Khuyến nghị Thứ sáu</item>
 		<item>Khuyến nghị Thứ bảy</item>
 	</string-array>
+	<string-array name="account_user_gender_name">
+		<item>Nam</item>
+		<item>Nữ</item>
+	</string-array>
 </resources>

@@ -1724,4 +1724,10 @@ Gia nhập cùng 170 triệu Mi Fan!"</string>
 	<string name="miuix_indexer_selected">Đã chọn %s</string>
 	<string name="internal_storage">Bộ nhớ trong</string>
 	<string name="midriver_install_button_text">Cài đặt</string>
+	<string name="title_request_manage_external_storage_perm">Yêu cầu quyền</string>
+	<string name="lack_perm_title">Yêu cầu quyền</string>
+	<string name="main_button_quit">Hủy</string>
+	<string name="lack_perm_msg">Mi Mover cần quyền dưới đây: &lt;b&gt;%s&lt;/b&gt;.</string>
+	<string name="main_button_continue">Cài đặt</string>
+	<string name="perm_manage_external_storage">Truy cập tất cả các tệp</string>
 </resources>

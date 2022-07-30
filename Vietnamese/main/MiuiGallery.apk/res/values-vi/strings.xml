@@ -3214,4 +3214,22 @@ Phiên dịch có thể mất một lúc khi bạn sử dụng tính năng này 
     <string name="all_story_empty_tip">"Không có ký ức nào ở đây. Kết nối bộ sạc và tắt màn hình để hiển thị những kỷ niệm."</string>
 	<string name="empty_tip_btn">Chụp ảnh</string>
 	<string name="today_of_year">Vào ngày này</string>
+	<string name="cloud_full_space_tip_title_completely">Lưu trữ đám mây đã đầy</string>
+	<string name="today_of_year_empty_tip">Chưa có kỷ niệm ở đây</string>
+	<string name="ocr_translation">Dịch</string>
+	<string name="feedback_my_reports">Phản hồi</string>
+	<string name="ocr_extract">Giải nén</string>
+	<string name="today_of_year_photo_num">Ảnh</string>
+	<string name="text_recognition">Nhận dạng văn bản</string>
+	<string name="today_of_year_location_num">Vị trí</string>
+	<string name="download_library_dialog_title">Tải xuống các mẫu</string>
+	<string name="install_media_editor_download_description">Đang tải xuống…</string>
+	<string name="send_dolby_vision_video_continue">Tiếp tục</string>
+	<string name="today_of_year_function_closed_btn_tip">Bật</string>
+	<string name="ocr_text_link">URL</string>
+	<string name="grant_permission_manage_storage">Yêu cầu quyền</string>
+	<string name="operation_upgrade_gallery">Cập nhật</string>
+	<string name="ocr_text_copied_selected">Sao chép thành công</string>
+	<string name="assistant_today_of_year_function_closed_tip">Bật</string>
+	<string name="assistant_today_of_year_function_no_photo_tip">Bắt đầu</string>
 </resources>

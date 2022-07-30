@@ -692,4 +692,7 @@ Bạn cần đọc và đồng ý với Chính sách Riêng tư Mint Keyboard tr
 	<string name="sim_card_dial_card">SIM %d để gọi</string>
 	<string name="sim_card_network_card">SIM dữ liệu %d</string>
 	<string name="enable_or_disable_bluetooth">Bật/tắt Bluetooth</string>
+	<string name="item_facerecognition">Xác thực khuôn mặt</string>
+	<string name="permission_access_calendar">Truy cập lịch</string>
+	<string name="activating_esim_tips">Đang kích hoạt…</string>
 </resources>
