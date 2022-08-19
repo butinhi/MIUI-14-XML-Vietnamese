@@ -2961,4 +2961,6 @@ Vui lòng gửi mã này cho nhân viên kỹ thuật."</string>
 	<string name="pa_shopping_dialog_privacy_authorize_title">Điều khoản và Điều kiện</string>
 	<string name="pa_picker_no_relevant_content">Không tìm thấy kết quả</string>
 	<string name="pa_shopping_page_product_item_icon_tag">Đề xuất</string>
+	<string name="pa_guide_dialog_title">Kiểm tra kho tiện ích của chúng tôi</string>
+	<string name="pa_guide_dialog_desc">Nhấn và giữ một tiện ích để sắp xếp lại. Nhấn vào dấu cộng để thêm các tiện ích khác.</string>
 </resources>
