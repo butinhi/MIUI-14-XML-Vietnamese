@@ -1767,4 +1767,5 @@ Bạn cũng có thể thêm nhắc nhở để không bỏ lỡ những điều 
 	<string name="widget_normal_weekN">Tuần %d</string>
 	<string name="widget_normal_new_event">Thêm sự kiện</string>
 	<string name="date_view">Ngày</string>
+	<string name="widget_normal_agenda_tip_empty">Không có sự kiện hôm nay.</string>
 </resources>
