@@ -1011,4 +1011,5 @@
 	<string name="high_fps_tip_footer">Sử dụng tốc độ làm mới cao hơn giúp trải nghiệm xem mượt mà hơn nhưng tiêu tốn nhiều điện năng hơn.</string>
 	<string name="fps_user_tip_footer">"%1$d. Để bạn hiểu sự khác biệt giữa tốc độ làm mới cao hơn và thấp hơn, các bản trình diễn được phát chậm hơn ở đây. Bạn có thể khó nhận ra sự khác biệt trong quá trình sử dụng thường xuyên.
 %2$d. Trong một số trường hợp, tốc độ làm mới có thể được điều chỉnh động dựa trên những mục được hiển thị."</string>
+	<string name="desktop_widget_authorization_new">Nhấn để xem số liệu thống kê về thời gian màn hình</string>
 </resources>
