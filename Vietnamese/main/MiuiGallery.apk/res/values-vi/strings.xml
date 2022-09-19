@@ -3232,4 +3232,9 @@ Phiên dịch có thể mất một lúc khi bạn sử dụng tính năng này 
 	<string name="ocr_text_copied_selected">Sao chép thành công</string>
 	<string name="assistant_today_of_year_function_closed_tip">Bật</string>
 	<string name="assistant_today_of_year_function_no_photo_tip">Bắt đầu</string>
+	<string name="creativity_summary">Hiển thị các tính năng chỉnh sửa và sáng tạo bổ sung</string>
+	<string name="pref_today_of_year_summary">"Hãy nhớ lại những khoảnh khắc bạn đã chụp vào ngày này trong suốt nhiều năm. Những kỷ niệm đã được tạo sẽ không biến mất nếu bạn tắt tính năng này."</string>
+	<string name="ocr_switch_title">Nhận dạng văn bản trên hình ảnh</string>
+	<string name="ocr_switch_hint">Nhận dạng văn bản hiển thị trên hình ảnh để có thể chọn nó hoặc thực hiện hành động</string>
+	<string name="privacy_map_detail_content_new">Bản đồ thư viện tuyên bố chia sẻ dữ liệu của bên thứ ba</string>
 </resources>
