@@ -5935,4 +5935,10 @@ Ghi lại các trình tự và sử dụng chúng bất cứ lúc nào!"</string
 	<string name="click_to_charge_bill">Nạp tiền</string>
 	<string name="reminder_tips">Chú ý</string>
 	<string name="storage_item_system_data">Hệ thống</string>
+	<string name="traffic_advanced_settings">Cài đặt lưu lượng nâng cao</string>
+	<string name="operator_location_settings">Đặt nhà cung cấp dịch vụ và vị trí</string>
+	<string name="operator_location_settings_message">"Không thể nhận dạng nhà cung cấp dịch vụ và vị trí của bạn. Hiện không thể đặt cảnh báo số dư điện thoại và cảnh báo sử dụng dữ liệu."</string>
+	<string name="click_to_set_personalized_reminder">Đặt cảnh báo</string>
+	<string name="bill_traffic_reminder_instruction_text">Phương pháp thanh toán và tiêu chuẩn tính toán dữ liệu của các nhà cung cấp dịch vụ khác nhau có thể khác nhau. Sự chậm trễ trong thanh toán cũng có thể xảy ra. Số liệu thống kê sử dụng được cung cấp ở đây chỉ để bạn tham khảo.</string>
+	<string name="bill_reminder_summary">Nhắc nạp tiền khi số dư thấp hơn %1s</string>
 </resources>

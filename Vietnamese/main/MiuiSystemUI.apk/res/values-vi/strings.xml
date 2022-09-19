@@ -3325,4 +3325,7 @@ dd/MM"</string>
 	<string name="traffic_unit_kilobyte">KB</string>
 	<string name="dialog_forget_password_cancel">Hủy</string>
 	<string name="dialog_forget_password_ok">Tắt</string>
+	<string name="qs_traffic_message_type_used">Đã dùng %1$s %2$s</string>
+	<string name="qs_traffic_message_type_exceed">%1$s %2$s vượt quá giới hạn</string>
+    <string name="qs_traffic_message_type_remain">%1$s %2$s dữ liệu còn lại</string>
 </resources>
