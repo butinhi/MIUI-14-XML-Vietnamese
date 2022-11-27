@@ -680,4 +680,17 @@ Ngoài ra, bạn có thể tắt Chế độ đơn giản và thử lại."</str
 	<string name="fmt_time_12hour_minute_second">H:mm:ss</string>
 	<string name="fmt_date_numeric_day">D</string>
 	<string name="fmt_date_day">D</string>
+	<string name="after_install_to_delete">Xoá các gói sau khi cài đặt</string>
+	<string name="prepare_install">Chuẩn bị cài đặt…</string>
+	<string name="update_start">Cập nhật</string>
+	<string name="xiaomi_market_sdk_update_dialog_ok">Cập nhật</string>
+	<string name="cancel_update">"Không cập nhật"</string>
+	<string name="app_info_permissions">Quyền</string>
+	<string name="ad_permissions">&lt;u>Quyền&lt;u/></string>
+	<string name="confirm_install">Cài đặt</string>
+	<string name="virus_install_confirm_install">Cài đặt</string>
+	<string name="verify_and_install">Cài đặt</string>
+	<string name="start_install">Cài đặt</string>
+	<string name="dialog_install_confirm_default">Cài đặt</string>
+	<string name="ad_privacy">&lt;u>Sự riêng tư&lt;u/></string>
 </resources>
