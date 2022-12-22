@@ -1730,4 +1730,21 @@ Gia nhập cùng 170 triệu Mi Fan!"</string>
 	<string name="lack_perm_msg">Mi Mover cần quyền dưới đây: &lt;b&gt;%s&lt;/b&gt;.</string>
 	<string name="main_button_continue">Cài đặt</string>
 	<string name="perm_manage_external_storage">Truy cập tất cả các tệp</string>
+	<string name="midrive_hide_recent_cloud_files">"Không hiển thị các tệp Mi Drive trong Gần đây"</string>
+	<string name="recent_hide_cloud_drive_files">"Không hiển thị các tệp Mi Drive trong Gần đây"</string>
+	<string name="cloud_drive_settings">Cài đặt Mi Drive</string>
+	<string name="use_mobile_data_update_summary">Sử dụng dữ liệu di động để tự động đồng bộ hóa các thay đổi đối với các tệp được tải xuống từ Mi Drive</string>
+    <string name="use_mobile_data_update_title">Sử dụng dữ liệu di động để đồng bộ hóa</string>
+	<string name="privacy_recall_title">Rút lại sự đồng ý</string>
+	<string name="pre_privacy_recall">Rút lại sự đồng ý</string>
+	<string name="privacy_recall_confirm_description">"Nếu bạn tiếp tục, bạn sẽ rút lại sự đồng ý của mình đối với Chính sách quyền riêng tư của Trình quản lý tệp. Chúng tôi sẽ ngừng thu thập thông tin cá nhân của bạn. Thông tin cá nhân đã được thu thập và lưu giữ sẽ bị xóa trong khoảng thời gian cụ thể theo luật và quy định hiện hành trừ khi có yêu cầu khác."</string>
+	<string name="privacy_recall_confirm_reminder_card_summary" formatted="false">&lt;font color=#F22424>Các mục sau sẽ bị xóa vĩnh viễn sau khi rút lại sự đồng ý:&lt;/font>&lt;br />&lt;xliff:g id=privacy_recall_confirm_reminder_card_summary_list_1 refersto=1>%1d&lt;/xliff:g>. Tất cả các mục trên Mi Drive, bao gồm nhưng không giới hạn đối với tài liệu, tệp riêng tư và các mục đã xóa.&lt;br />&lt;xliff:g id=privacy_recall_confirm_reminder_card_summary_list_2 refersto=2>%2d&lt;/xliff:g>. Quyền thiết bị, cài đặt và nội dung được lưu trong bộ nhớ đệm khác.&lt;br />&lt;xliff:g id=privacy_recall_confirm_reminder_card_summary_list_3 refersto=3>%3d&lt;/xliff:g>. Lịch sử tải lên và tải xuống của Mi Drive.</string>
+	<string name="reminder_card_title">Chú ý</string>
+	<string name="privacy_recall_confirm_button">Thu hồi</string>
+	<string name="cancel_mi_drive">Hủy dịch vụ Mi Drive</string>
+	<string name="cancel_mi_drive_confirm_button">Hủy dịch vụ</string>
+	<string name="cancel_mi_drive_title">Hủy dịch vụ</string>
+	<string name="cancel_mi_drive_confirm_description">"Nếu tiếp tục, bạn sẽ hủy dịch vụ Mi Drive. Chúng tôi sẽ ngừng thu thập thông tin cá nhân của bạn và thông tin cá nhân đã được thu thập và lưu giữ sẽ bị xóa trong khoảng thời gian được chỉ định theo luật và quy định hiện hành trừ khi có yêu cầu khác."</string>
+    <string name="cancel_mi_drive_confirm_hint">"Việc hủy dịch vụ Mi Drive sẽ không ảnh hưởng đến việc bạn sử dụng các sản phẩm và dịch vụ khác của Xiaomi. Nếu bạn muốn xóa Tài khoản Xiaomi của mình, bạn có thể làm điều đó &lt;font color=#0097FF>&lt;a href=%1$s>ở đây&lt;/a>&lt;/font>."</string>
+	<string name="cancel_mi_drive_confirm_reminder_card_summary" formatted="false">&lt;font color=#F22424>Các mục sau sẽ bị xóa vĩnh viễn sau khi hủy dịch vụ:&lt;/font>&lt;br />&lt;xliff:g id=cancel_mi_drive_confirm_reminder_card_summary_list_1 refersto=1>%1d&lt;/xliff:g>. Tất cả các mục trên Mi Drive, bao gồm nhưng không giới hạn đối với tài liệu, tệp riêng tư và các mục đã xóa.&lt;br />&lt;xliff:g id=cancel_mi_drive_confirm_reminder_card_summary_list_2 refersto=2>%2d&lt;/xliff:g>. Quyền thiết bị, cài đặt và nội dung được lưu trong bộ nhớ đệm khác.&lt;br />&lt;xliff:g id=cancel_mi_drive_confirm_reminder_card_summary_list_3 refersto=3>%3d&lt;/xliff:g>. Lịch sử tải lên và tải xuống của Mi Drive.</string>
 </resources>
