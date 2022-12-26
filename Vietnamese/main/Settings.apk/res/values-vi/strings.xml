@@ -12452,7 +12452,7 @@ Tính năng này chỉ hoạt động khi điều hướng hệ thống được
 	<string name="back_navigation_animation">Dự đoán hoạt ảnh quay lại</string>
     <string name="back_navigation_animation_dialog">Cài đặt này cho phép hoạt ảnh hệ thống cho các cử chỉ tiên đoán. Nó yêu cầu đặt enableOnBackInvokedCallback thành true trong tệp kê khai của từng ứng dụng.</string>
     <string name="back_navigation_animation_summary">Kích hoạt hoạt ảnh hệ thống để dự đoán lại</string>
-	<string name="stylus_handwriting">Bút cảm ứng viết tay/string>
+	<string name="stylus_handwriting">Bút cảm ứng viết tay</string>
     <string name="stylus_handwriting_summary">Khi được bật, Phương thức nhập hiện tại sẽ nhận bút cảm ứng MotionEvent nếu Trình chỉnh sửa được đặt tiêu điểm.</string>
 	<string name="input_method_category">Phương thức nhập</string>
 	<string name="location_time_zone_detection_toggle_title">Sử dụng vị trí để đặt múi giờ</string>
