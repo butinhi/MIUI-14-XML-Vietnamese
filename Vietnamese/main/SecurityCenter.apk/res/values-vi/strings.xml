@@ -5980,4 +5980,11 @@ Ghi lại các trình tự và sử dụng chúng bất cứ lúc nào!"</string
 	<string name="auto_task_show_notification_before_exit">Thông báo trước khi hoàn thành</string>
 	<string name="activity_edit_task_name">Chỉnh sửa nhiệm vụ</string>
 	<string name="auto_task_edit_default_task_name">Chỉnh sửa tên nhiệm vụ</string>
+	<string name="bubble_app_empty_page">"Không thể tìm thấy ứng dụng hỗ trợ bong bóng hội thoại trên thiết bị này"</string>
+	<string name="bubble_app_manage">Quản lý bong bóng hội thoại</string>
+	<string name="bubble_mode_barrage_switch_tips">Bật để hiển thị bong bóng hội thoại cho các ứng dụng được thu nhỏ dưới dạng nhận xét trên màn hình</string>
+	<string name="bubble_mode_barrage_tips">Bong bóng hội thoại cho các ứng dụng được thu nhỏ sẽ hiển thị dưới dạng nhận xét trên màn hình</string>
+	<string name="bubble_notification">Bong bóng hội thoại</string>
+	<string name="bubble_notification_switch">Hiển thị bong bóng hội thoại</string>
+	<string name="bubble_notification_switch_desc">Khi ứng dụng nhắn tin trong cửa sổ nổi bị ẩn ở cạnh màn hình, hãy hiển thị tin nhắn đến trong bong bóng</string>
 </resources>

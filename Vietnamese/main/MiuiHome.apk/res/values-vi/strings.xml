@@ -1081,4 +1081,6 @@
 	<string name="branch_privacy_policy">Chính sách Riêng tư</string>
 	<string name="popular_search">Phổ biến</string>
 	<string name="accessibility_recents_item_dismissed">Đã xóa %1$sB</string>
+	<string name="app_edit_icon">Sửa biểu tượng</string>
+	<string name="menu_only_widget_no_word">Xóa văn bản khỏi tiện ích</string>
 </resources>

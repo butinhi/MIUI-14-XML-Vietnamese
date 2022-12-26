@@ -12356,4 +12356,107 @@ Bật tính năng này và chạm vào nút Trợ năng ở cuối màn hình đ
 	<string name="dark_mode_alert_dialog_cancel">Hủy</string>
 	<string name="google_assistant_guide_title">Trợ lý Google</string>
 	<string name="mi_wallet_desc">Ví Mi</string>
+	<string name="external_ram_intro">"Tạo thêm RAM bằng cách chiếm dung lượng lưu trữ. Chỉ sử dụng tính năng này khi có đủ dung lượng bộ nhớ trên thiết bị của bạn."</string>
+	<string name="interconnection">Kết nối</string>
+	<string name="connection_control">Quản lý kết nối</string>
+	<string name="complete_parameters_new">Thông tin chi tiết và thông số kỹ thuật</string>
+	<string name="network_acceleration">Tăng tốc mạng</string>
+	<string name="multi_network_acceleration_summery">Kết nối với nhiều mạng WLAN cùng lúc để tăng tốc độ</string>
+	<string name="network_auto_switch">Chuyển đổi giữa các mạng</string>
+	<string name="network_auto_switch_summery">"Chuyển sang dữ liệu di động khi tín hiệu mạng WLAN yếu hoặc không có mạng"</string>
+	<string name="data_acceleration_summery">Sử dụng cả mạng WLAN và dữ liệu di động để tăng tốc độ khi kết nối mạng WLAN kém</string>
+	<string name="wifi_primary">Mạng chính</string>
+	<string name="card_holder_header_title">Ví</string>
+	<string name="keywords_wallet">Ví</string>
+	<string name="bt_always_show_icon">Luôn hiển thị biểu tượng trên thanh trạng thái</string>
+	<string name="accept_new_connection">Cho phép kết nối với các thiết bị mới</string>
+    <string name="accept_new_connection_detail">Các kết nối mới đã bị hạn chế trong Trung tâm điều khiển</string>
+	<string name="assistance_category_title">Khả năng truy cập</string>
+	<string name="brightness_auto_summary">Điều chỉnh độ sáng theo ánh sáng xung quanh để tiết kiệm pin</string>
+	<string name="accessibility_button_intro_text">Truy cập nhanh các tính năng trợ năng từ bất kỳ màn hình nào</string>
+	<string name="accessibility_button_summary">Truy cập nhanh các tính năng trợ năng</string>
+	<string name="accessibility_button_opacity_title">Độ trong suốt khi không sử dụng</string>
+    <string name="accessibility_button_or_gesture_title">Sử dụng nút hoặc cử chỉ</string>
+	<string name="accessibility_button_description"><b>Để bắt đầu</b>"
+1. Chuyển đến cài đặt trợ năng
+2. Chọn một tính năng và nhấn vào phím tắt
+3. Chọn nút để truy cập tính năng"</string>
+    <string name="accessibility_button_fade_summary">Mất dần sau vài giây để bạn dễ nhìn màn hình hơn</string>
+    <string name="accessibility_button_fade_title">Làm mờ dần khi không sử dụng</string>
+    <string name="accessibility_button_gesture_about_title">Giới thiệu về nút trợ năng &amp; cử chỉ</string>
+    <string name="accessibility_button_gesture_description"><b>Để bắt đầu</b>"
+1. Chuyển đến cài đặt trợ năng
+2. Chọn một tính năng và nhấn vào phím tắt
+3. Chọn xem bạn muốn sử dụng nút hay cử chỉ để truy cập tính năng"</string>
+    <string name="accessibility_button_gesture_footer_learn_more_content_description">Tìm hiểu thêm về nút hỗ trợ tiếp cận &amp; cử chỉ</string>
+    <string name="accessibility_button_gesture_title">Nút trợ năng &amp; cử chỉ</string>
+	<string name="freeform_guide_vedio_description">Nhấn vào một ứng dụng trên sidebar để mở ứng dụng đó trong cửa sổ nổi</string>
+	<string name="miui_bubbles_notification">Bong bóng hội thoại</string>
+	<string name="freeform_guide_to_sidehide_summary">Kéo nhanh ứng dụng sang hai bên màn hình để ẩn đi</string>
+    <string name="freeform_guide_to_sidehide_title">Ẩn cửa sổ nổi</string>
+	<string name="freeform_guide_slide_to_small_freeform_summary_squarehot">"Nhấn và giữ phần dưới cùng của cửa sổ và kéo nó lên cạnh trên của màn hình.
+Tính năng này chỉ hoạt động khi điều hướng hệ thống được đặt thành cử chỉ."</string>
+	<string name="my_device_info_device_identifiers_category_title">Định danh thiết bị</string>
+	<string name="auto_clean_summary_new">Phát một đoạn âm thanh %d-giây để làm sạch loa. Sử dụng tính năng này nhiều lần liên tiếp để xử lý lượng bụi bẩn đáng kể.</string>
+	<string name="progress_dialog_speaker_auto_clean_title">Đang làm sạch loa…</string>
+	<string name="auto_clean_description_pad">Thông tin về tính năng này
+- Chạy tính năng này một hoặc hai lần nếu bạn thấy rằng loa của mình bị bụi chặn nhẹ.
+- Nếu loa bị chặn nhiều, hãy chạy tính năng này %1$d-%2$d lần trong khi lắc thiết bị của bạn với mặt loa hướng xuống dưới.</string>
+	<string name="string_float_seconds">%f giây</string>
+	<string name="legacy_power_menu">Menu nguồn kiểu cũ</string>
+	<string name="allow_mock_modem">Cho phép Mock Modem</string>
+    <string name="allow_mock_modem_summary">Cho phép thiết bị này chạy dịch vụ Mock Modem để thử nghiệm thiết bị. Không bật tính năng này trong quá trình sử dụng điện thoại thông thường</string>
+	<string name="fiveg_nrca_switch_summary">Cải thiện kết nối 5G cho môi trường thử nghiệm</string>
+    <string name="fiveg_nrca_switch_title">Tổng hợp nhà mạng 5G</string>
+	 <string name="fiveg_vonr_switch_summary">Sử dụng VoNR trong môi trường mạng 5G để cải thiện trải nghiệm gọi điện. Tính năng này chỉ được cung cấp cho mục đích thử nghiệm.</string>
+    <string name="fiveg_vonr_switch_title">Cài đặt VoNR</string>
+	<string name="wifi_non_persistent_mac_randomization">Wi-Fi không liên tục MAC ngẫu nhiên</string>
+    <string name="wifi_non_persistent_mac_randomization_summary">"Khi chế độ này được bật, địa chỉ MAC của thiết bị này có thể thay đổi mỗi khi thiết bị kết nối với mạng đã bật ngẫu nhiên MAC."</string>
+	<string name="ingress_rate_limit_dialog_title">Cấu hình giới hạn tốc độ mạng tải xuống</string>
+    <string name="ingress_rate_limit_no_limit_entry">Không giới hạn</string>
+    <string name="ingress_rate_limit_summary">Cấu hình giới hạn tốc độ truy cập băng thông mạng được áp dụng cho tất cả các mạng cung cấp kết nối internet.</string>
+    <string name="ingress_rate_limit_title">Giới hạn tốc độ mạng tải xuống</string>
+	<string name="bluetooth_disable_le_audio_hw_offload">Tắt tải phần cứng Bluetooth LE AUDIO</string>
+	<string name="use_system_preference">Sử dụng lựa chọn hệ thống (Mặc định)</string>
+	<string name="bluetooth_a2dp_codec_ldac_playback_quality_titles_1">Tối ưu hóa cho chất lượng âm thanh (%1$dkbps/%2$dkbps)</string>
+    <string name="bluetooth_a2dp_codec_ldac_playback_quality_titles_2">Cân bằng chất lượng âm thanh và kết nối (%1$dkbps/%2$dkbps)</string>
+    <string name="bluetooth_a2dp_codec_ldac_playback_quality_titles_3">Tối ưu hóa cho chất lượng kết nối (%1$dkbps/%2$dkbps)</string>
+    <string name="bluetooth_a2dp_codec_ldac_playback_quality_titles_4">Hiệu quả tốt nhất (Tốc độ bit thích ứng)</string>
+	<string name="string_bluetooth_a2dp_codec_lhdc_playback_quality_titles_1">Tối ưu hóa cho độ trễ thấp (%dkbps)</string>
+    <string name="string_bluetooth_a2dp_codec_lhdc_playback_quality_titles_2">Tối ưu hóa cho chất lượng kết nối (%dkbps)</string>
+    <string name="string_bluetooth_a2dp_codec_lhdc_playback_quality_titles_3">Cân bằng chất lượng âm thanh và kết nối (%1$d/%2$dkbps)</string>
+    <string name="string_bluetooth_a2dp_codec_lhdc_playback_quality_titles_4">Tối ưu hóa cho chất lượng âm thanh (%dkbps)</string>
+    <string name="string_bluetooth_a2dp_codec_lhdc_playback_quality_titles_5">Nỗ lực tốt nhất (Tốc độ bit tự động)</string>
+	<string name="nfc_stack_debuglog_summary">Tăng mức ghi nhật ký NFC</string>
+    <string name="nfc_stack_debuglog_title">Nhật ký gỡ lỗi NFC</string>
+	<string name="inputdebuglog_select_level">Cấp nhật ký đầu vào</string>
+	<string name="window_blurs">Cho phép làm mờ cấp cửa sổ</string>
+	<string name="force_msaa_prefrence_summary_new">Bật 4x MSAA trong ứng dụng OpenGL ES %1$.1f</string>
+	<string name="transcode_default">Giả sử các ứng dụng hỗ trợ các định dạng hiện đại</string>
+    <string name="transcode_disable_cache">Tắt bộ đệm chuyển mã</string>
+    <string name="transcode_enable_all">Bật chuyển mã</string>
+    <string name="transcode_notification">Hiển thị thông báo chuyển mã</string>
+    <string name="transcode_settings_title">Cài đặt chuyển mã phương tiện</string>
+    <string name="transcode_user_control">Ghi đè chuyển mã mặc định</string>
+	<string name="standard_limit">Giới hạn tiêu chuẩn</string>
+	<string name="no_background_processes">Không có quá trình nền</string>
+	<string name="asst_importance_reset_title">Đặt lại tầm quan trọng của thông báo</string>
+	<string name="tare_title">ĐẨY LÙI</string>
+	<string name="tare_alarmmanager">Trình quản lý báo động</string>
+	<string name="tare_jobscheduler">Lịch trình công việc</string>
+	<string name="tare_revert">Đặt về Cài đặt mặc định</string>
+	<string name="tare_off">TẮT</string>
+    <string name="tare_on">BẬT</string>
+	<string name="enable_non_resizable_multi_window">Kích hoạt tính năng không thể thay đổi kích thước trong nhiều cửa sổ</string>
+    <string name="enable_non_resizable_multi_window_summary">Cho phép các ứng dụng không thể thay đổi kích thước nằm trong nhiều cửa sổ</string>
+	<string name="back_navigation_animation">Dự đoán hoạt ảnh quay lại</string>
+    <string name="back_navigation_animation_dialog">Cài đặt này cho phép hoạt ảnh hệ thống cho các cử chỉ tiên đoán. Nó yêu cầu đặt enableOnBackInvokedCallback thành true trong tệp kê khai của từng ứng dụng.</string>
+    <string name="back_navigation_animation_summary">Kích hoạt hoạt ảnh hệ thống để dự đoán lại</string>
+	<string name="stylus_handwriting">Bút cảm ứng viết tay/string>
+    <string name="stylus_handwriting_summary">Khi được bật, Phương thức nhập hiện tại sẽ nhận bút cảm ứng MotionEvent nếu Trình chỉnh sửa được đặt tiêu điểm.</string>
+	<string name="input_method_category">Phương thức nhập</string>
+	<string name="location_time_zone_detection_toggle_title">Sử dụng vị trí để đặt múi giờ</string>
+	<string name="time_format_entries_3">Tự động (dựa trên ngôn ngữ hệ thống)</string>
+	<string name="location_settings_footer_general">Các ứng dụng có quyền Thiết bị ở gần có thể xác định vị trí tương đối của các thiết bị được kết nối.</string>
+    <string name="location_settings_footer_learn_more_content_description">Tìm hiểu thêm về Cài đặt vị trí.</string>
 </resources>

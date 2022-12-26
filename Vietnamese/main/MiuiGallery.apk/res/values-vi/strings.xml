@@ -3237,4 +3237,8 @@ Phiên dịch có thể mất một lúc khi bạn sử dụng tính năng này 
 	<string name="ocr_switch_title">Nhận dạng văn bản trên hình ảnh</string>
 	<string name="ocr_switch_hint">Nhận dạng văn bản hiển thị trên hình ảnh để có thể chọn nó hoặc thực hiện hành động</string>
 	<string name="privacy_map_detail_content_new">Bản đồ thư viện tuyên bố chia sẻ dữ liệu của bên thứ ba</string>
+	<string name="cleaner_size">Dọn thùng rác (%s)</string>
+	<string name="media_type_hd">Độ nét cao</string>
+	<string name="media_type_front_photo">Ảnh tự chụp</string>
+	<string name="sort_and_showmode">Sắp xếp và xem</string>
 </resources>

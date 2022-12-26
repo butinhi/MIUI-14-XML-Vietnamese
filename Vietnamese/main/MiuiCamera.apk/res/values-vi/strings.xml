@@ -2519,4 +2519,17 @@ Sau khi bật chức năng "ghi nhiều camera", máy ảnh của điện thoạ
 	<string name="beauty_makeups_danyan">Trắng mơ</string>
 	<string name="beauty_makeups_subeffect_makeup">Trang điểm</string>
 	<string name="beauty_makeups_subeffect_filter">Bộ lọc</string>
+	<string name="pref_camera_tap_shoot_summary">Nhấn vào màn hình xem trước để chụp ảnh</string>
+    <string name="pref_camera_tap_shoot_title">Nhấn để chụp ảnh</string>
+	<string name="pref_retain_beauty_description">Giữ nguyên các tùy chọn Làm đẹp đã chọn trong phiên trước đó</string>
+    <string name="pref_retain_camera_mode">Chế độ máy ảnh</string>
+    <string name="pref_retain_camera_mode_description">Giữ nguyên chế độ đã sử dụng trước đó cùng với lựa chọn camera trước hoặc sau</string>
+    <string name="pref_retain_camera_status_description">Giữ nguyên chế độ đã sử dụng trước đó thay vì tự động đặt lại về tùy chọn mặc định</string>
+    <string name="pref_retain_camera_status_title">Giữ nguyên cài đặt</string>
+	<string name="pref_retain_live_shot_description">Giữ nguyên trạng thái ảnh động được đặt trong phiên trước đó</string>
+	<string name="pref_retain_ai_scene_description">Giữ nguyên trạng thái máy ảnh AI đã đặt trong phiên trước đó</string>
+	<string name="pref_auto_boot_summary">Làm cho Máy ảnh phản ứng nhanh hơn bằng cách cho phép máy ảnh tự động khởi động. Bạn có thể quản lý quyền tự khởi động trong chi tiết ứng dụng.</string>
+	<string name="pref_camera_volumekey_function_entry_timer_new">Hẹn giờ (%ds)</string>
+	<string name="custom_sound_art">Cổ điển</string>
+	<string name="custom_sound_old">Phim</string>
 </resources>
