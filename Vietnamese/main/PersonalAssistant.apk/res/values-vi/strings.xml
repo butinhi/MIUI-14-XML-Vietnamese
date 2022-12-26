@@ -2857,7 +2857,7 @@ Vui lòng gửi mã này cho nhân viên kỹ thuật."</string>
 	<string name="pa_scan_app">Máy quét</string>
 	<string name="pa_setting_privacy_revoke_no_net_title">Không thể kết nối mạng</string>
 	<string name="pa_sports_title">Thể thao</string>
-	<string name="pa_setting_privacy_perm_install_app">nhận thông tin về ứng dụng đã cài đặt trên thiết bị</string>
+	<string name="pa_setting_privacy_perm_install_app">Nhận thông tin về ứng dụng đã cài đặt trên thiết bị</string>
 	<string name="pa_express_manual_select_company">Chọn</string>
 	<string name="pa_edit_every_month">Hàng tháng</string>
 	<string name="pa_picker_search_empty">Không tìm thấy kết quả</string>
@@ -2963,4 +2963,20 @@ Vui lòng gửi mã này cho nhân viên kỹ thuật."</string>
 	<string name="pa_shopping_page_product_item_icon_tag">Đề xuất</string>
 	<string name="pa_guide_dialog_title">Kiểm tra kho tiện ích của chúng tôi</string>
 	<string name="pa_guide_dialog_desc">Nhấn và giữ một tiện ích để sắp xếp lại. Nhấn vào dấu cộng để thêm các tiện ích khác.</string>
+	<string name="pa_get_installed_app_permission_description">Để cài đặt ứng dụng và thêm tiện ích</string>
+	<string name="pa_setting_privacy_third_parties">Tuyên bố về chia sẻ dữ liệu với bên thứ ba</string>
+	<string name="pa_setting_privacy_revoke_cta_summary">Rút lại sự đồng ý với Chính sách quyền riêng tư của App vault</string>
+	<string name="pa_setting_privacy_revoke_cta_message">Nếu tiếp tục, bạn sẽ rút lại sự đồng ý của mình đối với Chính sách quyền riêng tư của App vault. Thông tin cá nhân đã được thu thập và lưu giữ sẽ bị xóa trong khoảng thời gian cụ thể theo luật và quy định hiện hành trừ khi có yêu cầu khác. Vì Kho ứng dụng cung cấp các dịch vụ của mình dựa trên việc thu thập thông tin cá nhân cần thiết, việc bạn rút lại sự đồng ý sẽ được coi là từ chối chấp nhận các dịch vụ Kho ứng dụng. Rút lại sự đồng ý bây giờ?</string>
+    <string name="pa_setting_privacy_logout">Hủy dịch vụ</string>
+    <string name="pa_setting_privacy_logout_dialog_message">Nếu tiếp tục, bạn sẽ hủy dịch vụ App vault. Sau đó, bạn sẽ không thể xem hoặc sử dụng các tiện ích của App vault. Thông tin cá nhân đã được thu thập và lưu giữ sẽ bị xóa trong khoảng thời gian cụ thể theo luật và quy định hiện hành. Vẫn hủy dịch vụ?</string>
+	<string name="pa_setting_privacy_logout_dialog_title">Hủy dịch vụ App vault</string>
+    <string name="pa_setting_privacy_logout_summary">Hủy dịch vụ App vault</string>
+    <string name="pa_rts_summary">Đặt các tiện ích được sử dụng thường xuyên nhất trên bảng điều khiển</string>
+	<string name="pa_recommend_card">Khuyến nghị</string>
+	<string name="pa_recommend_card_summary">Khuyến nghị tiện ích</string>
+	<string name="pa_search_summary">Hiển thị thanh tìm kiếm</string>
+	<string name="pa_operation_switch_summary">Xem các tiện ích phổ biến gần đây</string>
+	<string name="pa_picker_home_app_group_title">Tiện ích được hỗ trợ</string>
+	<string name="pa_picker_classic_widget">Tiện ích Android</string>
+	<string name="pa_picker_list_app_footer_classic_widget">Tiện ích Android</string>
 </resources>

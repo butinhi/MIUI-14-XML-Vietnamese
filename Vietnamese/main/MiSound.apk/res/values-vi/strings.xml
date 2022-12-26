@@ -613,4 +613,7 @@
 	<string name="miuix_access_state_desc">Đã chọn</string>
 	<string name="miuix_indexer_selected">Đã chọn %s</string>
 	<string name="effect_virtual_surround">Âm thanh vòm</string>
+	<string name="sound_id_pref_description">Điều chỉnh hiệu ứng âm thanh cho các kiểu tai nghe</string>
+    <string name="sound_id_pref_name">Tùy chỉnh hiệu ứng</string>
+	<string name="effect_virtual_surround_summary">"Tăng cường độ sâu của âm thanh để phát âm thanh và video trong tai nghe (Tính năng này sẽ không hoạt động khi phát âm thanh %.1f)"</string>
 </resources>
