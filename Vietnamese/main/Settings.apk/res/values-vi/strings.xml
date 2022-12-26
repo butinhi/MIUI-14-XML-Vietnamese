@@ -12459,4 +12459,5 @@ Tính năng này chỉ hoạt động khi điều hướng hệ thống được
 	<string name="time_format_entries_3">Tự động (dựa trên ngôn ngữ hệ thống)</string>
 	<string name="location_settings_footer_general">Các ứng dụng có quyền Thiết bị ở gần có thể xác định vị trí tương đối của các thiết bị được kết nối.</string>
     <string name="location_settings_footer_learn_more_content_description">Tìm hiểu thêm về Cài đặt vị trí.</string>
+	<string name="emergency_settings_preference_title">An toàn &amp; khẩn cấp</string>
 </resources>
