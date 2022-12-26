@@ -483,4 +483,7 @@
 	<string name="device_list_more">Thêm</string>
 	<string name="global_phone">Điện thoại của tôi</string>
 	<string name="device_list_all">Tất cả thiết bị</string>
+	<string name="app_name">Ảnh chụp màn hình</string>
+	<string name="global_main_purpose">Chào mừng bạn đến với Trình chỉnh sửa ảnh chụp màn hình! Bạn có thể sử dụng ứng dụng này để cắt và chỉnh sửa ảnh chụp màn hình của mình. Ứng dụng này cần kết nối với internet để có thể hoạt động bình thường.</string>
+	<string name="cta_main_purpose">Chào mừng bạn đến với Trình chỉnh sửa ảnh chụp màn hình! Bạn có thể sử dụng ứng dụng này để cắt và chỉnh sửa ảnh chụp màn hình của mình.</string>
 </resources>
