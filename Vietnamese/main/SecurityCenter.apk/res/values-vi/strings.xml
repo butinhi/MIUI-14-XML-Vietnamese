@@ -5700,7 +5700,7 @@ Ghi lại các trình tự và sử dụng chúng bất cứ lúc nào!"</string
 	<string name="task_summary_open_screen_display">Bật Màn hình luôn bật</string>
 	<string name="privacy_dialog_positive_button_text">Đồng ý</string>
 	<string name="title_result_location">Vị trí</string>
-	<string name="HIPS_Perm_GetInstall_Desc">nhận thông tin về ứng dụng đã cài đặt trên thiết bị</string>
+	<string name="HIPS_Perm_GetInstall_Desc">Nhận thông tin về ứng dụng đã cài đặt trên thiết bị</string>
 	<string name="gd_setting_group_custom_gtb_apps">Trò Chơi</string>
     ````<string name="gd_setting_group_custom_line_location">Vị trí thanh công cụ</string>
     ````<string name="gd_setting_group_custom_settings">Cá nhân hóa</string>
@@ -5734,7 +5734,6 @@ Ghi lại các trình tự và sử dụng chúng bất cứ lúc nào!"</string
     	<string name="beauty_fc_video_call">Làm đẹp cuộc gọi video</string>
     	<string name="beauty_fc_video_call_summary">Hiện thị nút làm đẹp khi thực hiện cuộc gọi video của WeChat </string>
 	<string name="bottom_notice_title">Trượt lên để mở công cụ</string>
-	
 	<string name="size_byte">B</string>
 	<string name="fmt_date_numeric_day">D</string>
 	<string name="size_kilo_byte">KB</string>
@@ -5769,7 +5768,6 @@ Ghi lại các trình tự và sử dụng chúng bất cứ lúc nào!"</string
 	<string name="adv_version_text">Phiên bản: %s</string>
 	<string name="vb_video_effects_3d_summary">Tăng cường độ sâu tái tạo âm thanh cho tai nghe và loa</string>
 	<string name="auto_task_default_task_title_save_power">Tiết kiệm pin</string>
-	<string name="custom_define_permission_desc_android.permission.SEND_SMS">Để định vị thiết bị này khi nó không được kết nối với internet</string>
 	<string name="gb_manual_video_record_title">Ghi âm</string>
 	<string name="gb_shoulder_subsection_trigger">Tuần tự</string>
 	<string name="gtb_mode_normal">Thường</string>
@@ -5987,4 +5985,20 @@ Ghi lại các trình tự và sử dụng chúng bất cứ lúc nào!"</string
 	<string name="bubble_notification">Bong bóng hội thoại</string>
 	<string name="bubble_notification_switch">Hiển thị bong bóng hội thoại</string>
 	<string name="bubble_notification_switch_desc">Khi ứng dụng nhắn tin trong cửa sổ nổi bị ẩn ở cạnh màn hình, hãy hiển thị tin nhắn đến trong bong bóng</string>
+	<string name="HIPS_Perm_External_READ_FILES">Truy cập tệp và tài liệu</string>
+	<string name="HIPS_Perm_External_READ_FILES_Desc">Truy cập các tệp và tài liệu được lưu trữ trên thiết bị</string>
+	<string name="HIPS_Perm_External_READ_MEDIA_AUDIO">Truy cập tệp âm thanh</string>
+	<string name="HIPS_Perm_External_READ_MEDIA_AUDIO_Desc">Truy cập các bài hát và tệp âm thanh khác được lưu trữ trên thiết bị</string>
+	<string name="HIPS_Perm_External_READ_MEDIA_AUDIO_PIC_VIDEO_Desc">Truy cập và lưu các tệp hình ảnh, video và âm thanh vào bộ nhớ trong</string>
+	<string name="HIPS_Perm_External_READ_MEDIA_PIC_VIDEO">Truy cập ảnh và video</string>
+	<string name="HIPS_Perm_External_READ_MEDIA_PIC_VIDEO_Desc">Truy cập ảnh và video được lưu trữ trên thiết bị</string>
+	<string name="system_app_permission_instruction">Ứng dụng này cần các quyền sau để cung cấp các dịch vụ hệ thống cơ bản. Việc quản lý quyền bị hạn chế đối với ứng dụng này vì việc thay đổi trạng thái quyền sẽ dẫn đến sự bất thường trong hoạt động của hệ thống.</string>
+	<string name="custom_define_permission_desc_android.permission.CALL_PHONE">Để sử dụng danh sách chặn và thực hiện cuộc gọi đến các liên hệ khẩn cấp khi có cảnh báo động đất</string>
+	<string name="custom_define_permission_desc_android.permission.READ_CALL_LOG">Để hiển thị các cuộc gọi bị chặn trong lịch sử cuộc gọi của bạn</string>
+	<string name="custom_define_permission_desc_android.permission.READ_CONTACTS">Để sử dụng danh sách chặn</string>
+	<string name="custom_define_permission_desc_android.permission.READ_SMS">Để sử dụng danh sách chặn và nhận dạng tin nhắn từ nhà cung cấp dịch vụ của bạn</string>
+	<string name="custom_define_permission_desc_android.permission.SEND_SMS">Để sử dụng danh sách chặn và gửi tin nhắn hiệu chỉnh đến nhà cung cấp dịch vụ của bạn</string>
+    <string name="custom_define_permission_desc_android.permission.WRITE_CALL_LOG">Để xóa tin nhắn khỏi danh sách chặn của bạn</string>
+	<string name="custom_define_permission_desc_android.permission_group.LOCATION">Để cung cấp các tính năng liên quan đến vị trí của bạn trong Trung tâm cảnh báo MIUI, SOS khẩn cấp, Trình tiết kiệm pin ứng dụng, trình quét bảo mật thanh toán và dịch vụ vị trí gần đúng</string>	
+	<string name="system_permission_declare_optional">"Để cung cấp cho bạn các dịch vụ bổ sung trong khi bạn đang sử dụng ứng dụng, chúng tôi có thể cần các quyền sau: %s. Bạn luôn có thể điều chỉnh tùy chọn quyền của mình trong Cài đặt."</string>
 </resources>

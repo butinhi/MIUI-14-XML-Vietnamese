@@ -664,4 +664,11 @@ Thử lại"</string>
 	<string name="dialog_negative_btn_cancel_restore">Dừng khôi phục</string>
 	<string name="dialog_title_cancel_restore">Dừng khôi phục</string>
 	<string name="dialog_positive_btn_cancel_restore">Tiếp tục</string>
+	<string name="cloud_backup_detail_header_msg">"Giờ đây, bạn có thể sao lưu bố cục Màn hình chính, ứng dụng, cài đặt hệ thống và dữ liệu WeChat của thiết bị. &lt;font color=#0D84FF>&lt;a href=>Nhấn để tìm hiểu thêm.&lt;/a>&lt;/font>"</string>
+    <string name="cloud_backup_detail_header_msg_no_wechat_backup">"Sao lưu bố cục Màn hình chính, danh sách ứng dụng và cài đặt hệ thống của thiết bị. &lt;font color=#0D84FF>&lt;a href=>Nhấn để tìm hiểu thêm&lt;/a>&lt;/font>."</string>
+	<string name="restore_header_title">Tổng kích thước: %s</string>
+    <string name="restore_header_title2">Tổng số bản sao lưu: %s</string>
+	<string name="restore_file_empty">Không có bản sao lưu ở đây</string>
+	<string name="cloud_backup_detail_no_time">Không có hồ sơ sao lưu</string>
+	<string name="session_success_restore_data_size">Tổng kích thước tệp: %s</string>
 </resources>
