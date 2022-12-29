@@ -785,4 +785,7 @@ Bạn cần phải cài đặt phiên bản MIUI của nhà phát triển để 
 	<string name="fmt_time">T</string>
 	<string name="fmt_date_numeric_day">D</string>
 	<string name="fmt_date_day">D</string>
+	<string name="HIPS_Perm_NEARBY_DEVICES">Kết nối với các thiết bị lân cận</string>
+	<string name="HIPS_Perm_NEARBY_DEVICES_Desc">Khám phá và kết nối với các thiết bị lân cận</string>
+	<string name="HIPS_Perm_NEARBY_DEVICES_Desc_T_china">Khám phá và kết nối với các thiết bị lân cận qua Bluetooth và Wi-Fi</string>
 </resources>

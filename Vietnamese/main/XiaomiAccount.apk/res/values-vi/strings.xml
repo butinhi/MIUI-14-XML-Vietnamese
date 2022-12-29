@@ -1132,4 +1132,7 @@ Hãy chắc chắn bạn nhớ tất cả câu trả lời."</string>
 	<string name="find_new_apk_version">Tìm thấy phiên bản mới!</string>
 	<string name="phone_register">Sử dụng số điện thoại</string>
 	<string name="copy_link">Sao chép URL</string>
+	<string name="about_mi_account">Giới thiệu về tài khoản Mi</string>
+	<string name="revoke_privacy_policy_instructions">"Nếu bạn tiếp tục, bạn sẽ rút lại sự đồng ý của mình đối với Chính sách quyền riêng tư của tài khoản Xiaomi. Chúng tôi sẽ ngừng thu thập thông tin cá nhân của bạn. Thông tin cá nhân đã được thu thập và lưu giữ sẽ bị xóa trong khoảng thời gian cụ thể theo luật và quy định hiện hành trừ khi có yêu cầu khác. Vì Tài khoản Xiaomi cung cấp các dịch vụ của mình dựa trên việc thu thập thông tin cá nhân cần thiết, nên việc bạn rút lại sự đồng ý sẽ được coi là từ chối chấp nhận các dịch vụ của Tài khoản Xiaomi. Rút lại sự đồng ý ngay bây giờ?"</string>
+	<string name="mi_account">Tài khoản của tôi</string>
 </resources>
