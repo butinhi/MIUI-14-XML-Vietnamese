@@ -12460,4 +12460,11 @@ Tính năng này chỉ hoạt động khi điều hướng hệ thống được
 	<string name="location_settings_footer_general">Các ứng dụng có quyền Thiết bị ở gần có thể xác định vị trí tương đối của các thiết bị được kết nối.</string>
     <string name="location_settings_footer_learn_more_content_description">Tìm hiểu thêm về Cài đặt vị trí.</string>
 	<string name="emergency_settings_preference_title">An toàn &amp; khẩn cấp</string>
+	<string name="permissions_usage_summary">Hiển thị những ứng dụng gần đây đã sử dụng quyền</string>
+    <string name="permissions_usage_title">Bảng tổng quan về quyền riêng tư</string>
+	<string name="show_clip_access_notification">Hiển thị bảng tạm quyền truy cập</string>
+    <string name="show_clip_access_notification_summary">Hiển thị thông báo khi ứng dụng truy cập vào văn bản, hình ảnh hoặc nội dung khác mà bạn đã sao chép</string>
+	<string name="turn_screen_on_title">Bật màn hình</string>
+	<string name="alarms_and_reminders_title">Báo động &amp; nhắc nhở</string>
+	<string name="media_management_apps_title">Ứng dụng quản lý phương tiện truyền thông</string>
 </resources>
