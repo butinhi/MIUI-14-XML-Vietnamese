@@ -6001,4 +6001,22 @@ Ghi lại các trình tự và sử dụng chúng bất cứ lúc nào!"</string
     <string name="custom_define_permission_desc_android.permission.WRITE_CALL_LOG">Để xóa tin nhắn khỏi danh sách chặn của bạn</string>
 	<string name="custom_define_permission_desc_android.permission_group.LOCATION">Để cung cấp các tính năng liên quan đến vị trí của bạn trong Trung tâm cảnh báo MIUI, SOS khẩn cấp, Trình tiết kiệm pin ứng dụng, trình quét bảo mật thanh toán và dịch vụ vị trí gần đúng</string>	
 	<string name="system_permission_declare_optional">"Để cung cấp cho bạn các dịch vụ bổ sung trong khi bạn đang sử dụng ứng dụng, chúng tôi có thể cần các quyền sau: %s. Bạn luôn có thể điều chỉnh tùy chọn quyền của mình trong Cài đặt."</string>
+    <string name="terminal_privacy">Bảo vệ quyền riêng tư trên thiết bị</string>
+    <string name="terminal_privacy_ability">Tính năng và cơ chế</string>
+    <string name="terminal_privacy_ability_img">Đang xử lý hình ảnh</string>
+    <string name="terminal_privacy_ability_img_summary">Chỉnh sửa và nhận dạng thông minh cho ảnh và video trong Máy ảnh, Thư viện và Taplus</string>
+    <string name="terminal_privacy_ability_model">Nhận biết cách thiết bị của bạn tương tác với môi trường</string>
+    <string name="terminal_privacy_ability_model_summary">Bộ đếm bước, cử chỉ thông minh, Chế độ bỏ túi và độ sáng tự động</string>
+    <string name="terminal_privacy_ability_others">Cơ chế khác</string>
+    <string name="terminal_privacy_ability_others_summary">Chia sẻ màn hình, thử nghiệm môi trường thanh toán, nhận dạng vân tay và khuôn mặt</string>
+    <string name="terminal_privacy_ability_suggest">Khuyến nghị</string>
+    <string name="terminal_privacy_ability_suggest_summary">Các đề xuất và đề xuất từ các thư mục trên Màn hình chính, sidebar và Ví Mi</string>
+    <string name="terminal_privacy_ability_summary">*Các tính năng và cơ chế bảo vệ quyền riêng tư trên thiết bị có thể khác nhau tùy theo thiết bị</string>
+    <string name="terminal_privacy_ability_txt">Văn bản</string>
+    <string name="terminal_privacy_ability_txt_summary">Chỉnh sửa văn bản, phụ đề thông minh, Taplus, tin nhắn và khay nhớ tạm được chia sẻ</string>
+    <string name="terminal_privacy_ability_voice">Nhận dạng giọng nói</string>
+    <string name="terminal_privacy_ability_voice_summary">Ra lệnh bằng giọng nói và phụ đề thông minh</string>
+    <string name="terminal_privacy_instruction">Tính năng bảo vệ quyền riêng tư trên thiết bị bao gồm các tính năng đảm bảo thông tin cá nhân của bạn được lưu giữ trên thiết bị này thay vì được tải lên đám mây</string>
+    <string name="terminal_privacy_summary">Xử lý thông tin cá nhân trên thiết bị này</string>
+	<string name="pp_sms_and_contacts">Danh bạ và nhắn tin</string>
 </resources>

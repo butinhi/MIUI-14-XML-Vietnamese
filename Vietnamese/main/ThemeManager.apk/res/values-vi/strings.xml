@@ -1721,4 +1721,41 @@ Bạn sẽ thấy ảnh mới mỗi giờ."</string>
     <string name="toast_lockscreen_apply_success">Đã áp dụng thành công cho Màn hình khóa</string>
     <string name="toast_lockscreen_apply_success_but_home_apply_failured">Đã áp dụng thành công cho Màn hình khóa. Không thể áp dụng cho Màn hình chính.</string>
 	<string name="theme_component_title_large_icon">Siêu biểu tượng</string>
+	<string name="phone_log_in_theme">Đăng nhập vào Chủ đề</string>
+	<string name="login_theme">Đăng nhập vào Chủ đề</string>
+	<string name="phone_log_in_theme_detail">"Tôi đã đọc và đồng ý với Chủ đề' &lt;font color=\"#37A5FF\">&lt;/color>&lt;a href=\"%1$s\">Thỏa thuận người dùng&lt;/a>&lt;/font> and &lt;font color=\"#37A5FF\">&lt;/color>&lt;a href=\"%2$s\">Chính sách bảo mật&lt;/a>&lt;/font>, cũng như Tài khoản Mi &lt;font color=\"#37A5FF\">&lt;a href=\"%3$s\">Thỏa thuận người dùng&lt;/a>&lt;/font>&lt;font color=\"#37A5FF\"> and &lt;a href=\"%4$s\">Chính sách bảo mật&lt;/a>&lt;/font> (để đăng nhập bằng tài khoản hệ thống)."</Data></string>
+	<string name="read_and_agree_account_privacy">"Tôi đã đọc và đồng ý với Tài khoản Mi &lt;font color=\"#37A5FF\">&lt;a href=\"%3$s\">Thỏa thuận người dùng&lt;/a>&lt;/font> and &lt;font color=\"#37A5FF\">&lt;a href=\"%4$s\">Chính sách bảo mật&lt;/a>&lt;/font>."</Data></string>
+	<string name="local_mode">Chế độ ngoại tuyến</string>
+    <string name="local_mode_close">Tắt chế độ ngoại tuyến?</string>
+    <string name="local_mode_close_desc">Tắt chế độ ngoại tuyến nếu bạn muốn sử dụng các dịch vụ trực tuyến. Tắt ngay bây giờ?</string>
+    <string name="local_mode_desc">"Chế độ ngoại tuyến chỉ sử dụng nội dung cục bộ và không sử dụng các dịch vụ trực tuyến"</string>
+    <string name="local_mode_hint">"Bạn đang sử dụng chế độ ngoại tuyến.
+Nhấn để tắt."</string>
+    <string name="local_mode_open">Chế độ ngoại tuyến</string>
+	<string name="basic_mode">Chế độ ngoại tuyến</string>
+	<string name="privacy_confirm_logoff_and_exit">Hủy dịch vụ</string>
+	<string name="privacy_logoff_services_title">Hủy dịch vụ</string>
+	<string name="privacy_phone_logoff_service_content">Hủy dịch vụ Chủ đề</string>
+	<string name="system_cta_runtime_perm_desc_storage_above_eleven">Để thay đổi tùy chọn cá nhân hóa</string>
+	<string name="privacy_phone_revoke_agree_introduce">"Nếu bạn tiếp tục, bạn sẽ rút lại sự đồng ý của mình đối với Chính sách quyền riêng tư của Chủ đề. Thông tin cá nhân đã được thu thập và lưu giữ sẽ bị xóa trong khoảng thời gian cụ thể theo luật và quy định hiện hành trừ khi có yêu cầu khác. Vì Chủ đề cung cấp dịch vụ của mình dựa trên việc thu thập thông tin cá nhân cần thiết, nên việc bạn rút lại sự đồng ý sẽ được coi là từ chối chấp nhận dịch vụ của Chủ đề."</string>
+	<string name="privacy_revoke_agree_data_warning">Dữ liệu sau đây sẽ bị xóa vĩnh viễn hoặc ẩn danh sau khi rút lại sự đồng ý (trừ khi luật pháp và quy định có quy định khác hoặc theo yêu cầu khác của cơ quan quản lý):</string>
+	<string name="privacy_revoke_succeed">Rút lại sự đồng ý thành công</string>
+    <string name="privacy_select_mode_desc">"Vì bạn chưa đồng ý với Chính sách quyền riêng tư của chúng tôi, hãy chọn một trong các chế độ sau:"</string>
+    <string name="privacy_update_prompt_title">Chính sách bảo mật được cập nhật</string>
+    <string name="private_pad_fold_revoke_agree_detail_content_1">"1. Đảm bảo rằng bạn có quyền rút lại sự đồng ý trước khi tiếp tục.
+2. Việc bạn rút lại sự đồng ý với Chính sách quyền riêng tư của Hình nền và cá nhân hóa sẽ không ảnh hưởng đến việc sử dụng bình thường các sản phẩm khác của Xiaomi.
+3. Rút lại sự đồng ý là một hành động không thể đảo ngược. Sao lưu tất cả các mục quan trọng trước khi bạn tiếp tục vì chúng có thể bị xóa vĩnh viễn. Hãy nhớ rằng bạn sẽ không thể xem xét lại quyết định của mình sau khi sự đồng ý của bạn bị rút lại. Dữ liệu sau đây sẽ bị xóa vĩnh viễn hoặc ẩn danh sau khi rút lại sự đồng ý (trừ khi luật pháp và quy định có quy định khác hoặc theo yêu cầu khác của cơ quan quản lý):"</string>
+    <string name="private_pad_fold_revoke_agree_detail_content_2">"Tất cả các đơn đặt hàng (bao gồm cả đơn đặt hàng đã thanh toán) được thực hiện trên các thiết bị Xiaomi mà bạn đã sử dụng Tài khoản Mi của mình. Bạn sẽ không còn có thể sử dụng các mặt hàng bạn đã mua.
+Tất cả thông tin về lượt thích, nhận xét, xếp hạng và người theo dõi của bạn được tạo trên các thiết bị Xiaomi mà bạn đã sử dụng Tài khoản Mi của mình.
+Tất cả hình nền, phông chữ và nhạc chuông được tải xuống thiết bị này.
+Tất cả các tùy chọn quyền, cài đặt và các mục được lưu trong bộ nhớ cache được tạo trên thiết bị này.
+Tất cả các mục cá nhân hóa hiện đang được sử dụng trên thiết bị này. Tùy chọn cá nhân hóa mặc định sẽ được khôi phục."</string>
+    <string name="private_pad_fold_revoke_agree_detail_content_3">"4. Sau khi bạn rút lại sự đồng ý của mình với Chính sách quyền riêng tư của Hình nền và cá nhân hóa, chúng tôi sẽ ngừng thu thập thông tin cá nhân của bạn. Thông tin cá nhân đã được thu thập và lưu giữ sẽ bị xóa trong khoảng thời gian cụ thể theo luật và quy định hiện hành trừ khi có yêu cầu khác. 
+5. Việc rút lại sự đồng ý không có nghĩa là miễn trừ hoặc giảm nhẹ trách nhiệm do các hành động được thực hiện trước khi rút lại sự đồng ý."</string>
+	<string name="phone_exit_theme_warning_title">Đăng xuất khỏi Chủ đề?</string>
+	    <string name="pad_fold_exit_wallpaper_warning_content">"Bạn sẽ không thể thực hiện các tác vụ sau sau khi đăng xuất:
+Xem và sử dụng các mặt hàng bạn đã mua hoặc thêm vào mục yêu thích."</string>
+<string name="phone_exit_theme_warning_content">"Bạn sẽ không thể thực hiện các tác vụ sau sau khi đăng xuất:
+1. Xem và sử dụng các mặt hàng bạn đã mua hoặc thêm vào mục yêu thích.
+2. Thêm nhận xét và lượt thích, theo dõi người khác và tương tác với họ."</string>
 </resources>
