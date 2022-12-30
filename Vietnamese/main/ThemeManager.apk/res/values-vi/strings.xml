@@ -1723,8 +1723,8 @@ Bạn sẽ thấy ảnh mới mỗi giờ."</string>
 	<string name="theme_component_title_large_icon">Siêu biểu tượng</string>
 	<string name="phone_log_in_theme">Đăng nhập vào Chủ đề</string>
 	<string name="login_theme">Đăng nhập vào Chủ đề</string>
-	<string name="phone_log_in_theme_detail">"Tôi đã đọc và đồng ý với Chủ đề' &lt;font color=\"#37A5FF\">&lt;/color>&lt;a href=\"%1$s\">Thỏa thuận người dùng&lt;/a>&lt;/font> and &lt;font color=\"#37A5FF\">&lt;/color>&lt;a href=\"%2$s\">Chính sách bảo mật&lt;/a>&lt;/font>, cũng như Tài khoản Mi &lt;font color=\"#37A5FF\">&lt;a href=\"%3$s\">Thỏa thuận người dùng&lt;/a>&lt;/font>&lt;font color=\"#37A5FF\"> and &lt;a href=\"%4$s\">Chính sách bảo mật&lt;/a>&lt;/font> (để đăng nhập bằng tài khoản hệ thống)."</Data></string>
-	<string name="read_and_agree_account_privacy">"Tôi đã đọc và đồng ý với Tài khoản Mi &lt;font color=\"#37A5FF\">&lt;a href=\"%3$s\">Thỏa thuận người dùng&lt;/a>&lt;/font> and &lt;font color=\"#37A5FF\">&lt;a href=\"%4$s\">Chính sách bảo mật&lt;/a>&lt;/font>."</Data></string>
+	<string name="phone_log_in_theme_detail"><Data>"Tôi đã đọc và đồng ý với Chủ đề' &lt;font color=\"#37A5FF\">&lt;/color>&lt;a href=\"%1$s\">Thỏa thuận người dùng&lt;/a>&lt;/font> and &lt;font color=\"#37A5FF\">&lt;/color>&lt;a href=\"%2$s\">Chính sách bảo mật&lt;/a>&lt;/font>, cũng như Tài khoản Mi &lt;font color=\"#37A5FF\">&lt;a href=\"%3$s\">Thỏa thuận người dùng&lt;/a>&lt;/font>&lt;font color=\"#37A5FF\"> and &lt;a href=\"%4$s\">Chính sách bảo mật&lt;/a>&lt;/font> (để đăng nhập bằng tài khoản hệ thống)."</Data></string>
+	<string name="read_and_agree_account_privacy"><Data>"Tôi đã đọc và đồng ý với Tài khoản Mi &lt;font color=\"#37A5FF\">&lt;a href=\"%3$s\">Thỏa thuận người dùng&lt;/a>&lt;/font> and &lt;font color=\"#37A5FF\">&lt;a href=\"%4$s\">Chính sách bảo mật&lt;/a>&lt;/font>."</Data></string>
 	<string name="local_mode">Chế độ ngoại tuyến</string>
     <string name="local_mode_close">Tắt chế độ ngoại tuyến?</string>
     <string name="local_mode_close_desc">Tắt chế độ ngoại tuyến nếu bạn muốn sử dụng các dịch vụ trực tuyến. Tắt ngay bây giờ?</string>
