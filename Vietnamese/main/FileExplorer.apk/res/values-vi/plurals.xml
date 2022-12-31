@@ -1,11 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <plurals name="delete_files_confirm">
-        <item quantity="other">Xóa %1$d tập tin</item>
-    </plurals>
-    <plurals name="delete_folders_confirm">
-        <item quantity="other">" và %1$d thư mục?"</item>
-    </plurals>
     <plurals name="directory_item_count">
         <item quantity="other">%d mục</item>
     </plurals>
@@ -222,5 +216,25 @@
 	</plurals>
     <plurals name="search_head_hint_all">
         <item quantity="other">Kết quả tìm kiếm (%1$d mục) </item>
+    </plurals>
+	<plurals name="delete_cloud_files">
+        <item quantity="other">Xóa %1$d tệp khỏi tất cả các thiết bị của bạn và đám mây? Các tệp Mi Drive có thể được khôi phục từ các mục đã xóa gần đây của bạn.</item>
+        <item quantity="one">Xóa %1$d tệp khỏi tất cả các thiết bị của bạn và đám mây? Các tệp Mi Drive có thể được khôi phục từ các mục đã xóa gần đây của bạn.</item>
+    </plurals>
+    <plurals name="delete_files">
+        <item quantity="other">Xóa %1$d tệp?</item>
+        <item quantity="one">Xóa %1$d tệp?</item>
+    </plurals>
+    <plurals name="delete_files_confirm">
+        <item quantity="other">Xóa %1$d tệp</item>
+        <item quantity="one">Xóa %1$d tệp</item>
+    </plurals>
+    <plurals name="delete_folders">
+        <item quantity="other">Xóa %1$d thư mục?</item>
+        <item quantity="one">Xóa %1$d thư mục?</item>
+    </plurals>
+    <plurals name="delete_folders_confirm">
+        <item quantity="other">" và %1$d thư mục?"</item>
+        <item quantity="one">" và %1$d thư mục?"</item>
     </plurals>
 </resources>

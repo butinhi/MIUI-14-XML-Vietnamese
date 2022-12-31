@@ -207,9 +207,6 @@
 	<plurals name="photo_count_format">
         <item quantity="other">Tổng %1$d mục</item>
     </plurals>
-    <plurals name="video_count_format">
-        <item quantity="other">%1$d tập tin</item>
-    </plurals>
 	<plurals name="collage_select_image_dynamic_range">
         <item quantity="other">Ảnh ghép có thể chứa từ %1$d-%2$d ảnh</item>
     </plurals>
@@ -300,23 +297,8 @@
 	<plurals name="backup_pause_dialog_message">
 		<item quantity="other">Tạm dừng đồng bộ ảnh, video, liên hệ, ghi chú và các mục khác với đám mây trong %d phút.</item>
 	</plurals>
-	<plurals name="trash_purge_dialog_message_image">
-		<item quantity="other">"Bạn sẽ không thể khôi phục %d mục đã chọn nếu bạn xóa chúng. Vẫn xóa?"</item>
-	</plurals>
-	<plurals name="trash_vip_info_text_unlogin">
-		<item quantity="other">Các mục có thể lưu trữ tại đây tối đa %1$d ngày. Nâng cấp gói của bạn để gia tăng thời hạn này.</item>
-	</plurals>
 	<plurals name="photo_remain_days">
 		<item quantity="other">%d ngày</item>
-	</plurals>
-	<plurals name="trash_vip_info_text_login">
-		<item quantity="other">Các mục có thể lưu trữ tại đây tối đa %1$d ngày (%2$s)</item>
-	</plurals>
-	<plurals name="trash_purge_dialog_message_media">
-		<item quantity="other">"Bạn sẽ không thể khôi phục %d mục đã chọn nếu bạn xóa chúng. Vẫn xóa?"</item>
-	</plurals>
-	<plurals name="trash_purge_dialog_message_video">
-		<item quantity="other">"Bạn sẽ không thể khôi phục %d mục đã chọn nếu bạn xóa chúng. Vẫn xóa?"</item>
 	</plurals>
 	<plurals name="photo_remain_hours">
 		<item quantity="other">%d giờ</item>
@@ -447,7 +429,60 @@
     <plurals name="photo_editor_talkback_crop_scale_value">
         <item quantity="other">Xoay %d độ</item>
     </plurals>
-    <plurals name="slim_videos_count">
-        <item quantity="other">%d video</item>
+	 <plurals name="all_story_count_desc">
+        <item quantity="other">%d kỷ niệm</item>
+        <item quantity="one">%d kỷ niệm</item>
+    </plurals>
+	<plurals name="tran_notification_complete_msg">
+        <item quantity="other">"Không thể chuyển %1$d mục"</item>
+        <item quantity="one">"Không thể chuyển %1$d mục"</item>
+    </plurals>
+    <plurals name="transfer_status_banner_msg_file_failed">
+        <item quantity="other">"Không thể chuyển %1$d mục. Truy cập i.mi.com để tải xuống."</item>
+        <item quantity="one">"Không thể chuyển %1$d mục. Truy cập i.mi.com để tải xuống."</item>
+    </plurals>
+    <plurals name="trash_purge_dialog_message_cloud">
+        <item quantity="other">%d các mục đã chọn sẽ bị xóa vĩnh viễn khỏi đám mây và tất cả các thiết bị được đồng bộ hóa. Vẫn xóa?</item>
+        <item quantity="one">%d mục đã chọn sẽ bị xóa vĩnh viễn khỏi đám mây và tất cả các thiết bị được đồng bộ hóa. Vẫn xóa?</item>
+    </plurals>
+    <plurals name="trash_purge_dialog_message_image">
+        <item quantity="other">"Bạn sẽ không thể khôi phục %d các mục đã chọn nếu bạn xóa chúng. Vẫn xóa?"</item>
+        <item quantity="one">"Bạn sẽ không thể khôi phục %d mục đã chọn nếu bạn xóa nó. Vẫn xóa?"</item>
+    </plurals>
+    <plurals name="trash_purge_dialog_message_local">
+        <item quantity="other">%d mục đã chọn sẽ bị xóa vĩnh viễn. Vẫn xóa?</item>
+        <item quantity="one">%d mục đã chọn sẽ bị xóa vĩnh viễn. Vẫn xóa?</item>
+    </plurals>
+    <plurals name="trash_purge_dialog_message_media">
+        <item quantity="other">"Bạn sẽ không thể khôi phục %d các mục đã chọn nếu bạn xóa chúng. Vẫn xóa?"</item>
+        <item quantity="one">"Bạn sẽ không thể khôi phục %d mục đã chọn nếu bạn xóa nó. Vẫn xóa?"</item>
+    </plurals>
+    <plurals name="trash_purge_dialog_message_video">
+        <item quantity="other">"Bạn sẽ không thể khôi phục %d các mục đã chọn nếu bạn xóa chúng. Vẫn xóa?"</item>
+        <item quantity="one">"Bạn sẽ không thể khôi phục %d mục đã chọn nếu bạn xóa nó. Vẫn xóa?"</item>
+    </plurals>
+    <plurals name="trash_vip_info_text_login">
+        <item quantity="other">Các mục có thể được lưu trữ tại đây trong tối đa %1$d ngày (%2$s)</item>
+        <item quantity="one">Items can be stored here for %1$d day (%2$s)</item>
+    </plurals>
+    <plurals name="trash_vip_info_text_login_medium_or_low_level">
+        <item quantity="other">Các mục có thể được lưu trữ tại đây trong %1$s ngày. Nhấn để kéo dài khoảng thời gian này.</item>
+        <item quantity="one">Các mục có thể được lưu trữ tại đây trong %1$s ngày. Nhấn để kéo dài khoảng thời gian này.</item>
+    </plurals>
+    <plurals name="trash_vip_info_text_no_sync_server">
+        <item quantity="other">Các mục đã xóa được lưu trữ trên đám mây trong %1$d ngày</item>
+        <item quantity="one">Các mục đã xóa được lưu trữ trên đám mây trong %1$d ngày</item>
+    </plurals>
+    <plurals name="trash_vip_info_text_unlogin">
+        <item quantity="other">Các mục có thể được lưu trữ tại đây trong tối đa %1$d ngày. Nâng cấp kế hoạch của bạn để kéo dài thời gian này.</item>
+        <item quantity="one">Các mục có thể được lưu trữ tại đây trong %1$d ngày. Nâng cấp kế hoạch của bạn để kéo dài thời gian này.</item>
+    </plurals>
+    <plurals name="video_count_format">
+        <item quantity="other">%1$d tệp</item>
+        <item quantity="one">%1$d tệp</item>
+    </plurals>
+    <plurals name="videos_count">
+        <item quantity="other">%d videos</item>
+        <item quantity="one">%d video</item>
     </plurals>
 </resources>
