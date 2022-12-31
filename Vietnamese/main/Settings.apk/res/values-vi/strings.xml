@@ -12407,7 +12407,6 @@ Tính năng này chỉ hoạt động khi điều hướng hệ thống được
 	<string name="allow_mock_modem">Cho phép Mock Modem</string>
     <string name="allow_mock_modem_summary">Cho phép thiết bị này chạy dịch vụ Mock Modem để thử nghiệm thiết bị. Không bật tính năng này trong quá trình sử dụng điện thoại thông thường</string>
 	<string name="fiveg_nrca_switch_summary">Cải thiện kết nối 5G cho môi trường thử nghiệm</string>
-    <string name="fiveg_nrca_switch_title">Tổng hợp nhà mạng 5G</string>
 	 <string name="fiveg_vonr_switch_summary">Sử dụng VoNR trong môi trường mạng 5G để cải thiện trải nghiệm gọi điện. Tính năng này chỉ được cung cấp cho mục đích thử nghiệm.</string>
     <string name="fiveg_vonr_switch_title">Cài đặt VoNR</string>
 	<string name="wifi_non_persistent_mac_randomization">Wi-Fi không liên tục MAC ngẫu nhiên</string>
@@ -12467,4 +12466,7 @@ Tính năng này chỉ hoạt động khi điều hướng hệ thống được
 	<string name="turn_screen_on_title">Bật màn hình</string>
 	<string name="alarms_and_reminders_title">Báo động &amp; nhắc nhở</string>
 	<string name="media_management_apps_title">Ứng dụng quản lý phương tiện truyền thông</string>
+	<string name="wifi_saved_access_point">Mạng đã lưu</string>
+	<string name="wifi_region_title">Vùng Wi-Fi</string>
+	<string name="wifi_region_summary">Yêu cầu khởi động lại Wi-Fi để có hiệu lực</string>
 </resources>
