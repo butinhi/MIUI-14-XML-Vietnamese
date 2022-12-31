@@ -68,4 +68,16 @@
 	<plurals name="miuix_appcompat_items_selected">
 		<item quantity="other">%d mục đã chọn</item>
 	</plurals>
+    <plurals name="app_info_permission_count">
+        <item quantity="other">%1$s quyền</item>
+        <item quantity="one">%1$s quyền</item>
+    </plurals>
+    <plurals name="app_info_permission_count_">
+        <item quantity="other">%1$s quyền,</item>
+        <item quantity="one">%1$s quyền,</item>
+    </plurals>
+    <plurals name="app_info_private_permission_count">
+        <item quantity="other">%1$s quyền liên quan đến quyền riêng tư</item>
+        <item quantity="one">%1$s quyền liên quan đến quyền riêng tư</item>
+    </plurals>
 </resources>

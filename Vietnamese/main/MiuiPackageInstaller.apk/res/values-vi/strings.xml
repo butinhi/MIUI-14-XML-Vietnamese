@@ -810,4 +810,5 @@ Ngoài ra, bạn có thể tắt Chế độ đơn giản và thử lại."</str
     <string name="install_version">Phiên bản: %1$s</string>
     <string name="install_version_replace">Phiên bản: %1$s &gt; %2$s</string>
 	<string name="ad_permissions">&lt;u>Quyền&lt;u/></string>
+	<string name="app_info_size">Kích cỡ: %1$s</string>
 </resources>
