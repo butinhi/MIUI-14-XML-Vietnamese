@@ -704,7 +704,6 @@ Ngoài ra, bạn có thể tắt Chế độ đơn giản và thử lại."</str
 	<string name="lock_screen_password_authrioze">Xác minh khóa màn hình để cài đặt</string>
 	<string name="no_set_lock_screen_tip">Đặt khóa màn hình và thêm vân tay của bạn trước khi chọn phương thức ủy quyền này.</string>
 	<string name="please_input_phone_password">Nhập khóa màn hình</string>
-	<string name="risk_close_tip_des">"Nếu bạn tắt tính năng này, mọi ứng dụng bạn đang cố gắng cài đặt sẽ không còn được kiểm tra các vấn đề bảo mật và các ứng dụng rủi ro sẽ được cài đặt trực tiếp mà không có sự cho phép của bạn. Chúng tôi sẽ phải xác minh khóa màn hình hoặc vân tay của bạn nếu bạn đã đặt chúng trước đó."</string>
 	<string name="risk_close_tip">Tắt ủy quyền</string>
 	<string name="risk_close_tip_des">"Nếu bạn tắt tính năng này, mọi ứng dụng bạn đang cố gắng cài đặt sẽ không còn được kiểm tra các vấn đề bảo mật và các ứng dụng rủi ro sẽ được cài đặt trực tiếp mà không có sự cho phép của bạn. Chúng tôi sẽ phải xác minh khóa màn hình hoặc vân tay của bạn nếu bạn đã đặt chúng trước đó."</string>
     <string name="risk_install_already_open">Bật</string>
@@ -783,7 +782,6 @@ Ngoài ra, bạn có thể tắt Chế độ đơn giản và thử lại."</str
 	<string name="permission_name_write_external_storage">Lưu các mục vào bộ nhớ thiết bị</string>
 	<string name="permission_des_write_external_storage">Để lưu ảnh, tài liệu và các phương tiện khác</string>
 	<string name="settings_security_mode_status_off_msg">Tắt</string>
-	<string name="security_mode_on_suggestion_msg">Bật</string>
 	<string name="open_to_pure_mode">Bật</string>
 	<string name="ettings_security_mode_open_security_mode">Bật</string>
 	<string name="open">Bật</string>
@@ -793,7 +791,6 @@ Ngoài ra, bạn có thể tắt Chế độ đơn giản và thử lại."</str
 	<string name="authorize_to_install">Cho phép</string>
 	<string name="trust">Cho phép</string>
 	<string name="unknown_source_allow">Cho phép</string>
-	<string name="external_sources_settings_negative">Hạn chế</string>
 	<string name="unknown_source_forbidden">Hạn chế</string>
 	<string name="confirm_install">Cài đặt</string>
 	<string name="dialog_install_confirm_default">Cài đặt</string>
@@ -812,6 +809,5 @@ Ngoài ra, bạn có thể tắt Chế độ đơn giản và thử lại."</str
     <string name="app_version_format">Phiên bản: %1$s</string>
     <string name="install_version">Phiên bản: %1$s</string>
     <string name="install_version_replace">Phiên bản: %1$s &gt; %2$s</string>
-    <string name="risk_app_install_item_des">Phiên bản: %1$s</string>
 	<string name="ad_permissions">&lt;u>Quyền&lt;u/></string>
 </resources>

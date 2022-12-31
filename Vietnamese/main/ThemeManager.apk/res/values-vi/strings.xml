@@ -1753,9 +1753,27 @@ Tất cả các mục cá nhân hóa hiện đang được sử dụng trên thi
     <string name="private_pad_fold_revoke_agree_detail_content_3">"4. Sau khi bạn rút lại sự đồng ý của mình với Chính sách quyền riêng tư của Hình nền và cá nhân hóa, chúng tôi sẽ ngừng thu thập thông tin cá nhân của bạn. Thông tin cá nhân đã được thu thập và lưu giữ sẽ bị xóa trong khoảng thời gian cụ thể theo luật và quy định hiện hành trừ khi có yêu cầu khác. 
 5. Việc rút lại sự đồng ý không có nghĩa là miễn trừ hoặc giảm nhẹ trách nhiệm do các hành động được thực hiện trước khi rút lại sự đồng ý."</string>
 	<string name="phone_exit_theme_warning_title">Đăng xuất khỏi Chủ đề?</string>
-	    <string name="pad_fold_exit_wallpaper_warning_content">"Bạn sẽ không thể thực hiện các tác vụ sau sau khi đăng xuất:
+	<string name="pad_fold_exit_wallpaper_warning_content">"Bạn sẽ không thể thực hiện các tác vụ sau sau khi đăng xuất:
 Xem và sử dụng các mặt hàng bạn đã mua hoặc thêm vào mục yêu thích."</string>
-<string name="phone_exit_theme_warning_content">"Bạn sẽ không thể thực hiện các tác vụ sau sau khi đăng xuất:
+	<string name="phone_exit_theme_warning_content">"Bạn sẽ không thể thực hiện các tác vụ sau sau khi đăng xuất:
 1. Xem và sử dụng các mặt hàng bạn đã mua hoặc thêm vào mục yêu thích.
 2. Thêm nhận xét và lượt thích, theo dõi người khác và tương tác với họ."</string>
+	<string name="privacy_phone_logoff_theme_service_introduce">"Bạn sắp hủy dịch vụ Chủ đề."</string>
+	<string name="privacy_logoff_theme_service_warning">Các mục sau sẽ bị xóa vĩnh viễn sau khi dịch vụ bị hủy:</string>
+	<string name="privacy_logoff_theme_content_1">1. Tất cả các đơn đặt hàng (bao gồm cả đơn đặt hàng đã thanh toán) được thực hiện trên thiết bị Xiaomi. Bạn sẽ không còn có thể sử dụng các mặt hàng bạn đã mua.</string>
+	<string name="privacy_logoff_theme_content_2">2. Tất cả thông tin về lượt thích, nhận xét, xếp hạng và người theo dõi của bạn được tạo trên thiết bị Xiaomi.</string>
+	<string name="privacy_phone_logoff_theme_content_3">3. Tất cả các chủ đề, hình nền, hình nền động, phông chữ, biểu tượng và nhạc chuông được tải xuống thiết bị này.</string>
+    <string name="privacy_phone_logoff_theme_content_4">4. Tất cả các bản ghi lịch sử tìm kiếm, tùy chọn quyền, cài đặt và các mục được lưu trong bộ nhớ cache được tạo trên thiết bị này.</string>
+	<string name="privacy_logoff_theme_content_5">5. Tất cả các mục cá nhân hóa hiện đang được sử dụng trên thiết bị này. Tùy chọn cá nhân hóa mặc định sẽ được khôi phục.</string>
+	<string name="privacy_phone_logoff_theme_service_detail_title">Đọc và đồng ý với \"Tuyên bố về việc hủy dịch vụ chủ đề\" trước khi hủy dịch vụ của chúng tôi.</string>
+	<string name="privacy_phone_logoff_theme_service_detail_prompt">Tuyên bố về việc hủy dịch vụ chủ đề</string>
+	<string name="privacy_phone_logoff_theme_service_detail_content_1">"1. Đảm bảo rằng bạn có quyền hủy dịch vụ trước khi tiếp tục.
+2. Việc hủy dịch vụ Chủ đề sẽ không ảnh hưởng đến việc sử dụng bình thường của các sản phẩm Xiaomi khác.
+3. Hủy bỏ dịch vụ là một hành động không thể đảo ngược. Sao lưu tất cả các mục quan trọng trước khi bạn tiếp tục vì chúng có thể bị xóa vĩnh viễn. Hãy nhớ rằng bạn sẽ không thể xem xét lại quyết định của mình sau khi các dịch vụ bị hủy. Dữ liệu sau sẽ bị xóa vĩnh viễn hoặc được ẩn danh sau khi hủy dịch vụ (trừ khi luật pháp và quy định có quy định khác hoặc theo yêu cầu khác của cơ quan quản lý):"</string>
+    <string name="privacy_phone_logoff_theme_service_detail_content_2">"Tất cả các đơn đặt hàng (bao gồm cả đơn đặt hàng đã thanh toán) được thực hiện trên thiết bị Xiaomi. Bạn sẽ không còn có thể sử dụng các mặt hàng bạn đã mua.
+Tất cả thông tin về lượt thích, nhận xét, xếp hạng và người theo dõi của bạn được tạo trên thiết bị Xiaomi.
+Tất cả các chủ đề, hình nền, hình nền động, phông chữ, biểu tượng và nhạc chuông được tải xuống thiết bị này.
+Tất cả các bản ghi lịch sử tìm kiếm, tùy chọn quyền, cài đặt và các mục được lưu trong bộ nhớ cache được tạo trên thiết bị này.
+Tất cả các mục cá nhân hóa hiện đang được sử dụng trên thiết bị này. Tùy chọn cá nhân hóa mặc định sẽ được khôi phục."</string>
+    <string name="privacy_phone_logoff_theme_service_detail_content_3">4. Việc hủy bỏ dịch vụ không có nghĩa là miễn trừ hoặc giảm nhẹ trách nhiệm do các hành động được thực hiện trước khi hủy bỏ dịch vụ gây ra.</string>
 </resources>
