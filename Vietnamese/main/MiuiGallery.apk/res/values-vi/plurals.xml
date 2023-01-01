@@ -402,9 +402,6 @@
 	<plurals name="synced_photo_count">
 		<item quantity="other">Đã đồng bộ %d ảnh</item>
 	</plurals>
-	<plurals name="videos_count">
-		<item quantity="other">%d video</item>
-	</plurals>
 	<plurals name="synced_immerse_title">
 		<item quantity="other">Đã đồng bộ hóa thành công %1$d ảnh và %2$d video </item>
 	</plurals>
