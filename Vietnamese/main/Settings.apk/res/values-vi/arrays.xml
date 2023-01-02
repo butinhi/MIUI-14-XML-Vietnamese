@@ -1776,4 +1776,16 @@ Ghi chú: Chỉ cho phiên bản Ubuntu 8.04!"</item>
         <item>Mỗi ba giây</item>
         <item>Mỗi năm giây</item>
     </string-array>
+	    <string-array name="accessibility_button_gesture_selector_titles">
+        <item>Nút</item>
+        <item>Cử chỉ</item>
+    </string-array>
+	    <string-array name="accessibility_button_location_selector_titles">
+        <item>Nổi trên các ứng dụng khác</item>
+        <item>Thanh điều hướng</item>
+    </string-array>
+	    <string-array name="accessibility_button_size_selector_titles">
+        <item>Nhỏ</item>
+        <item>Rộng</item>
+    </string-array>
 </resources>

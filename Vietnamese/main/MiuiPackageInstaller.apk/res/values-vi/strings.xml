@@ -811,4 +811,8 @@ Ngoài ra, bạn có thể tắt Chế độ đơn giản và thử lại."</str
     <string name="install_version_replace">Phiên bản: %1$s &gt; %2$s</string>
 	<string name="ad_permissions">&lt;u>Quyền&lt;u/></string>
 	<string name="app_info_size">Kích cỡ: %1$s</string>
+	<string name="install_package_error">"Ứng dụng này không tương thích với hệ thống của bạn"</string>
+	<string name="miui_install_failed_reason">"Ứng dụng này không tương thích với thiết bị của bạn"</string>
+	<string name="resolve_suggestion_title">Gợi ý</string>
+	<string name="install_package_error_des">Liên hệ với nhà phát triển hoặc cài đặt phiên bản tương thích từ GetApps.</string>
 </resources>

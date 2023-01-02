@@ -3241,4 +3241,8 @@ Phiên dịch có thể mất một lúc khi bạn sử dụng tính năng này 
 	<string name="media_type_hd">Độ nét cao</string>
 	<string name="media_type_front_photo">Ảnh tự chụp</string>
 	<string name="sort_and_showmode">Sắp xếp và xem</string>
+	<string name="secret_album_password_first_use_with_sms_msg">Mật khẩu bảo vệ quyền riêng tư sẽ được sử dụng. Nó hoạt động cho tin nhắn, ảnh, ghi chú và thư mục ẩn.</string>
+	<string name="secret_album_set_pc_password_with_sms_dialog_msg">Mật khẩu bảo vệ quyền riêng tư sẽ được sử dụng. Nó hoạt động cho tin nhắn, ảnh, ghi chú và thư mục ẩn.</string>
+	<string name="enable_secret_album_upload_message">Tất cả các mục riêng tư sẽ được đồng bộ hóa với đám mây sau khi bạn bật tính năng này. Bật ngay bây giờ?</string>
+	<string name="local_secret_tip">Tất cả các mục riêng tư được đồng bộ hóa với đám mây khi bật tính năng này. Bạn có thể thay đổi tùy chọn của mình trong Cài đặt > Đồng bộ hóa với đám mây > Quản lý album đã đồng bộ hóa > Album riêng tư.</string>
 </resources>

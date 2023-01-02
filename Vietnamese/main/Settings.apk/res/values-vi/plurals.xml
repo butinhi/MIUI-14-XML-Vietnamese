@@ -580,6 +580,8 @@
 	</plurals>
 	<plurals name="accessibilty_autoclick_delay_unit_second">
 		<item quantity="other">%1$s giây</item>
+		<item quantity="one">%1$s giây</item>
+        <item quantity="few">%1$s giây</item>
 	</plurals>
 	<plurals name="zen_mode_contacts_count">
 		<item quantity="other">%d liên hệ</item>
@@ -658,4 +660,8 @@
 	<plurals name="mtrl_badge_content_description">
 		<item quantity="other">%d thông báo mới</item>
 	</plurals>
+	    <plurals name="clean_time">
+        <item quantity="other">%d giây</item>
+        <item quantity="one">%d giây</item>
+    </plurals>
 </resources>

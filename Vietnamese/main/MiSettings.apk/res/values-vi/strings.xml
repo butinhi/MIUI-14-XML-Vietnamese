@@ -1013,4 +1013,15 @@
 %2$d. Trong một số trường hợp, tốc độ làm mới có thể được điều chỉnh động dựa trên những mục được hiển thị."</string>
 	<string name="desktop_widget_authorization_new">Nhấn để xem số liệu thống kê thời gian màn hình</string>
 	<string name="dc_light_hint_normal_anit">Chế độ chống nhấp nháy có thể ảnh hưởng đến cách hiển thị một số mục.</string>
+	<string name="workday_limit">Ngày làm việc</string>
+	<string name="avalible_per_day">Thời lượng phiên</string>
+	<string name="continue_time">Thời lượng phiên</string>
+	<string name="unavailable_per_day">Nghỉ giải lao</string>
+	<string name="holiday_limit">>Ngày nghỉ</string>
+	<string name="guard_range_from">Từ</string>
+    <string name="guard_range_to">Đến</string>
+	<string name="force_rest">Sử dụng ngắt phiên</string>
+    <string name="force_rest_summary">Bắt buộc nghỉ khi phiên đạt đến giới hạn đã đặt</string>
+	<string name="device_limit_enable">Bật</string>
+	<string name="device_limit_un_enable">Tắt</string>
 </resources>
