@@ -8,3 +8,4 @@
 # Credits
     ingbrzy - Builder of MultiRom, Bug reports.
     [butinhi] - The Vietnamese language translator for MIUI
+    [Belmont] - Leader of the Vietnamese translation team for MIUI
