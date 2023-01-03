@@ -340,4 +340,5 @@
 	<string name="fmt_weekday_date_time_timezone">W, D T z</string>
 	<string name="fmt_time_12hour_minute_second">h:mm:ms</string>
 	<string name="auto">Tự động</string>
+	<string name="wifi_region">Vùng Wi-Fi</string>
 </resources>
