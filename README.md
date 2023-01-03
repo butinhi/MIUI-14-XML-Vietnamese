@@ -3,7 +3,7 @@
 #  MIUI 14 Vietnamese language Translations.
 	This is repository for  MIUI 14 Vietnamese language.
 
-# Translation checker: https://translators.xiaomi.eu/XML_MIUI12-Vietnamese-vi.html
+# Translation checker: https://translators.xiaomi.eu/XML_MIUI14-Vietnamese-vi.html
 
 # Credits
     [ingbrzy] - Builder of MultiRom, Bug reports.
