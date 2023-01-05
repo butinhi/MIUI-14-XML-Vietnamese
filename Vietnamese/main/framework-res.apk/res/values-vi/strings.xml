@@ -2719,4 +2719,7 @@ Bạn có thể thay đổi lối tắt này sang tính năng khác trong Cài �
 	<string name="kilobyteShort">KB</string>
 	<string name="resolver_cross_profile_blocked">Tác vụ này không được cho phép</string>
 	<string name="nas_upgrade_notification_title">Trợ lý Thông báo</string>
+	<string name="permlab_readMediaAudio">Đọc tệp âm thanh từ bộ nhớ dùng chung</string>
+    <string name="permlab_readMediaImages">Đọc tệp hình ảnh từ bộ nhớ dùng chung</string>
+    <string name="permlab_readMediaVideo">Đọc các tệp video từ bộ nhớ dùng chung</string>
 </resources>

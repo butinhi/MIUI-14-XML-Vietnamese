@@ -2979,4 +2979,5 @@ Vui lòng gửi mã này cho nhân viên kỹ thuật."</string>
 	<string name="pa_picker_home_app_group_title">Tiện ích được hỗ trợ</string>
 	<string name="pa_picker_classic_widget">Tiện ích Android</string>
 	<string name="pa_picker_list_app_footer_classic_widget">Tiện ích Android</string>
+	<string name="pa_cta_dialog_all_purpose">Chào mừng bạn đến với App vault! Ứng dụng này là điểm duy nhất cho các dịch vụ liên quan đến công việc, lối sống và du lịch.</string>
 </resources>
