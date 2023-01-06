@@ -3245,4 +3245,31 @@ Phiên dịch có thể mất một lúc khi bạn sử dụng tính năng này 
 	<string name="secret_album_set_pc_password_with_sms_dialog_msg">Mật khẩu bảo vệ quyền riêng tư sẽ được sử dụng. Nó hoạt động cho tin nhắn, ảnh, ghi chú và thư mục ẩn.</string>
 	<string name="enable_secret_album_upload_message">Tất cả các mục riêng tư sẽ được đồng bộ hóa với đám mây sau khi bạn bật tính năng này. Bật ngay bây giờ?</string>
 	<string name="local_secret_tip">Tất cả các mục riêng tư được đồng bộ hóa với đám mây khi bật tính năng này. Bạn có thể thay đổi tùy chọn của mình trong Cài đặt > Đồng bộ hóa với đám mây > Quản lý album đã đồng bộ hóa > Album riêng tư.</string>
+	<string name="back_up_gp_msg">"Tự động lưu ảnh và video vào Tài khoản Google của bạn bằng cách bật tính năng sao lưu trong Google Photos.
+	• Các tính năng trong tương lai có thể yêu cầu quyền bổ sung trong cả Thư viện Xiaomi và Google Photos."</string>
+	<string name="back_up_gp_msg_migrating">Các mục từ đám mây hiện đang được chuyển sang Google Photos. Thiết lập sao lưu trong Google Photos để có thể tiếp tục đồng bộ hóa các mục mới.</string>
+	<string name="back_up_gp_title">Sao lưu bằng Google Photos</string>
+	<string name="backup_settings_banner_msg_off">Sao lưu ảnh và video của bạn bằng Google Photos để giữ an toàn cho tất cả những kỷ niệm của bạn</string>
+	<string name="backup_settings_banner_msg_on">Xem trạng thái sao lưu trong Google Photos</string>
+	<string name="backup_settings_banner_title_not_allow">Sao lưu Google Photos</string>
+	<string name="backup_settings_jump_err">"Không thể bật sao lưu Google Photos"</string>
+	<string name="continue_back_up_gp_msg">Để hoàn tất việc bật tính năng sao lưu, hãy mở Google Photos.</string>
+	<string name="continue_back_up_gp_title">Mở Google Photos</string>
+	<string name="continue_migration_msg">Một số ảnh và video của bạn đã được chuyển sang Google Photos. Tiếp tục chuyển đổi ngay bây giờ để không mất bất cứ điều gì quan trọng khi đồng bộ hóa với Xiaomi Cloud không còn khả dụng.</string>
+	<string name="disconnect_migration_msg">Ảnh và video đã được chuyển sẽ vẫn còn trong Google Photos.</string>
+	<string name="get_GP_app_msg">Để bật tính năng sao lưu, bạn cần cài đặt Google Photos. Hãy quay lại trang này sau khi bạn cài đặt Google Photos để tiếp tục.</string>
+	<string name="get_GP_app_title">Cài đặt Google Photos</string>
+	<string name="migrate_gp_bottom_msg_0">Để di chuyển các mục của bạn sang Google Photos, bạn cần thêm Tài khoản Google và cấp cho Xiaomi quyền:</string>
+	<string name="migrate_gp_bottom_msg_1">Sau khi bạn di chuyển các mục của mình sang Google Photos, tất cả thư mục Thư viện của bạn (bao gồm cả các mục riêng tư) sẽ bị xóa.</string>
+	<string name="migrate_gp_bottom_msg_li_1">Thêm vào thư viện Google Photos của bạn</string>
+	<string name="migrate_gp_btn_migrate">Chuyển sang Google Photos</string>
+	<string name="migrate_gp_btn_no">Không phải bây giờ</string>
+	<string name="migrate_gp_msg">"Ảnh và video của bạn sẽ không còn được đồng bộ hóa với Xiaomi Cloud nữa. Cho đến %1$s, bạn có thể di chuyển các mục của mình sang Google Photos hoặc truy cập i.mi.com để tải chúng xuống. Sau đó, các mục vẫn được lưu trữ trong Xiaomi Cloud sẽ bị xóa vĩnh viễn.
+%2$s"</string>
+	<string name="migrate_gp_msg_link">Xem chi tiết</string>
+    <string name="migrate_gp_title">Đồng bộ hóa với đám mây không còn khả dụng</string>
+    <string name="migrate_msg">Một số album yêu cầu quyền di chuyển các mục sau khi cập nhật hệ thống.</string>
+	<string name="update_GP_app_msg">Để bật tính năng sao lưu, bạn cần cập nhật Google Photos. Hãy quay lại trang này sau khi bạn cập nhật Google Photos để tiếp tục.</string>
+	<string name="update_GP_app_title">Cập nhật Google Photos</string>
+	<string name="get_GP_app_btn_install">Cài đặt</string>
 </resources>
