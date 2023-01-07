@@ -592,4 +592,5 @@ Việc nghe ở mức âm lượng cao trong thời gian dài có thể gây t�
 	<string name="miuix_access_state_desc">Đã chọn</string>
 	<string name="miuix_indexer_selected">Đã chọn %s</string>
 	<string name="controls_media_title">Phương tiện</string>
+	<string name="miplay_detail_header_no_song">Không có lịch sử phát lại</string>
 </resources>

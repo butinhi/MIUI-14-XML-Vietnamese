@@ -666,7 +666,6 @@ Nếu cả hai thiết bị không thể kết nối tới cùng một mạng, b
 	<string name="circulate_card_sticker_remote_control_volum_add">Phím Tăng âm lượng</string>
 	<string name="circulate_card_mirror_tv_button_3">Riêng tư</string>
 	<string name="circulate_card_mirror_tv_button_2">Tắt màn hình</string>
-	<string name="circulate_card_mirror_tv_button_1">Chế độ lái xe MIUI</string>
 	<string name="circulate_common_retry_later">Chờ một vài phút rồi thử lại</string>
 	<string name="circulate_device_type_name_pc">Máy tính</string>
 	<string name="miplay_accessibility_next">Bài tiếp theo</string>
@@ -737,4 +736,15 @@ Nếu cả hai thiết bị không thể kết nối tới cùng một mạng, b
 	<string name="upgrade_no_devices">Không có bản cập nhật</string>
 	<string name="upgrade_scan">Kiểm tra cập nhật</string>
 	<string name="upgrade_help_menu">Trợ giúp</string>
+    <string name="circulate_card_mirror_device_pad_subtitle">"Hiển thị màn hình của máy tính bảng…"</string>
+    <string name="circulate_card_mirror_device_subtitle">"Hiển thị màn hình điện thoại…"</string>
+    <string name="circulate_card_mirror_device_title_pad">Máy tính bảng</string>
+    <string name="circulate_card_mirror_help"><u>Thiết bị tương thích</u></string>
+    <string name="circulate_card_mirror_pad_subtitle">"Kéo \"màn hình máy tính bảng\" sang TV qua màn hình phản chiếu"</string>
+    <string name="circulate_card_mirror_pad_title">"Màn hình máy tính bảng"</string>
+    <string name="circulate_card_mirror_phone_subtitle">"Kéo \"màn hình điện thoại\" sang thiết bị khác qua màn hình phản chiếu"</string>
+    <string name="circulate_card_mirror_subtitle_active_format">Phản chiếu màn hình trên %1$s</string>
+    <string name="circulate_card_mirror_subtitle_normal">Kéo đến màn hình phản chiếu</string>
+    <string name="circulate_card_mirror_subtitle_pad_normal">"Kéo sang thiết bị khác để phản chiếu màn hình của máy tính bảng này"</string>
+    <string name="circulate_card_mirror_tv_button_1">Cửa sổ nổi</string>
 </resources>

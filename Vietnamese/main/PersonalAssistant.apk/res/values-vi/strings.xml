@@ -2980,4 +2980,8 @@ Vui lòng gửi mã này cho nhân viên kỹ thuật."</string>
 	<string name="pa_picker_classic_widget">Tiện ích Android</string>
 	<string name="pa_picker_list_app_footer_classic_widget">Tiện ích Android</string>
 	<string name="pa_cta_dialog_all_purpose">Chào mừng bạn đến với App vault! Ứng dụng này là điểm duy nhất cho các dịch vụ liên quan đến công việc, lối sống và du lịch.</string>
+	<string name="pa_open_personal_assistant_dialog_desc">"Nếu tắt App vault, bạn sẽ không thể sử dụng các tiện ích hoặc truy cập chúng bằng cách vuốt sang phải trên Màn hình chính. Vẫn tắt?"</string>
+    <string name="pa_open_personal_assistant_dialog_title">Tắt App vault?</string>
+	<string name="pa_picker_detail_add_to_minus">Thêm vào App vault</string>
+	<string name="pa_picker_detail_bottom_bt_text_to_minus">Thêm vào App vault</string>
 </resources>

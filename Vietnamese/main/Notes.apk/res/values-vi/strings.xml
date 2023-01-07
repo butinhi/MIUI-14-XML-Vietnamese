@@ -1048,5 +1048,9 @@ Cho phép Ghi chú ghi âm."</string>
 	<string name="dlg_info_save_to_local_message">Đang lưu…</string>
 	<string name="permission_storage_desc_pad_new_v12">Để thêm hình ảnh vào ghi chú và lưu ghi chú dưới dạng hình ảnh</string>
 	<string name="network_error_info">Lỗi mạng đã xảy ra. Kiểm tra cài đặt mạng của bạn và thử lại.</string>
-	<string name="widget_size_item_super_big">๖ۣۜßεℓ™</string>
+	<string name="widget_all_notes_name">Tất cả ghi chú</string>
+    <string name="widget_all_todo_name">Tất cả nhiệm vụ</string>
+    <string name="widget_click_check">Nhấn để xem</string>
+    <string name="widget_size_item_super_big">Cực lớn</string>
+    <string name="widget_size_not_support">"Tiện ích cực lớn không được hỗ trợ trên thiết bị này"</string>
 </resources>

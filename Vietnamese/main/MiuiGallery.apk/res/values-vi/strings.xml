@@ -3272,4 +3272,19 @@ Phiên dịch có thể mất một lúc khi bạn sử dụng tính năng này 
 	<string name="update_GP_app_msg">Để bật tính năng sao lưu, bạn cần cập nhật Google Photos. Hãy quay lại trang này sau khi bạn cập nhật Google Photos để tiếp tục.</string>
 	<string name="update_GP_app_title">Cập nhật Google Photos</string>
 	<string name="get_GP_app_btn_install">Cài đặt</string>
+	<string name="annual_babies_title">Chúng lớn rất nhanh</string>
+    <string name="annual_group_people_title">Cùng với nhau</string>
+    <string name="annual_pets_title">Chân trong chân</string>
+    <string name="annual_speci_year_title">Nhìn lại %d</string>
+    <string name="annual_year_title">Năm nay</string>
+    <string name="annula_sports_title">Tiến về phía trước</string>
+	<string name="foods_people_title">"Thiên đường của vị giác"</string>
+    <string name="foods_people_travel_title">Ăn theo cách của chúng tôi thông qua %2$s với %1$s</string>
+    <string name="foods_travel_title_one">Hương vị của %1$s</string>
+    <string name="foods_travel_title_three">"Người sành ăn %1$s"</string>
+    <string name="foods_travel_title_two">%1$s đồ ăn</string>
+    <string name="trash_high_occupied_tip_banner">Các mục đã xóa gần đây chiếm %1$s. Xóa một số để giải phóng dung lượng.</string>
+    <string name="trash_high_occupied_tip_toast">Các mục đã xóa gần đây chiếm %1$s. Xóa một số để giải phóng dung lượng.</string>
+    <string name="trash_purge_all_media">"Xóa vĩnh viễn tất cả các mục khỏi đám mây và tất cả các thiết bị được đồng bộ hóa? Bạn không thể đảo ngược hành động này."</string>
+    <string name="delete_media_for_cloud">Các mục đã chọn sẽ bị xóa khỏi đám mây và tất cả các thiết bị được đồng bộ hóa với các mục đã xóa gần đây.</string>
 </resources>
