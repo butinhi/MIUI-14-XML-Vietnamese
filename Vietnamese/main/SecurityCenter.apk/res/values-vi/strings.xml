@@ -838,7 +838,7 @@ Thử sử dụng cáp Ethernet để kết nối bộ định tuyến của b�
     <string name="cpu_usage_app_bg_restrict_partly_short">Vượt quá %s</string>
     <string name="cpu_usage_app_bg_restrict_default_short">Tự động</string>
     <string name="cpu_usage_app_tip_can_not_restrict_system_app">Không thể giới hạn dịch vụ hệ thống</string>
-    <string name="cpu_usage_app_uninstalled_toast">Ứng dụng này đã gỡ cài đặt</string>
+    <string name="cpu_usage_app_uninstalled_toast">Ứng dụng này đã gỡ bỏ</string>
     <string name="memory_clean_memory_size_tip">Bộ nhớ đệm</string>
     <string name="memory_clean_click_tip">Tăng tốc</string>
     <string name="memory_clean_running_process_title">Giám sát ứng dụng (%d)</string>
@@ -886,8 +886,8 @@ Hoạt động này làm giảm tuổi thọ pin."</string>
     <string name="om_memory_clean_cleaning_text">Đang tăng tốc…</string>
     <string name="om_cpu_usage_warn_title_text">"Ứng dụng này có thể làm chậm
 thiết bị của bạn"</string>
-    <string name="om_ill_proc_handle_unstaill_title">Gỡ cài đặt %s?</string>
-    <string name="om_ill_proc_handle_uninstall_prompt">Gỡ cài đặt ứng dụng này để sửa vấn đề pin.</string>
+    <string name="om_ill_proc_handle_unstaill_title">Gỡ bỏ %s?</string>
+    <string name="om_ill_proc_handle_uninstall_prompt">Gỡ bỏ ứng dụng này để sửa vấn đề pin.</string>
     <string name="om_ill_proc_type_wakelock_title">Ứng dụng khóa chế độ ngủ và hao pin</string>
     <string name="om_ill_proc_type_wakelock_detail">Sửa vấn đề chế độ ngủ</string>
     <string name="om_ill_proc_type_wifiscan_title">Ứng dụng tìm kiếm Wi-Fi thường xuyên dẫn đến hao pin</string>
@@ -927,7 +927,7 @@ thiết bị của bạn"</string>
     <string name="power_settings_top">Thanh trên cùng</string>
     <string name="power_customize_giveup_change">Hủy thay đổi?</string>
     <string name="menu_item_force_stop">Buộc đóng</string>
-    <string name="menu_item_uninstall">Gỡ cài đặt</string>
+    <string name="menu_item_uninstall">Gỡ bỏ</string>
     <string name="menu_item_app_details">Chi tiết</string>
     <string name="details_subtitle">Chi tiết sử dụng</string>
     <string name="packages_subtitle">Bao gồm gói cài đặt</string>
@@ -1123,9 +1123,9 @@ thiết bị của bạn"</string>
     <string name="auto_task_notify_task_cancel_count_down">Thao tác tự động sẽ hủy sau 5 giây</string>
     <string name="auto_task_notify_task_cancel_do">Hủy thao tác</string>
     <string name="auto_task_notify_task_exit_task">Hủy nhiệm vụ</string>
-    <string name="uninstall_app_dialog_title">Gỡ cài đặt ngay?</string>
-    <string name="uninstall_app_dialog_msg">Gỡ cài đặt sẽ xóa tất cả dữ liệu ứng dụng.</string>
-    <string name="uninstall_app_done">Đã gỡ cài đặt thành công</string>
+    <string name="uninstall_app_dialog_title">Gỡ bỏ ngay?</string>
+    <string name="uninstall_app_dialog_msg">Gỡ bỏ sẽ xóa tất cả dữ liệu ứng dụng.</string>
+    <string name="uninstall_app_done">Đã gỡ bỏ thành công</string>
     <string name="auto_task_manage_new_task">Nhiệm vụ tự động mới</string>
     <string name="handle_bar_title_system">Hệ thống</string>
     <string name="apps_list_header_title_sms">Kiểm tra ứng dụng tin nhắn</string>
@@ -1576,11 +1576,11 @@ thiết bị của bạn"</string>
     <string name="hints_scan_result_phone_safe">Mọi thứ đều tốt</string>
     <string name="try_recommended_function">Bảo vệ thiết bị của bạn bằng tính năng Bảo mật mới</string>
     <string name="activity_title_white_list">Danh sách ngoại lệ</string>
-    <string name="uninstall_danagerous_title">Gỡ cài đặt ứng dụng độc hại</string>
+    <string name="uninstall_danagerous_title">Gỡ bỏ ứng dụng độc hại</string>
     <string name="uninstall_danagerous_desc">\"%s\" có thể làm hư hại thiết bị của bạn</string>
     <string name="uninstall_danagerous_msg">\"%s\" có thể làm hư hại thiết bị, giảm hiệu suất, hoặc là nguyên nhân khởi động lại thiết bị.</string>
     <string name="still_retain_btn">Giữ</string>
-    <string name="uninstall_danagerous_btn">Gỡ cài đặt</string>
+    <string name="uninstall_danagerous_btn">Gỡ bỏ</string>
     <string name="app_install_tips_install_success">Đã cài đặt %1$s thành công</string>
     <string name="open_app">Mở</string>
     <string name="hot_today">Tiêu điểm hôm nay</string>
@@ -1855,15 +1855,15 @@ thiết bị của bạn"</string>
     <string name="app_manager_default_close_summary">Chưa đặt mặc định.</string>
     <string name="app_manager_default_open_summary">Bạn đã chọn khởi chạy ứng dụng này mặc định để thực hiện một vài thao tác.</string>
     <string name="app_manager_app_version_name">"Phiên bản: "</string>
-    <string name="app_manager_unstall_application">Gỡ cài đặt</string>
+    <string name="app_manager_unstall_application">Gỡ bỏ</string>
     <string name="app_manager_force_stop_dlg_title">Buộc dừng?</string>
     <string name="app_manager_force_stop_dlg_text">Nếu bạn buộc dừng ứng dụng, điều này có thể phát sinh lỗi.</string>
     <string name="app_manager_dlg_cancel">Hủy</string>
     <string name="app_manager_show_detail_infos">Xem tất cả</string>
     <string name="app_manager_start_by">Đã khởi chạy qua %s</string>
-    <string name="app_manager_uninstall_xspace_app_dlg_msg">Gỡ cài đặt ứng dụng kép sẽ xóa tất cả dữ liệu ứng dụng.</string>
+    <string name="app_manager_uninstall_xspace_app_dlg_msg">Gỡ bỏ ứng dụng kép sẽ xóa tất cả dữ liệu ứng dụng.</string>
     <string name="app_manager_uninstall_with_xspace_app_dlg_msg">Ứng dụng kép tương ứng sẽ bị xóa cùng với dữ liệu ứng dụng.</string>
-    <string name="app_manager_uninstall_xspace_app_dlg_title">Gỡ cài đặt ứng dụng kép?</string>
+    <string name="app_manager_uninstall_xspace_app_dlg_title">Gỡ bỏ ứng dụng kép?</string>
     <string name="app_manager_appupdate_remind">Thông báo cập nhật</string>
     <string name="app_usage_never">Chưa bao giờ dùng</string>
     <string name="app_usage_recently">Đã sử dụng gần đây</string>
@@ -1889,11 +1889,11 @@ thiết bị của bạn"</string>
     <string name="app_manager_notify_bar">Biểu tượng</string>
     <string name="app_manager_notify_floating">Thông báo nổi</string>
     <string name="app_manager_notify_keyguard">Màn hình khóa</string>
-    <string name="app_manager_factory_reset">Gỡ cài đặt cập nhật</string>
-    <string name="app_manager_factory_reset_dlg_title">Gỡ cài đặt cập nhật?</string>
+    <string name="app_manager_factory_reset">Gỡ bỏ cập nhật</string>
+    <string name="app_manager_factory_reset_dlg_title">Gỡ bỏ cập nhật?</string>
 	<string name="app_manager_full_screen_summary">Cho phép ứng dụng đã chọn hoạt động trong chế độ toàn màn hình</string>
 	<string name="app_manager_full_screen_title">Chế độ toàn màn hình</string>
-    <string name="app_manager_factory_reset_dlg_msg">Tất cả cập nhật cho ứng dụng hệ thống Android này sẽ bị gỡ cài đặt.</string>
+    <string name="app_manager_factory_reset_dlg_msg">Tất cả cập nhật cho ứng dụng hệ thống Android này sẽ bị gỡ bỏ.</string>
     <string name="app_manager_system_mobile_disable">Tắt dữ liệu</string>
     <string name="app_managere_not_have_app">Trống</string>
     <string name="app_manager_pref_ads">Kiến nghị</string>
@@ -1928,8 +1928,8 @@ thiết bị của bạn"</string>
     <string name="app_manager_globel_perm_title">Quyền ứng dụng</string>
     <string name="app_manager_globel_perm_summary">Quản lý quyền truy cập vị trí, lưu trữ, điện thoại, tin nhắn và liên hệ.</string>
     <string name="app_manager_globel_other_perm_title">Quyền khác</string>
-    <string name="app_manager_uninstall_protected_dlg_title">Gỡ cài đặt ứng dụng hệ thống</string>
-    <string name="app_manager_uninstall_protected_dlg_msg">Gỡ cài đặt ứng dụng hệ thống có thể dẫn đến một số chức năng MIUI hoạt động không bình thường. Vẫn tiếp tục gỡ?</string>
+    <string name="app_manager_uninstall_protected_dlg_title">Gỡ bỏ ứng dụng hệ thống</string>
+    <string name="app_manager_uninstall_protected_dlg_msg">Gỡ bỏ ứng dụng hệ thống có thể dẫn đến một số chức năng MIUI hoạt động không bình thường. Vẫn tiếp tục gỡ?</string>
     <string name="app_manager_has_not_data">Không có dữ liệu</string>
     <string name="app_manager_memory">RAM</string>
     <string name="app_manager_as_dlg_title">Chú ý</string>
@@ -1946,8 +1946,8 @@ thiết bị của bạn"</string>
     <string name="app_manager_cache_size">Bộ nhớ đệm</string>
     <string name="app_manager_clear_all_data">Xóa tất cả dữ liệu</string>
     <string name="app_manager_dlg_clear_cache_title">Xóa bộ nhớ đệm?</string>
-    <string name="app_manager_support_uninstall">Bạn có thể gỡ cài đặt các ứng dụng này</string>
-    <string name="app_manager_not_support_uninstall">Không thể gỡ cài đặt ứng dụng này</string>
+    <string name="app_manager_support_uninstall">Bạn có thể gỡ bỏ các ứng dụng này</string>
+    <string name="app_manager_not_support_uninstall">Không thể gỡ bỏ ứng dụng này</string>
     <string name="app_manager_comuting_size">Đang tính toán…</string>
     <string name="app_manager_show_all_apps_opened">Đang hiển thị kết quả từ tất cả các ứng dụng…</string>
     <string name="app_manager_search_prompt">Không tìm thấy kết quả? Thử hiển thị kết quả từ tất cả các ứng dụng.</string>
@@ -2306,7 +2306,7 @@ Nhà cung cấp dịch vụ của bạn có thể tính thêm phí nếu bạn b
     <string name="exit_dialog_garbage_clean_message">Rác trên thiết bị của bạn đã hơn %s. Xóa rác?</string>
     <string name="exit_dialog_garbage_clean_positive_button">Dọn dẹp</string>
     <string name="exit_dialog_release_storage_title">Giải phóng dung lượng</string>
-    <string name="exit_dialog_release_storage_message">Hơn 80%% lưu trữ trên thiết bị của bạn bị chiếm dụng. Giải phóng không gian bằng cách gỡ cài đặt ứng dụng mà bạn không sử dụng.</string>
+    <string name="exit_dialog_release_storage_message">Hơn 80%% lưu trữ trên thiết bị của bạn bị chiếm dụng. Giải phóng không gian bằng cách gỡ bỏ ứng dụng mà bạn không sử dụng.</string>
     <string name="exit_dialog_release_storage_positive_button">Giải phóng dung lượng</string>
 	<string name="ac_pre_notification_contentTitle">Thử Khóa ứng dụng</string>
     <string name="ac_post_notification_contentTitle">Bật Khóa ứng dụng</string>
@@ -2314,7 +2314,7 @@ Nhà cung cấp dịch vụ của bạn có thể tính thêm phí nếu bạn b
     <string name="ac_post_notification_contentText">Nhận bảo vệ cấp hệ thống</string>
 	<string name="lockpattern_tutorial_continue_label_next">Chạm \"Tiếp theo\"</string>
     <string name="lockpattern_tutorial_continue_label_confirm">Chạm \"OK\"</string>
-	<string name="app_manager_uninstall">Gỡ cài đặt</string>
+	<string name="app_manager_uninstall">Gỡ bỏ</string>
 	<string name="gb_sign_notification_title">Tăng tốc mạng để chơi game</string>
     <string name="gb_sign_notification_summary">Check in hàng ngày để nhận tăng tốc Xunyou</string>
     <string name="gs_sign_notification">Nhắc nhở check in vào 20:00 hàng ngày</string>
@@ -2486,7 +2486,7 @@ Nhà cung cấp dịch vụ của bạn có thể tính thêm phí nếu bạn b
      <string name="menu_summary_antivirus">Quét virus trên thiết bị</string>
      <string name="menu_summary_antivirus_2">Đã tìm thấy nguy cơ</string>
      <string name="menu_summary_antivirus_3">Chưa quét thiết bị</string>
-     <string name="menu_summary_app_manager">Cập nhật và gỡ cài đặt</string>
+     <string name="menu_summary_app_manager">Cập nhật và gỡ bỏ</string>
      <string name="menu_summary_app_manager_2">Cập nhật khả dụng</string>
      <string name="menu_summary_garbage_cleanup">Không tìm thấy rác</string>
      <string name="menu_summary_garbage_cleanup_2">Kích thước rác</string>
@@ -2938,7 +2938,7 @@ Không bao giờ bỏ lỡ phong bao lì xì nào"</string>
 	<string formatted="false" name="system_permission_declare_main_purpose">Chào mừng tới %1s! Ứng dụng này cho phép bạn sử dụng các tính năng sau: %2s.</string>
 	<string name="system_permission_declare_no_say_no">"Nếu bạn chọn không cấp quyền hoặc không cho phép chúng tôi thu thập và sử dụng dữ liệu của bạn, ứng dụng này không thể hoạt động bình thường."</string>
 	<string name="system_permission_declare_privacy_declare">"Chúng tôi sẽ bảo vệ thông tin cá nhân của bạn theo luật pháp, quy định và chính sách bảo mật có liên quan. Lưu ý rằng ứng dụng này cần kết nối mạng và yêu cầu các quyền sau để thu thập thông tin cá nhân của bạn:"</string>
-	<string name="system_permission_declare_revoke_path">Bạn có thể gỡ cài đặt ứng dụng này, đăng xuất khỏi tài khoản, hoặc quản lý quyền và ủy quyền của bạn trong Bảo mật &gt; Quản lý ứng dụng &gt; Quyền &gt; Quyền khác.</string>
+	<string name="system_permission_declare_revoke_path">Bạn có thể gỡ bỏ ứng dụng này, đăng xuất khỏi tài khoản, hoặc quản lý quyền và ủy quyền của bạn trong Bảo mật &gt; Quản lý ứng dụng &gt; Quyền &gt; Quyền khác.</string>
 	<string name="system_permission_declare_use_network">Kết nối mạng</string>
 	<string name="system_permission_perm_answer_call">Thực hiện cuộc gọi</string>
 	<string name="system_permission_perm_read_mms">Đọc MMS</string>
@@ -2985,7 +2985,7 @@ Không bao giờ bỏ lỡ phong bao lì xì nào"</string>
 	<string name="system_permission_declare_privacy_no_permission">"Lưu ý rằng ứng dụng này cần kết nối mạng và thu thập thông tin cá nhân cần thiết để cung cấp dịch vụ cho bạn. Chúng tôi sẽ bảo vệ thông tin cá nhân của bạn theo luật pháp, quy định và chính sách bảo mật có liên quan."</string>
 	<string name="system_permission_declare_privacy_policy">&lt;Data&gt;Đọc và đồng ý với &lt;a href=\"%1$s\"&gt;Chính sách Riêng tư&lt;/a&gt; của chúng tôi trước khi sử dụng tính năng này.&lt;/Data&gt;</string>
 	<string name="system_permission_declare_revoke_system">Bạn có thể thoát ứng dụng này.</string>
-	<string name="system_permission_declare_revoke_uninstallable">Bạn có thể gỡ cài đặt ứng dụng này hoặc quản lý quyền và xác thực trong Bảo mật &gt; Quản lý ứng dụng &gt; Quyền &gt; Quyền khác.</string>
+	<string name="system_permission_declare_revoke_uninstallable">Bạn có thể gỡ bỏ ứng dụng này hoặc quản lý quyền và xác thực trong Bảo mật &gt; Quản lý ứng dụng &gt; Quyền &gt; Quyền khác.</string>
 	<string name="system_permission_declare_use_network_no_permission">Kết nối mạng</string>
 	<string name="system_permission_declare_user_agreement">&lt;Data&gt;Đọc và đồng ý với &lt;a href=\"%1$s\"&gt;Thỏa thuận Người dùng&lt;/a&gt; của chúng tôi trước khi sử dụng tính năng này.&lt;/Data&gt;</string>
 	<string name="battery_statistics_activity_title">Thống kê sử dụng pin</string>
@@ -3198,7 +3198,7 @@ Kết nối cả điện thoại và màn hình mở rộng của bạn (v.d. TV
 	<string name="app_running_tip_dialog_title">Thoát ứng dụng</string>
 	<string name="app_running_tip_dialog_negative">Hủy</string>
 	<string name="app_running_tip_dialog_text">Thoát %1$s để ngăn nó chạy dưới nền. Điều này giúp tăng tốc thiết bị của bạn và bớt hao pin.</string>
-	<string name="app_running_tip_uninstall">Gỡ cài đặt ứng dụng này</string>
+	<string name="app_running_tip_uninstall">Gỡ bỏ ứng dụng này</string>
 	<string name="battery_low_percent_format_save_mode_closed">"Pin còn ít hơn %s. Đừng quên sạc thiết bị của bạn."</string>
 	<string name="notification_low_battery_title">Pin còn ít hơn %s</string>
 	<string name="battery_low_percent_format_save_mode_open">"Pin còn ít hơn %1$s. Bật Tiết kiệm pin để thêm %2$s."</string>
@@ -3627,7 +3627,7 @@ Sau khi được đặt, nếu bạn đóng ứng dụng, các quyền sẽ tr�
 	<string name="privacy_danger_permission_status_title">Hành động nhạy cảm</string>
 	<string name="privacy_search_key_10">ID thiết bị</string>
 	<string name="privacy_other_permission_manage_summary">Quản lý các quyền liên quan đến quyền riêng tư khác</string>
-	<string name="storage_app_manager_uninstall_application">Gỡ cài đặt</string>
+	<string name="storage_app_manager_uninstall_application">Gỡ bỏ</string>
 	<string name="privacy_provision_text">Chúng tôi cam kết tôn trọng và bảo vệ sự riêng tư của bạn. Ưu tiên nghiên cứu và phát triển trong lĩnh vực bảo mật thông tin, Xiaomi không ngừng nỗ lực cải tiến các phương pháp, thực tiễn và giải pháp kỹ thuật bảo vệ dữ liệu của bạn. Chúng tôi cũng chia sẻ những thành tựu mới nhất của chúng tôi với các đối tác của mình để đảm bảo quyền riêng tư của bạn toàn diện.</string>
 	<string name="HIPS_Perm_WIFI_Connectivity_Desc">Bật và tắt Wi-Fi</string>
 	<string name="privacy_show_password">Hiển thị mật khẩu</string>
@@ -3647,12 +3647,12 @@ Sau khi được đặt, nếu bạn đóng ứng dụng, các quyền sẽ tr�
 	<string name="priority_storage_summary">Chọn vị trí lưu dữ liệu của bạn</string>
 	<string name="usb_insert_summary">Kết nối thiết bị USB</string>
 	<string name="privacy_danger_permission_title">Quyền thông báo</string>
-	<string name="storage_app_manager_factory_reset_dlg_title">Gỡ cài đặt cập nhật?</string>
-	<string name="storage_app_manager_uninstall_protected_dlg_msg">Gỡ cài đặt trình cắm ứng dụng hệ thống có thể khiến một số tính năng không hoạt động. Vẫn gỡ cài đặt?</string>
+	<string name="storage_app_manager_factory_reset_dlg_title">Gỡ bỏ cập nhật?</string>
+	<string name="storage_app_manager_uninstall_protected_dlg_msg">Gỡ bỏ trình cắm ứng dụng hệ thống có thể khiến một số tính năng không hoạt động. Vẫn gỡ bỏ?</string>
 	<string name="privacy_empty_storage">"Không truy cập bộ nhớ hôm nay"</string>
 	<string name="pc_battery_history_item_histogram">Chi tiết tiêu thụ pin</string>
 	<string name="privacy_permission_management_summary">Ứng dụng đang sử dụng quyền để gọi điện, gửi SMS và truy cập liên hệ</string>
-	<string name="storage_app_manager_uninstall_xspace_app_dlg_msg">Tất cả dữ liệu ứng dụng cũng sẽ bị xóa nếu bạn gỡ cài đặt ứng dụng.</string>
+	<string name="storage_app_manager_uninstall_xspace_app_dlg_msg">Tất cả dữ liệu ứng dụng cũng sẽ bị xóa nếu bạn gỡ bỏ ứng dụng.</string>
 	<string name="privacy_special_permission_summary">Theo dõi ứng dụng sử dụng quyền nhạy cảm như thế nào</string>
 	<string name="storage_app_manager_clear_dlg_title">Xóa dữ liệu</string>
 	<string name="miui_optimization_close_final_tip">Tắt Tối ưu hóa MIUI?</string>
@@ -3693,7 +3693,7 @@ Sau khi được đặt, nếu bạn đóng ứng dụng, các quyền sẽ tr�
 	<string name="privacy_permission_camera_title">Hạn chế sử dụng máy ảnh dưới nền</string>
 	<string name="privacy_empty_contact">"Không truy cập liên hệ hôm nay"</string>
 	<string name="privacy_dialog_camera_message">"Để bảo vệ sự riêng tư của bạn, MIUI không cho phép ứng dụng sử dụng máy ảnh dưới nền."</string>
-	<string name="storage_app_detail_uninstall_done">Gỡ cài đặt thành công</string>
+	<string name="storage_app_detail_uninstall_done">Gỡ bỏ thành công</string>
 	<string name="privacy_dialog_call_title">Bảo vệ cuộc gọi</string>
 	<string name="power_save_ps_description_title">Tiết kiệm pin kích hoạt các hạn chế sau:</string>
 	<string name="privacy_mask_summary">Thay vì số nhận dạng thực của bạn, MIUI sẽ cung cấp ID ảo (OAID) cho các ứng dụng của bên thứ ba. Nó ngăn các ứng dụng theo dõi hành vi và sở thích của bạn và bảo vệ quyền riêng tư của bạn</string>
@@ -3723,14 +3723,14 @@ Sau khi được đặt, nếu bạn đóng ứng dụng, các quyền sẽ tr�
 	<string name="permission_action_desc_reject">"Không thể sử dụng quyền này"</string>
 	<string name="storage_app_manager_disable_dlg_title">Tắt ứng dụng được cài đặt trước?</string>
 	<string name="HIPS_Perm_Bluetooth_Connectivity_Desc">Tắt và bật Bluetooth</string>
-	<string name="storage_app_uninstall_app_dialog_title">Đang gỡ cài đặt ứng dụng</string>
+	<string name="storage_app_uninstall_app_dialog_title">Đang gỡ bỏ ứng dụng</string>
 	<string name="privacy_using_record">Đang ghi âm</string>
 	<string name="privacy_location_info_summary">Quản lý truy cập vào vị trí của bạn</string>
 	<string name="privacy_permission_storage">Truy cập bộ nhớ</string>
 	<string name="power_off_warning_message">Pin yếu. Thiết bị của bạn sẽ tắt trong %d giây. Kết nối bộ sạc.</string>
 	<string name="usb_format_summary">Xóa tất cả dữ liệu trên thiết bị lưu trữ USB (bao gồm nhạc và ảnh)</string>
 	<string name="required_permissions">Quyền bắt buộc</string>
-	<string name="storage_app_manager_factory_reset_dlg_msg">Tất cả cập nhật của ứng dụng hệ thống Android này sẽ được gỡ cài đặt.</string>
+	<string name="storage_app_manager_factory_reset_dlg_msg">Tất cả cập nhật của ứng dụng hệ thống Android này sẽ được gỡ bỏ.</string>
 	<string name="required_permissions_desc">Cá quyền này được yêu cầu để các tính năng và dịch vụ cơ bản của ứng dụng hoạt động.</string>
 	<string name="oaid_reset_content_tip">Nếu bạn tắt ID nhận dạng ảo, một số ứng dụng và dịch vụ có thể không thể sử dụng bình thường và có thể gây mất dữ liệu, vui lòng cẩn thận!</string>
 	<string name="privacy_empty_call">"Không truy cập lịch sử cuộc gọi hôm nay"</string>
@@ -3738,7 +3738,7 @@ Sau khi được đặt, nếu bạn đóng ứng dụng, các quyền sẽ tr�
 	<string name="privacy_empty_record">"Không ghi âm hôm nay"</string>
 	<string name="sd_format_summary">Xóa tất cả dữ liệu trên thẻ SD (bao gồm nhạc và ảnh)</string>
 	<string name="privacy_app_behavior_summary">Tự khởi chạy, quyền và hơn nữa</string>
-	<string name="storage_app_detail_uninstall_dialog_message">Tất cả dữ liệu ứng dụng cũng sẽ được xóa nếu bạn gỡ cài đặt ứng dụng.</string>
+	<string name="storage_app_detail_uninstall_dialog_message">Tất cả dữ liệu ứng dụng cũng sẽ được xóa nếu bạn gỡ bỏ ứng dụng.</string>
 	<string name="privacy_guide_permission_use_text">MIUI sẽ đếm và hiển thị số lần ứng dụng sử dụng các quyền nhạy cảm, bao gồm vị trí, liên lạc, lịch sử cuộc gọi và quyền truy cập bộ nhớ, cũng như ghi lại âm thanh. Bạn có thể tìm hiểu số lần mỗi ứng dụng sử dụng các quyền này và xác định xem bạn có cần điều chỉnh cài đặt quyền của mình không.</string>
 	<string name="privacy_dialog_feedback">Phản hồi</string>
 	<string name="privacy_permission_use_warning">Thông báo quyền</string>
@@ -3756,9 +3756,9 @@ Sau khi được đặt, nếu bạn đóng ứng dụng, các quyền sẽ tr�
 	<string name="pc_battery_history_consumption_percent_title">Phần trăm tiêu thụ pin</string>
 	<string name="privacy_danger_permission_summary">Theo dõi ứng dụng sử dụng quyền của bạn thế nào</string>
 	<string name="na_text_checking">"Đang kiểm tra: "</string>
-	<string name="storage_app_uninstall_app_dialog_msg">Tất cả dữ liệu ứng dụng cũng sẽ bị xóa nếu bạn gỡ cài đặt ứng dụng.</string>
+	<string name="storage_app_uninstall_app_dialog_msg">Tất cả dữ liệu ứng dụng cũng sẽ bị xóa nếu bạn gỡ bỏ ứng dụng.</string>
 	<string name="privacy_permission_use_times">Tìm kiểu cách từng ứng dụng sử dụng quyền của bạn</string>
-	<string name="storage_app_manager_uninstall_xspace_app_dlg_title">Gỡ cài đặt ứng dụng kép?</string>
+	<string name="storage_app_manager_uninstall_xspace_app_dlg_title">Gỡ bỏ ứng dụng kép?</string>
 	<string name="permission_action_desc_foreground">"Quyền này chỉ có thể được sử dụng khi bạn đang sử dụng ứng dụng"</string>
 	<string name="storage_format_success">Định dạng %1$s thành công</string>
 	<string name="usb_eject">Ngắt kết nối thiết bị USB</string>
@@ -3781,7 +3781,7 @@ Sau khi được đặt, nếu bạn đóng ứng dụng, các quyền sẽ tr�
 	<string name="system_permission_declare_meanwhile_user_agreement">&lt;Data&gt;Đồng thời, để hiểu đầy đủ quyền của bạn với tư cách là người dùng cũng như cách chúng tôi sử dụng dữ liệu của bạn, hãy đọc và đồng ý &lt;a href=\"%1$s\"&gt;Thỏa thuận Người dùng&lt;/a&gt; của chúng tôi.&lt;/Data&gt;</string>
 	<string name="mtp_ptp_mode_summary">MTP hoặc PTP được kích hoạt</string>
 	<string name="privacy_danger_permission_warning">Quyền rủi ro cao</string>
-	<string name="storage_app_detail_uninstall_dialog_title">Gỡ cài đặt ngay?</string>
+	<string name="storage_app_detail_uninstall_dialog_title">Gỡ bỏ ngay?</string>
 	<string name="storage_wizard_format_confirm_v2_title">Định dạng ^1 này ngay?</string>
 	<string name="perm_intercept_unknown_title">Cho phép %1s cài đặt ứng dụng từ nguồn không xác định có thể gây ra những rủi ro sau:</string>
 	<string name="storage_app_detail_manager_enabled">Bật</string>
@@ -3804,7 +3804,7 @@ Sau khi được đặt, nếu bạn đóng ứng dụng, các quyền sẽ tr�
 Để sử dụng ^1 này, bạn cần kết nối nó trước."</string>
 	<string name="optional_permissions_desc">"Các quyền này được yêu cầu khi bạn sử dụng tính năng bổ sung."</string>
 	<string name="privacy_protect_title">Riêng tư</string>
-	<string name="storage_app_manager_uninstall_with_xspace_app_dlg_msg">"Ứng dụng kép của ứng dụng này cũng sẽ được gỡ cài đặt."</string>
+	<string name="storage_app_manager_uninstall_with_xspace_app_dlg_msg">"Ứng dụng kép của ứng dụng này cũng sẽ được gỡ bỏ."</string>
 	<string name="privacy_permission_location">Truy cập vị trí</string>
 	<string name="pc_battery_history_usetime_title">Hoạt động</string>
 	<string name="HIPS_Perm_process_nfc_Desc">Đang sử dụng NFC</string>
@@ -3840,7 +3840,7 @@ Sau khi được đặt, nếu bạn đóng ứng dụng, các quyền sẽ tr�
 	<string name="storage_app_detail_cache">Bộ đệm</string>
 	<string name="storage_item_system_name">Hệ thống</string>
 	<string name="storage_app_detail_manage_space">%s - Quản lý dung lượng lưu trữ</string>
-	<string name="storage_app_detail_uninstall_app">Gỡ cài đặt ứng dụng</string>
+	<string name="storage_app_detail_uninstall_app">Gỡ bỏ ứng dụng</string>
 	<string name="storage_app_detail_third_clean_size">Giải phóng %s</string>
 	<string name="storage_item_doc_name">Tài liệu</string>
 	<string name="storage_app_list_desc">Bộ nhớ chiếm dụng: %s</string>
@@ -3873,15 +3873,15 @@ Sau khi được đặt, nếu bạn đóng ứng dụng, các quyền sẽ tr�
 	<string name="gb_game_video_type_ai_record">Ghi AI</string>
 	<string name="gb_wonderful_video_goto_box">Chuyển đến chế độ Tăng tốc trò chơi</string>
 	<string name="gb_wonderful_moment_toast_window_new_pop">Bật ghi thông minh / thủ công và lưu lại các khoảnh khắc tuyệt vời</string>
-	<string name="gb_dialog_game_uninstall_multi_tips_title">Gỡ cài đặt \"%1$s\" %2$d trò chơi đang chờ</string>
+	<string name="gb_dialog_game_uninstall_multi_tips_title">Gỡ bỏ \"%1$s\" %2$d trò chơi đang chờ</string>
 	<string name="gb_storage_title">Sắp xếp biểu tượng trò chơi</string>
-	<string name="gb_storage_game_uninstall">Gỡ cài đặt trò chơi</string>
-	<string name="gb_dialog_game_uninstall_tips_title">Gỡ cài đặt “%s”</string>
+	<string name="gb_storage_game_uninstall">Gỡ bỏ trò chơi</string>
+	<string name="gb_dialog_game_uninstall_tips_title">Gỡ bỏ “%s”</string>
 	<string name="gb_dialog_game_uninstall_deleting">Xóa</string>
 	<string name="gb_dialog_game_uninstall_tips_message_xspace">Các trò chơi trong không gian thứ hai cùng dữ liệu trò chơi sẽ bị xóa</string>
 	<string name="gb_dialog_game_uninstall_loading">Đang tải</string>
 	<string name="gb_storage_summary">Lưu trữ trò chơi trong Hộp trò chơi, biểu tượng trò chơi sẽ không còn hiển thị ngoài Màn hình chính</string>
-	<string name="gb_dialog_game_uninstall_tips_message">Sau khi gỡ cài đặt, tất cả dữ liệu của nó cũng sẽ bị xóa</string>
+	<string name="gb_dialog_game_uninstall_tips_message">Sau khi gỡ bỏ, tất cả dữ liệu của nó cũng sẽ bị xóa</string>
 	<string name="gtb_dialog_btn_open">Bật</string>
 	<string name="gtb_dialog_btn_close">Tắt</string>
 	<string name="gtb_setting_item_summary_smart_5g">Khi Tăng tốc Trò chơi nhận thấy mạng 5G, nó có thể kết nối thiết bị của bạn tới mạng khả dụng tốt nhất để giảm độ trễ mạng</string>
@@ -4168,7 +4168,7 @@ Sau khi được đặt, nếu bạn đóng ứng dụng, các quyền sẽ tr�
 	<string name="notification_wechat_clean_high_level_hint">Xóa rác để tăng tốc thiết bị của bạn</string>
 	<string name="notification_uninstall_clean_hint">Xóa rác để giải phóng bộ nhớ</string>
 	<string name="notification_qq_clean_hint">Các tệp tin rác làm chậm thiết bị của bạn</string>
-	<string name="notification_uninstall_clean_text">Các ứng dụng đã gỡ cài đặt để lại rác trên thiết bị của bạn</string>
+	<string name="notification_uninstall_clean_text">Các ứng dụng đã gỡ bỏ để lại rác trên thiết bị của bạn</string>
 	<string name="notification_garbage_clean_size_found">"Có %s of rác"</string>
 	<string name="notification_low_memory_text">Bộ nhớ đang gần hết</string>
 	<string name="notification_low_storage_size">Còn ít hơn %s bộ nhớ khả dụng</string>
@@ -4198,7 +4198,7 @@ Sau khi được đặt, nếu bạn đóng ứng dụng, các quyền sẽ tr�
 	<string name="pp_safe_box_summary">Bảo vệ riêng tư</string>
 	<string name="privacy_risk_result_success_empty_msg">Tất cả mọi thứ đều tốt!</string>
 	<string name="image_protect_no_data">Không có mục nào ở đây</string>
-	<string name="privacy_risk_result_uninstall_btn">Gỡ cài đặt</string>
+	<string name="privacy_risk_result_uninstall_btn">Gỡ bỏ</string>
 	<string name="privacy_risk_result_ignore_btn">Bỏ qua</string>
 	<string name="pp_storage_msg">Lưu trữ</string>
 	<string name="privacy_risk_result_file_btn">Sửa</string>
@@ -4206,7 +4206,7 @@ Sau khi được đặt, nếu bạn đóng ứng dụng, các quyền sẽ tr�
 	<string name="privacy_risk_sensitive_bar_title">Quyền nhạy cảm</string>
 	<string name="pp_record_msg">Ghi âm</string>
 	<string name="pp_contacts_msg">Liên hệ</string>
-	<string name="privacy_risk_uninstall_title">Gỡ cài đặt ứng dụng</string>
+	<string name="privacy_risk_uninstall_title">Gỡ bỏ ứng dụng</string>
 	<string name="pp_app_permission_settings">Quyền ứng dụng</string>
 	<string name="pp_safe_keyboard">Bàn phím an toàn</string>
 	<string name="image_protect_recover_del_pic">Khôi phục</string>
@@ -4318,7 +4318,7 @@ Sau khi được đặt, nếu bạn đóng ứng dụng, các quyền sẽ tr�
 	<string name="special_perm_note_msg">Cho phép ứng dụng gửi SMS trả phí</string>
 	<string name="special_perm_intercept_app_title">Đọc tất cả thông báo</string>
 	<string name="special_perm_note_title">Gửi SMS trả phí</string>
-	<string name="privacy_risk_space_uninstall_dialog_msg">Gỡ cài đặt các ứng dụng đã chọn bao gồm các ứng dụng Kép của chúng？</string>
+	<string name="privacy_risk_space_uninstall_dialog_msg">Gỡ bỏ các ứng dụng đã chọn bao gồm các ứng dụng Kép của chúng？</string>
 	<string name="notification_power_consume_suggest_summary">Khắc phục sự cố để tiết kiệm pin</string>
 	<string name="special_perm_intercept_psd_title">Theo dõi và điều khiển khóa màn hình</string>
 	<string name="power_optimize_darkmode_dialog_title">Bật Chế độ tối</string>
@@ -4383,7 +4383,7 @@ và khám phá Đổi giọng nói!"</string>
 	<string name="privacy_risk_work_encryption">"Phương tiện truyền thông xã hội và tệp văn phòng không được bảo vệ"</string>
 	<string name="applock_recommend_tips">%s người dùng bảo vệ các ứng dụng này</string>
 	<string name="special_perm_notice_msg">Cho phép ứng dụng quản lý động thông báo</string>
-	<string name="privacy_risk_uninstall_dialog_msg">Gỡ cài đặt các ứng dụng đã chọn?</string>
+	<string name="privacy_risk_uninstall_dialog_msg">Gỡ bỏ các ứng dụng đã chọn?</string>
 	<string name="privacy_risk_dangerous_manager">Điều khiển thiết bị</string>
 	<string name="app_behavior_clipboard_bg_new">%1s đã sao chép các mục vào khay nhớ tạm dưới nền</string>
 	<string name="app_behavior_clipboard_bg_single_new">Ứng dụng này đã sao chép các mục vào khay nhớ tạm trong nền</string>
@@ -5025,7 +5025,7 @@ tham gia săn trứng của chúng tôi!"</string>
 	<string name="warningcenter_policeassist_close_btn">Tắt</string>
 	<string name="never_new">%d lần</string>
 	<string name="gb_shoulder_key_guide_btn_next">Tiếp theo</string>
-	<string name="app_manager_uninstall_button_text">Gỡ cài đặt</string>
+	<string name="app_manager_uninstall_button_text">Gỡ bỏ</string>
 	<string name="gamebox_macro">Tổ hợp</string>
 	<string name="gb_shoulder_key_btn_save_exit">Lưu</string>
 	<string name="app_manager_tab_app">Ứng dụng</string>
@@ -5131,7 +5131,7 @@ tham gia săn trứng của chúng tôi!"</string>
 	<string name="power_center_super_wireless_charge_noti_switch">Thông báo về tính năng sạc nhanh không dây</string>
 	<string name="settings_battery_power_save_suggest_title">Đề xuất và cảnh báo về trình tiết kiệm pin</string>
 	<string name="power_center_unoffical_battery_tip">"Thông tin sức khỏe không có sẵn cho pin không chính hãng này. Nhấn để tìm hiểu về các rủi ro bảo mật."</string>
-	<string name="card_uninstall_summary">Gỡ cài đặt các ứng dụng hiếm khi được sử dụng để giải phóng dung lượng lưu trữ</string>
+	<string name="card_uninstall_summary">Gỡ bỏ các ứng dụng hiếm khi được sử dụng để giải phóng dung lượng lưu trữ</string>
 	<string name="warningcenter_policeassist_noti_privacy">Chạm để xem Chính sách Riêng tư</string>
 	<string name="power_center_unoffical_battery_summary2">Thay pin ở nơi khác có thể làm hỏng thiết bị này. Sử dụng pin trái phép có thể dẫn đến pin bị phồng, quá nhiệt và rò rỉ. Nó cũng có thể gây cháy hoặc các mối nguy hiểm khác. Không sử dụng pin không chính hãng.</string>
 	<string name="power_center_unoffical_battery_summary1">Thiết bị này được trang bị pin tích hợp chỉ được thay thế bởi nhà cung cấp dịch vụ được ủy quyền.</string>
@@ -5343,7 +5343,7 @@ Ghi lại các trình tự và sử dụng chúng bất cứ lúc nào!"</string
     <string name="power_setting_wireless_reverse_charging_fg_control_title">Giới hạn sạc</string>
     <string name="ew_monitor_my_content">Thiết bị di động của tôi là một phần của mạng cảnh báo sớm động đất. Sau khi các cảm biến của nó phát hiện ra sóng địa chấn, dữ liệu sẽ được phân tích bằng thuật toán AI và cảnh báo sớm sẽ được đưa ra cho người dân ở các khu vực bị ảnh hưởng.</string>
     <string name="sp_website_scan_title">Kiểm tra trang web</string>
-    <string name="exit_dialog_release_storage_message_new">Hơn %s bộ nhớ trên thiết bị của bạn bị chiếm dụng. Giải phóng dung lượng bằng cách gỡ cài đặt các ứng dụng bạn không bao giờ sử dụng.</string>
+    <string name="exit_dialog_release_storage_message_new">Hơn %s bộ nhớ trên thiết bị của bạn bị chiếm dụng. Giải phóng dung lượng bằng cách gỡ bỏ các ứng dụng bạn không bao giờ sử dụng.</string>
     <string name="privacy_input_mode_version_supported">Cập nhật bàn phím của bạn để có thể sử dụng tính năng này</string>
     <string name="gb_shoulder_key_settings_title_new">Khởi động nhanh Tăng tốc Trò chơi</string>
     <string name="ew_monitor_support_rom">*Tính năng này được hỗ trợ bởi các thiết bị Xiaomi / Redmi và các phiên bản MIUI được chọn.</string>
@@ -5475,7 +5475,7 @@ Ghi lại các trình tự và sử dụng chúng bất cứ lúc nào!"</string
 	<string name="virus_info_title">Mô tả</string>
 	<string name="virus_ignore_dialog_no_remind">Không hiển thị lại</string>
 	<string name="virus_news_title">Điều này có thể hữu ích:</string>
-	<string name="virus_app_delete_installed">Gỡ cài đặt</string>
+	<string name="virus_app_delete_installed">Gỡ bỏ</string>
 	<string name="apps_item_virus_ignore_text">Bỏ qua</string>
 	<string name="virus_app_type_installed">Đã cài đặt</string>
 	<string name="virus_app_verison_text">Phiên bản: %s</string>
@@ -5823,7 +5823,7 @@ Ghi lại các trình tự và sử dụng chúng bất cứ lúc nào!"</string
 	<string name="eletric_card_status_bg_content_enable">BẬT</string>
 	<string name="settings_negative_button_text">Không phải bây giờ</string>
 	<string name="mi_roaming">Chuyển vùng Mi</string>
-	<string name="antivirus_detect_apps_dialog_uninstall">Gỡ cài đặt</string>
+	<string name="antivirus_detect_apps_dialog_uninstall">Gỡ bỏ</string>
 	<string name="error_icon_content_description">Lỗi</string>
 	<string name="material_minute_suffix">%1$s phút</string>
 	<string name="month_reminder_warning">Giới hạn dữ liệu hàng tháng</string>

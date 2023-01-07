@@ -305,9 +305,9 @@ Thời gian trôi qua: %2$s"</string>
     <string name="sdcard_space_lack">Không đủ dung lượng trên thẻ SD của bạn</string>
     <string name="tts_install_failed">Không thể cài đặt trình điều khiển bằng giọng nói</string>
     <string name="nonsupport_asr">Không hỗ trợ</string>
-    <string name="text_uninstall">Gỡ cài đặt</string>
-    <string name="box_menu_uninstall_hint">Gỡ cài đặt</string>
-    <string name="uninstall_app_dialog">Gỡ cài đặt %1$s?</string>
+    <string name="text_uninstall">Gỡ bỏ</string>
+    <string name="box_menu_uninstall_hint">Gỡ bỏ</string>
+    <string name="uninstall_app_dialog">Gỡ bỏ %1$s?</string>
     <string name="delete_system_app_hint">Không thể xóa ứng dụng hệ thống</string>
     <string name="jeejen_sunday">Chủ nhật</string>
     <string name="jeejen_monday">Thứ hai</string>

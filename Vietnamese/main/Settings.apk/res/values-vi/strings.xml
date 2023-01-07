@@ -1500,7 +1500,7 @@ Tất cả dữ liệu trên ^1 này sẽ bị xóa. Trước tiên, hãy cân n
 Di chuyển tệp phương tiện sang bộ nhớ khác trên thiết bị này hoặc chuyển chúng sang máy tính bằng cáp USB. 
 
 "<b>Sao lưu ứng dụng</b>" 
-Tất cả ứng dụng được lưu trữ trên ^1 này sẽ bị gỡ cài đặt và dữ liệu ứng dụng sẽ bị xóa. Để lưu giữ các ứng dụng này, hãy di chuyển chúng sang bộ nhớ khác trên thiết bị này."</string>
+Tất cả ứng dụng được lưu trữ trên ^1 này sẽ bị gỡ bỏ và dữ liệu ứng dụng sẽ bị xóa. Để lưu giữ các ứng dụng này, hãy di chuyển chúng sang bộ nhớ khác trên thiết bị này."</string>
     <string name="storage_internal_unmount_details"><b>Khi bạn tháo ^1 này, các ứng dụng được lưu trữ trên đó sẽ ngừng hoạt động, đồng thời các tệp phương tiện được lưu trữ trên đó sẽ không khả dụng cho tới khi lắp lại.</b>" 
 
 ^1 này được định dạng để chỉ hoạt động trên thiết bị này. Nó sẽ không hoạt động trên bất kỳ thiết bị nào khác."</string>
@@ -1846,13 +1846,13 @@ Bạn có thể đặt khóa màn hình mới cho cả thiết bị và hồ sơ
     <string name="external_code_size_label">Ứng dụng bộ lưu trữ USB</string>
     <string name="data_size_label">Dữ liệu</string>
     <string name="external_data_size_label">Dữ liệu bộ lưu trữ USB</string>
-    <string name="uninstall_text">Gỡ cài đặt</string>
-    <string name="uninstall_all_users_text">Gỡ cài đặt đối với tất cả người dùng</string>
+    <string name="uninstall_text">Gỡ bỏ</string>
+    <string name="uninstall_all_users_text">Gỡ bỏ đối với tất cả người dùng</string>
     <string name="install_text">Cài đặt</string>
     <string name="disable_text">Tắt</string>
     <string name="enable_text">Bật</string>
     <string name="clear_user_data_text">Xóa dữ liệu</string>
-    <string name="app_factory_reset">Gỡ cài đặt cập nhật</string>
+    <string name="app_factory_reset">Gỡ bỏ cập nhật</string>
     <string name="auto_launch_enable_text">Bạn đã chọn chạy ứng dụng này theo mặc định cho một số tác vụ.</string>
     <string name="always_allow_bind_appwidgets_text">Bạn đã chọn cho phép ứng dụng này tạo các tiện ích và truy cập dữ liệu của chúng.</string>
     <string name="auto_launch_disable_text">Chưa đặt mặc định.</string>
@@ -2269,7 +2269,7 @@ Nếu thiết bị có nhiều người dùng, việc sử dụng lối tắt n�
     <string name="battery_sugg_bluetooth_basic">Tắt Bluetooth khi không sử dụng</string>
     <string name="battery_sugg_bluetooth_headset">Thử kết nối tới thiết bị Bluetooth khác</string>
     <string name="battery_desc_apps">Pin do ứng dụng sử dụng</string>
-    <string name="battery_sugg_apps_info">Dừng hoặc gỡ cài đặt ứng dụng</string>
+    <string name="battery_sugg_apps_info">Dừng hoặc gỡ bỏ ứng dụng</string>
     <string name="battery_sugg_apps_gps">Chọn chế độ tiết kiệm pin</string>
     <string name="battery_sugg_apps_settings">Ứng dụng có thể cung cấp các cài đặt để giảm mức sử dụng pin</string>
     <string name="battery_desc_users">Pin do người dùng sử dụng</string>
@@ -2405,8 +2405,8 @@ Khi bạn bật tính năng sao lưu tự động, dữ liệu ứng dụng và 
     <string name="device_admin_settings_title">Quản lý thiết bị</string>
     <string name="active_device_admin_msg">Quản trị viên thiết bị</string>
     <string name="remove_device_admin">Hủy kích hoạt quản trị viên thiết bị này</string>
-    <string name="uninstall_device_admin">Gỡ cài đặt ứng dụng</string>
-    <string name="remove_and_uninstall_device_admin">Hủy kích hoạt và gỡ cài đặt</string>
+    <string name="uninstall_device_admin">Gỡ bỏ ứng dụng</string>
+    <string name="remove_and_uninstall_device_admin">Hủy kích hoạt và gỡ bỏ</string>
     <string name="select_device_admin_msg">Quản trị viên thiết bị</string>
     <string name="no_device_admins">Không có ứng dụng dành cho quản trị viên thiết bị nào</string>
     <string name="personal_device_admin_title">Cá nhân</string>
@@ -2757,7 +2757,7 @@ Mọi người dùng đều có thể cập nhật ứng dụng cho tất cả n
     <string name="application_restrictions">Cho phép ứng dụng và nội dung</string>
     <string name="apps_with_restrictions_header">Ứng dụng có hạn chế</string>
     <string name="apps_with_restrictions_settings_button">Mở rộng cài đặt cho ứng dụng</string>
-    <string name="home_app_uninstall_button">Gỡ cài đặt ứng dụng này</string>
+    <string name="home_app_uninstall_button">Gỡ bỏ ứng dụng này</string>
     <string name="only_one_home_message">Cài đặt trang chủ sẽ bị ẩn cho đến khi bạn cài đặt một ứng dụng trang chủ khác.</string>
     <string name="global_change_warning">Cài đặt này ảnh hưởng đến tất cả người dùng trên điện thoại này.</string>
     <string name="global_locale_change_title">Thay đổi ngôn ngữ</string>
@@ -3560,7 +3560,7 @@ Bạn có thể thay đổi điều này sau đó từ Cài đặt > Ứng dụn
     <string name="search_wifi_advanced_ip_address_title">Địa chỉ IP;IP</string>
     <string name="search_wifi_menu_p2p">Wi-Fi Trực tiếp;WLAN Trực tiếp</string>
     <string name="search_wifi_wapi_cert_install">Cài đặt chứng chỉ WAPI;Chứng chỉ WAPI;WAPI</string>
-    <string name="search_wifi_wapi_cert_uninstall">Gỡ cài đặt chứng chỉ WAPI;Chứng chỉ WAPI;WAPI</string>
+    <string name="search_wifi_wapi_cert_uninstall">Gỡ bỏ chứng chỉ WAPI;Chứng chỉ WAPI;WAPI</string>
     <string name="search_wps_connect_title">Liên kết WPS;Kết nối WPS;WPS</string>
     <string name="search_wifi_menu_wps_pin">Vào PIN WPS;WPS;PIN WPS</string>
     <string name="search_bluetooth_settings_title">Bluetooth;Hiện thiết bị với thiết bị khác</string>
@@ -4028,7 +4028,7 @@ Bạn có thể thay đổi điều này sau đó từ Cài đặt > Ứng dụn
     <string name="wifi_wapi_cert_mgmt_titlebar">Chứng chỉ WAPI</string>
     <string name="wifi_wapi_cert_install">Cài đặt chứng chỉ WAPI</string>
     <string name="wifi_wapi_cert_install_button">Cài đặt</string>
-    <string name="wifi_wapi_cert_uninstall_button">Gỡ cài đặt</string>
+    <string name="wifi_wapi_cert_uninstall_button">Gỡ bỏ</string>
     <string name="wifi_wapi_cert_cancel_button">Hủy</string>
     <string name="wifi_wapi_cert_uninstall">Gỡ bỏ cài đặt chứng chỉ WAPI</string>
     <string name="wifi_wapi_cert_create_subdir">Tạo thư mục</string>
@@ -4240,7 +4240,7 @@ Bạn có thể thay đổi điều này sau đó từ Cài đặt > Ứng dụn
     <string name="privacy_relative">Riêng tư</string>
     <string name="other_relative">Khác</string>
     <string name="permission_manage_title">%s quyền</string>
-    <string name="remove_continue">Gỡ cài đặt</string>
+    <string name="remove_continue">Gỡ bỏ</string>
     <string name="filter_apps_cached">Đã lưu trữ</string>
     <string name="screen">Màn hình</string>
     <string name="system">Hệ thống</string>
@@ -4949,17 +4949,17 @@ Bạn có thể thay đổi điều này sau đó từ Cài đặt > Ứng dụn
     <string name="app_invisible">Ứng dụng ẩn</string>
     <string name="lock_secure_after_timeout_click_me_to_change_text">Chạm để đổi</string>
     <string name="manage_fakecell_settings">Bảo vệ từ trạm gốc giả mạo</string>
-    <string name="uninstall_xspace_app_dlg_title">Gỡ cài đặt ứng dụng kép?</string>
-    <string name="uninstall_xspace_app_dlg_msg">Gỡ cài đặt ứng dụng kép sẽ xóa tất cả dữ liệu ứng dụng.</string>
-    <string name="uninstall_dlg_title">Gỡ cài đặt ngay?</string>
-    <string name="uninstall_dlg_msg">Gỡ cài đặt sẽ xóa tất cả dữ liệu ứng dụng.</string>
+    <string name="uninstall_xspace_app_dlg_title">Gỡ bỏ ứng dụng kép?</string>
+    <string name="uninstall_xspace_app_dlg_msg">Gỡ bỏ ứng dụng kép sẽ xóa tất cả dữ liệu ứng dụng.</string>
+    <string name="uninstall_dlg_title">Gỡ bỏ ngay?</string>
+    <string name="uninstall_dlg_msg">Gỡ bỏ sẽ xóa tất cả dữ liệu ứng dụng.</string>
     <string name="uninstall_with_xspace_app_dlg_msg">Ứng dụng kép tương ứng sẽ bị xóa cùng với dữ liệu.</string>
-    <string name="uninstall_protected_dlg_title">Gỡ cài đặt ứng dụng hệ thống</string>
-    <string name="uninstall_protected_dlg_msg">Gỡ cài đặt ứng dụng hệ thống có thể dẫn đến một số chức năng MIUI hoạt động không bình thường. Vẫn tiếp tục gỡ?</string>
+    <string name="uninstall_protected_dlg_title">Gỡ bỏ ứng dụng hệ thống</string>
+    <string name="uninstall_protected_dlg_msg">Gỡ bỏ ứng dụng hệ thống có thể dẫn đến một số chức năng MIUI hoạt động không bình thường. Vẫn tiếp tục gỡ?</string>
     <string name="apn_ppp_number">Số điện thoại APN PPP</string>
     <string name="radio_info_asdiv_switch_label">Trạng thái ASDiv:</string>
-    <string name="app_factory_reset_dlg_title">Gỡ cài đặt cập nhật?</string>
-    <string name="app_factory_reset_dlg_text">Tất cả cập nhật cho ứng dụng hệ thống Android này sẽ bị gỡ cài đặt.</string>
+    <string name="app_factory_reset_dlg_title">Gỡ bỏ cập nhật?</string>
+    <string name="app_factory_reset_dlg_text">Tất cả cập nhật cho ứng dụng hệ thống Android này sẽ bị gỡ bỏ.</string>
     <string name="privacy_password">Mật khẩu bảo vệ Cá nhân</string>
     <string name="msim_sim_radio_off">Tắt</string>
     <string name="forbidden_switch_apn_string">Cài đặt APN đã chọn không khớp với loại mạng hiện tại</string>
@@ -5774,7 +5774,7 @@ Lưu ý: Bạn không thể sử dụng vân tay của mình để mở khóa th
     <string name="web_action_enable_title">Ứng dụng tức thì</string>
     <string name="web_action_section_title">Ứng dụng tức thì</string>
     <string name="webview_disabled_for_user">(đã tắt cho người dùng %s)</string>
-    <string name="webview_uninstalled_for_user">(gỡ cài đặt cho người dùng %s)</string>
+    <string name="webview_uninstalled_for_user">(gỡ bỏ cho người dùng %s)</string>
     <string name="wfc_provisioned_switch_string">Đã cấp phép gọi điện qua Wi-Fi</string>
     <string name="wifi_advanced_toggle_description_collapsed">Danh sách Tùy chọn nâng cao thả xuống. Nhấn đúp để mở rộng.</string>
     <string name="wifi_advanced_toggle_description_expanded">Danh sách Tùy chọn nâng cao thả xuống. Nhấn đúp để thu gọn.</string>
@@ -5993,7 +5993,7 @@ Quản trị viên của bạn có thể giám sát hoạt động mạng của 
     <string name="install_master_key_and_connect">Bạn có thể kết nối với mạng này bằng WiFi Master Key. Cài đặt công cụ này?</string>
     <string name="show_wifi_master_key_summary">Kết nối với mạng Wi-Fi chia sẻ bằng WiFi Master Key</string>
     <string name="show_wifi_master_key_title">Phát hiện mạng Wi-Fi chia sẻ</string>
-    <string name="uninstall_wifi_master_key">Gỡ cài đặt WiFi Master Key</string>
+    <string name="uninstall_wifi_master_key">Gỡ bỏ WiFi Master Key</string>
     <string name="use_wifi_master_key_summary">Kết nối bằng WiFi Master Key</string>
     <string name="wifi_master_key_dialog_content_master_key">WiFi Master Key</string>
     <string name="wifi_master_key_dialog_content_password">Mật khẩu</string>
@@ -7202,10 +7202,10 @@ Những ứng dụng sử dụng pin hàng đầu:"</string>
 Để giải quyết vấn đề, bạn có thể tắt quyền vị trí cho ứng dụng này.</string>
     <string name="dialog_stop_message">Điện thoại của bạn không thể quản lý pin bình thường bởi %1$s liên tục đánh thức điện thoại.
 Để khắc phục sự cố, bạn có thể đóng ứng dụng.
-Nếu điều này tiếp diễn, bạn có thể phải gỡ cài đặt ứng dụng để cải thiện thời lượng pin.</string>
+Nếu điều này tiếp diễn, bạn có thể phải gỡ bỏ ứng dụng để cải thiện thời lượng pin.</string>
     <string name="dialog_stop_message_wakeup_alarm">Điện thoại của bạn không thể quản lý pin bình thường bởi %1$s liên tục đánh thức điện thoại.
 Để khắc phục sự cố, bạn có thể đóng %1$s.
-Nếu điều này tiếp diễn, bạn có thể phải gỡ cài đặt ứng dụng để cải thiện thời lượng pin.</string>
+Nếu điều này tiếp diễn, bạn có thể phải gỡ bỏ ứng dụng để cải thiện thời lượng pin.</string>
     <string name="dialog_stop_ok">Đóng ứng dụng</string>
     <string name="dialog_stop_title">Đóng ứng dụng?</string>
     <string name="directory_access">Truy cập trực tiếp</string>
@@ -11314,7 +11314,7 @@ Chức năng này chỉ nhận được địa chỉ MAC Wi-Fi của bạn để
 	<string name="headset_find_title">Tìm tai nghe</string>
 	<string name="pre_install_app_camera">Máy ảnh</string>
 	<string name="miheadset_triple_press_right">Nhấn ba lần vào tai nghe bên phải</string>
-	<string name="pre_install_question_uninstall_title">Cách gỡ cài đặt ứng dụng?</string>
+	<string name="pre_install_question_uninstall_title">Cách gỡ bỏ ứng dụng?</string>
 	<string name="wifi_link_turbo_mode">Chế độ tăng tốc</string>
 	<string name="fingerprint_base_title">Vân tay %s</string>
 	<string name="pre_install_app_browser">Trình duyệt</string>
@@ -11346,7 +11346,7 @@ Bạn chưa từng kết nối tới %2$s trước đó."</string>
 	<string name="bluetooth_phonebook_access_dialog_title">Cho phép truy cập danh bạ và nhật ký cuộc gọi?</string>
 	<string name="bt_leaudio_open_dialog_summary">"Bạn sẽ không thể kết nối nhiều thiết bị với tai nghe của mình khi LC3 đang bật. Các thiết bị được kết nối khác sẽ bị ngắt kết nối nếu bạn bật tính năng này. Vẫn bật LC3?"</string>
 	<string name="keyboard_skin_follow_system_enable">Chuyển sang Chế độ tối cùng với hệ thống</string>
-	<string name="already_delete_system_app">Ứng dụng hệ thống đã gỡ cài đặt</string>
+	<string name="already_delete_system_app">Ứng dụng hệ thống đã gỡ bỏ</string>
 	<string name="search_screen_recorder_title">Ghi màn hình;Quay màn hình</string>
 	<string name="freeform_guide_slide_to_small_freeform_summary">Trượt từ cuối màn hình lên góc trên cùng bên phải của màn hình</string>
 	<string name="headset_find_handle_tip">Chạm để phát âm báo</string>
@@ -11375,7 +11375,7 @@ Bạn chưa từng kết nối với %2$s trước đó."</string>
 	<string name="pre_install_network_unavailable">Hiện không được kết nối, vui lòng truy cập trực tuyến trước</string>
 	<string name="miheadset_triple_press_left">Nhấn ba lần tai nghe bên trái</string>
 	<string name="codec_low_latency_zmi_title">Độ trễ thấp cho game</string>
-	<string name="pre_install_question_uninstall_summary">Bạn có thể vào Cài đặt-Ứng dụng khác, chọn một ứng dụng hỗ trợ gỡ cài đặt và nhấp vào Gỡ cài đặt. Gỡ cài đặt các thành phần cài đặt trước của hệ thống có thể khiến một số chức năng của hệ thống không sử dụng được hoặc hoạt động không bình thường. Bạn nên vận hành một cách thận trọng. Đối với các ứng dụng của bên thứ ba có thể được gỡ cài đặt, bạn cũng có thể nhấn và giữ biểu tượng trên màn hình, sau đó kéo nó vào thùng rác ở đầu màn hình để gỡ cài đặt ứng dụng.</string>
+	<string name="pre_install_question_uninstall_summary">Bạn có thể vào Cài đặt-Ứng dụng khác, chọn một ứng dụng hỗ trợ gỡ bỏ và nhấp vào gỡ bỏ. gỡ bỏ các thành phần cài đặt trước của hệ thống có thể khiến một số chức năng của hệ thống không sử dụng được hoặc hoạt động không bình thường. Bạn nên vận hành một cách thận trọng. Đối với các ứng dụng của bên thứ ba có thể được gỡ bỏ, bạn cũng có thể nhấn và giữ biểu tượng trên màn hình, sau đó kéo nó vào thùng rác ở đầu màn hình để gỡ bỏ ứng dụng.</string>
 	<string name="wifi_assistant_prompt_summary">"Thiết bị của bạn sẽ kết nối với các mạng Wi-Fi khả dụng khác hoặc sử dụng dữ liệu di động khi mạng Wi-Fi hiện tại của bạn không thể kết nối với internet."</string>
 	<string name="pre_install_app_sms">Tin nhắn</string>
 	<string name="add_text_app_package_name">Thêm gói ứng dụng thử nghiệm</string>
@@ -11768,7 +11768,7 @@ Sao chép tệp tin sao lưu vào thiết bị của bạn (MIUI-backup-AllBacku
 	<string name="sos_privacy_policy">Chính sách Riêng tư</string>
     <string name="nfc_dnd_mode_summary">Phản hồi thẻ NFC với lượng giới hạn thẻ NDEF</string>
     <string name="unlock_sound_effect_enable_title">Phát âm thanh khi mở khóa thiết bị</string>
-    <string name="app_uninstall_sounds_enable_title">Phát âm thanh khi gỡ cài đặt ứng dụng</string>
+    <string name="app_uninstall_sounds_enable_title">Phát âm thanh khi gỡ bỏ ứng dụng</string>
     <string name="lock_sound_effect_enable_title">Phát âm thanh khi khóa thiết bị</string>
 	<string name="shoulder_key_settings">Nút ở cạnh</string>
 	<string name="color_game_led_color_title">Màu đèn</string>

@@ -436,7 +436,7 @@ Nếu bạn bật dữ liệu di động lại, nhà mạng sẽ tính phí bổ
 		<item quantity="other">%s lần</item>
 	</plurals>
 	<plurals name="gb_dialog_game_uninstall_multi_tips_title">
-		<item quantity="other">Gỡ cài đặt %2$d trò chơi (bao gồm %1$s)</item>
+		<item quantity="other">Gỡ bỏ %2$d trò chơi (bao gồm %1$s)</item>
 	</plurals>
 	<plurals name="gb_game_video_ai_record_finish_tips">
 		<item quantity="other">Đã lưu %d bản ghi AI vào Tăng tốc Trò chơi</item>
@@ -515,7 +515,7 @@ Bạn có thể nhận dùng thử miễn phí %d ngày!"</item>
 		<item quantity="other">%d rủi ro tiết lộ thông tin vị trí được phát hiện</item>
 	</plurals>
 	<plurals name="privacy_risk_uninstall_btn">
-		<item quantity="other">Gỡ cài đặt %d ứng dụng</item>
+		<item quantity="other">Gỡ bỏ %d ứng dụng</item>
 	</plurals>
 	<plurals name="privacy_risk_result_protection_tip">
 		<item quantity="other">%d tính năng bảo vệ quyền riêng tư của bạn bị tắt</item>
@@ -653,7 +653,7 @@ Nghỉ ngơi chút đi!"</item>
 		<item quantity="other">Thiết bị sẽ tắt trong %d giây</item>
 	</plurals>
 	<plurals name="app_manager_uninstall_notify_summary">
-		<item quantity="other">Gỡ cài đặt %d ứng dụng</item>
+		<item quantity="other">Gỡ bỏ %d ứng dụng</item>
 	</plurals>
 	<plurals name="title_app_update_cn">
 		<item quantity="other">&lt;Data&gt;Cập nhật &lt;font color=#F22424&gt;%d&lt;/font&gt; ứng dụng&lt;/Data&gt;</item>

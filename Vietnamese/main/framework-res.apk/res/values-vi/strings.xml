@@ -1077,7 +1077,7 @@ Hãy thử lại sau %2$d giây."</string>
     <string name="permlab_subscribedFeedsRead">Đọc nguồn cấp dữ liệu đã đăng ký</string>
     <string name="permlab_systemAlertWindow">Ứng dụng này có thể xuất hiện ở phía trên cùng của các ứng dụng khác</string>
     <string name="permlab_transmitIr">Phát hồng ngoại</string>
-    <string name="permlab_uninstall_shortcut">Gỡ cài đặt lối tắt</string>
+    <string name="permlab_uninstall_shortcut">Gỡ bỏ lối tắt</string>
     <string name="permlab_useDataInBackground">Sử dụng dữ liệu trong nền</string>
     <string name="permlab_useFingerprint">Sử dụng phần cứng vân tay</string>
     <string name="permlab_use_sip">Thực hiện/nhận các cuộc gọi qua SIP</string>
@@ -1554,7 +1554,7 @@ Bạn có muốn đóng trang không?"</string>
     <string name="global_action_toggle_battery_saver">Trình tiết kiệm pin</string>
     <string name="harmful_app_warning_open_anyway">VẪN MỞ</string>
     <string name="harmful_app_warning_title">Đã phát hiện ứng dụng độc hại</string>
-    <string name="harmful_app_warning_uninstall">GỠ CÀI ĐẶT</string>
+    <string name="harmful_app_warning_uninstall">Gỡ bỏ</string>
     <string name="install_carrier_app_notification_button">Tải xuống ứng dụng</string>
     <string name="install_carrier_app_notification_text">Tải xuống ứng dụng của nhà cung cấp dịch vụ để kích hoạt SIM mới</string>
     <string name="install_carrier_app_notification_text_app_name">Tải ứng dụng %1$s xuống để kích hoạt SIM mới</string>
@@ -2203,7 +2203,7 @@ Bạn có muốn đóng trang không?"</string>
     <string name="permdesc_manageAccounts">Cho phép ứng dụng thực hiện hành động như thêm hoặc xóa tài khoản, và xóa mật khẩu của họ.</string>
     <string name="permdesc_manageActivityStacks">Cho phép ứng dụng thêm, xóa và sửa đổi ngăn xếp activity mà ứng dụng khác đang chạy. Ứng dụng độc hại có thể làm gián đoạn hoạt động của các ứng dụng khác.</string>
     <string name="permdesc_manageAppTokens">Cho phép ứng dụng tạo và quản lý token của riêng chúng, bỏ qua thứ tự Z. Không bao giờ cần cho ứng dụng thông thường.</string>
-    <string name="permdesc_manageCaCertificates">Cho phép ứng dụng cài đặt và gỡ cài đặt chứng chỉ CA như chúng chỉ đáng tin cậy.</string>
+    <string name="permdesc_manageCaCertificates">Cho phép ứng dụng cài đặt và gỡ bỏ chứng chỉ CA như chúng chỉ đáng tin cậy.</string>
     <string name="permdesc_manageDeviceAdmins">Cho phép chủ sở hữu thêm hoặc xóa quản trị viên thiết bị. Không bao giờ cần cho ứng dụng thông thường.</string>
     <string name="permdesc_manageDocs">Cho phép ứng dụng quản lý bộ nhớ tài liệu.</string>
     <string name="permdesc_manageMediaProjection">Cho phép ứng dụng quản lý các phiên chiếu phương tiện. Các phiên có thể cung cấp cho ứng dụng khả năng ghi lại màn hình và âm thanh. Không bao giờ cần cho các ứng dụng thông thường.</string>

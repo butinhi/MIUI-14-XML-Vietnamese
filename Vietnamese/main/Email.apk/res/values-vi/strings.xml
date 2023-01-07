@@ -509,7 +509,7 @@
     <string name="long_press_to_select_tip">Chạm &amp; giữ để chọn một hội thoại, sau đó chạm để chọn nhiều hơn.</string>
     <string name="mail">Thư</string>
     <string name="mail_body_turncated">Email này là quá lớn để tải, chỉ hiển thị một phần và vui lòng tải bản đầy đủ trên PC sau</string>
-    <string name="mail_description_content">Email là ứng dụng hỗ trợ quản lý nhiều tài khoản email, gửi và nhận email cũng như đồng bộ thông tin lịch và liên hệ. Hãy chắc chắn rằng bạn muốn dừng sử dịch vụ trước khi gỡ cài đặt ứng dụng. Liên hệ Exchange và thông tin lịch cũng sẽ bị xóa.</string>
+    <string name="mail_description_content">Email là ứng dụng hỗ trợ quản lý nhiều tài khoản email, gửi và nhận email cũng như đồng bộ thông tin lịch và liên hệ. Hãy chắc chắn rằng bạn muốn dừng sử dịch vụ trước khi gỡ bỏ ứng dụng. Liên hệ Exchange và thông tin lịch cũng sẽ bị xóa.</string>
     <string name="mail_description_title">Giới thiệu Mail</string>
     <string name="mail_header_network_not_available">Bạn không có kết nối mạng.</string>
     <string name="mailbox_list_account_selector_combined_view">Đã kết hợp Tài khoản</string>
@@ -1234,7 +1234,7 @@ Chờ đến khi đồng bộ hoàn toàn hoặc xem tin nhắn trên máy tính
 	<string name="account_options_actionbar_title">Cài đặt Tài khoản</string>
 	<string name="user_privacy_settings_summary">Chúng tôi sẽ thu thập ID Android của bạn (đã được mã hóa dưới dạng ID người dùng duy nhất của bạn bằng Mi Mail) hoặc nhật ký hoạt động. Bạn có quyền rút lại sự đồng ý của bạn bất cứ lúc nào thông qua Cài đặt quyền riêng tư của người dùng</string>
 	<string name="user_privacy_settings">Cài đặt Riêng tư</string>
-	<string name="permission_des_detail">Nếu bạn không đồng ý cấp quyền hoặc chia sẻ và tải lên thông tin cá nhân của bạn, bạn sẽ không thể sử dụng ứng dụng này. Bạn có thể chọn gỡ cài đặt, đăng xuất hoặc hạn chế quyền trong Cài đặt trong hầu hết các trường hợp.</string>
+	<string name="permission_des_detail">Nếu bạn không đồng ý cấp quyền hoặc chia sẻ và tải lên thông tin cá nhân của bạn, bạn sẽ không thể sử dụng ứng dụng này. Bạn có thể chọn gỡ bỏ, đăng xuất hoặc hạn chế quyền trong Cài đặt trong hầu hết các trường hợp.</string>
 	<string name="account_add_title">Chọn dịch vụ email</string>
 	<string name="account_setup_options_mail_check_frequency_15min">Mỗi 15 phút</string>
 	<string name="user_privacy_settings_path">Mẹo: Bạn có thể rút lại sự đồng ý của bạn trong Cài đặt Quyền riêng tư người dùng, Cài đặt - Cài đặt quyền riêng tư của người dùng.</string>
@@ -1463,7 +1463,7 @@ Chờ đến khi đồng bộ hoàn toàn hoặc xem tin nhắn trên máy tính
 	<string formatted="false" name="train_travel_refund_info">Phí hoàn trả ¥%s，Hoàn vé ¥%s</string>
 	<string name="invoice_card_save">Lưu hóa đơn</string>
 	<string name="toastbar_calendar_and_contacts_permission_switch_allow_only_using">Lịch biểu và thông tin liên hệ không thể được đồng bộ hóa trong thời gian thực, vui lòng đặt các quyền liên quan thành "Luôn cho phép"</string>
-	<string name="app_uninstall_content">Email là một ứng dụng hệ thống MIUI. Sau khi gỡ cài đặt, bạn sẽ không thể thêm tài khoản email, gửi và nhận email cũng như đồng bộ hóa lịch email.</string>
+	<string name="app_uninstall_content">Email là một ứng dụng hệ thống MIUI. Sau khi gỡ bỏ, bạn sẽ không thể thêm tài khoản email, gửi và nhận email cũng như đồng bộ hóa lịch email.</string>
 	<string name="train_card_title_change_arrival">Đã đổi vé tàu thành công</string>
 	<string name="toastbar_contacts_permission_switch_allow_only_using">Thông tin liên hệ không thể được đồng bộ hóa theo thời gian thực, vui lòng đặt quyền liên hệ thành "Luôn cho phép"</string>
 	<string name="open_pdf_error">Không mở được tệp PDF. Vui lòng tải xuống các công cụ mở PDF khác và thử lại sau.</string>
@@ -1471,7 +1471,7 @@ Chờ đến khi đồng bộ hoàn toàn hoặc xem tin nhắn trên máy tính
 	<string name="account_settings_only_notify_inbox">Chỉ đẩy thư hộp thư đến</string>
 	<string name="invoice_card_seller">Người bán</string>
 	<string name="wps_card_title">Tài liệu Kingsoft</string>
-	<string name="app_uninstall_title">Gỡ cài đặt \"Email\"?</string>
+	<string name="app_uninstall_title">Gỡ bỏ \"Email\"?</string>
 	<string name="drive_card_button_tips">Sao chép mã đã trích xuất và nhận nội dung được chia sẻ</string>
 	<string name="login_err_outlook_msg">"%s
 Vui lòng xác nhận xem mật khẩu ứng dụng đã được bật chưa, nếu đã bật bạn hãy truy cập trang web của Microsoft để đặt lại mật khẩu ứng dụng"</string>

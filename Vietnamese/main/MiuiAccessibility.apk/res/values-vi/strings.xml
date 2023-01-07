@@ -54,7 +54,7 @@
 	<string name="dialog_title_revoke_authorization">Đang hủy ủy quyền</string>
 	<string name="img_windows_content_description">Thu nhỏ ứng dụng</string>
 	<string name="detail_how_to_save_messages">Bạn có thể chạm nút bên dưới màn hình để lưu mục đã phiên âm vào Ghi chú.</string>
-	<string name="dialog_install_notes_message">"Có vẻ như bạn đã gỡ cài đặt Ghi chú. Tải và cài lại Ghi chú."</string>
+	<string name="dialog_install_notes_message">"Có vẻ như bạn đã gỡ bỏ Ghi chú. Tải và cài lại Ghi chú."</string>
 	<string name="dialog_update_notes_title">Cập nhật Ghi chú</string>
 	<string name="new_permission_agree">&lt;Data&gt;Trước khi sử dụng dịch vụ của chúng tôi, đọc và đồng ý với &lt;a href=\"%1$s\"&gt;Thỏa thuận Người dùng&lt;/a&gt; và &lt;a href=\"%2$s\"&gt;Chính sách Riêng tư&lt;/a&gt; của chúng tôi.&lt;/Data&gt;</string>
 	<string name="iv_fw_resize_content_description">Điều chỉnh kích thước của ứng dụng đã thu nhỏ</string>
@@ -68,7 +68,7 @@
 	<string name="dialog_download_notes_title">Cài đặt ghi chú</string>
 	<string name="tutorial_sub_open_asr">Đọc chính tả bằng giọng nói hoặc phiên âm các mục được phát trên thiết bị của bạn trong thời gian thực.</string>
 	<string name="preference_value_create_shortcut">Tạo</string>
-	<string name="new_permission_agree_explain">"Nếu bạn không đồng ý cấp các quyền đó hoặc chia sẻ và tải lên thông tin cá nhân của mình, bạn sẽ không thể sử dụng ứng dụng này. Bạn có thể chọn gỡ cài đặt ứng dụng này, đăng xuất hoặc hạn chế quyền trong Cài đặt trong những trường hợp như vậy."</string>
+	<string name="new_permission_agree_explain">"Nếu bạn không đồng ý cấp các quyền đó hoặc chia sẻ và tải lên thông tin cá nhân của mình, bạn sẽ không thể sử dụng ứng dụng này. Bạn có thể chọn gỡ bỏ ứng dụng này, đăng xuất hoặc hạn chế quyền trong Cài đặt trong những trường hợp như vậy."</string>
 	<string name="preference_feedback_title">Phản hồi</string>
 	<string name="new_permission_content_first_line">"Chào mừng tới Mi Ditto! Bạn có thể sử dụng ứng dụng này để phiên âm âm thanh và tạo lời nói dựa trên kiểu nhập văn bản của bạn.
 Chúng tôi sẽ bảo vệ thông tin cá nhân của bạn theo luật pháp, quy định và chính sách bảo mật có liên quan.

@@ -231,7 +231,7 @@ Chạm vào màn hình để thêm thủ công hoặc định vị lại thành 
     <string name="particulate_matter_serious_exceeded">Quá cao</string>
     <string name="city_exceeded_warning">Bạn có thể thêm đến 10 thành phố</string>
     <string name="xiaomi_weather_description_title">Giới thiệu Thời tiết</string>
-    <string name="xiaomi_weather_description_content">Thời tiết cung cấp cho bạn thông tin thời tiết chính xác. Không có ứng dụng này, thanh trạng thái và tiện ích Thời tiết Màn hình chính không thể làm việc bình thường. Chắc chắn rằng bạn không cần tính năng này trước khi bạn gỡ cài đặt ứng dụng.</string>
+    <string name="xiaomi_weather_description_content">Thời tiết cung cấp cho bạn thông tin thời tiết chính xác. Không có ứng dụng này, thanh trạng thái và tiện ích Thời tiết Màn hình chính không thể làm việc bình thường. Chắc chắn rằng bạn không cần tính năng này trước khi bạn gỡ bỏ ứng dụng.</string>
     <string name="real_time_sunrise">Bình minh %1$s</string>
     <string name="real_time_sunset">Hoàng hôn %1$s</string>
     <string name="act_find_city_hot_title">Thành phố nổi tiếng</string>

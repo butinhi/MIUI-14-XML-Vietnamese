@@ -963,7 +963,7 @@
         <item>Xác nhận quyền nhóm người dùng ở nhóm người dùng fuse hiện tại</item>
         <item>Đăng nhập lại</item>
         <item>Dùng trình tập tin để truy cập liên kết thiết bị: mtpfs /media/mtp via file explorer; Cùng một mục trên máy</item>
-        <item>"Gỡ cài đặt thiết bị: mtpfs /media/mtp qua Tập tin; 
+        <item>"gỡ bỏ thiết bị: mtpfs /media/mtp qua Tập tin; 
 Ghi chú: Chỉ cho phiên bản Ubuntu 8.04!"</item>
     </string-array>
     <string-array name="mvno_type_entries">

@@ -97,14 +97,14 @@
     <string name="app_manager_menu_item_clear_data">Xóa dữ liệu</string>
     <string name="app_manager_menu_item_force_stop">Buộc dừng</string>
     <string name="app_manager_menu_item_install">Thêm</string>
-    <string name="app_manager_menu_item_uninstall">Gỡ cài đặt</string>
+    <string name="app_manager_menu_item_uninstall">Gỡ bỏ</string>
     <string name="app_manager_no_permission_hint">Không có quyền</string>
     <string name="app_manager_notification_manager_title">Thông báo</string>
     <string name="app_manager_permission_list_title">Quyền Ứng dụng nhanh</string>
     <string name="app_manager_permission_manager_title">Quyền</string>
     <string name="app_manager_total_size">Tổng</string>
-    <string name="app_manager_uninstall_dialog_msg">Gỡ cài đặt sẽ xóa hết dữ liệu ứng dụng của bạn.</string>
-    <string name="app_manager_uninstall_dialog_title">Gỡ cài đặt ngay?</string>
+    <string name="app_manager_uninstall_dialog_msg">Gỡ bỏ sẽ xóa hết dữ liệu ứng dụng của bạn.</string>
+    <string name="app_manager_uninstall_dialog_title">Gỡ bỏ ngay?</string>
     <string name="app_name">Ứng dụng nhanh</string>
     <string name="app_settings_disable_notification">Thông báo ẩn</string>
     <string name="app_settings_enable_notification">Hiện thông báo</string>

@@ -1027,7 +1027,7 @@ Truy cập lưu trữ để truy cập và lưu các ảnh bìa và tệp đã t
 	<string name="guide_radio">"Nghe đài địa phương khi bạn ngoại tuyến"</string>
 	<string name="cancel_delay_stop">Tắt bộ hẹn giờ</string>
 	<string name="listen_without_headset">Bạn có thể nghe các chương trình sau mà không cần tai nghe:</string>
-	<string name="declaration_main_content2_unloadable">&lt;Data&gt;"Nếu bạn không đồng ý cấp các quyền đó hoặc chia sẻ và tải lên thông tin cá nhân của mình, bạn sẽ không thể sử dụng ứng dụng này. Bạn có thể chọn gỡ cài đặt ứng dụng này, đăng xuất hoặc hạn chế quyền trong Cài đặt trong những trường hợp như vậy. Đọc và đồng ý với &lt;font color=#0097ff&gt;&lt;a href=%1$s&gt;Thỏa thuận Người dùng&lt;/a&gt;&lt;/font&gt; và &lt;font color=#0097ff&gt;&lt;a href=%2$s&gt;Chính sách Riêng tư&lt;/a&gt;&lt;/font&gt; của chúng tôi trước khi sử dụng Đài FM."&lt;/Data&gt;</string>
+	<string name="declaration_main_content2_unloadable">&lt;Data&gt;"Nếu bạn không đồng ý cấp các quyền đó hoặc chia sẻ và tải lên thông tin cá nhân của mình, bạn sẽ không thể sử dụng ứng dụng này. Bạn có thể chọn gỡ bỏ ứng dụng này, đăng xuất hoặc hạn chế quyền trong Cài đặt trong những trường hợp như vậy. Đọc và đồng ý với &lt;font color=#0097ff&gt;&lt;a href=%1$s&gt;Thỏa thuận Người dùng&lt;/a&gt;&lt;/font&gt; và &lt;font color=#0097ff&gt;&lt;a href=%2$s&gt;Chính sách Riêng tư&lt;/a&gt;&lt;/font&gt; của chúng tôi trước khi sử dụng Đài FM."&lt;/Data&gt;</string>
 	<string name="hot_list">Hàng đầu</string>
 	<string name="listen_to_history">Nghe lịch sử kênh</string>
 	<string name="news">Tin tức</string>
@@ -1732,8 +1732,8 @@ Không thanh toán riêng"</string>
     <string name="global_remove_app_description_content">"Đài FM là ứng dụng hệ thống. Bạn sẽ không thể nghe các chương trình phát thanh sau khi xóa phím tắt Màn hình chính."</string>
     <string name="user_agreement_hint_with_unicom">"Tôi đã đọc và đồng ý với &lt;a href=\"%1$s\"&gt;Thỏa thuận Người dùng&lt;/a&gt;, &lt;a href=\"%2$s\"&gt;Chính sách Riêng tư&lt;/a&gt;, và &lt;a href=\"%3$s\"&gt;Điều khoản và Điều kiện của dịch vụ xác thực China Unicom&lt;/a&gt;."</string>
     <string name="login_other">Tài khoản Mi khác</string>
-    <string name="global_app_description_content">"Đài FM là một ứng dụng hệ thống. Bạn sẽ không thể nghe các chương trình phát thanh sau khi gỡ cài đặt ứng dụng."</string>
-    <string name="global_app_description_title">Gỡ cài đặt Đài FM?</string>
+    <string name="global_app_description_content">"Đài FM là một ứng dụng hệ thống. Bạn sẽ không thể nghe các chương trình phát thanh sau khi gỡ bỏ ứng dụng."</string>
+    <string name="global_app_description_title">Gỡ bỏ Đài FM?</string>
     <string name="talkback_playing_list">Danh sách phát</string>
     <string name="talkback_classify">Phân loại</string>
     <string name="talkback_timing">Thời gian</string>

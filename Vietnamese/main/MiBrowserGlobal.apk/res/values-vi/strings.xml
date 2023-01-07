@@ -1903,7 +1903,7 @@ Trang mà bạn xem sẽ không xuất hiện trong lịch sử."</string>
 	<string name="nf_feedback_dislike">"Không thích"</string>
 	<string name="permission_known">Tôi biết</string>
 	<string name="homepage_search_hint">Tìm kiếm</string>
-	<string name="scanner_uninstalled_title">Máy quét đã gỡ cài đặt</string>
+	<string name="scanner_uninstalled_title">Máy quét đã gỡ bỏ</string>
 	<string name="category_all">Tất cả</string>
 	<string name="miuix_appcompat_action_mode_select_all">Chọn tất cả</string>
 	<string name="translate">Phiên dịch</string>
@@ -2156,7 +2156,7 @@ https://www.facebook.com/miui.global.official/videos/1602181069951748"</string>
 	<string name="video_collection_click_view">Video yêu thích của bạn ở đây</string>
 	<string name="translation_other">Ngôn ngữ khác</string>
 	<string name="players_still_play">&lt;font color=\"#ff2458\"&gt;%s&lt;/font&gt; game thủ cũng thích</string>
-	<string name="app_uninstall_description_content">Trình duyệt là ứng dụng hệ thống. Bạn sẽ không thể sử dụng dịch vụ tìm kiếm và duyệt web do ứng dụng cung cấp sau khi gỡ cài đặt.</string>
+	<string name="app_uninstall_description_content">Trình duyệt là ứng dụng hệ thống. Bạn sẽ không thể sử dụng dịch vụ tìm kiếm và duyệt web do ứng dụng cung cấp sau khi gỡ bỏ.</string>
 	<string name="privacy_message_main_tips_second">Để có thể tìm kiếm ứng dụng trên thiết bị này và biết ứng dụng nào đã được cài đặt, Trình duyệt Mi cần truy cập thông tin cài đặt ứng dụng, thông tin này sẽ không được lưu cục bộ hoặc tải lên dưới bất kỳ hình thức nào.</string>
 	<string name="custom_page_guide_content">Dấu trang, cài đặt và công cụ thường dùng đặt tại đây!</string>
 	<string name="permission_open_camera">Cho phép Trình duyệt Mi truy cập camera trong Cài đặt trước</string>
@@ -2187,7 +2187,7 @@ Tắt phím nhanh để dừng đồng bộ."</string>
 	<string name="save_to_private_folder">Thêm vào tập tin ẩn</string>
 	<string name="category_move_limit_notice">Bạn có thể di chuyển từ 3 đến 7 mục lên phần trên của màn hình</string>
 	<string name="delete_file_dialog_msg">Bạn sẽ không thể khôi phục các mục đã xóa.</string>
-	<string name="app_uninstall_description_title">Gỡ cài đặt Trình duyệt?</string>
+	<string name="app_uninstall_description_title">Gỡ bỏ Trình duyệt?</string>
 	<string name="setting_swipe_up">Trượt lên trên Màn hình chính</string>
 	<string name="card_game_title_2">Phổ biến tuần này</string>
 	<string name="card_game_title_3">Lựa chọn của Mint</string>

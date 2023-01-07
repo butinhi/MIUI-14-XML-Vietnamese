@@ -10,13 +10,13 @@
         <item quantity="other">trang %1$d, %2$d ứng dụng</item>
     </plurals>
     <plurals name="uninstall_dialog_title_multi_format">
-        <item quantity="other">Gỡ cài đặt %1$d ứng dụng?</item>
+        <item quantity="other">Gỡ bỏ %1$d ứng dụng?</item>
     </plurals>
     <plurals name="uninstall_result_multi_failed">
-        <item quantity="other">Không thể gỡ cài đặt %1$d ứng dụng</item>
+        <item quantity="other">Không thể gỡ bỏ %1$d ứng dụng</item>
     </plurals>
     <plurals name="uninstall_result_multi_succeeded">
-        <item quantity="other">%1$d ứng dụng đã gỡ cài đặt</item>
+        <item quantity="other">%1$d ứng dụng đã gỡ bỏ</item>
     </plurals>
 	<plurals name="announce_for_drag">
         <item quantity="other">đang kéo %1$d mục</item>

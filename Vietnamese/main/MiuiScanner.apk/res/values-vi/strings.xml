@@ -380,7 +380,7 @@
 	<string name="continue_waiting">Vui lòng chờ</string>
 	<string name="you_have_permission_to_download">Chạm để tải xuống phiên bản Thử nghiệm</string>
 	<string name="prompt">Chú ý</string>
-	<string name="uninstall_prompt">Nếu có vấn đề xảy ra khi cài đặt, vào Cài đặt &gt; Ứng dụng &gt; Quản lý ứng dụng &gt; Máy quét, chạm \"Gỡ cài đặt\", và thử cài đặt lại ứng dụng.</string>
+	<string name="uninstall_prompt">Nếu có vấn đề xảy ra khi cài đặt, vào Cài đặt &gt; Ứng dụng &gt; Quản lý ứng dụng &gt; Máy quét, chạm \"gỡ bỏ\", và thử cài đặt lại ứng dụng.</string>
 	<string name="your_application_is_under_review">" (Ứng dụng của bạn đang được xem xét.)"</string>
 	<string name="store_title">Quét dấu hiệu cửa hàng</string>
 	<string name="store_location_dialog">Dịch vụ này được cung cấp bởi Dianping. Tất cả hình ảnh bạn chụp khi sử dụng dịch vụ này, bao gồm thông tin vị trí liên quan, sẽ được chia sẻ với Dianping để nhận thông tin về cửa hàng.</string>
@@ -1006,7 +1006,7 @@ Vui lòng tham khảo góc trên hình để đặt thiết bị và thử lại
 	<string name="Fullmask_mode_str1">Hiển thị kết quả được xử lý bởi máy quét WeChat mà không hiển thị quá trình nhận dạng</string>
 	<string name="check_phone_num">Đã tìm thấy một số điện thoại</string>
 	<string name="qrcode_cannot_be_processed_auto">"Máy quét thông minh không thể xử lý mã này. Thay vào đó, hãy quét mã bằng WeChat."</string>
-	<string name="title_desktop_uninstall">Gỡ cài đặt máy quét?</string>
+	<string name="title_desktop_uninstall">Gỡ bỏ máy quét?</string>
 	<string name="half_covered_mode">Không khẩu trang</string>
 	<string name="translate_try_agains">"Không thể nhận dạng hình ảnh"</string>
 	<string name="Fullmask_mode">Đeo khẩu trang</string>
@@ -1014,7 +1014,7 @@ Vui lòng tham khảo góc trên hình để đặt thiết bị và thử lại
 	<string name="network_name">"Tên: "</string>
 	<string name="weixinqrcode_process_fail_tip">"Không thể xử lý mã WeChat"</string>
 	<string name="network_password">"Mật khẩu: "</string>
-	<string name="content_desktop_uninstall">"Máy quét là một ứng dụng hệ thống. Bạn sẽ không thể sử dụng chức năng liên quan trong Trình duyệt Mi, Máy ảnh, Mi AI, Danh bạ và các dịch vụ hệ thống khác sau khi gỡ cài đặt ứng dụng."</string>
+	<string name="content_desktop_uninstall">"Máy quét là một ứng dụng hệ thống. Bạn sẽ không thể sử dụng chức năng liên quan trong Trình duyệt Mi, Máy ảnh, Mi AI, Danh bạ và các dịch vụ hệ thống khác sau khi gỡ bỏ ứng dụng."</string>
 	<string name="crop_frame_you_selected_cannot_crop_this_picture">Hình tứ giác cắt không được là hình tứ giác lõm và góc lớn nhất không được vượt quá 140 độ</string>
 	<string name="save_pictures_repeatedly">Lưu ảnh nhiều lần</string>
 	<string name="setting_preference_weixin_process_method">Mã WeChat</string>

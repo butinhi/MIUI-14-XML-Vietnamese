@@ -52,7 +52,7 @@
     <string name="altitude_uncalibrate_refresh">Thử lại</string>
     <string name="altitude_uncalibrate_cancel">Hủy</string>
     <string name="app_description_title">Giới thiệu về La bàn</string>
-    <string name="app_description_content">La bàn được sử dụng để điều hướng, định hướng và hiển thị phương hướng. Chắc chắn rằng bạn có thể thực hiện mà không cần tính năng này trước khi gỡ cài đặt ứng dụng.</string>
+    <string name="app_description_content">La bàn được sử dụng để điều hướng, định hướng và hiển thị phương hướng. Chắc chắn rằng bạn có thể thực hiện mà không cần tính năng này trước khi gỡ bỏ ứng dụng.</string>
     <string name="calibrate_altitude">Đang đo…</string>
     <string name="getting_location">Đang đo…</string>
     <string name="menu_calibrate">Cân chỉnh la bàn</string>

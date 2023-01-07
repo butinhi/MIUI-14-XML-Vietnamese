@@ -506,7 +506,7 @@ Cập nhật không khả dụng cho bạn!"</string>
     <string name="warning_dialog_content">Bản cập nhật này bao gồm nâng cấp phiên bản Android. Các ứng dụng bên dưới không được tối ưu và có thể chứa các vấn đề tương thích nghiêm trọng. Bạn vẫn có thể cập nhật, bỏ qua bản cập nhật này hoặc cập nhật các ứng dụng bên dưới và thử lại.</string>
     <string name="warning_dialog_error_tag1">Sẽ không khởi chạy</string>
     <string name="warning_dialog_error_tag2">Sẽ buộc đóng</string>
-    <string name="warning_dialog_error_tag3">Không thể cài đặt hoặc gỡ cài đặt</string>
+    <string name="warning_dialog_error_tag3">Không thể cài đặt hoặc gỡ bỏ</string>
     <string name="warning_dialog_error_tag4">Sẽ không phản hồi</string>
     <string name="warning_dialog_error_tag5">UI không tương thích</string>
     <string name="warning_dialog_error_tag99">Vấn đề khác</string>

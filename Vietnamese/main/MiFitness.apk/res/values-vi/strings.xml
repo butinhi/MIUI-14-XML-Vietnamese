@@ -4114,8 +4114,8 @@ Nếu không muốn chia sẻ thông tin, bạn có thể tắt tính năng này
     <string name="xms_third_app_shop">Ứng dụng</string>
     <string name="xms_third_app_size">Kích thước</string>
     <string name="xms_third_app_size_mb">%1$.2f MB</string>
-    <string name="xms_third_app_uninstall">Gỡ cài đặt</string>
-    <string name="xms_third_app_uninstall_success">Gỡ cài đặt thành công</string>
+    <string name="xms_third_app_uninstall">Gỡ bỏ</string>
+    <string name="xms_third_app_uninstall_success">Gỡ bỏ thành công</string>
     <string name="xms_third_app_update">Cập nhật</string>
     <string name="xms_third_app_update_date">Đã cập nhật</string>
     <string name="xms_third_app_update_log">Tóm tắt cập nhật</string>

@@ -263,7 +263,7 @@
 	<string name="need_network_when_bind">Kết nối mạng trước khi thêm thiết bị</string>
 	<string name="password_toggle_content_description">Chuyển đổi hiển thị mật khẩu</string>
 	<string name="time_picker_dialog_title">Đặt thời gian</string>
-	<string name="uninstall">Gỡ cài đặt</string>
+	<string name="uninstall">Gỡ bỏ</string>
 	<string name="app_select_title">Thêm ứng dụng thường dùng</string>
 	<string name="superpower_app_add">Thêm</string>
 	<string name="superpower_app_finish">Xong</string>

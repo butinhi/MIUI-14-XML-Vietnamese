@@ -141,7 +141,7 @@
 	<string name="system_warning">Nếu bạn từ chối quyền này, các tính năng cơ bản trên thiết bị của bạn có thể không còn hoạt động như dự kiến.</string>
 	<string name="v7_preference_off">TẮT</string>
 	<string name="v7_preference_on">BẬT</string>
-	<string name="wear_not_allowed_dlg_text">Wear không hỗ trợ cài đặt/gỡ cài đặt.</string>
+	<string name="wear_not_allowed_dlg_text">Wear không hỗ trợ cài đặt/gỡ bỏ.</string>
 	<string name="wear_not_allowed_dlg_title">Android Wear</string>
 	<string name="accessibility_service_dialog_bottom_text_multiple">Các ứng dụng này có thể xem màn hình, hoạt động, và nhập liệu của bạn, thực hiện hành động và điều khiển hiển thị.</string>
 	<string name="accessibility_service_dialog_bottom_text_single">%s có thể xem màn hình, hoạt động, và nhập liệu của bạn, thực hiện hành động và điều khiển hiển thị.</string>

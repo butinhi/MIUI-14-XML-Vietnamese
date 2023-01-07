@@ -31,7 +31,7 @@
 	<string name="hints_power_percent_title">Pin</string>
 	<string name="menu_item_app_details">Chi tiết</string>
 	<string name="menu_item_force_stop">Buộc đóng</string>
-	<string name="menu_item_uninstall">Gỡ cài đặt</string>
+	<string name="menu_item_uninstall">Gỡ bỏ</string>
 	<string name="packages_subtitle">Bao gồm gói cài đặt</string>
 	<string name="power_bluetooth">Bluetooth</string>
 	<string name="power_cell">Tín hiệu điện thoại</string>
@@ -46,9 +46,9 @@
 	<string name="power_wifi">Wi-Fi</string>
 	<string name="process_kernel_label">Hệ điều hành Android</string>
 	<string name="process_mediaserver_label">Máy chủ phương tiện</string>
-	<string name="uninstall_app_dialog_msg">Gỡ cài đặt sẽ xóa tất cả dữ liệu ứng dụng.</string>
-	<string name="uninstall_app_dialog_title">Gỡ cài đặt ngay?</string>
-	<string name="uninstall_app_done">Đã gỡ cài đặt thành công</string>
+	<string name="uninstall_app_dialog_msg">Gỡ bỏ sẽ xóa tất cả dữ liệu ứng dụng.</string>
+	<string name="uninstall_app_dialog_title">Gỡ bỏ ngay?</string>
+	<string name="uninstall_app_done">Đã gỡ bỏ thành công</string>
 	<string name="usage_type_audio">Âm thanh</string>
 	<string name="usage_type_cpu">Tổng CPU</string>
 	<string name="usage_type_cpu_foreground">CPU tiền cảnh</string>

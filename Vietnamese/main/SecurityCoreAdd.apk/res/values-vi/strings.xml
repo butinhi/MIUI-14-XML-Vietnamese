@@ -84,12 +84,12 @@ Một số ứng dụng kép yêu cầu hỗ trợ Google Services Framework. Tr
     <string name="xspace_creating">Đang tạo ứng dụng kép…</string>
     <string name="xspace_installing">Đang cài đặt…</string>
     <string name="xspace_install_failed">Không thể tạo</string>
-    <string name="xspace_uninstalling">Đang gỡ cài đặt…</string>
+    <string name="xspace_uninstalling">Đang gỡ bỏ…</string>
     <string name="xspace_install_completed">Biểu tượng đã được thêm vào Màn hình chính</string>
     <string name="xspace_install_completed_global">Biểu tượng đã thêm đến ngăn ứng dụng</string>
-    <string name="xspace_uninstall_completed">Gỡ cài đặt ứng dụng kép thành công</string>
-    <string name="xspace_uninstall_dialog_title">Gỡ cài đặt ứng dụng kép</string>
-    <string name="xspace_uninstall_dialog_content">Gỡ cài đặt ứng dụng kép sẽ xóa tất cả dữ liệu ứng dụng.</string>
+    <string name="xspace_uninstall_completed">Gỡ bỏ ứng dụng kép thành công</string>
+    <string name="xspace_uninstall_dialog_title">Gỡ bỏ ứng dụng kép</string>
+    <string name="xspace_uninstall_dialog_content">Gỡ bỏ ứng dụng kép sẽ xóa tất cả dữ liệu ứng dụng.</string>
     <string name="loading_apps">Đang tải ứng dụng…</string>
     <string name="loading_success">Đã tải thành công</string>
     <string name="switching">Đang chuyển…</string>

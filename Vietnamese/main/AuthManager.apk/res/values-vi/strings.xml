@@ -217,7 +217,7 @@ Bạn cần phải cài đặt phiên bản MIUI của nhà phát triển để 
     <string name="Privacy_App_Trust_Summary_Off">Hiển thị thông báo khi ứng dụng này cố gắng để truy cập vào các phần khác của hệ thống</string>
     <string name="Privacy_App_Trust_Summary_On">Hiển thị thông báo khi ứng dụng này cố gắng để truy cập vào các phần khác của hệ thống</string>
     <string name="Privacy_App_Manage">Chi tiết</string>
-    <string name="Privacy_App_Uninstall">Gỡ cài đặt</string>
+    <string name="Privacy_App_Uninstall">Gỡ bỏ</string>
     <string name="Privacy_App_Log">Nhật ký</string>
     <string name="Privacy_App_Installed">Cài đặt thành công</string>
     <string name="Privacy_App_Finish">Ok</string>

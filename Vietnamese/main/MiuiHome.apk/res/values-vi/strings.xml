@@ -38,7 +38,7 @@
     <string name="menu_exit_scene">Thoát Mi Space</string>
     <string name="permlab_install_shortcut">Cài đặt lối tắt</string>
     <string name="permdesc_install_shortcut">Cho phép ứng dụng thêm lối tắt mà không có sự can thiệp của người dùng.</string>
-    <string name="permlab_uninstall_shortcut">Gỡ cài đặt lối tắt</string>
+    <string name="permlab_uninstall_shortcut">Gỡ bỏ lối tắt</string>
     <string name="permdesc_uninstall_shortcut">Cho phép ứng dụng xóa lối tắt mà không có sự can thiệp của người dùng.</string>
     <string name="permlab_install_widget">Cài đặt tiện ích</string>
     <string name="permdesc_install_widget">Cho phép ứng dụng thêm tiện ích mà không có sự can thiệp của người dùng.</string>
@@ -69,24 +69,24 @@
     <string name="editing_set_screen_layout_cells">Chọn hiệu ứng bố trí màn hình</string>
     <string name="cant_remove_system_app">Không thể xóa hệ thống ứng dụng</string>
     <string name="cant_remove_retained_app">Không thể xóa ứng dụng này</string>
-    <string name="uninstall_dialog_message">Gỡ cài đặt sẽ xóa tất cả dữ liệu ứng dụng.</string>
-    <string name="uninstall_dialog_title_format">Gỡ cài đặt %s?</string>
-    <string name="uninstall_xspace_dialog_title_format">Gỡ cài đặt ứng dụng kép \"%s\"?</string>
-    <string name="uninstall_xspace_dialog_message">Gỡ cài đặt ứng dụng kép sẽ xóa tất cả dữ liệu ứng dụng.</string>
+    <string name="uninstall_dialog_message">Gỡ bỏ sẽ xóa tất cả dữ liệu ứng dụng.</string>
+    <string name="uninstall_dialog_title_format">Gỡ bỏ %s?</string>
+    <string name="uninstall_xspace_dialog_title_format">Gỡ bỏ ứng dụng kép \"%s\"?</string>
+    <string name="uninstall_xspace_dialog_message">Gỡ bỏ ứng dụng kép sẽ xóa tất cả dữ liệu ứng dụng.</string>
     <string name="uninstall_with_xspace_dialog_message">Ứng dụng kép tương ứng sẽ bị xóa cùng với dữ liệu ứng dụng.</string>
     <string name="confirm_uninstall_dialog_title">Các ứng dụng kép tương ứng sẽ bị xóa.</string>
-    <string name="confirm_uninstall_dialog_has_xspace_app_msg">Ứng dụng kép sẽ bị gỡ cài đặt cùng với ứng dụng này.</string>
-    <string name="confirm_uninstall_dialog_contain_xspace_app_msg">Ứng dụng kép sẽ bị gỡ cài đặt cùng với ứng dụng này.</string>
-    <string name="uninstall">Gỡ cài đặt</string>
-    <string name="uninstall_result_succeeded">Ứng dụng đã được gỡ cài đặt</string>
-    <string name="uninstall_result_failed">Không thể gỡ cài đặt %s</string>
+    <string name="confirm_uninstall_dialog_has_xspace_app_msg">Ứng dụng kép sẽ bị gỡ bỏ cùng với ứng dụng này.</string>
+    <string name="confirm_uninstall_dialog_contain_xspace_app_msg">Ứng dụng kép sẽ bị gỡ bỏ cùng với ứng dụng này.</string>
+    <string name="uninstall">Gỡ bỏ</string>
+    <string name="uninstall_result_succeeded">Ứng dụng đã được gỡ bỏ</string>
+    <string name="uninstall_result_failed">Không thể gỡ bỏ %s</string>
     <string name="starting_preset_app">Đang bắt đầu…</string>
     <string name="install">Cài đặt</string>
     <string name="cant_remove_folder">Không thể xóa thư mục</string>
     <string name="widget_favorite_contacts_label">Liên hệ yêu thích</string>
     <string name="widget_favorite_contacts_edit">Trình chỉnh sửa</string>
     <string name="widget_favorite_contacts_style">Thay đổi kích thước</string>
-    <string name="edit_folder_title">Chỉnh sửa tên thư mục</string>
+    <string name="edit_folder_title">Sửa tên thư mục</string>
     <string name="sort_by_not_defined">Tự động sắp xếp</string>
     <string name="sort_by_frequency">Sắp xếp theo tỷ lệ sử dụng</string>
     <string name="sort_by_abc">Sắp xếp theo tên</string>
@@ -289,10 +289,10 @@
     <string name="failed_to_drop_widget_nospace">Không còn chỗ trên Màn hình chính</string>
     <string name="gadget_clock_22_label">Đồng hồ 2x2</string>
     <string name="scroll_tip_format_when_announce_accessibility">trang %1$d, %2$d ứng dụng</string>
-    <string name="uninstall_dialog_title_multi_format" formatted="false">Gỡ cài đặt %s và %d ứng dụng khác?</string>
-    <string name="uninstall_result_multi_succeeded">%1$d ứng dụng đã gỡ cài đặt</string>
-    <string name="uninstall_result_other_failed" formatted="false">Không thể gỡ cài đặt %s và %d ứng dụng khác</string>
-    <string name="uninstall_result_two_failed">Không thể gỡ cài đặt %s và 1 ứng dụng khác</string>
+    <string name="uninstall_dialog_title_multi_format" formatted="false">Gỡ bỏ %s và %d ứng dụng khác?</string>
+    <string name="uninstall_result_multi_succeeded">%1$d ứng dụng đã gỡ bỏ</string>
+    <string name="uninstall_result_other_failed" formatted="false">Không thể gỡ bỏ %s và %d ứng dụng khác</string>
+    <string name="uninstall_result_two_failed">Không thể gỡ bỏ %s và 1 ứng dụng khác</string>
 	<string name="announce_for_delete_gadget_and_widget">Tiện ích</string>
 	<string name="announce_for_choose_default_screen">chọn màn hình %1$d làm trang chính</string>
     <string name="announce_for_close_default_preview">đóng thiết lập trang chính</string>
@@ -315,7 +315,7 @@
     <string name="announce_for_open_default_preview">mở thiết lập trang chính</string>
     <string name="announce_for_open_folder">mở thư mục %1$s</string>
     <string name="announce_for_open_launcher_menu">mở menu</string>
-    <string name="announce_for_show_uninstall_dialog">hộp thoại gỡ cài đặt, vui lòng chọn hủy hoặc xác nhận.</string>
+    <string name="announce_for_show_uninstall_dialog">hộp thoại gỡ bỏ, vui lòng chọn hủy hoặc xác nhận.</string>
 	<string name="content_description_for_shortcut_icon_checked">%1$s, đã kiểm tra</string>
     <string name="content_description_shortcut_icon_unchecked">%1$s, chưa kiểm tra</string>
     <string name="content_description_workspace_thumbnail_item">xem trước màn hình, %1$s</string>
@@ -346,7 +346,7 @@
     <string name="edit_mode_group_error_full">Không đủ dung lượng</string>
     <string name="edit_mode_group_error_in_folder">Đóng thư mục trước khi nhóm các biểu tượng</string>
     <string name="edit_mode_group_error_one_folder">Không thể trùng lặp thư mục với biểu tượng đã chọn</string>
-    <string name="edit_mode_uninstall">Gỡ cài đặt</string>
+    <string name="edit_mode_uninstall">Gỡ bỏ</string>
     <string name="icon_reorganize_channel">Sắp xếp biểu tượng</string>
     <string name="memory_clear_result">Đã xóa %1$sB</string>
     <string name="notification_reset_title">Sắp xếp biểu tượng thành công</string>
@@ -383,7 +383,7 @@
 	<string name="edit_mode_top_menu_finish">Xong</string>
 	<string name="launcher_sliding_up_gesture">Vuốt lên từ Màn hình chính để mở Tìm kiếm</string>
 	<string name="edit_mode_dual_app">Ứng dụng kép</string>
-    <string name="edit_mode_group_error_cant_delete_system_apps">"Không thể gỡ cài đặt ứng dụng hệ thống"</string>
+    <string name="edit_mode_group_error_cant_delete_system_apps">"Không thể gỡ bỏ ứng dụng hệ thống"</string>
     <string name="edit_mode_group_error_nothing_be_selected">Chọn một ứng dụng trước</string>
 	<string name="menu_auto_fill_of_uninstall">Điền vào ô trống của các ứng dụng đã gỡ</string>
 	<string name="announce_for_search_bar">Thanh tìm kiếm</string>
@@ -401,7 +401,7 @@
     <string name="all_apps_setting_desktop_title">Chế độ tiêu chuẩn</string>
     <string name="all_apps_setting_drawer_title">Chế độ ngăn kéo</string>
     <string name="all_apps_setting_title">Chế độ hiển thị</string>
-    <string name="all_apps_setting_desktop_desc">Hiển thị tất cả các ứng dụng đã cài đặt trên màn hình, nhấn và giữ biểu tượng ứng dụng để hiển thị các phím tắt của ứng dụng để quản lý hoặc gỡ cài đặt ứng dụng.</string>
+    <string name="all_apps_setting_desktop_desc">Hiển thị tất cả các ứng dụng đã cài đặt trên màn hình, nhấn và giữ biểu tượng ứng dụng để hiển thị các phím tắt của ứng dụng để quản lý hoặc gỡ bỏ ứng dụng.</string>
     <string name="all_apps_setting_drawer_desc">Ấn vào nút ngăn kéo để hiển thị tất cả các ứng dụng trong ngăn kéo. Các ứng dụng đã bị xóa khỏi màn hình chính vẫn được hiển thị trong ngăn kéo.</string>
 	<string name="unstable_dialog_content">"Đây là phiên bản xem trước của hình ảnh hệ thống Android và có thể thay đổi. Việc sử dụng hình ảnh hệ thống này được điều chỉnh bởi Thỏa thuận cấp phép xem trước SDK của Android. Hình ảnh hệ thống xem trước của Android không phải là một bản phát hành ổn định và có thể chứa các lỗi và lỗi có thể dẫn đến thiệt hại cho hệ thống máy tính, thiết bị hoặc dữ liệu của bạn. Hình ảnh hệ thống xem trước của Android không phải chịu thử nghiệm giống như hệ điều hành của nhà máy và có thể khiến thiết bị này, các dịch vụ hoặc ứng dụng đã cài đặt ngừng hoạt động."</string>
 	<string name="no_space_toast_when_click_widget">Không đủ không gian trên trang này. Thử kéo mục này sang trang khác.</string>
@@ -536,7 +536,7 @@
 	<string name="diagnosis_level_tips">Nhắc nhở</string>
 	<string name="check_result_title">Kết quả kiểm tra-%s</string>
 	<string name="diagnosis_detail_title">Chi tiết kết quả kiểm tra</string>
-	<string name="permlab_uninstall_widget">Gỡ cài đặt tiện ích</string>
+	<string name="permlab_uninstall_widget">Gỡ bỏ tiện ích</string>
 	<string name="permdesc_uninstall_widget">Cho phép ứng dụng xóa tiện ích mà không cần ý kiến người dùng.</string>
 	<string name="diagnosis_level_error">Lỗi</string>
 	<string name="resource_canary_leak_tip">Đã bị rò rỉ!</string>
@@ -673,7 +673,7 @@
 	<string name="restore_icon_successful">Đã thêm thành công</string>
 	<string name="launcher_icon_management">Quản lý Lối tắt Màn hình chính</string>
 	<string name="clearable_edittext_clear_description">Xóa</string>
-	<string name="all_apps_install_contentcenter_msg">Có vẻ như Trung tâm Nội dung đã được gỡ cài đặt. Cài đặt lại?</string>
+	<string name="all_apps_install_contentcenter_msg">Có vẻ như Trung tâm Nội dung đã được gỡ bỏ. Cài đặt lại?</string>
 	<string name="icon_customize_summary">Chọn kiểu và điều chỉnh kích thước</string>
 	<string name="remove_dialog_title_format">Xóa \"%s\" khỏi Màn hình chính?</string>
 	<string name="remove_dialog_message">Các ứng dụng đã chọn chứa các tính năng hệ thống cần thiết. Bạn chỉ có thể xóa các phím tắt trên Màn hình chính của chúng.</string>
@@ -685,7 +685,7 @@
 	<string name="remove_sys_app_title">Xóa Lối tắt Màn hình chính?</string>
 	<string name="russia_preinstall_folder_name">Nga</string>
 	<string name="remove_sys_app_content">"Bạn có thể thêm lại Lối tắt Màn hình chính trong Cài đặt &gt; Ứng dụng &gt; Quản lý Màn hình chính và lối tắt. Xóa ngay?"</string>
-	<string name="deleted_system_applications">Ứng dụng hệ thống đã gỡ cài đặt</string>
+	<string name="deleted_system_applications">Ứng dụng hệ thống đã gỡ bỏ</string>
 	<string name="default_folder_title_hot">Ứng dụng phổ biến</string>
 	<string name="chinese_day_20">20</string>
 	<string name="month_november_short">Tháng 11</string>
@@ -1083,4 +1083,11 @@
 	<string name="accessibility_recents_item_dismissed">Đã xóa %1$sB</string>
 	<string name="app_edit_icon">Sửa biểu tượng</string>
 	<string name="menu_only_widget_no_word">Xóa văn bản khỏi tiện ích</string>
+	<string name="edit_folder">Sửa thư mục</string>
+    <string name="folder_not_edit_icon_tip">Để sửa, trước tiên hãy di chuyển ứng dụng ra khỏi thư mục</string>
+    <string name="folder_picker_big_text">Phóng to</string>
+    <string name="folder_picker_default_text">Bình thường</string>
+    <string name="folder_picker_options_tab_text">Kích thước</string>
+    <string name="folder_picker_sliding_button_tab_text">Đề xuất các ứng dụng nổi bật</string>
+    <string name="folder_picker_tab_text">Thư mục</string>
 </resources>

@@ -429,9 +429,9 @@ Quản trị viên của bạn có thể giám sát và quản lý cài đặt, 
     <string name="app_disable_dlg_text">Nếu bạn tắt ứng dụng này, các ứng dụng khác có thể không còn hoạt động như dự kiến.</string>
     <string name="app_disable_dlg_title">Tắt ứng dụng tích hợp sẵn?</string>
     <string name="app_disable_notifications_dlg_title">Tắt thông báo?</string>
-    <string name="app_factory_reset">Gỡ cài đặt cập nhật</string>
-    <string name="app_factory_reset_dlg_text">Tất cả cập nhật cho ứng dụng hệ thống Android này sẽ bị gỡ cài đặt.</string>
-    <string name="app_factory_reset_dlg_title">Gỡ cài đặt cập nhật?</string>
+    <string name="app_factory_reset">Gỡ bỏ cập nhật</string>
+    <string name="app_factory_reset_dlg_text">Tất cả cập nhật cho ứng dụng hệ thống Android này sẽ bị gỡ bỏ.</string>
+    <string name="app_factory_reset_dlg_title">Gỡ bỏ cập nhật?</string>
     <string name="app_floating_window_dlg_disable">Tắt cài đặt cửa sổ nổi của %1$s yêu cầu ứng dụng khởi động lại.</string>
     <string name="app_floating_window_dlg_enable">Bật cài đặt cửa sổ nổi của %1$s yêu cầu ứng dụng khởi động lại.</string>
     <string name="app_forward_locked">Ứng dụng được bảo vệ bản sao.</string>
@@ -820,7 +820,7 @@ Sao lưu được lưu tại Xiaomi Cloud và có thể truy cập không dây. 
     <string name="battery_stats_wifi_running_label">Wi-Fi</string>
     <string name="battery_status_title">Tình trạng pin</string>
     <string name="battery_sugg_apps_gps">Chọn chế độ tiết kiệm pin</string>
-    <string name="battery_sugg_apps_info">Dừng hoặc gỡ cài đặt ứng dụng</string>
+    <string name="battery_sugg_apps_info">Dừng hoặc gỡ bỏ ứng dụng</string>
     <string name="battery_sugg_apps_settings">Ứng dụng có thể cung cấp các cài đặt để giảm mức sử dụng pin</string>
     <string name="battery_sugg_bluetooth_basic">Tắt Bluetooth khi không sử dụng</string>
     <string name="battery_sugg_bluetooth_headset">Thử kết nối tới thiết bị Bluetooth khác</string>
@@ -2020,8 +2020,8 @@ Cài đặt này ảnh hưởng đến tất cả người dùng trên điện t
     <string name="dialog_speaker_auto_clean_button">Đã hiểu</string>
     <string name="dialog_speaker_auto_clean_content">Làm sạch mất 30 giây. Đừng rời khỏi trang này. Âm lượng lớn nhất cho hiệu quả tốt nhất.</string>
     <string name="dialog_speaker_auto_clean_title">Chú ý</string>
-    <string name="dialog_stop_message">Điện thoại của bạn không thể quản lý pin bình thường bởi %1$s liên tục đánh thức điện thoại. Để khắc phục sự cố, bạn có thể đóng ứng dụng. Nếu điều này tiếp diễn, bạn có thể phải gỡ cài đặt ứng dụng để cải thiện thời lượng pin.</string>
-    <string name="dialog_stop_message_wakeup_alarm">Điện thoại của bạn không thể quản lý pin bình thường bởi %1$s liên tục đánh thức điện thoại. Để khắc phục sự cố, bạn có thể đóng %1$s. Nếu điều này tiếp diễn, bạn có thể phải gỡ cài đặt ứng dụng để cải thiện thời lượng pin.</string>
+    <string name="dialog_stop_message">Điện thoại của bạn không thể quản lý pin bình thường bởi %1$s liên tục đánh thức điện thoại. Để khắc phục sự cố, bạn có thể đóng ứng dụng. Nếu điều này tiếp diễn, bạn có thể phải gỡ bỏ ứng dụng để cải thiện thời lượng pin.</string>
+    <string name="dialog_stop_message_wakeup_alarm">Điện thoại của bạn không thể quản lý pin bình thường bởi %1$s liên tục đánh thức điện thoại. Để khắc phục sự cố, bạn có thể đóng %1$s. Nếu điều này tiếp diễn, bạn có thể phải gỡ bỏ ứng dụng để cải thiện thời lượng pin.</string>
     <string name="dialog_stop_ok">Đóng ứng dụng</string>
     <string name="dialog_stop_title">Đóng ứng dụng?</string>
     <string name="dialog_title_color_calibration">Thiết lập trước hiệu chỉnh màu sắc</string>
@@ -4898,8 +4898,8 @@ Giao diện UT: %5$s"</string>
     <string name="remote_media_volume_option_title">Âm lượng truyền</string>
     <string name="remove_account_failed">Quản trị viên của bạn không cho phép thực hiện thay đổi này</string>
     <string name="remove_account_label">Xóa tài khoản</string>
-    <string name="remove_and_uninstall_device_admin">Hủy kích hoạt và gỡ cài đặt</string>
-    <string name="remove_continue">Gỡ cài đặt</string>
+    <string name="remove_and_uninstall_device_admin">Hủy kích hoạt và gỡ bỏ</string>
+    <string name="remove_continue">Gỡ bỏ</string>
     <string name="remove_device_admin">Hủy kích hoạt quản trị viên thiết bị này</string>
     <string name="remove_from_frequently_fragment">Xóa %s khỏi cài đặt nhanh?</string>
     <string name="remove_managed_profile_label">Xóa hồ sơ công việc</string>
@@ -5430,7 +5430,7 @@ Cài đặt này ảnh hưởng đến tất cả người dùng trên điện t
     <string name="search_wifi_tether_configure_ap_text">Thiết lập điểm phát sóng di động;Thiết lập điểm phát sóng;cấu hình điểm phát sóng</string>
     <string name="search_wifi_tether_settings_title">Kết nối &amp; điểm phát sóng di động;Kết nối;chia sẻ internet;Điểm phát sóng WLAN;Điểm phát sóng Wifi;Điểm phát sóng Wi-Fi</string>
     <string name="search_wifi_wapi_cert_install">Cài đặt chứng chỉ WAPI;Chứng chỉ WAPI;WAPI</string>
-    <string name="search_wifi_wapi_cert_uninstall">Gỡ cài đặt chứng chỉ WAPI;Chứng chỉ WAPI;WAPI</string>
+    <string name="search_wifi_wapi_cert_uninstall">Gỡ bỏ chứng chỉ WAPI;Chứng chỉ WAPI;WAPI</string>
     <string name="search_wps_connect_title">Liên kết WPS;Kết nối WPS;WPS</string>
     <string name="search_xiaomi_account">Tài khoản Mi;ID Tài khoản Mi;Tài khoản;ID Tài khoản; Tài khoản Xiaomi; Bảo vệ tài khoản; Bảo vệ tài khoản, Bảo mật tài khoản; Tài khoản của tôi</string>
     <string name="search_xspace">Ứng dụng kép;Ứng dụng đôi;Ứng dụng nhân bản;Ứng dụng ảo;Hai tài khoản;2 tài khoản</string>
@@ -5988,7 +5988,7 @@ Tất cả dữ liệu trên ^1 này sẽ bị xóa. Trước tiên, hãy cân n
 Di chuyển tệp phương tiện sang bộ nhớ khác trên thiết bị này hoặc chuyển chúng sang máy tính bằng cáp USB. 
 
 "<b>Sao lưu ứng dụng</b>" 
-Tất cả ứng dụng được lưu trữ trên ^1 này sẽ bị gỡ cài đặt và dữ liệu ứng dụng sẽ bị xóa. Để lưu giữ các ứng dụng này, hãy di chuyển chúng sang bộ nhớ khác trên thiết bị này."</string>
+Tất cả ứng dụng được lưu trữ trên ^1 này sẽ bị gỡ bỏ và dữ liệu ứng dụng sẽ bị xóa. Để lưu giữ các ứng dụng này, hãy di chuyển chúng sang bộ nhớ khác trên thiết bị này."</string>
     <string name="storage_internal_title">Bộ nhớ của thiết bị</string>
     <string name="storage_internal_unmount_details"><b>Khi bạn tháo ^1 này, các ứng dụng được lưu trữ trên đó sẽ ngừng hoạt động, đồng thời các tệp phương tiện được lưu trữ trên đó sẽ không khả dụng cho tới khi lắp lại.</b>" 
 
@@ -6442,16 +6442,16 @@ Một giải pháp đồng bộ hóa dữ liệu của Google cho phép quyền 
     <string name="tx_wifi_speed">Tốc độ liên kết truyền</string>
     <string name="under_keyguard">Tắt màn hình</string>
     <string name="unimportant">Không quan trọng</string>
-    <string name="uninstall_all_users_text">Gỡ cài đặt đối với tất cả người dùng</string>
-    <string name="uninstall_device_admin">Gỡ cài đặt ứng dụng</string>
-    <string name="uninstall_dlg_msg">Gỡ cài đặt sẽ xóa tất cả dữ liệu ứng dụng.</string>
-    <string name="uninstall_dlg_title">Gỡ cài đặt ngay?</string>
-    <string name="uninstall_protected_dlg_msg">Gỡ cài đặt ứng dụng hệ thống có thể dẫn đến một số chức năng MIUI hoạt động không bình thường. Vẫn tiếp tục gỡ?</string>
-    <string name="uninstall_protected_dlg_title">Gỡ cài đặt ứng dụng hệ thống</string>
-    <string name="uninstall_text">Gỡ cài đặt</string>
+    <string name="uninstall_all_users_text">Gỡ bỏ đối với tất cả người dùng</string>
+    <string name="uninstall_device_admin">Gỡ bỏ ứng dụng</string>
+    <string name="uninstall_dlg_msg">Gỡ bỏ sẽ xóa tất cả dữ liệu ứng dụng.</string>
+    <string name="uninstall_dlg_title">Gỡ bỏ ngay?</string>
+    <string name="uninstall_protected_dlg_msg">Gỡ bỏ ứng dụng hệ thống có thể dẫn đến một số chức năng MIUI hoạt động không bình thường. Vẫn tiếp tục gỡ?</string>
+    <string name="uninstall_protected_dlg_title">Gỡ bỏ ứng dụng hệ thống</string>
+    <string name="uninstall_text">Gỡ bỏ</string>
     <string name="uninstall_with_xspace_app_dlg_msg">Ứng dụng kép tương ứng sẽ bị xóa cùng với dữ liệu.</string>
-    <string name="uninstall_xspace_app_dlg_msg">Gỡ cài đặt ứng dụng kép sẽ xóa tất cả dữ liệu ứng dụng.</string>
-    <string name="uninstall_xspace_app_dlg_title">Gỡ cài đặt ứng dụng kép?</string>
+    <string name="uninstall_xspace_app_dlg_msg">Gỡ bỏ ứng dụng kép sẽ xóa tất cả dữ liệu ứng dụng.</string>
+    <string name="uninstall_xspace_app_dlg_title">Gỡ bỏ ứng dụng kép?</string>
     <string name="unknown">Không xác định</string>
     <string name="unknown_app">Ứng dụng không xác định</string>
     <string name="unknown_unavailability_setting_summary">Cài đặt không khả dụng</string>
@@ -7045,7 +7045,7 @@ Chạm dấu cộng để thêm từ."</string>
     <string name="web_action_section_title">Ứng dụng tức thì</string>
     <string name="webview_disabled_for_user">(đã tắt cho người dùng %s)</string>
     <string name="webview_license_title">Giấy phép WebView hệ thống</string>
-    <string name="webview_uninstalled_for_user">(gỡ cài đặt cho người dùng %s)</string>
+    <string name="webview_uninstalled_for_user">(gỡ bỏ cho người dùng %s)</string>
     <string name="weight_heavy">Đậm</string>
     <string name="weight_light">Mảnh</string>
     <string name="weight_setting_toast">Bạn có chỉ thể thay đổi độ đậm của chữ cho phông chữ hệ thống</string>
@@ -7571,7 +7571,7 @@ Chạm "<b>Quay lại</b> để kết nối với mạng Wi-Fi khác.</string>
     <string name="wifi_wapi_cert_mgmt_user_name_is_empty">Nhập tên chứng chỉ người dùng</string>
     <string name="wifi_wapi_cert_mode_hand_text">Chọn chứng chỉ bằng tay</string>
     <string name="wifi_wapi_cert_uninstall">Gỡ bỏ cài đặt chứng chỉ WAPI</string>
-    <string name="wifi_wapi_cert_uninstall_button">Gỡ cài đặt</string>
+    <string name="wifi_wapi_cert_uninstall_button">Gỡ bỏ</string>
     <string name="wifi_wapi_certification_dont_exist">Mật khẩu bạn nhập không chính xác. Vui lòng thử lại.</string>
     <string name="wifi_wapi_fail_to_auth">Xác thực WAPI thất bại Vui lòng kiểm tra tính hợp lệ của chứng chỉ</string>
     <string name="wifi_wapi_fail_to_init">Không thể mở chứng chỉ WAPI Chứng chỉ bộ nhớ có thể không bật</string>

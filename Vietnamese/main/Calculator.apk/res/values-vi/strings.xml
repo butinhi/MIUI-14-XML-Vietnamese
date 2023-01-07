@@ -333,14 +333,14 @@
     <string name="preference_check_update_summary_current_version">Phiên bản hiện tại: %s</string>
     <string name="preference_check_update_summary_new_version">Cập nhật khả dụng: %s</string>
     <string name="description_title">Giới thiệu Máy tính</string>
-    <string name="description_content">Bên cạnh những tính năng cơ bản, Máy tính còn có tính năng chuyển đổi đa chức năng, tính thế chấp, và thuế. Chắc chắn rằng bạn không cần những tính năng này trước khi gỡ cài đặt ứng dụng.</string>
+    <string name="description_content">Bên cạnh những tính năng cơ bản, Máy tính còn có tính năng chuyển đổi đa chức năng, tính thế chấp, và thuế. Chắc chắn rằng bạn không cần những tính năng này trước khi gỡ bỏ ứng dụng.</string>
     <string name="base_rate">Lãi suất cơ bản</string>
     <string name="cancel">Hủy</string>
     <string name="currency_update_connect_to_get_data">Tỷ giá được cung cấp bởi Webull. Kết nối mạng để cập nhật thông tin mới nhất.</string>
     <string name="currency_update_support">Tỷ giá được cung cấp bởi Webull.</string>
     <string name="currency_update_updating">Đang cập nhật tỷ giá…</string>
     <string name="install">Cài đặt</string>
-    <string name="install_scanner_to_continued_use">Máy quét đã gỡ cài đặt. Cài lại?</string>
+    <string name="install_scanner_to_continued_use">Máy quét đã gỡ bỏ. Cài lại?</string>
     <string name="interest_rate_hint">Nhập lãi suất</string>
     <string name="item_title_relationship">Quan hệ họ hàng</string>
     <string name="loan_edittext_title_commercial_combined">Vay thương mại</string>
@@ -356,7 +356,7 @@
     <string name="preference_privacy_title">Chính sách Riêng tư</string>
     <string name="reciprocalDesc">Đối ứng</string>
     <string name="scannerDesc">Máy quét</string>
-    <string name="scanner_had_been_uninstalled">Máy quét đã bị gỡ cài đặt</string>
+    <string name="scanner_had_been_uninstalled">Máy quét đã bị gỡ bỏ</string>
     <string name="secondFunctionDesc">Chuyển sang chức năng thứ hai</string>
     <string name="switchDesc">Chuyển</string>
     <string name="tab_title_calculator">Máy tính</string>
@@ -918,7 +918,7 @@ LPR một năm và năm năm sẽ được trích dẫn vào ngày 20 mỗi thá
 	<string name="lpr_tips_title">LPR (Lãi suất cho vay chính)</string>
 	<string name="permission_phone">Truy cập trạng thái và ID thiết bị</string>
 	<string name="disallow">"Không đồng ý"</string>
-	<string name="permission_remove_desc">Bạn có thể chọn gỡ cài đặt ứng dụng, hoặc hạn chế quyền và thu hồi ủy quyền trong Cài đặt.</string>
+	<string name="permission_remove_desc">Bạn có thể chọn gỡ bỏ ứng dụng, hoặc hạn chế quyền và thu hồi ủy quyền trong Cài đặt.</string>
 	<string name="permission_phone_desc">Để nhận diện các thiết bị khác nhau</string>
 	<string name="permission_privacy_link">&lt;Data&gt;Trước khi sử dụng ứng dụng này, đọc và đồng ý với &lt;a href=%1$s&gt;Thỏa thuận Người dùng&lt;/a&gt; và &lt;a href=%2$s&gt;Chính sách Riêng tư&lt;/a&gt; của chúng tôi.&lt;/Data&gt;</string>
 	<string name="permission_location">Truy cập vị trí</string>
@@ -1076,9 +1076,9 @@ Lưu ý rằng ứng dụng này cần kết nối với mạng và yêu cầu c
 	<string name="privacy_revoke_error">"Không thể thu hồi quyền. Hãy thử lại."</string>
 	<string name="privacy_revoke_progress">Đang thu hồi…</string>
     <string name="label_investment_disclaimer">Chúng tôi đang sử dụng khoảng thời gian kép ba tháng để tính toán định kỳ</string>
-    <string name="xiaomi_calculator_delete_description">"Máy tính là một ứng dụng hệ thống. Bạn sẽ không thể sử dụng nhiều trình chuyển đổi và các tính năng bổ sung sau khi gỡ cài đặt ứng dụng."</string>
+    <string name="xiaomi_calculator_delete_description">"Máy tính là một ứng dụng hệ thống. Bạn sẽ không thể sử dụng nhiều trình chuyển đổi và các tính năng bổ sung sau khi gỡ bỏ ứng dụng."</string>
     <string name="xiaomi_calculator_remove_icon_description">"Máy tính là một ứng dụng hệ thống. Bạn sẽ không thể sử dụng nhiều trình chuyển đổi và các tính năng bổ sung sau khi xóa lối tắt Màn hình chính."</string>
-    <string name="xiaomi_calculator_delete_title">Gỡ cài đặt Máy tính?</string>
+    <string name="xiaomi_calculator_delete_title">Gỡ bỏ Máy tính?</string>
     <string name="xiaomi_calculator_remove_icon_title">Xóa \"Máy tính\" khỏi Màn hình chính?</string>
     <string name="label_monthly_investment">Đầu tư hàng tháng</string>
 	<string name="v7_preference_off">TẮT</string>

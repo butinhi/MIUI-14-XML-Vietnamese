@@ -194,7 +194,7 @@
     <string name="AD_TITLE_NON_COUNT">Không phát hiện phần mềm quảng cáo nào</string>
     <string name="AD_BLOCK">Chặn quảng cáo</string>
     <string name="AD_ALLOW">Cho phép quảng cáo</string>
-    <string name="AD_Unistall">Gỡ cài đặt</string>
+    <string name="AD_Unistall">Gỡ bỏ</string>
     <string name="AD_APPInfo">Thông tin ứng dụng</string>
     <string name="AD_Info">Plug-in quảng cáo</string>
     <string name="AD_Info_Hint">Phần mềm quảng cáo được dùng bởi các công ty bên thứ ba để gửi quảng cáo đến thiết bị của bạn.</string>

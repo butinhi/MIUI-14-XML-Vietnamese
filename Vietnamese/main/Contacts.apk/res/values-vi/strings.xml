@@ -1124,7 +1124,7 @@ Quá trình nâng cấp yêu cầu khoảng %s MB bộ nhớ trong.
 
 Chọn một trong các tùy chọn sau:"</string>
     <string name="upgrade_out_of_memory_retry">Thử nâng cấp lại</string>
-    <string name="upgrade_out_of_memory_uninstall">Gỡ cài đặt một số ứng dụng</string>
+    <string name="upgrade_out_of_memory_uninstall">Gỡ bỏ một số ứng dụng</string>
     <string name="use_photo_as_primary">Sử dụng ảnh này</string>
     <string name="use_photo_as_primary2">Dùng ảnh liên hệ của %1$s</string>
     <string name="useful_numbers">Số điện thoại hữu ích</string>

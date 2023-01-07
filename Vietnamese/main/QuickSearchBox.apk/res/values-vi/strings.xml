@@ -93,7 +93,7 @@ Bạn có thể thay đổi điều này trong Cài đặt > Ứng dụng > Tìm
     <string name="setting_other">Khác</string>
     <string name="setting_version">Phiên bản ứng dụng</string>
     <string name="setting_version_title">Phiên bản ứng dụng</string>
-    <string name="barcode_uninstalled">Máy quét đã được gỡ cài đặt</string>
+    <string name="barcode_uninstalled">Máy quét đã được gỡ bỏ</string>
     <string name="barcode_to_install">Cài đặt Máy quét để tiếp tục</string>
     <string name="barcode_install_cancel">Hủy</string>
     <string name="barcode_install_confirm">Cài đặt</string>

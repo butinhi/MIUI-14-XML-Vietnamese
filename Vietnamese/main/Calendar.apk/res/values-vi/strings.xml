@@ -150,7 +150,7 @@
     <string name="edit_event_tab_event">Sự kiện</string>
     <string name="edit_event_to_label">Đến</string>
     <string name="email_guests_label">Email khách</string>
-    <string name="email_install_hint">Mail đã gỡ cài đặt. Cài đặt lại Mail để khôi phục tài khoản lịch hoặc thêm một tài khoản mới.</string>
+    <string name="email_install_hint">Mail đã gỡ bỏ. Cài đặt lại Mail để khôi phục tài khoản lịch hoặc thêm một tài khoản mới.</string>
     <string name="email_picker_label">Gửi email bằng</string>
     <string name="empty_event">Không thể tạo sự kiện trống</string>
     <string name="event_account">Tài khoản</string>

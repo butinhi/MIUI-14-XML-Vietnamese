@@ -573,7 +573,7 @@ Kích thước cập nhật Delta: %2$s"</string>
 	<string name="dialog_forbidden_use_tips">"Mi Mover hiện không hỗ trợ chuyển dữ liệu đến hoặc từ máy tính bảng."</string>
 	<string name="trans_main_activity_tutor_first">"Chuyển ảnh, liên hệ, tin nhắn, lịch sử cuộc gọi,
 âm thanh, video, tài liệu, và ứng dụng của bạn tới thiết bị mới"</string>
-	<string name="dialog_request_network_message_extra">"Nếu bạn không đồng ý cấp các quyền đó hoặc chia sẻ và tải lên thông tin cá nhân của mình, bạn sẽ không thể sử dụng ứng dụng này. Bạn có thể chọn gỡ cài đặt ứng dụng này hoặc hạn chế quyền trong Cài đặt trong những trường hợp như vậy."</string>
+	<string name="dialog_request_network_message_extra">"Nếu bạn không đồng ý cấp các quyền đó hoặc chia sẻ và tải lên thông tin cá nhân của mình, bạn sẽ không thể sử dụng ứng dụng này. Bạn có thể chọn gỡ bỏ ứng dụng này hoặc hạn chế quyền trong Cài đặt trong những trường hợp như vậy."</string>
 	<string name="transfer_quit_alert_message">"Mi Mover đang hoạt động. Vẫn thoát?
 
 "</string>

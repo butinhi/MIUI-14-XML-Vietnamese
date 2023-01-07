@@ -50,7 +50,7 @@
         <item>Thêm ứng dụng vào danh sách ngoại lệ</item>
     </string-array>
     <string-array name="app_clean_menu">
-        <item>Gỡ cài đặt</item>
+        <item>Gỡ bỏ</item>
     </string-array>
     <string-array name="auto_alert_apps_time">
         <item>Mỗi 7 ngày</item>

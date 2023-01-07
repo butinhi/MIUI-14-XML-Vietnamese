@@ -87,7 +87,7 @@ Nếu bạn cần mở tính năng Miracast thủ công, bạn có thể nhấn 
 	<string name="privacy_text_1">&lt;Data&gt;"Chào mừng tới Truyền! Truyền cho phép bạn chiếu các mục từ màn hình điện thoại tới màn hình mở rộng lớn hơn.
 Chúng tôi sẽ bảo vệ thông tin cá nhân của bạn theo luật pháp, quy định và chính sách bảo mật có liên quan. Một vài tính năng được cung cấp bởi dịch vụ bên thứ ba HappyCast. Trước khi sử dụng tính năng này, đọc và đồng ý với &lt;a href=%2$s&gt;Tuyên bố Pháp lý HappyCast&lt;/a&gt; và &lt;a href=%1$s&gt;Chính sách Riêng tư HappyCast&lt;/a&gt;.
 Để có thể hoạt động bình thường, ứng dụng này cần kết nối mạng và yêu cầu các quyền dưới đây để thu thập thông tin cá nhân của bạn:"&lt;/Data&gt;</string>
-	<string name="privacy_text_2">&lt;Data&gt;"Nếu bạn không đồng ý cấp quyền hoặc chia sẻ và tải lên thông tin cá nhân của bạn, bạn sẽ không thể sử dụng ứng dụng này. Bạn có thể chọn gỡ cài đặt ứng dụng, đăng xuất, hoặc hạn chế quyền trong Cài đặt với những trường hợp như vậy.
+	<string name="privacy_text_2">&lt;Data&gt;"Nếu bạn không đồng ý cấp quyền hoặc chia sẻ và tải lên thông tin cá nhân của bạn, bạn sẽ không thể sử dụng ứng dụng này. Bạn có thể chọn gỡ bỏ ứng dụng, đăng xuất, hoặc hạn chế quyền trong Cài đặt với những trường hợp như vậy.
 Đọc và đồng ý với &lt;a href=%1$s&gt;Thỏa thuận Người dùng&lt;/a&gt; và &lt;a href=%2$s&gt;Chính sách Riêng tư&lt;/a&gt; của chúng tôi trước khi sử dụng tính năng này."&lt;/Data&gt;</string>
 	<string name="privacy_text_pemission">"　　• Quyền kết nối Wi-Fi được sử dụng để tìm kiếm và kết nối thiết bị.
 　　•Bluetooth được sử dụng để tìm kiếm và kết nối thiết bị.

@@ -833,7 +833,7 @@ Cho phép Ghi chú ghi âm."</string>
 	<string name="doodle_tool_text_dialog_hint">Vui lòng nhập văn bản</string>
 	<string name="rich_text_hightlight_description">Điểm nổi bật</string>
 	<string name="pc_note_trash_folder_remind">Ghi chú này đã bị xóa. Khôi phục để chỉnh sửa.</string>
-	<string name="notes_description_content">"Ghi chú là một ứng dụng hệ thống. Bạn sẽ không thể sử dụng ứng dụng này sau khi gỡ cài đặt."</string>
+	<string name="notes_description_content">"Ghi chú là một ứng dụng hệ thống. Bạn sẽ không thể sử dụng ứng dụng này sau khi gỡ bỏ."</string>
 	<string name="rich_text_font_decrease_description">Văn bản nhỏ hơn</string>
 	<string name="doodle_action_enter_immersion_mode">Chuyển sang chế độ nhập vai</string>
 	<string name="doodle_action_show_tool_panel">Hiển thị công cụ</string>

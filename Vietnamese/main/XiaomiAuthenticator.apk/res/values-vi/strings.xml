@@ -62,8 +62,8 @@ Trước khi xóa:
     <string name="ok">OK</string>
     <string name="type_prompt">Loại khóa</string>
     <string name="dataimport_import_succeeded_uninstall_dialog_title">Đã nhập thành công</string>
-    <string name="dataimport_import_succeeded_uninstall_dialog_prompt">Dữ liệu của bạn đã được nhập thành công từ trình xác thực Xiaomi. Hiện giờ an toàn để gỡ cài đặt các phiên bản trước của ứng dụng bằng cách nhấn vào đây.</string>
-    <string name="button_uninstall_old_app">Gỡ cài đặt</string>
+    <string name="dataimport_import_succeeded_uninstall_dialog_prompt">Dữ liệu của bạn đã được nhập thành công từ trình xác thực Xiaomi. Hiện giờ an toàn để gỡ bỏ các phiên bản trước của ứng dụng bằng cách nhấn vào đây.</string>
+    <string name="button_uninstall_old_app">Gỡ bỏ</string>
     <string name="howitworks_page_enter_password_title">Để đăng nhập, bạn sẽ phải nhập mật khẩu của bạn.</string>
     <string name="howitworks_page_enter_password_details">Tuy nhiên, nếu bạn đang dùng một máy tính hoặc thiết bị mới, Xiaomi sẽ yêu cầu bạn một mã đặc biệt để chắc chắn rằng đó thực sự bạn.</string>
     <string name="howitworks_page_enter_code_title">Nếu bạn đang ở trên một máy tính mới, hãy nhập mã từ điện thoại của bạn.</string>

@@ -183,10 +183,10 @@
     <string name="greeting_news_morning">Chuyện gì đã xảy ra trong khi bạn đang ngủ</string>
     <string name="greeting_news_night">Hôm nay là một ngày bận rộn đầy sự kiện</string>
     <string name="function_open_error_title">Không thể mở “%s”</string>
-    <string name="function_open_error_content">Việc áp dụng phím tắt đã được gỡ cài đặt và không thể bắt đầu. Bạn có thể chọn để thay thế một chức năng phím tắt hoặc tải lại ứng dụng.</string>
-    <string name="function_open_error_content_xspace">Chức năng của mở ứng dụng kép đã được gỡ cài đặt, nó không thể khởi động, bạn có thể chọn để thay thế một chức năng phím tắt hoặc áp dụng lại cài đặt mở ứng dụng kép.</string>
-    <string name="function_open_error_content_app">Ứng dụng đã được gỡ cài đặt và không thể bắt đầu. Bạn có thể chọn để thay thế một chức năng phím tắt hoặc tải lại ứng dụng.</string>
-    <string name="function_open_error_content_app_xspace">Ứng dụng kép đã được gỡ cài đặt, nó không thể khởi động, bạn có thể chọn thay thế một chức năng phím tắt hoặc áp dụng lại các cài đặt mở mở ứng dụng kép</string>
+    <string name="function_open_error_content">Việc áp dụng phím tắt đã được gỡ bỏ và không thể bắt đầu. Bạn có thể chọn để thay thế một chức năng phím tắt hoặc tải lại ứng dụng.</string>
+    <string name="function_open_error_content_xspace">Chức năng của mở ứng dụng kép đã được gỡ bỏ, nó không thể khởi động, bạn có thể chọn để thay thế một chức năng phím tắt hoặc áp dụng lại cài đặt mở ứng dụng kép.</string>
+    <string name="function_open_error_content_app">Ứng dụng đã được gỡ bỏ và không thể bắt đầu. Bạn có thể chọn để thay thế một chức năng phím tắt hoặc tải lại ứng dụng.</string>
+    <string name="function_open_error_content_app_xspace">Ứng dụng kép đã được gỡ bỏ, nó không thể khởi động, bạn có thể chọn thay thế một chức năng phím tắt hoặc áp dụng lại các cài đặt mở mở ứng dụng kép</string>
     <string name="function_not_support">"Tính năng này không được hỗ trợ trên thiết bị này"</string>
     <string name="unusual_weather">Cảnh báo thời tiết</string>
     <string name="map_title">Thông tin giao thông</string>

@@ -1786,7 +1786,7 @@ Các thử nghiệm của chúng tôi cho thấy rằng phương pháp này đo 
 	<string name="MediaControlView_subtitle_track_number_and_lang_text">Bài %1$d - %2$s</string>
 	<string name="environment_detection_hint_two">Bài tập của bạn sẽ bị tạm dừng và tự động tiếp tục lại dựa trên âm thanh bạn tạo ra.</string>
 	<string name="skipping_ready">Bạn có thể bắt đầu tập luyện của mình ngay bây giờ</string>
-	<string name="health_uninstall_dialog_title">Gỡ cài đặt Sức khỏe Xiaomi?</string>
+	<string name="health_uninstall_dialog_title">Gỡ bỏ Sức khỏe Xiaomi?</string>
 	<string name="hr_report_resting_slow_desc">Nhịp tim lúc nghỉ của bạn thấp hơn mức bình thường và có thể xuất hiện nhịp tim chậm. Nếu nhịp tim quá chậm trong thời gian dài dễ gây thiếu máu cục bộ và thiếu oxy các cơ quan, đặc biệt là tim mạch máu não. Nhịp tim khi nghỉ ngơi có liên quan mật thiết đến chế độ ăn uống, luyện tập, căng thẳng, giấc ngủ và tình trạng thể chất. Bạn nên duy trì một lối sống lành mạnh và tốt và chú ý đến các phản ứng thể chất kịp thời. Nếu bạn có các triệu chứng như chóng mặt, mệt mỏi, ngất xỉu và tức ngực hãy đi khám kịp thời.</string>
 	<string name="course_play_error">Đã gặp sự cố khi phát lại, vui lòng thử lại sau ~</string>
 	<string name="course_point">Điểm hoạt động</string>
@@ -1803,7 +1803,7 @@ Các thử nghiệm của chúng tôi cho thấy rằng phương pháp này đo 
 	<string name="course_search_no_result">Không tìm thấy khóa học tương ứng</string>
 	<string name="mcv2_music_artist_unknown_text">Nghệ sĩ không xác định</string>
 	<string name="mcv2_playback_error_text">"Không thể phát mục bạn yêu cầu"</string>
-	<string name="health_uninstall_dialog_content">"Sức khỏe Xiaomi là một ứng dụng hệ thống. Bạn có thể sử dụng ứng dụng này để đếm số bước, theo dõi giấc ngủ, thời gian và cân nặng, cũng như đồng bộ hóa số liệu thống kê của bạn với đám mây. Bạn sẽ không thể sử dụng ứng dụng này sau khi gỡ cài đặt. "</string>
+	<string name="health_uninstall_dialog_content">"Sức khỏe Xiaomi là một ứng dụng hệ thống. Bạn có thể sử dụng ứng dụng này để đếm số bước, theo dõi giấc ngủ, thời gian và cân nặng, cũng như đồng bộ hóa số liệu thống kê của bạn với đám mây. Bạn sẽ không thể sử dụng ứng dụng này sau khi gỡ bỏ. "</string>
 	<string name="MediaControlView_ad_text">Ghé thăm nhà quảng cáo</string>
 	<string name="mcv2_cc_is_on">Phụ đề đang bật. Bấm để ẩn nó.</string>
 	<string name="mcv2_next_button_desc">Phương tiện tiếp theo</string>

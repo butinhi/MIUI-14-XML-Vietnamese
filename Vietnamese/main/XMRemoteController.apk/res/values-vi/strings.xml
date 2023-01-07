@@ -69,7 +69,7 @@
     <string name="app_open_inbox">Mở bằng Mi Box</string>
     <string name="app_open_intv">Mở bằng Mi TV</string>
     <string name="app_size">Kích thước: %1$s</string>
-    <string name="app_uninstall">Gỡ cài đặt</string>
+    <string name="app_uninstall">Gỡ bỏ</string>
     <string name="app_update">Cập nhật</string>
     <string name="app_version">Phiên bản %1$s</string>
     <string name="append_ok_key_after_num">Nhất nút xác nhận sau khi nhấn nút số</string>

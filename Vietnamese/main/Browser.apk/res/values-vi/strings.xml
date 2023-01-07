@@ -775,7 +775,7 @@ Hãy nhớ rằng các tập tin tải xuống và dấu trang mà bạn thêm s
     <string name="save_to_camera_failed">Không thể lưu ảnh</string>
     <string name="save_to_camera_success">Đã lưu vào Thư viện</string>
     <string name="scanner_uninstalled_text">Cài đặt Máy quét để tiếp tục</string>
-    <string name="scanner_uninstalled_title">Máy quét đã gỡ cài đặt</string>
+    <string name="scanner_uninstalled_title">Máy quét đã gỡ bỏ</string>
     <string name="sdcard_error">Kiểm tra thẻ SD</string>
     <string name="search">Tìm kiếm</string>
     <string name="search_baidu">Baidu</string>

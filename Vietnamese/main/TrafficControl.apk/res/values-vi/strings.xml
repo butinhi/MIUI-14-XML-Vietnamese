@@ -314,12 +314,12 @@ TRUNG BÌNH"</string>
     <string name="v2_media_savings_compatibility_warning">Thiết bị Android của bạn chưa hỗ trợ tiết kiệm toàn bộ cho ứng dụng này. Tắt tiết kiệm đối với ứng dụng này nếu video ngừng chạy.</string>
     <string name="v2_migration_continue">Tiếp tục</string>
     <string name="v2_migration_done_label">Chào mừng bạn đến với Opera Max mới và được cải thiện</string>
-    <string name="v2_migration_done_text">Opera Max mới giữ lịch sử dữ liệu và cài đặt của bạn an toàn. Thoải mái gỡ cài đặt bản cũ.</string>
+    <string name="v2_migration_done_text">Opera Max mới giữ lịch sử dữ liệu và cài đặt của bạn an toàn. Thoải mái gỡ bỏ bản cũ.</string>
     <string name="v2_migration_failed">Không di chuyển được dữ liệu.</string>
     <string name="v2_migration_label">Đang di chuyển dữ liệu của bạn</string>
     <string name="v2_migration_please_wait">Vui lòng chờ…</string>
     <string name="v2_migration_retry">Thử lại</string>
-    <string name="v2_migration_uninstall">Gỡ cài đặt bản cũ</string>
+    <string name="v2_migration_uninstall">Gỡ bỏ bản cũ</string>
     <string name="v2_minutes_short">%dphút</string>
     <string name="v2_mn_active_passes_none">không có thẻ nào đang hoạt động</string>
     <string name="v2_mn_pass_active">%1$s đang hoạt động</string>
