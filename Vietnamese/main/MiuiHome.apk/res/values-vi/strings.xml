@@ -1090,4 +1090,6 @@
     <string name="folder_picker_options_tab_text">Kích thước</string>
     <string name="folder_picker_sliding_button_tab_text">Đề xuất các ứng dụng nổi bật</string>
     <string name="folder_picker_tab_text">Thư mục</string>
+	<string name="monochrome_summary">Thay đổi màu nền cho các biểu tượng tương thích</string>
+    <string name="monochrome_title">Màu nền</string>
 </resources>

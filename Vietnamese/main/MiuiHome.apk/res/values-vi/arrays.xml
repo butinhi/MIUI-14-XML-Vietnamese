@@ -77,4 +77,11 @@
 		<item>Mặc định</item>
 		<item>Google</item>
 	</string-array>
+	<string-array name="monochrome_color_entries">
+        <item>Mặc định</item>
+        <item>Xanh lam</item>
+        <item>Xanh lá</item>
+        <item>Đỏ tía</item>
+        <item>Nâu</item>
+    </string-array>
 </resources>
