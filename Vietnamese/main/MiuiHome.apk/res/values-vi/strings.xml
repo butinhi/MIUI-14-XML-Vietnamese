@@ -1092,4 +1092,5 @@
     <string name="folder_picker_tab_text">Thư mục</string>
 	<string name="monochrome_summary">Thay đổi màu nền cho các biểu tượng tương thích</string>
     <string name="monochrome_title">Màu nền</string>
+    <string name="intelligent_exposed_button_summary_text" public="false">Sử dụng các đề xuất thông minh dựa trên việc sử dụng ứng dụng của bạn để làm nổi bật các ứng dụng trong các thư mục mở rộng</string>
 </resources>
