@@ -1085,12 +1085,12 @@
 	<string name="menu_only_widget_no_word">Xóa văn bản khỏi tiện ích</string>
 	<string name="edit_folder">Sửa thư mục</string>
     <string name="folder_not_edit_icon_tip">Để sửa, trước tiên hãy di chuyển ứng dụng ra khỏi thư mục</string>
-    <string name="folder_picker_big_text">Phóng to</string>
+    <string name="folder_picker_big_text">Mở rộng</string>
     <string name="folder_picker_default_text">Bình thường</string>
     <string name="folder_picker_options_tab_text">Kích thước</string>
     <string name="folder_picker_sliding_button_tab_text">Đề xuất các ứng dụng nổi bật</string>
     <string name="folder_picker_tab_text">Thư mục</string>
 	<string name="monochrome_summary">Thay đổi màu nền cho các biểu tượng tương thích</string>
     <string name="monochrome_title">Màu nền</string>
-    <string name="intelligent_exposed_button_summary_text" public="false">Sử dụng các đề xuất thông minh dựa trên việc sử dụng ứng dụng của bạn để làm nổi bật các ứng dụng trong các thư mục mở rộng</string>
+	<string name="intelligent_exposed_button_summary_text">Sử dụng các đề xuất thông minh dựa trên việc sử dụng ứng dụng của bạn để làm nổi bật các ứng dụng trong các thư mục mở rộng</string>
 </resources>
