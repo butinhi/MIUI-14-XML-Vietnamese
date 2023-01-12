@@ -789,6 +789,6 @@ Bạn cần phải cài đặt phiên bản MIUI của nhà phát triển để 
 	<string name="HIPS_Perm_NEARBY_DEVICES_Desc">Khám phá và kết nối với các thiết bị lân cận</string>
 	<string name="HIPS_Perm_NEARBY_DEVICES_Desc_T_china">Khám phá và kết nối với các thiết bị lân cận qua Bluetooth và Wi-Fi</string>
     <string name="precise_location_title">Vị trí chính xác</string>
-	<string name="grant_dialog_button_only_allow_foreground_locate">Hạn chế cho bây giờ</string>
+	<string name="grant_dialog_button_only_allow_foreground_locate">Hạn chế bây giờ</string>
 	<string name="grant_dialog_button_only_allow_foreground_locate_and_dont_ask_again">Luôn hạn chế</string>
 </resources>
