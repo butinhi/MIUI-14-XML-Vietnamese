@@ -747,4 +747,6 @@ Nếu cả hai thiết bị không thể kết nối tới cùng một mạng, b
     <string name="circulate_card_mirror_subtitle_normal">Kéo đến màn hình phản chiếu</string>
     <string name="circulate_card_mirror_subtitle_pad_normal">"Kéo sang thiết bị khác để phản chiếu màn hình của máy tính bảng này"</string>
     <string name="circulate_card_mirror_tv_button_1">Cửa sổ nổi</string>
+	<string name="global_privacy_screencast">Trong khi ghi hoặc truyền, dịch vụ cung cấp tính năng này có thể ghi lại mọi thông tin nhạy cảm hiển thị trên màn hình hoặc phát từ thiết bị của bạn, bao gồm thông tin nhạy cảm như âm thanh, mật khẩu, thông tin thanh toán, ảnh và tin nhắn.</string>
+	<string name="privacy_permission_screencast_desc">Trong khi ghi hoặc truyền, dịch vụ cung cấp tính năng này có thể ghi lại mọi thông tin nhạy cảm hiển thị trên màn hình hoặc phát từ thiết bị của bạn, bao gồm thông tin nhạy cảm như âm thanh, mật khẩu, thông tin thanh toán, ảnh và tin nhắn</string>
 </resources>
