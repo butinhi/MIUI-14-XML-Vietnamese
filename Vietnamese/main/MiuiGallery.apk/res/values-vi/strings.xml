@@ -3287,4 +3287,5 @@ Phiên dịch có thể mất một lúc khi bạn sử dụng tính năng này 
     <string name="trash_high_occupied_tip_toast">Các mục đã xóa gần đây chiếm %1$s. Xóa một số để giải phóng dung lượng.</string>
     <string name="trash_purge_all_media">"Xóa vĩnh viễn tất cả các mục khỏi đám mây và tất cả các thiết bị được đồng bộ hóa? Bạn không thể đảo ngược hành động này."</string>
     <string name="delete_media_for_cloud">Các mục đã chọn sẽ bị xóa khỏi đám mây và tất cả các thiết bị được đồng bộ hóa với các mục đã xóa gần đây.</string>
+	<string name="tips_for_photo_page_selection">Bạn có thể nhấn vào các mục để xem</string>
 </resources>

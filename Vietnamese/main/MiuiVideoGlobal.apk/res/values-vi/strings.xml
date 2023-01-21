@@ -2609,4 +2609,13 @@ Gửi mã này cho người giám sát."</string>
     <string name="widget_more_channel_click">Nhấn để xem các kênh TV</string>
     <string name="widget_trending_click">"Nhấn để xem các video phổ biến nhất hiện nay"</string>
     <string name="widget_trending_today">Phổ biến hiện nay</string>
+	<string name="click_to_open_pip">Nhấn để chuyển sang chế độ hình trong hình</string>
+    <string name="click_to_play_video_push_context">Nhấn để phát video</string>
+	<string name="dialog_app_comment_default_content">Bạn cảm thấy thế nào về Mi Video?</string>
+	<string name="dialog_set_default_text">Đặt Mi Video làm trình phát video mặc định?</string>
+    <string name="dialog_title_delete_folder">Nếu bạn xóa thư mục này, tất cả các tệp trong đó cũng sẽ bị xóa vĩnh viễn. Xóa thư mục ngay bây giờ?</string>
+    <string name="dialog_title_hidden_folder">"Nếu bạn ẩn thư mục này, các tệp trong đó sẽ không xuất hiện giữa các video của bạn. Ẩn thư mục ngay bây giờ?"</string>
+	<string name="local_diversion_download_more_video">Thêm videos</string>
+    <string name="local_diversion_manage_local_video">Quản lý tập tin</string>
+    <string name="local_diversion_open_mivideo">*Chuyển sang Mi Video, trình phát video đa chức năng mạnh mẽ</string>
 </resources>

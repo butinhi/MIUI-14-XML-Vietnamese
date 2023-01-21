@@ -154,4 +154,8 @@
 	<plurals name="mtrl_badge_content_description">
 		<item quantity="other">%d thông báo mới</item>
 	</plurals>
+	<plurals name="plus_local_edit_delete_confirm_text">
+        <item quantity="other">Xóa vĩnh viễn %s tệp ngay bây giờ?</item>
+        <item quantity="one">Xóa vĩnh viễn  %s tệp ngay bây giờ?</item>
+    </plurals>
 </resources>
