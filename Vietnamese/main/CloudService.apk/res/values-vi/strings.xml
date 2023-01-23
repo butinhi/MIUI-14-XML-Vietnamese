@@ -1487,4 +1487,5 @@ Thông tin vị trí có thể không được báo cáo khi kết nối mạng 
 	<string name="alert_sync_data_merge_dialog_title">Các mục sẽ được hợp nhất</string>
 	<string name="contact_alert_sync_data_merge_dialog_msg">Nếu bạn bật đồng bộ hóa, các liên hệ được tải lên từ thiết bị này sẽ được hợp nhất với các liên hệ được lưu trữ trên đám mây. Vẫn bật đồng bộ hóa?</string>
 	<string name="gallery_service_termination_announcement">Lưu ý: Các mục thư viện không còn có thể được đồng bộ hóa với Xiaomi Cloud</string>
+	<string name="micloud_upgrade_storage">Nâng cấp gói lưu trữ</string>
 </resources>
