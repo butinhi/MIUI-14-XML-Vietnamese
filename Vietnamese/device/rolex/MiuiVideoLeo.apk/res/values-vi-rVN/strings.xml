@@ -1,9 +1,0 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<resources>
-    <string name="comment_count_less_tip">Bình luận phải ít nhất %1$s ký tự</string>
-	<string name="comment_count_much_tip">"Bình luận không vượt quá %1$s ký tự"</string>
-	<string name="notification_title">\"%1$s\" tải xuống hoàn tất</string>
-	<string name="offline_created_order">\"%1$s\" đã thêm sẵn sàng chờ tải xuống</string>
-	<string name="update_to_count_ji">Đã cập nhật đến Ep. %1$s</string>
-	<string name="vp_notify_apk_installed">Cài đặt ứng dụng thành công</string>
-</resources>

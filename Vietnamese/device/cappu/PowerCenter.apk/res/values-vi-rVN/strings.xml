@@ -1,5 +1,0 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<resources>
-    <string name="power_consume_total_hardware">Phần cứng: %s</string>
-	<string name="power_consume_total_software">Ứng dụng: %s</string>
-</resources>

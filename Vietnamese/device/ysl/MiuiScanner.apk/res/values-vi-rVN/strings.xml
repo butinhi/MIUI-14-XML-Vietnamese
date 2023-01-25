@@ -1,4 +1,0 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<resources>
-    <string name="impunity_declaration_content">"Máy quét cần sử dụng máy ảnh của bạn và xử lý ảnh bạn chụp khi bạn sử dụng ứng dụng. Đừng sử dụng Máy quét để chụp ảnh có chứa thông tin cá nhân của bạn. Bằng cách chạm \"Đồng ý\", bạn đồng ý với &lt;font color=\"#ff32b4ff\"&gt;&lt;a href=\"http://www.miui.com/res/doc/privacy.html?region=%1$s&amp;lang=%2$s\" style=\"color:#ff32b4ff;\"&gt;Chính sách Riêng tư&lt;/a&gt;&lt;/font&gt; của chúng tôi và cho phép Máy quét kết nối mạng."</string>
-</resources>

@@ -1,6 +1,0 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<resources>
-	<string name="mixed_recording_intro_header">Nhập ít nhất 4 ký tự</string>
-	<string name="system_permission_declare_privacy_no_permission">Lưu ý rằng %1s cần thu thập dữ liệu của bạn để hoạt động bình thường. Chúng tôi tôn trọng và bảo vệ quyền riêng tư của bạn.</string>
-	<string name="system_permission_declare_privacy_declare">Chúng tôi tôn trọng và bảo vệ quyền riêng tư của bạn. Lưu ý rằng %1s cần thu thập dữ liệu của bạn và yêu cầu các quyền dưới đây để hoạt động bình thường:</string>
-</resources>

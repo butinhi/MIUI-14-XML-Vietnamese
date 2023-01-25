@@ -1,9 +1,0 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<resources>
-	<string name="power_charging_duration">^1 - ^2 cho đến khi sạc đầy</string>
-	<string name="power_discharging_duration">^1 - khoảng ^2 còn lại</string>
-	<string name="power_discharging_duration_short">^1 - ^2 còn lại</string>
-	<string name="power_remaining_charging_duration_only">^1 còn lại cho đến khi sạc đầy</string>
-	<string name="power_remaining_duration_only">Khoảng ^1 còn lại</string>
-	<string name="power_remaining_duration_only_short">^1 còn lại</string>
-</resources>

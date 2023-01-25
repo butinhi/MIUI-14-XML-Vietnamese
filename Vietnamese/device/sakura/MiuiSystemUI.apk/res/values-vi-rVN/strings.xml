@@ -1,8 +1,0 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<resources>
-	<string name="bluetooth_connected">Đã kết nối %1$s</string>
-	<string name="bluetooth_connected_no_a2dp">Đã kết nối (không có phương tiện) %1$s</string>
-	<string name="bluetooth_connected_no_headset">Đã kết nối (không có điện thoại) %1$s</string>
-	<string name="bluetooth_connected_no_headset_no_a2dp">Đã kết nối (không có điện thoại hay phương tiện) %1$s</string>
-	<string name="bluetooth_connected_no_map">Đã kết nối (không truy cập tin nhắn) %1$s</string>
-</resources>

@@ -1,6 +1,0 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<resources>
-    <string formatted="false" name="account_settings_login_dialog_reason_fmt">"Không thể đăng nhập vào %s. Máy chủ nói: %s"</string>
-	<string formatted="false" name="photo_view_count">%d của %d</string>
-	<string formatted="false" name="reply_attribution">Lúc %s, %s viết:</string>
-</resources>
