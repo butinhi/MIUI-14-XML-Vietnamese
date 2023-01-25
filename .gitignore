@@ -1,12 +1,33 @@
+# OS generated files #
+######################
+.DS_Store?
+ehthumbs.db
+Icon?
+Thumbs.db
+# Compiled source #
+###################
+*.com
+*.class
+*.dll
+*.exe
+*.o
+*.tmp
+*.bak
+*.xml~
 
-*.tbt
-.idea/.gitignore
-.idea/misc.xml
-.idea/MIUI-12-XML-Vietnamese.iml
-.idea/modules.xml
-.idea/vcs.xml
-.idea/inspectionProfiles/Project_Default.xml
-Vietnamese/main/ZTestTrans.apk/res/values-vi/arrays.xml
-Vietnamese/main/ZTestTrans.apk/res/values-vi/plurals.xml
-Vietnamese/main/ZTestTrans.apk/res/values-vi/strings.xml
-.idea/
+# Packages #
+############
+# it's better to unpack these files and commit the raw source
+# git has its own built in compression methods
+*.7z
+*.dmg
+*.gz
+*.iso
+*.rar
+*.tar
+
+# Logs and databases #
+######################
+*.log
+*.sql
+*.sqlite
