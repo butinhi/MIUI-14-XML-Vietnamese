@@ -1669,4 +1669,6 @@ Tắt Chế độ máy bay trước."</string>
 	<string name="mms_main_purpose_new">Ứng dụng này cần kết nối với internet để cung cấp cho bạn các dịch vụ cơ bản. Chúng tôi khuyên bạn nên bật các dịch vụ Tin nhắn Mi và Tin nhắn Thông minh.</string>
     <string name="mms_mi_message_main_purpose">Chào mừng bạn đến với Tin nhắn Mi! Cần có một tin nhắn SMS gửi đi để kích hoạt Tin nhắn Mi. Nhà cung cấp dịch vụ của bạn sẽ tính phí cho tin nhắn này.</string>
     <string name="mms_mi_message_request_notice">Chúng tôi muốn bạn tận dụng tối đa Tin nhắn Mi.</string>
+	<string name="mms_smart_msg_main_purpose">Tin nhắn Thông minh có thể nhận dạng ID người gửi, cung cấp danh mục dịch vụ thông minh và xác định các tin nhắn đáng ngờ.</string>
+	<string name="system_permission_user_privacy">Trước khi bạn tiếp tục, hãy đọc và đồng ý với các điều khoản và điều kiện sau.</string>
 </resources>

@@ -2984,6 +2984,9 @@ Vui lòng gửi mã này cho nhân viên kỹ thuật."</string>
     <string name="pa_open_personal_assistant_dialog_title">Tắt App vault?</string>
 	<string name="pa_picker_detail_add_to_minus">Thêm vào App vault</string>
 	<string name="pa_picker_detail_bottom_bt_text_to_minus">Thêm vào App vault</string>
+	<string name="pa_picker_tab_title_fun">Khám phá</string>
 	<string name="pa_picker_detail_app_not_in_market">"Ứng dụng này hiện không cung cấp bất kỳ tiện ích nào"</string>
     <string name="pa_picker_detail_app_not_off_shelf">"Tiện ích của ứng dụng này không còn nữa"</string>
+	<string name="pa_setting_personalized_recommenddation_swicth_summary">Nhận đề xuất tiện ích dựa trên sở thích của bạn</string>
+    <string name="pa_setting_personalized_recommenddation_swicth_title">Đề xuất được cá nhân hóa</string>
 </resources>

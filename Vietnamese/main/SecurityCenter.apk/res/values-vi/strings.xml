@@ -6019,4 +6019,5 @@ Ghi lại các trình tự và sử dụng chúng bất cứ lúc nào!"</string
     <string name="terminal_privacy_instruction">Tính năng bảo vệ quyền riêng tư trên thiết bị bao gồm các tính năng đảm bảo thông tin cá nhân của bạn được lưu giữ trên thiết bị này thay vì được tải lên đám mây</string>
     <string name="terminal_privacy_summary">Xử lý thông tin cá nhân trên thiết bị này</string>
 	<string name="pp_sms_and_contacts">Danh bạ và nhắn tin</string>
+	<string name="no_privacy_permission">Đồng ý với Chính sách bảo mật không bắt buộc</string>
 </resources>

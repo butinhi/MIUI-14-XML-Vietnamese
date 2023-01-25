@@ -701,4 +701,6 @@ Bạn cần đọc và đồng ý với Chính sách Riêng tư Mint Keyboard tr
 	<string name="terms_of_use_label_translation">Dịch vụ dịch thuật</string>
 	<string name="terms_of_use_label_landscape">chức năng tối ưu hóa chế độ xem ngang</string>
 	<string name="terms_of_use_label_statistics">Số liệu thống kê</string>
+	<string name="other_settings_quality_service">Quyền MIUI Daemon</string>
+    <string name="other_settings_quality_service_summary">MIUI Daemon được sử dụng để cải thiện hiệu suất và độ ổn định của hệ thống. Để có thể hoạt động bình thường, dịch vụ này cần có quyền truy cập và lưu các mục vào bộ nhớ thiết bị.</string>
 </resources>

@@ -2532,4 +2532,6 @@ Sau khi bật chức năng "ghi nhiều camera", máy ảnh của điện thoạ
 	<string name="pref_camera_volumekey_function_entry_timer_new">Hẹn giờ (%ds)</string>
 	<string name="custom_sound_art">Cổ điển</string>
 	<string name="custom_sound_old">Phim</string>
+	<string name="parameter_videos_title">Hiệu ứng phim</string>
+	<string name="parameter_ambilight_title">Phơi sáng dài</string>
 </resources>

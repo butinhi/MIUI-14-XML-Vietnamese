@@ -1024,4 +1024,5 @@
     <string name="force_rest_summary">Bắt buộc nghỉ khi phiên đạt đến giới hạn đã đặt</string>
 	<string name="device_limit_enable">Bật</string>
 	<string name="device_limit_un_enable">Tắt</string>
+	<string name="usage_cta_desc">"Chào mừng bạn đến với Cài đặt! Để cung cấp số liệu thống kê về Thời gian sử dụng màn hình và Chế độ lấy nét cho bạn, ứng dụng này cần thu thập dữ liệu sau: số lần bạn mở khóa thiết bị, danh sách các ứng dụng của bạn cùng với thời lượng sử dụng tương ứng, số lần màn hình của bạn sáng lên, và Cài đặt chế độ lấy nét. Dữ liệu được thu thập sẽ chỉ được lưu trữ cục bộ trên thiết bị."</string>
 </resources>

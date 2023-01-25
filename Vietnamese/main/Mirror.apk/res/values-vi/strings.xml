@@ -530,4 +530,6 @@
 	<string name="resource_log">Nhật ký tài nguyên</string>
 	<string name="traffic_log">Nhật ký lưu lượng dữ liệu</string>
 	<string name="verbose_mode">Chế độ chi tiết</string>
+	<string name="circulate_cta_premission_storage_pad_title">Truy cập và lưu các mục vào bộ lưu trữ</string>
+	<string name="circulate_cta_premission_storage_title">Truy cập và lưu các mục vào bộ lưu trữ</string>
 </resources>

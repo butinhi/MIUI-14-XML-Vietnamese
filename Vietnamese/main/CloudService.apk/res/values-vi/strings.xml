@@ -1479,7 +1479,7 @@ Thông tin vị trí có thể không được báo cáo khi kết nối mạng 
 	<string name="permission_status_deny">Thẻ SIM của bạn không cho phép kết nối với mạng này.</string>
 	<string name="privacy_runtime_perm_sms_title">Truy cập tin nhắn</string>
 	<string name="accept_all_positive">Chọn</string>
-	<string name="accept_use_permissions">Từ chối</string>
+	<string name="accept_use_permissions">Chấp nhận</string>
 	<string name="xiaomi_market_sdk_update_dialog_cancel">Không phải bây giờ</string>
 	<string name="privacy_runtime_perm_phone_state_title">Truy cập thông tin thiết bị</string>
 	<string name="btn_revoke_permission">Thu hồi</string>
@@ -1488,4 +1488,5 @@ Thông tin vị trí có thể không được báo cáo khi kết nối mạng 
 	<string name="contact_alert_sync_data_merge_dialog_msg">Nếu bạn bật đồng bộ hóa, các liên hệ được tải lên từ thiết bị này sẽ được hợp nhất với các liên hệ được lưu trữ trên đám mây. Vẫn bật đồng bộ hóa?</string>
 	<string name="gallery_service_termination_announcement">Lưu ý: Các mục thư viện không còn có thể được đồng bộ hóa với Xiaomi Cloud</string>
 	<string name="micloud_upgrade_storage">Nâng cấp gói lưu trữ</string>
+	<string name="find_device_permissions_footer">"Nhấn vào \"Chấp nhận\" để cấp các quyền bạn đã chọn."</string>
 </resources>

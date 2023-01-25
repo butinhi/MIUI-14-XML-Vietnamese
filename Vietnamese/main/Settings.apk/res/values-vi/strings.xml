@@ -12500,4 +12500,5 @@ Tính năng này chỉ hoạt động khi điều hướng hệ thống được
 	<string name="ethernet_tether_checkbox_text">Chia sẻ kết nối mạng</string>
 	<string name="nfc_default_payment_footer">Để thực hiện thanh toán bằng ứng dụng thanh toán, hãy giữ mặt sau thiết bị của bạn vào trạm thanh toán</string>
     <string name="nfc_default_payment_settings_title">Ứng dụng thanh toán mặc định</string>
+	<string name="dark_mode_alert_dialog_message">Ứng dụng này có thể không được hiển thị chính xác ở Chế độ tối. Vẫn bật Chế độ tối?</string>
 </resources>

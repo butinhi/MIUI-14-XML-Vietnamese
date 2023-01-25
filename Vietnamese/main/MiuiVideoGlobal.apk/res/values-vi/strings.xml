@@ -2618,4 +2618,5 @@ Gửi mã này cho người giám sát."</string>
 	<string name="local_diversion_download_more_video">Thêm videos</string>
     <string name="local_diversion_manage_local_video">Quản lý tập tin</string>
     <string name="local_diversion_open_mivideo">*Chuyển sang Mi Video, trình phát video đa chức năng mạnh mẽ</string>
+	<string name="tip_local_long_press_for_manager">Nhấn và giữ để quản lý video</string>
 </resources>
