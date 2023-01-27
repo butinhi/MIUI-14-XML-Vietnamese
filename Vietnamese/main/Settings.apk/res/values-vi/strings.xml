@@ -2643,7 +2643,7 @@ Cài đặt này ảnh hưởng đến tất cả người dùng trên điện t
     <string name="vpn_connect_to">Kết nối với %s</string>
     <string name="vpn_disconnect_confirm">Ngắt kết nối VPN này.</string>
     <string name="vpn_disconnect">Ngắt kết nối</string>
-    <string name="vpn_version">Phiên bản %s</string>
+    <string name="vpn_version">Phiên bản</string>
     <string name="vpn_forget_long">Quên VPN</string>
     <string name="vpn_replace_always_on_vpn_title">Thay thế VPN hiện có?</string>
     <string name="vpn_replace_always_on_vpn_message">Bạn đã kết nối với một VPN. Nếu bạn kết nối với một VPN khác, VPN hiện có của bạn sẽ bị thay thế.</string>
@@ -12514,4 +12514,5 @@ Tính năng này chỉ hoạt động khi điều hướng hệ thống được
     <string name="notif_listener_excluded_app_title">Xem tất cả ứng dụng</string>
 	<string name="notif_listener_excluded_app_screen_title">Ứng dụng hiển thị trên thiết bị</string>
 	<string name="notif_listener_not_migrated">Ứng dụng này không hỗ trợ cài đặt nâng cao</string>
+	<string name="search_result_feedback_text">"Không tìm thấy kết quả"</string>
 </resources>

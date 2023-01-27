@@ -2727,4 +2727,7 @@ Bạn có thể thay đổi lối tắt này sang tính năng khác trong Cài �
     <string name="permdesc_readMediaImages">Cho phép ứng dụng đọc tệp hình ảnh từ bộ nhớ dùng chung của bạn.</string>
     <string name="permdesc_readMediaVideo">Cho phép ứng dụng đọc tệp video từ bộ nhớ dùng chung của bạn.</string>
 	<string name="permlab_queryAllPackages">Truy vấn các gói</string>
+	<string name="permgrouplab_readMediaAural">Âm nhạc và âm thanh</string>
+    <string name="permgrouplab_readMediaVisual">Ảnh và video</string>
+	<string name="permgrouplab_notifications">Thông báo</string>
 </resources>

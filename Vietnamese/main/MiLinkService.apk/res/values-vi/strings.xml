@@ -753,4 +753,5 @@ Nếu cả hai thiết bị không thể kết nối tới cùng một mạng, b
 	<string name="privacy_permission_read_write_mobile_phone_storage">Truy cập và lưu các mục vào bộ lưu trữ</string>
 	<string name="appcirculate_fragment_circulate_device_card_switch_title_1">Bật Wi-Fi và Bluetooth</string>
     <string name="appcirculate_fragment_circulate_device_card_switch_title_1_global">Bật Wi-Fi và Bluetooth</string>
+    <string name="help_page_text_09_global">"Chạm nút \"Truyền\" trên Bảng thông báo của điện thoại. Bật cả Wi-Fi và Bluetooth để kết nối ổn định hơn."</string>
 </resources>

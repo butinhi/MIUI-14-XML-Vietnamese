@@ -1498,9 +1498,9 @@ Ghi chú: Chỉ cho phiên bản Ubuntu 8.04!"</item>
 		<item>Tìm kiếm</item>
 		<item>Cài đặt</item>
 	</string-array>
-	<string-array name="time_format_entries">
-        <item>12-tiếng 1:00 CH</item>
-        <item>24-tiếng 13:00</item>
+    <string-array name="time_format_entries">
+        <item>12-giờ 1:00 CH</item>
+        <item>24-giờ 13:00</item>
         <item>Tự động (dựa trên ngôn ngữ hệ thống)</item>
     </string-array>
 	<string-array name="wifi_hidden_entries">

@@ -6020,4 +6020,12 @@ Ghi lại các trình tự và sử dụng chúng bất cứ lúc nào!"</string
     <string name="terminal_privacy_summary">Xử lý thông tin cá nhân trên thiết bị này</string>
 	<string name="pp_sms_and_contacts">Danh bạ và nhắn tin</string>
 	<string name="no_privacy_permission">Đồng ý với Chính sách bảo mật không bắt buộc</string>
+	<string name="app_behavior_record_show_system">Hiển thị ứng dụng hệ thống</string>
+	<string name="app_manager_mobile_slot">Dữ liệu di động (SIM %d)</string>
+	<string name="permission_instruction_scoped">Cơ chế bảo vệ bộ nhớ mới cho phép bạn kiểm soát tốt hơn cách các ứng dụng tương thích sử dụng quyền bộ nhớ</string>
+	<string name="category_scoped">Ứng dụng tương thích</string>
+	<string name="permission_instruction_read_media_pic">Quyền này cho phép các ứng dụng truy cập ảnh và video được lưu trữ trên thiết bị. Các mục này có thể chứa thông tin cá nhân.</string>
+	<string name="permission_instruction_media_audio">Quyền này cho phép các ứng dụng truy cập các bài hát và tệp âm thanh khác được lưu trữ trên thiết bị. Các mục này có thể chứa thông tin cá nhân.</string>
+    <string name="permission_instruction_media_files">Quyền này cho phép các ứng dụng truy cập các tệp và tài liệu được lưu trữ trên thiết bị. Các mục này có thể chứa thông tin cá nhân.</string>
+
 </resources>

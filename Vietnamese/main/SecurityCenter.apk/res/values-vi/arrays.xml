@@ -215,4 +215,16 @@
 		<item>Kích thước</item>
 		<item>Tên</item>
 	</string-array>
+	<string-array name="sort_title_new">
+        <item>Xếp theo tên ứng dụng</item>
+        <item>Xếp theo tần suất sử dụng</item>
+        <item>Xếp theo lưu trữ đã sử dụng</item>
+        <item>Xếp theo thời gian cài đặt</item>
+    </string-array>
+	<string-array name="sort_type_new">
+        <item>Tên ứng dụng</item>
+        <item>Tần suất sử dụng</item>
+        <item>Lưu trữ đã sử dụng</item>
+        <item>Thời gian cài đặt</item>
+    </string-array>
 </resources>

@@ -509,4 +509,5 @@ dd/M"</string>
 	<string name="miuix_access_state_desc">Đã chọn</string>
 	<string name="miuix_indexer_selected">Đã chọn %s</string>
 	<string name="add_from_local">Chọn ảnh</string>
+	<string name="panel_clock">Đồng hồ kim</string>
 </resources>
