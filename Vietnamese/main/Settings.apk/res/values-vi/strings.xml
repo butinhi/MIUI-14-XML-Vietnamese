@@ -12501,4 +12501,17 @@ Tính năng này chỉ hoạt động khi điều hướng hệ thống được
 	<string name="nfc_default_payment_footer">Để thực hiện thanh toán bằng ứng dụng thanh toán, hãy giữ mặt sau thiết bị của bạn vào trạm thanh toán</string>
     <string name="nfc_default_payment_settings_title">Ứng dụng thanh toán mặc định</string>
 	<string name="dark_mode_alert_dialog_message">Ứng dụng này có thể không được hiển thị chính xác ở Chế độ tối. Vẫn bật Chế độ tối?</string>
+	<string name="string_KB_per_log_buffer">%d KB mỗi bộ đệm nhật ký</string>
+    <string name="string_MB_per_log_buffer">%d MB mỗi bộ đệm nhật ký</string>
+    <string name="string_after_int_seconds">Sau %d giây</string>
+	<string name="nrca_switch_title">Sử dụng mạng di động 5G tổng hợp</string>
+	<string name="notif_type_conversation_summary">SMS, tin nhắn và các thông tin khác</string>
+    <string name="notif_type_ongoing">Thời gian thực</string>
+    <string name="notif_type_ongoing_summary">Thông tin liên tục từ các ứng dụng đang sử dụng, điều hướng, cuộc gọi, v.v.</string>
+    <string name="notif_type_alerting_summary">Có thể đổ chuông hoặc rung dựa trên cài đặt</string>
+	<string name="notif_type_silent_summary">Thông báo không bao giờ phát ra âm thanh hoặc rung</string>
+	<string name="notif_listener_excluded_app_summary">Thay đổi cài đặt cho từng ứng dụng gửi thông báo</string>
+    <string name="notif_listener_excluded_app_title">Xem tất cả ứng dụng</string>
+	<string name="notif_listener_excluded_app_screen_title">Ứng dụng hiển thị trên thiết bị</string>
+	<string name="notif_listener_not_migrated">Ứng dụng này không hỗ trợ cài đặt nâng cao</string>
 </resources>

@@ -1436,11 +1436,11 @@ Ghi chú: Chỉ cho phiên bản Ubuntu 8.04!"</item>
     </string-array>
 	<string-array name="select_logd_system_levels">
         <item>Tắt</item>
-        <item>Error</item>
-        <item>Warn</item>
-        <item>Info</item>
-        <item>Debug</item>
-        <item>Verbose</item>
+        <item>Lỗi</item>
+        <item>Cảnh báo</item>
+        <item>Thông tin</item>
+        <item>Gỡ lỗi</item>
+        <item>Dài dòng</item>
     </string-array>
 	<string-array name="default_vol_stream_entries">
         <item>Nhạc chuông</item>
@@ -1791,5 +1791,10 @@ Ghi chú: Chỉ cho phiên bản Ubuntu 8.04!"</item>
 	    <string-array name="nfc_payment_favor">
         <item>Luôn luôn</item>
         <item>Trừ khi một ứng dụng thanh toán khác được mở</item>
+    </string-array>
+	    <string-array name="autofill_logging_level_entries">
+        <item>Tắt</item>
+        <item>Gỡ lỗi</item>
+        <item>Dài dòng</item>
     </string-array>
 </resources>
