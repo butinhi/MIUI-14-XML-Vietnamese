@@ -399,7 +399,7 @@
     <string name="recent_apps">Ứng dụng gần đây</string>
     <string name="all_apps_search_app">Tìm kiếm ứng dụng</string>
     <string name="all_apps_setting_desktop_title">Chế độ tiêu chuẩn</string>
-    <string name="all_apps_setting_drawer_title">Chế độ ngăn kéo</string>
+    <string name="all_apps_setting_drawer_title">Ngăn kéo</string>
     <string name="all_apps_setting_title">Chế độ hiển thị</string>
     <string name="all_apps_setting_desktop_desc">Hiển thị tất cả các ứng dụng đã cài đặt trên màn hình, nhấn và giữ biểu tượng ứng dụng để hiển thị các phím tắt của ứng dụng để quản lý hoặc gỡ bỏ ứng dụng.</string>
     <string name="all_apps_setting_drawer_desc">Ấn vào nút ngăn kéo để hiển thị tất cả các ứng dụng trong ngăn kéo. Các ứng dụng đã bị xóa khỏi màn hình chính vẫn được hiển thị trong ngăn kéo.</string>
@@ -1093,4 +1093,6 @@
 	<string name="monochrome_summary">Thay đổi màu nền cho các biểu tượng tương thích</string>
     <string name="monochrome_title">Màu nền</string>
 	<string name="intelligent_exposed_button_summary_text">Sử dụng các đề xuất thông minh dựa trên việc sử dụng ứng dụng của bạn để làm nổi bật các ứng dụng trong các thư mục mở rộng</string>
+	<string name="miui_widget_toast_for_not_support_by_pa">"App vault không hỗ trợ các tiện ích có kích thước này"</string>
+	<string name="all_apps_setting_jeejen_title">Thu gọn</string>
 </resources>
