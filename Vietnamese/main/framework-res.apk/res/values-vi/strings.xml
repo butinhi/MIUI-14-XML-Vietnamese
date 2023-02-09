@@ -1,5 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="duration_days_shortest">%d ngày</string>
+    <string name="duration_days_shortest_future">trong %d ngày</string>
+    <string name="duration_hours_shortest">%d giờ</string>
+    <string name="duration_hours_shortest_future">trong %d giờ</string>
+    <string name="duration_minutes_shortest">%d phút</string>
+    <string name="duration_minutes_shortest_future">trong %d phút</string>
+    <string name="duration_years_shortest">%d năm</string>
+    <string name="duration_years_shortest_future">trong %d năm</string>
     <string name="cancel">Hủy</string>
     <string name="copy">Sao chép</string>
     <string name="copyUrl">Sao chép URL</string>
