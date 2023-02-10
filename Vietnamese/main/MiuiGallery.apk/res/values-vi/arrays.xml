@@ -359,4 +359,13 @@
 		<item>Cửa sổ sương mù</item>
 		<item>Công nghệ</item>
 	</string-array>
+	<string-array name="monthly_babies_title">
+        <item>"Bạn đã trưởng thành!"</item>
+        <item>"Bạn đã trưởng thành một lần nữa!"</item>
+    </string-array>
+    <string-array name="monthly_foods_title">
+        <item>Thực đơn cá nhân của tôi</item>
+        <item>Kỷ niệm ngon</item>
+        <item>Giúp lần thứ hai, xin vui lòng!</item>
+    </string-array>
 </resources>

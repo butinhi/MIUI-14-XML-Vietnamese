@@ -3289,4 +3289,5 @@ Phiên dịch có thể mất một lúc khi bạn sử dụng tính năng này 
     <string name="delete_media_for_cloud">Các mục đã chọn sẽ bị xóa khỏi đám mây và tất cả các thiết bị được đồng bộ hóa với các mục đã xóa gần đây.</string>
 	<string name="tips_for_photo_page_selection">Bạn có thể nhấn vào các mục để xem</string>
 	<string name="widget_disable">"Tiện ích có kích thước này không được hỗ trợ trên thiết bị"</string>
+	<string name="search_edit_hint">Tìm kiếm tệp hoặc album</string>
 </resources>
