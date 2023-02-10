@@ -1,5 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <plurals name="gd_app_edit_desc_new">
+        <item quantity="other">Thêm tối đa %d ứng dụng. Nhấn và giữ để sắp xếp lại.</item>
+        <item quantity="one">Thêm tối đa %d ứng dụng. Nhấn và giữ để sắp xếp lại.</item>
+    </plurals>
     <plurals name="hide_txt_hint_with_blank_2">
         <item quantity="other">    +%1$d ký tự khác</item>
     </plurals>
