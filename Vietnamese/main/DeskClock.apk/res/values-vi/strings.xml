@@ -1,5 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="fmt_time_millis">"S'mili giây'"</string>
+    <string name="fmt_time_second">"s'giây'"</string>
     <string name="add_alarm">Thêm báo thức</string>
     <string name="alarm_alert_alert_silenced">Báo thức im lặng sau %1$s.</string>
     <string name="alarm_alert_snooze_set">Báo lại sau %d phút.</string>
@@ -494,7 +496,7 @@ sau khi Sức khỏe Mi phân tích đủ dữ liệu"</string>
 	<string name="eras_bc">TCN</string>
 	<string name="chinese_day_29">29</string>
 	<string name="fmt_date_short_month_day">d MMM</string>
-	<string name="fmt_time_12hour_minute_second_pm">hh:mm:ss a</string>
+	<string name="fmt_time_12hour_minute_second_pm">h:mm:ss a</string>
 	<string name="fmt_date_year">yyyy</string>
 	<string name="month_december_shortest">Thg 12</string>
 	<string name="chinese_day_30">30</string>
@@ -653,7 +655,7 @@ sau khi Sức khỏe Mi phân tích đủ dữ liệu"</string>
 	<string name="early_morning">SA</string>
 	<string name="the_fools_day">Cá Tháng Tư</string>
 	<string name="monday_short">Th 2</string>
-	<string name="fmt_time_24hour_minute">HH:mm</string>
+	<string name="fmt_time_24hour_minute">H:mm</string>
 	<string name="noon">CH</string>
 	<string name="month_december_short">Tháng 12</string>
 	<string name="month_may_short">Tháng 5</string>
@@ -770,7 +772,7 @@ sau khi Sức khỏe Mi phân tích đủ dữ liệu"</string>
     <string name="week_ringtone_recommend_desc">Báo thức tự nhiên phát các âm thanh khác nhau tùy vào từng ngày. Đặt làm báo thức mặc định?</string>
     <string name="fmt_time_minute_second_millis">"m'phút' s.S'giây'"</string>
     <string name="slider_text_new">Vuốt lên để dừng</string>
-    <string name="fmt_time_24hour">"HH 'giờ'"</string>
+    <string name="fmt_time_24hour">"H 'giờ'"</string>
     <string name="fmt_time_minute">"m'phút'"</string>
     <string name="shutdown_alarm_alert_enable_summary_new">Bật để tắt báo thức khi tắt thiết bị. Chỉ báo thức đặt ít nhất %d phút sau khi tắt điện thoại sẽ kêu.</string>
     <string name="fmt_time_12hour">"h 'giờ'"</string>
@@ -781,14 +783,14 @@ sau khi Sức khỏe Mi phân tích đủ dữ liệu"</string>
 	<string name="fmt_date_numeric_day">D</string>
 	<string name="permission_rejected">Thẻ SIM của bạn không cho phép kết nối với mạng này.</string>
 	<string name="repeat_type">Lặp lại</string>
-	<string name="fmt_time_24hour_minute_second_millis">h:mm:ss.S</string>
+	<string name="fmt_time_24hour_minute_second_millis">H:mm:ss.S</string>
 	<string name="fmt_date_day">D</string>
 	<string name="read_internal_storage">Lưu trữ</string>
 	<string name="select_all">Chọn tất cả</string>
 	<string name="unselect_all">Bỏ chọn tất cả</string>
 	<string name="permission_desc">Chi tiết quyền</string>
 	<string name="fmt_time_12hour_minute_second_millis">h:mm:ss.S</string>
-	<string name="fmt_time_12hour_minute">HH:mm</string>
+	<string name="fmt_time_12hour_minute">h:mm</string>
 	<string name="fmt_time_24hour_minute_second">H:mm:ss</string>
 	<string name="fmt_time">T</string>
 	<string name="fmt_date_long_year_month">MMMM, yyyy</string>
