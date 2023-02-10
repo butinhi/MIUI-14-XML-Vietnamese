@@ -1,5 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="permdesc_bluetooth_advertise">Cho phép ứng dụng quảng cáo tới các thiết bị Bluetooth lân cận</string>
+    <string name="permdesc_bluetooth_connect">Cho phép ứng dụng kết nối với các thiết bị Bluetooth đã ghép nối</string>
+    <string name="permdesc_bluetooth_scan">Cho phép ứng dụng khám phá và ghép nối các thiết bị Bluetooth ở gần</string>
+    <string name="permlab_bluetooth">Ghép nối với các thiết bị Bluetooth</string>
+    <string name="permlab_bluetooth_advertise">Quảng cáo tới các thiết bị Bluetooth lân cận</string>
+    <string name="permlab_bluetooth_connect">Kết nối với các thiết bị Bluetooth được ghép nối</string>
+    <string name="permlab_bluetooth_scan">Khám phá và ghép nối các thiết bị Bluetooth gần đó</string>
+    <string name="permgroupdesc_notifications">Hiển thị thông báo</string>
+    <string name="permlab_postNotification">Hiển thị thông báo</string>
+    <string name="permdesc_postNotification">Cho phép ứng dụng hiển thị thông báo</string>
     <string name="duration_days_shortest">%d ngày</string>
     <string name="duration_days_shortest_future">trong %d ngày</string>
     <string name="duration_hours_shortest">%d giờ</string>
@@ -1012,7 +1022,6 @@ Hãy thử lại sau %2$d giây."</string>
     <string name="permlab_bindNotificationListenerService">Liên kết với dịch vụ trình xử lý thông báo</string>
     <string name="permlab_bind_connection_service">Tương tác với dịch vụ điện thoại</string>
     <string name="permlab_bind_incall_service">Tương tác với màn hình trong cuộc gọi</string>
-    <string name="permlab_bluetooth">Ghép nối với thiết bị Bluetooth</string>
     <string name="permlab_bluetoothAdmin">Truy cập cài đặt Bluetooth</string>
     <string name="permlab_bodySensors">Truy cập cảm biến cơ thể (như máy đo nhịp tim)</string>
     <string name="permlab_broadcastSticky">Gửi truyền phát hấp dẫn người xem</string>
