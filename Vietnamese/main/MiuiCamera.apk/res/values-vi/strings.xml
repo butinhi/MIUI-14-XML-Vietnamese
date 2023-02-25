@@ -2534,4 +2534,20 @@ Sau khi bật chức năng "ghi nhiều camera", máy ảnh của điện thoạ
 	<string name="custom_sound_old">Phim</string>
 	<string name="parameter_videos_title">Hiệu ứng phim</string>
 	<string name="parameter_ambilight_title">Phơi sáng dài</string>
+	<string name="ambilight_description_title">Giới thiệu về phơi sáng lâu</string>
+    <string name="ambilight_intro_crowd_moving_part1">Khi chụp trên một con phố đông đúc, hãy yêu cầu đối tượng của bạn đứng yên. Những người khác sẽ xuất hiện dưới dạng những vệt mờ.</string>
+    <string name="ambilight_intro_crowd_moving_part2">Bạn cũng có thể chụp ảnh giao thông đông đúc và đám đông đang di chuyển. Phơi sáng lâu sẽ giữ cho các tòa nhà rõ nét nhưng tất cả các đối tượng chuyển động sẽ bị mờ.</string>
+    <string name="ambilight_intro_light_track">Sử dụng nguồn sáng để \"vẽ\" lên cảnh tối nhằm tập hợp tất cả các phần sáng lại với nhau trong một hình ảnh.</string>
+    <string name="ambilight_intro_magic_star">Sử dụng chế độ này ở những nơi ít ô nhiễm ánh sáng. Độ phơi sáng sẽ được đặt thành %d giây, vì vậy, sử dụng giá ba chân là một ý tưởng tuyệt vời.</string>
+    <string name="ambilight_intro_silky_water_part1">Sử dụng chế độ này khi chụp những đám mây đang chuyển động. Nó sẽ tạo hiệu ứng \"bức tranh sơn dầu\" cho bầu trời.</string>
+    <string name="ambilight_intro_silky_water_part2">Chế độ này làm cho nước chuyển động (sông, thác nước và hồ) trông giống như sa tanh.</string>
+    <string name="ambilight_intro_star_track">"Chụp bầu trời đầy sao trong một thời gian dài có thể chụp được quỹ đạo của các ngôi sao. Đừng quên sử dụng giá ba chân và chụp liên tục trong ít nhất %d phút."</string>
+    <string name="ambilight_intro_traffic_light">Vào ban đêm, bạn có thể ghi lại quỹ đạo của đèn sáng chuyển động (ví dụ: trên ô tô và tàu). Chế độ này cho phép xem trước kết quả cuối cùng trên màn hình của bạn trong thời gian thực.</string>
+    <string name="ambilight_scene_crowd_moving">Di chuyển đám đông</string>
+    <string name="ambilight_scene_light_track">Vẽ tranh bằng ánh sáng</string>
+    <string name="ambilight_scene_magic_star">Bầu trời đầy sao</string>
+    <string name="ambilight_scene_silky_water">Tranh sơn dầu</string>
+    <string name="ambilight_scene_star_track">Vệt sao</string>
+    <string name="ambilight_scene_traffic_light">Đường mòn neon</string>
+    <string name="ambilight_tips_for_using_tripod">Sử dụng giá ba chân</string>
 </resources>

@@ -12515,4 +12515,8 @@ Tính năng này chỉ hoạt động khi điều hướng hệ thống được
 	<string name="notif_listener_excluded_app_screen_title">Ứng dụng hiển thị trên thiết bị</string>
 	<string name="notif_listener_not_migrated">Ứng dụng này không hỗ trợ cài đặt nâng cao</string>
 	<string name="search_result_feedback_text">"Không tìm thấy kết quả"</string>
+	<string name="eye_gaze_summary">"Thiết bị sẽ không khóa khi phát hiện bạn đang nhìn vào màn hình"</string>
+    <string name="eye_gaze_title">Phát hiện ánh mắt</string>
+	<string name="gxzw_vibrate_summary">"Không rung khi không có hoạt ảnh vân tay nào được chọn"</string>
+    <string name="gxzw_vibrate_title">Rung khi mở khóa</string>
 </resources>
