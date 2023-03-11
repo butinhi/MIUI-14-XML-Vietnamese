@@ -12519,4 +12519,8 @@ Tính năng này chỉ hoạt động khi điều hướng hệ thống được
     <string name="eye_gaze_title">Phát hiện ánh mắt</string>
 	<string name="gxzw_vibrate_summary">"Không rung khi không có hoạt ảnh vân tay nào được chọn"</string>
     <string name="gxzw_vibrate_title">Rung khi mở khóa</string>
+	<string name="show_alarm_icon_title">Hiển thị biểu tượng báo thức</string>
+	<string name="show_mute_icon_title">Hiển thị biểu tượng Chế độ im lặng</string>
+	<string name="show_nfc_icon_title">Hiển thị biểu tượng NFC</string>
+	<string name="show_bt_icon_title">Hiển thị biểu tượng Bluetooth</string>
 </resources>
