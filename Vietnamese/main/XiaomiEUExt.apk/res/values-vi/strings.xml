@@ -341,4 +341,5 @@
 	<string name="fmt_time_12hour_minute_second">h:mm:ms</string>
 	<string name="auto">Tự động</string>
 	<string name="wifi_region">Vùng Wi-Fi</string>
+	<string name="status_bar_icons">Biểu tượng thanh trạng thái</string>
 </resources>

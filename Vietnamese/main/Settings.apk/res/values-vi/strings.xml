@@ -12523,4 +12523,5 @@ Tính năng này chỉ hoạt động khi điều hướng hệ thống được
 	<string name="show_mute_icon_title">Hiển thị biểu tượng Chế độ im lặng</string>
 	<string name="show_nfc_icon_title">Hiển thị biểu tượng NFC</string>
 	<string name="show_bt_icon_title">Hiển thị biểu tượng Bluetooth</string>
+	<string name="status_bar_icons_title">Biểu tượng thanh trạng thái</string>
 </resources>
