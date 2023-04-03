@@ -2619,4 +2619,29 @@ Gửi mã này cho người giám sát."</string>
     <string name="local_diversion_manage_local_video">Quản lý tập tin</string>
     <string name="local_diversion_open_mivideo">*Chuyển sang Mi Video, trình phát video đa chức năng mạnh mẽ</string>
 	<string name="tip_local_long_press_for_manager">Nhấn và giữ để quản lý video</string>
+	<string name="local_diversion_trending_videos">Xem video thịnh hành</string>
+	<string name="galleryplus_notification_linkvideo_subtitle1" formatted="false">Quản lý tệp %$s Thêm phụ đề %$s Truyền video %$s</string>
+    <string name="galleryplus_notification_linkvideo_subtitle1_new">Sử dụng Ảnh trong ảnh, phát lại trong nền, thu phóng, truyền, v.v. %$s</string>
+    <string name="galleryplus_notification_linkvideo_subtitle2">Bảo vệ video riêng tư của bạn bằng mật khẩu %$s</string>
+    <string name="galleryplus_notification_linkvideo_subtitle2_new">Mật khẩu bảo vệ video riêng tư và quản lý tệp của bạn %$s</string>
+    <string name="galleryplus_notification_linkvideo_subtitle3">Tải xuống video từ TikTok, Instagram và Twitter %$s</string>
+    <string name="galleryplus_notification_linkvideo_subtitle3_new">Phim, video nhạc và video ngắn từ nền tảng yêu thích của bạn %$s</string>
+    <string name="galleryplus_notification_linkvideo_subtitle4">Xem các bộ phim truyền hình, hài kịch nổi tiếng, v.v.</string>
+    <string name="galleryplus_notification_linkvideo_subtitle5">Xem và đăng ký thể thao, hoạt hình, phim, v.v.</string>
+    <string name="galleryplus_notification_linkvideo_title1">%$s Kiểm tra tất cả các tính năng thú vị của Mi Video!</string>
+    <string name="galleryplus_notification_linkvideo_title2">%$s Nhấn để quản lý video của bạn</string>
+    <string name="galleryplus_notification_linkvideo_title3">%1$s Tải xuống video miễn phí %2$s Quản lý tệp</string>
+    <string name="galleryplus_notification_linkvideo_title3_new">%$s Tải nhanh, miễn phí</string>
+    <string name="galleryplus_notification_linkvideo_title4">Hàng trăm video, miễn phí trong thời gian giới hạn</string>
+    <string name="galleryplus_notification_linkvideo_title5">Truyền phát miễn phí các chương trình yêu thích của bạn</string>
+    <string name="galleryplus_notification_type_link_video">Chuyển sang video cục bộ</string>
+	<string name="question_how_to_download_video">Cách tải xuống video?</string>
+	<string name="local_play_end_download_drag_up_guide">Nhấn hoặc vuốt để tải xuống</string>
+	<string name="local_play_end_drag_up_guide">Nhấn hoặc vuốt lên để phát các đoạn ngắn</string>
+	<string name="recommend_slide_to_more">Vuốt để biết thêm</string>
+	<string name="small_video_load_more_hint">Vuốt lên để phát thêm video</string>
+	<string name="title_download_setting">Cài đặt tải xuống</string>
+	<string name="item_download_only_wify">Chỉ tải xuống qua Wi-Fi</string>
+    <string name="item_download_path">Vị trí tải xuống</string>
+    <string name="item_download_path_setting">Cài đặt vị trí tải xuống</string>
 </resources>

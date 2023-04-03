@@ -531,4 +531,6 @@ Cập nhật không khả dụng cho bạn!"</string>
 	<string name="fetch_notification_download_complete">Thành công</string>
 	<string name="fetch_notification_download_failed">Thất bại</string>
 	<string name="fetch_notification_download_cancel">Hủy</string>
+	<string name="twrp_update_warning">Để có thể sử dụng OTA, bạn cần chọn có cài đặt TWRP trên thiết bị của mình hay không:</string>
+	<string name="btn_not">Không</string>
 </resources>
