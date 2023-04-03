@@ -12524,4 +12524,6 @@ Tính năng này chỉ hoạt động khi điều hướng hệ thống được
 	<string name="show_nfc_icon_title">Hiển thị biểu tượng NFC</string>
 	<string name="show_bt_icon_title">Hiển thị biểu tượng Bluetooth</string>
 	<string name="status_bar_icons_title">Biểu tượng thanh trạng thái</string>
+	<string name="var_font_switch_dialog_summary">Bạn cần khởi động lại để thay đổi cài đặt.</string>
+    <string name="var_font_switch_dialog_title">Khởi động lại?</string>
 </resources>
