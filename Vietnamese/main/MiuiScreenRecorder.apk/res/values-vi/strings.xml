@@ -433,8 +433,5 @@ Chạm để xem"</string>
 	<string name="fmt_time_millis">"S 'mili giây'"</string>
 	<string name="fmt_time">T</string>
 	<string name="low_memory_for_phone">Bạn còn ít hơn %1$d GB dung lượng lưu trữ khả dụng. Bạn có thể ghi lên đến %2$d phút.</string>
-	<string name="show_hard_key_new">Hiển thị các lần nhấn nút</string>
-	<string name="show_hard_key">Trực quan hóa các nút điều hướng</string>
-   	
-     
+	<string name="show_hard_key_new">Hiển thị các lần nhấn nút</string>	     
 </resources>
