@@ -405,7 +405,7 @@ Tốc độ lấy mẫu"</string>
     <string name="external_source_untrusted">Không được phép</string>
     <string name="failed_to_open_app_settings_toast">Không thể mở cài đặt cho %1$s</string>
     <string name="ime_security_warning">Phương thức nhập này có thể thu thập tất cả văn bản bạn nhập, bao gồm dữ liệu cá nhân như mật khẩu và số thẻ tín dụng. Phương thức nhập này đến từ ứng dụng %1$s. Sử dụng phương thức nhập này?</string>
-    <string name="install_other_apps">C.đặt ư.dụng ko xác định</string>
+    <string name="install_other_apps">Cài đặt ứng dụng không xác định</string>
     <string name="notification_channel_incoming_call">Cuộc gọi đến</string>
     <string name="notification_channel_missed_call">Cuộc gọi nhỡ</string>
     <string name="notification_incoming_call">Cuộc gọi %1$s từ %2$s</string>

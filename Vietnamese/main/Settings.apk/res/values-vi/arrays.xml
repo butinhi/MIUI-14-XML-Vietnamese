@@ -1797,4 +1797,9 @@ Ghi chú: Chỉ cho phiên bản Ubuntu 8.04!"</item>
         <item>Gỡ lỗi</item>
         <item>Dài dòng</item>
     </string-array>
+	    <string-array name="typing_style_entries">
+        <item>Tiêu chuẩn</item>
+        <item>Chạm</item>
+        <item>Chạm trực tiếp</item>
+    </string-array>
 </resources>

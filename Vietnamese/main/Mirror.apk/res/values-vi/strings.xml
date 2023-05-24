@@ -532,4 +532,6 @@
 	<string name="verbose_mode">Chế độ chi tiết</string>
 	<string name="circulate_cta_premission_storage_pad_title">Truy cập và lưu các mục vào bộ lưu trữ</string>
 	<string name="circulate_cta_premission_storage_title">Truy cập và lưu các mục vào bộ lưu trữ</string>
+	<string name="settings_pc_handoff_title">Kết nối với máy tính</string>
+	<string name="pc_settings_current_device_tip">Tự động kết nối với máy tính đang mở MIUI+ và đăng nhập vào cùng một Tài khoản Xiaomi</string>
 </resources>

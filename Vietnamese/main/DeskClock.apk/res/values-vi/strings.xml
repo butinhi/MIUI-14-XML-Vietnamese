@@ -808,4 +808,12 @@ sau khi Sức khỏe Mi phân tích đủ dữ liệu"</string>
 	<string name="unknown_ringtone_title">Không xác định</string>
 	<string name="white_noise_not_selected">Không chọn</string>
 	<string name="add_new_sound">Thêm nhạc chuông</string>
+	<string name="auto_silence_entries1">Không bao giờ</string>
+    <string name="auto_silence_entries2"><xliff id="MINUTES" refersto="1">%d</xliff> phút</string>
+    <string name="auto_silence_entries3"><xliff id="MINUTES" refersto="5">%d</xliff> phút</string>
+    <string name="auto_silence_entries4"><xliff id="MINUTES" refersto="10">%d</xliff> phút</string>
+    <string name="auto_silence_entries5"><xliff id="MINUTES" refersto="15">%d</xliff> phút</string>
+    <string name="auto_silence_entries6"><xliff id="MINUTES" refersto="20">%d</xliff> phút</string>
+    <string name="auto_silence_entries7"><xliff id="MINUTES" refersto="25">%d</xliff> phút</string>
+    <string name="auto_silence_entries8"><xliff id="MINUTES" refersto="30">%d</xliff> phút</string>
 </resources>

@@ -2949,7 +2949,7 @@ Sao chép tệp tin sao lưu vào thiết bị của bạn (MIUI-backup-AllBacku
     <string name="install_applications_title">Cho phép tất cả các nguồn ƯD</string>
     <string name="install_no_market_app_summary">Quét virus ứng dụng bên thứ ba trước khi cài đặt</string>
     <string name="install_no_market_app_title">Quét ứng dụng bên thứ ba</string>
-    <string name="install_other_apps">C.đặt ư.dụng ko xác định</string>
+    <string name="install_other_apps">Cài đặt ứng dụng không xác định</string>
     <string name="install_preinstall_app">Đang tải ứng dụng…</string>
     <string name="install_text">Cài đặt</string>
     <string name="install_type_instant">Ứng dụng tức thì</string>
@@ -4113,7 +4113,7 @@ Chuyển sang %1$s sẽ không hủy dịch vụ %2$s của bạn."</string>
     <string name="normal_smartcover_title">Bao da không có cửa sổ</string>
     <string name="not_allowed">Thẻ SIM của bạn không cho phép kết nối với mạng này.</string>
     <string name="not_battery_optimizing">Hiện không sử dụng tối ưu hóa pin</string>
-    <string name="not_installed">Chưa c.đặt cho người dùng này</string>
+    <string name="not_installed">Chưa cài đặt cho người dùng này</string>
     <string name="not_set">Chưa đặt</string>
     <string name="notch_and_status_bar_settings">Trung tâm Điều khiển &amp; Bảng thông báo</string>
     <string name="notch_force_black_desc">Bật vùng tối xung quanh tai thỏ</string>

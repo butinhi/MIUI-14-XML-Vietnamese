@@ -268,7 +268,7 @@ Số bit trên mẫu"</string>
 	<string name="bluetooth_select_avrcp_version_dialog_title">Chọn Bluetooth phiên bản AVRCP</string>
 	<string name="debug_debugging_category">Gỡ lỗi</string>
 	<string name="bluetooth_talkback_computer">Máy tính</string>
-	<string name="install_other_apps">C.đặt ư.dụng ko xác định</string>
+	<string name="install_other_apps">Cài đặt ứng dụng không xác định</string>
 	<string name="mr_system_route_name">Hệ thống</string>
 	<string name="enable_gpu_debug_layers">Bật lớp gỡ lỗi GPU</string>
 	<string name="mr_controller_no_info_available">Không có thông tin nào</string>

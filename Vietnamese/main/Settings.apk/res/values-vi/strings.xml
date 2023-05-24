@@ -1886,7 +1886,7 @@ Bạn có thể đặt khóa màn hình mới cho cả thiết bị và hồ sơ
     <string name="filter_apps_running">Đang hoạt động</string>
     <string name="filter_apps_onsdcard">Bộ nhớ USB</string>
     <string name="disabled">Đã tắt</string>
-    <string name="not_installed">Chưa c.đặt cho người dùng này</string>
+    <string name="not_installed">Chưa cài đặt cho người dùng này</string>
     <string name="no_applications">Không có ứng dụng nào.</string>
     <string name="internal_storage">Bộ nhớ trong</string>
     <string name="internal_storage_sentence">bộ nhớ trong</string>
@@ -5528,7 +5528,7 @@ Tốc độ lấy mẫu"</string>
     <string name="hardware_revision">Phiên bản phần cứng</string>
     <string name="hide_extra_apps">Hiển thị dữ liệu sử dụng ứng dụng</string>
     <string name="input_assistance">Hỗ trợ nhập liệu</string>
-    <string name="install_other_apps">C.đặt ư.dụng ko xác định</string>
+    <string name="install_other_apps">Cài đặt ứng dụng không xác định</string>
     <string name="install_type_instant">Ứng dụng tức thì</string>
     <string name="installed">Đã cài đặt</string>
     <string name="instant_app_details_summary">Thông tin thêm về %1$s</string>
@@ -12455,6 +12455,8 @@ Tính năng này chỉ hoạt động khi điều hướng hệ thống được
     <string name="stylus_handwriting_summary">Khi được bật, Phương thức nhập hiện tại sẽ nhận bút cảm ứng MotionEvent nếu Trình chỉnh sửa được đặt tiêu điểm.</string>
 	<string name="input_method_category">Phương thức nhập</string>
 	<string name="location_time_zone_detection_toggle_title">Sử dụng vị trí để đặt múi giờ</string>
+	<string name="time_format_entries_1">%d-giờ 1:00 CH</string>
+    <string name="time_format_entries_2">%d-giờ 13:00</string>
 	<string name="time_format_entries_3">Tự động (dựa trên ngôn ngữ hệ thống)</string>
 	<string name="location_settings_footer_general">Các ứng dụng có quyền Thiết bị ở gần có thể xác định vị trí tương đối của các thiết bị được kết nối.</string>
     <string name="location_settings_footer_learn_more_content_description">Tìm hiểu thêm về Cài đặt vị trí.</string>
@@ -12526,4 +12528,24 @@ Tính năng này chỉ hoạt động khi điều hướng hệ thống được
 	<string name="status_bar_icons_title">Biểu tượng thanh trạng thái</string>
 	<string name="var_font_switch_dialog_summary">Bạn cần khởi động lại để thay đổi cài đặt.</string>
     <string name="var_font_switch_dialog_title">Khởi động lại?</string>
+	<string name="emergency_gesture_switchbar_title">Sử dụng SOS khẩn cấp</string>
+	<string name="emergency_gesture_screen_summary">Nhấn nhanh nút Nguồn 5 lần trở lên để bắt đầu các thao tác bên dưới</string>
+	<string name="emergency_gesture_sound_setting_summary">Phát âm thanh lớn khi Khẩn cấp SOS đang bắt đầu</string>
+    <string name="emergency_gesture_sound_setting_title">Phát báo thức đếm ngược</string>
+	<string name="emergency_gesture_call_for_help_title">Gọi giúp đỡ</string>
+    <string name="emergency_gesture_category_call_for_help_title">Thông báo để được trợ giúp</string>
+	<string name="emergency_gesture_number_override_notes">"Nếu bạn nhập một số không khẩn cấp:
+ • Thiết bị của bạn phải được mở khóa để sử dụng tính năng Khẩn cấp
+ • Cuộc gọi của bạn có thể không được trả lời"</string>
+    <string name="use_personalized_ad_service_summary_for_global">"Khi tắt đề xuất quảng cáo được cá nhân hóa, bạn sẽ vẫn thấy cùng một lượng quảng cáo trong các ứng dụng hệ thống MIUI như khi bật tính năng này. Tuy nhiên, quảng cáo từ các nền tảng của Xiaomi và bên thứ ba sẽ không còn phù hợp nữa vì chúng sẽ không dựa trên sở thích cá nhân của bạn."</string>
+	<string name="about_ad_service_instructions_for_global">Giới thiệu về dịch vụ quảng cáo và quyền riêng tư trong ứng dụng hệ thống MIUI</string>
+	<string name="location_settings_footer_location_off">Quyền truy cập vị trí bị tắt đối với các ứng dụng và dịch vụ. Vị trí thiết bị của bạn vẫn có thể được gửi đến những người ứng cứu khẩn cấp khi bạn gọi hoặc nhắn tin cho một số khẩn cấp.</string>
+	<string name="miui_type_style_summary">Kiểu gõ được áp dụng khi bật Trình đọc màn hình</string>
+    <string name="miui_type_style_title">Kiểu gõ</string>
+	<string name="location_time_zone_detection_auto_is_off">Múi giờ tự động đang tắt</string>
+    <string name="location_time_zone_detection_location_is_off_dialog_message">Để đặt múi giờ bằng vị trí của bạn, hãy bật vị trí, sau đó cập nhật cài đặt múi giờ</string>
+    <string name="location_time_zone_detection_location_is_off_dialog_title">Vị trí thiết bị cần thiết</string>
+    <string name="location_time_zone_detection_not_allowed">Không cho phép thay đổi phát hiện múi giờ của vị trí</string>
+    <string name="location_time_zone_detection_not_applicable">Tính năng phát hiện múi giờ của vị trí bị tắt</string>
+    <string name="location_time_zone_detection_not_supported">Phát hiện múi giờ vị trí không được hỗ trợ</string>
 </resources>

@@ -2644,4 +2644,9 @@ Gửi mã này cho người giám sát."</string>
 	<string name="item_download_only_wify">Chỉ tải xuống qua Wi-Fi</string>
     <string name="item_download_path">Vị trí tải xuống</string>
     <string name="item_download_path_setting">Cài đặt vị trí tải xuống</string>
+	<string name="dialog_disagree_continue">Tiếp tục</string>
+    <string name="dialog_disagree_info">"Nếu bạn không đồng ý với Chính sách quyền riêng tư của Mi Video, bạn sẽ không thể sử dụng các dịch vụ trực tuyến của chúng tôi và sẽ chỉ có thể xem các video được lưu trữ trên thiết bị của mình. Vẫn tiếp tục?"</string>
+    <string name="dialog_disagree_title">Chính sách riêng tư</string>
+	<string name="local_empty_guide">Các video bạn quay sẽ xuất hiện ở đây</string>
+    <string name="dialog_privacy_info_new5">Chào mừng đến với Mi Video! Ứng dụng này cung cấp các dịch vụ sau:&lt;br>&lt;/br> - Dịch vụ phát trực tuyến&lt;br>&lt;/br>- Trình phát video cục bộ&lt;br>&lt;/br>Để cung cấp các dịch vụ cơ bản, ứng dụng này cần thu thập thông tin cá nhân cần thiết. Để biết chi tiết, hãy xem Chính sách quyền riêng tư của chúng tôi. Bạn có thể thay đổi cài đặt của mình bất kỳ lúc nào trong Hồ sơ > Cài đặt.&lt;br>&lt;/br>Đọc và đồng ý với &lt;a href=%1$s>thoả thuận người dùng&lt;/a> and &lt;a href=%2$s>Chính sách riêng tư&lt;/a> của chúng tôi trước khi sử dụng Mi Video.</string>
 </resources>

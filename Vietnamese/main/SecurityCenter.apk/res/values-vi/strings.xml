@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="global_dock_guide_desc_with_split_screen">"· Nhấn vào một ứng dụng trên thanh bên để mở ứng dụng đó trong cửa sổ nổi.
+    <string name="global_dock_guide_desc_with_split_screen">"· Nhấn vào một ứng dụng trên Sidebar để mở ứng dụng đó trong cửa sổ nổi.
 · Kéo một ứng dụng vào giữa màn hình để mở ứng dụng đó trong cửa sổ nổi hoặc sang một bên để sử dụng Chia đôi màn hình.
 · Nhấn và giữ chỉ báo để di chuyển cửa sổ xung quanh."</string>
-    <string name="global_dock_guide_desc_without_split_screen">"· Nhấn vào một ứng dụng trên thanh bên để mở ứng dụng đó trong cửa sổ nổi.
+    <string name="global_dock_guide_desc_without_split_screen">"· Nhấn vào một ứng dụng trên Sidebar để mở ứng dụng đó trong cửa sổ nổi.
 · Nhấn và giữ chỉ báo để di chuyển cửa sổ xung quanh."</string>
     <string name="fw_blocked">Danh sách chặn</string>
     <string name="fw_oversea">Chặn cuộc gọi từ nước ngoài</string>
@@ -6032,5 +6032,5 @@ Ghi lại các trình tự và sử dụng chúng bất cứ lúc nào!"</string
 	<string name="permission_instruction_read_media_pic">Quyền này cho phép các ứng dụng truy cập ảnh và video được lưu trữ trên thiết bị. Các mục này có thể chứa thông tin cá nhân.</string>
 	<string name="permission_instruction_media_audio">Quyền này cho phép các ứng dụng truy cập các bài hát và tệp âm thanh khác được lưu trữ trên thiết bị. Các mục này có thể chứa thông tin cá nhân.</string>
     <string name="permission_instruction_media_files">Quyền này cho phép các ứng dụng truy cập các tệp và tài liệu được lưu trữ trên thiết bị. Các mục này có thể chứa thông tin cá nhân.</string>
-
+	<string name="app_behavior_record_hide_system">Ẩn ứng dụng hệ thống</string>
 </resources>

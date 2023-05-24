@@ -1752,4 +1752,7 @@ Gia nhập cùng 170 triệu Mi Fan!"</string>
 	<string name="open_cloud_drive">Bật Mi Drive</string>
 	<string name="midrive_overseas_unavailable">Tính năng này chỉ khả dụng ở Trung Quốc đại lục.</string>
 	<string name="withdraw_consent_content">"Nếu bạn tiếp tục, bạn sẽ rút lại sự đồng ý của mình đối với Chính sách quyền riêng tư của Trình quản lý tệp. Thông tin cá nhân đã được thu thập và lưu giữ sẽ bị xóa trong khoảng thời gian cụ thể theo luật và quy định hiện hành trừ khi có yêu cầu khác. Vì Trình quản lý tệp cung cấp các dịch vụ của mình dựa trên việc thu thập thông tin cá nhân cần thiết, việc bạn rút lại sự đồng ý sẽ được coi là từ chối chấp nhận các dịch vụ Trình quản lý tệp."</string>
+	<string name="extend_service_setting">Dịch vụ bổ sung</string>
+    <string name="extend_service_summary">"Nếu tắt dịch vụ này, bạn sẽ không thể sử dụng các tính năng liên quan đến Mi Drive"</string>
+    <string name="extend_service_title">Quản lý tệp Mi Drive</string>
 </resources>

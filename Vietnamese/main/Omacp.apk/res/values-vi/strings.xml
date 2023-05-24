@@ -12,14 +12,14 @@
     <string name="refreshing">Đang c.nhật…</string>
     <string name="no">Hủy</string>
     <string name="message_details_title">Chi tiết tin nhắn</string>
-    <string name="installed_indicator">Đã c.đặt</string>
+    <string name="installed_indicator">Đã cài đặt</string>
     <string name="message_type_label">Kiểu:</string>
     <string name="from_label">Từ:</string>
     <string name="received_label">Đã nhận:</string>
     <string name="confirm_delete_all_messages">Mọi tin nhắn sẽ bị xóa.</string>
     <string name="confirm_delete_message">Tin nhắn sẽ bị xóa.</string>
-    <string name="full_install_text">C.đặt h.chỉnh</string>
-    <string name="custom_install_text">C.đặt tùy thích</string>
+    <string name="full_install_text">Cài đặt hoàn chỉnh</string>
+    <string name="custom_install_text">Cài đặt tùy thích</string>
     <string name="install_text">Cài đặt</string>
     <string name="application_label">Ứ.dụng:</string>
     <string name="result_success">Th.công</string>
@@ -39,7 +39,7 @@
     <string name="imps_app_name">Tin nhắn nhanh và d.vụ mạng trực tuyến</string>
     <string name="installation_report">Báo cáo cài đặt</string>
     <string name="yes">OK</string>
-    <string name="installing_progress_message">Đang c.đặt......</string>
+    <string name="installing_progress_message">Đang cài đặt......</string>
     <string name="install_timeout_error_msg">Lỗi cài đặt.</string>
     <string name="re_install_notify_message">Cài đặt hiện hành của các ứng dụng sẽ bị lưu đè, tiếp tục?</string>
     <string name="re_install_notify_title">Xác nhận</string>
@@ -85,7 +85,7 @@
     <string name="auth_type_label">Loại an toàn:</string>
     <string name="auth_data_label">D.liệu an toàn:</string>
     <string name="dm_init_label">Cần kh.động:</string>
-    <string name="email_setting_name_label">Tên c.đặt:</string>
+    <string name="email_setting_name_label">Tên cài đặt:</string>
     <string name="email_secure_label">An toàn:</string>
     <string name="email_from_label">Từ:</string>
     <string name="email_rt_address_label">Tr.lời đến đ.chỉ:</string>
@@ -98,7 +98,7 @@
     <string name="imps_services_label">Dịch vụ:</string>
     <string name="imps_cid_prefix_label">T.tố ID m.khách:</string>
     <string name="name_label">Tên:</string>
-    <string name="detail_invalid_setting_error_msg">C.đặt k.hợp lệ.</string>
+    <string name="detail_invalid_setting_error_msg">Cài đặt không hợp lệ.</string>
     <string name="error">Lỗi</string>
 	<string name="not_ready_msg">Ứng dụng chưa sẵn sàng</string>
     <string name="wrong_pin">PIN sai</string>

@@ -1776,4 +1776,5 @@ Tất cả các chủ đề, hình nền, hình nền động, phông chữ, bi�
 Tất cả các bản ghi lịch sử tìm kiếm, tùy chọn quyền, cài đặt và các mục được lưu trong bộ nhớ cache được tạo trên thiết bị này.
 Tất cả các mục cá nhân hóa hiện đang được sử dụng trên thiết bị này. Tùy chọn cá nhân hóa mặc định sẽ được khôi phục."</string>
     <string name="privacy_phone_logoff_theme_service_detail_content_3">4. Việc hủy bỏ dịch vụ không có nghĩa là miễn trừ hoặc giảm nhẹ trách nhiệm do các hành động được thực hiện trước khi hủy bỏ dịch vụ gây ra.</string>
+	<string name="historical_wallpaper">Đã sử dụng</string>	
 </resources>

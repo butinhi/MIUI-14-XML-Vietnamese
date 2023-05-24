@@ -2550,4 +2550,11 @@ Sau khi bật chức năng "ghi nhiều camera", máy ảnh của điện thoạ
     <string name="ambilight_scene_star_track">Vệt sao</string>
     <string name="ambilight_scene_traffic_light">Đường mòn neon</string>
     <string name="ambilight_tips_for_using_tripod">Sử dụng giá ba chân</string>
+	<string name="pref_camera_track_focus_preferred_title">Tiêu điểm theo dõi chuyển động</string>
+	<string name="pref_camera_dynamic_frame_rate_title_new">Tốc độ khung hình tự động</string>
+    <string name="pref_camera_dynamic_frame_rate_summary_new">Tự động giảm tốc độ khung hình cho video trong môi trường ánh sáng yếu hoặc nhiệt độ cao</string>
+	<string name="pref_privacy_watermark_edit_title">Chỉnh sửa hình mờ</string>
+	<string name="popup_tips_privacy_watermark_edit">Chỉnh sửa hình mờ</string>
+	<string name="newbie_privacy_watermark_msg">Sử dụng hình mờ để bảo vệ tài liệu của bạn khỏi bị sao chép trái phép</string>
+    <string name="newbie_privacy_watermark_title">Bảo vệ tài liệu của bạn</string>
 </resources>
