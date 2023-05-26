@@ -117,8 +117,8 @@
     <string name="lollipop">Lollipop</string>
     <string name="glockenspiel">Glockenspiel</string>
     <string name="carousel">Carousel</string>
-    <string name="toyrobot">ToyRobot</string>
-    <string name="daydream">Daydream</string>
+    <string name="toyrobot">Robot đồ chơi</string>
+    <string name="daydream">Mơ ban ngày</string>
     <string name="miclassic">MiClassic</string>
     <string name="cta_permission_and"> và </string>
     <string name="cta_title">Điều khoản Sử dụng</string>
@@ -139,7 +139,7 @@
     <string name="mibi_license">Điều khoản Dịch vụ Mi Credit</string>
     <string name="policy_name">Chính sách: %s</string>
     <string name="resource_select">Chọn</string>
-	<string name="acousticguitar">Acoustic guitar</string>
+	<string name="acousticguitar">Guitar mộc</string>
     <string name="alarmclock">Đồng hồ báo thức</string>
     <string name="beep">Tiếng bíp</string>
     <string name="blues">Blue</string>
@@ -186,7 +186,7 @@
     <string name="notice_audition">Âm thanh tự nhiên</string>
     <string name="notificationxylophone">Thông báo (Mộc cầm)</string>
     <string name="orange">Tuổi trẻ</string>
-    <string name="potion">Potion</string>
+    <string name="potion">Thần dược</string>
     <string name="radar">Radar</string>
     <string name="raindrops">Mưa rơi</string>
     <string name="spaceage">Vũ trụ</string>
