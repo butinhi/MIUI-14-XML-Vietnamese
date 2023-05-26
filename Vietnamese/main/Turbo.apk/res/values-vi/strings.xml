@@ -3,8 +3,8 @@
     <string name="abc_action_bar_up_description">Điều hướng lên trên</string>
     <string name="abc_action_menu_overflow_description">Tùy chọn khác</string>
     <string name="abc_action_mode_done">Xong</string>
-    <string name="abc_capital_off">TẮT</string>
-    <string name="abc_capital_on">BẬT</string>
+    <string name="abc_capital_off">Tắt</string>
+    <string name="abc_capital_on">Bật</string>
     <string name="abc_menu_space_shortcut_label">phím cách</string>
     <string name="abc_search_hint">Tìm kiếm…</string>
     <string name="abc_searchview_description_clear">Xóa truy vấn</string>

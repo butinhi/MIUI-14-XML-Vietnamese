@@ -6,8 +6,8 @@
     <string name="abc_action_mode_done">Xong</string>
     <string name="abc_activity_chooser_view_see_all">Xem tất cả</string>
     <string name="abc_activitychooserview_choose_application">Chọn một ứng dụng</string>
-    <string name="abc_capital_off">TẮT</string>
-    <string name="abc_capital_on">BẬT</string>
+    <string name="abc_capital_off">Tắt</string>
+    <string name="abc_capital_on">Bật</string>
     <string name="abc_menu_space_shortcut_label">phím cách</string>
     <string name="abc_search_hint">Tìm kiếm…</string>
     <string name="abc_searchview_description_clear">Xóa truy vấn</string>
@@ -104,12 +104,12 @@ Bạn có thể tìm thấy danh sách thiết bị tương thích trên trang w
     <string name="wait_remote_receive_tips">Đang chờ…</string>
     <string name="wifi_is_not_enabled">Bật Wi-Fi trước</string>
 	<string name="cancel">Hủy</string>
-	<string name="v7_preference_off">TẮT</string>
+	<string name="v7_preference_off">Tắt</string>
 	<string name="btn_cancel_send">Hủy lần chuyển này</string>
 	<string name="file_transfer_progress_title">Tiến độ</string>
 	<string name="miuix_sbl_tracking_progress_labe_release_to_refresh">Thả ra để làm mới</string>
 	<string name="miuix_sbl_tracking_progress_labe_up_refresh">Đang làm mới</string>
-	<string name="v7_preference_on">BẬT</string>
+	<string name="v7_preference_on">Bật</string>
 	<string name="go_to_settings">Cài đặt</string>
 	<string name="unrecognized_model">Thiết bị không xác định</string>
 	<string name="file_receive_progress_title">Tiến độ</string>
@@ -165,9 +165,9 @@ Bạn có thể tìm thấy danh sách thiết bị tương thích trên trang w
 	<string name="error_send_transfer_pc_error">Hết giờ truyền. Cập nhật ứng dụng chia sẻ tệp tin trên máy tính của bạn và thử lại.</string>
 	<string name="agree_desc">Cấp các quyền bắt buộc được liệt kê ở trên.</string>
 	<string name="tile_state_unavailable">Không khả dụng</string>
-	<string name="tile_state_active">BẬT</string>
+	<string name="tile_state_active">Bật</string>
 	<string name="menu_item_privacy_title">Chính sách Riêng tư</string>
-	<string name="tile_state_inactive">TẮT</string>
+	<string name="tile_state_inactive">Tắt</string>
 	<string name="guide_title_2">Chọn thiết bị để chia sẻ</string>
 	<string name="guide_summary_2">"Chọn thiết bị bạn muốn gửi dữ liệu và chạm vào biểu tượng của nó"</string>
 	<string name="guide_summary_1">Người khác có thể chạm nút chuyển đổi trên Bảng thông báo</string>

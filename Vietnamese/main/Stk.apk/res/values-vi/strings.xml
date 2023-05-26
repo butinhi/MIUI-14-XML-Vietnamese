@@ -100,11 +100,11 @@
 	<string name="abc_shareactionprovider_share_with">Chia sẻ với</string>
 	<string name="abc_activity_chooser_view_see_all">Xem tất cả</string>
 	<string name="abc_shareactionprovider_share_with_application">Chia sẻ với %s</string>
-	<string name="abc_capital_off">TẮT</string>
+	<string name="abc_capital_off">Tắt</string>
 	<string name="abc_searchview_description_search">Tìm kiếm</string>
 	<string name="abc_action_mode_done">Xong</string>
 	<string name="abc_action_bar_up_description">Quay lại</string>
-	<string name="abc_capital_on">BẬT</string>
+	<string name="abc_capital_on">Bật</string>
 	<string name="clear_text_end_icon_content_description">Văn bản</string>
 	<string name="abc_search_hint">Tìm kiếm...</string>
 	<string name="mtrl_chip_close_icon_content_description">Xóa %1$s</string>
@@ -114,7 +114,7 @@
 	<string name="stk_ic_remove_title">Xóa bộ công cụ USIM khỏi Màn hình chính?</string>
 	<string name="chinese_day_20">20</string>
 	<string name="month_november_short">Tháng 11</string>
-	<string name="v7_preference_off">TẮT</string>
+	<string name="v7_preference_off">Tắt</string>
 	<string name="chinese_day_24">24</string>
 	<string name="chinese_day_23">23</string>
 	<string name="chinese_day_22">22</string>
@@ -189,7 +189,7 @@
 	<string name="the_sixth_day">Mùng 6 Tết Nguyên Đán</string>
 	<string name="solar_term_great_cold">Đại Hàn</string>
 	<string name="month_january_short">Tháng 1</string>
-	<string name="v7_preference_on">BẬT</string>
+	<string name="v7_preference_on">Bật</string>
 	<string name="the_united_nations_day">Ngày Liên Hợp Quốc</string>
 	<string name="miuix_appcompat_select_all_description">Chọn tất cả</string>
 	<string name="thursday_shortest">Th 5</string>

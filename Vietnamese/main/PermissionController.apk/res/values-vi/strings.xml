@@ -6,8 +6,8 @@
 	<string name="abc_action_mode_done">Xong</string>
 	<string name="abc_activity_chooser_view_see_all">Xem tất cả</string>
 	<string name="abc_activitychooserview_choose_application">Chọn một ứng dụng</string>
-	<string name="abc_capital_off">TẮT</string>
-	<string name="abc_capital_on">BẬT</string>
+	<string name="abc_capital_off">Tắt</string>
+	<string name="abc_capital_on">Bật</string>
 	<string name="abc_search_hint">Tìm kiếm…</string>
 	<string name="abc_searchview_description_clear">Xóa truy vấn</string>
 	<string name="abc_searchview_description_query">Tìm kiếm truy vấn</string>
@@ -139,8 +139,8 @@
 	<string name="settings_button">Cài đặt</string>
 	<string name="sort_by_time">Ngày</string>
 	<string name="system_warning">Nếu bạn từ chối quyền này, các tính năng cơ bản trên thiết bị của bạn có thể không còn hoạt động như dự kiến.</string>
-	<string name="v7_preference_off">TẮT</string>
-	<string name="v7_preference_on">BẬT</string>
+	<string name="v7_preference_off">Tắt</string>
+	<string name="v7_preference_on">Bật</string>
 	<string name="wear_not_allowed_dlg_text">Wear không hỗ trợ cài đặt/gỡ bỏ.</string>
 	<string name="wear_not_allowed_dlg_title">Android Wear</string>
 	<string name="accessibility_service_dialog_bottom_text_multiple">Các ứng dụng này có thể xem màn hình, hoạt động, và nhập liệu của bạn, thực hiện hành động và điều khiển hiển thị.</string>

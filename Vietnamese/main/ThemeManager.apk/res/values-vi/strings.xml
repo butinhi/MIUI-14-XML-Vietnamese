@@ -497,8 +497,8 @@
     <string name="abc_action_mode_done">Xong</string>
     <string name="abc_activity_chooser_view_see_all">Xem tất cả</string>
     <string name="abc_activitychooserview_choose_application">Chọn một ứng dụng</string>
-    <string name="abc_capital_off">TẮT</string>
-    <string name="abc_capital_on">BẬT</string>
+    <string name="abc_capital_off">Tắt</string>
+    <string name="abc_capital_on">Bật</string>
     <string name="abc_search_hint">Tìm kiếm…</string>
     <string name="abc_searchview_description_clear">Xóa truy vấn</string>
     <string name="abc_searchview_description_query">Tìm kiếm truy vấn</string>
@@ -1164,7 +1164,7 @@ Chạm vào đây để đăng nhập."</string>
 	<string name="chinese_day_20">20</string>
 	<string name="month_november_short">Tháng 11</string>
 	<string name="mtrl_picker_invalid_format_use">Sử dụng: %1$s</string>
-	<string name="v7_preference_off">TẮT</string>
+	<string name="v7_preference_off">Tắt</string>
 	<string name="chinese_day_24">24</string>
 	<string name="chinese_day_23">23</string>
 	<string name="chinese_day_22">22</string>
@@ -1235,7 +1235,7 @@ Chạm vào đây để đăng nhập."</string>
 	<string name="fmt_weekday_short">E</string>
 	<string name="fmt_time_minute_second">"m 'phút' s 'giây'"</string>
 	<string name="month_january_short">Tháng 1</string>
-	<string name="v7_preference_on">BẬT</string>
+	<string name="v7_preference_on">Bật</string>
 	<string name="mtrl_picker_text_input_date_range_end_hint">Ngày kết thúc</string>
 	<string name="the_united_nations_day">Ngày Liên Hợp Quốc</string>
 	<string name="mtrl_picker_announce_current_selection">Lựa chọn hiện tại: %1$s</string>
@@ -1393,12 +1393,12 @@ Chạm vào đây để đăng nhập."</string>
 	<string name="miui_lock_screen_large_date_12">"EEE
 dd/MM"</string>
 	<string name="miui_clock_city_name_second">Đồng hồ thứ hai</string>
-	<string name="community_message_trigger_triggered">BẬT</string>
+	<string name="community_message_trigger_triggered">Bật</string>
 	<string name="use_hint">Chú ý</string>
 	<string name="ad_experience_now">Mở</string>
 	<string name="ad_details">Chi tiết</string>
 	<string name="miui_clock_city_name_local">Trên máy</string>
-	<string name="community_message_trigger_disabled">TẮT</string>
+	<string name="community_message_trigger_disabled">Tắt</string>
 	<string name="miui_lock_screen_date">EEEE dd/MM</string>
 	<string name="i_know">Tôi biết</string>
 	<string name="miui_lock_screen_date_12">EEEE dd/MM</string>

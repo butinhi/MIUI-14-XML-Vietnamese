@@ -620,8 +620,8 @@ Hãy chắc chắn bạn nhớ tất cả câu trả lời."</string>
     <string name="abc_action_mode_done">Xong</string>
     <string name="abc_activity_chooser_view_see_all">Xem tất cả</string>
     <string name="abc_activitychooserview_choose_application">Chọn một ứng dụng</string>
-    <string name="abc_capital_off">TẮT</string>
-    <string name="abc_capital_on">BẬT</string>
+    <string name="abc_capital_off">Tắt</string>
+    <string name="abc_capital_on">Bật</string>
     <string name="abc_search_hint">Tìm kiếm…</string>
     <string name="abc_searchview_description_clear">Xóa truy vấn</string>
     <string name="abc_searchview_description_query">Tìm kiếm truy vấn</string>
@@ -711,12 +711,12 @@ Hãy chắc chắn bạn nhớ tất cả câu trả lời."</string>
 	<string name="password_toggle_content_description">Chuyển đổi hiển thị mật khẩu</string>
 	<string name="character_counter_content_description">Giới hạn ký tự đã đạt %1$d trên %2$d</string>
 	<string name="mtrl_chip_close_icon_content_description">Xóa %1$s</string>
-	<string name="v7_preference_off">TẮT</string>
+	<string name="v7_preference_off">Tắt</string>
 	<string name="preference_copied">\"%1$s\" đã sao chép vào clipboard.</string>
 	<string name="miuix_sbl_tracking_progress_labe_refreshing">Đang làm mới</string>
 	<string name="miuix_sbl_tracking_progress_labe_release_to_refresh">Thả ra để làm mới</string>
 	<string name="miuix_sbl_tracking_progress_labe_up_refresh">Đang làm mới</string>
-	<string name="v7_preference_on">BẬT</string>
+	<string name="v7_preference_on">Bật</string>
 	<string name="miuix_sbl_tracking_progress_labe_refreshed">Đã làm mới</string>
 	<string name="not_set">Chưa đặt</string>
 	<string name="miuix_sbl_tracking_progress_labe_up_none">Đừng làm vậy</string>
@@ -1101,7 +1101,7 @@ Hãy chắc chắn bạn nhớ tất cả câu trả lời."</string>
 	<string name="notify_verify_again_security_phone">Xác nhận</string>
 	<string name="notify_verify_security_phone">Điện thoại</string>
 	<string name="cloud_service_status_storage_not_enough">Không đủ dung lượng</string>
-	<string name="cloud_service_status_cloud_not_open">TẮT</string>
+	<string name="cloud_service_status_cloud_not_open">Tắt</string>
 	<string name="privacy_policy_reject_confirm_title">Chú ý</string>
 	<string name="system_error_info">Hệ thống đang bận. Chờ một hoặc hai phút và thử lại.</string>
 	<string name="area_code_no_search_result">Không tìm thấy kết quả</string>

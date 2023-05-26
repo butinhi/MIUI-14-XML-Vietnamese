@@ -211,8 +211,8 @@ Trình tiết kiệm pin tự động tắt khi thiết bị của bạn đang s
     <string name="capability_title_canRequestFilterKeyEvents">Quan sát nội dung bạn nhập</string>
     <string name="capability_title_canRequestTouchExploration">Bật Khám phá bằng cách chạm</string>
     <string name="capability_title_canRetrieveWindowContent">Truy xuất nội dung cửa sổ</string>
-    <string name="capital_off">TẮT</string>
-    <string name="capital_on">BẬT</string>
+    <string name="capital_off">Tắt</string>
+    <string name="capital_on">Bật</string>
     <string name="car_mode_disable_notification_message">Nhấn để thoát khỏi ứng dụng lái xe.</string>
     <string name="car_mode_disable_notification_title">Ứng dụng lái xe đang chạy</string>
     <string name="carrier_app_dialog_button">TẢI ỨNG DỤNG</string>
@@ -2562,7 +2562,7 @@ Nếu bạn tiếp tục, %1$s sẽ thay đổi cài đặt riêng tư của b�
 	<string name="PERSOSUBSTATE_SIM_CORPORATE_ERROR">Yêu cầu mở khóa SIM Corporate không thành công.</string>
 	<string name="resolver_switch_on_work">Bật</string>
 	<string name="PERSOSUBSTATE_SIM_SIM_ERROR">Yêu cầu mở khóa SIM không thành công.</string>
-	<string name="accessibility_shortcut_menu_item_status_off">TẮT</string>
+	<string name="accessibility_shortcut_menu_item_status_off">Tắt</string>
 	<string name="PERSOSUBSTATE_SIM_CORPORATE_IN_PROGRESS">Yêu cầu mở khóa công ty SIM</string>
 	<string name="accessibility_system_action_lock_screen_label">Màn hình khóa</string>
 	<string name="PERSOSUBSTATE_SIM_SERVICE_PROVIDER_PUK_SUCCESS">Mở khóa PUK thành công.</string>
@@ -2577,7 +2577,7 @@ Nếu bạn tiếp tục, %1$s sẽ thay đổi cài đặt riêng tư của b�
 	<string name="PERSOSUBSTATE_RUIM_SERVICE_PROVIDER_IN_PROGRESS">Yêu cầu mở khóa nhà cung cấp dịch vụ RUIM…</string>
 	<string name="not_checked">Không chọn</string>
 	<string name="PERSOSUBSTATE_SIM_SERVICE_PROVIDER_PUK_IN_PROGRESS">Yêu cầu mở khóa PUK</string>
-	<string name="accessibility_shortcut_menu_item_status_on">BẬT</string>
+	<string name="accessibility_shortcut_menu_item_status_on">Bật</string>
 	<string name="PERSOSUBSTATE_RUIM_CORPORATE_ERROR">Yêu cầu mở khóa công ty RUIM không thành công.</string>
 	<string name="PERSOSUBSTATE_SIM_CORPORATE_ENTRY">Mã PIN mở khóa công ty SIM</string>
 	<string name="PERSOSUBSTATE_RUIM_CORPORATE_PUK_IN_PROGRESS">Yêu cầu mở khóa PUK</string>

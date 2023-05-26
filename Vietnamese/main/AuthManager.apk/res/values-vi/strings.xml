@@ -528,7 +528,7 @@ Bạn cần phải cài đặt phiên bản MIUI của nhà phát triển để 
 	<string name="thursday_shortest">Th 5</string>
 	<string name="chinese_symbol_animals_rabbit">Mão</string>
 	<string name="chinese_digit_ten">10</string>
-	<string name="abc_capital_on">BẬT</string>
+	<string name="abc_capital_on">Bật</string>
 	<string name="thursday_short">Th 5</string>
 	<string name="chinese_month_april">4</string>
 	<string name="month_july">Tháng bảy</string>
@@ -670,7 +670,7 @@ Bạn cần phải cài đặt phiên bản MIUI của nhà phát triển để 
 	<string name="heavenly_stems_yi">"Ất "</string>
 	<string name="chinese_month_may">5</string>
 	<string name="heavenly_stems_jia">"Giáp "</string>
-	<string name="abc_capital_off">TẮT</string>
+	<string name="abc_capital_off">Tắt</string>
 	<string name="solar_term_the_rains">Vũ Thủy</string>
 	<string name="heavenly_stems_bing">"Bính "</string>
 	<string name="fmt_time_24hour">HH</string>
@@ -764,13 +764,13 @@ Bạn cần phải cài đặt phiên bản MIUI của nhà phát triển để 
     <string name="HIPS_Perm_operator_get_phonenumbner_Message">Ứng dụng này muốn lấy số điện thoại của bạn từ nhà cung cấp dịch vụ để đăng nhập. Cho phép?</string>
 	<string name="pp_privacy_lab_operator_introduction">Chú ý</string>
 	<string name="animator_property_name_alpha">Thử nghiệm</string>
-	<string name="v7_preference_off">TẮT</string>
+	<string name="v7_preference_off">Tắt</string>
 	<string name="not_set">Chưa đặt</string>
 	<string name="preference_copied">\"%1$s\" đã sao chép vào clipboard.</string>
 	<string name="miuix_access_state_desc">Đã chọn</string>
 	<string name="miuix_indexer_selected">Đã chọn %s</string>
 	<string name="fmt_time_minute">"m 'phút'"</string>
-	<string name="v7_preference_on">BẬT</string>
+	<string name="v7_preference_on">Bật</string>
 	<string name="expand_button_title">Nâng cao</string>
 	<string name="copy">Sao chép</string>
 	<string name="size_byte">B</string>

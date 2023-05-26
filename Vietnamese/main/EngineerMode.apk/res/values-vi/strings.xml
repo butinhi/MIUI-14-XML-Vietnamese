@@ -17,11 +17,11 @@
 	<string name="lte_ca_set">Đặt</string>
 	<string name="wifi_cancel">Hủy</string>
 	<string name="epdg_set">Đặt</string>
-	<string name="aal_off">TẮT</string>
+	<string name="aal_off">Tắt</string>
 	<string name="bt_tm">Chế độ kiểm thử</string>
 	<string name="height">Chiều cao</string>
 	<string name="channel_lock_GSM_ninehundred_no">Không</string>
-	<string name="npt_config_tx_on_flag_disable">TẮT</string>
+	<string name="npt_config_tx_on_flag_disable">Tắt</string>
 	<string name="clk_quality_at_mode">Chế độ</string>
 	<string name="voice_settings_warning">Cảnh báo</string>
 	<string name="profile">Hồ sơ</string>
@@ -66,7 +66,7 @@
 	<string name="usb_tethering">Kết nối USB</string>
 	<string name="hqa_nfc_pause">Tạm dừng</string>
 	<string name="battery_status_charging">Đang sạc</string>
-	<string name="npt_config_tx_on_flag_enable">BẬT</string>
+	<string name="npt_config_tx_on_flag_enable">Bật</string>
 	<string name="pref_ecc_num">Số khẩn cấp</string>
 	<string name="iot_cancel">Đặt lại</string>
 	<string name="set_xcap">Đặt</string>
@@ -105,7 +105,7 @@
 	<string name="ims_category_bearer">Trình chuyển</string>
 	<string name="wfd_iot_set">Đặt</string>
 	<string name="desense_at_result_title">KẾT QUẢ KIỂM TRA</string>
-	<string name="sim_switch_on">BẬT</string>
+	<string name="sim_switch_on">Bật</string>
 	<string name="USB_IF_OTG20_EXIT_Text">Thoát</string>
 	<string name="channel_lock_RAT_umts">3G</string>
 	<string name="dcb_cal_stop">Dừng</string>
@@ -230,7 +230,7 @@
 	<string name="rf_desense_digrf_round_unit">Số lần</string>
 	<string name="uart_usb_switch_unknown">Không xác định</string>
 	<string name="bt_le_eh_test_pattern">Hình mở khóa</string>
-	<string name="sim_switch_off">TẮT</string>
+	<string name="sim_switch_off">Tắt</string>
 	<string name="audio_val_type_media">Phương tiện</string>
 	<string name="Audio_Headset_None">Không</string>
 	<string name="battery_status_not_charging">Không sạc</string>
@@ -269,7 +269,7 @@
 	<string name="clk_quality_at_result_title">KẾT QUẢ KIỂM TRA</string>
 	<string name="USB_IF_START_Text">Bắt đầu</string>
 	<string name="ctia_btn_get">Nhận</string>
-	<string name="aal_on">BẬT</string>
+	<string name="aal_on">Bật</string>
 	<string name="battery_health_unspecified_failure">Lỗi không xác định</string>
 	<string name="wifi_log_switch_driver">Lái xe</string>
 	<string name="clk_quality_at_input_password_title">Mật khẩu</string>

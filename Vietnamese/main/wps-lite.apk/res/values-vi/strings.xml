@@ -62,9 +62,9 @@
 	<string name="public_share_no_network">Không thể kết nối mạng</string>
 	<string name="documentmanager_chooseEmail">Chọn ứng dụng</string>
 	<string name="public_pdf_converter_item_name">PDF</string>
-	<string name="abc_capital_off">TẮT</string>
+	<string name="abc_capital_off">Tắt</string>
 	<string name="public_pdf_converter_title">Xuất</string>
-	<string name="abc_capital_on">BẬT</string>
+	<string name="abc_capital_on">Bật</string>
 	<string name="public_refuse_give_permission">Hủy bỏ ủy quyền</string>
 	<string name="public_mi_agree_desc">Cho phép ứng dụng này kết nối mạng và cấp các quyền bắt buộc liệt kê bên trên.</string>
 	<string name="abc_searchview_description_clear">Xóa truy vấn</string>

@@ -109,7 +109,7 @@
 	<string name="thursday_shortest">Th 5</string>
 	<string name="chinese_symbol_animals_rabbit">Mão</string>
 	<string name="chinese_digit_ten">10</string>
-	<string name="abc_capital_on">BẬT</string>
+	<string name="abc_capital_on">Bật</string>
 	<string name="thursday_short">Th 5</string>
 	<string name="chinese_month_april">4</string>
 	<string name="month_july">Tháng bảy</string>
@@ -241,7 +241,7 @@
 	<string name="heavenly_stems_yi">"Ất "</string>
 	<string name="chinese_month_may">5</string>
 	<string name="heavenly_stems_jia">"Giáp "</string>
-	<string name="abc_capital_off">TẮT</string>
+	<string name="abc_capital_off">Tắt</string>
 	<string name="heavenly_stems_bing">"Bính "</string>
 	<string name="solar_term_the_rains">Vũ Thủy</string>
 	<string name="fmt_time_24hour">"HH 'giờ'"</string>

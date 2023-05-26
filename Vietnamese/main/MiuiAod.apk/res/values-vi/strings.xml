@@ -29,8 +29,8 @@
     <string name="abc_action_mode_done">Xong</string>
     <string name="abc_activity_chooser_view_see_all">Xem tất cả</string>
     <string name="abc_activitychooserview_choose_application">Chọn một ứng dụng</string>
-    <string name="abc_capital_off">TẮT</string>
-    <string name="abc_capital_on">BẬT</string>
+    <string name="abc_capital_off">Tắt</string>
+    <string name="abc_capital_on">Bật</string>
     <string name="abc_search_hint">Tìm kiếm…</string>
     <string name="abc_searchview_description_clear">Xóa truy vấn</string>
     <string name="abc_searchview_description_query">Tìm kiếm truy vấn</string>
@@ -429,10 +429,10 @@ dd/MM"</string>
 	<string name="the_armys_day">Ngày Quân Đội</string>
 	<string name="time_picker_dialog_title">Đặt thời gian</string>
 	<string name="add_from_album">Thêm từ Thư viện</string>
-	<string name="v7_preference_off">TẮT</string>
+	<string name="v7_preference_off">Tắt</string>
 	<string name="not_set">Chưa đặt</string>
 	<string name="preference_copied">\"%1$s\" đã sao chép vào clipboard.</string>
-	<string name="v7_preference_on">BẬT</string>
+	<string name="v7_preference_on">Bật</string>
 	<string name="copy">Sao chép</string>
 	<string name="expand_button_title">Nâng cao</string>
 	<string name="super_wallpaper_date_lunar">"e N
@@ -477,9 +477,9 @@ dd/M"</string>
 	<string name="add_custom_image">Tùy chỉnh ảnh</string>
 	<string name="temporary_style_summary">Đề xuất</string>
 	<string name="ambient_display_screen_title">Màn hình luôn bật</string>
-	<string name="off">TẮT</string>
+	<string name="off">Tắt</string>
 	<string name="ambient_display_screen_title_sp">Màn hình Ambient</string>
-	<string name="on">BẬT</string>
+	<string name="on">Bật</string>
 	<string name="step_to_image_community">Tìm nhiều hơn trong Cộng đồng Mi</string>
 	<string name="aod_dual_clock_date_12">hh:mm dd/MM aa</string>
 	<string name="share_to_community">Chia sẻ lên Cộng đồng Mi</string>

@@ -14,11 +14,11 @@
 	<string name="abc_shareactionprovider_share_with">Chia sẻ với</string>
 	<string name="abc_shareactionprovider_share_with_application">Chia sẻ với %s</string>
 	<string name="screenshot_long_screenshot">Cuộn</string>
-	<string name="abc_capital_off">TẮT</string>
+	<string name="abc_capital_off">Tắt</string>
 	<string name="abc_searchview_description_search">Tìm kiếm</string>
 	<string name="screenshot_failed_in_landscape_mode">"Không thể chụp ảnh màn hình kéo dài trong chế độ ngang"</string>
 	<string name="abc_action_bar_up_description">Quay lại</string>
-	<string name="abc_capital_on">BẬT</string>
+	<string name="abc_capital_on">Bật</string>
 	<string name="long_screenshot_top_msg">Đang chụp ảnh màn hình…</string>
 	<string name="abc_search_hint">Tìm kiếm...</string>
 	<string name="abc_searchview_description_clear">Xóa truy vấn</string>
@@ -347,7 +347,7 @@
 	<string name="fmt_date_numeric_day">D</string>
 	<string name="fmt_date_day">D</string>
 	<string name="long_screenshot_processing_description_accessibility">Đang xử lý</string>
-	<string name="v7_preference_off">TẮT</string>
+	<string name="v7_preference_off">Tắt</string>
 	<string name="xiaomi">Chuyển tập tin mà không cần kết nối Internet cho bất kỳ nội dung nào sau đây:</string>
 	<string name="screen_editor_shell_res_downloading">Đang tải xuống khung thiết bị…</string>
 	<string name="toast_download_with_metered_network_msg">"Có vẻ như thiết bị của bạn không được kết nối với Wi-Fi. Tải xuống các mục bằng dữ liệu di động?"</string>
@@ -424,7 +424,7 @@
 	<string name="text_item_type_talkback_bubble_none">Vùng văn bản</string>
 	<string name="text_item_type_talkback_bubble_signature">Chữ ký</string>
 	<string name="photo_editor_beauty_compare">Mở tệp tin gốc</string>
-	<string name="v7_preference_on">BẬT</string>
+	<string name="v7_preference_on">Bật</string>
 	<string name="file_cannot_screen_throw">Nội dung này chưa hỗ trợ trình chiếu</string>
 	<string name="text_item_type_talkback_bubble_arrow2">Mũi tên 2</string>
 	<string name="unrecognized_model">Thiết bị không xác định</string>

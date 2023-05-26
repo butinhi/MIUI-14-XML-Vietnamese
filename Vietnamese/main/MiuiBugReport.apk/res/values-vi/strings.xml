@@ -607,7 +607,7 @@ Kích thước cập nhật Delta: %2$s"</string>
 	<string name="xiaomi_update_sdk_dialog_title">%1$s cập nhật!</string>
 	<string name="xiaomi_update_sdk_dialog_message">"Giới thiệu phiên bản %1$s
 Kích thước: %2$s"</string>
-	<string name="v7_preference_off">TẮT</string>
+	<string name="v7_preference_off">Tắt</string>
 	<string name="preference_copied">\"%1$s\" đã sao chép vào clipboard.</string>
 	<string name="abc_searchview_description_query">Tìm kiếm truy vấn</string>
 	<string name="abc_searchview_description_submit">Gửi truy vấn</string>
@@ -615,7 +615,7 @@ Kích thước: %2$s"</string>
 	<string name="abc_action_bar_home_description">Vào Trang bắt đầu</string>
 	<string name="search_menu_title">Tìm kiếm</string>
 	<string name="abc_toolbar_collapse_description">Thu gọn</string>
-	<string name="v7_preference_on">BẬT</string>
+	<string name="v7_preference_on">Bật</string>
 	<string name="abc_activitychooserview_choose_application">Chọn ứng dụng</string>
 	<string name="abc_searchview_description_voice">Tìm kiếm giọng nói</string>
 	<string name="abc_shareactionprovider_share_with">Chia sẻ với</string>
@@ -623,10 +623,10 @@ Kích thước: %2$s"</string>
 	<string name="abc_shareactionprovider_share_with_application">Chia sẻ với %s</string>
 	<string name="not_set">Chưa đặt</string>
 	<string name="abc_searchview_description_search">Tìm kiếm</string>
-	<string name="abc_capital_off">TẮT</string>
+	<string name="abc_capital_off">Tắt</string>
 	<string name="abc_action_mode_done">Hoàn tất</string>
 	<string name="abc_action_bar_up_description">Quay lại</string>
-	<string name="abc_capital_on">BẬT</string>
+	<string name="abc_capital_on">Bật</string>
 	<string name="abc_search_hint">Tìm kiếm...</string>
 	<string name="expand_button_title">Nâng cao</string>
 	<string name="copy">Sao chép</string>

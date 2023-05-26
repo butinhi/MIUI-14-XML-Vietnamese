@@ -6,8 +6,8 @@
     <string name="abc_action_mode_done">Xong</string>
     <string name="abc_activity_chooser_view_see_all">Xem tất cả</string>
     <string name="abc_activitychooserview_choose_application">Chọn một ứng dụng</string>
-    <string name="abc_capital_off">TẮT</string>
-    <string name="abc_capital_on">BẬT</string>
+    <string name="abc_capital_off">Tắt</string>
+    <string name="abc_capital_on">Bật</string>
     <string name="abc_search_hint">Tìm kiếm…</string>
     <string name="abc_searchview_description_clear">Xóa truy vấn</string>
     <string name="abc_searchview_description_query">Truy vấn tìm kiếm</string>
@@ -198,8 +198,8 @@ Sức khỏe Mi sẽ chỉ thông báo cho bạn các mục quan trọng."</stri
     <string name="select_menstruation_end_date">Chọn ngày kết thúc của kỳ này</string>
     <string name="select_null">Chưa chọn</string>
     <string name="setting">Cài đặt</string>
-    <string name="setting_sedentary_off">TẮT</string>
-    <string name="setting_sedentary_on">BẬT</string>
+    <string name="setting_sedentary_off">Tắt</string>
+    <string name="setting_sedentary_on">Bật</string>
     <string name="setting_sedentary_title">Nhắc nhở di chuyển</string>
     <string name="skip">Bỏ qua</string>
     <string name="sleep">Giấc ngủ</string>
@@ -296,8 +296,8 @@ Cập nhật ngay?"</string>
     <string name="update_notify_no_update_log">Không có gì ở đây.</string>
     <string name="user_agreement">Thỏa thuận Người dùng</string>
     <string name="user_birthday_display_format">dd/MM/yyyy</string>
-    <string name="v7_preference_off">TẮT</string>
-    <string name="v7_preference_on">BẬT</string>
+    <string name="v7_preference_off">Tắt</string>
+    <string name="v7_preference_on">Bật</string>
     <string name="year">Năm</string>
 	<string name="xiaomi_update_sdk_dialog_message_diff">"Giới thiệu phiên bản %1$s
 Kích thước cập nhật Delta: %2$s"</string>
@@ -1750,7 +1750,7 @@ Các thử nghiệm của chúng tôi cho thấy rằng phương pháp này đo 
 	<string name="skipping_time">Thời lượng</string>
 	<string name="skipping_reset_time">Nghỉ ngơi</string>
 	<string name="skipping_kcal">Calo</string>
-	<string name="MediaControlView_subtitle_off_text">TẮT</string>
+	<string name="MediaControlView_subtitle_off_text">Tắt</string>
 	<string name="mcv2_play_button_desc">Phát</string>
 	<string name="skipping_start_counting">Bắt đầu</string>
 	<string name="course_time_unit">TỐI THIỂU</string>

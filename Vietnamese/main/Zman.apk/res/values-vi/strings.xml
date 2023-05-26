@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="v7_preference_off">TẮT</string>
+    <string name="v7_preference_off">Tắt</string>
 	<string name="once_settings_subtitle">Bạn muốn chia sẻ mục đã chọn như thế nào?</string>
 	<string name="settings_tip">Vào Thư viện &gt; Cài đặt để xem thêm tùy chọn</string>
 	<string name="once_settings_camera_ttile">Chia sẻ không có siêu dữ liệu</string>
@@ -28,18 +28,18 @@
 	<string name="abc_action_bar_home_description">Vào Trang bắt đầu</string>
 	<string name="search_menu_title">Tìm kiếm</string>
 	<string name="abc_toolbar_collapse_description">Thu gọn</string>
-	<string name="v7_preference_on">BẬT</string>
+	<string name="v7_preference_on">Bật</string>
 	<string name="abc_activitychooserview_choose_application">Chọn ứng dụng</string>
 	<string name="abc_searchview_description_voice">Tìm kiếm giọng nói</string>
 	<string name="abc_shareactionprovider_share_with">Chia sẻ với</string>
 	<string name="abc_activity_chooser_view_see_all">Xem tất cả</string>
 	<string name="not_set">Chưa đặt</string>
 	<string name="abc_shareactionprovider_share_with_application">Chia sẻ với %s</string>
-	<string name="abc_capital_off">TẮT</string>
+	<string name="abc_capital_off">Tắt</string>
 	<string name="abc_searchview_description_search">Tìm kiếm</string>
 	<string name="abc_action_mode_done">Hoàn tất</string>
 	<string name="abc_action_bar_up_description">Quay lại</string>
-	<string name="abc_capital_on">BẬT</string>
+	<string name="abc_capital_on">Bật</string>
 	<string name="abc_search_hint">Tìm kiếm...</string>
 	<string name="copy">Sao chép</string>
 	<string name="expand_button_title">Nâng cao</string>

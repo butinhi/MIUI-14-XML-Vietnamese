@@ -297,7 +297,7 @@ TRUNG BÌNH"</string>
     <string name="v2_label_media_server_name_app">Truyền trực tiếp</string>
     <string name="v2_label_report_a_bug">Báo cáo vấn đề</string>
     <string name="v2_label_savings_are_off_part1">"Tiết kiệm "</string>
-    <string name="v2_label_savings_are_off_part2">tắt</string>
+    <string name="v2_label_savings_are_off_part2">Tắt</string>
     <string name="v2_label_settings">Cài đặt</string>
     <string name="v2_label_share">Chia sẻ</string>
     <string name="v2_label_third_party">Giấy phép của bên thứ ba</string>

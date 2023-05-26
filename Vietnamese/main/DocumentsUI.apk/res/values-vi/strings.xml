@@ -17,8 +17,8 @@
     <string name="abc_activity_chooser_view_see_all">Xem tất cả</string>
     <string name="abc_shareactionprovider_share_with_application">Chia sẻ với %s</string>
     <string name="abc_shareactionprovider_share_with">Chia sẻ với</string>
-    <string name="abc_capital_on">BẬT</string>
-    <string name="abc_capital_off">TẮT</string>
+    <string name="abc_capital_on">Bật</string>
+    <string name="abc_capital_off">Tắt</string>
     <string name="app_label">Tài liệu</string>
     <string name="downloads_label">Tải xuống</string>
     <string name="title_open">Mở từ</string>

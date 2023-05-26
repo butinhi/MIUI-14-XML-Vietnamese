@@ -8,8 +8,8 @@
     <string name="abc_action_mode_done">Xong</string>
     <string name="abc_activity_chooser_view_see_all">Xem tất cả</string>
     <string name="abc_activitychooserview_choose_application">Chọn một ứng dụng</string>
-    <string name="abc_capital_off">TẮT</string>
-    <string name="abc_capital_on">BẬT</string>
+    <string name="abc_capital_off">Tắt</string>
+    <string name="abc_capital_on">Bật</string>
     <string name="abc_menu_space_shortcut_label">phím cách</string>
     <string name="abc_search_hint">Tìm kiếm…</string>
     <string name="abc_searchview_description_clear">Xóa truy vấn</string>
@@ -150,8 +150,8 @@ Lưu ý: Nhấn ba lần để thu phóng toàn bộ trừ bàn phím và thanh 
     <string name="accessibility_shortcut_service_on_lock_screen_title">Cho phép từ màn hình khóa</string>
     <string name="accessibility_shortcut_service_title">Dịch vụ phím tắt</string>
     <string name="accessibility_summary_source">Cung cấp bởi %s</string>
-    <string name="accessibility_summary_state_disabled">TẮT</string>
-    <string name="accessibility_summary_state_enabled">BẬT</string>
+    <string name="accessibility_summary_state_disabled">Tắt</string>
+    <string name="accessibility_summary_state_enabled">Bật</string>
     <string name="accessibility_summary_state_stopped">Không hoạt động. Chạm để xem thông tin.</string>
     <string name="accessibility_sync_disabled">Đồng bộ hóa đã bị tắt</string>
     <string name="accessibility_sync_enabled">Đồng bộ hóa đã được bật</string>
@@ -3758,7 +3758,7 @@ Tiếp tục truy cập cài đặt bổ sung."</string>
     <string name="mobile_data_always_on">Dữ liệu di động luôn kích hoạt</string>
     <string name="mobile_data_always_on_summary">Luôn giữ dữ liệu di động kích hoạt, thậm chí khi Wi‑Fi đang kích hoạt (để chuyển đổi mạng nhanh).</string>
     <string name="mobile_data_ap_mode_disabled">Không khả dụng trong Chế độ máy bay</string>
-    <string name="mobile_data_off">tắt</string>
+    <string name="mobile_data_off">Tắt</string>
     <string name="mobile_data_settings_summary">Truy cập dữ liệu sử dụng mạng di động</string>
     <string name="mobile_data_settings_summary_auto_switch">Điện thoại sẽ tự chuyển sang nhà mạng này khi trong vùng phủ sóng</string>
     <string name="mobile_data_settings_title">Dữ liệu di động</string>
@@ -6828,8 +6828,8 @@ Chạm dấu cộng để thêm từ."</string>
     <string name="user_summary_restricted_profile">Tiểu sử bị hạn chế</string>
     <string name="user_you">Bạn (%s)</string>
     <string name="users_summary">Đã đăng nhập với tên %1$s</string>
-    <string name="v7_preference_off">TẮT</string>
-    <string name="v7_preference_on">BẬT</string>
+    <string name="v7_preference_off">Tắt</string>
+    <string name="v7_preference_on">Bật</string>
     <string name="verify_apps_over_usb_summary">Kiểm tra hành vi gây hại của ứng dụng đã cài đặt qua ADB/ADT.</string>
     <string name="verify_apps_over_usb_title">Xác minh ứng dụng qua USB</string>
     <string name="version_text">Phiên bản %1$s</string>

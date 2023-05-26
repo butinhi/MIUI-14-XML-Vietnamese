@@ -846,7 +846,7 @@
 	<string name="global_wa_setting_alert_time_seven_day">Mỗi tuần</string>
 	<string name="global_wa_item_title_video">Video</string>
 	<string name="global_wa_gif">GIF</string>
-	<string name="v7_preference_off">TẮT</string>
+	<string name="v7_preference_off">Tắt</string>
 	<string name="preference_copied">\"%1$s\" đã sao chép vào clipboard.</string>
 	<string name="abc_searchview_description_submit">Gửi truy vấn</string>
 	<string name="abc_searchview_description_query">Tìm kiếm truy vấn</string>
@@ -854,7 +854,7 @@
 	<string name="abc_action_bar_home_description">Vào Trang bắt đầu</string>
 	<string name="search_menu_title">Tìm kiếm</string>
 	<string name="abc_toolbar_collapse_description">Thu gọn</string>
-	<string name="v7_preference_on">BẬT</string>
+	<string name="v7_preference_on">Bật</string>
 	<string name="abc_activitychooserview_choose_application">Chọn ứng dụng</string>
 	<string name="abc_searchview_description_voice">Tìm kiếm giọng nói</string>
 	<string name="abc_activity_chooser_view_see_all">Xem tất cả</string>
@@ -862,10 +862,10 @@
 	<string name="not_set">Chưa đặt</string>
 	<string name="abc_shareactionprovider_share_with_application">Chia sẻ với %s</string>
 	<string name="abc_searchview_description_search">Tìm kiếm</string>
-	<string name="abc_capital_off">TẮT</string>
+	<string name="abc_capital_off">Tắt</string>
 	<string name="abc_action_mode_done">Hoàn tất</string>
 	<string name="abc_action_bar_up_description">Quay lại</string>
-	<string name="abc_capital_on">BẬT</string>
+	<string name="abc_capital_on">Bật</string>
 	<string name="abc_search_hint">Tìm kiếm...</string>
 	<string name="expand_button_title">Nâng cao</string>
 	<string name="copy">Sao chép</string>

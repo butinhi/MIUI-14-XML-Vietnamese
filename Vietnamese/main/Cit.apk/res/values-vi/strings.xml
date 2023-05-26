@@ -433,8 +433,8 @@ Hãy chạm vào màn hình để bắt đầu GPS…"</string>
     <string name="FpTest_result">Kết quả FpTest:</string>
     <string name="abc_activity_chooser_view_see_all">Xem tất cả</string>
     <string name="abc_activitychooserview_choose_application">Chọn một ứng dụng</string>
-    <string name="abc_capital_off">TẮT</string>
-    <string name="abc_capital_on">BẬT</string>
+    <string name="abc_capital_off">Tắt</string>
+    <string name="abc_capital_on">Bật</string>
     <string name="abc_search_hint">Tìm kiếm...</string>
     <string name="abc_searchview_description_clear">Xóa truy vấn</string>
     <string name="abc_searchview_description_query">Tìm kiếm truy vấn</string>
@@ -1562,7 +1562,7 @@ Hãy nhấn vào đúng nút có số bạn nghe được"</string>
 	<string name="cit_tool_wlan_tx_bg_chan">kênh:</string>
 	<string name="cit_tool_wlan_sniffer">Công cụ WLAN Sniffer</string>
 	<string name="cit_tool_wlan_sniffer_settings">Cài đặt Sniffer</string>
-	<string name="cit_action_off">TẮT</string>
+	<string name="cit_action_off">Tắt</string>
 	<string name="cit_tool_wlan_rxac_test">Rx: ac</string>
 	<string name="cit_tool_wlan_tx_bg_txrt">tốc độ dữ liệu:</string>
 	<string name="cit_tool_wlan_rx_run">CHẠY</string>
@@ -1593,7 +1593,7 @@ Hãy nhấn vào đúng nút có số bạn nghe được"</string>
 	<string name="cit_tool_bluetooth_rx_error">Phát sinh lỗi khi chạy chương trình.</string>
 	<string name="cit_diag_wait">"Xin vui lòng chờ ... Sao chép tập tin"</string>
 	<string name="get_RECEIVER">Loa nghe gọi</string>
-	<string name="cit_action_on">BẬT</string>
+	<string name="cit_action_on">Bật</string>
 	<string name="cit_tool_wlan_rx_exit">Rx: thoát</string>
 	<string name="cit_tool_wlan_rx_ap_name">MT</string>
 	<string name="cit_sar_sensor_collect_cali_description">Hiệu chỉnh và thu thập dữ liệu cảm biến SAR</string>

@@ -150,14 +150,14 @@
 	<string name="abc_activity_chooser_view_see_all">Xem tất cả</string>
 	<string name="abc_shareactionprovider_share_with">Chia sẻ với</string>
 	<string name="abc_shareactionprovider_share_with_application">Chia sẻ với %s</string>
-	<string name="abc_capital_off">TẮT</string>
+	<string name="abc_capital_off">Tắt</string>
 	<string name="abc_searchview_description_search">Tìm kiếm</string>
 	<string name="abc_action_mode_done">Hoàn tất</string>
 	<string name="abc_action_bar_up_description">Quay lại</string>
-	<string name="abc_capital_on">BẬT</string>
+	<string name="abc_capital_on">Bật</string>
 	<string name="abc_search_hint">Tìm kiếm...</string>
 	<string name="abc_searchview_description_clear">Xóa truy vấn</string>
-	<string name="v7_preference_off">TẮT</string>
+	<string name="v7_preference_off">Tắt</string>
 	<string name="passport_error_empty_phone_num">Nhập số điện thoại</string>
 	<string name="passport_next_step">Tiếp theo</string>
 	<string name="app_function">Quản lý tập tin trên thiết bị</string>
@@ -269,7 +269,7 @@
 	<string name="passport_empty_user_name">Tên người dùng không được để trống</string>
 	<string name="error_filename_is_null">"Tên tệp không được trống"</string>
 	<string name="passport_verification_failed">Xác thực thất bại</string>
-	<string name="v7_preference_on">BẬT</string>
+	<string name="v7_preference_on">Bật</string>
 	<string name="file_picker_title">Chọn mục</string>
 	<string name="member_menu_vipname_free">Miễn phí</string>
 	<string name="change_password">Thay đổi mật khẩu</string>

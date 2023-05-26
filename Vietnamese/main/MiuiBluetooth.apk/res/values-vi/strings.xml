@@ -65,8 +65,8 @@
     <string name="abc_action_mode_done">Xong</string>
     <string name="abc_activity_chooser_view_see_all">Xem tất cả</string>
     <string name="abc_activitychooserview_choose_application">Chọn một ứng dụng</string>
-    <string name="abc_capital_off">TẮT</string>
-    <string name="abc_capital_on">BẬT</string>
+    <string name="abc_capital_off">Tắt</string>
+    <string name="abc_capital_on">Bật</string>
     <string name="abc_menu_space_shortcut_label">phím cách</string>
     <string name="abc_search_hint">Tìm kiếm…</string>
     <string name="abc_searchview_description_clear">Xóa truy vấn</string>
@@ -79,8 +79,8 @@
     <string name="abc_toolbar_collapse_description">Thu gọn</string>
     <string name="expand_button_title">Nâng cao</string>
     <string name="search_menu_title">Tìm kiếm</string>
-    <string name="v7_preference_off">TẮT</string>
-    <string name="v7_preference_on">BẬT</string>
+    <string name="v7_preference_off">Tắt</string>
+    <string name="v7_preference_on">Bật</string>
 	<string name="fast_connect_headset_reset">Nhấn và giữ nút trên hộp trong %1$d giây</string>
 	<string name="not_set">Chưa đặt</string>
 	<string name="preference_copied">\"%1$s\" đã sao chép vào clipboard.</string>
@@ -1066,7 +1066,7 @@ Giao thức truyền tải băng thông cao."</string>
 	<string name="wifitrackerlib_osu_sign_up_failed">Không thể hoàn tất đăng ký. Chạm để thử lại.</string>
 	<string name="wifitrackerlib_wifi_check_password_try_again">Kiểm tra mật khẩu và thử lại</string>
 	<string name="material_minute_selection">Chọn phút</string>
-	<string name="wifi_hotspot_switch_on_text">BẬT</string>
+	<string name="wifi_hotspot_switch_on_text">Bật</string>
 	<string name="battery_info_status_charging_wireless">Đang sạc không dây</string>
 	<string name="wifitrackerlib_private_dns_broken">Không thể truy cập máy chủ DNS Riêng tư</string>
 	<string name="material_timepicker_am">SA</string>
@@ -1126,7 +1126,7 @@ Giao thức truyền tải băng thông cao."</string>
 	<string name="material_timepicker_hour">Giờ</string>
 	<string name="accessibility_phone_two_bars">Tín hiệu điện thoại 2 vạch.</string>
 	<string name="accessibility_data_signal_full">Tín hiệu dữ liệu đầy.</string>
-	<string name="wifi_hotspot_switch_off_text">TẮT</string>
+	<string name="wifi_hotspot_switch_off_text">Tắt</string>
 	<string name="wifitrackerlib_saved_network">Được lưu bởi %1$s</string>
 	<string name="wifitrackerlib_speed_label_very_fast">Rất nhanh</string>
 	<string name="carrier_network_change_mode">Đang chuyển mạng</string>

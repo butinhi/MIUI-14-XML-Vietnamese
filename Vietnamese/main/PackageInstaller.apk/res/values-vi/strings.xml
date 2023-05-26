@@ -596,8 +596,8 @@ Cho phép điều này ngay bây giờ và trong tương lai?"</string>
     <string name="screen_zoom_summary_extremely_large">Lớn nhất</string>
     <string name="screen_zoom_summary_custom">Tùy chỉnh (%d)</string>
     <string name="help_feedback_label">Trợ giúp và phản hồi</string>
-    <string name="abc_capital_on">BẬT</string>
-    <string name="abc_capital_off">TẮT</string>
+    <string name="abc_capital_on">Bật</string>
+    <string name="abc_capital_off">Tắt</string>
     <string name="search_menu_title">Tìm kiếm</string>
     <string name="accessibility_manual_zen_less_time">Ít thời gian hơn</string>
     <string name="accessibility_manual_zen_more_time">Nhiều thời gian hơn</string>
@@ -623,8 +623,8 @@ Cho phép điều này ngay bây giờ và trong tương lai?"</string>
     <string name="bluetooth_profile_a2dp_high_quality">Âm thanh HD: %1$s</string>
     <string name="bluetooth_profile_a2dp_high_quality_unknown_codec">Âm thanh HD</string>
     <string name="bluetooth_profile_hearing_aid">Máy trợ thính</string>
-    <string name="v7_preference_off">TẮT</string>
-    <string name="v7_preference_on">BẬT</string>
+    <string name="v7_preference_off">Tắt</string>
+    <string name="v7_preference_on">Bật</string>
     <string name="use_system_language_to_select_input_method_subtypes">Sử dụng ngôn ngữ hệ thống</string>
     <string name="tethering_hardware_offload">Tăng tốc phần cứng Tethering</string>
     <string name="tethering_hardware_offload_summary">Sử dụng tăng tốc phần cứng Tethering nếu khả dụng</string>

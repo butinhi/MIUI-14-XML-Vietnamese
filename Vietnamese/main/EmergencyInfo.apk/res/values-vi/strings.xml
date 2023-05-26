@@ -313,8 +313,8 @@
     <string name="abc_shareactionprovider_share_with_application">Chia sẻ với %s</string>
     <string name="abc_shareactionprovider_share_with">Chia sẻ với</string>
     <string name="status_bar_notification_info_overflow">999+</string>
-    <string name="abc_capital_on">BẬT</string>
-    <string name="abc_capital_off">TẮT</string>
+    <string name="abc_capital_on">Bật</string>
+    <string name="abc_capital_off">Tắt</string>
     <string name="app_label">Thông tin khẩn cấp</string>
     <string name="edit_info">Chỉnh sửa thông tin khẩn cấp</string>
     <string name="tab_title_info">Thông tin</string>
@@ -462,8 +462,8 @@ Hãy kiểm tra tính hợp lệ của chứng chỉ</string>
     <string name="wapi_cert_is_not_exist">Không có chứng chỉ khả dụng, vui lòng cài đặt chứng chỉ trước</string>
     <string name="wapi_auto_sel_cert_fail">Không thể tự động chọn chứng chỉ. Vui lòng chọn chứng chỉ từ danh sách, sau đó thử kết nối.</string>
     <string name="wapi_all_sel_mode">Chế độ chọn</string>
-    <string name="v7_preference_off">TẮT</string>
-    <string name="v7_preference_on">BẬT</string>
+    <string name="v7_preference_off">Tắt</string>
+    <string name="v7_preference_on">Bật</string>
     <string name="use_system_language_to_select_input_method_subtypes">Sử dụng ngôn ngữ hệ thống</string>
     <string name="tethering_hardware_offload">Tăng tốc phần cứng Tethering</string>
     <string name="tethering_hardware_offload_summary">Sử dụng tăng tốc phần cứng Tethering nếu khả dụng</string>
@@ -592,7 +592,7 @@ Hãy kiểm tra tính hợp lệ của chứng chỉ</string>
 	<string name="adb_pair_method_code_summary">Ghép đôi thiết bị mới bằng mã sáu số</string>
 	<string name="wifitrackerlib_osu_sign_up_failed">Không thể hoàn tất đăng ký. Chạm để thử lại.</string>
 	<string name="material_minute_selection">Chọn phút</string>
-	<string name="wifi_hotspot_switch_on_text">BẬT</string>
+	<string name="wifi_hotspot_switch_on_text">Bật</string>
 	<string name="adbwifi_warning_title">Cho phép gỡ lỗi không dây?</string>
 	<string name="wifitrackerlib_private_dns_broken">Không thể truy cập máy chủ DNS Riêng tư</string>
 	<string name="user_switch_to_user">Chuyển sang %s</string>
@@ -657,12 +657,12 @@ Bất kỳ người dùng nào cũng có thể thay mặt cho tất cả ngườ
 	<string name="adb_pair_method_qrcode_title">Ghép đôi thiết bị với mã QR</string>
 	<string name="adb_device_forget">Quên</string>
 	<string name="user_setup_dialog_title">Thiết lập người dùng ngay bây giờ?</string>
-	<string name="cell_data_off_content_description">tắt</string>
+	<string name="cell_data_off_content_description">Tắt</string>
 	<string name="material_timepicker_hour">Giờ</string>
 	<string name="accessibility_phone_two_bars">Tín hiệu điện thoại 2 vạch.</string>
 	<string name="accessibility_data_signal_full">Tín hiệu dữ liệu đầy.</string>
 	<string name="mr_controller_stop_casting">Dừng truyền</string>
-	<string name="wifi_hotspot_switch_off_text">TẮT</string>
+	<string name="wifi_hotspot_switch_off_text">Tắt</string>
 	<string name="wifitrackerlib_saved_network">Được lưu bởi %1$s</string>
 	<string name="carrier_network_change_mode">Đang chuyển mạng</string>
 	<string name="private_dns_broken">Không thể truy cập máy chủ DNS Riêng tư</string>

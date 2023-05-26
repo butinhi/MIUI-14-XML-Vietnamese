@@ -696,8 +696,8 @@
     <string name="abc_action_mode_done">Xong</string>
     <string name="abc_activity_chooser_view_see_all">Xem tất cả</string>
     <string name="abc_activitychooserview_choose_application">Chọn một ứng dụng</string>
-    <string name="abc_capital_off">TẮT</string>
-    <string name="abc_capital_on">BẬT</string>
+    <string name="abc_capital_off">Tắt</string>
+    <string name="abc_capital_on">Bật</string>
     <string name="abc_search_hint">Tìm kiếm…</string>
     <string name="abc_searchview_description_clear">Xóa truy vấn</string>
     <string name="abc_searchview_description_query">Tìm kiếm truy vấn</string>
@@ -827,8 +827,8 @@ Vị trí: %s
     <string name="unknown_genre">Thể loại không rõ</string>
     <string name="unlocked">Đã mở khóa</string>
     <string name="unseekable_stream">Không thể Stream</string>
-    <string name="v7_preference_off">TẮT</string>
-    <string name="v7_preference_on">BẬT</string>
+    <string name="v7_preference_off">Tắt</string>
+    <string name="v7_preference_on">Bật</string>
     <string name="video_error_network_not_available">Không thể kết nối mạng</string>
     <string name="video_error_text_unknown">Đã xảy ra lỗi không xác định.</string>
     <string name="video_error_title">Lỗi không xác định</string>

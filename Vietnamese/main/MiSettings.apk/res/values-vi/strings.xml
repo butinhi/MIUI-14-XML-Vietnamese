@@ -179,10 +179,10 @@
 	<string name="abc_activity_chooser_view_see_all">Xem tất cả</string>
 	<string name="abc_shareactionprovider_share_with_application">Chia sẻ với %s</string>
 	<string name="abc_searchview_description_search">Tìm kiếm</string>
-	<string name="abc_capital_off">TẮT</string>
+	<string name="abc_capital_off">Tắt</string>
 	<string name="abc_action_mode_done">Xong</string>
 	<string name="abc_action_bar_up_description">Điều hướng lên trên</string>
-	<string name="abc_capital_on">BẬT</string>
+	<string name="abc_capital_on">Bật</string>
 	<string name="abc_search_hint">Tìm kiếm…</string>
 	<string name="abc_searchview_description_clear">Xóa truy vấn</string>
 	<string name="network_error">Lỗi kết nối mạng, vui lòng thử lại</string>
@@ -307,7 +307,7 @@
 	<string name="usage_home_premission_second_summary_double_link_suffix" formatted="false">&lt;Data&gt;"Trước khi sử dụng ứng dụng này, đọc và đồng ý với &lt;a href=\"%1s\"&gt;Thỏa thuận Người dùng&lt;/a&gt; và &lt;a href=\"%2s\"&gt;Chính sách Riêng tư&lt;/a&gt; của chúng tôi."&lt;/Data&gt;</string>
 	<string name="chinese_day_20">20</string>
 	<string name="month_november_short">Tháng 11</string>
-	<string name="v7_preference_off">TẮT</string>
+	<string name="v7_preference_off">Tắt</string>
 	<string name="chinese_day_24">24</string>
 	<string name="chinese_day_23">23</string>
 	<string name="chinese_day_22">22</string>
@@ -401,7 +401,7 @@
 	<string name="the_sixth_day">Mùng 6 Tết Nguyên Đán</string>
 	<string name="solar_term_great_cold">Đại Hàn</string>
 	<string name="month_january_short">Tháng 1</string>
-	<string name="v7_preference_on">BẬT</string>
+	<string name="v7_preference_on">Bật</string>
 	<string name="the_united_nations_day">Ngày Liên Hợp Quốc</string>
 	<string name="thursday_shortest">T5</string>
 	<string name="chinese_symbol_animals_rabbit">Mão</string>

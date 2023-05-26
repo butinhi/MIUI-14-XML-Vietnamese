@@ -1349,10 +1349,10 @@ Chờ đến khi đồng bộ hoàn toàn hoặc xem tin nhắn trên máy tính
 	<string name="abc_shareactionprovider_share_with">Chia sẻ với</string>
 	<string name="abc_shareactionprovider_share_with_application">Chia sẻ với %s</string>
 	<string name="abc_searchview_description_search">Tìm kiếm</string>
-	<string name="abc_capital_off">TẮT</string>
+	<string name="abc_capital_off">Tắt</string>
 	<string name="ntes_had_send">Tin nhắn đã gửi</string>
 	<string name="abc_action_bar_up_description">Quay lại</string>
-	<string name="abc_capital_on">BẬT</string>
+	<string name="abc_capital_on">Bật</string>
 	<string name="abc_search_hint">Tìm kiếm...</string>
 	<string name="abc_searchview_description_clear">Xóa truy vấn</string>
 	<string name="abc_action_bar_home_description">Vào Trang bắt đầu</string>
@@ -1445,11 +1445,11 @@ Chờ đến khi đồng bộ hoàn toàn hoặc xem tin nhắn trên máy tính
 	<string name="install_mime_sign_cert">Cài đặt Chứng chỉ Chữ ký S/MIME</string>
 	<string name="account_setting_general_title">Cài đặt tính năng</string>
 	<string name="not_set">Chưa đặt</string>
-	<string name="v7_preference_off">TẮT</string>
+	<string name="v7_preference_off">Tắt</string>
 	<string name="preference_copied">\"%1$s\" đã sao chép vào clipboard.</string>
 	<string name="net_error">Không thể kết nối mạng, hãy thử lại sau</string>
 	<string name="bottom_bar_more_pdf_exporting">Đang xuất…</string>
-	<string name="v7_preference_on">BẬT</string>
+	<string name="v7_preference_on">Bật</string>
 	<string name="invoice_card_amount">Tổng</string>
 	<string name="invoice_card_date">Ngày</string>
 	<string name="message_all_body">Toàn văn</string>
@@ -1505,7 +1505,7 @@ Vui lòng xác nhận xem mật khẩu ứng dụng đã được bật chưa, n
 	<string name="chinese_day_21">21</string>
 	<string name="chinese_day_28">28</string>
 	<string name="chinese_day_27">27</string>
-	<string name="notification_off">TẮT</string>
+	<string name="notification_off">Tắt</string>
 	<string name="the_easter_day">Lễ Phục Sinh</string>
 	<string name="chinese_day_26">26</string>
 	<string name="eras_bc">TCN</string>
@@ -1656,7 +1656,7 @@ Vui lòng xác nhận xem mật khẩu ứng dụng đã được bật chưa, n
 	<string name="earthly_branches_you">Dậu</string>
 	<string name="month_october">Tháng mười</string>
 	<string name="month_february">Tháng hai</string>
-	<string name="notification_on">BẬT</string>
+	<string name="notification_on">Bật</string>
 	<string name="chinese_symbol_animals_snake">Tỵ</string>
 	<string name="chinese_symbol_animals_mouse">Tý</string>
 	<string name="the_night_of_sevens">Lễ Thất Tịch</string>

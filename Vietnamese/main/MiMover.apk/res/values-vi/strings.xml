@@ -910,7 +910,7 @@ Các bước: Mở APP WeChat&gt;My&gt;Cài đặt&gt;Chung&gt;Sao lưu và di c
 	<string name="summary_request_write_settings_prem">Mi Mover cần quyền này để bật Wi-Fi và tạo điểm phát để chuyển tệp.</string>
 	<string name="waiting_restore_aod">Đang khôi phục Màn hình luôn bật…</string>
 	<string name="host_new_device_hint">Tên địa phương</string>
-	<string name="v7_preference_off">TẮT</string>
+	<string name="v7_preference_off">Tắt</string>
 	<string name="abc_searchview_description_submit">Gửi truy vấn</string>
 	<string name="abc_searchview_description_query">Tìm kiếm truy vấn</string>
 	<string name="miuix_sbl_tracking_progress_labe_release_to_refresh">Thả ra để làm mới</string>
@@ -918,7 +918,7 @@ Các bước: Mở APP WeChat&gt;My&gt;Cài đặt&gt;Chung&gt;Sao lưu và di c
 	<string name="search_menu_title">Tìm kiếm</string>
 	<string name="miuix_appcompat_deselect_all_description">Bỏ chọn tất cả</string>
 	<string name="abc_toolbar_collapse_description">Thu gọn</string>
-	<string name="v7_preference_on">BẬT</string>
+	<string name="v7_preference_on">Bật</string>
 	<string name="abc_activitychooserview_choose_application">Chọn một ứng dụng</string>
 	<string name="miuix_appcompat_confirm_description">Xác nhận</string>
 	<string name="miuix_appcompat_action_mode_select_all">Chọn tất cả</string>
@@ -928,11 +928,11 @@ Các bước: Mở APP WeChat&gt;My&gt;Cài đặt&gt;Chung&gt;Sao lưu và di c
 	<string name="not_set">Chưa đặt</string>
 	<string name="abc_shareactionprovider_share_with_application">Chia sẻ với %s</string>
 	<string name="abc_searchview_description_search">Tìm kiếm</string>
-	<string name="abc_capital_off">TẮT</string>
+	<string name="abc_capital_off">Tắt</string>
 	<string name="miuix_appcompat_select_all">Chọn tất cả</string>
 	<string name="miuix_appcompat_action_mode_title_empty">Chọn mục</string>
 	<string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">Thất bại</string>
-	<string name="abc_capital_on">BẬT</string>
+	<string name="abc_capital_on">Bật</string>
 	<string name="miuix_appcompat_delete_description">Xóa</string>
 	<string name="month_may_shortest">Thg 5</string>
 	<string name="abc_search_hint">Tìm kiếm…</string>

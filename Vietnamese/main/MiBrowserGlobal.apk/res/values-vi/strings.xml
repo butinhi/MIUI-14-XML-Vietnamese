@@ -86,7 +86,7 @@ ID:%s
 Vui lòng gửi mã này cho nhân viên kỹ thuật."</string>
 	<string name="js_disable_confirm_message">Tắt JavaScript có thể làm một số trang web hiển thị không chính xác.</string>
 	<string name="chinese_digit_ten">10</string>
-	<string name="abc_capital_on">BẬT</string>
+	<string name="abc_capital_on">Bật</string>
 	<string name="empty_snapshot_hint">Trống</string>
 	<string name="file_info_ishidden">Ẩn:</string>
 	<string name="go_supermarket_title">Nhiều ứng dụng, tốc độ nhanh và ít sử dụng dữ liệu hơn trên Chợ Ứng dụng</string>
@@ -197,7 +197,7 @@ Rời khỏi trang này bây giờ?"</string>
 	<string name="miuix_appcompat_confirm_description">Xác nhận</string>
 	<string name="passport_user_id_intro">Đăng nhập %1$s</string>
 	<string name="solar_term_grain_rain">Cốc Vũ</string>
-	<string name="abc_capital_off">TẮT</string>
+	<string name="abc_capital_off">Tắt</string>
 	<string name="solar_term_the_rains">Vũ Thủy</string>
 	<string name="suggest_access_item_app_size">%.2fMB</string>
 	<string name="passport_error_empty_pwd">Mật khẩu không thể để trống</string>
@@ -1292,7 +1292,7 @@ Trang mà bạn xem sẽ không xuất hiện trong lịch sử."</string>
 	<string name="mw_time_picker_dialog_title">Đặt thời gian</string>
 	<string name="action_mode_select_all">Chọn tất cả</string>
 	<string name="up_to_loading_tips">Thả ra để làm mới</string>
-	<string name="v7_preference_on">BẬT</string>
+	<string name="v7_preference_on">Bật</string>
 	<string name="encrypting">Đang mã hóa…</string>
 	<string name="mw_save_password_message">Nhớ mật khẩu này?</string>
 	<string name="mw_week_picker_dialog_title">Đặt tuần</string>
@@ -1392,7 +1392,7 @@ Trang mà bạn xem sẽ không xuất hiện trong lịch sử."</string>
 	<string name="pref_force_userscalable_summary">Thay đổi yêu cầu trang web để kiểm soát hành vi thu phóng</string>
 	<string name="cloud_sync_failed_toast">Không thể cập nhật</string>
 	<string name="contextmenu_openlink_newwindow_background">Mở trong thẻ nền mới</string>
-	<string name="mw_abc_capital_on">BẬT</string>
+	<string name="mw_abc_capital_on">Bật</string>
 	<string name="mw_miuichromium_error_page_network_hijack">Mạng hiện tại không an toàn</string>
 	<string name="channel_name">Tải xuống</string>
 	<string name="more">Thêm</string>
@@ -1469,7 +1469,7 @@ Trang mà bạn xem sẽ không xuất hiện trong lịch sử."</string>
 	<string name="pref_file_download_default_path_prefix">Vị trí mặc định: %s</string>
 	<string name="account_bind_secure_email_title">Thêm email phục hồi</string>
 	<string name="permission_non_essential">Quyền tùy chọn</string>
-	<string name="v7_preference_off">TẮT</string>
+	<string name="v7_preference_off">Tắt</string>
 	<string name="account_user_avatar_from_album">Album</string>
 	<string name="the_easter_day">Lễ Phục Sinh</string>
 	<string name="enable_geolocation_confirm_message">Tắt dịch vụ vị trí sẽ ảnh hưởng đến dịch vụ được kiến nghị.</string>
@@ -1892,7 +1892,7 @@ Trang mà bạn xem sẽ không xuất hiện trong lịch sử."</string>
 	<string name="card_game_title_1">Đề xuất hàng ngày</string>
 	<string name="common_google_play_services_enable_title">Bật dịch vụ của Google Play</string>
 	<string name="common_google_play_services_enable_text">%1$s sẽ không hoạt động nếu bạn không bật dịch vụ của Google Play.</string>
-	<string name="mw_abc_capital_off">TẮT</string>
+	<string name="mw_abc_capital_off">Tắt</string>
 	<string name="collect_video">Sưu tập video</string>
 	<string name="mw_miuichromium_error_page_problem_cannot_reach_site_reason_reason_invalid_address">Không thể truy cập trang web này. Địa chỉ IP hoặc số cổng không hợp lệ.</string>
 	<string name="psw_hint">Mật khẩu</string>

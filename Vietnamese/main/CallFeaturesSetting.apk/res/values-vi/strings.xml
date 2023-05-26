@@ -40,8 +40,8 @@
     <string name="mins">" phút"</string>
     <string name="mobile_data">Dữ liệu di động</string>
     <string name="mobile_data_alert">Lưu lượng dữ liệu có thể được tạo trên thẻ thứ hai</string>
-    <string name="mobile_data_off">tắt</string>
-    <string name="mobile_data_on">bật</string>
+    <string name="mobile_data_off">Tắt</string>
+    <string name="mobile_data_on">Bật</string>
     <string name="no_call_barring">Không chặn cuộc gọi</string>
     <string name="no_mobile_data">Dữ liệu di động không khả dụng</string>
     <string name="no_mobile_data_roaming">Chuyển vùng dữ liệu không khả dụng</string>

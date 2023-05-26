@@ -6,8 +6,8 @@
     <string name="abc_action_mode_done">Xong</string>
     <string name="abc_activity_chooser_view_see_all">Xem tất cả</string>
     <string name="abc_activitychooserview_choose_application">Chọn một ứng dụng</string>
-    <string name="abc_capital_off">TẮT</string>
-    <string name="abc_capital_on">BẬT</string>
+    <string name="abc_capital_off">Tắt</string>
+    <string name="abc_capital_on">Bật</string>
     <string name="abc_menu_alt_shortcut_label">Alt+</string>
     <string name="abc_menu_ctrl_shortcut_label">Ctrl+</string>
     <string name="abc_menu_delete_shortcut_label">delete</string>
@@ -1720,8 +1720,8 @@ Thời gian tiếp theo bắt đầu trong %2$d ngày (%3$s)"</string>
     <string name="username_title">Tên người dùng</string>
     <string name="ussdRunning">Mã USSD đang chạy…</string>
     <string name="ut_not_support">UT không khả dụng</string>
-    <string name="v7_preference_off">TẮT</string>
-    <string name="v7_preference_on">BẬT</string>
+    <string name="v7_preference_off">Tắt</string>
+    <string name="v7_preference_on">Bật</string>
     <string name="verify_apps_over_usb_summary">Kiểm tra các ứng dụng được cài đặt qua ADB/ADT để xem có hoạt động gây hại hay không.</string>
     <string name="verify_apps_over_usb_title">Xác minh ứng dụng qua USB</string>
     <string name="vice_card_data_in_use_alert">Có thể phát sinh thêm phí dữ liệu.</string>
@@ -2173,7 +2173,7 @@ Chứng chỉ bộ nhớ có thể không bật</string>
 	<string name="lgu_emm_cause_7_14">"Mạng không cung cấp dịch vụ dữ liệu di động"</string>
 	<string name="skt_msim_emm_cause_7_8_15">"SIM %d không thể đăng ký mạng. Tắt thiết bị, bật lại rồi thử lại. Nếu bạn vẫn gặp vấn đề đó, liên hệ hỗ trợ khách hàng (1599-0011)."</string>
 	<string name="preferred_network_mode_nr_lte_wcdma_summary">Chế độ mạng ưa thích: NR/LTE/WCDMA</string>
-	<string name="switch_on">BẬT</string>
+	<string name="switch_on">Bật</string>
 	<string name="wapi_cert_manage_summary">Thêm hoặc xóa chứng chỉ WAPI</string>
 	<string name="autoip_current_areacode_summary">Mã vùng vị trí hiện tại của bạn</string>
 	<string name="dialog_ota_change_number_lgu_roaming">"Không thể thay đổi số điện thoại khi đang ở nước ngoài."</string>
@@ -2388,7 +2388,7 @@ Giao diện UT: %5$s"</string>
 	<string name="wfc_provisioned_switch_string">Đã cấp phép gọi điện qua Wi-Fi</string>
 	<string name="radio_info_cellinfo_label">Tấtcả thông tin đo lường di động:</string>
 	<string name="autoip_current_areacode">Mã vùng hiện tại</string>
-	<string name="switch_off">TẮT</string>
+	<string name="switch_off">Tắt</string>
 	<string name="reset_roaming_title">Đặt lại chuyển vùng</string>
 	<string name="miuix_sbl_tracking_progress_labe_up_nodata">Không có dữ liệu</string>
 	<string name="radioInfo_display_bytes">byte</string>

@@ -6,8 +6,8 @@
     <string name="abc_action_mode_done">Xong</string>
     <string name="abc_activity_chooser_view_see_all">Xem tất cả</string>
     <string name="abc_activitychooserview_choose_application">Chọn một ứng dụng</string>
-    <string name="abc_capital_off">TẮT</string>
-    <string name="abc_capital_on">BẬT</string>
+    <string name="abc_capital_off">Tắt</string>
+    <string name="abc_capital_on">Bật</string>
     <string name="abc_menu_alt_shortcut_label">Alt+</string>
     <string name="abc_menu_ctrl_shortcut_label">Ctrl+</string>
     <string name="abc_menu_delete_shortcut_label">delete</string>
@@ -4082,8 +4082,8 @@ Nếu không muốn chia sẻ thông tin, bạn có thể tắt tính năng này
     <string name="userinfo_xiaomi_account">Tài khoản Mi:</string>
     <string name="userinfo_year">Năm</string>
     <string name="userinfo_yes">Có</string>
-    <string name="v7_preference_off">TẮT</string>
-    <string name="v7_preference_on">BẬT</string>
+    <string name="v7_preference_off">Tắt</string>
+    <string name="v7_preference_on">Bật</string>
     <string name="v_code_title">Nhập mã xác minh</string>
     <string name="web_continue">Tiếp tục</string>
     <string name="web_not_find_app">Không tìm thấy ứng dụng.</string>

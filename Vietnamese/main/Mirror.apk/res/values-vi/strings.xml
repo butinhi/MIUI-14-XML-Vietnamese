@@ -3,7 +3,7 @@
 	<string name="cancel">Hủy</string>
 	<string name="chinese_day_20">20</string>
 	<string name="month_november_short">Tháng 11</string>
-	<string name="v7_preference_off">TẮT</string>
+	<string name="v7_preference_off">Tắt</string>
 	<string name="chinese_day_24">24</string>
 	<string name="chinese_day_23">23</string>
 	<string name="chinese_day_22">22</string>
@@ -109,7 +109,7 @@
 	<string name="the_sixth_day">Mùng 6 Tết Nguyên Đán</string>
 	<string name="solar_term_great_cold">Đại Hàn</string>
 	<string name="month_january_short">Tháng 1</string>
-	<string name="v7_preference_on">BẬT</string>
+	<string name="v7_preference_on">Bật</string>
 	<string name="download_failed">Không thể tải xuống</string>
 	<string name="the_united_nations_day">Ngày Liên Hợp Quốc</string>
 	<string name="settings_home_device_disconnect">Ngắt kết nối</string>
@@ -117,7 +117,7 @@
 	<string name="notify_connected_action_button">Ngắt kết nối</string>
 	<string name="chinese_symbol_animals_rabbit">Mão</string>
 	<string name="chinese_digit_ten">10</string>
-	<string name="abc_capital_on">BẬT</string>
+	<string name="abc_capital_on">Bật</string>
 	<string name="thursday_short">Th 5</string>
 	<string name="chinese_month_april">4</string>
 	<string name="month_july">Tháng bảy</string>
@@ -266,7 +266,7 @@
 	<string name="heavenly_stems_yi">"Ất "</string>
 	<string name="chinese_month_may">5</string>
 	<string name="heavenly_stems_jia">"Giáp "</string>
-	<string name="abc_capital_off">TẮT</string>
+	<string name="abc_capital_off">Tắt</string>
 	<string name="heavenly_stems_bing">"Bính "</string>
 	<string name="solar_term_the_rains">Vũ Thủy</string>
 	<string name="downloading">Đang tải xuống…</string>
@@ -475,7 +475,7 @@
 	<string name="settings_permission_description">Chi tiết quyền</string>
 	<string name="pad_settings_handoff_video_title">Video</string>
 	<string name="loading_view_abort_close_text">Đóng</string>
-	<string name="pad_settings_handoff_disable">TẮT</string>
+	<string name="pad_settings_handoff_disable">Tắt</string>
 	<string name="pad_settings_handoff_wps_title">Tài liệu</string>
 	<string name="cast_mcc_tips_button_cancel">Bỏ qua</string>
 	<string name="invisible_mode_dialog_cancel">Hủy</string>

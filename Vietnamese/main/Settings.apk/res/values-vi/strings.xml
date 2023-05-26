@@ -497,8 +497,8 @@
     <string name="abc_activity_chooser_view_see_all">Xem tất cả</string>
     <string name="abc_shareactionprovider_share_with_application">Chia sẻ với %s</string>
     <string name="abc_shareactionprovider_share_with">Chia sẻ với</string>
-    <string name="abc_capital_on">BẬT</string>
-    <string name="abc_capital_off">TẮT</string>
+    <string name="abc_capital_on">Bật</string>
+    <string name="abc_capital_off">Tắt</string>
     <string name="menu_item_show_more">Hiển thị thêm</string>
     <string name="ringtone_mute">Không</string>
     <string name="title_system_resource">Tài nguyên hệ thống</string>
@@ -5299,8 +5299,8 @@ Bạn không thể phóng to trên bàn phím hoặc thanh điều hướng."</s
     <string name="accessibility_shortcut_description">Khi phím tắt được bật, bạn có thể nhấn cả hai nút âm lượng trong 3 giây để khởi động tính năng trợ năng.</string>
     <string name="accessibility_shortcut_service_on_lock_screen_title">Cho phép từ màn hình khóa</string>
     <string name="accessibility_shortcut_service_title">Dịch vụ phím tắt</string>
-    <string name="accessibility_summary_state_disabled">TẮT</string>
-    <string name="accessibility_summary_state_enabled">BẬT</string>
+    <string name="accessibility_summary_state_disabled">Tắt</string>
+    <string name="accessibility_summary_state_enabled">Bật</string>
     <string name="account_dashboard_title">Người dùng và tài khoản</string>
     <string name="account_for_section_header">Tài khoản cho %1$s</string>
     <string name="account_sync_title">Đồng bộ hóa tài khoản</string>
@@ -7491,8 +7491,8 @@ Thử sử dụng ^3 nhanh hơn, hoặc sử dụng ^4 này làm bộ nhớ di �
     <string name="usb_use_tethering">Chia sẻ kết nối qua USB</string>
     <string name="use_open_wifi_automatically_summary_scorer_unsupported_disabled">Để sử dụng, chọn nhà cung cấp xếp hạng mạng ưa thích</string>
     <string name="use_open_wifi_automatically_summary_scoring_disabled">Để sử dụng, chọn nhà cung cấp xếp hạng mạng</string>
-    <string name="v7_preference_off">TẮT</string>
-    <string name="v7_preference_on">BẬT</string>
+    <string name="v7_preference_off">Tắt</string>
+    <string name="v7_preference_on">Bật</string>
     <string name="vibrate_on_touch_summary">Phản hồi xúc giác cho chạm, bàn phím và hơn thế nữa</string>
     <string name="vision_settings_suggestion_title">Thay đổi kích thước phông chữ</string>
     <string name="wapi_all_sel_mode">Chọn chế độ</string>
@@ -9421,7 +9421,7 @@ Vui lòng xem lại Chính sách Riêng tư của nhà cung cấp dịch vụ."<
 	<string name="load_networks_progress">Đang tìm kiếm…</string>
 	<string name="loading_injected_setting_summary">Đang tải…</string>
 	<string name="media_transfer_this_device_name">Thiết bị này</string>
-	<string name="mobile_data_off">tắt</string>
+	<string name="mobile_data_off">Tắt</string>
 	<string name="mobile_data_settings_summary">Truy cập dữ liệu sử dụng mạng di động</string>
 	<string name="mobile_data_settings_title">Dữ liệu di động</string>
 	<string name="mr_button_content_description">Nút truyền</string>
@@ -10202,7 +10202,7 @@ Nếu bạn không đồng ý cấp các quyền đó, bạn sẽ không thể s
 	<string name="certificate_warning_install_anyway">Vẫn cài đặt</string>
 	<string name="zen_mode_from_no_conversations">Không</string>
 	<string name="adb_wireless_device_connected_summary">Đang kết nối</string>
-	<string name="zen_mode_turned_on">BẬT</string>
+	<string name="zen_mode_turned_on">Bật</string>
 	<string name="network_4G_pure">4G</string>
 	<string name="keywords_app_pinning">Ghim màn hình</string>
 	<string name="wifi_add_app_single_network_saving_summary">Đang lưu…</string>
@@ -10249,12 +10249,12 @@ Nếu bạn không đồng ý cấp các quyền đó, bạn sẽ không thể s
 	<string name="select_invalid_bug_report_handler_toast_text">Chọn lựa này đã không còn hiệu lực. Thử lại.</string>
 	<string name="storage_category">Lưu trữ</string>
 	<string name="notification_conversation_important">Quan trọng</string>
-	<string name="zen_mode_turned_off">TẮT</string>
+	<string name="zen_mode_turned_off">Tắt</string>
 	<string name="accessibility_autoclick_medium_title">Giữa</string>
 	<string name="adb_wireless_device_details_title">Thông tin thiết bị</string>
 	<string name="connected_device_other_device_title">Thiết bị khác</string>
 	<string name="dark_ui_summary_on_auto_mode_custom">Sẽ tự động tắt lúc %1$s.</string>
-	<string name="accessibility_autoclick_default_title">TẮT</string>
+	<string name="accessibility_autoclick_default_title">Tắt</string>
 	<string name="zen_mode_summary">Im lặng và tắt rung trừ báo thức</string>
 	<string name="dark_ui_auto_mode_auto">Tối đến sáng</string>
 	<string name="zen_mode_contacts_count_none">Không</string>
@@ -10298,11 +10298,11 @@ Nếu bạn không đồng ý cấp các quyền đó, bạn sẽ không thể s
 	<string name="battery_info_status_charging_slow">Đang sạc chậm</string>
 	<string name="dark_ui_activation_off_manual">Tắt ngay</string>
 	<string name="dsu_loader_loading">Đang tải</string>
-	<string name="private_dns_mode_on">BẬT</string>
+	<string name="private_dns_mode_on">Bật</string>
 	<string name="wifi_add_app_single_network_saved_summary">Đã lưu</string>
 	<string name="dark_ui_activation_on_auto">Bật đến khi bình minh</string>
 	<string name="confirmation_turn_on">Bật</string>
-	<string name="accessibility_summary_shortcut_disabled">TẮT</string>
+	<string name="accessibility_summary_shortcut_disabled">Tắt</string>
 	<string name="zen_mode_title">Không làm phiền</string>
 	<string name="dark_ui_activation_off_auto">Tắt đến khi hoàng hôn</string>
 	<string name="captioning_more_options_title">Thêm tùy chọn</string>
@@ -10535,11 +10535,11 @@ Vuốt xuống từ cạnh trên màn hình để mở bảng thông báo, sau �
 	<string name="exceptional_case">Danh sách ngoại lệ</string>
 	<string name="plmn_failure_radio_off">Chọn mạng thất bại do radio TẮT hoặc không khả dụng</string>
 	<string name="keywords_vibrate_for_calls">Rung</string>
-	<string name="wifi_ap_ssid_off">TẮT</string>
+	<string name="wifi_ap_ssid_off">Tắt</string>
 	<string name="zen_mode_effected_always">Luôn bật</string>
 	<string name="reading_settings">Cài đặt đọc…</string>
 	<string name="keywords_wifi_display_settings">Gương</string>
-	<string name="wifi_ap_ssid_on">BẬT</string>
+	<string name="wifi_ap_ssid_on">Bật</string>
 	<string name="time_zen_mode_turn_on">Bắt đầu</string>
 	<string name="dialog_network_priority_title">Ưu tiên</string>
 	<string name="uplmn_list_setting_add_plmn">PLMN mới</string>
@@ -10926,8 +10926,8 @@ Chức năng này chỉ nhận được địa chỉ MAC Wi-Fi của bạn để
 	<string name="wifi_wakeup_positive_button">Bật</string>
 	<string name="silent_mode_disable_media">Im lặng tất cả</string>
 	<string name="silent_mode_toggle_title">Chế độ im lặng</string>
-	<string name="not_enabled">TẮT</string>
-	<string name="enabled">BẬT</string>
+	<string name="not_enabled">Tắt</string>
+	<string name="enabled">Bật</string>
 	<string name="sync_success">Đồng bộ thành công</string>
 	<string name="zen_mode_always">Luôn luôn</string>
 	<string name="exterior">Bảng màu</string>
@@ -10978,8 +10978,8 @@ Chức năng này chỉ nhận được địa chỉ MAC Wi-Fi của bạn để
 	<string name="screen_enhance_engine_sr_title">Siêu phân giải</string>
 	<string name="audio_share_cancel">Không, cảm ơn</string>
 	<string name="audio_share_confirm">Chia sẻ</string>
-	<string name="screen_enhance_status_enable">BẬT</string>
-	<string name="screen_enhance_status_disable">TẮT</string>
+	<string name="screen_enhance_status_enable">Bật</string>
+	<string name="screen_enhance_status_disable">Tắt</string>
 	<string name="miheadset_bright">Sáng</string>
 	<string name="miheadset_openAnc">Khử nhiễu</string>
 	<string name="gxzw_anim_dialog_cancel_enroll">Hủy</string>
@@ -10998,7 +10998,7 @@ Chức năng này chỉ nhận được địa chỉ MAC Wi-Fi của bạn để
 	<string name="gxzw_anim_dialog_title">Thêm vân tay</string>
 	<string name="miheadset_RightEar">Bên phải</string>
 	<string name="miheadset_rename">Đổi tên</string>
-	<string name="miheadset_closeAnc">TẮT</string>
+	<string name="miheadset_closeAnc">Tắt</string>
 	<string name="font_settings_jump">Khả năng truy cập &gt; Kích thước hiển thị</string>
 	<string name="intelligence_suppression_title">Tự động (đề xuất)</string>
 	<string name="wallet_reset_cancel_btn">Bỏ qua</string>
@@ -11121,12 +11121,12 @@ Chức năng này chỉ nhận được địa chỉ MAC Wi-Fi của bạn để
 	<string name="haptic_preview">Trình diễn</string>
 	<string name="provision_skip_underline">Bỏ qua</string>
 	<string name="back">Quay lại</string>
-	<string name="flashback_status_open">BẬT</string>
+	<string name="flashback_status_open">Bật</string>
 	<string name="sound_settings_tab_haptic">Chạm</string>
 	<string name="accessibility_haptic">Khả năng truy cập</string>
 	<string name="flashback_support_apps_title">Chọn ứng dụng để thêm từ bên dưới</string>
 	<string name="special_preview">Trình diễn</string>
-	<string name="flashback_status_close">TẮT</string>
+	<string name="flashback_status_close">Tắt</string>
 	<string name="switch_bootup_sound">Nhạc chuông khởi động</string>
 	<string name="bluetooth_blacklist_cancel_remove_device">Hủy</string>
 	<string name="system_touch">Phản hồi xúc giác</string>
@@ -11274,20 +11274,20 @@ Chức năng này chỉ nhận được địa chỉ MAC Wi-Fi của bạn để
 	<string name="bluetooth_le_audio_profile_summary_connected">Đã kết nối LE_AUDIO</string>
 	<string name="miheadset_key_config_gesture_control">Cử chỉ</string>
 	<string name="wifi_assistant_prompt">Trợ lý Wi-Fi</string>
-	<string name="miheadset_key_config_close">TẮT</string>
+	<string name="miheadset_key_config_close">Tắt</string>
 	<string name="miheadset_key_config_volume_up">Phím Tăng âm lượng</string>
 	<string name="wifi_assistant_prompt_button">Tôi biết</string>
 	<string name="miheadset_key_config_volume_down">Phím Giảm âm lượng</string>
-	<string name="miheadset_ancClosed">TẮT</string>
+	<string name="miheadset_ancClosed">Tắt</string>
 	<string name="miheadset_ancLow">Thấp</string>
 	<string name="title_special_features_health_global">Nhịp tim</string>
 	<string name="miheadset_transparentMode">Trong suốt</string>
-	<string name="miui_sos_pa_turn_off">TẮT</string>
+	<string name="miui_sos_pa_turn_off">Tắt</string>
 	<string name="wifi_assistant_keep_wifi_connection">Không, cảm ơn</string>
 	<string name="miheadset_ancMedium">Giữa</string>
 	<string name="device_activation_info">Kích hoạt thiết bị</string>
 	<string name="miheadset_ancHigh">Cao</string>
-	<string name="miui_sos_pa_turn_on">BẬT</string>
+	<string name="miui_sos_pa_turn_on">Bật</string>
 	<string name="miheadset_key_config_call_ai">Trợ lý thoại</string>
 	<string name="miheadset_key_config_next_music">Bài tiếp theo</string>
 	<string name="bt_leaudio_open_dialog_title">Chú ý</string>
@@ -11616,7 +11616,7 @@ Bạn chưa từng kết nối với %2$s trước đó."</string>
 	<string name="solar_term_great_heat">Đại Thử</string>
 	<string name="month_september_short">Tháng 9</string>
 	<string name="the_spring_festival">Tết Nguyên Đán</string>
-	<string name="charge_animation_style_none">TẮT</string>
+	<string name="charge_animation_style_none">Tắt</string>
 	<string name="month_july_short">Tháng 7</string>
 	<string name="earthly_branches_hai">Hợi</string>
 	<string name="the_water_lantern_festival">Tết Hạ Nguyên</string>
@@ -11744,8 +11744,8 @@ Sao chép tệp tin sao lưu vào thiết bị của bạn (MIUI-backup-AllBacku
     <string name="kddi_nfc_quick_toggle_summary">Bật tính năng NFC/Osaifu-keitai</string>
     <string name="gxzw_anim_unlock_effect">%s hiệu ứng vân tay</string>
     <string name="kddi_nfc_disabled_summary">Không khả dụng vì NFC/Osaifu-keitai đã tắt</string>
-	<string name="voip_assistant_settings_off">TẮT</string>
-	<string name="voip_assistant_settings_on">BẬT</string>
+	<string name="voip_assistant_settings_off">Tắt</string>
+	<string name="voip_assistant_settings_on">Bật</string>
     <string name="voip_assistant_settings_summary">Ghi lại các cuộc gọi VoIP và sử dụng tính năng tối ưu hóa giọng nói</string>
 	<string name="enable_local_backup_title">Sao lưu trên máy</string>
 	<string name="enable_local_backup_cancel">Hủy</string>
@@ -11772,8 +11772,8 @@ Sao chép tệp tin sao lưu vào thiết bị của bạn (MIUI-backup-AllBacku
     <string name="lock_sound_effect_enable_title">Phát âm thanh khi khóa thiết bị</string>
 	<string name="shoulder_key_settings">Nút ở cạnh</string>
 	<string name="color_game_led_color_title">Màu đèn</string>
-	<string name="color_game_led_feature_on">BẬT</string>
-	<string name="color_game_led_feature_off">TẮT</string>
+	<string name="color_game_led_feature_on">Bật</string>
+	<string name="color_game_led_feature_off">Tắt</string>
 	<string name="shoulder_key_switch_status_open">Đã bật</string>
     <string name="shoulder_key_switch_status_close">Đã đóng</string>
     <string name="shoulder_key_sound_text_current">Đánh thức tương lai</string>
@@ -11886,7 +11886,7 @@ Sao chép tệp tin sao lưu vào thiết bị của bạn (MIUI-backup-AllBacku
 	<string name="wifitrackerlib_osu_sign_up_failed">Không thể hoàn tất đăng ký. Chạm để thử lại.</string>
 	<string name="manager_battery_usage_restricted_title">Đã giới hạn</string>
 	<string name="material_minute_selection">Chọn phút</string>
-	<string name="wifi_hotspot_switch_on_text">BẬT</string>
+	<string name="wifi_hotspot_switch_on_text">Bật</string>
 	<string name="storage_trash">Rác</string>
 	<string name="wifitrackerlib_private_dns_broken">Không thể truy cập máy chủ DNS Riêng tư</string>
 	<string name="storage_trash_dialog_confirm">Xóa sạch Thùng rác</string>
@@ -11916,7 +11916,7 @@ Sao chép tệp tin sao lưu vào thiết bị của bạn (MIUI-backup-AllBacku
 	<string name="wifitrackerlib_speed_label_fast">Nhanh</string>
 	<string name="autofill_passwords">Mật khẩu</string>
 	<string name="wifitrackerlib_wifi_passpoint_expired">Đã hết hạn</string>
-	<string name="adaptive_connectivity_switch_off">TẮT</string>
+	<string name="adaptive_connectivity_switch_off">Tắt</string>
 	<string name="location_time_zone_detection_location_is_off_dialog_ok_button">Cài đặt Vị trí</string>
 	<string name="do_not_disturb_main_switch_title_off">Bật ngay</string>
 	<string name="sim_action_reboot">Khởi động lại</string>
@@ -11925,12 +11925,12 @@ Sao chép tệp tin sao lưu vào thiết bị của bạn (MIUI-backup-AllBacku
 	<string name="accessibility_button_title">Nút Trợ năng</string>
 	<string name="main_clear_final_desc_esim">Tất cả thông tin cá nhân của bạn, bao gồm ứng dụng đã tải xuống &amp; SIM, sẽ bị xóa. Bạn không thể hoàn tác hành động này.</string>
 	<string name="sim_switch_button">Chuyển</string>
-	<string name="nfc_setting_on">BẬT</string>
+	<string name="nfc_setting_on">Bật</string>
 	<string name="calls_preference_title">Gọi</string>
 	<string name="mr_dialog_default_group_name">Nhóm</string>
 	<string name="accessibility_toggle_primary_mono_summary">Kết hợp kênh khi phát âm thanh</string>
 	<string name="material_hour_suffix">"%1$s giờ"</string>
-	<string name="nfc_setting_off">TẮT</string>
+	<string name="nfc_setting_off">Tắt</string>
 	<string name="conversation_notifs_category">Hội thoại</string>
 	<string name="wifitrackerlib_wifi_disconnected">Đã ngắt kết nối</string>
 	<string name="smart_forwarding_input_mdn_dialog_title">Nhập số điện thoại</string>
@@ -11949,7 +11949,7 @@ Sao chép tệp tin sao lưu vào thiết bị của bạn (MIUI-backup-AllBacku
 	<string name="accessibility_toggle_primary_balance_title">Cân bằng âm thanh</string>
 	<string name="wifitrackerlib_wifi_metered_label">Đã đo</string>
 	<string name="material_slider_range_end">Khoảng kết thúc,</string>
-	<string name="screen_pinning_switch_off_text">TẮT</string>
+	<string name="screen_pinning_switch_off_text">Tắt</string>
 	<string name="network_and_internet_preferences_title">Tùy chọn mạng</string>
 	<string name="storage_apps">Ứng dụng</string>
 	<string name="bluetooth_connect_access_dialog_positive">Kết nối</string>
@@ -11965,7 +11965,7 @@ Bạn hiện đã đăng nhập vào các tài khoản sau đây:
 	<string name="accessibility_data_signal_full">Tín hiệu dữ liệu đầy.</string>
 	<string name="accessibility_phone_two_bars">Tín hiệu điện thoại 2 vạch.</string>
 	<string name="wifitrackerlib_saved_network">Được lưu bởi %1$s</string>
-	<string name="wifi_hotspot_switch_off_text">TẮT</string>
+	<string name="wifi_hotspot_switch_off_text">Tắt</string>
 	<string name="app_notification_field">Cài đặt ứng dụng</string>
 	<string name="category_name_general">Chung</string>
 	<string name="carrier_network_change_mode">Đang chuyển mạng</string>
@@ -11982,7 +11982,7 @@ Bạn hiện đã đăng nhập vào các tài khoản sau đây:
 	<string name="material_slider_range_start">Khoảng bắt đầu,</string>
 	<string name="exposed_dropdown_menu_content_description">Hiển thị menu</string>
 	<string name="game_settings_title">Cài đặt trò chơi</string>
-	<string name="auto_rotate_option_off">TẮT</string>
+	<string name="auto_rotate_option_off">Tắt</string>
 	<string name="accessibility_service_primary_switch_title">Sử dụng %1$s</string>
 	<string name="media_transfer_this_phone">Thiết bị này</string>
 	<string name="biometric_settings_use_biometric_unlock_phone">Mở khóa thiết bị</string>
@@ -11990,7 +11990,7 @@ Bạn hiện đã đăng nhập vào các tài khoản sau đây:
 	<string name="general_notification_header">Quản lý hội nghị</string>
 	<string name="keywords_media_controls">Phương tiện</string>
 	<string name="accessibility_data_two_bars">Tín hiệu dữ liệu hai vạch.</string>
-	<string name="bluetooth_setting_off">TẮT</string>
+	<string name="bluetooth_setting_off">Tắt</string>
 	<string name="battery_usage_time_pm">CH</string>
 	<string name="zen_mode_sounds_none">Không có gì có thể gián đoạn</string>
 	<string name="notification_listener_not_allowed">Không cho phép</string>
@@ -12004,7 +12004,7 @@ Bạn hiện đã đăng nhập vào các tài khoản sau đây:
 	<string name="main_clear_not_available">Khôi phục cài đặt gốc không khả dụng cho người dùng này</string>
 	<string name="emergency_gesture_screen_title">SOS khẩn cấp</string>
 	<string name="sim_action_switch_sub_dialog_confirm">Đã chuyển sang %1$s</string>
-	<string name="auto_rotate_option_on">BẬT</string>
+	<string name="auto_rotate_option_on">Bật</string>
 	<string name="wifitrackerlib_wifi_check_password_try_again">Kiểm tra mật khẩu và thử lại</string>
 	<string name="main_clear_desc">Tác vụ này sẽ xóa tất cả dữ liệu từ &lt;b&gt;bộ nhớ trong&lt;/b&gt;" của điện thoại, bao gồm:&#13;
 &#13;
@@ -12018,7 +12018,7 @@ Bạn hiện đã đăng nhập vào các tài khoản sau đây:
 	<string name="spell_checker_primary_switch_title">SỬ dụng kiểm tra chính tả</string>
 	<string name="security_settings_fingerprint_v2_enroll_introduction_footer_title_2">Cách thức hoạt động</string>
 	<string name="material_timepicker_am">SA</string>
-	<string name="bluetooth_setting_on">BẬT</string>
+	<string name="bluetooth_setting_on">Bật</string>
 	<string name="mobile_data_connection_active">Đã kết nối</string>
 	<string name="wifitrackerlib_tap_to_sign_up">Chạm để đăng ký</string>
 	<string name="wifitrackerlib_connected_via_network_scorer_default">Tự động kết nối thông qua nhà cung cấp xếp hạng mạng</string>
@@ -12027,7 +12027,7 @@ Bạn hiện đã đăng nhập vào các tài khoản sau đây:
 	<string name="wifitrackerlib_speed_label_medium">Trung bình</string>
 	<string name="not_default_data_content_description">Không đặt để sử dụng dữ liệu</string>
 	<string name="general_category_title">Chung</string>
-	<string name="scanning_status_text_off">TẮT</string>
+	<string name="scanning_status_text_off">Tắt</string>
 	<string name="post_dsds_reboot_notification_title_with_carrier">%1$s đang hoạt động</string>
 	<string name="choose_sim_activating">Đang kích hoạt…</string>
 	<string name="captions_category_title">Chú thích</string>
@@ -12055,7 +12055,7 @@ Bạn hiện đã đăng nhập vào các tài khoản sau đây:
 	<string name="daltonizer_mode_grayscale_title">Trắng đen</string>
 	<string name="erase_sim_confirm_button">Xóa</string>
 	<string name="mobile_data_no_connection">Không kết nối</string>
-	<string name="screen_pinning_switch_on_text">BẬT</string>
+	<string name="screen_pinning_switch_on_text">Bật</string>
 	<string name="wifi_no_related_sim_card">Không</string>
 	<string name="open_app_button">Mở %1$s</string>
 	<string name="security_settings_fingerprint_enroll_introduction_no_thanks">Không, cảm ơn</string>
@@ -12085,7 +12085,7 @@ Bạn hiện đã đăng nhập vào các tài khoản sau đây:
 	<string name="wifitrackerlib_wifi_security_none">Không</string>
 	<string name="bluetooth_ble_audio_source_passoword">Mật khẩu</string>
 	<string name="wifitrackerlib_osu_completing_sign_up">Đang hoàn tất đăng ký…</string>
-	<string name="scanning_status_text_on">BẬT</string>
+	<string name="scanning_status_text_on">Bật</string>
 	<string name="settingslib_learn_more_text">Tìm hiểu thêm</string>
 	<string name="accessibility_phone_signal_full">Tín hiệu điện thoại đầy.</string>
 	<string name="media_controls_title">Phương tiện</string>
@@ -12095,7 +12095,7 @@ Bạn hiện đã đăng nhập vào các tài khoản sau đây:
 	<string name="sim_card_label">Thẻ SIM</string>
 	<string name="guest_reset_guest_confirm_button">Đặt lại</string>
 	<string name="storage_free_up_space_title">Giải phóng dung lượng</string>
-	<string name="adaptive_connectivity_switch_on">BẬT</string>
+	<string name="adaptive_connectivity_switch_on">Bật</string>
 	<string name="main_clear_desc_no_cancel_mobile_plan">Điều này không hủy dịch vụ di động của bạn.</string>
 	<string name="zen_settings_general">Chung</string>
 	<string name="wifitrackerlib_speed_label_very_fast">Rất nhanh</string>
@@ -12210,7 +12210,7 @@ Có người dùng khác trên thiết bị này.
 	<string name="shoulder_key_shortcut_mute">Chế độ im lặng</string>
 	<string name="shoulder_key_shortcut_settings">Nút ở cạnh</string>
 	<string name="multi_window_cvw_title">Chế độ lái xe MIUI</string>
-	<string name="string_off">TẮT</string>
+	<string name="string_off">Tắt</string>
 	<string name="ks_screenshot">Chụp m.hình</string>
 	<string name="string_int_hour">%d giờ</string>
 	<string name="stylus_shortcut_title_screenshot">Chụp m.hình</string>
@@ -12237,7 +12237,7 @@ Có người dùng khác trên thiết bị này.
 	<string name="miui_sos_emergency_title">SOS khẩn cấp</string>
 	<string name="stylus_btn_screen_shot">Chụp m.hình</string>
 	<string name="anc_depth">Khỏe</string>
-	<string name="auto_anc_closed">TẮT</string>
+	<string name="auto_anc_closed">Tắt</string>
 	<string name="bt_plugin_set_net_dialog_cancle">Hủy</string>
 	<string name="miheadset_feedback">Phản hồi</string>
 	<string name="miheadset_codec_sample_rate">Tốc độ lấy mẫu âm thanh Bluetooth</string>
@@ -12281,7 +12281,7 @@ Có người dùng khác trên thiết bị này.
 	<string name="miheadset_low_latency">Độ trễ thấp</string>
 	<string name="bt_plugin_set_net_dialog_retry">Thử lại</string>
 	<string name="miheadset_auto_answer_call">Tự động trả lời điện thoại</string>
-	<string name="string_offed">TẮT</string>
+	<string name="string_offed">Tắt</string>
 	<string name="size_embedded">Chia cửa sổ</string>
 	<string name="ks_add_title">Thêm lối tắt</string>
 	<string name="headset_silent_upgrade_switch_title">Tự động cập nhật</string>
@@ -12290,7 +12290,7 @@ Có người dùng khác trên thiết bị này.
 Bật tính năng này và chạm vào nút Trợ năng ở cuối màn hình để mở menu."</string>
 	<string name="miheadset_audio_sound_quality">Chế độ âm thanh</string>
 	<string name="menu_new_display_open">Mở trong cửa sổ mới</string>
-	<string name="miheadset_spatial_audio_off">TẮT</string>
+	<string name="miheadset_spatial_audio_off">Tắt</string>
 	<string name="font_cta_alert_title">Điều khoản và Điều kiện</string>
 	<string name="ks_launch_notification_center">Bảng thông báo</string>
 	<string name="ks_back_home">Màn hình chính</string>
@@ -12302,7 +12302,7 @@ Bật tính năng này và chạm vào nút Trợ năng ở cuối màn hình đ
 	<string name="bt_plugin_new_version">Cập nhật</string>
 	<string name="ks_category_key">Lối tắt bàn phím</string>
 	<string name="miheadset_support">Trợ giúp</string>
-	<string name="miheadset_spatial_audio_on">BẬT</string>
+	<string name="miheadset_spatial_audio_on">Bật</string>
 	<string name="ks_title">Lối tắt bàn phím</string>
 	<string name="font_cta_alert_btn_negative">Hủy</string>
 	<string name="sd_eject_new">Ngắt kết nối thẻ SD</string>
@@ -12329,7 +12329,7 @@ Bật tính năng này và chạm vào nút Trợ năng ở cuối màn hình đ
 	<string name="system_error_info">Hệ thống đang bận. Chờ một hoặc hai phút và thử lại.</string>
 	<string name="diagnosis_log_sent_format">Nhật ký chẩn đoán đã gửi. ID:%s Hãy gửi mã này cho kỹ thuật viên.</string>
 	<string name="google_assistant_guide_ok">Vào thiết lập</string>
-	<string name="miui_bubbles_notification_status_opened">BẬT</string>
+	<string name="miui_bubbles_notification_status_opened">Bật</string>
 	<string name="miheadset_openAnc2">Khử nhiễu</string>
 	<string name="wallpaper_setting_title">Hình nền</string>
 	<string name="progressbar_title">Kiểm tra các vấn đề bảo mật…</string>
@@ -12444,8 +12444,8 @@ Tính năng này chỉ hoạt động khi điều hướng hệ thống được
 	<string name="tare_alarmmanager">Trình quản lý báo động</string>
 	<string name="tare_jobscheduler">Lịch trình công việc</string>
 	<string name="tare_revert">Đặt về Cài đặt mặc định</string>
-	<string name="tare_off">TẮT</string>
-    <string name="tare_on">BẬT</string>
+	<string name="tare_off">Tắt</string>
+    <string name="tare_on">Bật</string>
 	<string name="enable_non_resizable_multi_window">Kích hoạt tính năng không thể thay đổi kích thước trong nhiều cửa sổ</string>
     <string name="enable_non_resizable_multi_window_summary">Cho phép các ứng dụng không thể thay đổi kích thước nằm trong nhiều cửa sổ</string>
 	<string name="back_navigation_animation">Dự đoán hoạt ảnh quay lại</string>

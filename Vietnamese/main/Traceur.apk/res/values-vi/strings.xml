@@ -6,8 +6,8 @@
 	<string name="abc_action_mode_done">Xong</string>
 	<string name="abc_activity_chooser_view_see_all">Xem tất cả</string>
 	<string name="abc_activitychooserview_choose_application">Chọn một ứng dụng</string>
-	<string name="abc_capital_off">TẮT</string>
-	<string name="abc_capital_on">BẬT</string>
+	<string name="abc_capital_off">Tắt</string>
+	<string name="abc_capital_on">Bật</string>
 	<string name="abc_search_hint">Tìm kiếm…</string>
 	<string name="abc_searchview_description_clear">Xóa truy vấn</string>
 	<string name="abc_searchview_description_query">Tìm kiếm truy vấn</string>
@@ -450,8 +450,8 @@
 	<string name="usb_audio_disable_routing_summary">Tắt định tuyến tự động tới thiết bị âm thanh ngoại vi USB</string>
 	<string name="use_system_language_to_select_input_method_subtypes">Sử dụng ngôn ngữ hệ thống</string>
 	<string name="user_guest">Khách</string>
-	<string name="v7_preference_off">TẮT</string>
-	<string name="v7_preference_on">BẬT</string>
+	<string name="v7_preference_off">Tắt</string>
+	<string name="v7_preference_on">Bật</string>
 	<string name="verify_apps_over_usb_summary">Kiểm tra các ứng dụng được cài đặt qua ADB/ADT để xem có hoạt động gây hại hay không.</string>
 	<string name="verify_apps_over_usb_title">Xác minh ứng dụng qua USB</string>
 	<string name="vpn_settings_not_available">Cài đặt VPN không khả dụng cho người dùng này</string>
@@ -736,7 +736,7 @@ Bất kỳ người dùng nào cũng có thể thay mặt cho tất cả ngườ
 	<string name="user_image_take_photo">Chụp ảnh</string>
 	<string name="material_minute_selection">Chọn phút</string>
 	<string name="material_slider_range_end">Khoảng kết thúc,</string>
-	<string name="wifi_hotspot_switch_on_text">BẬT</string>
+	<string name="wifi_hotspot_switch_on_text">Bật</string>
 	<string name="battery_info_status_charging_wireless">Đang sạc không dây</string>
 	<string name="wifitrackerlib_private_dns_broken">Không thể truy cập máy chủ DNS Riêng tư</string>
 	<string name="wifitrackerlib_speed_label_very_slow">Rất chậm</string>
@@ -745,7 +745,7 @@ Bất kỳ người dùng nào cũng có thể thay mặt cho tất cả ngườ
 	<string name="settingslib_learn_more_text">Tìm hiểu thêm</string>
 	<string name="material_timepicker_am">SA</string>
 	<string name="accessibility_phone_signal_full">Tín hiệu điện thoại đầy.</string>
-	<string name="cell_data_off_content_description">tắt</string>
+	<string name="cell_data_off_content_description">Tắt</string>
 	<string name="guest_reset_guest_confirm_button">Đặt lại</string>
 	<string name="material_timepicker_hour">Giờ</string>
 	<string name="wifitrackerlib_tap_to_sign_up">Chạm để đăng ký</string>
@@ -753,7 +753,7 @@ Bất kỳ người dùng nào cũng có thể thay mặt cho tất cả ngườ
 	<string name="wifitrackerlib_connected_via_network_scorer_default">Tự động kết nối thông qua nhà cung cấp xếp hạng mạng</string>
 	<string name="accessibility_phone_two_bars">Tín hiệu điện thoại 2 vạch.</string>
 	<string name="accessibility_data_signal_full">Tín hiệu dữ liệu đầy.</string>
-	<string name="wifi_hotspot_switch_off_text">TẮT</string>
+	<string name="wifi_hotspot_switch_off_text">Tắt</string>
 	<string name="wifitrackerlib_saved_network">Được lưu bởi %1$s</string>
 	<string name="wifitrackerlib_wifi_security_owe">Mở tăng cường</string>
 	<string name="accessibility_no_data">Không có dữ liệu.</string>

@@ -157,7 +157,7 @@
 	<string name="music_headset_not_open">Đóng</string>
 	<string name="music_audio_visual_wake_lock_summary">"Không tắt màn hình khi hiệu ứng hình ảnh được hiển thị"</string>
 	<string name="music_audio_visual_wake_lock">Giữ màn hình bật</string>
-	<string name="v7_preference_off">TẮT</string>
+	<string name="v7_preference_off">Tắt</string>
 	<string name="eq_pop">Pop</string>
 	<string name="eq_rock">Rock</string>
 	<string name="abc_searchview_description_query">Tìm kiếm truy vấn</string>
@@ -167,16 +167,16 @@
 	<string name="miuix_sbl_tracking_progress_labe_up_refresh">Đang làm mới</string>
 	<string name="search_menu_title">Tìm kiếm</string>
 	<string name="abc_toolbar_collapse_description">Thu gọn</string>
-	<string name="v7_preference_on">BẬT</string>
+	<string name="v7_preference_on">Bật</string>
 	<string name="abc_activitychooserview_choose_application">Chọn ứng dụng</string>
 	<string name="abc_shareactionprovider_share_with">Chia sẻ với</string>
 	<string name="not_set">Chưa đặt</string>
 	<string name="abc_shareactionprovider_share_with_application">Chia sẻ với %s</string>
 	<string name="abc_searchview_description_search">Tìm kiếm</string>
-	<string name="abc_capital_off">TẮT</string>
+	<string name="abc_capital_off">Tắt</string>
 	<string name="abc_action_bar_up_description">Quay lại</string>
 	<string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">Thất bại</string>
-	<string name="abc_capital_on">BẬT</string>
+	<string name="abc_capital_on">Bật</string>
 	<string name="abc_search_hint">Tìm kiếm...</string>
 	<string name="copy">Sao chép</string>
 	<string name="expand_button_title">Nâng cao</string>
@@ -577,7 +577,7 @@
 	<string name="fmt_time_12hour_minute_second_millis">h:mm:ss.S</string>
 	<string name="fmt_time_12hour_minute">HH:mm</string>
 	<string name="fmt_time_second">"s 'giây'"</string>
-	<string name="sound_id_effect_null">TẮT</string>
+	<string name="sound_id_effect_null">Tắt</string>
 	<string name="fmt_date">D</string>
 	<string name="fmt_time_12hour_minute_pm">h:mm a</string>
 	<string name="fmt_weekday_date_time_timezone">W, D T z</string>

@@ -6,8 +6,8 @@
     <string name="abc_action_mode_done">Xong</string>
     <string name="abc_activity_chooser_view_see_all">Xem tất cả</string>
     <string name="abc_activitychooserview_choose_application">Chọn một ứng dụng</string>
-    <string name="abc_capital_off">TẮT</string>
-    <string name="abc_capital_on">BẬT</string>
+    <string name="abc_capital_off">Tắt</string>
+    <string name="abc_capital_on">Bật</string>
     <string name="abc_search_hint">Tìm kiếm…</string>
     <string name="abc_searchview_description_clear">Xóa truy vấn</string>
     <string name="abc_searchview_description_query">Tìm kiếm truy vấn</string>
@@ -688,8 +688,8 @@ Bạn luôn có thể thay đổi cài đặt này sau trong Cài đặt."</stri
     <string name="uncertified_notification_expiring_title">Đăng ký hết hạn</string>
     <string name="use_nearby_device_heading">Sử dụng thiết bị lân cận?</string>
     <string name="use_nearby_device_text">Bạn có muốn sử dụng thiết bị lân cận để cấp bằng chứng xác thực không?</string>
-    <string name="v7_preference_off">TẮT</string>
-    <string name="v7_preference_on">BẬT</string>
+    <string name="v7_preference_off">Tắt</string>
+    <string name="v7_preference_on">Bật</string>
     <string name="verify_your_identity_description">%1$s cần xác minh đó là bạn.</string>
     <string name="verify_your_identity_title">Xác minh danh tính của bạn</string>
     <string name="waiting_for_account_info_text">Đang chờ thông tin tài khoản...</string>

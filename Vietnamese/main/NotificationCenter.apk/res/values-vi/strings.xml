@@ -47,7 +47,7 @@
 	<string name="chinese_day_20">20</string>
 	<string name="month_november_short">Tháng 11</string>
 	<string name="mtrl_picker_invalid_format_use">Sử dụng: %1$s</string>
-	<string name="v7_preference_off">TẮT</string>
+	<string name="v7_preference_off">Tắt</string>
 	<string name="chinese_day_24">24</string>
 	<string name="chinese_day_23">23</string>
 	<string name="chinese_day_22">22</string>
@@ -119,14 +119,14 @@
 	<string name="chinese_digit_twenty">20</string>
 	<string name="fmt_weekday_short">E</string>
 	<string name="month_january_short">Tháng 1</string>
-	<string name="v7_preference_on">BẬT</string>
+	<string name="v7_preference_on">Bật</string>
 	<string name="mtrl_picker_text_input_date_range_end_hint">Ngày kết thúc</string>
 	<string name="the_united_nations_day">Ngày Liên Hợp Quốc</string>
 	<string name="mtrl_picker_announce_current_selection">Lựa chọn hiện tại: %1$s</string>
 	<string name="chinese_symbol_animals_rabbit">Mão</string>
 	<string name="chinese_digit_ten">10</string>
 	<string name="mtrl_picker_toggle_to_day_selection">Chạm để chuyển sang chọn một ngày</string>
-	<string name="abc_capital_on">BẬT</string>
+	<string name="abc_capital_on">Bật</string>
 	<string name="thursday_short">Th 5</string>
 	<string name="chinese_month_april">4</string>
 	<string name="month_july">Tháng bảy</string>
@@ -235,7 +235,7 @@
 	<string name="heavenly_stems_yi">"Ất "</string>
 	<string name="chinese_month_may">5</string>
 	<string name="heavenly_stems_jia">"Giáp "</string>
-	<string name="abc_capital_off">TẮT</string>
+	<string name="abc_capital_off">Tắt</string>
 	<string name="heavenly_stems_bing">"Bính "</string>
 	<string name="solar_term_great_heat">Đại Thử</string>
 	<string name="month_september_short">Tháng 9</string>

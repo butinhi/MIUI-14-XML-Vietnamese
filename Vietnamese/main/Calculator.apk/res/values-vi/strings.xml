@@ -937,9 +937,9 @@ Lưu ý rằng ứng dụng này cần kết nối với mạng và yêu cầu c
 	<string name="abc_shareactionprovider_share_with">Chia sẻ với</string>
 	<string name="abc_shareactionprovider_share_with_application">Chia sẻ với %s</string>
 	<string name="abc_searchview_description_search">Tìm kiếm</string>
-	<string name="abc_capital_off">TẮT</string>
+	<string name="abc_capital_off">Tắt</string>
 	<string name="abc_action_mode_done">Xong</string>
-	<string name="abc_capital_on">BẬT</string>
+	<string name="abc_capital_on">Bật</string>
 	<string name="abc_search_hint">Tìm kiếm…</string>
 	<string name="abc_searchview_description_clear">Xóa truy vấn</string>
 	<string name="name_original">Giá gốc</string>
@@ -1081,11 +1081,11 @@ Lưu ý rằng ứng dụng này cần kết nối với mạng và yêu cầu c
     <string name="xiaomi_calculator_delete_title">Gỡ bỏ Máy tính?</string>
     <string name="xiaomi_calculator_remove_icon_title">Xóa \"Máy tính\" khỏi Màn hình chính?</string>
     <string name="label_monthly_investment">Đầu tư hàng tháng</string>
-	<string name="v7_preference_off">TẮT</string>
+	<string name="v7_preference_off">Tắt</string>
 	<string name="miuix_sbl_tracking_progress_labe_release_to_refresh">Thả ra để làm mới</string>
 	<string name="miuix_sbl_tracking_progress_labe_up_refresh">Đang làm mới</string>
 	<string name="miuix_appcompat_deselect_all_description">Bỏ chọn tất cả</string>
-	<string name="v7_preference_on">BẬT</string>
+	<string name="v7_preference_on">Bật</string>
 	<string name="miuix_appcompat_confirm_description">Xác nhận</string>
 	<string name="miuix_appcompat_action_mode_select_all">Chọn tất cả</string>
 	<string name="miuix_appcompat_select_all_description">Chọn tất cả</string>

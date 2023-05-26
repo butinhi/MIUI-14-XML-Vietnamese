@@ -111,8 +111,8 @@
     <string name="abc_activity_chooser_view_see_all">Xem tất cả</string>
     <string name="abc_shareactionprovider_share_with_application">Chia sẻ với %s</string>
     <string name="abc_shareactionprovider_share_with">Chia sẻ với</string>
-    <string name="abc_capital_on">BẬT</string>
-    <string name="abc_capital_off">TẮT</string>
+    <string name="abc_capital_on">Bật</string>
+    <string name="abc_capital_off">Tắt</string>
     <string name="ad_pop_btn_hidden">Ẩn</string>
     <string name="ad_pop_des">Trong ứng dụng Tải xuống:</string>
     <string name="add_launch_hint_text">Thêm Lối tắt Màn hình chính</string>
@@ -1180,12 +1180,12 @@ d MMMM"</string>
 	<string name="k_test">Kiểm tra</string>
 	<string name="goto_confirm">Cài đặt</string>
 	<string name="require_permission">Yêu cầu quyền</string>
-	<string name="v7_preference_off">TẮT</string>
+	<string name="v7_preference_off">Tắt</string>
 	<string name="fmt_weekday_long">EEEE</string>
 	<string name="permission_manager">Chi tiết quyền</string>
 	<string name="fmt_weekday_short">e</string>
 	<string name="allowed">Cho phép</string>
-	<string name="v7_preference_on">BẬT</string>
+	<string name="v7_preference_on">Bật</string>
 	<string name="revoke_privacy_running">Rút lại sự đồng ý…</string>
 	<string name="not_set">Chưa đặt</string>
 	<string name="about_permission">Quản lý Quyền</string>
