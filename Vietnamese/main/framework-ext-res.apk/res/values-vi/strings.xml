@@ -410,7 +410,7 @@
 	<string name="mountainspring">Dòng suối</string>
 	<string name="digitaluniverse">Vũ trụ kỹ thuật số (âm thanh nổi)</string>
 	<string name="messagesent">Tin nhắn đã gửi</string>
-	<string name="toyrobot">ToyRobot</string>
+	<string name="toyrobot">Robot đồ chơi</string>
 	<string name="dance">Khiêu vũ</string>
 	<string name="africaanimals_preview">Xavan</string>
 	<string name="atlantis">Atlantis (âm thanh nổi)</string>
@@ -504,12 +504,12 @@
 	<string name="fresh">Tươi mới</string>
 	<string name="global_phone">Điện thoại của tôi</string>
 	<string name="edit_frequent_phrases">Chỉnh sửa cụm từ thường dùng</string>
-	<string name="potion">Potion</string>
+	<string name="potion">Thần dược</string>
 	<string name="miui_device_name">Android</string>
 	<string name="device_redmi">Redmi</string>
 	<string name="device_poco_india">POCO PHONE</string>
 	<string name="hawaii">Hawaii</string>
-	<string name="acousticguitar">Acoustic guitar</string>
+	<string name="acousticguitar">Guitar mộc</string>
 	<string name="celesta">Celesta</string>
 	<string name="xiaomi_mobile">Mi Mobile</string>
 	<string name="miremix">Mi (Remix)</string>
