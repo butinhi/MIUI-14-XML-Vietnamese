@@ -12532,6 +12532,8 @@ Tính năng này chỉ hoạt động khi điều hướng hệ thống được
 	<string name="emergency_gesture_screen_summary">Nhấn nhanh nút Nguồn 5 lần trở lên để bắt đầu các thao tác bên dưới</string>
 	<string name="emergency_gesture_sound_setting_summary">Phát âm thanh lớn khi Khẩn cấp SOS đang bắt đầu</string>
     <string name="emergency_gesture_sound_setting_title">Phát báo thức đếm ngược</string>
+	<string name="emergency_gesture_call_for_help_dialog_title">Số để gọi trợ giúp</string>
+    <string name="emergency_gesture_call_for_help_summary">%1$s. Nhấn để thay đổi</string>
 	<string name="emergency_gesture_call_for_help_title">Gọi giúp đỡ</string>
     <string name="emergency_gesture_category_call_for_help_title">Thông báo để được trợ giúp</string>
 	<string name="emergency_gesture_number_override_notes">"Nếu bạn nhập một số không khẩn cấp:

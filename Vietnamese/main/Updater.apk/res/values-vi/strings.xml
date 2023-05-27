@@ -52,6 +52,7 @@
     <string name="menu_title_pick_rom_file">Chọn gói cập nhật</string>
     <string name="menu_title_recovery">Khởi động vào Recovery</string>
 	<string name="menu_title_fastboot">Khởi động vào Fastboot</string>
+	<string name="menu_title_fastboot_mode">Cập nhật ở Fastboot</string>
 	<string name="menu_title_recovery_mode">Cập nhật ở Recovery</string>
     <string name="menu_title_current_version_log">Tóm tắt cập nhật</string>
     <string name="menu_title_apply_for_alpha">Tham gia Chương trình Kiểm tra Beta</string>
