@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string-array name="alarm_set">
-        <item>Báo thức sẽ kêu sau gần 1 phút nữa.</item>
+        <item>Báo thức sẽ kêu sau gần 1 phút.</item>
         <item>Báo thức sẽ kêu sau %1$s.</item>
         <item>Báo thức sẽ kêu sau %2$s.</item>
         <item>Báo thức sẽ kêu sau %1$s và %2$s.</item>
@@ -9,6 +9,26 @@
         <item>Báo thức sẽ kêu sau %1$s và %3$s.</item>
         <item>Báo thức sẽ kêu sau %2$s và %3$s.</item>
         <item>Báo thức sẽ kêu sau %1$s %2$s và %3$s.</item>
+    </string-array>
+	    <string-array name="alarm_set_new_array">
+        <item>Báo thức sẽ kêu sau gần %d phút.</item>
+        <item>Báo thức sẽ kêu sau %1$s.</item>
+        <item>Báo thức sẽ kêu sau %2$s.</item>
+        <item>Báo thức sẽ kêu sau %1$s và %2$s.</item>
+        <item>Báo thức sẽ kêu sau %3$s.</item>
+        <item>Báo thức sẽ kêu sau %1$s và %3$s.</item>
+        <item>Báo thức sẽ kêu sau %2$s và %3$s.</item>
+        <item>Báo thức sẽ kêu sau %1$s %2$s và %3$s.</item>
+    </string-array>
+	    <string-array name="alarm_in_furture_new_array">
+        <item>Đổ chuông báo thức sau %d phút</item>
+        <item>Báo thức sau %1$s</item>
+        <item>Báo thức sau %2$s</item>
+        <item>Báo thức sau %1$s %2$s</item>
+        <item>Báo thức sau %3$s</item>
+        <item>Báo thức sau %1$s %3$s</item>
+        <item>Báo thức sau %2$s %3$s</item>
+        <item>Báo thức sau %1$s %2$s %3$s</item>
     </string-array>
     <string-array name="auto_silence_entries">
         <item>Không bao giờ</item>
