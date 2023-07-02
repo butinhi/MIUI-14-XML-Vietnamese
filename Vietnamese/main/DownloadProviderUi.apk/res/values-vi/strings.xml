@@ -939,4 +939,5 @@ Tăng tốc tải xuống giữa các thiết bị."</string>
 	<string name="nowInstall">Cài đặt</string>
 	<string name="category">Danh mục</string>
 	<string name="downloadCount">Tải xuống</string>
+	<string name="pref_download_storage_path_2">Vị trí các mục đã tải xuống</string>
 </resources>

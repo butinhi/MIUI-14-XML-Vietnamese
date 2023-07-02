@@ -1489,4 +1489,9 @@ Thông tin vị trí có thể không được báo cáo khi kết nối mạng 
 	<string name="gallery_service_termination_announcement">Lưu ý: Các mục thư viện không còn có thể được đồng bộ hóa với Xiaomi Cloud</string>
 	<string name="micloud_upgrade_storage">Nâng cấp gói lưu trữ</string>
 	<string name="find_device_permissions_footer">"Nhấn vào \"Chấp nhận\" để cấp các quyền bạn đã chọn."</string>
+	<string name="cloud_storage_sufficient_text">Nâng cấp để nhận tối đa %d TB dung lượng lưu trữ</string>
+	<string name="cloud_storage_upgrade_text">Nâng cấp</string>
+	<string name="cloud_storage_upgrade_text_now">Nâng cấp</string>
+	<string name="cloud_storage_zero_upgrade_button_text_now">Nâng cấp miễn phí</string>
+	<string name="cloud_storage_common_functions_text">Thường xuyên sử dụng</string>
 </resources>

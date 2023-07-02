@@ -817,6 +817,7 @@ sau khi Sức khỏe Mi phân tích đủ dữ liệu"</string>
     <string name="auto_silence_entries7"><xliff id="MINUTES" refersto="25">%d</xliff> phút</string>
     <string name="auto_silence_entries8"><xliff id="MINUTES" refersto="30">%d</xliff> phút</string>
 	<string name="white_noise_guide_desc">Thêm âm thanh nền để giúp bạn tập trung</string>
-	    <string name="timer_desc_use_brush_teeth">Đánh răng</string>
+	<string name="timer_desc_use_brush_teeth">Đánh răng</string>
     <string name="timer_desc_use_facial_mask">Khẩu trang</string>
+    <string name="bedtime_sleep_time_remind_new">"Bạn sẽ được nhắc đi ngủ %d phút trước giờ này"</string>
 </resources>

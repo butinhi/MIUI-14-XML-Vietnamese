@@ -149,4 +149,13 @@
 		<item>1 giờ trước đó</item>
 		<item>Không</item>
 	</string-array>
+	<string-array name="bedtime_guide_repeat_type_international">
+        <item>Thứ hai đến Thứ sáu</item>
+        <item>Hàng ngày</item>
+    </string-array>
+	<string-array name="bedtime_repeat_entires_international">
+        <item>Hàng ngày</item>
+        <item>Thứ hai đến Thứ sáu</item>
+        <item>Tuỳ chỉnh</item>
+    </string-array>
 </resources>
