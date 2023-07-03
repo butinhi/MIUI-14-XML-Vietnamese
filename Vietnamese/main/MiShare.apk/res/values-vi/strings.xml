@@ -491,4 +491,5 @@ Bạn có thể tìm thấy danh sách thiết bị tương thích trên trang w
 	<string name="error_msg_network_error_china">Lỗi mạng. Thử lại.</string>
 	<string name="transfer_to_title">Gửi tệp đến thiết bị di động</string>
 	<string name="transfer_to_pc_summary_new"><Data>"Phiên bản MIUI+ mới nhất được cài đặt trên Mi Notebooks tương thích với Mi Share. Bạn có thể kiểm tra danh sách các mẫu máy tính xách tay được hỗ trợ trên trang web MIUI+ (&lt;a href=%1$s>%2$s&lt;/a>). Nếu máy tính xách tay của bạn có trong danh sách, nhưng MIUI+ chưa được cài đặt trên đó, hãy cập nhật BIOS của máy tính xách tay và trình điều khiển bộ điều hợp mạng, đồng thời tải xuống MIUI+."</Data></string>
+	<string name="sub_title_mishare_switch">Tính năng này sẽ tự động tắt sau %d phút</string>
 </resources>

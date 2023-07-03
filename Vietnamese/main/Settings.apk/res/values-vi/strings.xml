@@ -12550,4 +12550,8 @@ Tính năng này chỉ hoạt động khi điều hướng hệ thống được
     <string name="location_time_zone_detection_not_allowed">Không cho phép thay đổi phát hiện múi giờ của vị trí</string>
     <string name="location_time_zone_detection_not_applicable">Tính năng phát hiện múi giờ của vị trí bị tắt</string>
     <string name="location_time_zone_detection_not_supported">Phát hiện múi giờ vị trí không được hỗ trợ</string>
+	<string name="accessibility_toggle_high_text_contrast_preference_summary">Thay đổi màu văn bản thành đen hoặc trắng. Tối đa hóa độ tương phản với nền.</string>
+	<string name="force_bold_text">Chữ in đậm</string>
+	<string name="accessibility_text_reading_reset_button_title">Đặt lại cài đặt</string>
+	<string name="wifi_tether_enabled_nosecurity_summary">"%1$s không được mã hóa"</string>
 </resources>

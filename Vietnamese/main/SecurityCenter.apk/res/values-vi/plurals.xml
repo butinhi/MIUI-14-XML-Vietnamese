@@ -725,4 +725,8 @@ Nghỉ ngơi chút đi!"</item>
 	<plurals name="mtrl_badge_content_description">
 		<item quantity="other">%d thông báo mới</item>
 	</plurals>
+	    <plurals name="power_center_battery_optimization">
+        <item quantity="other">Tối ưu hóa mức sử dụng pin trong %d tình huống</item>
+        <item quantity="one">Tối ưu hóa mức sử dụng pin trong %d tình huống</item>
+    </plurals>
 </resources>
