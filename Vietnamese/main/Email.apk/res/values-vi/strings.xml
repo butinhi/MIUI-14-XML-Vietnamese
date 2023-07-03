@@ -1920,4 +1920,9 @@ Vui lòng xác nhận xem mật khẩu ứng dụng đã được bật chưa, n
 	<string name="default_signature_pad">Đã gửi từ điện thoại Mi của tôi</string>
 	<string name="email_filter_enter_folder_name">Tên thư mục</string>
 	<string name="quick_translation">Dịch</string>
+    <string name="account_child_dialog_pos_text">Người giám hộ đồng ý</string>
+    <string name="account_child_dialog_text">"Nếu bạn là trẻ vị thành niên dưới 14 tuổi, hãy thông báo cho người giám hộ của bạn rằng họ phải đọc và đồng ý với \"Tuyên bố của Kingsoft về Bảo vệ Dữ liệu Cá nhân của Trẻ vị thành niên\". Bạn cũng phải xin phép và hướng dẫn trước khi sử dụng dịch vụ của chúng tôi hoặc gửi bất kỳ thông tin cá nhân nào cho chúng tôi.
+Để hiểu đầy đủ các quyền của bạn với tư cách là người dùng cũng như cách chúng tôi xử lý dữ liệu của bạn, hãy đọc \"Tuyên bố của Kingsoft về Bảo vệ Dữ liệu Cá nhân của Trẻ vị thành niên\"."</string>
+    <string name="account_child_dialog_title">"Tuyên bố về Bảo vệ Dữ liệu Cá nhân của Trẻ vị thành niên"</string>
+    <string name="account_child_save_statement">"Tuyên bố của Kingsoft về Bảo vệ Dữ liệu Cá nhân của Trẻ vị thành niên"</string>
 </resources>
