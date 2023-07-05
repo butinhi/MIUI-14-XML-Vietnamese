@@ -3328,4 +3328,6 @@ dd/MM"</string>
 	<string name="qs_traffic_message_type_used">Đã dùng %1$s %2$s</string>
 	<string name="qs_traffic_message_type_exceed">%1$s %2$s vượt quá giới hạn</string>
     <string name="qs_traffic_message_type_remain">%1$s %2$s dữ liệu còn lại</string>
+	<string name="one_handed_tutorial_description">Để thoát, hãy vuốt lên từ cuối màn hình hoặc nhấn vào bất kỳ đâu phía trên ứng dụng</string>
+    <string name="one_handed_tutorial_title">Sử dụng chế độ một tay</string>
 </resources>

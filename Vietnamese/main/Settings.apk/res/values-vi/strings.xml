@@ -12554,4 +12554,6 @@ Tính năng này chỉ hoạt động khi điều hướng hệ thống được
 	<string name="force_bold_text">Chữ in đậm</string>
 	<string name="accessibility_text_reading_reset_button_title">Đặt lại cài đặt</string>
 	<string name="wifi_tether_enabled_nosecurity_summary">"%1$s không được mã hóa"</string>
+	<string name="search_history_clear_description">Xóa lịch sử tìm kiếm</string>
+	<string name="search_history_description">Lịch sử tìm kiếm</string>
 </resources>

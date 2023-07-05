@@ -2990,4 +2990,6 @@ Vui lòng gửi mã này cho nhân viên kỹ thuật."</string>
 	<string name="pa_setting_personalized_recommenddation_swicth_summary">Nhận đề xuất tiện ích dựa trên sở thích của bạn</string>
     <string name="pa_setting_personalized_recommenddation_swicth_title">Đề xuất được cá nhân hóa</string>
 	<string name="pa_toast_message_not_support_size">"Tiện ích có kích thước này không được App vault hỗ trợ"</string>
+	<string name="pa_picker_detail_launcher_screen_lock">"Bố cục Màn hình chính của bạn bị khóa. Không thể thêm tiện ích."</string>
+	<string name="pa_picker_toast_screen_cell_locked">"Bố cục Màn hình chính của bạn bị khóa. Không thể thêm tiện ích."</string>
 </resources>

@@ -670,7 +670,7 @@
     <string name="pull_down_view_refresh">Làm mới</string>
     <string name="pull_down_view_title">Có gì mới</string>
     <string name="request_time_out">Đã hết thời gian yêu cầu. Thử lại.</string>
-    <string name="swipe_find_more">vuốt lên</string>
+    <string name="swipe_find_more">Vuốt sang trái để xem thêm</string>
     <string name="theme_detail_tab_comment">Bình luận</string>
     <string name="theme_detail_tab_recommend">Đề xuất</string>
     <string name="theme_detail_tab_theme">Chủ đề</string>
@@ -1776,5 +1776,7 @@ Tất cả các chủ đề, hình nền, hình nền động, phông chữ, bi�
 Tất cả các bản ghi lịch sử tìm kiếm, tùy chọn quyền, cài đặt và các mục được lưu trong bộ nhớ cache được tạo trên thiết bị này.
 Tất cả các mục cá nhân hóa hiện đang được sử dụng trên thiết bị này. Tùy chọn cá nhân hóa mặc định sẽ được khôi phục."</string>
     <string name="privacy_phone_logoff_theme_service_detail_content_3">4. Việc hủy bỏ dịch vụ không có nghĩa là miễn trừ hoặc giảm nhẹ trách nhiệm do các hành động được thực hiện trước khi hủy bỏ dịch vụ gây ra.</string>
-	<string name="historical_wallpaper">Đã sử dụng</string>	
+	<string name="historical_wallpaper">Đã sử dụng</string>
+	<string name="find_more_free_theme">Xem thêm</string>
+	
 </resources>
