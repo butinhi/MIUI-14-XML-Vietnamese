@@ -1370,6 +1370,7 @@ thiết bị của bạn"</string>
     <string name="hints_virus_app_list_item_summary">ứng dụng</string>
     <string name="hints_loading_text">Đang tải…</string>
     <string name="activity_title_auto_start_manager">Tự khởi chạy</string>
+	<string name="activity_title_auto_start_manager_global">Tự khởi chạy</string>
     <string name="activity_title_permission_manager">Quyền</string>
     <string name="activity_title_other_permission_manager">Quyền khác</string>
     <string name="activity_title_root_manager">Quyền root</string>

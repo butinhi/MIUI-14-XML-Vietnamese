@@ -2649,4 +2649,7 @@ Gửi mã này cho người giám sát."</string>
     <string name="dialog_disagree_title">Chính sách riêng tư</string>
 	<string name="local_empty_guide">Các video bạn quay sẽ xuất hiện ở đây</string>
     <string name="dialog_privacy_info_new5">Chào mừng đến với Mi Video! Ứng dụng này cung cấp các dịch vụ sau:&lt;br>&lt;/br> - Dịch vụ phát trực tuyến&lt;br>&lt;/br>- Trình phát video cục bộ&lt;br>&lt;/br>Để cung cấp các dịch vụ cơ bản, ứng dụng này cần thu thập thông tin cá nhân cần thiết. Để biết chi tiết, hãy xem Chính sách quyền riêng tư của chúng tôi. Bạn có thể thay đổi cài đặt của mình bất kỳ lúc nào trong Hồ sơ > Cài đặt.&lt;br>&lt;/br>Đọc và đồng ý với &lt;a href=%1$s>thoả thuận người dùng&lt;/a> and &lt;a href=%2$s>Chính sách riêng tư&lt;/a> của chúng tôi trước khi sử dụng Mi Video.</string>
+	<string name="local_diversion_moments_videos">Xem khoảnh khắc</string>
+	<string name="galleryplus_globalvideo_controller_tip">Xem các tính năng bổ sung</string>
+	<string name="add_local_shortcut_des">Thêm \"Video của tôi\" vào Màn hình chính để truy cập các tệp video cục bộ chỉ bằng một lần nhấn.</string>
 </resources>
