@@ -6034,4 +6034,11 @@ Ghi lại các trình tự và sử dụng chúng bất cứ lúc nào!"</string
 	<string name="permission_instruction_media_audio">Quyền này cho phép các ứng dụng truy cập các bài hát và tệp âm thanh khác được lưu trữ trên thiết bị. Các mục này có thể chứa thông tin cá nhân.</string>
     <string name="permission_instruction_media_files">Quyền này cho phép các ứng dụng truy cập các tệp và tài liệu được lưu trữ trên thiết bị. Các mục này có thể chứa thông tin cá nhân.</string>
 	<string name="app_behavior_record_hide_system">Ẩn ứng dụng hệ thống</string>
+	<string name="commonly_used_func_card_title">Các tính năng phổ biến</string>
+	<string name="card_main_facebookclean_title">Dọn dẹp Facebook</string>
+    <string name="card_main_galleryclean_title">Xóa ảnh</string>
+	<string name="card_main_appdataclean_title">Xóa dữ liệu ứng dụng</string>
+	<string name="clear_instant_app_data">Xóa ứng dụng</string>
+	<string name="card_main_apkclean_title">Xoá APK</string>
+	<string name="input_hint_search_app">Tìm kiếm ứng dụng</string>
 </resources>
