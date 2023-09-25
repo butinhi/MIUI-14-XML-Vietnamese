@@ -3290,4 +3290,12 @@ Phiên dịch có thể mất một lúc khi bạn sử dụng tính năng này 
 	<string name="tips_for_photo_page_selection">Bạn có thể nhấn vào các mục để xem</string>
 	<string name="widget_disable">"Tiện ích có kích thước này không được hỗ trợ trên thiết bị"</string>
 	<string name="search_edit_hint">Tìm kiếm tệp hoặc album</string>
+	<string name="transfer_dialog_consistent_msg">Dịch vụ đồng bộ hóa Xiaomi Cloud đã được thay thế bằng bản sao lưu Google Photos. Tất cả ảnh và video được lưu trữ trước đây trong Xiaomi Cloud đã được đồng bộ hóa với thiết bị này. Giờ đây, bạn có thể bật tính năng sao lưu trên Google Photos để tiếp tục lưu trữ các mục trên đám mây.</string>
+	<string name="transfer_dialog_download_complete_msg">"Dịch vụ đồng bộ hóa Xiaomi Cloud đã được thay thế bằng bản sao lưu Google Photos. Một số ảnh và video của bạn chưa được đồng bộ hóa với thiết bị này và sẽ không được hiển thị nữa. Tuy nhiên, bạn đã yêu cầu tải xuống dữ liệu đám mây bao gồm các mục này. Bạn sẽ có thể xem và quản lý những ảnh và video này trên thiết bị mà bạn đã tải chúng xuống."</string>
+	<string name="transfer_dialog_migrate_msg">"Dịch vụ đồng bộ hóa Xiaomi Cloud đã được thay thế bằng bản sao lưu Google Photos. Sau đó, các mục chưa được đồng bộ hóa với thiết bị này sẽ không được hiển thị. Cho đến %1$s, bạn có thể di chuyển các mục của mình sang Google Photos hoặc truy cập i.mi.com để tải chúng xuống. Sau đó, những mục còn lưu trên Xiaomi Cloud sẽ bị xóa vĩnh viễn."</string>
+	<string name="transfer_service_msg">Dịch vụ đồng bộ hóa Xiaomi Cloud đã được thay thế bằng bản sao lưu Google Photos. Không thể tải xuống các mục chưa được đồng bộ hóa nữa.</string>
+	<string name="upload_progress_message">"Dịch vụ đồng bộ hóa Xiaomi Cloud đã được thay thế bằng bản sao lưu Google Photos. Chúng tôi cần kiểm tra các mục được lưu trữ trên thiết bị này và trên đám mây để đảm bảo bạn không mất bất kỳ thứ gì quan trọng. Quá trình này có thể mất vài phút. Đừng rời khỏi Thư viện cho đến khi nó hoàn thành."</string>
+	<string name="back_up_gp_btn_no_again">"Không hiển thị lại"</string>
+	<string name="transfer_banner_btn_title_cancel_reminder">"Không hiển thị lại"</string>
+	<string name="transfer_banner_btn_view_detail">Tìm hiểu thêm</string>
 </resources>
