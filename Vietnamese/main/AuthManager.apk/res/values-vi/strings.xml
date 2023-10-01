@@ -791,4 +791,6 @@ Bạn cần phải cài đặt phiên bản MIUI của nhà phát triển để 
     <string name="precise_location_title">Vị trí chính xác</string>
 	<string name="grant_dialog_button_only_allow_foreground_locate">Hạn chế bây giờ</string>
 	<string name="grant_dialog_button_only_allow_foreground_locate_and_dont_ask_again">Luôn hạn chế</string>
+	<string name="HIPS_Perm_operator_shake">Truy cập chuyển động và hướng của thiết bị</string>
+    <string name="HIPS_Perm_operator_shake_Desc">"Để phát hiện vị trí của thiết bị trong không gian, nhận biết rung lắc và cung cấp các tính năng cảm giác tương tác"</string>
 </resources>

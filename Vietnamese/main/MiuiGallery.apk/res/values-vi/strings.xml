@@ -3298,4 +3298,7 @@ Phiên dịch có thể mất một lúc khi bạn sử dụng tính năng này 
 	<string name="back_up_gp_btn_no_again">"Không hiển thị lại"</string>
 	<string name="transfer_banner_btn_title_cancel_reminder">"Không hiển thị lại"</string>
 	<string name="transfer_banner_btn_view_detail">Tìm hiểu thêm</string>
+	<string name="immersion_menu_all_photos">Tất cả các mục</string>
+    <string name="immersion_menu_camera_photos">Album máy ảnh</string>
+    <string name="immersion_menu_photo_switch_notice">Nhấn để chọn hiển thị tất cả các mục hay chỉ hiển thị album máy ảnh tại đây</string>
 </resources>
