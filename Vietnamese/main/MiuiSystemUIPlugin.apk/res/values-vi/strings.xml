@@ -597,4 +597,6 @@ Việc nghe ở mức âm lượng cao trong thời gian dài có thể gây t�
 	<string name="recovery">Recovery</string>
 	<string name="airplane">Máy bay</string>
 	<string name="silent">Im lặng</string>
+	<string name="controls_add_device_guide">"Bạn chưa thêm bất kỳ thiết bị nhà thông minh nào"</string>
+    <string name="controls_click_to_add_device">Thêm</string>
 </resources>
