@@ -380,7 +380,7 @@
 	<string name="quick_settings_wireless_label">Sạc không dây ngược</string>
 	<string name="timer_off">Tắt</string>
 	<string name="miui_ringer_total">Không làm phiền</string>
-	<string name="timer_30_minutes">%d phút (trừ khi được bật tự động)</string>
+	<string name="timer_30_minutes">%d phút</string>
 	<string name="miui_toast_zen_dnd_to_off">Đã tắt Không làm phiền. Nhạc chuông và rung trở lại bình thường</string>
 	<string name="wireless_charging_tips_disable">Không hiển thị lại</string>
 	<string name="miui_guide_dialog_message">Âm thanh phương tiện (nhạc, video, v.v.) sẽ vẫn được phát trong chế độ Im lặng. Bạn có thể thay đổi trong Cài đặt.</string>
