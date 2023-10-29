@@ -2550,4 +2550,6 @@ Vui lòng gửi mã này cho nhân viên kỹ thuật."</string>
 	<string name="family_modify">Chỉnh sửa</string>
 	<string name="mishop_login_other">Tài khoản khác</string>
 	<string name="account_bind_secure_email_title">Thêm email phục hồi</string>
+	<string name="app_disable_description_content">Nhạc là một ứng dụng hệ thống. Nếu bạn tắt nó, điều này có thể ảnh hưởng đến việc bạn sử dụng các ứng dụng khác. Vẫn vô hiệu hóa?</string>
+	<string name="app_disable_description_title">Tắt ứng dụng hệ thống?</string>
 </resources>
