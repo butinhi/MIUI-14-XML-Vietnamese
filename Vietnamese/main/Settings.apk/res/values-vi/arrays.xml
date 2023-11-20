@@ -590,7 +590,7 @@
         <item>Phần trăm (trong biểu tượng)</item>
 		<item>Phần trăm (cạnh biểu tượng)</item>
         <item>Thanh trên cùng</item>
-	</array>
+    </string-array>
     <string-array name="battery_indicator_style_summaries">
         <item>Đồ họa</item>
         <item>Phần trăm (trong biểu tượng)</item>
@@ -1415,7 +1415,7 @@ Ghi chú: Chỉ cho phiên bản Ubuntu 8.04!"</item>
         <item>Đồ họa</item>
         <item>Phần trăm (trong biểu tượng)</item>
 		<item>Phần trăm (cạnh biểu tượng)</item>
-	</array>
+    </string-array>
     <string-array name="notch_battery_indicator_style_summaries">
         <item>Đồ họa</item>
         <item>Phần trăm (trong biểu tượng)</item>
