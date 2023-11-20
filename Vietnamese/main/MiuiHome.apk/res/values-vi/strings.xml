@@ -1097,4 +1097,10 @@
 	<string name="all_apps_setting_jeejen_title">Thu gọn</string>
 	<string name="fsg_assist_enable_summary">Vuốt từ góc màn hình để sử dụng Trợ lý Google</string>
     <string name="fsg_assist_enable_title">Trợ lý Google</string>
+	<string name="new_privacy_thumbnail_blur_summary">Làm mờ xem trước ứng dụng trong Gần đây</string>
+	<string name="setting_close">Tắt</string>
+    <string name="setting_no_word">Mọi nơi</string>
+    <string name="setting_only_widget_no_word">Tiện ích</string>
+	<string name="miui_setting_config_title">Cài đặt Màn hình chính</string>
+	<string name="open_personal_assistant_settings_on">Bật</string>
 </resources>

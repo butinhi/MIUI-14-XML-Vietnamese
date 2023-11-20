@@ -2747,4 +2747,5 @@ Bạn có thể thay đổi lối tắt này sang tính năng khác trong Cài �
 	<string name="permgrouplab_readMediaAural">Âm nhạc và âm thanh</string>
     <string name="permgrouplab_readMediaVisual">Ảnh và video</string>
 	<string name="permgrouplab_notifications">Thông báo</string>
+	<string name="biometric_dialog_default_subtitle">Sử dụng vân tay của bạn để tiếp tục</string>
 </resources>

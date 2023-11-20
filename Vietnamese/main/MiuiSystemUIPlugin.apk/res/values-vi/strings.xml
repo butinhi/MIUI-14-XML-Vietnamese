@@ -599,4 +599,10 @@ Việc nghe ở mức âm lượng cao trong thời gian dài có thể gây t�
 	<string name="silent">Im lặng</string>
 	<string name="controls_add_device_guide">"Bạn chưa thêm bất kỳ thiết bị nhà thông minh nào"</string>
     <string name="controls_click_to_add_device">Thêm</string>
+	<string name="miuix_appcompat_edit">Sửa</string>
+	<string name="qs_customize_entry_button_text">Sửa</string>
+	<string name="qs_customize_header_title">Chỉnh sửa và sắp xếp</string>
+	<string name="qs_customize_header_sub_title">Kéo nút đã thêm để sắp xếp lại</string>
+	<string name="qs_customize_divider_label_packages_tiles_text">Nút ứng dụng</string>
+    <string name="qs_customize_divider_label_system_tiles_text">Nút hệ thống</string>
 </resources>

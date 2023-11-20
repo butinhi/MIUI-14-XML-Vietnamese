@@ -12556,4 +12556,22 @@ Tính năng này chỉ hoạt động khi điều hướng hệ thống được
 	<string name="wifi_tether_enabled_nosecurity_summary">"%1$s không được mã hóa"</string>
 	<string name="search_history_clear_description">Xóa lịch sử tìm kiếm</string>
 	<string name="search_history_description">Lịch sử tìm kiếm</string>
+	<string name="more_connection">Kết nối khác</string>
+	<string name="financed_privacy_notifications">Xem thông báo &amp; tin nhắn</string>
+	<string name="gesture_title_notifications">Xem thông báo &amp; Cài đặt nhanh</string>
+	<string name="notification_control_center_new">Thông báo &amp; thanh trạng thái</string>
+	<string name="notification_status_bar">Thông báo &amp; thanh trạng thái</string>
+	<string name="display_settings_new">Hiển thị &amp; độ sáng</string>
+	<string name="fingerprint_face_password_unlock_new">Vân tay, dữ liệu khuôn mặt và khóa màn hình</string>
+	<string name="security_settings_fingerprint_multiple_face_watch_preference_summary">Đã thêm khuôn mặt, dấu vân tay và %s</string>
+	<string name="notification_style_settings">Kiểu thông báo</string>
+	<string name="title_show_notification_icon">Hiển thị biểu tượng thông báo</string>
+	<string name="title_wordless_mode">"Không hiển thị nhãn biểu tượng"</string>
+	<string name="title_smart_device_control">Điều khiển thiết bị thông minh</string>
+	<string name="background_blur_enable">Hoạ tiết nâng cao</string>
+	<string name="background_blur_enable_summary">Thêm các hiệu ứng hiển thị như làm mờ trên toàn hệ thống để mang lại trải nghiệm hình ảnh nâng cao</string>
+	<string name="background_blur_message">Bật tính năng này có thể sử dụng nhiều năng lượng hơn và khiến thiết bị của bạn nóng lên. Vẫn bật?</string>
+	<string name="background_blur_title">Bật họa tiết nâng cao</string>
+	<string name="dark_mode_settings">Tùy chọn chế độ tối</string>
+	<string name="unused_apps_switch">Dừng hoạt động ứng dụng nếu không sử dụng</string>
 </resources>

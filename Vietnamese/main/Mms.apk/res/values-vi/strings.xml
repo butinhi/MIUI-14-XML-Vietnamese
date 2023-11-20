@@ -1671,4 +1671,6 @@ Tắt Chế độ máy bay trước."</string>
     <string name="mms_mi_message_request_notice">Chúng tôi muốn bạn tận dụng tối đa Tin nhắn Mi.</string>
 	<string name="mms_smart_msg_main_purpose">Tin nhắn Thông minh có thể nhận dạng ID người gửi, cung cấp danh mục dịch vụ thông minh và xác định các tin nhắn đáng ngờ.</string>
 	<string name="system_permission_user_privacy">Trước khi bạn tiếp tục, hãy đọc và đồng ý với các điều khoản và điều kiện sau.</string>
+	<string name="search_sms">Tìm kiếm tin nhắn</string>
+	<string name="system_permission_declare_exit">Thoát</string>
 </resources>

@@ -137,6 +137,7 @@ Nếu bạn bật dữ liệu di động lại, nhà mạng sẽ tính phí bổ
     </plurals>
     <plurals name="sp_settings_exception_count">
         <item quantity="other">%d mục</item>
+		<item quantity="one">%d mục</item>
     </plurals>
     <plurals name="sp_monitored_apps_count">
         <item quantity="other">%s ứng dụng thanh toán được bảo vệ</item>
@@ -272,6 +273,7 @@ Nếu bạn bật dữ liệu di động lại, nhà mạng sẽ tính phí bổ
     </plurals>
 	<plurals name="power_center_menu_text">
         <item quantity="other">mục</item>
+		<item quantity="one">mục</item>
     </plurals>
 	<plurals name="menu_text_antivirus_2">
         <item quantity="other">%d mục</item>
@@ -728,5 +730,9 @@ Nghỉ ngơi chút đi!"</item>
 	    <plurals name="power_center_battery_optimization">
         <item quantity="other">Tối ưu hóa mức sử dụng pin trong %d tình huống</item>
         <item quantity="one">Tối ưu hóa mức sử dụng pin trong %d tình huống</item>
+	</plurals>
+		<plurals name="pc_can_be_optimize_numbers">
+        <item quantity="other">%d mục</item>
+        <item quantity="one">%d mục</item>
     </plurals>
 </resources>

@@ -2992,4 +2992,8 @@ Vui lòng gửi mã này cho nhân viên kỹ thuật."</string>
 	<string name="pa_toast_message_not_support_size">"Tiện ích có kích thước này không được App vault hỗ trợ"</string>
 	<string name="pa_picker_detail_launcher_screen_lock">"Bố cục Màn hình chính của bạn bị khóa. Không thể thêm tiện ích."</string>
 	<string name="pa_picker_toast_screen_cell_locked">"Bố cục Màn hình chính của bạn bị khóa. Không thể thêm tiện ích."</string>
+	<string name="pa_stack_summary">Di chuyển tiện ích có thông tin mới lên trên cùng</string>
+    <string name="pa_stack_text">Di chuyển mục đã cập nhật lên trên</string>
+	<string name="pa_express_widget_search">Tìm kiếm</string>
+	<string name="pa_global_search_description">Tìm kiếm</string>	
 </resources>

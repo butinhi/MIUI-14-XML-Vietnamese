@@ -590,6 +590,12 @@
         <item>Phần trăm (trong biểu tượng)</item>
 		<item>Phần trăm (cạnh biểu tượng)</item>
         <item>Thanh trên cùng</item>
+	</array>
+    <string-array name="battery_indicator_style_summaries">
+        <item>Đồ họa</item>
+        <item>Phần trăm (trong biểu tượng)</item>
+        <item>Phần trăm (cạnh biểu tượng)</item>
+        <item>Thanh trên cùng</item>
     </string-array>
     <string-array name="usb_connection_mode_entries">
         <item>Hỏi khi kết nối</item>
@@ -1409,6 +1415,11 @@ Ghi chú: Chỉ cho phiên bản Ubuntu 8.04!"</item>
         <item>Đồ họa</item>
         <item>Phần trăm (trong biểu tượng)</item>
 		<item>Phần trăm (cạnh biểu tượng)</item>
+	</array>
+    <string-array name="notch_battery_indicator_style_summaries">
+        <item>Đồ họa</item>
+        <item>Phần trăm (trong biểu tượng)</item>
+        <item>Phần trăm (cạnh biểu tượng)</item>
     </string-array>
 	<string-array name="status_bar_settings_notification_shade_shortcut_entries">
         <item>Tìm kiếm</item>
@@ -1801,5 +1812,15 @@ Ghi chú: Chỉ cho phiên bản Ubuntu 8.04!"</item>
         <item>Tiêu chuẩn</item>
         <item>Chạm</item>
         <item>Chạm trực tiếp</item>
+    </string-array>
+	<array name="slice_allowlist_package_names" />
+    <string-array name="smart_device_control_entries">
+        <item>@string/mi_smart_hub_entry_title</item>
+        <item>Nhà thông minh</item>
+        <item>Không</item>
+	</string-array>
+    <string-array name="smart_home_entries">
+        <item>Nhà thông minh</item>
+        <item>Không</item>
     </string-array>
 </resources>
