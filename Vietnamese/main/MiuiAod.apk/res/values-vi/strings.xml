@@ -510,7 +510,7 @@ dd/M"</string>
 	<string name="miuix_indexer_selected">Đã chọn %s</string>
 	<string name="add_from_local">Chọn ảnh</string>
 	<string name="panel_clock">Đồng hồ kim</string>
-	<string name="aod_app_name">Màn hình luôn bật & Chỉnh sửa màn hình khóa</string>
+	<string name="aod_app_name">Màn hình luôn bật &amp; Chỉnh sửa màn hình khóa</string>
 	<string name="kg_activity_label">Sửa Màn hình khóa</string>
 	<string name="kg_dialog_apply_not_support_super_wallpaper_confirm">"Màn hình khóa này không hỗ trợ Siêu hình nền. Hình nền trên cả Màn hình chính và Màn hình khóa sẽ được thay thế nếu bạn tiếp tục. Vẫn tiếp tục?"</string>
 	<string name="kg_dialog_apply_super_wallpaper_confirm">"Bạn hiện đang sử dụng Siêu hình nền. Hình nền này sẽ được thay thế bằng hình nền mới trên cả Màn hình chính và Màn hình khóa nếu bạn tiếp tục. Vẫn tiếp tục?"</string>
