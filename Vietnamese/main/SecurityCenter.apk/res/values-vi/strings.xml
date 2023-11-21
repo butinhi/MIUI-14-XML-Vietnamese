@@ -6091,6 +6091,5 @@ Ghi lại các trình tự và sử dụng chúng bất cứ lúc nào!"</string
 	<string name="safety">Bảo mật</string>
 	<string name="pc_power_save_settings_new">Cài đặt tiết kiệm pin</string>
 	<string name="pc_charged_auto_close_title">Tắt khi sạc</string>
-	<string name="power_save_mode_auto_exit_summary_new">Tắt khi pin còn %s hoặc đã sạc đầy</string>
 	<string name="permission_legacy_storage">Truy cập ảnh, video, âm thanh và tập tin</string>
 </resources>
