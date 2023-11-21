@@ -586,7 +586,7 @@ Dường như ở đó không có ngựa hay bất kỳ loài động vật nào
     <string name="bluetooth_rename_device">Đổi tên thiết bị này</string>
     <string name="bluetooth_rename_button">Đổi tên</string>
     <string name="bluetooth_disconnect_title">Ngắt kết nối?</string>
-    <string name="bluetooth_disconnect_all_profiles">Tác vụ này sẽ kết thúc kết nối của bạn với:&lt;br>&lt;b>%1$s&lt;/b></string>
+    <string name="bluetooth_disconnect_all_profiles">Tác vụ này sẽ kết thúc kết nối của bạn với %1$s</string>
     <string name="bluetooth_empty_list_user_restricted">Bạn không có quyền thay đổi cài đặt Bluetooth.</string>
     <string name="bluetooth_is_visible_message">%1$s hiển thị với thiết bị lân cận khi cài đặt Bluetooth mở.</string>
     <string name="bluetooth_is_disconnect_question">Ngắt kết nối %1$s?</string>
