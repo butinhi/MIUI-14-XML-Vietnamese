@@ -12574,4 +12574,7 @@ Tính năng này chỉ hoạt động khi điều hướng hệ thống được
 	<string name="background_blur_title">Bật họa tiết nâng cao</string>
 	<string name="dark_mode_settings">Tùy chọn chế độ tối</string>
 	<string name="unused_apps_switch">Dừng hoạt động ứng dụng nếu không sử dụng</string>
+	<string name="focus_summary">Sử dụng định dạng thông báo tùy chỉnh để làm nổi bật thông tin quan trọng</string>
+    <string name="focus_title">Thông báo nổi bật</string>
+	<string name="notification_app_permissions">Quyền thông báo</string>
 </resources>
