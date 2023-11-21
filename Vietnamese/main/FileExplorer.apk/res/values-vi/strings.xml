@@ -1755,4 +1755,5 @@ Gia nhập cùng 170 triệu Mi Fan!"</string>
 	<string name="extend_service_setting">Dịch vụ bổ sung</string>
     <string name="extend_service_summary">"Nếu tắt dịch vụ này, bạn sẽ không thể sử dụng các tính năng liên quan đến Mi Drive"</string>
     <string name="extend_service_title">Quản lý tệp Mi Drive</string>
+	<string name="cta_use_sync_midrive_file">Để đồng bộ hóa tập tin với Mi Drive</string>
 </resources>

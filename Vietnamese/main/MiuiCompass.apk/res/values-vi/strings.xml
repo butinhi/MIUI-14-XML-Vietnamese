@@ -415,4 +415,6 @@
 	<string name="fmt_date">D</string>
 	<string name="fmt_time_millis">"S 'mili giây'"</string>
 	<string name="fmt_time">T</string>
+	<string name="location_permission_tip_one">Nhấn để cấp quyền truy cập vị trí để xem vĩ độ, kinh độ, áp suất không khí và độ cao.</string>
+    <string name="location_permission_tip_two">Nhấn để cấp quyền truy cập vị trí để xem vĩ độ và kinh độ.</string>
 </resources>

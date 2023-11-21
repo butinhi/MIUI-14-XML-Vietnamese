@@ -4022,7 +4022,7 @@ Chuyển sang %1$s sẽ không hủy dịch vụ %2$s của bạn."</string>
     <string name="nfc_payment_use_default">Sử dụng mặc định</string>
     <string name="nfc_quick_toggle_summary">Cho phép trao đổi dữ liệu khi điện thoại chạm vào thiết bị khác</string>
     <string name="nfc_repair_action_btn">Khôi phục</string>
-    <string name="nfc_repair_action_desc">Chạm \"&lt;b>Khôi phục&lt;/b>\" để sửa vấn đề ngăn bạn sử dụng tính năng NFC. Không rời trang hiện tại khi khôi phục tính năng NFC. Khởi động lại thiết bị để áp dụng thay đổi.</string>
+    <string name="nfc_repair_action_desc">Nhấn vào \"<b>Khôi phục</b>"\" để khắc phục sự cố khiến bạn không thể sử dụng các tính năng NFC. Đừng rời khỏi trang hiện tại trong khi chức năng NFC đang được khôi phục. Hãy khởi động lại thiết bị của bạn để áp dụng các thay đổi."</string>
     <string name="nfc_repair_btn_no">Không</string>
     <string name="nfc_repair_btn_reboot">Khởi động lại</string>
     <string name="nfc_repair_btn_reboot_later">Để sau</string>

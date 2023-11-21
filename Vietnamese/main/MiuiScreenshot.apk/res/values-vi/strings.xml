@@ -486,4 +486,8 @@
 	<string name="app_name">Ảnh chụp màn hình</string>
 	<string name="global_main_purpose">Chào mừng bạn đến với Trình chỉnh sửa ảnh chụp màn hình! Bạn có thể sử dụng ứng dụng này để cắt và chỉnh sửa ảnh chụp màn hình của mình. Ứng dụng này cần kết nối với internet để có thể hoạt động bình thường.</string>
 	<string name="cta_main_purpose">Chào mừng bạn đến với Trình chỉnh sửa ảnh chụp màn hình! Bạn có thể sử dụng ứng dụng này để cắt và chỉnh sửa ảnh chụp màn hình của mình.</string>
+    <string name="copy_dialog_confirm">Hiểu rồi</string>
+    <string name="copy_dialog_content">Ảnh chụp màn hình sẽ tự động được thêm vào khay nhớ tạm của bạn và có thể dán được. Bạn có thể tắt tính năng này trong Cài đặt bằng cách tìm kiếm \"Thêm mục vào bảng nhớ tạm\".</string>
+    <string name="copy_dialog_title">Chú ý</string>
+    <string name="copy_success_toast">Sao chép thành công</string>
 </resources>

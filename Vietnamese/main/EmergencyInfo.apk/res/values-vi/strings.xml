@@ -816,4 +816,5 @@ Bất cứ người dùng nào cũng có thể cập nhật ứng dụng cho ng�
 	<string name="config_rat_4g">4G</string>
 	<string name="config_rat_3g">3G</string>
 	<string name="config_rat_2g">2G</string>
+	<string name="wifitrackerlib_checking_for_internet_access">Kiểm tra truy cập internet...</string>
 </resources>

@@ -3377,4 +3377,5 @@ dd/MM"</string>
     <string name="strong_toast_quick_charging">Đang sạc nhanh</string>
 	<string name="quick_settings_rotation_state_change_message_on">Xoay màn hình tắt</string>
 	<string name="quick_settings_rotation_state_change_message_off">Xoay màn hình bật</string>
+	<string name="wifitrackerlib_checking_for_internet_access">Kiểm tra truy cập internet...</string>
 </resources>

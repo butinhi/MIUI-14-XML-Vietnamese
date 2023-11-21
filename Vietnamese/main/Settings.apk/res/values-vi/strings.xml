@@ -12577,4 +12577,6 @@ Tính năng này chỉ hoạt động khi điều hướng hệ thống được
 	<string name="focus_summary">Sử dụng định dạng thông báo tùy chỉnh để làm nổi bật thông tin quan trọng</string>
     <string name="focus_title">Thông báo nổi bật</string>
 	<string name="notification_app_permissions">Quyền thông báo</string>
+	<string name="wifitrackerlib_checking_for_internet_access">Kiểm tra truy cập internet...</string>
+	<string name="accessibility_text_reading_options_suggestion_title">Thay đổi cách hiển thị văn bản</string>
 </resources>
