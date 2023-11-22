@@ -820,4 +820,8 @@ sau khi Sức khỏe Mi phân tích đủ dữ liệu"</string>
 	<string name="timer_desc_use_brush_teeth">Đánh răng</string>
     <string name="timer_desc_use_facial_mask">Khẩu trang</string>
     <string name="bedtime_sleep_time_remind_new">"Bạn sẽ được nhắc đi ngủ %d phút trước giờ này"</string>
+	<string name="snooze_alarm_alert">Đã tạm ẩn cho đến %s</string>
+	<string name="alarm_alert">Báo thức đang reo</string>
+	<string name="upcoming_alarm">Báo thức sắp tới: %s</string>
+	<string name="upcoming_alarm_new">Báo thức sắp tới: %s</string>
 </resources>

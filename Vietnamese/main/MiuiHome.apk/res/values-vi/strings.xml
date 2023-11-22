@@ -1104,4 +1104,5 @@
 	<string name="miui_setting_config_title">Cài đặt Màn hình chính</string>
 	<string name="open_personal_assistant_settings_on">Bật</string>
 	<string name="new_recents_config_title">Khác</string>
+	<string name="open_personal_assistant_settings_off">Tắt</string>
 </resources>
