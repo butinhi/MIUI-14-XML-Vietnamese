@@ -148,7 +148,6 @@
     <string name="tomorrow">Ngày mai</string>
     <string name="turn_off_a_repeat_alarm">Tắt lặp lại báo thức</string>
     <string name="turn_off_this_repeat_alarm">Tắt lặp lại báo thức này</string>
-    <string name="upcoming_alarm">Báo thức %s sắp đổ chuông</string>
     <string name="upcoming_alarm_hint">Bạn có thể đóng trước báo thức này</string>
     <string name="vibrate_pref_summary">Rung khi báo thức</string>
     <string name="vibrate_when_ringing">Rung khi báo thức</string>
