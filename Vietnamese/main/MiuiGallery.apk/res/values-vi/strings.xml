@@ -3301,4 +3301,17 @@ Phiên dịch có thể mất một lúc khi bạn sử dụng tính năng này 
 	<string name="immersion_menu_all_photos">Tất cả các mục</string>
     <string name="immersion_menu_camera_photos">Album máy ảnh</string>
     <string name="immersion_menu_photo_switch_notice">Nhấn để chọn hiển thị tất cả các mục hay chỉ hiển thị album máy ảnh tại đây</string>
+	<string name="segment_change_background">Thay đổi nền</string>
+    <string name="segment_copy">Sao chép</string>
+    <string name="segment_copy_fail">"Không thể sao chép"</string>
+    <string name="segment_copy_processing">Đang sao chép…</string>
+    <string name="segment_copy_success">Đã sao chép thành công</string>
+    <string name="segment_no_result">"Không thể phát hiện chủ đề của bức ảnh này"</string>
+    <string name="segment_save">Lưu</string>
+    <string name="segment_save_fail">"Không thể lưu"</string>
+    <string name="segment_save_processing">Đang lưu…</string>
+    <string name="segment_save_success">Đã lưu vào Thư viện</string>
+    <string name="segment_send">Gửi</string>
+    <string name="segment_send_processing">Đang chuẩn bị gửi…</string>
+	<string name="operation_copy_to_clipboard">Sao chép</string>
 </resources>
