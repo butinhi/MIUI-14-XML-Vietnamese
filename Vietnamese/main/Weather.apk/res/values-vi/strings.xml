@@ -834,4 +834,8 @@ Chạm vào màn hình để thêm thủ công hoặc định vị lại thành 
 	<string name="miuix_indexer_selected">Đã chọn %s</string>
 	<string name="select_show_city">Chọn vị trí</string>
 	<string name="content_desc_activity_main_page">Trang %1$d/%2$d</string>
+	<string name="feedback_rain_forecast_title">Dự báo lượng mưa</string>
+	<string name="act_find_city_location_button_text">Nhận vị trí hiện tại</string>
+	<string name="precipitation_forecast_desc">Nhấn để xem dự báo</string>
+	<string name="minute_rain_title">Dự báo lượng mưa</string>
 </resources>
