@@ -12579,4 +12579,12 @@ Tính năng này chỉ hoạt động khi điều hướng hệ thống được
 	<string name="notification_app_permissions">Quyền thông báo</string>
 	<string name="wifitrackerlib_checking_for_internet_access">Kiểm tra truy cập internet...</string>
 	<string name="accessibility_text_reading_options_suggestion_title">Thay đổi cách hiển thị văn bản</string>
+	<string name="device_info_protected_single_press">Nhấn để hiển thị thông tin</string>
+	<string name="privacy_and_security">Quyền riêng tư &amp; Bảo mật</string>
+	<string name="title_quick_control_all_devices">Hiển thị điều khiển cho các thiết bị lân cận</string>
+	<string name="summary_quick_control_all_devices">Hiển thị các điều khiển cho TV, loa và ô tô ở gần trong Trung tâm điều khiển</string>
+	<string name="extension_function">Các tính năng ứng dụng bổ sung</string>
+    <string name="extension_function_hint">Các phím tắt tính năng sẽ không còn xuất hiện trong Cài đặt sau khi bạn tắt công tắc</string>
+	<string name="ex_func_find_device">Bảo mật - Tìm thiết bị</string>
+	<string name="wifi_validation">Xác minh mạng…</string>
 </resources>

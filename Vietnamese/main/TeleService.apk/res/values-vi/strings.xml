@@ -3692,4 +3692,6 @@ Bất cứ người dùng nào cũng có thể cập nhật ứng dụng cho ng�
 	<string name="mobile_settings_screen_title">Dữ liệu di động</string>
 	<string name="dial_settings_screen_title">Cài đặt trình quay số</string>
 	<string name="other_settings_screen_title">Cài đặt khác</string>
+	<string name="smart_switch_dual_sim_summary">Tự động chuyển đổi giữa các SIM dữ liệu dựa trên chất lượng kết nối mạng và trạng thái thiết bị</string>
+    <string name="smart_switch_dual_sim_title">Chuyển đổi SIM dữ liệu</string>
 </resources>

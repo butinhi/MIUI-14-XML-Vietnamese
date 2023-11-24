@@ -1140,4 +1140,14 @@ Hãy chắc chắn bạn nhớ tất cả câu trả lời."</string>
     <string name="user_license_without_3rd_app"><Data>"Tôi đã đọc và đồng ý với &lt;a href=%1$s>Thỏa thuận người dùng&lt;/a> và &lt;a href=%2$s>Chính sách quyền riêng tư&lt;/a> của Tài khoản Xiaomi."</Data></string>
 	<string name="use_google_account_login">Đăng nhập bằng Google</string>
 	<string name="keep_phone_ticket_login">Đăng nhập bằng mã xác minh</string>
+    <string name="user_agreement_device_permission_desc">Để đảm bảo tính bảo mật của môi trường đăng nhập</string>
+    <string name="user_agreement_device_permission_title">Truy cập thông tin thiết bị</string>
+    <string name="user_agreement_must_permission_msg">Quyền bắt buộc (được sử dụng cho các tính năng và dịch vụ cơ bản của ứng dụng này)</string>
+    <string name="user_agreement_permission_summary_msg">Tài khoản Xiaomi cho phép bạn truy cập tất cả các dịch vụ do Xiaomi cung cấp. Ứng dụng này cần kết nối với internet và yêu cầu các quyền sau để có thể hoạt động bình thường:</string>
+    <string name="user_agreement_read_phone_permission_desc">Để đăng nhập bằng số điện thoại</string>
+    <string name="user_agreement_read_phone_permission_title">Đọc số điện thoại</string>
+    <string name="user_agreement_use_account_msg">Tài khoản Xiaomi cho phép bạn truy cập tất cả các dịch vụ do Xiaomi cung cấp.</string>
+    <string name="user_agreement_wifi_permission_title">Bật và tắt Wi-Fi</string>
+    <string name="user_agreement_wlan_permission_desc">Để kiểm tra môi trường đăng nhập để phát hiện các vấn đề bảo mật</string>
+    <string name="user_agreement_wlan_permission_title_china">Bật và tắt Wi-Fi</string>
 </resources>

@@ -1781,4 +1781,7 @@ Tất cả các mục cá nhân hóa hiện đang được sử dụng trên thi
 	<string name="lock_screen_keyguard_guide_popup">Kiểm tra các tính năng và thiết kế màn hình Khóa hoàn toàn mới, được cá nhân hóa</string>
     <string name="lock_screen_keyguard_tip_title">Màn hình khóa được cá nhân hóa hoàn toàn mới</string>
     <string name="lockscreen_tip_content">Nhấn và giữ màn hình Khóa để bắt đầu chỉnh sửa. Biến nó thực sự là của bạn với các tùy chọn và mẫu tùy chỉnh hoàn toàn mới.</string>
+	<string name="component_title_widget_suit">Tiện ích</string>
+	<string name="custom_widget">Tiện ích được đề xuất</string>
+	<string name="personalize_second_space_not_support_buy_widget">"Không thể mua tiện ích ở Không gian thứ hai"</string>
 </resources>

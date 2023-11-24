@@ -838,4 +838,7 @@ Chạm vào màn hình để thêm thủ công hoặc định vị lại thành 
 	<string name="act_find_city_location_button_text">Nhận vị trí hiện tại</string>
 	<string name="precipitation_forecast_desc">Nhấn để xem dự báo</string>
 	<string name="minute_rain_title">Dự báo lượng mưa</string>
+    <string name="act_find_city_location_title">Vị trí hiện tại</string>
+	<string name="background_location_dialog_msg">"Để đảm bảo ứng dụng này luôn sử dụng thông tin vị trí chính xác, hãy cho phép ứng dụng truy cập vào vị trí của bạn khi ứng dụng đang chạy ở chế độ nền. Bạn có thể cấp quyền này trong Cài đặt."</string>
+    <string name="request_permission_background_location_dialog_content">Để đảm bảo ứng dụng này luôn sử dụng thông tin vị trí chính xác, hãy luôn cho phép ứng dụng truy cập vào vị trí của bạn.</string>
 </resources>

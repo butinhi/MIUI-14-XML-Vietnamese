@@ -3314,4 +3314,5 @@ Phiên dịch có thể mất một lúc khi bạn sử dụng tính năng này 
     <string name="segment_send">Gửi</string>
     <string name="segment_send_processing">Đang chuẩn bị gửi…</string>
 	<string name="operation_copy_to_clipboard">Sao chép</string>
+	<string name="home_page_empty_action_new">Nhập từ thiết bị cũ</string>
 </resources>

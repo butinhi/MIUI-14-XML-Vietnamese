@@ -708,4 +708,8 @@ Bạn cần đọc và đồng ý với Chính sách Riêng tư Mint Keyboard tr
 	<string name="cookies_title">Nội dung và cookie được cá nhân hóa</string>
 	<string name="cookies_content_one">"Khi bạn nhấn vào hình ảnh và câu chuyện trong Băng chuyền hình nền, chúng tôi sẽ mở phiên bản đầy đủ của chúng trong trình duyệt của bạn. Taboola, nhà cung cấp nội dung bên thứ ba đáng tin cậy của chúng tôi, sau đó có thể đề xuất nội dung và quảng cáo bổ sung phù hợp với sở thích của bạn. Nếu bạn đồng ý kích hoạt tính năng này, Taboola sẽ đặt cookie trên thiết bị của bạn thông qua trình duyệt, như được mô tả trong &lt;a href =%1$s>Chính sách cookie&lt;/a> của Taboola. Nếu bạn từ chối sử dụng cookie, các mục Băng chuyền hình nền sẽ tiếp tục xuất hiện trên Màn hình khóa của bạn và toàn bộ câu chuyện sẽ được mở trong trình duyệt của bạn nhưng các đề xuất bổ sung sẽ không được chọn cụ thể cho bạn. Bạn có thể thay đổi tùy chọn của mình bất cứ lúc nào trong Cài đặt."</string>
     <string name="refuse_cookie">Từ chối cookie</string>
+	<string name="other_settings_alarm_assistance">Vị trí khẩn cấp</string>
+    <string name="other_settings_alarm_assistance_privacy">Chính sách bảo mật</string>
+    <string name="other_settings_alarm_assistance_summary">"Bạn có thể tự động gửi thông tin vị trí của mình cho cảnh sát bằng SMS hoặc dữ liệu di động khi bạn đang gọi 110, 120, 119 hoặc 122. Đọc và đồng ý với &lt;a href=\"%1$s\">Thỏa thuận người dùng&lt của chúng tôi ;/a> và &lt;a href=\"%2$s\">Chính sách quyền riêng tư&lt;/a> trước khi sử dụng tính năng này."</string>
+    <string name="other_settings_alarm_assistance_user">Thỏa thuận người dùng</string>
 </resources>
