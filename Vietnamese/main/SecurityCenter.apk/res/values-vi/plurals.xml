@@ -735,4 +735,8 @@ Nghỉ ngơi chút đi!"</item>
         <item quantity="other">%d mục</item>
         <item quantity="one">%d mục</item>
     </plurals>
+	<plurals name="storage_compact_warning">
+        <item quantity="other">Sửa %1$d quyền</item>
+        <item quantity="one">Sửa %1$d quyền</item>
+    </plurals>
 </resources>

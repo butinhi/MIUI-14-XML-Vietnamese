@@ -820,4 +820,6 @@ Bạn cần phải cài đặt phiên bản MIUI của nhà phát triển để 
     <string name="grant_dialog_button_allow_selected_photos">Chọn một số</string>
     <string name="grant_dialog_storage_gallery_title">Hình ảnh và video được chụp bởi camera</string>
     <string name="grant_dialog_storage_sociality_title">Tin nhắn trong ứng dụng mạng xã hội</string>
+	<string name="HIPS_Perm_operator_wall_paper">Dịch vụ hình nền động</string>
+    <string name="HIPS_Perm_operator_wall_paper_Desc">Chỉnh sửa hệ thống dịch vụ hình nền động</string>
 </resources>
