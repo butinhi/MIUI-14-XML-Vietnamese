@@ -3315,4 +3315,5 @@ Phiên dịch có thể mất một lúc khi bạn sử dụng tính năng này 
     <string name="segment_send_processing">Đang chuẩn bị gửi…</string>
 	<string name="operation_copy_to_clipboard">Sao chép</string>
 	<string name="home_page_empty_action_new">Nhập từ thiết bị cũ</string>
+    <string name="app_summary_2">Lưu trữ, quản lý và chỉnh sửa ảnh cũng như video trên thiết bị này</string>
 </resources>

@@ -710,6 +710,6 @@ Bạn cần đọc và đồng ý với Chính sách Riêng tư Mint Keyboard tr
     <string name="refuse_cookie">Từ chối cookie</string>
 	<string name="other_settings_alarm_assistance">Vị trí khẩn cấp</string>
     <string name="other_settings_alarm_assistance_privacy">Chính sách bảo mật</string>
-    <string name="other_settings_alarm_assistance_summary">"Bạn có thể tự động gửi thông tin vị trí của mình cho cảnh sát bằng SMS hoặc dữ liệu di động khi bạn đang gọi 110, 120, 119 hoặc 122. Đọc và đồng ý với &lt;a href=\"%1$s\">Thỏa thuận người dùng&lt của chúng tôi ;/a> và &lt;a href=\"%2$s\">Chính sách quyền riêng tư&lt;/a> trước khi sử dụng tính năng này."</string>
+    <string name="other_settings_alarm_assistance_summary">"Bạn có thể tự động gửi thông tin vị trí của mình cho cảnh sát bằng SMS hoặc dữ liệu di động khi bạn đang gọi 110, 120, 119 hoặc 122. Đọc và đồng ý với &lt;a href=\"%1$s\">Thỏa thuận người dùng &lt của chúng tôi ;/a> và &lt;a href=\"%2$s\">Chính sách quyền riêng tư&lt;/a> trước khi sử dụng tính năng này."</string>
     <string name="other_settings_alarm_assistance_user">Thỏa thuận người dùng</string>
 </resources>

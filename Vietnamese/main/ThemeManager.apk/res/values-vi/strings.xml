@@ -1784,4 +1784,5 @@ Tất cả các mục cá nhân hóa hiện đang được sử dụng trên thi
 	<string name="component_title_widget_suit">Tiện ích</string>
 	<string name="custom_widget">Tiện ích được đề xuất</string>
 	<string name="personalize_second_space_not_support_buy_widget">"Không thể mua tiện ích ở Không gian thứ hai"</string>
+	<string name="personalize_item_more_setting">Cài đặt thêm</string>
 </resources>
