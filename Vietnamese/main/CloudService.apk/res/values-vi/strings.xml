@@ -1494,4 +1494,8 @@ Thông tin vị trí có thể không được báo cáo khi kết nối mạng 
 	<string name="cloud_storage_upgrade_text_now">Nâng cấp</string>
 	<string name="cloud_storage_zero_upgrade_button_text_now">Nâng cấp miễn phí</string>
 	<string name="cloud_storage_common_functions_text">Thường xuyên sử dụng</string>
+	<string name="privacy_runtime_perm_call_log_desc">Để đồng bộ bản ghi cuộc gọi</string>
+	<string name="privacy_runtime_perm_contacts_desc">Để đồng bộ danh bạ</string>
+	<string name="privacy_runtime_perm_external_storage_desc">Để đồng bộ ảnh hồ sơ liên hệ</string>
+	<string name="privacy_runtime_perm_sms_desc">Để đồng bộ tin nhắn</string>
 </resources>
