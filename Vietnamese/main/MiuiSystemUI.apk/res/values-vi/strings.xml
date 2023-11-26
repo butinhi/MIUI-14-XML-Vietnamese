@@ -3380,4 +3380,6 @@ dd/MM"</string>
 	<string name="wifitrackerlib_checking_for_internet_access">Kiểm tra truy cập internet...</string>
 	<string name="quick_settings_bluetooth_connected_tip">Đã kết nối qua Bluetooth thành công</string>
     <string name="quick_settings_bluetooth_disconnected_tip">Tất cả các thiết bị Bluetooth sẽ bị ngắt kết nối trong ngày hôm nay</string>
+	<string name="quick_settings_intelligent_dual_sim_accelerate_summary">Sử dụng dữ liệu di động của SIM phụ để tăng tốc độ kết nối</string>
+    <string name="quick_settings_intelligent_dual_sim_accelerate_title">SIM kép thông minh</string>
 </resources>

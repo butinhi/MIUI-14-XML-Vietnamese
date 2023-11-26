@@ -12587,7 +12587,7 @@ Tính năng này chỉ hoạt động khi điều hướng hệ thống được
     <string name="extension_function_hint">Các phím tắt tính năng sẽ không còn xuất hiện trong Cài đặt sau khi bạn tắt công tắc</string>
 	<string name="ex_func_find_device">Bảo mật - Tìm thiết bị</string>
 	<string name="wifi_validation">Xác minh mạng…</string>
-	<string name="bluetooth_inband_ringing">Allow Cho phép nhạc chuông trong băng tần</string>
+	<string name="bluetooth_inband_ringing">Cho phép nhạc chuông trong băng tần</string>
     <string name="bluetooth_inband_ringing_summary">Cho phép phát nhạc chuông điện thoại qua tai nghe Bluetooth. Tính năng này chỉ có thể được sử dụng khi một thiết bị được kết nối và có thể không tương thích với một số thiết bị.</string>
 	<string name="bt_half_close_switch_summary">Nếu bạn tắt Bluetooth, Bluetooth sẽ tự động bật lại vào ngày hôm sau và thiết bị của bạn sẽ kết nối lại</string>
     <string name="bt_half_close_switch_title">Luôn bật Bluetooth</string>

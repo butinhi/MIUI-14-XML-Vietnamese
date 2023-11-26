@@ -3694,4 +3694,6 @@ Bất cứ người dùng nào cũng có thể cập nhật ứng dụng cho ng�
 	<string name="other_settings_screen_title">Cài đặt khác</string>
 	<string name="smart_switch_dual_sim_summary">Tự động chuyển đổi giữa các SIM dữ liệu dựa trên chất lượng kết nối mạng và trạng thái thiết bị</string>
     <string name="smart_switch_dual_sim_title">Chuyển đổi SIM dữ liệu</string>
+	<string name="dual_sim_smart_call_forward_summary">"Chuyển tiếp cuộc gọi sang SIM khác khi không thể chấp nhận"</string>
+    <string name="dual_sim_smart_call_forward_title">Chuyển tiếp sang SIM khác</string>
 </resources>
