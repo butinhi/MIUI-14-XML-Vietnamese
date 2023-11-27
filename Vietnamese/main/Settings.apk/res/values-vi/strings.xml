@@ -8938,7 +8938,7 @@ Tính năng này có thể tắt trong [Cài đặt]"</string>
 	<string name="input_method_function_xiaoai_des">Chạm để sử dụng Nhập liệu giọng nói Mi AI</string>
 	<string name="left_function_key">Lối tắt trái</string>
 	<string name="normal_bottom_height_of_keyboard">Thường</string>
-	<string name="power_usage_summary_title_new">Pin &amp; Hiệu suất</string>
+	<string name="power_usage_summary_title_new">Pin &amp; hiệu suất</string>
 	<string name="raise_bottom_height_of_keyboard">Nâng cao</string>
 	<string name="raise_bottom_height_of_keyboard_sub_title">Một thanh chứa lối tắt tùy chỉnh sẽ xuất hiện bên dưới bàn phím nếu bạn chuyển sang chế độ Nâng cao</string>
 	<string name="raise_bottom_height_of_keyboard_title">Điều chỉnh bàn phím với Màn hình tràn cạnh</string>
@@ -12580,7 +12580,7 @@ Tính năng này chỉ hoạt động khi điều hướng hệ thống được
 	<string name="wifitrackerlib_checking_for_internet_access">Kiểm tra truy cập internet...</string>
 	<string name="accessibility_text_reading_options_suggestion_title">Thay đổi cách hiển thị văn bản</string>
 	<string name="device_info_protected_single_press">Nhấn để hiển thị thông tin</string>
-	<string name="privacy_and_security">Quyền riêng tư &amp; Bảo mật</string>
+	<string name="privacy_and_security">Quyền riêng tư &amp; bảo mật</string>
 	<string name="title_quick_control_all_devices">Hiển thị điều khiển cho các thiết bị lân cận</string>
 	<string name="summary_quick_control_all_devices">Hiển thị các điều khiển cho TV, loa và ô tô ở gần trong Trung tâm điều khiển</string>
 	<string name="extension_function">Các tính năng ứng dụng bổ sung</string>
