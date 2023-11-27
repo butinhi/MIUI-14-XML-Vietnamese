@@ -822,4 +822,16 @@ Bạn cần phải cài đặt phiên bản MIUI của nhà phát triển để 
     <string name="grant_dialog_storage_sociality_title">Tin nhắn trong ứng dụng mạng xã hội</string>
 	<string name="HIPS_Perm_operator_wall_paper">Dịch vụ hình nền động</string>
     <string name="HIPS_Perm_operator_wall_paper_Desc">Chỉnh sửa hệ thống dịch vụ hình nền động</string>
+	<string name="group_audio">Âm nhạc và âm thanh</string>
+    <string name="group_call">Điện thoại</string>
+    <string name="group_connect_device">Khả năng kết nối</string>
+    <string name="group_file">Tập tin và tài liệu</string>
+    <string name="group_image_video">Ảnh và video</string>
+    <string name="group_location">Vị trí</string>
+    <string name="group_nearby_device">Thiết bị lân cận</string>
+    <string name="group_other">Các quyền khác</string>
+    <string name="group_read_clipboard">Truy cập bảng nhớ tạm</string>
+    <string name="group_sms">Tin nhắn</string>
+    <string name="group_sport_healthy">Sức khỏe và hoạt động</string>
+    <string name="group_write_clipboard">Thêm mục vào clipboard</string>
 </resources>

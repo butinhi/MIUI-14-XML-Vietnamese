@@ -10115,7 +10115,7 @@ Tiếp tục truy cập cài đặt bổ sung."</string>
 • Theo dõi trạng thái thiết bị
 Để phát ghi âm SOS khi liên lạc khẩn cấp của bạn nhận
 Nếu bạn không đồng ý cấp các quyền đó, bạn sẽ không thể sử dụng một số tính năng của ứng dụng này; tuy nhiên, chức năng cơ bản của nó vẫn sẽ có sẵn cho bạn. Bạn luôn có thể chọn tắt tính năng này."</string>
-	<string name="nfc_repair_action_desc">Chạm \"&lt;b&gt;Khôi phục&lt;/b&gt;"\" để sửa vấn đề ngăn bạn sử dụng tính năng NFC. Không rời trang hiện tại khi khôi phục tính năng NFC. Khởi động lại thiết bị để áp dụng thay đổi."</string>
+    <string name="nfc_repair_action_desc">Chạm \"<b>Khôi phục</b>"\" để khắc phục các sự cố khiến bạn không thể sử dụng tính năng NFC. Đừng rời khỏi trang hiện tại trong khi chức năng NFC đang được khôi phục. Khởi động lại thiết bị của bạn để áp dụng các thay đổi."</string>
 	<string name="multi_face_input_success_name_title">Tên</string>
 	<string name="nfc_repair_confirm_desc">"Bạn có gặp bất kỳ vấn đề nào dưới đây không?
 %1$d. Bạn không thể thêm hoặc ghi thẻ NFC.
@@ -12591,4 +12591,17 @@ Tính năng này chỉ hoạt động khi điều hướng hệ thống được
     <string name="bluetooth_inband_ringing_summary">Cho phép phát nhạc chuông điện thoại qua tai nghe Bluetooth. Tính năng này chỉ có thể được sử dụng khi một thiết bị được kết nối và có thể không tương thích với một số thiết bị.</string>
 	<string name="bt_half_close_switch_summary">Nếu bạn tắt Bluetooth, Bluetooth sẽ tự động bật lại vào ngày hôm sau và thiết bị của bạn sẽ kết nối lại</string>
     <string name="bt_half_close_switch_title">Luôn bật Bluetooth</string>
+	<string name="view_face_privacy_policy"><Data>Đọc và đồng ý với &lt;a href =https://privacy.mi.com/Facial-recognition/%1$s/>\"Dữ liệu khuôn mặt &amp;#038; khóa màn hình\" Cam kết bảo mật&lt;/a> trước khi bạn tiếp tục.</Data></string>
+    <string name="view_fingerprint_privacy_policy"><Data>Đọc và đồng ý với &lt;a href =https://privacy.mi.com/setting-fingerprint/%1$s/>\"Vân tay &amp;#038; khóa màn hình\" Cam kết bảo mật&lt;/a> trước khi bạn tiếp tục.</Data></string>
+	<string name="bluetooth_device_button_accept_permission">Đồng ý</string>
+	<string name="face_data_siggesstion_next_cn">Đồng ý</string>
+	<string name="ussdinitiated_title">Bắt đầu USSD</string>
+	<string name="notification_volume_control">Kiểm soát âm thanh thông báo</string>
+    <string name="notification_volume_control_note">Điều chỉnh âm lượng âm thanh thông báo riêng biệt</string>
+	<string name="sound_assist_key_summary">Điều chỉnh âm thanh cho từng ứng dụng trong khi nhiều ứng dụng phát âm thanh cùng lúc</string>
+    <string name="sound_assist_key_title">Điều chỉnh âm thanh media trong nhiều ứng dụng</string>
+	<string name="multi_music_coexistence_summary">"Không điều chỉnh âm lượng phương tiện trong khi có thông báo đến hoặc khi âm thanh từ nguồn khác được phát"</string>
+    <string name="multi_music_coexistence_title">Nhiều nguồn âm thanh</string>
+	<string name="system_sound_effect_settings">Âm thanh hệ thống</string>
+	<string name="more_volume_settings">Điều chỉnh âm lượng</string>
 </resources>
