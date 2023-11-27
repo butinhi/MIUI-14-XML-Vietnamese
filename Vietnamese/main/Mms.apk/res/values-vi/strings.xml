@@ -1673,4 +1673,6 @@ Tắt Chế độ máy bay trước."</string>
 	<string name="system_permission_user_privacy">Trước khi bạn tiếp tục, hãy đọc và đồng ý với các điều khoản và điều kiện sau.</string>
 	<string name="search_sms">Tìm kiếm tin nhắn</string>
 	<string name="system_permission_declare_exit">Thoát</string>
+	<string name="copy_message">Sao chép</string>
+    <string name="copy_message_success">Sao chép thành công</string>
 </resources>

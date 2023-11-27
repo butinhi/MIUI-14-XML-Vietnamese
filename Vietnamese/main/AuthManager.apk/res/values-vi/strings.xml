@@ -834,4 +834,5 @@ Bạn cần phải cài đặt phiên bản MIUI của nhà phát triển để 
     <string name="group_sms">Tin nhắn</string>
     <string name="group_sport_healthy">Sức khỏe và hoạt động</string>
     <string name="group_write_clipboard">Thêm mục vào clipboard</string>
+	<string name="HIPS_Perm_read_Calendar">Truy cập Lịch</string>
 </resources>

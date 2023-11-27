@@ -6096,4 +6096,6 @@ Ghi lại các trình tự và sử dụng chúng bất cứ lúc nào!"</string
     <string name="HIPS_Perm_Intl_group_name_call_log">Lịch sử cuộc gọi</string>
 	<string name="activity_title_apps_settings">Ứng dụng</string>
     <string name="group_sport_healthy">Sức khỏe và hoạt động</string>
+	<string name="permission_action_virtual_common_summary">Cấp cho ứng dụng các quyền cần thiết nhưng trả lại tin nhắn trống để bảo vệ quyền riêng tư của bạn</string>
+    <string name="permission_action_virtual_phone_summary">"Cấp cho ứng dụng các quyền liên quan nhưng không cho phép chúng truy cập vào số điện thoại thực của thẻ SIM"</string>
 </resources>
