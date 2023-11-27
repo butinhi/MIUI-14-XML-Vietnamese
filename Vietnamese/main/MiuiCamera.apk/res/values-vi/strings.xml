@@ -2557,4 +2557,8 @@ Sau khi bật chức năng "ghi nhiều camera", máy ảnh của điện thoạ
 	<string name="popup_tips_privacy_watermark_edit">Chỉnh sửa hình mờ</string>
 	<string name="newbie_privacy_watermark_msg">Sử dụng hình mờ để bảo vệ tài liệu của bạn khỏi bị sao chép trái phép</string>
     <string name="newbie_privacy_watermark_title">Bảo vệ tài liệu của bạn</string>
+	<string name="download_automatic_message">Tự động tải xuống thêm các tính năng khi thiết bị này được kết nối với Wi-Fi?</string>
+    <string name="download_automatic_message_cn">Tự động tải xuống thêm các tính năng khi thiết bị này được kết nối với Wi-Fi?</string>
+    <string name="download_automatic_summary">Tự động tải xuống thêm các tính năng qua Wi-Fi</string>
+    <string name="download_automatic_summary_cn">Tự động tải xuống thêm các tính năng qua Wi-Fi</string>
 </resources>

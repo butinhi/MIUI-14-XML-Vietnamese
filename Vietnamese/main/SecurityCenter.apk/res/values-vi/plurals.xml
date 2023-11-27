@@ -491,6 +491,7 @@ Nếu bạn bật dữ liệu di động lại, nhà mạng sẽ tính phí bổ
 	</plurals>
 	<plurals name="notification_checker_installed_apk_text">
 		<item quantity="other">Xóa %d gói cài đặt</item>
+		<item quantity="one">Xóa %d gói cài đặt</item>
 	</plurals>
 	<plurals name="power_center_battery_duration_hour_time_format">
 		<item quantity="other">" giờ"</item>
@@ -738,5 +739,9 @@ Nghỉ ngơi chút đi!"</item>
 	<plurals name="storage_compact_warning">
         <item quantity="other">Sửa %1$d quyền</item>
         <item quantity="one">Sửa %1$d quyền</item>
+    </plurals>
+	<plurals name="app_manager_updater_title">
+        <item quantity="other">Cập nhật %d ứng dụng</item>
+        <item quantity="one">Cập nhật %d ứng dụng</item>
     </plurals>
 </resources>

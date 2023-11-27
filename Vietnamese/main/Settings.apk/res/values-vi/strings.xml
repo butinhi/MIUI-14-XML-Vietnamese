@@ -3795,7 +3795,7 @@ Bạn có thể thay đổi điều này sau đó từ Cài đặt > Ứng dụn
     <string name="account_list">Tài khoản khác</string>
     <string name="account_add">Thêm</string>
     <string name="xiaomi_account">Tài khoản Mi</string>
-    <string name="sync_settings">Tài khoản &amp; Đồng bộ</string>
+    <string name="sync_settings">Tài khoản &amp; đồng bộ</string>
     <string name="google_title">Google</string>
     <string name="account_other">Khác</string>
     <string name="xiaomi_cloud_service_disabled">Tắt</string>
@@ -5165,7 +5165,7 @@ Bạn có thể thay đổi điều này sau đó từ Cài đặt > Ứng dụn
     <string name="privacy_password_remind_bindaccount_title">Thêm Tài khoản Mi</string>
     <string name="privacy_password_never_remind">Không hỏi lại</string>
     <string name="privacy_password_enter_privacy">Nhập mật khẩu bảo vệ Cá nhân</string>
-    <string name="privacy_password_add_account_setting">Tài khoản &amp; Chính sách riêng tư</string>
+    <string name="privacy_password_add_account_setting">Tài khoản &amp; chính sách riêng tư</string>
     <string name="privacy_password_add_account_info">Thêm Tài khoản Mi để có thể đặt lại mật khẩu trong trường hợp quên mật khẩu</string>
     <string name="privacy_password_exit_account_info">Tài khoản sẽ bị xóa tự động khi bạn đăng xuất</string>
     <string name="privacy_password_login_and_add_account">Đăng nhập &amp; thêm</string>
