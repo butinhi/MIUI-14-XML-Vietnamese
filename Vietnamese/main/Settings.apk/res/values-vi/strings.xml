@@ -12604,4 +12604,7 @@ Tính năng này chỉ hoạt động khi điều hướng hệ thống được
     <string name="multi_music_coexistence_title">Nhiều nguồn âm thanh</string>
 	<string name="system_sound_effect_settings">Âm thanh hệ thống</string>
 	<string name="more_volume_settings">Điều chỉnh âm lượng</string>
+	<string name="privacy_input_mode_img_detail">Hoạt động với bàn phím xác thực bởi Xiaomi</string>
+	<string name="privacy_input_mode">Nhập liệu an toàn</string>
+	<string name="multifunction_keyboard">Nâng cao</string>
 </resources>

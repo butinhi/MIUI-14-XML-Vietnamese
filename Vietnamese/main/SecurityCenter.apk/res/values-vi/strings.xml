@@ -906,7 +906,7 @@ thiết bị của bạn"</string>
     <string name="om_ill_proc_type_radio_title">Ứng dụng kết nối mạng thường xuyên và dẫn đến hao pin</string>
     <string name="om_ill_proc_type_radio_detail">Sửa vấn đề kết nối mạng</string>
     <string name="om_ill_proc_activity_title">Vấn đề</string>
-    <string name="power_center_title">Pin &amp; Hiệu suất</string>
+    <string name="power_center_title">Pin &amp; hiệu suất</string>
     <string name="power_center_back">Quay lại Sử dụng pin</string>
     <string name="power_center_auto_shutdown">Hẹn giờ tắt/mở máy</string>
     <string name="power_center_ontime_boot">Thời gian mở</string>
@@ -2515,7 +2515,7 @@ Nhà cung cấp dịch vụ của bạn có thể tính thêm phí nếu bạn b
      <string name="notification_open_extreme_mode_text">Đã bật Siêu tiết kiệm pin</string>
      <string name="notify_channel_name_security">Bảo mật hệ thống</string>
      <string name="pc_main_activity_back">Quay lại</string>
-     <string name="pc_settings_title">Cài đặt Pin &amp; Hiệu suất</string>
+     <string name="pc_settings_title">Cài đặt Pin &amp; hiệu suất</string>
      <string name="power_center_hints_scan_danger_result">Bạn có thể sửa vấn đề pin ngay</string>
      <string name="power_center_list_item_auto_brightness">Tự động điều chỉnh độ sáng màn hình</string>
      <string name="power_center_list_item_battery_status_time">giờ</string>
@@ -5250,7 +5250,7 @@ Ghi lại các trình tự và sử dụng chúng bất cứ lúc nào!"</string
     <string name="ew_monitor_join_number">Số lượng tình nguyện viên</string>
     <string name="app_predict_setting_switch_title">Cá nhân hóa gợi ý</string>
     <string name="ew_monitor_support">Hỗ trợ kỹ thuật cung cấp bởi Chengdu Hi-tech Disaster Reduction Institute</string>
-    <string name="privacy_input_mode_img_detail">Làm việc với bàn xác nhận bởi Xiaomi</string>
+    <string name="privacy_input_mode_img_detail">Hoạt động với bàn phím xác thực bởi Xiaomi</string>
     <string name="ew_monitor_thanks_tips">"Cảm ơn vì bạn đã trở thành
         tình nguyện viên theo dõi động đất số %s!"</string>
     <string name="gb_shoulder_key_add_show_btn">Hiện nút ảo trong trò chơi</string>
@@ -6098,4 +6098,5 @@ Ghi lại các trình tự và sử dụng chúng bất cứ lúc nào!"</string
     <string name="group_sport_healthy">Sức khỏe và hoạt động</string>
 	<string name="permission_action_virtual_common_summary">Cấp cho ứng dụng các quyền cần thiết nhưng trả lại tin nhắn trống để bảo vệ quyền riêng tư của bạn</string>
     <string name="permission_action_virtual_phone_summary">"Cấp cho ứng dụng các quyền liên quan nhưng không cho phép chúng truy cập vào số điện thoại thực của thẻ SIM"</string>
+	<string name="privacy_and_security">Quyền riêng tư &amp; bảo mật</string>
 </resources>
