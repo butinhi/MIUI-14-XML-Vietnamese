@@ -841,4 +841,20 @@ Chạm vào màn hình để thêm thủ công hoặc định vị lại thành 
     <string name="act_find_city_location_title">Vị trí hiện tại</string>
 	<string name="background_location_dialog_msg">"Để đảm bảo ứng dụng này luôn sử dụng thông tin vị trí chính xác, hãy cho phép ứng dụng truy cập vào vị trí của bạn khi ứng dụng đang chạy ở chế độ nền. Bạn có thể cấp quyền này trong Cài đặt."</string>
     <string name="request_permission_background_location_dialog_content">Để đảm bảo ứng dụng này luôn sử dụng thông tin vị trí chính xác, hãy luôn cho phép ứng dụng truy cập vào vị trí của bạn.</string>
+	<string name="setting_privacy">Bảo mật</string>
+	<string name="setting_read_privacy_policy">Xem chính sách bảo mật</string>
+	<string name="third_party_data_sharing_instructions">Tuyên bố về việc chia sẻ dữ liệu với bên thứ ba</string>
+	<string name="setting_about_permission">Quyền</string>
+	<string name="setting_permission_description">Chi tiết quyền</string>
+	<string name="setting_get_location">Truy cập vị trí</string>
+    <string name="setting_not_allowed">Không cho phép</string>
+    <string name="setting_notification_manager">Thông báo</string>
+	<string name="setting_allowed">Cho phép</string>
+	<string name="setting_used_to_display_weather">Để hiển thị thông tin thời tiết có liên quan</string>
+    <string name="setting_used_to_push_reminder">Nhận thông báo và cảnh báo thời tiết</string>
+	<string name="setting_privacy_policy_withdrawal_of_Consent">Rút lại sự đồng ý</string>
+	<string name="setting_confirm_to_revoke_permission_msg">"Nếu tiếp tục, bạn sẽ rút lại sự đồng ý với Chính sách quyền riêng tư của Thời tiết. Chúng tôi sẽ ngừng thu thập thông tin cá nhân của bạn. Thông tin cá nhân đã được thu thập và lưu giữ sẽ bị xóa trong khoảng thời gian cụ thể theo luật và quy định hiện hành trừ khi có yêu cầu khác. Vì Thời tiết cung cấp các dịch vụ dựa trên việc thu thập thông tin cá nhân cần thiết nên việc bạn rút lại sự đồng ý sẽ được coi là từ chối chấp nhận các dịch vụ của Thời tiết. Rút lại sự đồng ý ngay bây giờ?"</string>
+    <string name="setting_confirm_to_revoke_permission_title">Rút lại sự đồng ý</string>
+	<string name="button_confirm_to_revoke_permission">Rút</string>
+	<string name="customer_service_hotline">Hotline dịch vụ khách hàng: 400-100-5678</string>
 </resources>

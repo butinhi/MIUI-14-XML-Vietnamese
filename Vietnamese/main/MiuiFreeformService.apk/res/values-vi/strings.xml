@@ -361,4 +361,15 @@
 	<string name="multi_window_cvw_title">Chế độ lái xe MIUI</string>
 	<string name="bottom_bar_smallwindow_drag_text">Kéo vào đây để ghim</string>
 	<string name="freeform_guide_tip_notification">Kéo xuống để mở trong cửa sổ nổi</string>
+	<string name="freeform_guide_dialog_freeform_controller_summary">"Kéo cửa sổ nổi theo cạnh trên của nó để di chuyển xung quanh
+hoặc nhấn để xem thêm tùy chọn"</string>
+    <string name="freeform_guide_dialog_freeform_resize_summary">Kéo góc dưới để thay đổi kích thước</string>
+    <string name="freeform_guide_dialog_freeform_title">Cửa sổ nổi</string>
+    <string name="freeform_guide_dialog_split_double_summary">"Vuốt lên từ giữa phía dưới
+của màn hình để đóng cả hai ứng dụng"</string>
+    <string name="freeform_guide_dialog_split_single_summary">"Vuốt lên từ giữa phía dưới
+của một ứng dụng để đóng"</string>
+    <string name="freeform_guide_dialog_split_title">Màn hình chia nhỏ</string>
+    <string name="freeform_guide_dialog_start_button">Bắt đầu</string>
+    <string name="freeform_guide_dialog_step_button">Kế tiếp</string>
 </resources>
