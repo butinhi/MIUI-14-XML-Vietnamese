@@ -12595,7 +12595,6 @@ Tính năng này chỉ hoạt động khi điều hướng hệ thống được
     <string name="view_fingerprint_privacy_policy"><Data>Đọc và đồng ý với &lt;a href =https://privacy.mi.com/setting-fingerprint/%1$s/>\"Vân tay &amp;#038; khóa màn hình\" Cam kết bảo mật&lt;/a> trước khi bạn tiếp tục.</Data></string>
 	<string name="bluetooth_device_button_accept_permission">Đồng ý</string>
 	<string name="face_data_siggesstion_next_cn">Đồng ý</string>
-	<string name="ussdinitiated_title">Bắt đầu USSD</string>
 	<string name="notification_volume_control">Kiểm soát âm thanh thông báo</string>
     <string name="notification_volume_control_note">Điều chỉnh âm lượng âm thanh thông báo riêng biệt</string>
 	<string name="sound_assist_key_summary">Điều chỉnh âm thanh cho từng ứng dụng trong khi nhiều ứng dụng phát âm thanh cùng lúc</string>
