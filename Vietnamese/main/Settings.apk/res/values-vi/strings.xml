@@ -12606,4 +12606,7 @@ Tính năng này chỉ hoạt động khi điều hướng hệ thống được
 	<string name="privacy_input_mode_img_detail">Hoạt động với bàn phím xác thực bởi Xiaomi</string>
 	<string name="privacy_input_mode">Nhập liệu an toàn</string>
 	<string name="multifunction_keyboard">Nâng cao</string>
+	<string name="full_screen_intent_title">Thông báo toàn màn hình</string>
+	<string name="permit_full_screen_intent">Cho phép ứng dụng thông báo toàn màn hình</string>
+	<string name="footer_description_full_screen_intent">Cho phép ứng dụng này hiển thị thông báo toàn màn hình khi thiết bị bị khóa. Các ứng dụng có thể sử dụng những thông tin này để đánh dấu cảnh báo, cuộc gọi đến hoặc các thông báo khẩn cấp khác.</string>
 </resources>
