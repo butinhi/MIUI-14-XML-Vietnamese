@@ -52,7 +52,7 @@
     <string name="config_suggest_description">"Xác minh ứng dụng và hoạt động để đảm bảo tiến trình quan trọng tiếp tục.
 Tiết kiệm pin sẽ xử lý ứng dụng quan trọng một cách có chọn lọc."</string>
     <string name="config_no_restrict_description">Tiết kiệm Pin không hạn chế hoạt động ứng dụng</string>
-    <string name="config_restrict_function_description">Vài tính năng (ví dụ như thông báo đẩy) có thể bị ảnh hưởng, nhưng ứng dụng sẽ không bị đóng</string>
+    <string name="config_restrict_function_description">Đóng ứng dụng sau 10 phút hoạt động trong nền</string>
     <string name="config_restrict_running_description">Ứng dụng sẽ bị đóng để tiết kiệm pin</string>
     <string name="power_checker_partial_wakelock_title">%1$s ngăn chặn MIUI vào chế độ ngủ</string>
     <string name="power_checker_wifi_scan_title">%1$s tìm kiếm Wi-Fi thường xuyên</string>
@@ -624,4 +624,5 @@ Tiết kiệm pin sẽ xử lý ứng dụng quan trọng một cách có chọn
 	<string name="miuix_access_state_desc">Đã chọn</string>
 	<string name="miuix_indexer_selected">Đã chọn %s</string>
 	<string name="fmt_time_minute">"m 'phút'"</string>
+    <string name="config_restrict_function_description_new">Đóng ứng dụng sau %d phút hoạt động trong nền</string>
 </resources>

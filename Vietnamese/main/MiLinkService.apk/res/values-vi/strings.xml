@@ -754,4 +754,5 @@ Nếu cả hai thiết bị không thể kết nối tới cùng một mạng, b
 	<string name="appcirculate_fragment_circulate_device_card_switch_title_1">Bật Wi-Fi và Bluetooth</string>
     <string name="appcirculate_fragment_circulate_device_card_switch_title_1_global">Bật Wi-Fi và Bluetooth</string>
     <string name="help_page_text_09_global">"Chạm nút \"Truyền\" trên Bảng thông báo của điện thoại. Bật cả Wi-Fi và Bluetooth để kết nối ổn định hơn."</string>
+	<string name="quick_settings_notification_control_center">Thông báo &amp; thanh trạng thái</string>
 </resources>

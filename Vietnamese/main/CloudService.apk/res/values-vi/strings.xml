@@ -491,7 +491,7 @@ tài khoản Mi của bạn để kích hoạt lại Xiaomi Cloud."</string>
     <string name="micloud_find_device_close_alert_content">"Nếu bạn tắt Tìm thiết bị, bạn sẽ không thể định vị điện thoại của bạn bằng tính năng này. Nếu điện thoại của bạn hỗ trợ NFC, tất cả thẻ ngân hàng và thẻ chìa khóa sẽ được xóa khỏi Mi Pay."</string>
     <string name="micloud_find_device_close_alert_positive">Tiếp tục mở</string>
     <string name="micloud_find_device_close_alert_negtive">Tiếp tục tắt</string>
-    <string name="find_device_gdpr_prompt">Bằng cách bật Tìm thiết bị, bạn đồng ý với &lt;a href="app://com.miui.cloudservice.gdpr.license"&gt;&lt;u&gt;Chính sách Riêng tư&lt;/u&gt;&lt;/a&gt; của chúng tôi. Nếu bạn cần hủy ủy quyền riêng tư, vui lòng tắt tính năng này.</string>
+    <string name="find_device_gdpr_prompt">"Bằng cách bật Tìm thiết bị, bạn đồng ý với "<u><a href="app://com.miui.cloudservice.gdpr.license">Chính sách bảo mật</a></u> của chúng tôi. Tắt tính năng này nếu bạn muốn rút lại sự đồng ý của mình.</string>
     <string name="find_device_gdpr_prompt_policy_doc_name">\"Chính sách Riêng tư\"</string>
     <string name="activate_finddevice">Kết nối mạng để kích hoạt thiết bị</string>
     <string name="account_related">Thiết bị này đã liên kết với Tài khoản Mi (%s). Kết nối mạng để xác minh thiết bị.</string>

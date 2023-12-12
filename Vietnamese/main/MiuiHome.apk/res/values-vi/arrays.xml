@@ -84,4 +84,13 @@
         <item>Màu tía</item>
         <item>Màu nâu</item>
     </string-array>
+    <string-array name="no_word_model_entries">
+        <item>Tắt</item>
+        <item>Mọi nơi</item>
+        <item>Tiện ích</item>
+    </string-array>
+    <string-array name="no_word_model_entries_not_support_only_widget_no_word">
+        <item>Tắt</item>
+        <item>Mọi nơi</item>
+    </string-array>
 </resources>

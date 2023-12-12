@@ -3383,4 +3383,5 @@ dd/MM"</string>
 	<string name="quick_settings_intelligent_dual_sim_accelerate_summary">Sử dụng dữ liệu di động của SIM phụ để tăng tốc độ kết nối</string>
     <string name="quick_settings_intelligent_dual_sim_accelerate_title">SIM kép thông minh</string>
 	<string name="screenrecord_save_title">Đã lưu bản ghi màn hình</string>
+	<string name="notification_status_bar">Thông báo &amp; thanh trạng thái</string>
 </resources>

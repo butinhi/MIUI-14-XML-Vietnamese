@@ -1675,4 +1675,5 @@ Tắt Chế độ máy bay trước."</string>
 	<string name="system_permission_declare_exit">Thoát</string>
 	<string name="copy_message">Sao chép</string>
     <string name="copy_message_success">Sao chép thành công</string>
+	<string name="pref_feedback_title">Phản hồi</string>
 </resources>

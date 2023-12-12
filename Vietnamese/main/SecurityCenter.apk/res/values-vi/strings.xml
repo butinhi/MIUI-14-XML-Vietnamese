@@ -925,7 +925,7 @@ thiết bị của bạn"</string>
     <string name="power_consume_hardware_total_format">Phần cứng: %s</string>
     <string name="power_consume_other">Khác</string>
     <string name="battery_desc_other_apps">Điện năng tiêu thụ bởi các ứng dụng khác</string>
-    <string name="power_settings_title">Đặt</string>
+    <string name="power_settings_title">Cài đặt Tối ưu Pin</string>
     <string name="power_settings_category_title">Chỉ số pin</string>
     <string name="power_settings_shape">Đồ họa</string>
     <string name="power_settings_number">Phần trăm</string>
@@ -5088,7 +5088,7 @@ tham gia săn trứng của chúng tôi!"</string>
 	<string name="gb_game_time_toast">Hẹn giờ khả dụng!</string>
 	<string name="power_center_night_charge_protection">Đã tối ưu sạc</string>
 	<string name="power_center_super_wireless_charge_dialog_title">Sạc nhanh không dây</string>
-	<string name="power_save_mode_auto_exit_summary_new">Tắt khi pin %s hoặc sạc đầy​</string>
+	<string name="power_save_mode_auto_exit_summary_new">Tắt khi pin còn %s hoặc đã sạc đầy​</string>
 	<string name="power_center_night_charge_noti_subtitle">Pin sẽ được sạc đầy trong %s</string>
 	<string name="warningcenter_policeassist_flow_tips">Chia sẻ vị trí của bạn</string>
 	<string name="vb_video_effects_dolby_headset">" (Chỉ tai nghe)"</string>
@@ -5762,7 +5762,6 @@ Ghi lại các trình tự và sử dụng chúng bất cứ lúc nào!"</string
 	<string name="beauty_fun_light">Tăng sáng</string>
 	<string name="vb_video_effects_3d">Âm thanh vòm</string>
 	<string name="beauty_fun_filter">Làm đẹp</string>
-	<string name="custom_define_permission_desc_android.permission_group.STORAGE">Để gửi và nhận tệp tin</string>
 	<string name="pc_battery_chart_loading">Đang làm mới</string>
 	<string name="system_anti_fraud_dialog_confirm_btn_txt">Tôi biết</string>
 	<string name="vb_video_effects_3d_surround">Âm thanh vòm</string>
@@ -6114,4 +6113,19 @@ Ghi lại các trình tự và sử dụng chúng bất cứ lúc nào!"</string
     <string name="wakepath_delete_all_tips">"Nếu tiếp tục, bạn sẽ phải cấp quyền cho từng ứng dụng để mở các ứng dụng khác. Vẫn tiếp tục?"</string>
     <string name="wakepath_delete_app_start_all">"Nếu tiếp tục, bạn sẽ phải cấp lại quyền %s để mở bất kỳ ứng dụng nào khác. Vẫn tiếp tục?"</string>
     <string name="wakepath_delete_app_start_other_app">"Nếu tiếp tục, bạn sẽ phải cấp lại quyền cho %1$s để mở %2$s. Vẫn tiếp tục?"</string>
+	<string name="permgroupdesc_readmediavideo">Truy cập âm nhạc và âm thanh</string>
+	<string name="pc_work_in_super_save_mode">Siêu tiết kiệm pin</string>
+	<string name="pc_charged_auto_close_summary">Tắt khi pin còn ​%1$s hoặc đã sạc đầy</string>
+	<string name="pc_night_sleep_mode_title">Chế độ ban đêm</string>
+	<string name="permisison_usage_menu_all">Tất cả</string>
+    <string name="permisison_usage_menu_camera">Máy ảnh</string>
+    <string name="permisison_usage_menu_location">Vị trí</string>
+    <string name="permisison_usage_menu_mic">Microphone</string>
+    <string name="custom_define_permission_desc_android.permission.GET_ACCOUNTS">Để quản lý ủy quyền khi thực hiện xác minh danh tính trên nhiều thiết bị, gỡ lỗi USB và khôi phục mật khẩu Bảo vệ quyền riêng tư và Khóa ứng dụng</string>
+    <string name="custom_define_permission_desc_android.permission.READ_PHONE_STATE">Để nhận biết trạng thái cuộc gọi trong điều kiện nhiệt độ cao hoặc pin yếu</string>
+    <string name="custom_define_permission_desc_android.permission.group.SENSORS">Để phát hiện sóng địa chấn để theo dõi động đất</string>
+    <string name="custom_define_permission_desc_android.permission_group.MICROPHONE">Để ghi lại âm thanh khi sử dụng Game Turbo</string>
+    <string name="custom_define_permission_desc_android.permission_group.STORAGE">Để dọn rác và thực hiện quét chống vi-rút</string>
+	<string name="app_management_for_chain_start">Chặn mở ứng dụng khác</string>
+    <string name="app_management_for_chain_start_desc">Ngăn ứng dụng này kết nối hoặc mở ứng dụng khác</string>
 </resources>
