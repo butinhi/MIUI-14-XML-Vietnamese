@@ -1105,4 +1105,6 @@
 	<string name="open_personal_assistant_settings_on">Bật</string>
 	<string name="new_recents_config_title">Khác</string>
 	<string name="open_personal_assistant_settings_off">Tắt</string>
+	<string name="dock_and_folder_not_edit_icon_tip">Để chỉnh sửa, trước tiên hãy di chuyển ứng dụng ra khỏi dock và thư mục</string>
+	<string name="dock_not_edit_icon_tip">Để chỉnh sửa, trước tiên hãy di chuyển ứng dụng ra khỏi dock</string>
 </resources>
