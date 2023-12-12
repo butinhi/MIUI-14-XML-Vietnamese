@@ -217,7 +217,7 @@
 	<string name="voice_assistant_tips">Đã nâng cấp để có thể nhấn giữ nút nguồn để gọi trợ lý giọng nói</string>
 	<string name="autofill_save_message">Cho phép MIUI lưu tài khoản và mật khẩu của bạn?</string>
 	<string name="autofill_save_ok">Cho phép</string>
-	<string name="autofill_save_sub_message">Bạn có thể xem và quản lý mật khẩu của mình trong Cài đặt > Dấu vân tay, dữ liệu khuôn mặt và khóa màn hình > %s.</string>
+	<string name="autofill_save_sub_message">Bạn có thể xem và quản lý mật khẩu của mình trong Cài đặt > Vân tay, khuôn mặt & màn khóa > %s.</string>
 	<string name="autofill_save_title">Tự động lưu mật khẩu</string>
 	<string name="popup_camera_cancel_popup">Hủy</string>
 	<string name="popup_camera_continue_popup">Mở Máy ảnh</string>

@@ -1150,4 +1150,5 @@ Hãy chắc chắn bạn nhớ tất cả câu trả lời."</string>
     <string name="user_agreement_wifi_permission_title">Bật và tắt Wi-Fi</string>
     <string name="user_agreement_wlan_permission_desc">Để kiểm tra môi trường đăng nhập để phát hiện các vấn đề bảo mật</string>
     <string name="user_agreement_wlan_permission_title_china">Bật và tắt Wi-Fi</string>
+	<string name="phone_ticket_login">Đăng nhập bằng mã xác minh</string>
 </resources>

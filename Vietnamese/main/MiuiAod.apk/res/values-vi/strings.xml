@@ -540,4 +540,5 @@ dd/M"</string>
     <string name="kg_template_title_rhombus">Hình thoi</string>
     <string name="kg_tip_cant_get_third_party_wallpaper">"Không thể truy cập hình nền của bên thứ ba"</string>
     <string name="kg_wallpaper_scale_hint_text">Chụm để cắt</string>
+	<string name="aod_notification_use_app_icon">Sử dụng biểu tượng ứng dụng để thông báo</string>
 </resources>

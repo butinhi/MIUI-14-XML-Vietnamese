@@ -6099,4 +6099,19 @@ Ghi lại các trình tự và sử dụng chúng bất cứ lúc nào!"</string
 	<string name="permission_action_virtual_common_summary">Cấp cho ứng dụng các quyền cần thiết nhưng trả lại tin nhắn trống để bảo vệ quyền riêng tư của bạn</string>
     <string name="permission_action_virtual_phone_summary">"Cấp cho ứng dụng các quyền liên quan nhưng không cho phép chúng truy cập vào số điện thoại thực của thẻ SIM"</string>
 	<string name="privacy_and_security">Quyền riêng tư &amp; bảo mật</string>
+	<string name="app_disable_dlg_positive">Tắt ứng dụng</string>
+    <string name="app_disable_dlg_text">"Nếu bạn tắt ứng dụng này, hệ thống và các ứng dụng khác có thể không còn hoạt động bình thường nữa. Không thể gỡ cài đặt ứng dụng hệ thống này. Nó sẽ bị ẩn nếu bạn quyết định tắt."</string>
+    <string name="storage_compact_warning_desc">"Quyền ảnh và video, quyền âm nhạc và âm thanh cũng như quyền tài liệu và tệp cho ứng dụng này phải được chỉnh sửa đồng thời. Đảm bảo bạn sẵn sàng chỉnh sửa nhiều quyền trước khi tiếp tục."</string>
+    <string name="recent_app_behavior">Lịch sử quyền trong 7 ngày</string>
+	<string name="wakepath_manager_title">Quản lý bắt đầu chuỗi</string>
+	<string name="wakepath_allow_start_apps">Cho phép ứng dụng mở ứng dụng khác</string>
+	<string name="wake_path_start_callee">Tự động bắt đầu %1$s</string>
+    <string name="wakepath_all">Xóa tất cả các quyền</string>
+    <string name="wakepath_allow_start_app">Ứng dụng %s có thể tự động mở</string>
+    <string name="wakepath_confirm_start_activity">Cho phép %1$s mở %2$s?</string>
+    <string name="wakepath_delete">Xóa quyền</string>
+    <string name="wakepath_delete_all">Xóa tất cả các quyền</string>
+    <string name="wakepath_delete_all_tips">"Nếu tiếp tục, bạn sẽ phải cấp quyền cho từng ứng dụng để mở các ứng dụng khác. Vẫn tiếp tục?"</string>
+    <string name="wakepath_delete_app_start_all">"Nếu tiếp tục, bạn sẽ phải cấp lại quyền %s để mở bất kỳ ứng dụng nào khác. Vẫn tiếp tục?"</string>
+    <string name="wakepath_delete_app_start_other_app">"Nếu tiếp tục, bạn sẽ phải cấp lại quyền cho %1$s để mở %2$s. Vẫn tiếp tục?"</string>
 </resources>
