@@ -11707,7 +11707,7 @@ Việc tắt tính năng này không ảnh hưởng đến khả năng thiết b
 	<string name="password_unlock">Khóa màn hình</string>
 	<string name="document_pdf_title">Chia sẻ dưới dạng PDF</string>
 	<string name="document_default_status">Chọn</string>
-    <string name="fingerprint_face_password_unlock">Vân tay, khuôn mặt & màn khóa</string>
+    <string name="fingerprint_face_password_unlock">Vân tay, khuôn mặt &amp; màn khóa</string>
     <string name="fingerprint_password_unlock">Vân tay &amp; khóa màn hình</string>
     <string name="face_password_unlock">Dữ liệu khuôn mặt &amp; khóa màn hình</string>
 	<string name="pad_backup_summary">Sao lưu và khôi phục các mục trên thiết bị này</string>
@@ -12562,7 +12562,7 @@ Tính năng này chỉ hoạt động khi điều hướng hệ thống được
 	<string name="notification_control_center_new">Thông báo &amp; thanh trạng thái</string>
 	<string name="notification_status_bar">Thông báo &amp; thanh trạng thái</string>
 	<string name="display_settings_new">Hiển thị &amp; độ sáng</string>
-	<string name="fingerprint_face_password_unlock_new">Vân tay, khuôn mặt & màn khóa</string>
+	<string name="fingerprint_face_password_unlock_new">Vân tay, khuôn mặt &amp; màn khóa</string>
 	<string name="security_settings_fingerprint_multiple_face_watch_preference_summary">Đã thêm khuôn mặt, dấu vân tay và %s</string>
 	<string name="notification_style_settings">Kiểu thông báo</string>
 	<string name="title_show_notification_icon">Hiển thị biểu tượng thông báo</string>
