@@ -6107,7 +6107,6 @@ Ghi lại các trình tự và sử dụng chúng bất cứ lúc nào!"</string
 	<string name="wake_path_start_callee">Tự động bắt đầu %1$s</string>
     <string name="wakepath_all">Xóa tất cả các quyền</string>
     <string name="wakepath_allow_start_app">Ứng dụng %s có thể tự động mở</string>
-    <string name="wakepath_confirm_start_activity">Cho phép %1$s mở %2$s?</string>
     <string name="wakepath_delete">Xóa quyền</string>
     <string name="wakepath_delete_all">Xóa tất cả các quyền</string>
     <string name="wakepath_delete_all_tips">"Nếu tiếp tục, bạn sẽ phải cấp quyền cho từng ứng dụng để mở các ứng dụng khác. Vẫn tiếp tục?"</string>
