@@ -671,4 +671,6 @@ Thử lại"</string>
 	<string name="restore_file_empty">Không có bản sao lưu ở đây</string>
 	<string name="cloud_backup_detail_no_time">Không có hồ sơ sao lưu</string>
 	<string name="session_success_restore_data_size">Tổng kích thước tệp: %s</string>
+	<string name="backup_state_not_auto">Tính năng sao lưu tự động đang tắt</string>
+	<string name="manage_and_restore_backups">Quản lý và khôi phục dữ liệu đã sao lưu</string>
 </resources>

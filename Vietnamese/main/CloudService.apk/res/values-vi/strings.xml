@@ -1498,4 +1498,5 @@ Thông tin vị trí có thể không được báo cáo khi kết nối mạng 
 	<string name="privacy_runtime_perm_contacts_desc">Để đồng bộ danh bạ</string>
 	<string name="privacy_runtime_perm_external_storage_desc">Để đồng bộ ảnh hồ sơ liên hệ</string>
 	<string name="privacy_runtime_perm_sms_desc">Để đồng bộ tin nhắn</string>
+	<string name="cloud_manage_storage_text">Quản lý lưu trữ đám mây</string>
 </resources>
