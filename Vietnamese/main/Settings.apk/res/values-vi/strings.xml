@@ -12611,4 +12611,12 @@ Tính năng này chỉ hoạt động khi điều hướng hệ thống được
 	<string name="footer_description_full_screen_intent">Cho phép ứng dụng này hiển thị thông báo toàn màn hình khi thiết bị bị khóa. Các ứng dụng có thể sử dụng những thông tin này để đánh dấu cảnh báo, cuộc gọi đến hoặc các thông báo khẩn cấp khác.</string>
 	<string name="show_dev_countdown">{count, plural, =1 {Bây giờ bạn còn # bước để thành nhà phát triển.} other {Bây giờ bạn còn # bước để thành nhà phát triển.} }</string>
 	<string name="my_device_camera_params">Thông số máy ảnh</string>
+	<string name="auto_silent_info">Tính năng này ngừng hoạt động nếu bạn chuyển sang chế độ DND</string>
+	<string name="photography_handle_button_function_settings">Thiết lập nút cầm nắm</string>
+    <string name="photography_handle_launch_and_take_photo">Chụp ảnh</string>
+    <string name="photography_handle_launch_camera">Mở máy ảnh</string>
+    <string name="photography_handle_long_press_camera_key_enter_camera">Nhấn và giữ nút chụp để thực hiện hành động</string>
+    <string name="photography_handle_quick_launch_camera_title">Khởi động nhanh</string>
+    <string name="wifi_stx_logs_disabled">Nhật ký WLAN STx đang tắt</string>
+    <string name="wifi_stx_logs_enabled">Nhật ký WLAN STx đang bật</string>
 </resources>
