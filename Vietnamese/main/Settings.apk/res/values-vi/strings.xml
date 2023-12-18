@@ -10088,7 +10088,7 @@ Tiếp tục truy cập cài đặt bổ sung."</string>
 	<string name="dialog_backup_title">Cập nhật sao lưu trước khi tiến hành khôi phục cài đặt gốc?</string>
 	<string name="other_password">Mật khẩu khác</string>
 	<string name="face_data_manage_unlock_slide_msg">Thay thế vuốt để mở khóa bằng mở khóa khuôn mặt</string>
-	<string name="privacy_protection">Bảo vệ riêng tư</string>
+	<string name="privacy_protection">Quyền riêng tư &amp; bảo mật</string>
 	<string name="backup_more_settings">Cài đặt</string>
 	<string name="multi_face_delete_show_message">Xóa dữ liệu khuôn mặt ngay?</string>
 	<string name="nfc_repair_summary">Sửa vấn đề ngăn bạn sử dụng tính năng NFC</string>
