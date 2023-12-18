@@ -679,11 +679,7 @@
 	<string name="dc_light_hint_other">Làm mờ DC có thể ảnh hưởng đến tần số quét và cách hiển thị một số mục.</string>
 	<string name="usage_device_limit_app_prolong_time5">Thêm thời gian một lần</string>
 	<string name="fps_standard_title">Tiêu chuẩn</string>
-	<string name="fps_nature_title">Cao</string>
-	<string name="fps_smooth_title">Giữa</string>
-	<string name="fps_smooth_summary">Tốc độ làm mới trung bình giúp chi tiết rõ ràng hơn</string>
 	<string name="fps_nature_summary">Tốc độ làm mới cao giúp mọi thứ luôn sắc nét và rõ ràng</string>
-	<string name="fps_user_tip">Những hình ảnh động demo này được phát ở tốc độ thấp để bạn tham khảo. Hiệu suất thực tế có thể trông khác nhau dựa trên các yếu tố khác nhau.</string>
 	<string name="fps_standard_summary">Tốc độ làm mới tiêu chuẩn giúp tiết kiệm pin</string>
 	<string name="primary_color_region_chinese_only">Ánh mắt tự nhiên</string>
 	<string name="exo_download_description">Tải xuống</string>
@@ -1026,4 +1022,9 @@
 	<string name="device_limit_un_enable">Tắt</string>
 	<string name="usage_cta_desc">"Chào mừng bạn đến với Cài đặt! Để cung cấp số liệu thống kê về Thời gian sử dụng màn hình và Chế độ lấy nét cho bạn, ứng dụng này cần thu thập dữ liệu sau: số lần bạn mở khóa thiết bị, danh sách các ứng dụng của bạn cùng với thời lượng sử dụng tương ứng, số lần màn hình của bạn sáng lên, và Cài đặt chế độ lấy nét. Dữ liệu được thu thập sẽ chỉ được lưu trữ cục bộ trên thiết bị."</string>
 	<string name="anti_flicker_mode_summary_new">Sử dụng tính năng điều chỉnh độ sáng DC trong điều kiện ánh sáng yếu để giảm mỏi mắt</string>
+    <string name="fps_nature_title">Tối đa</string>
+    <string name="fps_save_battery_tips">Tiết kiệm pin đang bật. Tốc độ làm mới được đặt thành %d Hz.</string>
+    <string name="fps_smooth_summary">Tốc độ làm mới cao giúp chi tiết rõ ràng hơn</string>
+    <string name="fps_smooth_title">Cao</string>
+    <string name="fps_user_tip">- Những hình ảnh động demo này được phát ở tốc độ thấp để bạn tham khảo. Hiệu suất thực tế có thể trông khác dựa trên các yếu tố khác nhau.</string>
 </resources>

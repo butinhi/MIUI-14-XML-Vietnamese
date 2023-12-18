@@ -702,7 +702,7 @@ tài khoản Mi của bạn để kích hoạt lại Xiaomi Cloud."</string>
 	<string name="sync_detail_summary_master_sync_off">Đồng bộ đã tắt</string>
 	<string name="cloud_storage_already_used">Đã dùng: %1$s/%2$s</string>
 	<string name="cloud_storage_info_type_others">Khác</string>
-	<string name="cloud_storage_manage_title">Quản lý không gian đám mây</string>
+	<string name="cloud_storage_manage_title">Quản lý lưu trữ đám mây</string>
 	<string name="data_protection_title">Bảo vệ Dữ liệu</string>
 	<string name="sync_setting_title">Cài đặt Đồng bộ</string>
 	<string name="pre_privacy_policy">Chính sách Riêng tư</string>
