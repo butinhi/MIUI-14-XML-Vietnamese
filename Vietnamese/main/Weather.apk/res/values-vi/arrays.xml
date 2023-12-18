@@ -157,4 +157,18 @@
 		<item>Không hứng thú</item>
 		<item>Chất lượng nội dung thấp</item>
 	</string-array>
+	<string-array name="realtime_temperature_status">
+        <item>Lạnh</item>
+        <item>Mát mẻ</item>
+        <item>Thoải mái</item>
+        <item>Ấm</item>
+        <item>Nóng</item>
+    </string-array>
+    <string-array name="realtime_uv_level">
+        <item>Yếu</item>
+        <item>Vừa phải</item>
+        <item>Mạnh</item>
+        <item>Rất mạnh</item>
+        <item>Nghiêm trọng</item>
+    </string-array>
 </resources>

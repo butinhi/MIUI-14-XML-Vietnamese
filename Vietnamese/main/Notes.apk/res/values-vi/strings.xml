@@ -1053,4 +1053,5 @@ Cho phép Ghi chú ghi âm."</string>
     <string name="widget_click_check">Nhấn để xem</string>
     <string name="widget_size_item_super_big">Cực lớn</string>
     <string name="widget_size_not_support">"Tiện ích cực lớn không được hỗ trợ trên thiết bị này"</string>
+	<string name="new_alert_title_delete">Xóa ghi chú</string>
 </resources>
