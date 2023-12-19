@@ -5850,7 +5850,6 @@ Ghi lại các trình tự và sử dụng chúng bất cứ lúc nào!"</string
 	<string name="privacy_flares_behavior_recent">Hành vi ứng dụng</string>
 	<string name="traffic_alarm">Đặt lời nhắc</string>
 	<string name="app_running_tip_dialog_positive">Thoát</string>
-	<string name="eletric_card_summary_5">Bảo vệ riêng tư</string>
 	<string name="gb_game_ratio_right">Bên phải</string>
 	<string name="gd_sidebar_edit_btn_expand">Thêm</string>
 	<string name="material_timepicker_am">SA</string>
@@ -6127,4 +6126,14 @@ Ghi lại các trình tự và sử dụng chúng bất cứ lúc nào!"</string
     <string name="custom_define_permission_desc_android.permission_group.STORAGE">Để dọn rác và thực hiện quét chống vi-rút</string>
 	<string name="app_management_for_chain_start">Chặn mở ứng dụng khác</string>
     <string name="app_management_for_chain_start_desc">Ngăn ứng dụng này kết nối hoặc mở ứng dụng khác</string>
+	<string name="sp_payment_detection_title">Kiểm tra bảo mật thanh toán</string>
+	<string name="eletric_key_protect_electric_announcement">Bảo vệ chống gian lận</string>
+	<string name="screen_share_protection_warning_icon_title">Bảo vệ chống gian lận</string>
+	<string name="system_anti_fraud_dialog_image_txt">Bảo vệ chống gian lận</string>
+	<string name="system_anti_fraud_dialog_message">Bảo vệ chống gian lận</string>
+	<string name="eletric_card_summary_1">Kiểm tra các cuộc gọi đến để phát hiện rủi ro bảo mật</string>
+    <string name="eletric_card_summary_2">Phát hiện rủi ro trong tin nhắn đến</string>
+    <string name="eletric_card_summary_3">Cảnh báo về các ứng dụng không đáng tin cậy</string>
+    <string name="eletric_card_summary_4">Thông báo về các trang web nguy hiểm</string>
+    <string name="eletric_card_summary_5">Ẩn các mục riêng tư</string>
 </resources>

@@ -9778,6 +9778,7 @@ Dưới đây là một số nguyên nhân:
 	<string name="apply_fingerprint_to">Sử dụng vân tay để</string>
 	<string name="enrol_fingerprint_data">Thêm vân tay</string>
 	<string name="sunlight_mode">Chế độ Ánh sáng mặt trời</string>
+	<string name="sunlight_mode_boost_summary">Mở rộng phạm vi độ sáng và tự động điều chỉnh độ sáng trong điều kiện đủ sáng. Tính năng này sẽ khiến thiết bị của bạn nóng lên và tiêu tốn nhiều điện năng hơn.</string>
 	<string name="sunlight_mode_summary">Điều chỉnh độ sáng thành ánh sáng mạnh xung quanh khi tắt độ sáng tự động</string>
 	<string name="lockscreen_sidepanel_shortcuts_title">Bảng lối tắt cạnh</string>
 	<string name="lockscreen_sidepanel_shortcuts_summary">Tùy chỉnh ứng dụng hiển thị ở bảng bên cạnh màn hình khóa.</string>
