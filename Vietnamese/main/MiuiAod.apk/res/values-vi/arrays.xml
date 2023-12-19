@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string-array name="kg_glass_filters">
-        <item>Nguyên bản</item>
-        <item>Mờ ảo</item>
-        <item>Gân nổi</item>
-        <item>Sọc nổi</item>
+        <item>Gốc</item>
+        <item>Nhoè</item>
+        <item>Lau sậy</item>
+        <item>Gân</item>
         <item>Lăng kính</item>
-        <item>Xẻ rãnh</item>
-        <item>Lượn sóng</item>
-        <item>Hình vuông</item>
+        <item>Rãnh</item>
+        <item>Sóng</item>
+        <item>Vuông</item>
     </string-array>
 </resources>

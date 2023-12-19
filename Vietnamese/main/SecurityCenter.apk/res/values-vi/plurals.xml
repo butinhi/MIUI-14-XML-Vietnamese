@@ -1,281 +1,1347 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <plurals name="gd_app_edit_desc_new">
-        <item quantity="other">Thêm tối đa %d ứng dụng. Nhấn và giữ để sắp xếp lại.</item>
-        <item quantity="one">Thêm tối đa %d ứng dụng. Nhấn và giữ để sắp xếp lại.</item>
-    </plurals>
-    <plurals name="hide_txt_hint_with_blank_2">
-        <item quantity="other">    +%1$d ký tự khác</item>
-    </plurals>
-	<plurals name="menu_text_app_manager_2">
-        <item quantity="other">%d ứng dụng</item>
-    </plurals>
-	<plurals name="notification_battery_consume_abnormal_summary">
-        <item quantity="other">Đã hao %2$d%% pin trong %1$d phút</item>
-    </plurals>
-	<plurals name="om_locked_apps_title">
-        <item quantity="other">%d ứng dụng bị khóa</item>
-    </plurals>
-	<plurals name="power_center_battery_temperature">
-        <item quantity="other">%d ℃</item>
-    </plurals>
-	<plurals name="power_center_list_item_optimize_button">
-        <item quantity="other">Thêm %d phút</item>
-    </plurals>
-	<plurals name="privacy_apps_disable_header_title">
-        <item quantity="other">%d biểu tượng ứng dụng được ẩn</item>
-    </plurals>
-	<plurals name="privacy_apps_enable_header_title">
-        <item quantity="other">%d biểu tượng ứng dụng không được ẩn</item>
-    </plurals>
-	<plurals name="reset_data_dialog_ok_tick">
-        <item quantity="other">Đặt lại dữ liệu gốc (%dgiây)</item>
-    </plurals>
+	<plurals name="a_hour_ago">
+		<item quantity="other">1 giờ trước</item>
+	</plurals>
+	<plurals name="abbrev_a_hour_ago">
+		<item quantity="other">%d giờ trước</item>
+	</plurals>
+	<plurals name="abbrev_half_hour_ago">
+		<item quantity="other">Nửa tiếng trước</item>
+	</plurals>
+	<plurals name="abbrev_in_a_hour">
+		<item quantity="other">Trong %d giờ</item>
+	</plurals>
+	<plurals name="abbrev_in_half_hour">
+		<item quantity="other">Trong nửa giờ</item>
+	</plurals>
+	<plurals name="abbrev_in_less_than_one_minute">
+		<item quantity="other">Ngay lập tức</item>
+	</plurals>
+	<plurals name="abbrev_in_num_minutes">
+		<item quantity="other">Sau %d phút</item>
+		<item quantity="one">Trong %d phút</item>
+	</plurals>
+	<plurals name="abbrev_less_than_one_minute_ago">
+		<item quantity="other">Vừa rồi</item>
+	</plurals>
+	<plurals name="abbrev_num_minutes_ago">
+		<item quantity="other">%d phút trước</item>
+		<item quantity="one">%d phút trước</item>
+	</plurals>
+	<plurals name="add_game_notification_title">
+		<item quantity="other">Đã thêm %d trò chơi</item>
+		<item quantity="one">Đã thêm trò chơi %d</item>
+	</plurals>
+	<plurals name="added_apps_count">
+		<item quantity="other">%d ứng dụng đã được thêm</item>
+		<item quantity="one">%d ứng dụng đã được thêm</item>
+	</plurals>
+	<plurals name="app_behavior_dashboard_title_desc">
+		<item quantity="other">%d ứng dụng</item>
+		<item quantity="one">%d ứng dụng</item>
+	</plurals>
+	<plurals name="app_behavior_dashboard_total_usage_item">
+		<item quantity="other">%d ứng dụng</item>
+		<item quantity="one">%d ứng dụng</item>
+	</plurals>
+	<plurals name="app_behavior_desc_allow">
+		<item quantity="other">Được phép %3$d lần trong khoảng thời gian từ %1$s đến %2$s</item>
+		<item quantity="one">Được phép %3$d thời gian trong khoảng thời gian từ %1$s đến %2$s</item>
+	</plurals>
+	<plurals name="app_behavior_desc_allow_minute">
+		<item quantity="other">Được phép %2$d lần tại %1$s</item>
+		<item quantity="one">Được phép %2$d thời gian tại %1$s</item>
+	</plurals>
+	<plurals name="app_behavior_desc_deny">
+		<item quantity="other">Bị giới hạn %3$d lần trong khoảng thời gian từ %1$s đến %2$s</item>
+		<item quantity="one">Đã giới hạn %3$d thời gian trong khoảng thời gian từ %1$s đến %2$s</item>
+	</plurals>
+	<plurals name="app_behavior_desc_deny_minute">
+		<item quantity="other">Đã từ chối %2$d lần vào lúc %1$s</item>
+		<item quantity="one">Đã từ chối %2$d lần vào lúc %1$s</item>
+	</plurals>
+	<plurals name="app_behavior_desc_duration_usage">
+		<item quantity="other">Được phép %3$d lần trong khoảng thời gian từ %1$s đến %2$s</item>
+		<item quantity="one">Được phép %3$d thời gian trong khoảng thời gian từ %1$s đến %2$s</item>
+	</plurals>
+	<plurals name="app_behavior_desc_duration_usage_time">
+		<item quantity="other">Đã sử dụng trong %1$d phút</item>
+		<item quantity="one">Đã sử dụng trong %1$d phút</item>
+	</plurals>
+	<plurals name="app_behavior_desc_duration_usage_time_end">
+		<item quantity="other">Được sử dụng trong %1$d phút cho đến %2$s</item>
+		<item quantity="one">Được sử dụng trong %1$d phút cho đến %2$s</item>
+	</plurals>
+	<plurals name="app_behavior_desc_virtual">
+		<item quantity="other">Đã trả về %3$d tin nhắn trống giữa %1$s và %2$s</item>
+		<item quantity="one">Đã trả về %3$d tin nhắn trống giữa %1$s và %2$s</item>
+	</plurals>
+	<plurals name="app_behavior_desc_virtual_minute">
+		<item quantity="other">Đã trả về %2$d tin nhắn trống tại %1$s</item>
+		<item quantity="one">Đã trả về tin nhắn trống %2$d tại %1$s</item>
+	</plurals>
+	<plurals name="app_behavior_notification_audio_more">
+		<item quantity="other">%1$s và %2$d ứng dụng khác đang ghi âm thanh</item>
+		<item quantity="one">Ứng dụng %2$d bao gồm %1$1s đang ghi âm</item>
+	</plurals>
+	<plurals name="app_behavior_notification_camera_more">
+		<item quantity="other">%1$s và %2$d ứng dụng khác đang chụp ảnh</item>
+		<item quantity="one">Ứng dụng %2$d bao gồm %1$1s đang chụp ảnh</item>
+	</plurals>
+	<plurals name="app_behavior_notification_location_more">
+		<item quantity="other">%1$s và %2$d ứng dụng khác đang truy cập vị trí của bạn</item>
+		<item quantity="one">Ứng dụng %2$d bao gồm %1$1s đang truy cập vị trí của bạn</item>
+	</plurals>
+	<plurals name="app_behavior_privacy_manager_off">
+		<item quantity="other">Bạn sẽ không được thông báo về các hành động nhạy cảm do ứng dụng %1$d thực hiện</item>
+		<item quantity="one">Bạn sẽ không được thông báo về các hành động nhạy cảm do ứng dụng %1$d thực hiện</item>
+	</plurals>
+	<plurals name="app_behavior_privacy_manager_on">
+		<item quantity="other">Bạn sẽ được thông báo về các hành động nhạy cảm do ứng dụng %1$d thực hiện</item>
+		<item quantity="one">Bạn sẽ được thông báo về các hành động nhạy cảm do ứng dụng %1$d thực hiện</item>
+	</plurals>
+	<plurals name="app_behavior_record_close_content_text">
+		<item quantity="other">Bản ghi hành vi ứng dụng sẽ được lưu trữ trên thiết bị này trong %d ngày. Việc tắt tính năng này sẽ xóa tất cả bản ghi hành vi ứng dụng và không nên làm như vậy.</item>
+		<item quantity="one">Bản ghi hành vi ứng dụng sẽ được lưu trữ trên thiết bị này trong %d ngày. Việc tắt tính năng này sẽ xóa tất cả bản ghi hành vi ứng dụng và không nên làm như vậy.</item>
+	</plurals>
+	<plurals name="app_behavior_wakepath_multiple">
+		<item quantity="other">%1$1s đã khởi chạy %2$d ứng dụng</item>
+		<item quantity="one">%1$1s đã khởi chạy ứng dụng %2$d</item>
+	</plurals>
+	<plurals name="app_behavior_wakepath_multiple_single">
+		<item quantity="other">Ứng dụng này đã khởi chạy %1$d ứng dụng khác</item>
+		<item quantity="one">Ứng dụng này đã khởi chạy %1$d ứng dụng khác</item>
+	</plurals>
+	<plurals name="app_manager_permission_summary_accept">
+		<item quantity="other">Đã cho phép %d quyền</item>
+		<item quantity="one">Đã cho phép %d quyền</item>
+	</plurals>
+	<plurals name="app_manager_permission_summary_ask">
+		<item quantity="other">Yêu cầu quyền %d</item>
+		<item quantity="one">Yêu cầu quyền %d</item>
+	</plurals>
+	<plurals name="app_manager_start_count">
+		<item quantity="other">%d lần</item>
+		<item quantity="one">%d thời gian</item>
+	</plurals>
+	<plurals name="app_manager_uninstall_notify_summary">
+		<item quantity="other">Gỡ cài đặt %d ứng dụng</item>
+		<item quantity="one">Gỡ cài đặt %d ứng dụng</item>
+	</plurals>
+	<plurals name="app_manager_updater_title">
+		<item quantity="other">Cập nhật %d ứng dụng</item>
+		<item quantity="one">Cập nhật %d ứng dụng</item>
+	</plurals>
+	<plurals name="app_usage_day">
+		<item quantity="other">Đã sử dụng %d ngày trước</item>
+		<item quantity="one">Đã sử dụng %d ngày trước</item>
+	</plurals>
+	<plurals name="app_usage_month">
+		<item quantity="other">Đã sử dụng %d tháng trước</item>
+		<item quantity="one">Đã sử dụng %d tháng trước</item>
+	</plurals>
+	<plurals name="app_usage_year">
+		<item quantity="other">Đã sử dụng %d năm trước</item>
+		<item quantity="one">Đã sử dụng %d năm trước</item>
+	</plurals>
+	<plurals name="applock_app_suggest_lock">
+		<item quantity="other">Bạn có thể sử dụng Khóa ứng dụng với ứng dụng %1$s</item>
+		<item quantity="one">Bạn có thể sử dụng Khóa ứng dụng với ứng dụng %1$s</item>
+	</plurals>
+	<plurals name="applock_guide_app_count_tips">
+		<item quantity="other">Bạn có thể bảo vệ ít nhất %s ứng dụng</item>
+		<item quantity="one">Bạn có thể bảo vệ ít nhất %s ứng dụng</item>
+	</plurals>
+	<plurals name="applock_one_key_lock">
+		<item quantity="other">%s ứng dụng sẽ được bảo vệ bằng Khóa ứng dụng</item>
+		<item quantity="one">Ứng dụng %s sẽ được bảo vệ bằng Khóa ứng dụng</item>
+	</plurals>
+	<plurals name="behavior_widget_app_text">
+		<item quantity="other">%2$d ứng dụng bao gồm %1$s</item>
+		<item quantity="one">Ứng dụng %2$d bao gồm %1$s</item>
+	</plurals>
+	<plurals name="behavior_widget_perm_counts">
+		<item quantity="other">%d lần</item>
+		<item quantity="one">%d thời gian</item>
+	</plurals>
+	<plurals name="bg_network_allow_count">
+		<item quantity="other">%d ứng dụng có thể kết nối với mạng ở chế độ nền</item>
+		<item quantity="one">%d ứng dụng có thể kết nối với mạng ở chế độ nền</item>
+	</plurals>
+	<plurals name="bg_network_restrict_count">
+		<item quantity="other">%d ứng dụng không thể kết nối với mạng ở chế độ nền</item>
+		<item quantity="one">%d ứng dụng không thể kết nối với mạng ở chế độ nền</item>
+	</plurals>
+	<plurals name="cache_check_content">
+		<item quantity="other">Đang bảo vệ %d ứng dụng</item>
+		<item quantity="one">Đang bảo vệ %d ứng dụng</item>
+	</plurals>
+	<plurals name="card_uninstall_title">
+		<item quantity="other">&lt;Data>Bạn có thể gỡ cài đặt &lt;font color=#F22424>%d&lt;/font> ứng dụng&lt;/Data></item>
+		<item quantity="one">&lt;Data>Bạn có thể gỡ cài đặt ứng dụng &lt;font color=#F22424>%d&lt;/font>&lt;/Data></item>
+	</plurals>
+	<plurals name="daily_sim_over_limit_dialog_message">
+		<item quantity="other">Bạn đã sử dụng giới hạn dữ liệu hàng ngày %s.\n\nNếu bạn bật lại dữ liệu di động, nhà cung cấp dịch vụ của bạn có thể tính phí dữ liệu bổ sung cho bạn.</item>
+		<item quantity="one">Bạn đã sử dụng giới hạn dữ liệu hàng ngày %s.\n\nNếu bạn bật lại dữ liệu di động, nhà cung cấp dịch vụ của bạn có thể tính phí dữ liệu bổ sung cho bạn.</item>
+	</plurals>
+	<plurals name="daily_sim_over_limit_notify_title">
+		<item quantity="other">Bạn đã sử dụng giới hạn dữ liệu hàng ngày %s.</item>
+		<item quantity="one">Bạn đã sử dụng giới hạn dữ liệu hàng ngày %s.</item>
+	</plurals>
+	<plurals name="deep_clean_auto_memory_clean">
+		<item quantity="other">Sau %1$d phút nữa</item>
+		<item quantity="one">Sau %1$d phút nữa</item>
+	</plurals>
+	<plurals name="ew_alert_second_after">
+		<item quantity="other">Trong %d giây</item>
+		<item quantity="one">Trong %d giây</item>
+	</plurals>
+	<plurals name="ew_concern_date">
+		<item quantity="other">%d ngày trước</item>
+		<item quantity="one">%d ngày trước</item>
+	</plurals>
+	<plurals name="exit_dialog_scan_message_new">
+		<item quantity="other">Điểm hiệu suất thiết bị của bạn thấp hơn %d điểm. Tối ưu hóa ngay bây giờ?</item>
+		<item quantity="one">Điểm hiệu suất thiết bị của bạn thấp hơn %d điểm. Tối ưu hóa ngay bây giờ?</item>
+	</plurals>
+	<plurals name="exo_controls_fastforward_by_amount_description">
+		<item quantity="other">Chuyển tiếp nhanh %d giây</item>
+		<item quantity="one">Chuyển tiếp nhanh %d giây</item>
+	</plurals>
+	<plurals name="exo_controls_rewind_by_amount_description">
+		<item quantity="other">Tua lại %d giây</item>
+		<item quantity="one">Tua lại %d giây</item>
+	</plurals>
+	<plurals name="extreme_mode_runtime_hour">
+		<item quantity="other">%s giờ</item>
+		<item quantity="one">%s giờ</item>
+	</plurals>
+	<plurals name="extreme_mode_runtime_minute">
+		<item quantity="other">%s phút</item>
+		<item quantity="one">%s phút</item>
+	</plurals>
+	<plurals name="find_applications">
+		<item quantity="other">Tìm kiếm trong số %d ứng dụng</item>
+		<item quantity="one">Tìm kiếm trong %d ứng dụng</item>
+	</plurals>
+	<plurals name="find_leak_risk">
+		<item quantity="other">%d rủi ro liên quan đến quyền riêng tư</item>
+		<item quantity="one">%d rủi ro liên quan đến quyền riêng tư</item>
+	</plurals>
+	<plurals name="first_aid_result_summary_exception">
+		<item quantity="other">%1$d vấn đề cần được tối ưu hóa</item>
+		<item quantity="one">Sự cố %1$d yêu cầu tối ưu hóa</item>
+	</plurals>
+	<plurals name="found_apps_title">
+		<item quantity="other">Đã tìm thấy %d ứng dụng</item>
+		<item quantity="one">Đã tìm thấy %d ứng dụng</item>
+	</plurals>
+	<plurals name="function_shield_num">
+		<item quantity="other">%d tính năng</item>
+		<item quantity="one">tính năng %d</item>
+	</plurals>
 	<plurals name="fw_blocked_count_call">
-        <item quantity="other">%1$d cuộc gọi từ %2$s và số khác</item>
-    </plurals>
-    <plurals name="fw_blocked_count_call_one">
-        <item quantity="other">%1$d cuộc gọi từ %2$s</item>
-    </plurals>
-    <plurals name="fw_blocked_count_sms">
-        <item quantity="other">%d tin nhắn</item>
-    </plurals>
-    <plurals name="marked_by_others">
-        <item quantity="other">%d người dùng khác đã đánh dấu là</item>
-    </plurals>
-    <plurals name="st_show_num_keyword">
-        <item quantity="other">%d từ khóa</item>
-    </plurals>
-    <plurals name="st_show_num_number">
-        <item quantity="other">%d số</item>
-    </plurals>
-    <plurals name="hints_traffic_enable_title">
-        <item quantity="other">Không theo dõi sử dụng dữ liệu của %d ứng dụng</item>
-    </plurals>
-    <plurals name="hints_traffic_disable_title">
-        <item quantity="other">Theo dõi sử dụng dữ liệu của %d ứng dụng</item>
-    </plurals>
-    <plurals name="traffic_setting_app_count">
-        <item quantity="other">%d ứng dụng</item>
-    </plurals>
-    <plurals name="bg_network_allow_count">
-        <item quantity="other">%d ứng dụng có thể kết nối với mạng trong nền</item>
-    </plurals>
-    <plurals name="bg_network_restrict_count">
-        <item quantity="other">%d ứng dụng không thể kết nối với mạng trong nền</item>
-    </plurals>
-    <plurals name="daily_sim_over_limit_notify_title">
-        <item quantity="other">Giới hạn dữ liệu hàng ngày đã vượt quá %s lần.</item>
-    </plurals>
-    <plurals name="daily_sim_over_limit_dialog_message">
-        <item quantity="other">"Bạn đã sử dụng giới hạn dữ liệu hàng ngày %s.
-
-Nếu bạn bật dữ liệu di động lại, nhà mạng sẽ tính phí bổ sung."</item>
-    </plurals>
-    <plurals name="search_app_count_txt_na">
-        <item quantity="other">Tìm kiếm %d ứng dụng</item>
-    </plurals>
-    <plurals name="hints_roaming_enable_title">
-        <item quantity="other">%d ứng dụng có thể sử dụng chuyển vùng dữ liệu</item>
-    </plurals>
-    <plurals name="hints_roaming_disable_title">
-        <item quantity="other">%d ứng dụng không thể sử dụng chuyển vùng dữ liệu</item>
-    </plurals>
-    <plurals name="hints_roaming_found_app_count_title">
-        <item quantity="other">%d ứng dụng được tìm thấy</item>
-    </plurals>
-    <plurals name="network_restrict_count">
-        <item quantity="other">"Quyền truy cập mạng bị giới hạn cho &lt;font color='#ff0000'>%d:&lt;/font> ứng dụng"</item>
-    </plurals>
-    <plurals name="om_ill_proc_multi_app_title">
-        <item quantity="other">%d ứng dụng không hoạt động bình thường và hao pin</item>
-    </plurals>
-    <plurals name="power_center_battery_day">
-        <item quantity="other">"%d ngày "</item>
-    </plurals>
-    <plurals name="power_center_battery_hour">
-        <item quantity="other">"%d giờ "</item>
-    </plurals>
-    <plurals name="power_center_battery_minute">
-        <item quantity="other">"%d phút "</item>
-    </plurals>
-    <plurals name="deep_clean_auto_memory_clean">
-        <item quantity="other">Sau %1$d phút</item>
-    </plurals>
-    <plurals name="quick_optimize_summary_text">
-        <item quantity="other">Đã giải quyết %d vấn đề pin</item>
-    </plurals>
-    <plurals name="quick_optimize_issue_found">
-        <item quantity="other">Đã tìm thấy %d vấn đề pin</item>
-    </plurals>
-    <plurals name="quick_optimize_issue_count">
-        <item quantity="other">%d vấn đề pin</item>
-    </plurals>
-    <plurals name="quick_optimize_suggest_issue_found">
-        <item quantity="other">Đã tìm thấy %d vấn đề pin, sửa ngay</item>
-    </plurals>
-    <plurals name="people">
-        <item quantity="other">Được tải xuống bởi %1$d người</item>
-    </plurals>
-    <plurals name="people_million">
-        <item quantity="other">Được tải xuống bởi %1$d người</item>
-    </plurals>
-    <plurals name="gb_ad_people_play">
-        <item quantity="other">%1$d người đang chơi</item>
-    </plurals>
-    <plurals name="gb_ad_ten_thousand_people_play">
-        <item quantity="other">%1$d người đang chơi</item>
-    </plurals>
-    <plurals name="view_num">
-        <item quantity="other">%1$d lượt xem</item>
-    </plurals>
-    <plurals name="result_virus_header">
-        <item quantity="other">Phát hiện %d ứng dụng độc hại</item>
-    </plurals>
-    <plurals name="result_sign_header">
-        <item quantity="other">Đã tìm thấy %d ứng dụng không chính thức</item>
-    </plurals>
-    <plurals name="sp_settings_exception_count">
-        <item quantity="other">%d mục</item>
+		<item quantity="other">%1$d cuộc gọi từ %2$s và những người khác</item>
+		<item quantity="one">%1$d cuộc gọi từ %2$s</item>
+	</plurals>
+	<plurals name="fw_blocked_count_call_one">
+		<item quantity="other">%1$d cuộc gọi từ %2$s và những người khác</item>
+		<item quantity="one">%1$d cuộc gọi từ %2$s</item>
+	</plurals>
+	<plurals name="fw_blocked_count_sms">
+		<item quantity="other">%d tin nhắn</item>
+		<item quantity="one">tin nhắn %d</item>
+	</plurals>
+	<plurals name="game_booster_incoming_call_duration_p1">
+		<item quantity="other">%1$s:</item>
+		<item quantity="one">%1$s:</item>
+	</plurals>
+	<plurals name="game_booster_incoming_call_duration_p2">
+		<item quantity="other">%1$s</item>
+		<item quantity="one">%1$s</item>
+	</plurals>
+	<plurals name="gamebooster_push_expiring_soon_link_message">
+		<item quantity="other">Tư cách thành viên Game Turbo của bạn sẽ hết hạn sau %d ngày.</item>
+		<item quantity="one">Tư cách thành viên Game Turbo của bạn sẽ hết hạn sau %d ngày.</item>
+	</plurals>
+	<plurals name="gamebooster_push_expiring_soon_message">
+		<item quantity="other">Tư cách thành viên Game Turbo của bạn sẽ hết hạn sau %d ngày. Hãy gia hạn ngay để tận hưởng trải nghiệm chơi game liền mạch.</item>
+		<item quantity="one">Tư cách thành viên Game Turbo của bạn sẽ hết hạn sau %d ngày. Hãy gia hạn ngay để tận hưởng trải nghiệm chơi game liền mạch.</item>
+	</plurals>
+	<plurals name="gb_ad_people_play">
+		<item quantity="other">%1$d người đang chơi</item>
+		<item quantity="one">%1$d người đang chơi</item>
+	</plurals>
+	<plurals name="gb_ad_ten_thousand_people_play">
+		<item quantity="other">%1$d người đang chơi</item>
+		<item quantity="one">%1$d người đang chơi</item>
+	</plurals>
+	<plurals name="gb_dialog_game_uninstall_multi_tips_title">
+		<item quantity="other">Gỡ cài đặt %2$d trò chơi (bao gồm %1$s)</item>
+		<item quantity="one">Gỡ cài đặt trò chơi %2$d (bao gồm %1$s)</item>
+	</plurals>
+	<plurals name="gb_dialog_record_way_ai_desc">
+		<item quantity="other">Tự động ghi lại những khoảnh khắc quan trọng và tạo video có nội dung nổi bật trong phiên. Bạn có thể chọn lưu chúng vĩnh viễn sau mỗi phiên chơi game. Các video chưa lưu sẽ tự động bị xóa sau %1$d ngày.</item>
+		<item quantity="one">Tự động ghi lại những khoảnh khắc quan trọng và tạo video có nội dung nổi bật trong phiên. Bạn có thể chọn lưu chúng vĩnh viễn sau mỗi phiên chơi game. Các video chưa lưu sẽ tự động bị xóa sau %1$d ngày.</item>
+	</plurals>
+	<plurals name="gb_game_video_ai_record_finish_tips">
+		<item quantity="other">Đã lưu %d bản ghi AI vào Tăng tốc trò chơi</item>
+		<item quantity="one">Đã lưu %d bản ghi AI vào Tăng tốc trò chơi</item>
+	</plurals>
+	<plurals name="gb_record_time_title">
+		<item quantity="other">%d giây</item>
+		<item quantity="one">%d giây</item>
+	</plurals>
+	<plurals name="gb_signed_days_sum">
+		<item quantity="other">Đã đăng ký trong %d ngày liên tiếp</item>
+		<item quantity="one">Đã đăng ký vào %d lần</item>
+	</plurals>
+	<plurals name="gb_smart_battery_hrs">
+		<item quantity="other">%d giờ</item>
+		<item quantity="one">%d giờ</item>
+	</plurals>
+	<plurals name="gb_smart_battery_min">
+		<item quantity="other">%d phút</item>
+		<item quantity="one">%d phút</item>
+	</plurals>
+	<plurals name="gb_toolbox_guide_known">
+		<item quantity="other">Hiểu rồi (%ds)</item>
+		<item quantity="one">Hiểu rồi (%ds)</item>
+	</plurals>
+	<plurals name="gb_vision_enhance_desc_detail">
+		<item quantity="other">Ghi chú:\n·Hình ảnh nâng cao sẽ không khả dụng khi Trình tiết kiệm pin bật hoặc thiết bị của bạn quá nóng.\n·Tốc độ khung hình thông minh hiển thị kết quả tốt nhất khi trò chơi của bạn được đặt hiển thị ít nhất %d khung hình mỗi giây.</item>
+		<item quantity="one">Ghi chú:\n·Hình ảnh nâng cao sẽ không khả dụng khi Trình tiết kiệm pin bật hoặc thiết bị của bạn quá nóng.\n·Tốc độ khung hình thông minh hiển thị kết quả tốt nhất khi trò chơi của bạn được đặt hiển thị ít nhất %d khung hình mỗi giây.</item>
+	</plurals>
+	<plurals name="gb_voice_changer_toast_tips_window_bubble">
+		<item quantity="other">Hãy thử Trình thay đổi giọng nói ngay bây giờ\nđể được dùng thử miễn phí %d-ngày!</item>
+	</plurals>
+	<plurals name="gb_voice_changer_trial_gain_fail">
+		<item quantity="other">Không thể nhận bản dùng thử miễn phí %d-ngày</item>
+		<item quantity="one">Không thể nhận bản dùng thử miễn phí %d-ngày</item>
+	</plurals>
+	<plurals name="gb_voice_changer_trial_gain_success">
+		<item quantity="other">Đã nhận được bản dùng thử miễn phí %d-ngày thành công</item>
+		<item quantity="one">Đã nhận được bản dùng thử miễn phí %d-ngày thành công</item>
+	</plurals>
+	<plurals name="gb_voice_changer_user_status_get_trial_card">
+		<item quantity="other">Nhận bản dùng thử miễn phí %d-ngày</item>
+		<item quantity="one">Nhận bản dùng thử miễn phí %d-ngày</item>
+	</plurals>
+	<plurals name="gb_voice_changer_user_status_get_twice_trial_card_dialog">
+		<item quantity="other">Đăng ký của bạn đã hết hạn.\nBạn có thể dùng thử miễn phí %d-ngày ngay bây giờ!</item>
+		<item quantity="one">Đăng ký của bạn đã hết hạn.\nBạn có thể dùng thử miễn phí %d-ngày ngay bây giờ!</item>
+	</plurals>
+	<plurals name="gb_voice_changer_user_tips_info">
+		<item quantity="other">Nhận bản dùng thử miễn phí %d-ngày</item>
+		<item quantity="one">Nhận bản dùng thử miễn phí %d-ngày</item>
+	</plurals>
+	<plurals name="gd_app_edit_desc_new">
+		<item quantity="other">Thêm tối đa %d ứng dụng. Nhấn và giữ để sắp xếp lại.</item>
+		<item quantity="one">Thêm tối đa %d ứng dụng. Nhấn và giữ để sắp xếp lại.</item>
+	</plurals>
+	<plurals name="gtb_brightness_dialog_message">
+		<item quantity="other">Tính năng này tự động giảm độ sáng màn hình sau %d phút không hoạt động để tiết kiệm pin. Tiếp tục bật tính năng này?</item>
+		<item quantity="one">Tính năng này tự động giảm độ sáng màn hình sau %d phút không hoạt động để tiết kiệm pin. Tiếp tục bật tính năng này?</item>
+	</plurals>
+	<plurals name="gtb_setting_item_summary_brightness">
+		<item quantity="other">Tự động giảm độ sáng màn hình để tiết kiệm pin sau %d phút không hoạt động</item>
+		<item quantity="one">Tự động giảm độ sáng màn hình để tiết kiệm pin sau %d phút không hoạt động</item>
+	</plurals>
+	<plurals name="gtb_spring_festival_colored_egg">
+		<item quantity="other">Chúc mừng! Bạn đã mở khóa trứng Phục sinh %s.</item>
+		<item quantity="one">Chúc mừng! Bạn đã mở khóa quả trứng Phục sinh %s.</item>
+	</plurals>
+	<plurals name="half_hour_ago">
+		<item quantity="other">Nửa tiếng trước</item>
+	</plurals>
+	<plurals name="hide_txt_hint_with_blank_2">
+		<item quantity="other">+%1$d ký tự khác</item>
+		<item quantity="one">+%1$d ký tự khác</item>
+	</plurals>
+	<plurals name="hints_apps_perm_count">
+		<item quantity="other">%d quyền</item>
+		<item quantity="one">quyền %d</item>
+	</plurals>
+	<plurals name="hints_auto_start_disable_title">
+		<item quantity="other">%d ứng dụng không được phép tự khởi động</item>
+		<item quantity="one">%d ứng dụng không được phép tự khởi động</item>
+	</plurals>
+	<plurals name="hints_auto_start_disable_title_global">
+		<item quantity="other">%d ứng dụng không được phép khởi động ở chế độ nền</item>
+		<item quantity="one">%d ứng dụng không được phép khởi động ở chế độ nền</item>
+	</plurals>
+	<plurals name="hints_auto_start_enable_title">
+		<item quantity="other">%d ứng dụng có thể tự khởi động</item>
+		<item quantity="one">%d ứng dụng có thể tự khởi động</item>
+	</plurals>
+	<plurals name="hints_auto_start_enable_title_global">
+		<item quantity="other">%d ứng dụng có thể khởi động ở chế độ nền</item>
+		<item quantity="one">%d ứng dụng có thể khởi động ở chế độ nền</item>
+	</plurals>
+	<plurals name="hints_get_root_disable_title">
+		<item quantity="other">%d ứng dụng không có quyền truy cập root</item>
+		<item quantity="one">%d ứng dụng không có quyền truy cập root</item>
+	</plurals>
+	<plurals name="hints_get_root_enable_title">
+		<item quantity="other">%d ứng dụng có quyền truy cập root</item>
+		<item quantity="one">%d ứng dụng có quyền truy cập root</item>
+	</plurals>
+	<plurals name="hints_handle_item_text_risk_number">
+		<item quantity="other">%d rủi ro,</item>
+		<item quantity="one">%d rủi ro,</item>
+	</plurals>
+	<plurals name="hints_handle_item_text_virus_number">
+		<item quantity="other">%d trojan</item>
+		<item quantity="one">%d trojan</item>
+	</plurals>
+	<plurals name="hints_permission_apps_count">
+		<item quantity="other">%d ứng dụng</item>
+		<item quantity="one">%d ứng dụng</item>
+	</plurals>
+	<plurals name="hints_roaming_disable_title">
+		<item quantity="other">%d ứng dụng không thể sử dụng chuyển vùng dữ liệu</item>
+		<item quantity="one">%d ứng dụng không thể sử dụng chuyển vùng dữ liệu</item>
+	</plurals>
+	<plurals name="hints_roaming_enable_title">
+		<item quantity="other">%d ứng dụng có thể sử dụng chuyển vùng dữ liệu</item>
+		<item quantity="one">%d ứng dụng có thể sử dụng chuyển vùng dữ liệu</item>
+	</plurals>
+	<plurals name="hints_roaming_found_app_count_title">
+		<item quantity="other">Đã tìm thấy %d ứng dụng</item>
+		<item quantity="one">Đã tìm thấy %d ứng dụng</item>
+	</plurals>
+	<plurals name="hints_scan_danger_result_with_number">
+		<item quantity="other">%d rủi ro được phát hiện</item>
+		<item quantity="one">%d rủi ro được phát hiện</item>
+	</plurals>
+	<plurals name="hints_traffic_disable_title">
+		<item quantity="other">Theo dõi việc sử dụng dữ liệu cho %d ứng dụng</item>
+		<item quantity="one">Theo dõi việc sử dụng dữ liệu cho %d ứng dụng</item>
+	</plurals>
+	<plurals name="hints_traffic_enable_title">
+		<item quantity="other">Không theo dõi việc sử dụng dữ liệu cho %d ứng dụng</item>
+		<item quantity="one">Không theo dõi việc sử dụng dữ liệu cho %d ứng dụng</item>
+	</plurals>
+	<plurals name="image_protect_del_tips">
+		<item quantity="other">Xóa hình ảnh %d vĩnh viễn?</item>
+		<item quantity="one">Xóa hình ảnh %d vĩnh viễn?</item>
+	</plurals>
+	<plurals name="image_protect_exit_del_tips">
+		<item quantity="other">%d hình ảnh sẽ bị xóa vĩnh viễn sau khi bạn rời khỏi trang này. Vẫn xóa?</item>
+		<item quantity="one">Hình ảnh %d sẽ bị xóa vĩnh viễn sau khi bạn rời khỏi trang này. Vẫn xóa?</item>
+	</plurals>
+	<plurals name="image_protect_try_del_tips">
+		<item quantity="other">Xóa hình ảnh %d</item>
+		<item quantity="one">Xóa hình ảnh %d</item>
+	</plurals>
+	<plurals name="in_a_hour">
+		<item quantity="other">Trong 1 giờ</item>
+	</plurals>
+	<plurals name="in_half_hour">
+		<item quantity="other">Trong nửa giờ</item>
+	</plurals>
+	<plurals name="in_less_than_one_minute">
+		<item quantity="other">Ngay lập tức</item>
+	</plurals>
+	<plurals name="in_num_minutes">
+		<item quantity="other">trong %d phút</item>
+		<item quantity="one">trong 1 phút nữa</item>
+	</plurals>
+	<plurals name="install_game_count_title">
+		<item quantity="other">Đã thêm %d trò chơi</item>
+		<item quantity="one">Đã thêm trò chơi %d</item>
+	</plurals>
+	<plurals name="intl_perm_privacy_control_message_count">
+		<item quantity="other">Bạn có thể bảo vệ %d mục</item>
+		<item quantity="one">Bạn có thể bảo vệ %d mục</item>
+	</plurals>
+	<plurals name="keyguard_charging_info_drained_hour_time_format">
+		<item quantity="other">%s giờ</item>
+		<item quantity="one">%s giờ</item>
+	</plurals>
+	<plurals name="keyguard_charging_info_drained_min_time_format">
+		<item quantity="other">%s phút</item>
+		<item quantity="one">%s phút</item>
+	</plurals>
+	<plurals name="less_than_one_minute_ago">
+		<item quantity="other">Vừa rồi</item>
+	</plurals>
+	<plurals name="lockpattern_recording_incorrect_too_short">
+		<item quantity="other">Kết nối ít nhất %d dấu chấm</item>
+		<item quantity="one">Kết nối ít nhất %d dấu chấm</item>
+	</plurals>
+	<plurals name="lockpattern_recording_intro_header_new">
+		<item quantity="other">Kết nối ít nhất %s dấu chấm</item>
+		<item quantity="one">Kết nối ít nhất %s dấu chấm</item>
+	</plurals>
+	<plurals name="lockpattern_too_many_failed_confirmation_attempts_footer">
+		<item quantity="other">Đợi %d giây và thử lại.</item>
+		<item quantity="one">Đợi %d giây và thử lại.</item>
+	</plurals>
+	<plurals name="manual_white_list_header">
+		<item quantity="other">%d ngoại lệ</item>
+		<item quantity="one">%d ngoại lệ</item>
+	</plurals>
+	<plurals name="marked_by_others">
+		<item quantity="other">%d người dùng khác đã đánh dấu nó là</item>
+		<item quantity="one">%d người dùng khác đã đánh dấu nó là</item>
+	</plurals>
+	<plurals name="menu_text_antispam_ex">
+		<item quantity="other">%d tin nhắn và cuộc gọi đã bị chặn</item>
+		<item quantity="one">%d tin nhắn hoặc cuộc gọi đã bị chặn</item>
+	</plurals>
+	<plurals name="menu_text_antivirus_day_ex">
+		<item quantity="other">Chưa quét thiết bị trong %d ngày</item>
+		<item quantity="one">Chưa quét thiết bị trong %d ngày</item>
+	</plurals>
+	<plurals name="menu_text_antivirus_virus_ex">
+		<item quantity="other">%d ứng dụng chứa vi-rút hoặc phần mềm độc hại</item>
+		<item quantity="one">%d ứng dụng chứa vi-rút hoặc phần mềm độc hại</item>
+	</plurals>
+	<plurals name="menu_text_app_manager_ex">
+		<item quantity="other">Có sẵn bản cập nhật %d</item>
+		<item quantity="one">Đã có bản cập nhật %d</item>
+	</plurals>
+	<plurals name="miuix_appcompat_items_selected">
+		<item quantity="other">%d mục đã được chọn</item>
+		<item quantity="one">%d mục đã được chọn</item>
+	</plurals>
+	<plurals name="mixed_recording_incorrect_too_short">
+		<item quantity="other">Nhập ít nhất %d ký tự</item>
+		<item quantity="one">Nhập ít nhất %d ký tự</item>
+	</plurals>
+	<plurals name="mtrl_badge_content_description">
+		<item quantity="other">%d thông báo mới</item>
+		<item quantity="one">%d thông báo mới</item>
+	</plurals>
+	<plurals name="net_booster_expire_notification_tip">
+		<item quantity="other">Phiên tăng tốc độ mạng của bạn sẽ kết thúc sau %d ngày. Bạn có thể bắt đầu gặp phải tình trạng trễ mạng. Gia hạn phiên bây giờ?</item>
+		<item quantity="one">Phiên tăng tốc độ mạng của bạn sẽ kết thúc sau %d ngày. Bạn có thể bắt đầu gặp phải tình trạng trễ mạng. Gia hạn phiên bây giờ?</item>
+	</plurals>
+	<plurals name="network_restrict_count">
+		<item quantity="other">Quyền truy cập mạng bị hạn chế đối với các ứng dụng &lt;font color=\'#ff0000\'>%d&lt;/font></item>
+		<item quantity="one">Quyền truy cập mạng bị hạn chế đối với ứng dụng &lt;font color=\'#ff0000\'>%d&lt;/font></item>
+	</plurals>
+	<plurals name="not_added_apps_count">
+		<item quantity="other">%d ứng dụng chưa được thêm</item>
+		<item quantity="one">%d ứng dụng chưa được thêm</item>
+	</plurals>
+	<plurals name="notification_antivirus_title">
+		<item quantity="other">%d ngày không quét bảo mật</item>
+		<item quantity="one">%d ngày không quét bảo mật</item>
+	</plurals>
+	<plurals name="notification_battery_consume_abnormal_summary">
+		<item quantity="other">Đã cạn kiệt %2$d%%pin trong %1$d phút vừa qua</item>
+		<item quantity="one">Đã cạn kiệt %2$d%%pin trong %1$d phút vừa qua</item>
+	</plurals>
+	<plurals name="notification_battery_scan_consume_abnormal_title_split">
+		<item quantity="other">%2$d ứng dụng, bao gồm %1$s, đang tiêu hao pin</item>
+		<item quantity="one">Ứng dụng %2$d, bao gồm %1$s, đang tiêu hao pin</item>
+	</plurals>
+	<plurals name="notification_checker_installed_apk_text">
+		<item quantity="other">Xóa gói cài đặt %d</item>
+		<item quantity="one">Xóa gói cài đặt %d</item>
+	</plurals>
+	<plurals name="notification_link_cleaner_2006">
+		<item quantity="other">Xóa %d APK còn lại</item>
+		<item quantity="one">Xóa %d APK còn lại</item>
+	</plurals>
+	<plurals name="notification_power_consume_issue">
+		<item quantity="other">vấn đề sử dụng pin %d</item>
+		<item quantity="one">vấn đề sử dụng pin %d</item>
+	</plurals>
+	<plurals name="notification_power_consume_suggest">
+		<item quantity="other">Tối ưu hóa %d mục để tiết kiệm pin</item>
+		<item quantity="one">Tối ưu hóa %d mục để tiết kiệm pin</item>
+	</plurals>
+	<plurals name="notification_title_cmcc_app_check">
+		<item quantity="other">%d ngày kể từ lần kiểm tra cuối cùng</item>
+		<item quantity="one">%d ngày kể từ lần kiểm tra cuối cùng</item>
+	</plurals>
+	<plurals name="num_minutes_ago">
+		<item quantity="other">%d phút trước</item>
+		<item quantity="one">1 phút trước</item>
+	</plurals>
+	<plurals name="number_locked">
+		<item quantity="other">%d ứng dụng đã bị khóa</item>
+		<item quantity="one">%d ứng dụng đã bị khóa</item>
+	</plurals>
+	<plurals name="number_masked">
+		<item quantity="other">%d ứng dụng</item>
+		<item quantity="one">%d ứng dụng</item>
+	</plurals>
+	<plurals name="number_masked_text">
+		<item quantity="other">%d thông báo đã bị ẩn</item>
+		<item quantity="one">thông báo %d đã bị ẩn</item>
+	</plurals>
+	<plurals name="number_to_lock">
+		<item quantity="other">%d ứng dụng không bị khóa</item>
+		<item quantity="one">%d ứng dụng không bị khóa</item>
+	</plurals>
+	<plurals name="number_to_mask_text">
+		<item quantity="other">%d thông báo hiển thị</item>
+		<item quantity="one">thông báo %d hiển thị</item>
+	</plurals>
+	<plurals name="numeric_recording_incorrect_too_short">
+		<item quantity="other">Nhập ít nhất %d chữ số</item>
+		<item quantity="one">Nhập ít nhất %d chữ số</item>
+	</plurals>
+	<plurals name="om_locked_apps_title">
+		<item quantity="other">%d ứng dụng bị khóa</item>
+		<item quantity="one">%d ứng dụng bị khóa</item>
+	</plurals>
+	<plurals name="om_running_apps_num">
+		<item quantity="other">%d ứng dụng</item>
+		<item quantity="one">%d ứng dụng</item>
+	</plurals>
+	<plurals name="opt_antivirus_scan_multi_antivirus_notification_title">
+		<item quantity="other">%2$d ứng dụng bao gồm %1$s có thể độc hại</item>
+		<item quantity="one">Ứng dụng %2$d bao gồm %1$s có thể độc hại</item>
+	</plurals>
+	<plurals name="optimize_result_button_add_score">
+		<item quantity="other">+%d</item>
+		<item quantity="one">+%d</item>
+	</plurals>
+	<plurals name="pc_abnormal_scan_result_model_result_title">
+		<item quantity="other">%d ứng dụng đang tiêu hao pin</item>
+		<item quantity="one">%d ứng dụng đang tiêu hao pin</item>
+	</plurals>
+	<plurals name="pc_battery_history_hour">
+		<item quantity="other">giờ</item>
+		<item quantity="one">giờ</item>
+	</plurals>
+	<plurals name="pc_battery_history_minute">
+		<item quantity="other">phút</item>
+		<item quantity="one">phút</item>
+	</plurals>
+	<plurals name="pc_can_be_optimize_numbers">
+		<item quantity="other">%d mục</item>
 		<item quantity="one">%d mục</item>
-    </plurals>
-    <plurals name="sp_monitored_apps_count">
-        <item quantity="other">%s ứng dụng thanh toán được bảo vệ</item>
-    </plurals>
-    <plurals name="sp_monitored_apps_list_group_enable">
-        <item quantity="other">%s ứng dụng được bảo vệ</item>
-    </plurals>
-    <plurals name="sp_monitored_apps_list_group_disable">
-        <item quantity="other">%s ứng dụng không được bảo vệ</item>
-    </plurals>
-    <plurals name="system_check_content">
-        <item quantity="other">%1$d mục an toàn</item>
-    </plurals>
-    <plurals name="cache_check_content">
-        <item quantity="other">Đang bảo vệ %d ứng dụng</item>
-    </plurals>
-    <plurals name="title_virus_clean">
-        <item quantity="other">Đã xóa %d virus</item>
-    </plurals>
-    <plurals name="hints_auto_start_enable_title">
-        <item quantity="other">%d ứng dụng có thể tự khởi chạy</item>
-    </plurals>
-    <plurals name="hints_auto_start_disable_title">
-        <item quantity="other">%d ứng dụng không được phép tự khởi chạy</item>
-    </plurals>
-    <plurals name="hints_apps_perm_count">
-        <item quantity="other">%d quyền</item>
-    </plurals>
-    <plurals name="hints_permission_apps_count">
-        <item quantity="other">%d ứng dụng</item>
-    </plurals>
-    <plurals name="hints_get_root_enable_title">
-        <item quantity="other">%d ứng dụng có quyền root</item>
-    </plurals>
-    <plurals name="hints_get_root_disable_title">
-        <item quantity="other">%d ứng dụng không có quyền root</item>
-    </plurals>
-    <plurals name="manual_white_list_header">
-        <item quantity="other">%d danh sách ngoại lệ</item>
-    </plurals>
-    <plurals name="summary_flow_verify">
-        <item quantity="other">Chưa đồng bộ thống kê sử dụng dữ liệu của nhà cung cấp trong %d ngày</item>
-    </plurals>
-    <plurals name="summary_app_update">
-        <item quantity="other">Phát hiện phiên bản mới cho %d ứng dụng.</item>
-    </plurals>
-    <plurals name="notification_title_cmcc_app_check">
-        <item quantity="other">%d ngày kể từ ngày kiểm tra cuối</item>
-    </plurals>
-    <plurals name="hints_handle_item_text_risk_number">
-        <item quantity="other">%d nguy cơ,</item>
-    </plurals>
-    <plurals name="hints_handle_item_text_virus_number">
-        <item quantity="other">" %d trojan"</item>
-    </plurals>
-    <plurals name="white_list_risk_app_header">
-        <item quantity="other">Ứng dụng nguy hiểm: %d</item>
-    </plurals>
-    <plurals name="white_list_trojan_header">
-        <item quantity="other">Trojan: %d</item>
-    </plurals>
-    <plurals name="lockpattern_too_many_failed_confirmation_attempts_footer">
-        <item quantity="other">"Chờ %d giây và thử lại. "</item>
-    </plurals>
-    <plurals name="number_masked">
-        <item quantity="other">%d ứng dụng</item>
-    </plurals>
-    <plurals name="number_locked">
-        <item quantity="other">%d ứng dụng đã khóa</item>
-    </plurals>
-    <plurals name="number_to_lock">
-        <item quantity="other">%d ứng dụng chưa khóa</item>
-    </plurals>
-    <plurals name="number_masked_text">
-        <item quantity="other">%d thông báo đã ẩn</item>
-    </plurals>
-    <plurals name="number_to_mask_text">
-        <item quantity="other">%d thông báo được hiển thị</item>
-    </plurals>
-    <plurals name="find_applications">
-        <item quantity="other">Tìm kiếm trong %d ứng dụng</item>
-    </plurals>
-    <plurals name="found_apps_title">
-        <item quantity="other">Đã tìm thấy %d ứng dụng</item>
-    </plurals>
-    <plurals name="section_clear_acc_item_right_tips">
-        <item quantity="other">%d ứng dụng đã khóa đang chờ xóa</item>
-    </plurals>
-    <plurals name="section_security_defend_item_right_tips">
-        <item quantity="other">Đã xóa %d virus</item>
-    </plurals>
-    <plurals name="optimize_result_button_add_score">
-        <item quantity="other">+%d</item>
-    </plurals>
-    <plurals name="add_game_notification_title">
-        <item quantity="other">Đã thêm %d trò chơi</item>
-    </plurals>
-    <plurals name="app_manager_permission_summary_accept">
-        <item quantity="other">Đã cho phép %d quyền</item>
-    </plurals>
-    <plurals name="app_manager_permission_summary_ask">
-        <item quantity="other">Yêu cầu %d quyền</item>
-    </plurals>
-    <plurals name="app_manager_start_count">
-        <item quantity="other">%d lần</item>
-    </plurals>
-    <plurals name="app_usage_day">
-        <item quantity="other">Đã sử dụng %d ngày trước</item>
-    </plurals>
-    <plurals name="app_usage_month">
-        <item quantity="other">Đã sử dụng %d tháng trước</item>
-    </plurals>
-    <plurals name="app_usage_year">
-        <item quantity="other">Đã sử dụng %d năm trước</item>
-    </plurals>
-    <plurals name="install_game_count_title">
-        <item quantity="other">Đã thêm %d trò chơi</item>
-    </plurals>
-    <plurals name="uninstall_game_count_title">
-        <item quantity="other">Chưa thêm %d trò chơi</item>
-    </plurals>
-    <plurals name="net_booster_expire_notification_tip">
-        <item quantity="other">Tính năng Tăng tốc mạng sau %d ngày sẽ hết hạn. Hãy gia hạn để hạn chế ảnh hưởng đến trải nghiệm sử dụng.</item>
-    </plurals>
-    <plurals name="gb_signed_days_sum">
-        <item quantity="other">Đã check in %d ngày liên tục</item>
-    </plurals>
+	</plurals>
+	<plurals name="pc_extreme_mode_count_down_title">
+		<item quantity="other">Thiết bị của bạn hết pin. Đang chuyển sang chế độ Ngủ đông sau %1$d giây.</item>
+		<item quantity="one">Thiết bị của bạn hết pin. Đang chuyển sang chế độ Ngủ đông sau %1$d giây.</item>
+	</plurals>
+	<plurals name="pc_main_power_center_battery_day">
+		<item quantity="other">%s ngày</item>
+		<item quantity="one">%s ngày</item>
+	</plurals>
+	<plurals name="pc_main_power_center_battery_hour">
+		<item quantity="other">%s giờ</item>
+		<item quantity="one">%s giờ</item>
+	</plurals>
+	<plurals name="pc_main_power_center_battery_minute">
+		<item quantity="other">%s phút</item>
+		<item quantity="one">%s phút</item>
+	</plurals>
+	<plurals name="pc_main_power_manager_day">
+		<item quantity="other">%s ngày cho đến khi được sạc đầy</item>
+		<item quantity="one">%s ngày cho đến khi được sạc đầy</item>
+	</plurals>
+	<plurals name="pc_main_power_manager_hour">
+		<item quantity="other">%s giờ nữa là sạc đầy</item>
+		<item quantity="one">%s giờ nữa là sạc đầy</item>
+	</plurals>
+	<plurals name="pc_main_power_manager_minute">
+		<item quantity="other">%s phút nữa là sạc đầy</item>
+		<item quantity="one">%s phút nữa là sạc đầy</item>
+	</plurals>
+	<plurals name="pc_main_sub_battery_text_day">
+		<item quantity="other">%s ngày còn lại</item>
+		<item quantity="one">còn lại %s ngày</item>
+	</plurals>
+	<plurals name="pc_main_sub_battery_text_hour">
+		<item quantity="other">%s giờ còn lại</item>
+		<item quantity="one">còn lại %s giờ</item>
+	</plurals>
+	<plurals name="pc_main_sub_battery_text_minute">
+		<item quantity="other">còn lại %s phút</item>
+		<item quantity="one">còn lại %s phút</item>
+	</plurals>
+	<plurals name="pc_statistics_battery_last_hour">
+		<item quantity="other">%d giờ còn lại</item>
+		<item quantity="one">còn lại %d giờ</item>
+	</plurals>
+	<plurals name="pc_statistics_battery_last_minute">
+		<item quantity="other">còn lại %d phút</item>
+		<item quantity="one">còn lại %d phút</item>
+	</plurals>
+	<plurals name="pc_statistics_battery_use_minute">
+		<item quantity="other">%d phút kể từ lần sạc cuối cùng</item>
+		<item quantity="one">%d phút kể từ lần sạc cuối cùng</item>
+	</plurals>
+	<plurals name="pc_statistics_battery_use_second">
+		<item quantity="other">%d giây kể từ lần sạc cuối cùng</item>
+		<item quantity="one">%d giây kể từ lần sạc cuối cùng</item>
+	</plurals>
+	<plurals name="people">
+		<item quantity="other">Được %1$d người tải xuống</item>
+		<item quantity="one">Được %1$d người tải xuống</item>
+	</plurals>
+	<plurals name="people_million">
+		<item quantity="other">Được %1$d người tải xuống</item>
+		<item quantity="one">Được %1$d người tải xuống</item>
+	</plurals>
+	<plurals name="permission_usage_allow_activity_recognization">
+		<item quantity="other">%1$s | Ứng dụng này đã truy cập thông tin tập luyện của bạn %2$d lần</item>
+		<item quantity="one">%1$s | Ứng dụng này đã truy cập thông tin tập luyện của bạn %2$d lần</item>
+	</plurals>
+	<plurals name="permission_usage_allow_autostart">
+		<item quantity="other">%1$s | Ứng dụng này đã tự động khởi động %2$d lần</item>
+		<item quantity="one">%1$s | Ứng dụng này tự động khởi động %2$d lần</item>
+	</plurals>
+	<plurals name="permission_usage_allow_body_sensor">
+		<item quantity="other">%1$s | Ứng dụng này đã truy cập vào cảm biến cơ thể %2$d lần</item>
+		<item quantity="one">%1$s | Ứng dụng này đã truy cập vào cảm biến cơ thể %2$d lần</item>
+	</plurals>
+	<plurals name="permission_usage_allow_call_phone">
+		<item quantity="other">%1$s | Ứng dụng này đã thực hiện cuộc gọi điện thoại %2$d lần</item>
+		<item quantity="one">%1$s | Ứng dụng này đã thực hiện cuộc gọi điện thoại %2$d lần</item>
+	</plurals>
+	<plurals name="permission_usage_allow_camera">
+		<item quantity="other">%1$s | Ứng dụng này đã truy cập vào máy ảnh %2$d lần</item>
+		<item quantity="one">%1$s | Ứng dụng này đã truy cập vào máy ảnh %2$d lần</item>
+	</plurals>
+	<plurals name="permission_usage_allow_clipboard">
+		<item quantity="other">%1$s | Ứng dụng này đã truy cập vào bảng nhớ tạm %2$d lần</item>
+		<item quantity="one">%1$s | Ứng dụng này đã truy cập vào bảng nhớ tạm %2$d lần</item>
+	</plurals>
+	<plurals name="permission_usage_allow_delete_pic">
+		<item quantity="other">%1$s | Ứng dụng này đã xóa ảnh khỏi Thư viện %2$d lần</item>
+		<item quantity="one">%1$s | Ứng dụng này đã xóa ảnh khỏi Thư viện %2$d lần</item>
+	</plurals>
+	<plurals name="permission_usage_allow_device_sensor">
+		<item quantity="other">%1$s | Ứng dụng này đã truy cập chuyển động và hướng của thiết bị %2$d lần</item>
+		<item quantity="one">%1$s | Ứng dụng này đã truy cập vào hướng và chuyển động của thiết bị %2$d thời gian</item>
+	</plurals>
+	<plurals name="permission_usage_allow_files">
+		<item quantity="other">%1$s | Ứng dụng này đã truy cập các tệp và tài liệu %2$d lần</item>
+		<item quantity="one">%1$s | Ứng dụng này đã truy cập các tệp và tài liệu %2$d lần</item>
+	</plurals>
+	<plurals name="permission_usage_allow_get_installed">
+		<item quantity="other">%1$s | Ứng dụng này đã truy cập danh sách ứng dụng được cài đặt trên thiết bị này %2$d lần</item>
+		<item quantity="one">%1$s | Ứng dụng này đã truy cập danh sách ứng dụng được cài đặt trên thiết bị này %2$d lần</item>
+	</plurals>
+	<plurals name="permission_usage_allow_get_number">
+		<item quantity="other">%1$s | Đã truy cập thông tin điện thoại %2$d lần</item>
+		<item quantity="one">%1$s | Đã truy cập thông tin điện thoại %2$d lần</item>
+	</plurals>
+	<plurals name="permission_usage_allow_get_sms">
+		<item quantity="other">%1$s | Ứng dụng này đã đọc SMS %2$d lần</item>
+		<item quantity="one">%1$s | Ứng dụng này đọc SMS %2$d lần</item>
+	</plurals>
+	<plurals name="permission_usage_allow_location">
+		<item quantity="other">%1$s | Ứng dụng này đã truy cập vị trí của bạn %2$d lần</item>
+		<item quantity="one">%1$s | Ứng dụng này đã truy cập vị trí của bạn %2$d lần</item>
+	</plurals>
+	<plurals name="permission_usage_allow_media_aural">
+		<item quantity="other">%1$s | Ứng dụng này đã truy cập nhạc và âm thanh %2$d lần</item>
+		<item quantity="one">%1$s | Ứng dụng này đã truy cập nhạc và âm thanh %2$d lần</item>
+	</plurals>
+	<plurals name="permission_usage_allow_media_visual">
+		<item quantity="other">%1$s | Ứng dụng này đã truy cập ảnh và video %2$d lần</item>
+		<item quantity="one">%1$s | Ứng dụng này đã truy cập ảnh và video %2$d lần</item>
+	</plurals>
+	<plurals name="permission_usage_allow_media_volume">
+		<item quantity="other">%1$s | Ứng dụng này đã điều chỉnh âm lượng phương tiện %2$d lần</item>
+		<item quantity="one">%1$s | Ứng dụng này đã điều chỉnh âm lượng phương tiện %2$d lần</item>
+	</plurals>
+	<plurals name="permission_usage_allow_mic">
+		<item quantity="other">%1$s | Ứng dụng này đã truy cập micrô %2$d lần</item>
+		<item quantity="one">%1$s | Ứng dụng này đã truy cập micrô %2$d lần</item>
+	</plurals>
+	<plurals name="permission_usage_allow_nearby_device">
+		<item quantity="other">%1$s | Ứng dụng này đã truy cập danh sách các thiết bị lân cận %2$d lần</item>
+		<item quantity="one">%1$s | Ứng dụng này đã truy cập danh sách các thiết bị lân cận %2$d lần</item>
+	</plurals>
+	<plurals name="permission_usage_allow_perm">
+		<item quantity="other">%1$s | Đã truy cập %2$d lần</item>
+		<item quantity="one">%1$s | Đã truy cập %2$d lần</item>
+	</plurals>
+	<plurals name="permission_usage_allow_phone_state">
+		<item quantity="other">%1$s| Ứng dụng này đã truy cập trạng thái cuộc gọi của thiết bị này %2$d lần</item>
+		<item quantity="one">%1$s| Ứng dụng này đã truy cập trạng thái cuộc gọi của thiết bị này %2$d lần</item>
+	</plurals>
+	<plurals name="permission_usage_allow_r_calendar">
+		<item quantity="other">%1$s | Ứng dụng này đã truy cập lịch %2$d lần</item>
+		<item quantity="one">%1$s | Ứng dụng này đã truy cập vào lịch %2$d lần</item>
+	</plurals>
+	<plurals name="permission_usage_allow_r_calllog">
+		<item quantity="other">%1$s | Ứng dụng này đã truy cập lịch sử cuộc gọi của bạn %2$d lần</item>
+		<item quantity="one">%1$s | Ứng dụng này đã truy cập lịch sử cuộc gọi của bạn %2$d lần</item>
+	</plurals>
+	<plurals name="permission_usage_allow_r_contacts">
+		<item quantity="other">%1$s | Ứng dụng này đã truy cập danh bạ của bạn %2$d lần</item>
+		<item quantity="one">%1$s | Ứng dụng này đã truy cập danh bạ của bạn %2$d lần</item>
+	</plurals>
+	<plurals name="permission_usage_allow_receive_sms">
+		<item quantity="other">%1$s | Ứng dụng này đã nhận được SMS %2$d lần</item>
+		<item quantity="one">%1$s | Ứng dụng này đã nhận được SMS %2$d lần</item>
+	</plurals>
+	<plurals name="permission_usage_allow_send_sms">
+		<item quantity="other">%1$s | Ứng dụng này đã gửi SMS %2$d lần</item>
+		<item quantity="one">%1$s | Ứng dụng này đã gửi SMS %2$d lần</item>
+	</plurals>
+	<plurals name="permission_usage_allow_storage">
+		<item quantity="other">%1$s｜Đã truy cập ảnh, video, âm thanh và tệp %2$d lần</item>
+		<item quantity="one">%1$s｜Đã truy cập ảnh, video, âm thanh và tệp %2$d lần</item>
+	</plurals>
+	<plurals name="permission_usage_allow_w_calendar">
+		<item quantity="other">%1$s | Ứng dụng này đã chỉnh sửa lịch %2$d lần</item>
+		<item quantity="one">%1$s | Ứng dụng này đã chỉnh sửa lịch %2$d lần</item>
+	</plurals>
+	<plurals name="permission_usage_allow_w_calllog">
+		<item quantity="other">%1$s| Ứng dụng này đã chỉnh sửa lịch sử cuộc gọi của bạn %2$d lần</item>
+		<item quantity="one">%1$s| Ứng dụng này đã chỉnh sửa lịch sử cuộc gọi của bạn %2$d lần</item>
+	</plurals>
+	<plurals name="permission_usage_allow_w_contacts">
+		<item quantity="other">%1$s | Ứng dụng này đã chỉnh sửa danh bạ của bạn %2$d lần</item>
+		<item quantity="one">%1$s | Ứng dụng này đã chỉnh sửa danh bạ của bạn %2$d lần</item>
+	</plurals>
+	<plurals name="permission_usage_allow_wake_path">
+		<item quantity="other">%1$s | Ứng dụng này đã tự động khởi động %2$s %3$d lần</item>
+		<item quantity="one">%1$s | Ứng dụng này đã tự động khởi động %2$s %3$d lần</item>
+	</plurals>
+	<plurals name="permission_usage_allow_wakepath">
+		<item quantity="other">%1$s | Được phép %2$d lần</item>
+		<item quantity="one">%1$s | Được phép %2$d thời gian</item>
+	</plurals>
+	<plurals name="permission_usage_delete_pic_more">
+		<item quantity="other">%1$s | Đã xóa ảnh khỏi Thư viện %2$d lần</item>
+		<item quantity="one">%1$s | Đã xóa ảnh khỏi Thư viện %2$d lần</item>
+	</plurals>
+	<plurals name="permission_usage_deny_activity_recognization">
+		<item quantity="other">%1$s | Ứng dụng này đã bị từ chối truy cập vào thông tin tập luyện của bạn %2$d lần</item>
+		<item quantity="one">%1$s | Ứng dụng này đã bị từ chối truy cập vào thông tin tập luyện của bạn %2$d lần</item>
+	</plurals>
+	<plurals name="permission_usage_deny_autostart">
+		<item quantity="other">%1$s | Ứng dụng này đã bị từ chối tự động khởi động %2$d lần</item>
+		<item quantity="one">%1$s | Ứng dụng này đã bị từ chối tự động khởi động %2$d lần</item>
+	</plurals>
+	<plurals name="permission_usage_deny_body_sensor">
+		<item quantity="other">%1$s | Ứng dụng này đã bị từ chối truy cập vào cảm biến cơ thể %2$d lần</item>
+		<item quantity="one">%1$s | Ứng dụng này đã bị từ chối truy cập vào cảm biến cơ thể %2$d lần</item>
+	</plurals>
+	<plurals name="permission_usage_deny_call_phone">
+		<item quantity="other">%1$s | Ứng dụng này đã bị từ chối thực hiện cuộc gọi %2$d lần</item>
+		<item quantity="one">%1$s | Ứng dụng này đã bị từ chối thực hiện cuộc gọi %2$d lần</item>
+	</plurals>
+	<plurals name="permission_usage_deny_camera">
+		<item quantity="other">%1$s | Ứng dụng này đã bị từ chối truy cập vào máy ảnh %2$d lần</item>
+		<item quantity="one">%1$s | Ứng dụng này đã bị từ chối truy cập vào máy ảnh %2$d lần</item>
+	</plurals>
+	<plurals name="permission_usage_deny_clipboard">
+		<item quantity="other">%1$s | Ứng dụng này đã bị từ chối truy cập vào bảng nhớ tạm %2$d lần</item>
+		<item quantity="one">%1$s | Ứng dụng này đã bị từ chối truy cập vào bảng nhớ tạm %2$d lần</item>
+	</plurals>
+	<plurals name="permission_usage_deny_delete_pic">
+		<item quantity="other">%1$s | Ứng dụng này đã bị từ chối xóa ảnh khỏi Thư viện %2$d lần</item>
+		<item quantity="one">%1$s | Ứng dụng này đã bị từ chối xóa ảnh khỏi Thư viện %2$d lần</item>
+	</plurals>
+	<plurals name="permission_usage_deny_device_sensor">
+		<item quantity="other">%1$s | Ứng dụng này đã bị từ chối truy cập vào chuyển động và hướng của thiết bị %2$d lần</item>
+		<item quantity="one">%1$s | Ứng dụng này đã bị từ chối truy cập vào hướng và chuyển động của thiết bị %2$d lần</item>
+	</plurals>
+	<plurals name="permission_usage_deny_files">
+		<item quantity="other">%1$s | Ứng dụng này đã bị từ chối truy cập vào tệp và tài liệu %2$d lần</item>
+		<item quantity="one">%1$s | Ứng dụng này đã bị từ chối truy cập vào các tệp và tài liệu %2$d lần</item>
+	</plurals>
+	<plurals name="permission_usage_deny_get_installed">
+		<item quantity="other">%1$s | Ứng dụng này đã bị từ chối truy cập danh sách ứng dụng được cài đặt trên thiết bị này %2$d lần</item>
+		<item quantity="one">%1$s | Ứng dụng này đã bị từ chối truy cập vào danh sách ứng dụng được cài đặt trên thiết bị này %2$d lần</item>
+	</plurals>
+	<plurals name="permission_usage_deny_get_number">
+		<item quantity="other">%1$s | Bị từ chối truy cập thông tin điện thoại %2$d lần</item>
+		<item quantity="one">%1$s | Bị từ chối truy cập thông tin điện thoại %2$d lần</item>
+	</plurals>
+	<plurals name="permission_usage_deny_get_sms">
+		<item quantity="other">%1$s | Ứng dụng này đã bị từ chối đọc SMS %2$d lần</item>
+		<item quantity="one">%1$s | Ứng dụng này đã bị từ chối đọc SMS %2$d lần</item>
+	</plurals>
+	<plurals name="permission_usage_deny_location">
+		<item quantity="other">%1$s | Ứng dụng này đã bị từ chối truy cập vào vị trí của bạn %2$d lần</item>
+		<item quantity="one">%1$s | Ứng dụng này đã bị từ chối truy cập vào vị trí của bạn %2$d lần</item>
+	</plurals>
+	<plurals name="permission_usage_deny_media_aural">
+		<item quantity="other">%1$s | Ứng dụng này đã bị từ chối truy cập nhạc và âm thanh %2$d lần</item>
+		<item quantity="one">%1$s | Ứng dụng này đã bị từ chối truy cập nhạc và âm thanh %2$d lần</item>
+	</plurals>
+	<plurals name="permission_usage_deny_media_visual">
+		<item quantity="other">%1$s | Ứng dụng này đã bị từ chối truy cập ảnh và video %2$d lần</item>
+		<item quantity="one">%1$s | Ứng dụng này đã bị từ chối truy cập ảnh và video %2$d lần</item>
+	</plurals>
+	<plurals name="permission_usage_deny_media_volume">
+		<item quantity="other">%1$s | Ứng dụng này đã bị từ chối điều chỉnh âm lượng phương tiện %2$d lần</item>
+		<item quantity="one">%1$s | Ứng dụng này đã bị từ chối điều chỉnh âm lượng phương tiện %2$d lần</item>
+	</plurals>
+	<plurals name="permission_usage_deny_mic">
+		<item quantity="other">%1$s | Ứng dụng này đã bị từ chối truy cập micrô %2$d lần</item>
+		<item quantity="one">%1$s | Ứng dụng này đã bị từ chối truy cập micrô %2$d lần</item>
+	</plurals>
+	<plurals name="permission_usage_deny_nearby_device">
+		<item quantity="other">%1$s | Ứng dụng này đã bị từ chối truy cập vào danh sách các thiết bị lân cận %2$d lần</item>
+		<item quantity="one">%1$s | Ứng dụng này đã bị từ chối truy cập vào danh sách các thiết bị lân cận %2$d lần</item>
+	</plurals>
+	<plurals name="permission_usage_deny_perm">
+		<item quantity="other">%1$s | Bị từ chối truy cập %2$d lần</item>
+		<item quantity="one">%1$s | Truy cập bị từ chối %2$d lần</item>
+	</plurals>
+	<plurals name="permission_usage_deny_phone_state">
+		<item quantity="other">%1$s | Ứng dụng này đã bị từ chối truy cập trạng thái cuộc gọi của thiết bị này %2$d lần</item>
+		<item quantity="one">%1$s | Ứng dụng này đã bị từ chối truy cập trạng thái cuộc gọi của thiết bị này %2$d lần</item>
+	</plurals>
+	<plurals name="permission_usage_deny_r_calendar">
+		<item quantity="other">%1$s | Ứng dụng này đã bị từ chối truy cập vào lịch %2$d lần</item>
+		<item quantity="one">%1$s | Ứng dụng này đã bị từ chối truy cập vào lịch %2$d lần</item>
+	</plurals>
+	<plurals name="permission_usage_deny_r_calllog">
+		<item quantity="other">%1$s | Ứng dụng này đã bị từ chối truy cập vào lịch sử cuộc gọi của bạn %2$d lần</item>
+		<item quantity="one">%1$s | Ứng dụng này đã bị từ chối truy cập vào lịch sử cuộc gọi của bạn %2$d lần</item>
+	</plurals>
+	<plurals name="permission_usage_deny_r_contacts">
+		<item quantity="other">%1$s | Ứng dụng này đã bị từ chối truy cập vào danh bạ của bạn %2$d lần</item>
+		<item quantity="one">%1$s | Ứng dụng này đã bị từ chối truy cập vào danh bạ của bạn %2$d lần</item>
+	</plurals>
+	<plurals name="permission_usage_deny_receive_sms">
+		<item quantity="other">%1$s | Ứng dụng này đã bị từ chối nhận SMS %2$d lần</item>
+		<item quantity="one">%1$s | Ứng dụng này đã bị từ chối nhận SMS %2$d lần</item>
+	</plurals>
+	<plurals name="permission_usage_deny_send_sms">
+		<item quantity="other">%1$s | Ứng dụng này đã bị từ chối gửi SMS %2$d lần</item>
+		<item quantity="one">%1$s | Ứng dụng này đã bị từ chối gửi SMS %2$d lần</item>
+	</plurals>
+	<plurals name="permission_usage_deny_storage">
+		<item quantity="other">%1$s｜Không cho phép truy cập ảnh, video, âm thanh và tệp %2$d lần</item>
+		<item quantity="one">%1$s｜Không cho phép truy cập ảnh, video, âm thanh và tệp %2$d lần</item>
+	</plurals>
+	<plurals name="permission_usage_deny_w_calendar">
+		<item quantity="other">%1$s | Ứng dụng này đã bị từ chối chỉnh sửa lịch %2$d lần</item>
+		<item quantity="one">%1$s | Ứng dụng này đã bị từ chối chỉnh sửa lịch %2$d lần</item>
+	</plurals>
+	<plurals name="permission_usage_deny_w_calllog">
+		<item quantity="other">%1$s | Ứng dụng này đã bị từ chối chỉnh sửa lịch sử cuộc gọi của bạn %2$d lần</item>
+		<item quantity="one">%1$s | Ứng dụng này đã bị từ chối chỉnh sửa lịch sử cuộc gọi của bạn %2$d lần</item>
+	</plurals>
+	<plurals name="permission_usage_deny_w_contacts">
+		<item quantity="other">%1$s | Ứng dụng này đã bị từ chối chỉnh sửa danh bạ của bạn %2$d lần</item>
+		<item quantity="one">%1$s | Ứng dụng này đã bị từ chối chỉnh sửa danh bạ của bạn %2$d lần</item>
+	</plurals>
+	<plurals name="permission_usage_deny_wake_path">
+		<item quantity="other">%1$s | Ứng dụng này đã bị từ chối tự động khởi động %2$s %3$d lần</item>
+		<item quantity="one">%1$s | Ứng dụng này đã bị từ chối tự động khởi động %2$s %3$d lần</item>
+	</plurals>
+	<plurals name="permission_usage_deny_wakepath">
+		<item quantity="other">%1$s | Bị từ chối %2$d lần</item>
+		<item quantity="one">%1$s | Bị từ chối %2$d lần</item>
+	</plurals>
+	<plurals name="permission_usage_projection_screen">
+		<item quantity="other">%1$s｜Nội dung màn hình đã truy cập hoặc ghi lại %2$d lần</item>
+		<item quantity="one">%1$s｜Nội dung màn hình được truy cập hoặc ghi lại %2$d lần</item>
+	</plurals>
+	<plurals name="permission_usage_recent_day">
+		<item quantity="other">%1$d ngày trước</item>
+		<item quantity="one">%1$d ngày trước</item>
+	</plurals>
+	<plurals name="permission_usage_terminal_camera">
+		<item quantity="other">%1$s | Ứng dụng này đã sử dụng máy ảnh của thiết bị này %2$d lần</item>
+		<item quantity="one">%1$s | Ứng dụng này đã sử dụng máy ảnh của thiết bị này %2$d lần</item>
+	</plurals>
+	<plurals name="permission_usage_terminal_screen">
+		<item quantity="other">%1$s | Ứng dụng này đã sử dụng màn hình của thiết bị này %2$d lần</item>
+		<item quantity="one">%1$s | Ứng dụng này đã sử dụng màn hình của thiết bị này %2$d lần</item>
+	</plurals>
+	<plurals name="permission_usage_virtual_calllog_more">
+		<item quantity="other">%1$s | Ứng dụng này đã trả về một bản ghi cuộc gọi trống %2$d lần</item>
+		<item quantity="one">%1$s | Ứng dụng này trả về một bản ghi cuộc gọi trống %2$d lần</item>
+	</plurals>
+	<plurals name="permission_usage_virtual_common_more">
+		<item quantity="other">%1$s | Ứng dụng này trả về tin nhắn trống %2$d lần</item>
+		<item quantity="one">%1$s | Ứng dụng này trả về tin nhắn trống %2$d lần</item>
+	</plurals>
+	<plurals name="permission_usage_virtual_contacts_more">
+		<item quantity="other">%1$s | Ứng dụng này đã trả về một liên hệ trống %2$d lần</item>
+		<item quantity="one">%1$s | Ứng dụng này đã trả về một liên hệ trống %2$d lần</item>
+	</plurals>
+	<plurals name="permission_usage_virtual_phone_state_more">
+		<item quantity="other">%1$s | Ứng dụng này trả về trạng thái cuộc gọi trống %2$d lần</item>
+		<item quantity="one">%1$s | Ứng dụng này trả về trạng thái cuộc gọi trống %2$d lần</item>
+	</plurals>
+	<plurals name="permission_usage_virtual_sms_more">
+		<item quantity="other">%1$s | Ứng dụng này đã trả lại một tin nhắn SMS trống %2$d lần</item>
+		<item quantity="one">%1$s | Ứng dụng này đã trả về một tin nhắn SMS trống %2$d lần</item>
+	</plurals>
+	<plurals name="power_20s_shutdown">
+		<item quantity="other">Thiết bị của bạn sẽ tắt sau %d giây</item>
+		<item quantity="one">Thiết bị của bạn sẽ tắt sau %d giây</item>
+	</plurals>
+	<plurals name="power_battery_hour">
+		<item quantity="other">%s giờ</item>
+		<item quantity="one">%s giờ</item>
+	</plurals>
+	<plurals name="power_battery_minute">
+		<item quantity="other">%s phút</item>
+		<item quantity="one">%s phút</item>
+	</plurals>
+	<plurals name="power_center_battery_charge_number">
+		<item quantity="other">lần</item>
+		<item quantity="one">thời gian</item>
+	</plurals>
+	<plurals name="power_center_battery_consume_prolblem">
+		<item quantity="other">vấn đề sử dụng pin %d</item>
+		<item quantity="one">vấn đề sử dụng pin %d</item>
+	</plurals>
+	<plurals name="power_center_battery_day">
+		<item quantity="other">%d ngày</item>
+		<item quantity="one">%d ngày</item>
+	</plurals>
+	<plurals name="power_center_battery_duration_hour_time_format">
+		<item quantity="other">giờ</item>
+		<item quantity="one">giờ</item>
+	</plurals>
+	<plurals name="power_center_battery_duration_min_time_format">
+		<item quantity="other">phút</item>
+		<item quantity="one">phút</item>
+	</plurals>
+	<plurals name="power_center_battery_hour">
+		<item quantity="other">%d giờ</item>
+		<item quantity="one">%d giờ</item>
+	</plurals>
+	<plurals name="power_center_battery_minute">
+		<item quantity="other">%d phút</item>
+		<item quantity="one">%d phút</item>
+	</plurals>
+	<plurals name="power_center_battery_optimization">
+		<item quantity="other">Tối ưu hóa việc sử dụng pin trong các trường hợp %d</item>
+		<item quantity="one">Tối ưu hóa việc sử dụng pin trong trường hợp %d</item>
+	</plurals>
+	<plurals name="power_center_battery_problem">
+		<item quantity="other">Khắc phục sự cố sử dụng pin %d</item>
+		<item quantity="one">Khắc phục sự cố sử dụng pin %d</item>
+	</plurals>
+	<plurals name="power_center_battery_problem_result">
+		<item quantity="other">Bạn có thể khắc phục sự cố sử dụng pin %d</item>
+		<item quantity="one">Bạn có thể khắc phục sự cố sử dụng pin %d</item>
+	</plurals>
+	<plurals name="power_center_battery_save_suggest">
+		<item quantity="other">%d mục có thể được tối ưu hóa</item>
+		<item quantity="one">%d mục có thể được tối ưu hóa</item>
+	</plurals>
+	<plurals name="power_center_battery_suggest">
+		<item quantity="other">Tối ưu hóa %d mục để tiết kiệm pin</item>
+		<item quantity="one">Tối ưu hóa %d mục để tiết kiệm pin</item>
+	</plurals>
+	<plurals name="power_center_battery_suggest_result">
+		<item quantity="other">Bạn có thể tối ưu hóa %d mục để tiết kiệm pin</item>
+		<item quantity="one">Bạn có thể tối ưu hóa %d mục để tiết kiệm pin</item>
+	</plurals>
+	<plurals name="power_center_battery_temperature">
+		<item quantity="other">%d oC</item>
+		<item quantity="one">%d oC</item>
+	</plurals>
+	<plurals name="power_center_battery_volume">
+		<item quantity="other">%d mAh</item>
+		<item quantity="one">%d mAh</item>
+	</plurals>
+	<plurals name="power_center_list_item_optimize_button">
+		<item quantity="other">Thêm %d phút</item>
+		<item quantity="one">Thêm %d phút</item>
+	</plurals>
+	<plurals name="power_center_menu_text">
+		<item quantity="other">mặt hàng</item>
+		<item quantity="one">mục </item>
+	</plurals>
+	<plurals name="power_center_unoffical_battery_dialog_negative">
+		<item quantity="other">Hủy (%ds)</item>
+		<item quantity="one">Hủy (%ds)</item>
+	</plurals>
+	<plurals name="power_main_battery_last_day">
+		<item quantity="other">%s ngày còn lại</item>
+		<item quantity="one">còn lại %s ngày</item>
+	</plurals>
+	<plurals name="power_main_battery_last_hour">
+		<item quantity="other">%s giờ còn lại</item>
+		<item quantity="one">còn lại %s giờ</item>
+	</plurals>
+	<plurals name="power_main_battery_last_minute">
+		<item quantity="other">còn lại %s phút</item>
+		<item quantity="one">còn lại %s phút</item>
+	</plurals>
+	<plurals name="power_main_battery_last_minute_screen_on">
+		<item quantity="other">%s phút thời gian sử dụng màn hình còn lại</item>
+		<item quantity="one">%s phút thời gian sử dụng màn hình còn lại</item>
+	</plurals>
+	<plurals name="power_main_open_last_minute_screen_on">
+		<item quantity="other">Bật để thêm %s phút sử dụng thiết bị</item>
+		<item quantity="one">Bật để thêm %s phút sử dụng thiết bị</item>
+	</plurals>
+	<plurals name="power_off_warning_button_ok_time">
+		<item quantity="other">Hiểu rồi (%ds)</item>
+		<item quantity="one">Hiểu rồi (%ds)</item>
+	</plurals>
+	<plurals name="power_off_warning_notification_message">
+		<item quantity="other">Thiết bị của bạn sẽ tắt sau %d giây. Kết nối bộ sạc.</item>
+		<item quantity="one">Thiết bị của bạn sẽ tắt sau %d giây. Kết nối bộ sạc.</item>
+	</plurals>
+	<plurals name="power_optimize_app_autostart_summary">
+		<item quantity="other">%d ứng dụng tự động khởi động thường xuyên</item>
+		<item quantity="one">%d ứng dụng tự động khởi động thường xuyên</item>
+	</plurals>
+	<plurals name="power_optimize_close_app_summary">
+		<item quantity="other">%d ứng dụng tiêu hao pin</item>
+		<item quantity="one">%d ứng dụng tiêu hao pin</item>
+	</plurals>
+	<plurals name="pp_times">
+		<item quantity="other">%s lần</item>
+		<item quantity="one">%s thời gian</item>
+	</plurals>
+	<plurals name="ppermission_usage_virtual_calendar_more">
+		<item quantity="other">%1$s | Ứng dụng này trả về một sự kiện lịch trống %2$d lần</item>
+		<item quantity="one">%1$s | Ứng dụng này trả về một sự kiện lịch trống %2$d lần</item>
+	</plurals>
+	<plurals name="privacy_apps_disable_header_title">
+		<item quantity="other">%d biểu tượng ứng dụng bị ẩn</item>
+		<item quantity="one">biểu tượng %d ứng dụng bị ẩn</item>
+	</plurals>
+	<plurals name="privacy_apps_enable_header_title">
+		<item quantity="other">Biểu tượng %d ứng dụng không bị ẩn</item>
+		<item quantity="one">Biểu tượng %d ứng dụng không bị ẩn</item>
+	</plurals>
+	<plurals name="privacy_permission_summary">
+		<item quantity="other">%s ứng dụng có quyền truy cập vĩnh viễn</item>
+		<item quantity="one">Ứng dụng %s có quyền truy cập vĩnh viễn</item>
+	</plurals>
+	<plurals name="privacy_permission_summary_allow">
+		<item quantity="other">Được phép đối với ứng dụng %s</item>
+		<item quantity="one">Được phép đối với ứng dụng %s</item>
+	</plurals>
+	<plurals name="privacy_pop_times">
+		<item quantity="other">%s lần</item>
+		<item quantity="one">%s thời gian</item>
+	</plurals>
+	<plurals name="privacy_risk_app_count">
+		<item quantity="other">%d ứng dụng</item>
+		<item quantity="one">%d ứng dụng</item>
+	</plurals>
+	<plurals name="privacy_risk_dangerous_permissions_tip">
+		<item quantity="other">%d quyền có mức độ rủi ro cao đã được cấp</item>
+		<item quantity="one">%d đã được cấp quyền có mức độ rủi ro cao</item>
+	</plurals>
+	<plurals name="privacy_risk_install_app_tip">
+		<item quantity="other">Đã tìm thấy %d ứng dụng nguy hiểm</item>
+		<item quantity="one">Đã tìm thấy %d ứng dụng nguy hiểm</item>
+	</plurals>
+	<plurals name="privacy_risk_photo_location_tip">
+		<item quantity="other">Đã phát hiện %d rủi ro tiết lộ thông tin vị trí</item>
+		<item quantity="one">Đã phát hiện %d nguy cơ tiết lộ thông tin vị trí</item>
+	</plurals>
+	<plurals name="privacy_risk_result_item_error">
+		<item quantity="other">%d rủi ro được phát hiện</item>
+		<item quantity="one">%d rủi ro được phát hiện</item>
+	</plurals>
+	<plurals name="privacy_risk_result_msg">
+		<item quantity="other">%d rủi ro có thể được tìm thấy</item>
+		<item quantity="one">%d rủi ro có thể được tìm thấy</item>
+	</plurals>
+	<plurals name="privacy_risk_result_photo_sensitive_msg">
+		<item quantity="other">%d ảnh có thể chứa thông tin riêng tư hoặc nhạy cảm</item>
+		<item quantity="one">%d ảnh có thể chứa thông tin riêng tư hoặc nhạy cảm</item>
+	</plurals>
+	<plurals name="privacy_risk_result_protection_tip">
+		<item quantity="other">%d tính năng bảo vệ quyền riêng tư của bạn bị tắt</item>
+		<item quantity="one">Tính năng %d bảo vệ quyền riêng tư của bạn đã bị tắt</item>
+	</plurals>
+	<plurals name="privacy_risk_sensitive_permissions_tip">
+		<item quantity="other">%d quyền nhạy cảm đã được cấp</item>
+		<item quantity="one">%d đã cấp quyền nhạy cảm</item>
+	</plurals>
+	<plurals name="privacy_risk_uninstall_btn">
+		<item quantity="other">Gỡ cài đặt %d ứng dụng</item>
+		<item quantity="one">Gỡ cài đặt %d ứng dụng</item>
+	</plurals>
+	<plurals name="privacy_risk_work_encryption_msg">
+		<item quantity="other">%d mục cần được bảo vệ thêm</item>
+		<item quantity="one">%d mục cần được bảo vệ thêm</item>
+	</plurals>
+	<plurals name="quick_optimize_issue_count">
+		<item quantity="other">Vấn đề về pin %d</item>
+		<item quantity="one">Vấn đề về pin %d</item>
+	</plurals>
+	<plurals name="quick_optimize_issue_found">
+		<item quantity="other">Đã tìm thấy %d vấn đề về pin</item>
+		<item quantity="one">Đã tìm thấy vấn đề về pin %d</item>
+	</plurals>
+	<plurals name="quick_optimize_suggest_issue_found">
+		<item quantity="other">Đã tìm thấy %d vấn đề về pin, hãy khắc phục chúng</item>
+		<item quantity="one">Đã tìm thấy vấn đề về pin %d, hãy khắc phục nó</item>
+	</plurals>
+	<plurals name="quick_optimize_summary_text">
+		<item quantity="other">Đã giải quyết vấn đề về pin %d</item>
+		<item quantity="one">Đã giải quyết vấn đề về pin %d</item>
+	</plurals>
+	<plurals name="reset_data_dialog_ok_tick">
+		<item quantity="other">Khôi phục cài đặt gốc (%ds)</item>
+		<item quantity="one">Khôi phục cài đặt gốc (%ds)</item>
+	</plurals>
+	<plurals name="result_sign_header">
+		<item quantity="other">Đã tìm thấy %d ứng dụng không chính thức</item>
+		<item quantity="one">Đã tìm thấy %d ứng dụng không chính thức</item>
+	</plurals>
+	<plurals name="result_virus_header">
+		<item quantity="other">Đã phát hiện được %d ứng dụng độc hại</item>
+		<item quantity="one">Đã phát hiện thấy %d ứng dụng độc hại</item>
+	</plurals>
+	<plurals name="search_app_count_txt_na">
+		<item quantity="other">Tìm kiếm %d ứng dụng</item>
+		<item quantity="one">Tìm kiếm %d ứng dụng</item>
+	</plurals>
+	<plurals name="section_clear_acc_item_right_tips">
+		<item quantity="other">%d ứng dụng bị khóa đang chờ được xóa</item>
+		<item quantity="one">%d ứng dụng bị khóa đang chờ được xóa</item>
+	</plurals>
+	<plurals name="section_security_defend_item_right_tips">
+		<item quantity="other">Đã xóa %d virus</item>
+		<item quantity="one">Đã xóa vi-rút %d</item>
+	</plurals>
+	<plurals name="sim_lock_puk_dialog_message">
+		<item quantity="other">Bạn chỉ còn %d lần thử để xác minh mã PUK của SIM. Nếu bạn đạt đến giới hạn nhập sai mã PUK, thẻ SIM của bạn sẽ bị hủy. Vẫn tiếp tục?</item>
+		<item quantity="one">Bạn chỉ còn %d lần thử để xác minh mã PUK của SIM. Nếu bạn đạt đến giới hạn nhập sai mã PUK, thẻ SIM của bạn sẽ bị hủy. Vẫn tiếp tục?</item>
+	</plurals>
+	<plurals name="simlock_set_pin_error">
+		<item quantity="other">Mã PIN bạn đã nhập không chính xác. Còn lại %d lần thử.</item>
+		<item quantity="one">Mã PIN bạn đã nhập không chính xác. Còn lại %d lần thử.</item>
+	</plurals>
+	<plurals name="simlock_set_puk_error">
+		<item quantity="other">Nhập mã PUK của SIM. Còn lại %d lần thử.</item>
+		<item quantity="one">Nhập mã PUK của SIM. Còn lại %d lần thử.</item>
+	</plurals>
+	<plurals name="sp_monitored_apps_count">
+		<item quantity="other">Ứng dụng thanh toán %s được bảo vệ</item>
+		<item quantity="one">Ứng dụng thanh toán %s được bảo vệ</item>
+	</plurals>
+	<plurals name="sp_monitored_apps_list_group_disable">
+		<item quantity="other">Ứng dụng %s không được bảo vệ</item>
+		<item quantity="one">Ứng dụng %s không được bảo vệ</item>
+	</plurals>
+	<plurals name="sp_monitored_apps_list_group_enable">
+		<item quantity="other">%s ứng dụng được bảo vệ</item>
+		<item quantity="one">Ứng dụng %s được bảo vệ</item>
+	</plurals>
+	<plurals name="sp_settings_exception_count">
+		<item quantity="other">%d mục</item>
+		<item quantity="one">%d mục</item>
+	</plurals>
+	<plurals name="st_show_num_keyword">
+		<item quantity="other">%d từ khóa</item>
+		<item quantity="one">%d từ khóa</item>
+	</plurals>
+	<plurals name="st_show_num_number">
+		<item quantity="other">%d số</item>
+		<item quantity="one">số %d</item>
+	</plurals>
+	<plurals name="storage_compact_warning">
+		<item quantity="other">Chỉnh sửa quyền %1$d</item>
+		<item quantity="one">Quyền chỉnh sửa %1$d</item>
+	</plurals>
+	<plurals name="storage_fbo_number_unit">
+		<item quantity="other">&lt;big>&lt;big>&lt;big>&lt;big>&lt;big>&lt;big>%s&lt;/big>&lt;/big>&lt;/big>&lt;/big>&lt;/big>&lt;/big> mảnh</item>
+        <item quantity="one">&lt;big>&lt;big>&lt;big>&lt;big>&lt;big>&lt;big>%s&lt;/big>&lt;/big>&lt;/big>&lt;/big>&lt;/big>&lt;/big> đoạn</item>
+	</plurals>
+	<plurals name="storage_ufs_number">
+		<item quantity="other">&lt;big>&lt;big>%s&lt;/big>&lt;/big> GB</item>
+		<item quantity="one">&lt;big>&lt;big>%s&lt;/big>&lt;/big> GB</item>
+	</plurals>
+	<plurals name="summary_absorbed_time_foramt">
+		<item quantity="other">Bật chế độ Lấy nét trong %d phút</item>
+		<item quantity="one">Bật chế độ Lấy nét trong %d phút</item>
+	</plurals>
+	<plurals name="summary_app_update">
+		<item quantity="other">Có bản cập nhật cho %d ứng dụng.</item>
+		<item quantity="one">Đã có bản cập nhật cho %d ứng dụng.</item>
+	</plurals>
+	<plurals name="summary_condition_lock_screen_format">
+		<item quantity="other">Sau khi màn hình bị khóa trong %d phút</item>
+		<item quantity="one">Sau khi màn hình bị khóa trong %d phút</item>
+	</plurals>
+	<plurals name="summary_flow_verify">
+		<item quantity="other">Chưa đồng bộ hóa số liệu thống kê sử dụng dữ liệu của nhà cung cấp dịch vụ trong %d ngày</item>
+		<item quantity="one">Chưa đồng bộ hóa số liệu thống kê sử dụng dữ liệu của nhà cung cấp dịch vụ trong %d ngày</item>
+	</plurals>
+	<plurals name="summary_result_absorbed_time_format">
+		<item quantity="other">%d phút</item>
+		<item quantity="one">%d phút</item>
+	</plurals>
+	<plurals name="summary_result_lock_screen_format">
+		<item quantity="other">Khóa màn hình sau %d phút</item>
+		<item quantity="one">Khóa màn hình sau %d phút</item>
+	</plurals>
+	<plurals name="system_anti_fraud_dialog_countdown_unit">
+		<item quantity="other">(%ds)</item>
+		<item quantity="one">(%ds)</item>
+	</plurals>
+	<plurals name="system_check_content">
+		<item quantity="other">%1$d mục được bảo mật</item>
+		<item quantity="one">%1$d mục an toàn</item>
+	</plurals>
+	<plurals name="title_app_update_cn">
+		<item quantity="other">&lt;Data>Cập nhật &lt;font color=#F22424>%d&lt;/font> ứng dụng&lt;/Data></item>
+		<item quantity="one">&lt;Data>Cập nhật ứng dụng &lt;font color=#F22424>%d&lt;/font>&lt;/Data></item>
+	</plurals>
+	<plurals name="title_virus_clean">
+		<item quantity="other">Đã xóa vi-rút %d</item>
+		<item quantity="one">Đã xóa vi-rút %d</item>
+	</plurals>
+	<plurals name="traffic_setting_app_count">
+		<item quantity="other">%d ứng dụng</item>
+		<item quantity="one">%d ứng dụng</item>
+	</plurals>
+	<plurals name="uninstall_game_count_title">
+		<item quantity="other">Chưa thêm trò chơi %d</item>
+		<item quantity="one">Chưa thêm trò chơi %d</item>
+	</plurals>
+	<plurals name="unlock_set_unlock_pattern_summary_new">
+		<item quantity="other">Kết nối ít nhất %s dấu chấm</item>
+		<item quantity="one">Kết nối ít nhất %s dấu chấm</item>
+	</plurals>
+	<plurals name="unlock_set_unlock_pin_summary_new">
+		<item quantity="other">Nhập %s chữ số</item>
+		<item quantity="one">Nhập chữ số %s</item>
+	</plurals>
+	<plurals name="videobox_settings_manager_apps_count">
+		<item quantity="other">%d ứng dụng</item>
+		<item quantity="one">%d ứng dụng</item>
+	</plurals>
+	<plurals name="videobox_settings_timing_bubble">
+		<item quantity="other">Bạn đã xem video được %d giờ rồi.\nNghỉ ngơi một lát!</item>
+		<item quantity="one">Bạn đã xem video được %d giờ rồi.\nNghỉ ngơi một lát!</item>
+	</plurals>
+	<plurals name="view_num">
+		<item quantity="other">%1$d lượt xem</item>
+		<item quantity="one">%1$d lượt xem</item>
+	</plurals>
+	<plurals name="virus_clear_dialog_content">
+		<item quantity="other">Xóa %d ứng dụng đã chọn?</item>
+		<item quantity="one">Xóa %d ứng dụng đã chọn?</item>
+	</plurals>
+	<plurals name="wakepath_allow_start_app_count">
+		<item quantity="other">%s ứng dụng</item>
+		<item quantity="one">ứng dụng %s</item>
+	</plurals>
+	<plurals name="white_list_risk_app_header">
+		<item quantity="other">Ứng dụng nguy hiểm: %d</item>
+		<item quantity="one">Ứng dụng nguy hiểm: %d</item>
+	</plurals>
+	<plurals name="white_list_trojan_header">
+		<item quantity="other">Trojan: %d</item>
+		<item quantity="one">Trojan: %d</item>
+	</plurals>
+	<plurals name="app_manager_updater_notify_title">
+		<item quantity="other">Cập nhật khả dụng cho %d ứng dụng</item>
+	</plurals>
 	<plurals name="first_aid_card_float_window_summary">
         <item quantity="other">%d ứng dụng có thể hiển thị sai. Giới hạn thông báo nổi.</item>
     </plurals>
-	<plurals name="first_aid_result_summary_exception">
-        <item quantity="other">%1$d vấn đề cần tối ưu</item>
-    </plurals>
-	<plurals name="power_center_menu_text">
-        <item quantity="other">mục</item>
-		<item quantity="one">mục</item>
-    </plurals>
-	<plurals name="menu_text_antivirus_2">
+    	<plurals name="menu_text_antivirus_2">
         <item quantity="other">%d mục</item>
     </plurals>
 	<plurals name="menu_text_antispam_2">
@@ -284,464 +1350,13 @@ Nếu bạn bật dữ liệu di động lại, nhà mạng sẽ tính phí bổ
 	<plurals name="menu_text_antivirus_3">
         <item quantity="other">"%d ngày"</item>
     </plurals>
-	<plurals name="lockpattern_recording_incorrect_too_short">
-        <item quantity="other">Nối ít nhất %d điểm</item>
+	<plurals name="menu_text_app_manager_2">
+        <item quantity="other">%d ứng dụng</item>
     </plurals>
-    <plurals name="mixed_recording_incorrect_too_short">
-        <item quantity="other">Nhập ít nhất %d ký tự</item>
+    <plurals name="om_ill_proc_multi_app_title">
+        <item quantity="other">%d ứng dụng không hoạt động bình thường và hao pin</item>
     </plurals>
-    <plurals name="numeric_recording_incorrect_too_short">
-        <item quantity="other">Nhập ít nhất %d chữ số</item>
-    </plurals>
-	<plurals name="hints_scan_danger_result_with_number">
-        <item quantity="other">Phát hiện %d nguy cơ</item>
-    </plurals>
-	<plurals name="function_shield_num">
-        <item quantity="other">%d tính năng</item>
-    </plurals>
-	<plurals name="notification_battery_scan_consume_abnormal_title_split">
-        <item quantity="other">%2$d ứng dụng, bao gồm %1$s, đang làm hao pin</item>
-    </plurals>
-    <plurals name="pc_abnormal_scan_result_model_result_title">
-        <item quantity="other">%d ứng dụng đang làm hao pin</item>
-    </plurals>
-	<plurals name="pc_main_power_center_battery_day">
-        <item quantity="other">%s ngày</item>
-    </plurals>
-    <plurals name="pc_main_power_center_battery_hour">
-        <item quantity="other">%s giờ</item>
-    </plurals>
-    <plurals name="pc_main_power_center_battery_minute">
-        <item quantity="other">%s phút</item>
-    </plurals>
-	<plurals name="pc_statistics_battery_use_minute">
-        <item quantity="other">%d phút từ lần sạc cuối</item>
-    </plurals>
-    <plurals name="pc_statistics_battery_use_second">
-        <item quantity="other">%d giây từ lần sạc cuối</item>
-    </plurals>
-    <plurals name="pc_statistics_battery_last_minute">
-        <item quantity="other">Còn lại %d phút</item>
-    </plurals>
-    <plurals name="pc_statistics_battery_last_hour">
-        <item quantity="other">Còn lại %d giờ</item>
-    </plurals>
-	<plurals name="power_main_battery_last_day">
-		<item quantity="other">Còn lại %s ngày</item>
-	</plurals>
-	<plurals name="power_main_battery_last_hour">
-		<item quantity="other">Còn lại %s giờ</item>
-	</plurals>
-	<plurals name="power_main_battery_last_minute">
-		<item quantity="other">Còn lại %s phút</item>
-	</plurals>
-	<plurals name="pc_main_sub_battery_text_day">
-		<item quantity="other">Còn lại %s ngày</item>
-	</plurals>
-	<plurals name="pc_main_sub_battery_text_hour">
-		<item quantity="other">Còn lại %s giờ</item>
-	</plurals>
-	<plurals name="pc_main_sub_battery_text_minute">
-		<item quantity="other">Còn lại %s phút</item>
-	</plurals>
-	<plurals name="pc_main_power_manager_day">
-		<item quantity="other">%s ngày cho đến khi sạc đầy</item>
-	</plurals>
-	<plurals name="pc_main_power_manager_hour">
-		<item quantity="other">%s giờ cho đến khi sạc đầy</item>
-	</plurals>
-	<plurals name="pc_main_power_manager_minute">
-		<item quantity="other">%s phút cho đến khi sạc đầy</item>
-	</plurals>
-	<plurals name="ew_alert_second_after">
-		<item quantity="other">Trong %d giây</item>
-	</plurals>
-	<plurals name="menu_text_antivirus_virus_ex">
-		<item quantity="other">%d ứng dụng có chứa virus hoặc malware</item>
-	</plurals>
-	<plurals name="menu_text_antivirus_day_ex">
-		<item quantity="other">"Chưa quét thiết bị %d ngày"</item>
-	</plurals>
-	<plurals name="menu_text_app_manager_ex">
-		<item quantity="other">%d cập nhật khả dụng</item>
-	</plurals>
-	<plurals name="menu_text_antispam_ex">
-		<item quantity="other">%d tin nhắn và cuộc gọi đã chặn</item>
-		<item quantity="one">%d tin nhắn hoặc cuộc gọi đã chặn</item>
-	</plurals>
-	<plurals name="keyguard_charging_info_drained_hour_time_format">
-		<item quantity="other">%s giờ</item>
-	</plurals>
-	<plurals name="keyguard_charging_info_drained_min_time_format">
-		<item quantity="other">%s phút</item>
-	</plurals>
-	<plurals name="applock_guide_app_count_tips">
-		<item quantity="other">Bạn có thể bảo vệ ít nhất %s ứng dụng</item>
-	</plurals>
-	<plurals name="gb_record_time_title">
-		<item quantity="other">%d giây</item>
-	</plurals>
-	<plurals name="videobox_settings_manager_apps_count">
-		<item quantity="other">%d ứng dụng</item>
-	</plurals>
-	<plurals name="app_behavior_privacy_manager_on">
-		<item quantity="other">%1$d ứng dụng có thông báo hành vi nhạy cảm được bật</item>
-	</plurals>
-	<plurals name="app_behavior_desc_deny">
-		<item quantity="other">Đã từ chối %3$d lần trong %1$s - %2$s</item>
-	</plurals>
-	<plurals name="app_behavior_desc_allow">
-		<item quantity="other">Đã cho phép %3$d lần trong %1$s - %2$s</item>
-	</plurals>
-	<plurals name="app_behavior_privacy_manager_off">
-		<item quantity="other">%1$d ứng dụng không bật thông báo hành vi nhạy cảm</item>
-	</plurals>
-	<plurals name="app_behavior_notification_camera_more">
-		<item quantity="other">%1$s và %2$d ứng dụng khác đang sử dụng máy ảnh</item>
-	</plurals>
-	<plurals name="app_behavior_notification_location_more">
-		<item quantity="other">%1$s và %2$d ứng dụng khác đang truy cập vị trí của bạn</item>
-	</plurals>
-	<plurals name="app_behavior_notification_audio_more">
-		<item quantity="other">%1$s và %2$d ứng dụng khác đang ghi âm</item>
-	</plurals>
-	<plurals name="app_behavior_desc_virtual">
-		<item quantity="other">%3$d tin nhắn trống đã được trả trong khoảng %1$s-%2$s</item>
-	</plurals>
-	<plurals name="privacy_permission_summary">
-		<item quantity="other">%s ứng dụng có quyền truy cập vĩnh viễn</item>
-	</plurals>
-	<plurals name="app_behavior_desc_deny_minute">
-		<item quantity="other">Đã từ chối %2$d lần lúc %1$s</item>
-	</plurals>
-	<plurals name="app_behavior_desc_allow_minute">
-		<item quantity="other">Đã cho phép %2$d lần lúc %1$s</item>
-	</plurals>
-	<plurals name="power_off_warning_button_ok_time">
-		<item quantity="other">Đã hiểu (%d giây)</item>
-	</plurals>
-	<plurals name="app_behavior_desc_virtual_minute">
-		<item quantity="other">Đã trả về %2$d tin nhắn rỗng lúc %1$s</item>
-	</plurals>
-	<plurals name="app_behavior_wakepath_multiple">
-		<item quantity="other">%1$1s đã chạy %2$d ứng dụng</item>
-	</plurals>
-	<plurals name="pc_battery_history_minute">
-		<item quantity="other">" phút"</item>
-	</plurals>
-	<plurals name="app_behavior_wakepath_multiple_single">
-		<item quantity="other">Ứng dụng này đã chạy %1$d ứng dụng khác</item>
-	</plurals>
-	<plurals name="pc_battery_history_hour">
-		<item quantity="other">" giờ"</item>
-	</plurals>
-	<plurals name="power_off_warning_notification_message">
-		<item quantity="other">Thiết bị của bạn sẽ tắt trong %d giây. Kết nối bộ sạc.</item>
-	</plurals>
-	<plurals name="privacy_pop_times">
-		<item quantity="other">%s lần</item>
-	</plurals>
-	<plurals name="gb_dialog_game_uninstall_multi_tips_title">
-		<item quantity="other">Gỡ bỏ %2$d trò chơi (bao gồm %1$s)</item>
-	</plurals>
-	<plurals name="gb_game_video_ai_record_finish_tips">
-		<item quantity="other">Đã lưu %d bản ghi AI vào Tăng tốc Trò chơi</item>
-	</plurals>
-	<plurals name="intl_perm_privacy_control_message_count">
-		<item quantity="other">Bạn có thể bảo vệ %d mục</item>
-	</plurals>
-	<plurals name="om_running_apps_num">
-		<item quantity="other">%d ứng dụng</item>
-	</plurals>
-	<plurals name="ew_concern_date">
-		<item quantity="other">%d ngày trước</item>
-	</plurals>
-	<plurals name="gb_voice_changer_trial_gain_fail">
-		<item quantity="other">"Không thể nhận dùng thử miễn phí %d ngày"</item>
-	</plurals>
-	<plurals name="privacy_risk_dangerous_permissions_tip">
-		<item quantity="other">Đã cấp %d quyền rủi ro cao</item>
-	</plurals>
-	<plurals name="privacy_risk_result_msg">
-		<item quantity="other">Đã tìm thấy %d quyền có thể rủi ro</item>
-	</plurals>
-	<plurals name="gb_voice_changer_user_status_get_trial_card">
-		<item quantity="other">Nhận dùng thử miễn phí %d ngày</item>
-	</plurals>
-	<plurals name="gb_voice_changer_trial_gain_success">
-		<item quantity="other">Đã nhận thành công dùng thử miễn phí %d ngày</item>
-	</plurals>
-	<plurals name="power_center_battery_problem">
-		<item quantity="other">Sửa %d vấn đề sử dụng pin</item>
-	</plurals>
-	<plurals name="privacy_risk_work_encryption_msg">
-		<item quantity="other">%d mục cần bảo vệ thêm</item>
-	</plurals>
-	<plurals name="power_center_battery_problem_result">
-		<item quantity="other">Bạn có thể sửa %d vấn đề sử dụng pin</item>
-	</plurals>
-	<plurals name="power_center_battery_duration_min_time_format">
-		<item quantity="other">" phút"</item>
-	</plurals>
 	<plurals name="power_center_battery_health_summary">
 		<item quantity="other">Sạc đầy thiết bị ít nhất %2$d lần để nhận thống kê chính xác</item>
 	</plurals>
-	<plurals name="applock_one_key_lock">
-		<item quantity="other">%s ứng dụng sẽ được bảo vệ bằng Khóa ứng dụng</item>
-	</plurals>
-	<plurals name="notification_checker_installed_apk_text">
-		<item quantity="other">Xóa %d gói cài đặt</item>
-		<item quantity="one">Xóa %d gói cài đặt</item>
-	</plurals>
-	<plurals name="power_center_battery_duration_hour_time_format">
-		<item quantity="other">" giờ"</item>
-	</plurals>
-	<plurals name="power_center_battery_consume_prolblem">
-		<item quantity="other">%d vấn đề sử dụng pin</item>
-	</plurals>
-	<plurals name="power_optimize_close_app_summary">
-		<item quantity="other">%d ứng dụng hao pin</item>
-	</plurals>
-	<plurals name="gb_voice_changer_user_status_get_twice_trial_card_dialog">
-		<item quantity="other">"Đăng ký hết hạn.
-Bạn có thể nhận dùng thử miễn phí %d ngày!"</item>
-	</plurals>
-	<plurals name="power_center_battery_suggest_result">
-		<item quantity="other">Bạn có thể tối ưu %d mục để tiết kiệm pin</item>
-	</plurals>
-	<plurals name="notification_power_consume_suggest">
-		<item quantity="other">Tối ưu %d mục để tiết kiệm pin</item>
-	</plurals>
-	<plurals name="image_protect_exit_del_tips">
-		<item quantity="other">%d hình ảnh sẽ bị xóa vĩnh viễn sau khi bạn rời khỏi trang này. Vẫn xóa?</item>
-	</plurals>
-	<plurals name="power_optimize_app_autostart_summary">
-		<item quantity="other">%d ứng dụng tự khởi chạy thường xuyên</item>
-	</plurals>
-	<plurals name="privacy_risk_photo_location_tip">
-		<item quantity="other">%d rủi ro tiết lộ thông tin vị trí được phát hiện</item>
-	</plurals>
-	<plurals name="privacy_risk_uninstall_btn">
-		<item quantity="other">Gỡ bỏ %d ứng dụng</item>
-	</plurals>
-	<plurals name="privacy_risk_result_protection_tip">
-		<item quantity="other">%d tính năng bảo vệ quyền riêng tư của bạn bị tắt</item>
-	</plurals>
-	<plurals name="pp_times">
-		<item quantity="other">%s lần</item>
-	</plurals>
-	<plurals name="applock_app_suggest_lock">
-		<item quantity="other">Bạn có thể sử dụng Khóa ứng dụng với %1$s ứng dụng</item>
-	</plurals>
-	<plurals name="privacy_risk_app_count">
-		<item quantity="other">%d ứng dụng</item>
-	</plurals>
-	<plurals name="gb_voice_changer_user_tips_info">
-		<item quantity="other">Nhận dùng thử miễn phí %d ngày</item>
-	</plurals>
-	<plurals name="image_protect_try_del_tips">
-		<item quantity="other">Xóa %d ảnh</item>
-	</plurals>
-	<plurals name="notification_power_consume_issue">
-		<item quantity="other">%d vấn đề sử dụng pin</item>
-	</plurals>
-	<plurals name="privacy_risk_sensitive_permissions_tip">
-		<item quantity="other">Đã cấp %d quyền nhạy cảm</item>
-	</plurals>
-	<plurals name="power_center_battery_save_suggest">
-		<item quantity="other">" %d mục có thể tối ưu"</item>
-	</plurals>
-	<plurals name="power_center_battery_suggest">
-		<item quantity="other">Tối ưu %d mục để tiết kiệm pin</item>
-	</plurals>
-	<plurals name="privacy_risk_install_app_tip">
-		<item quantity="other">%d ứng dụng rủi ro</item>
-	</plurals>
-	<plurals name="privacy_risk_result_photo_sensitive_msg">
-		<item quantity="other">%d ảnh có thể chứa thông tin riêng tư hoặc nhạy cảm</item>
-	</plurals>
-	<plurals name="privacy_risk_result_item_error">
-		<item quantity="other">Phát hiện %d rủi ro</item>
-	</plurals>
-	<plurals name="image_protect_del_tips">
-		<item quantity="other">Xóa vĩnh viễn %d ảnh?</item>
-	</plurals>
-	<plurals name="power_center_battery_charge_number">
-		<item quantity="other">lần</item>
-	</plurals>
-	<plurals name="abbrev_a_hour_ago">
-		<item quantity="other">1 giờ trước</item>
-	</plurals>
-	<plurals name="abbrev_half_hour_ago">
-		<item quantity="other">Nửa giờ trước</item>
-	</plurals>
-	<plurals name="less_than_one_minute_ago">
-		<item quantity="other">Vừa xong</item>
-	</plurals>
-	<plurals name="abbrev_in_a_hour">
-		<item quantity="other">Trong 1 giờ</item>
-	</plurals>
-	<plurals name="in_a_hour">
-		<item quantity="other">Trong 1 giờ</item>
-	</plurals>
-	<plurals name="num_minutes_ago">
-		<item quantity="other">%d phút trước</item>
-		<item quantity="one">1 phút trước</item>
-	</plurals>
-	<plurals name="in_half_hour">
-		<item quantity="other">Trong nửa giờ</item>
-	</plurals>
-	<plurals name="half_hour_ago">
-		<item quantity="other">Nửa giờ trước</item>
-	</plurals>
-	<plurals name="a_hour_ago">
-		<item quantity="other">1 giờ trước</item>
-	</plurals>
-	<plurals name="abbrev_in_num_minutes">
-		<item quantity="other">trong %d phút</item>
-		<item quantity="one">trong 1 phút</item>
-	</plurals>
-	<plurals name="abbrev_num_minutes_ago">
-		<item quantity="other">%d phút trước</item>
-		<item quantity="one">1 phút trước</item>
-	</plurals>
-	<plurals name="abbrev_less_than_one_minute_ago">
-		<item quantity="other">Vừa xong</item>
-	</plurals>
-	<plurals name="in_less_than_one_minute">
-		<item quantity="other">Tức thì</item>
-	</plurals>
-	<plurals name="abbrev_in_half_hour">
-		<item quantity="other">Trong nửa giờ</item>
-	</plurals>
-	<plurals name="abbrev_in_less_than_one_minute">
-		<item quantity="other">Tức thì</item>
-	</plurals>
-	<plurals name="in_num_minutes">
-		<item quantity="other">trong %d phút</item>
-		<item quantity="one">trong 1 phút</item>
-	</plurals>
-	<plurals name="miuix_appcompat_items_selected">
-		<item quantity="other">%d mục đã chọn</item>
-	</plurals>
-	<plurals name="lockpattern_recording_intro_header_new">
-		<item quantity="other">Kết nối ít nhất %s điểm</item>
-	</plurals>
-	<plurals name="unlock_set_unlock_pattern_summary_new">
-		<item quantity="other">Kết nối ít nhất %s điểm</item>
-	</plurals>
-	<plurals name="unlock_set_unlock_pin_summary_new">
-		<item quantity="other">Nhập %s chữ số</item>
-	</plurals>
-	<plurals name="gb_voice_changer_toast_tips_window_bubble">
-		<item quantity="other">"Dùng Thay đổi giọng nói ngay
-để nhận dùng thử miễn phí %d-ngày!"</item>
-	</plurals>
-	<plurals name="videobox_settings_timing_bubble">
-		<item quantity="other">"Bạn đã xem video %d giờ.
-Nghỉ ngơi chút đi!"</item>
-	</plurals>
-	<plurals name="notification_antivirus_title">
-		<item quantity="other">%d ngày chưa quét bảo mật</item>
-	</plurals>
-	<plurals name="notification_link_cleaner_2006">
-		<item quantity="other">Xóa %d APK thừa</item>
-	</plurals>
-	<plurals name="gtb_spring_festival_colored_egg">
-		<item quantity="other">"Chúc mừng! Bạn đã mở khóa %s Trứng phục sinh."</item>
-	</plurals>
-	<plurals name="exo_controls_rewind_by_amount_description">
-		<item quantity="other">Tua lại %d giây</item>
-	</plurals>
-	<plurals name="exo_controls_fastforward_by_amount_description">
-		<item quantity="other">Tua đi %d giây</item>
-	</plurals>
-	<plurals name="power_20s_shutdown">
-		<item quantity="other">Thiết bị sẽ tắt trong %d giây</item>
-	</plurals>
-	<plurals name="app_manager_uninstall_notify_summary">
-		<item quantity="other">Gỡ bỏ %d ứng dụng</item>
-	</plurals>
-	<plurals name="title_app_update_cn">
-		<item quantity="other">&lt;Data&gt;Cập nhật &lt;font color=#F22424&gt;%d&lt;/font&gt; ứng dụng&lt;/Data&gt;</item>
-	</plurals>
-	<plurals name="power_center_unoffical_battery_dialog_negative">
-		<item quantity="other">Hủy (%d giây)</item>
-	</plurals>
-	<plurals name="app_manager_updater_notify_title">
-		<item quantity="other">Cập nhật khả dụng cho %d ứng dụng</item>
-	</plurals>
-	<plurals name="card_uninstall_title">
-		<item quantity="other">&lt;Data&gt;Bạn có thể gỡ &lt;font color=#F22424&gt;%d&lt;/font&gt; ứng dụng&lt;/Data&gt;</item>
-	</plurals>
-	<plurals name="app_behavior_dashboard_total_usage_item">
-		<item quantity="other">%d ứng dụng</item>
-	</plurals>
-	<plurals name="app_behavior_dashboard_title_desc">
-		<item quantity="other">%d ứng dụng</item>
-	</plurals>
-	<plurals name="find_leak_risk">
-		<item quantity="other">%d mối nguy liên quan đến bảo mật</item>
-	</plurals>
-	<plurals name="gb_toolbox_guide_known">
-		<item quantity="other">Đã hiểu (%d giây)</item>
-	</plurals>
-	<plurals name="exit_dialog_scan_message_new">
-		<item quantity="other">"Điểm hiệu năng của thiết bị thấp hơn %d. Tối ưu ngay?"</item>
-	</plurals>
-    <plurals name="gtb_brightness_dialog_message">
-        <item quantity="other">Tính năng này tự động giảm độ sáng màn hình sau %d phút không hoạt động để tiết kiệm pin. Vẫn để tính năng này bật?</item>
-    </plurals>
-    <plurals name="app_behavior_desc_duration_usage_time">
-        <item quantity="other">Đã dùng trong %1$d phút</item>
-    </plurals>
-    <plurals name="app_behavior_desc_duration_usage">
-        <item quantity="other">Đã cho phép %3$d lần trong khoảng %1$s và %2$s</item>
-    </plurals>
-    <plurals name="app_behavior_desc_duration_usage_time_end">
-        <item quantity="other">Đã sử dụng %1$d phút đến khi %2$s</item>
-    </plurals>
-    <plurals name="gtb_setting_item_summary_brightness">
-        <item quantity="other">Tự động giảm độ sáng màn hình sau %d phút không hoạt động</item>
-    </plurals>
-    <plurals name="sim_lock_puk_dialog_message">
-        <item quantity="other">Bạn chỉ còn %d lần thử để xác minh mã PUK của SIM. Nếu bạn đạt đến giới hạn nhập sai mã PUK, thẻ SIM của bạn sẽ bị hủy. Vẫn tiếp tục?</item>
-    </plurals>
-    <plurals name="simlock_set_pin_error">
-        <item quantity="other">Mã PIN bạn đã nhập không chính xác. Còn lại %d lần thử.</item>
-    </plurals>
-    <plurals name="simlock_set_puk_error">
-        <item quantity="other">Nhập mã PUK của SIM. Còn lại %d lần thử.</item>
-    </plurals>
-    <plurals name="virus_clear_dialog_content">
-        <item quantity="other">Xóa %d ứng dụng đã chọn?</item>
-    </plurals>
-	<plurals name="behavior_widget_perm_counts">
-		<item quantity="other">%d lần</item>
-	</plurals>
-    <plurals name="behavior_widget_app_text">
-        <item quantity="other">%2$d ứng dụng bao gồm %1$s</item>
-    </plurals>
-	<plurals name="summary_result_absorbed_time_format">
-		<item quantity="other">%d phút</item>
-	</plurals>
-	<plurals name="mtrl_badge_content_description">
-		<item quantity="other">%d thông báo mới</item>
-	</plurals>
-	    <plurals name="power_center_battery_optimization">
-        <item quantity="other">Tối ưu hóa mức sử dụng pin trong %d tình huống</item>
-        <item quantity="one">Tối ưu hóa mức sử dụng pin trong %d tình huống</item>
-	</plurals>
-		<plurals name="pc_can_be_optimize_numbers">
-        <item quantity="other">%d mục</item>
-        <item quantity="one">%d mục</item>
-    </plurals>
-	<plurals name="storage_compact_warning">
-        <item quantity="other">Sửa %1$d quyền</item>
-        <item quantity="one">Sửa %1$d quyền</item>
-    </plurals>
-	<plurals name="app_manager_updater_title">
-        <item quantity="other">Cập nhật %d ứng dụng</item>
-        <item quantity="one">Cập nhật %d ứng dụng</item>
-    </plurals>
 </resources>
