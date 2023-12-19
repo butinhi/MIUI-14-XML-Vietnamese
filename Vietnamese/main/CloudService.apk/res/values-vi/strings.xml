@@ -1499,4 +1499,6 @@ Thông tin vị trí có thể không được báo cáo khi kết nối mạng 
 	<string name="privacy_runtime_perm_external_storage_desc">Để đồng bộ ảnh hồ sơ liên hệ</string>
 	<string name="privacy_runtime_perm_sms_desc">Để đồng bộ tin nhắn</string>
 	<string name="cloud_manage_storage_text">Quản lý lưu trữ đám mây</string>
+	<string name="phone_guarantee_service_description" formatted="false">Bạn có thể mua bảo vệ khỏi hư hỏng màn hình và tai nạn trong vòng %d ngày kể từ khi kích hoạt. Có thể mua bảo hành mở rộng trong vòng %d ngày kể từ khi kích hoạt.</string>
+    <string name="phone_guarantee_service_name">Bảo hành thiết bị</string>
 </resources>

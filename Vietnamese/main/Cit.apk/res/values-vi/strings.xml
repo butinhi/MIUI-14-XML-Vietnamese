@@ -88,7 +88,7 @@
     <string name="cit_touch_calib_fail">Hiệu chỉnh cảm ứng không thành công, Vui lòng thử lại</string>
     <string name="cit_touch_calib_instruction">bắt đầu hiệu chỉnh</string>
     <string name="cit_finger_check_title">Kiểm tra cảm biến vân tay (FPC)</string>
-    <string name="cit_version_check_summary">Bên dưới là thông tin về thiết bị. Hãy xác nhận rằng thông tin được đánh dấu màu xanh lá cây là đúng.</string>
+    <string name="cit_version_check_summary">Dưới đây là thông tin phiên bản OS. Xác nhận rằng thông tin được đánh dấu màu xanh lá cây là chính xác.</string>
     <string name="cit_proximity_sensor_check_summary">"Dùng tay che bộ cảm biến tiệm cận (nằm ở trên cùng của điện thoại gần bộ thu), sau đó di chuyển tay ra xa. Giá trị sẽ tăng từ 0,0 khi bạn di chuyển tay ra xa thiết bị hơn.
 Trong khi hiệu chỉnh, đảm bảo rằng không có gì nằm giữa bộ cảm biến và tay của bạn (ví dụ: bảo vệ màn hình hoặc găng tay)."</string>
     <string name="cit_fpc_sensor_check_summary">Kiểm tra cảm biến vân tay, nhấn nút và chờ thông tin vượt qua được đánh dấu màu xanh lá cây là đúng.</string>

@@ -395,7 +395,7 @@ Cập nhật không khả dụng cho bạn!"</string>
     <string name="pick_title">Chọn sử dụng:</string>
     <string name="recovery_desc">Thiết bị sẽ khởi động lại để vào chế độ Recovery ngay bây giờ nếu bạn không quen thuộc với chế độ, hủy các hành động trong tương lai. Tiếp tục?</string>
     <string name="server_error">Máy chủ không phản hồi, ứng dụng có thể không hoạt động đúng!</string>
-    <string name="share_desc">Phiên bản MIUI của bạn đã được cập nhật lên %1$s, kiểm tra tóm tắt mới nhất tại: %2$s</string>
+    <string name="share_desc">Phiên bản OS của bạn đã được cập nhật lên %1$s, kiểm tra tóm tắt mới nhất tại: %2$s</string>
     <string name="share_title">Chia sẻ với</string>
     <string name="stable">Ổn định</string>
     <string name="version">Mới cài đặt:</string>
