@@ -12620,4 +12620,5 @@ Tính năng này chỉ hoạt động khi điều hướng hệ thống được
     <string name="photography_handle_quick_launch_camera_title">Khởi động nhanh</string>
     <string name="wifi_stx_logs_disabled">Nhật ký WLAN STx đang tắt</string>
     <string name="wifi_stx_logs_enabled">Nhật ký WLAN STx đang bật</string>
+    <string name="otg_new_tip">Bật tính năng OTG để có thể kết nối trực tiếp thiết bị của bạn với các thiết bị khác bằng USB. Tính năng này sẽ tự động tắt sau %d phút không hoạt động.</string>
 </resources>
