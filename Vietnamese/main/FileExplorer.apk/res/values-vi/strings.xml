@@ -1757,4 +1757,16 @@ Gia nhập cùng 170 triệu Mi Fan!"</string>
     <string name="extend_service_title">Quản lý tệp Mi Drive</string>
 	<string name="cta_use_sync_midrive_file">Để đồng bộ hóa tập tin với Mi Drive</string>
 	<string name="dialog_keep_choice">Ghi nhớ lựa chọn của tôi</string>
+	<string name="permission_account_desc">Để truy cập thông tin tài khoản được lưu trữ trên thiết bị của bạn</string>
+    <string name="permission_account_desc_pad">Để truy cập thông tin tài khoản được lưu trữ trên thiết bị của bạn</string>
+    <string name="permission_account_title">Truy cập tài khoản thiết bị</string>
+    <string name="permission_account_title_pad">Truy cập tài khoản thiết bị</string>
+    <string name="permission_group_description_phone">Khi bạn đặt tệp ở chế độ riêng tư, ứng dụng này sẽ thu thập IMEI thiết bị của bạn cho mục đích nhận dạng, lưu trữ và mở khóa</string>
+    <string name="permission_group_description_storage_space">Truy cập và thêm các mục vào bộ nhớ</string>
+    <string name="permission_group_name_phone">Điện thoại</string>
+    <string name="permission_group_name_storage_space">Lưu trữ</string>
+    <string name="permission_storage_desc_pad">Để lưu ảnh và tài liệu vào thiết bị của bạn</string>
+    <string name="permission_storage_title">Truy cập bộ nhớ thiết bị</string>
+    <string name="permission_storage_title_pad">Truy cập bộ nhớ thiết bị</string>
+	<string name="cloud_permission_storage_desc">Để lưu ảnh và tài liệu vào thiết bị của bạn</string>
 </resources>
