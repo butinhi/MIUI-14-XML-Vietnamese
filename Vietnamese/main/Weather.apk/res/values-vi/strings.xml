@@ -474,12 +474,10 @@ Chạm vào màn hình để thêm thủ công hoặc định vị lại thành 
 	<string name="weather_main_minute_hour">Xác suất mưa trong %d giờ</string>
 	<string name="dislike_alert_dialog_title">Tại sao bạn không muốn thấy nội dung này?</string>
 	<string name="miuix_sbl_tracking_progress_labe_up_refresh">Chỉ vài giây…</string>
-	<string name="aqi_24_hours_desc">Dự báo chất lượng không khí trong %d giờ</string>
 	<string name="request_cta_connect_net">Cho phép ứng dụng này kết nối mạng và cấp các quyền bắt buộc liệt kê bên trên.</string>
 	<string name="aqi_48_hours_desc">Dự báo chất lượng không khí trong %d giờ</string>
 	<string name="miuix_sbl_tracking_progress_labe_refreshed">Đã làm mới</string>
 	<string name="miuix_sbl_tracking_progress_labe_up_none">"Đó là tất cả"</string>
-	<string name="aqi_15_days_desc">Dự báo chất lượng không khí trong %d ngày</string>
 	<string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">"Không thể tải"</string>
 	<string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Kéo xuống để làm mới</string>
 	<string name="weather_main_speak_tips">Bấm để phát thời tiết bằng giọng nói</string>
@@ -857,4 +855,6 @@ Chạm vào màn hình để thêm thủ công hoặc định vị lại thành 
     <string name="setting_confirm_to_revoke_permission_title">Rút lại sự đồng ý</string>
 	<string name="button_confirm_to_revoke_permission">Rút</string>
 	<string name="customer_service_hotline">Hotline dịch vụ khách hàng: 400-100-5678</string>
+	<string name="aqi_24_hours_desc">Dự báo AQI 24 giờ</string>
+	<string name="aqi_15_days_desc">Dự báo AQI 15 ngày</string>
 </resources>
