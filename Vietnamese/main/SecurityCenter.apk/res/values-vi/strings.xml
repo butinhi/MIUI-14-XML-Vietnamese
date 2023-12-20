@@ -5188,7 +5188,7 @@ Bạn có thể tắt tùy chọn \"Tự động điều chỉnh số liệu th�
 	<string name="oaid_reset_final_tip">Bạn có chắc chắn muốn tắt ID nhận dạng ảo?</string>
 	<string name="ad_text_introduce">Về</string>
 	<string name="ad_text_permission">Quyền</string>
-	<string name="ad_text_privacy">Sự riêng tư</string>
+	<string name="ad_text_privacy">Quyền riêng tư</string>
 	<string name="ad_text_version">Phiên bản: %1$s</string>
 	<string name="add_bill_reminder_alarm">Đặt cảnh báo cân bằng điện thoại</string>
 	<string name="added_game_notification_summary">Bắt đầu chơi ngay bây giờ</string>
@@ -6671,7 +6671,7 @@ Thiết bị của bạn bây giờ nhanh hơn %s."</string>
 	<string name="pp_lab_compact_blur_location_summary">Chọn \"Mặc định\" để sử dụng chức năng vị trí gần đúng của Android hoặc \"Tất cả\" để sử dụng tài nguyên hệ thống bổ sung hỗ trợ tất cả ứng dụng.</string>
 	<string name="pp_read_phone_info_summary">Truy cập thông tin SIM</string>
 	<string name="precise_location_title">Vị trí chính xác</string>
-	<string name="privacy">Sự riêng tư</string>
+	<string name="privacy">Quyền riêng tư</string>
 	<string name="tc_cmd_invalid">Mẫu không hợp lệ</string>
 	<string name="tc_get_cmd_error">Không thể nhận mẫu</string>
 	<string name="tc_parse_error">Không thể phân tích SMS</string>

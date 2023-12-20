@@ -984,7 +984,7 @@
 		<item quantity="one">%s phút</item>
 	</plurals>
 	<plurals name="power_center_battery_charge_number">
-		<item quantity="other">lần</item>
+		<item quantity="other"> lần</item>
 		<item quantity="one">thời gian</item>
 	</plurals>
 	<plurals name="power_center_battery_consume_prolblem">
