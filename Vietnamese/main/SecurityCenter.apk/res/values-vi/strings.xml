@@ -5076,7 +5076,7 @@ Bạn có thể tắt tùy chọn \"Tự động điều chỉnh số liệu th�
 	<string name="permission_usage_virtual_common_once">%1$s | Ứng dụng này trả về một tin nhắn trống</string>
 	<string name="permission_usage_virtual_contacts_once">%1$s | Ứng dụng này trả về một liên hệ trống</string>
 	<string name="popular_action_anti_spam_title_global">Chặn cuộc gọi và tin nhắn</string>
-	<string name="privacy_and_safety">Quyền riêng tư và bảo mật</string>
+	<string name="privacy_and_safety">Quyền riêng tư &amp; bảo mật</string>
 	<string name="privacy_apps_tutorial_dlg_message_1">Tách hai ngón tay ra trên Màn hình chính để xem các ứng dụng ẩn</string>
 	<string name="privacy_apps_tutorial_dlg_message_2">Lưu ý: Khi bạn ẩn một ứng dụng, chỉ lối tắt trên Màn hình chính của ứng dụng đó bị ẩn.</string>
 	<string name="safety">Bảo mật</string>
