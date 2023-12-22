@@ -6914,7 +6914,6 @@ Bạn chắc chắn sử dụng giờ được cấp bởi GPS?"</string>
     <string name="accessibility_daltonizer_master_switch_title">Sử dụng hiệu chỉnh màu</string>
     <string name="accessibility_description_state_stopped">Dịch vụ này đang hoạt động sai.</string>
     <string name="accessibility_disable_animations">Xóa hiệu ứng</string>
-    <string name="accessibility_hearingaid_active_device_summary">%1$s đang kích hoạt</string>
     <string name="accessibility_hearingaid_adding_summary">Thêm máy trợ thính</string>
     <string name="accessibility_hearingaid_not_connected_summary">Không có máy trợ thính được kết nối</string>
     <string name="accessibility_hearingaid_pair_instructions_first_message">Để ghép nối với máy trợ thính, tìm và chạm vào thiết bị của bạn ở màn hình kế tiếp.</string>
@@ -12622,4 +12621,26 @@ Tính năng này chỉ hoạt động khi điều hướng hệ thống được
     <string name="wifi_stx_logs_enabled">Nhật ký WLAN STx đang bật</string>
     <string name="otg_new_tip">Bật tính năng OTG để có thể kết nối trực tiếp thiết bị của bạn với các thiết bị khác bằng USB. Tính năng này sẽ tự động tắt sau %d phút không hoạt động.</string>
 	<string name="os_version">Phiên bản OS</string>
+    <string name="accessibility_hearing_device_about_title">Về thiết bị trợ thính</string>
+    <string name="accessibility_hearing_device_connected_title">Thiết bị trợ thính</string>
+    <string name="accessibility_hearing_device_control">Điều khiển thiết bị trợ thính</string>
+    <string name="accessibility_hearing_device_footer_summary">Đảm bảo thiết bị trợ thính của bạn đã được bật và sẵn sàng ghép nối</string>
+    <string name="accessibility_hearing_device_pairing_page_title">Ghép nối thiết bị trợ thính</string>
+    <string name="accessibility_hearing_device_pairing_title">Ghép nối thiết bị mới</string>
+    <string name="accessibility_hearing_device_saved_title">Thiết bị đã lưu</string>
+    <string name="accessibility_hearing_device_shortcut_title">Phím tắt thiết bị nghe</string>
+    <string name="accessibility_hearingaid_active_device_summary">%1$s đang hoạt động</string>
+    <string name="accessibility_hearingaid_intro">Bạn có thể sử dụng máy trợ thính, ốc tai điện tử và các thiết bị khuếch đại khác bằng điện thoại của mình</string>
+    <string name="accessibility_hearingaid_left_and_right_side_device_summary">%1$s, trái và phải</string>
+    <string name="accessibility_hearingaid_left_side_device_summary">%1$s, chỉ còn lại</string>
+    <string name="accessibility_hearingaid_more_device_summary">%1$s +1 cái khác</string>
+    <string name="accessibility_hearingaid_pair_instructions_title">Ghép nối máy trợ thính</string>
+    <string name="accessibility_hearingaid_right_side_device_summary">%1$s, chỉ đúng thôi</string>
+	<string name="accessibility_captioning_about_title">Giới thiệu về tùy chọn phụ đề</string>
+    <string name="accessibility_captioning_footer_learn_more_content_description">Tìm hiểu thêm về tùy chọn phụ đề</string>
+    <string name="accessibility_captioning_preference_intro">Tùy chỉnh kích thước và kiểu phụ đề để dễ đọc hơn</string>
+    <string name="accessibility_captioning_preference_summary">Các tùy chọn phụ đề này không được tất cả các ứng dụng truyền thông hỗ trợ</string>
+    <string name="accessibility_captioning_primary_switch_summary">Chỉ dành cho ứng dụng được hỗ trợ</string>
+    <string name="accessibility_captioning_primary_switch_title">Hiển thị phụ đề</string>
+	<string name="captioning_appearance_title">Kích thước và kiểu phụ đề</string>
 </resources>

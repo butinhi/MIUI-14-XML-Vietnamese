@@ -3001,8 +3001,8 @@ Cuộc gọi khẩn cấp chỉ khả dụng trong vùng phủ sóng mạng di �
 	<string name="user_add_user_item_title">Người dùng</string>
 	<string name="radio_info_ims_feature_status_unavailable">Không có</string>
 	<string name="radioInfo_display_asu">"Asu"</string>
-	<string name="phone_info_label">"Thông tin điện thoại "</string>
-	<string name="phone_index_label">Chọn chỉ số điện thoại</string>
+	<string name="phone_info_label">"Thông tin SIM "</string>
+	<string name="phone_index_label">Chọn thông tin SIM</string>
 	<string name="radio_info_toggle_dns_check_label">Chuyển sang kiểm tra DNS</string>
 	<string name="adb_wireless_error">Lỗi</string>
 	<string name="radioInfo_service_out">Ngừng phục vụ</string>
