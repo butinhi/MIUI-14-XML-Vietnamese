@@ -540,4 +540,5 @@
 	<string name="mw_guide_dialog_button_confirm">Tôi biết</string>
 	<string name="relaunch_dialog_button_confirm">Khởi động lại</string>
 	<string name="relaunch_action">Khởi động lại</string>
+	<string name="fc_dialog_body">Gửi báo cáo lỗi cho Mi để phân tích? Báo cáo này có thể chứa Thông tin nhận dạng cá nhân. Báo cáo của bạn sẽ được sử dụng để giúp sửa lỗi này và sẽ không bao giờ được chia sẻ trong bất kỳ bối cảnh thương mại nào.</string>
 </resources>
