@@ -2037,7 +2037,7 @@ Chạm dấu cộng để thêm từ."</string>
     <string name="user_dict_settings_all_languages">Cho tất cả ngôn ngữ</string>
     <string name="user_dict_settings_more_languages">Ngôn ngữ khác…</string>
     <string name="testing">Đang kiểm tra</string>
-    <string name="testing_phone_info">"Thông tin điện thoại "</string>
+    <string name="testing_phone_info">"Thông tin SIM "</string>
     <string name="testing_sim_toolkit">Công cụ SIM</string>
     <string name="input_methods_settings_title">Nhập văn bản</string>
     <string name="input_method">Bàn phím</string>
