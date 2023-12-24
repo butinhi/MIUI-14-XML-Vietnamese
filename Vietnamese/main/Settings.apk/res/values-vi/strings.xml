@@ -12673,4 +12673,23 @@ Tính năng này chỉ hoạt động khi điều hướng hệ thống được
     <string name="screen_flash_notification_title">Màn hình</string>
 	<string name="gaze_lock_screen_summary">Thiết bị sẽ vẫn được mở khóa khi phát hiện khuôn mặt của bạn và khóa khi bạn rời khỏi màn hình</string>
     <string name="gaze_lock_screen_title">Phát hiện khuôn mặt</string>
+	<string name="bluetooth_enable_leaudio_allow_list">Bật danh sách cho phép âm thanh Bluetooth LE</string>
+    <string name="bluetooth_enable_leaudio_allow_list_summary">Bật tính năng danh sách cho phép âm thanh Bluetooth LE.</string>
+    <string name="bluetooth_enable_opp_high_speed">Truyền Bluetooth tốc độ cao</string>
+    <string name="bluetooth_enable_opp_high_speed_dialog_message">Cần phải khởi động lại Bluetooth để áp dụng các thay đổi. Các kết nối được thiết lập có thể bị gián đoạn bởi hành động này. Vẫn khởi động lại Bluetooth?</string>
+    <string name="bluetooth_enable_opp_high_speed_dialog_title">Khởi động lại Bluetooth</string>
+    <string name="bluetooth_enable_opp_high_speed_summary">Sử dụng giao thức Bluetooth P2P tốc độ cao để truyền</string>
+	<string name="disable_phantom_process_monitor_summary">Tắt các hạn chế về việc sử dụng tài nguyên hệ thống của các tiến trình con của ứng dụng</string>
+    <string name="disable_phantom_process_monitor_title">Vô hiệu hóa các hạn chế của tiến trình con</string>
+	<string name="enable_notes_role_summary">Cho phép tích hợp hệ thống ghi chú thông qua vai trò Ghi chú. Nếu vai trò Ghi chú đã được bật thì không có tác dụng gì.</string>
+    <string name="enable_notes_role_title">Buộc bật vai trò Ghi chú</string>
+	<string name="app_cache_optimization">Tối ưu hóa bộ đệm ứng dụng</string>
+    <string name="app_cache_optimization_summary">Sau khi bật tính năng này, hãy khởi động lại thiết bị của bạn để nó có hiệu lực</string>
+    <string name="bt_hci_snoop_log_filter_map_title">Tìm lọc nhật ký Bluetooth HCI MAP</string>
+    <string name="bt_hci_snoop_log_filter_pbap_title">Tìm lọc nhật ký Bluetooth HCI PBAP</string>
+    <string name="bt_hci_snoop_log_filter_summary">Đặt chế độ lọc. (Tắt và bật Bluetooth để thay đổi có hiệu lực)</string>
+    <string name="bt_hci_snoop_log_filtered_mode_disabled_summary">Đặt chế độ tìm nhật ký Bluetooth HCI thành Đã bật lọc để thay đổi tùy chọn này</string>
+    <string name="bt_hci_snoop_log_filters_dashboard_footer">Tắt và bật Bluetooth để các thay đổi có hiệu lực</string>
+    <string name="bt_hci_snoop_log_filters_dashboard_summary">Đặt bộ lọc</string>
+    <string name="bt_hci_snoop_log_filters_dashboard_title">Tìm lọc nhật ký Bluetooth HCI</string>
 </resources>
