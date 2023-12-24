@@ -12692,4 +12692,5 @@ Tính năng này chỉ hoạt động khi điều hướng hệ thống được
     <string name="bt_hci_snoop_log_filters_dashboard_footer">Tắt và bật Bluetooth để các thay đổi có hiệu lực</string>
     <string name="bt_hci_snoop_log_filters_dashboard_summary">Đặt bộ lọc</string>
     <string name="bt_hci_snoop_log_filters_dashboard_title">Tìm lọc nhật ký Bluetooth HCI</string>
+	<string name="camera_flash_notification_title">Đèn flash</string>
 </resources>
