@@ -372,4 +372,5 @@ của một ứng dụng để đóng"</string>
     <string name="freeform_guide_dialog_split_title">Màn hình chia nhỏ</string>
     <string name="freeform_guide_dialog_start_button">Bắt đầu</string>
     <string name="freeform_guide_dialog_step_button">Kế tiếp</string>
+	<string name="tablet_screen_settings">Tính năng dành cho máy tính bảng</string>
 </resources>

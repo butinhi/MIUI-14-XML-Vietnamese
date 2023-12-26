@@ -673,4 +673,5 @@ Thử lại"</string>
 	<string name="session_success_restore_data_size">Tổng kích thước tệp: %s</string>
 	<string name="backup_state_not_auto">Tính năng sao lưu tự động đang tắt</string>
 	<string name="manage_and_restore_backups">Quản lý và khôi phục dữ liệu đã sao lưu</string>
+	<string name="backup_action_long_time_not_backup_title">Không có bản sao lưu gần đây</string>	
 </resources>

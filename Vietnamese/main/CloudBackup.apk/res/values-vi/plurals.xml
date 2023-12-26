@@ -73,4 +73,8 @@
 	<plurals name="miuix_appcompat_items_selected">
 		<item quantity="other">%d mục đã chọn</item>
 	</plurals>
+	<plurals name="backup_action_long_time_not_backup_content">
+        <item quantity="other">"Có vẻ như bạn chưa sao lưu các mục trong %s tuần. Tạo bản sao lưu để tránh mất bất cứ thứ gì quan trọng."</item>
+        <item quantity="one">"Có vẻ như bạn chưa sao lưu các mục trong %s tuần. Tạo bản sao lưu để tránh mất bất cứ thứ gì quan trọng."</item>
+    </plurals>
 </resources>
