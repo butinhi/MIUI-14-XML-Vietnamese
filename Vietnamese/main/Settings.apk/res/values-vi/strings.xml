@@ -13127,7 +13127,6 @@ Sau khi kết nối, %2$s sẽ nhận được mọi cuộc gọi đến số %3
     <string name="bluetooth_sim_card_access_notification_title">Yêu cầu truy cập vào SIM</string>
     <string name="bluetooth_system_sounds_title">Thông báo và âm thanh hệ thống khác</string>
     <string name="bluetooth_version">Phiên bản Bluetooth</string>
-    <string name="bootloader_unlock_webhome">https://unlock.update.miui.com</string>
     <string name="bt_aac_pre_title">AAC</string>
     <string name="bt_aptx_adaptive_open_dialog_summary">aptX Adaptive sẽ cung cấp phát âm thanh chất lượng cao và giảm độ trễ khi chơi game và xem video đồng thời tăng mức tiêu thụ điện năng. Phát có thể bị giật vấp do giới hạn phần cứng Bluetooth và giao thoa môi trường.</string>
     <string name="bt_aptx_adaptive_open_dialog_title">Chuyển sang aptX Adaptive?</string>
@@ -13307,7 +13306,6 @@ Sau khi kết nối, %2$s sẽ nhận được mọi cuộc gọi đến số %3
     <string name="dialog_softbank_esim_wipe_title">Xóa dữ liệu eSIM</string>
     <string name="dialog_softbank_esime_context">Thiết bị này cần kết nối internet để có thể kích hoạt eSIM. Bỏ qua kích hoạt eSIM?</string>
     <string name="dialog_softbank_esime_title">Bỏ qua kích hoạt eSIM</string>
-    <string name="digital_clock_dot">:</string>
     <string name="disabled_by_app_ops_text">Do chế độ Cài đặt hạn chế kiểm soát</string>
     <string name="disabled_by_policy_content_biometric_parental_consent">Hãy đưa điện thoại cho cha mẹ bạn để họ bắt đầu thiết lập phương thức này</string>
     <string name="disabled_by_policy_parental_consent">Hãy đưa điện thoại cho cha mẹ để họ cho phép thay đổi chế độ cài đặt này.</string>
@@ -13316,7 +13314,6 @@ Sau khi kết nối, %2$s sẽ nhận được mọi cuộc gọi đến số %3
     <string name="dlg_delete">Xoá</string>
     <string name="dlg_ok">OK</string>
     <string name="dlg_remove_locales_title">{count,plural, =1{Xoá ngôn ngữ đã chọn?}other{Xoá các ngôn ngữ đã chọn?}}</string>
-    <string name="dndm_auto_time_setting_summary">%1$s-%2$s</string>
     <string name="dndm_vip_call_summary_custom">%d</string>
     <string name="do_disclosure_learn_more_separator">" "</string>
     <string name="dock_multi_instances_not_supported_text">Ứng dụng này chỉ có thể mở trong 1 cửa sổ</string>
@@ -13631,7 +13628,6 @@ Khu vực nơi bạn có thể xác nhận khóa màn hình sẽ chuyển sang b
     <string name="leave_loclscreen_title">Khóa màn hình khi rời đi</string>
     <string name="left_right_hand_switch">Trái và phải</string>
     <string name="left_right_hand_switch_summary">Chuyển đổi bản phím với một lần chạm tại góc trái và phải</string>
-    <string name="link_speed">%1$d Mb/giây</string>
     <string name="lite_font_weight_title">Độ đậm nhạt</string>
     <string name="load_error">Không thể tải</string>
     <string name="load_esim_info">Đang nhận thông tin eSIM…</string>
@@ -13778,7 +13774,6 @@ Nếu quyền này không được cấp, hệ thống sẽ giới hạn thời 
     <string name="media_output_status_unknown_error">Không thể phát trên thiết bị này</string>
     <string name="meid_multi_sim_primary">MEID (khe cắm thẻ SIM %1$d) (chính)</string>
     <string name="memory_usage_apps_summary">{count,plural, =1{1 ứng dụng sử dụng bộ nhớ trong {time} vừa qua}other{# ứng dụng sử dụng bộ nhớ trong {time} vừa qua}}</string>
-    <string name="memory_use_running_format">%1$s / %2$s</string>
     <string name="memtag_footer">Bạn sẽ phải khởi động lại thiết bị để bật hoặc tắt chế độ Bảo vệ bộ nhớ nâng cao. Khi chế độ này đang bật, bạn có thể thấy hiệu suất thiết bị chậm hơn.</string>
     <string name="memtag_force_off">Hiện không dùng được trên thiết bị của bạn</string>
     <string name="memtag_force_on">Luôn bật trên thiết bị của bạn</string>
@@ -13938,7 +13933,6 @@ Nếu quyền này không được cấp, hệ thống sẽ giới hạn thời 
     <string name="nfc_main_switch_title">Sử dụng công nghệ Giao tiếp phạm vi gần (NFC)</string>
     <string name="nfc_more_details">Tìm hiểu thêm</string>
     <string name="nfc_notification_mode_title">Nhắc nhở đọc thẻ NFC</string>
-    <string name="nfc_payment_app_and_desc">%1$s - %2$s</string>
     <string name="nfc_payment_use_default_dialog">Dùng ứng dụng thanh toán mặc định</string>
     <string name="nfc_quick_toggle_title">NFC</string>
     <string name="nfc_reboot_dialog_confirm">Khởi động lại</string>
@@ -14022,7 +14016,6 @@ Nếu quyền này không được cấp, hệ thống sẽ giới hạn thời 
     <string name="please_stop_broadcast_audio">Dừng phát sóng âm thanh trước</string>
     <string name="please_stop_listen_broadcast_audio">Dừng nghe phát sóng trước</string>
     <string name="post_dsds_reboot_notification_text">Nhấn để cập nhật tùy chọn cài đặt SIM</string>
-    <string name="power_charging">%1$s - %2$s</string>
     <string name="power_charging_future_paused">%1$s - Sạc đã tối ưu</string>
     <string name="power_charging_limited">%1$s - Sạc đã tối ưu</string>
     <string name="power_cpu">CPU</string>
@@ -14040,7 +14033,6 @@ Nếu quyền này không được cấp, hệ thống sẽ giới hạn thời 
 Nhấn đồng thời nút nguồn và nút tăng âm lượng"</string>
     <string name="power_menu_summary_long_press_for_assistant">Truy cập trợ lý kỹ thuật số</string>
     <string name="power_menu_summary_long_press_for_power_menu">Truy cập trình đơn nguồn</string>
-    <string name="power_remaining_settings_home_page">%1$s - %2$s</string>
     <string name="power_usage_level_and_status">%1$s - %2$s</string>
     <string name="preference_of_system_locale_summary">Theo chế độ mặc định của hệ thống</string>
     <string name="preference_of_system_locale_title">Ngôn ngữ hệ thống</string>
@@ -14062,7 +14054,6 @@ Nhấn đồng thời nút nguồn và nút tăng âm lượng"</string>
     <string name="privileged_action_disable_sub_dialog_progress">Đang tắt SIM…</string>
     <string name="privileged_action_disable_sub_dialog_title">Tắt %1$s?</string>
     <string name="privileged_action_disable_sub_dialog_title_without_carrier">Tắt SIM?</string>
-    <string name="process_kernel_label">Hệ điều hành Android</string>
     <string name="process_network_tethering">Chia sẻ Internet</string>
     <string name="process_removed_apps">Ứng dụng đã xoá</string>
     <string name="profile_section_header_for_advanced_privacy">Hồ sơ công việc</string>
@@ -14160,7 +14151,6 @@ Nhấn đồng thời nút nguồn và nút tăng âm lượng"</string>
     <string name="search_gmscore_settings_title">Google;Dịch vụ cơ bản Google;GMS;Gmail</string>
     <string name="search_input_txt_na">"&lt;font color='#ff0000'>%s&lt;/font>"</string>
     <string name="search_nfc_quick_toggle_title">NFC</string>
-    <string name="security_encryption_attention_symbol">•</string>
     <string name="security_fingerprint_disclaimer_lockscreen_disabled_1">Tuỳ chọn khóa màn hình bị tắt. Để tìm hiểu thêm, hãy liên hệ với quản trị viên của tổ chức.</string>
     <string name="security_fingerprint_disclaimer_lockscreen_disabled_2">Bạn vẫn có thể sử dụng vân tay của mình để cho phép mua hàng và truy cập ứng dụng.</string>
     <string name="security_header">Bảo mật</string>
@@ -14339,7 +14329,6 @@ Khi chuyển đổi SIM, dịch vụ %1$s của bạn sẽ không bị hủy."</
     <string name="sim_wallet_desc">Ví tiền SIM</string>
     <string name="size_compat1">%1$d:%2$d</string>
     <string name="size_compat2">%1$d:%2$d</string>
-    <string name="size_suffix">%1$s %2$s</string>
     <string name="slider_game_page_code">00008</string>
     <string name="slight_pause">,</string>
     <string name="smart_forwarding_failed_not_activated_text">SIM chưa được kích hoạt.</string>
@@ -14387,8 +14376,6 @@ Trước khi sử dụng dịch vụ, đọc và đồng ý với %s của chún
 
 Để biết thêm thông tin về các chứng chỉ này, vui lòng liên hệ với quản trị viên của bạn.}}"</string>
     <string name="status_bar_app_des_separator">", "</string>
-    <string name="status_bar_notification_info_overflow">999+</string>
-    <string name="status_bar_settings_carrier_sim">"SIM %1$s: "</string>
     <string name="status_eid">EID</string>
     <string name="status_esim_id">EID</string>
     <string name="status_number_sim_softbank">Số điện thoại %1$d</string>
@@ -14439,7 +14426,6 @@ Trước khi sử dụng dịch vụ, đọc và đồng ý với %s của chún
     <string name="suggested_app_locales_title">Ngôn ngữ đề xuất</string>
     <string name="suggestions_available">Các đề xuất ở bên dưới</string>
     <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
-    <string name="summary_range_symbol_combination">%1$s - %2$s</string>
     <string name="sunday_first_day_of_week">Chủ Nhật</string>
     <string name="sunlight_low_power_notification">Không thể bật Chế độ Sunlight. Pin quá yếu.</string>
     <string name="swipe_up_to_continue_using">Trượt lên để tiếp tục</string>
@@ -14608,7 +14594,6 @@ Thao tác xóa phương thức khóa sẽ xóa mẫu vân tay lưu trên thiết
     <string name="vibrate_icon_title">Luôn hiện biểu tượng khi ở chế độ rung</string>
     <string name="virtual_surround_sound_switch_summary">Làm phong phú chiều sâu âm thanh và phát lại video trong tai nghe (Tính năng này sẽ không hoạt động khi âm thanh %.1f được phát)</string>
     <string name="voice_assist">Mi AI</string>
-    <string name="voice_assist_volume_option_title">@string/voice_assist</string>
     <string name="volume_key_launch_camera">Mở camera</string>
     <string name="volume_key_launch_camera_and_take_photo">Chụp ảnh</string>
     <string name="vpn_insecure_dialog_subtitle">Không an toàn. Hãy cập nhật lên VPN IKEv2</string>
@@ -14746,8 +14731,6 @@ Thao tác xóa phương thức khóa sẽ xóa mẫu vân tay lưu trên thiết
     <string name="zen_mode_summary_alarms_only_by_hour">{count,plural, =1{Đổi sang chế độ chỉ báo thức trong 1 giờ cho đến {time}}other{Đổi sang chế độ chỉ báo thức trong # giờ cho đến {time}}}</string>
     <string name="zen_mode_summary_alarms_only_by_minute">{count,plural, =1{Đổi sang chế độ chỉ báo thức trong 1 phút cho đến {time}}other{Đổi sang chế độ chỉ báo thức trong # phút cho đến {time}}}</string>
     <string name="zen_mode_summary_combination">%1$s: %2$s</string>
-    <string name="zone_info_exemplar_location_and_offset">%1$s (%2$s)</string>
     <string name="zone_info_footer_first_sentence">Sử dụng %1$s %2$s</string>
     <string name="zone_info_footer_second_sentence">%1$s bắt đầu vào %2$s.</string>
-    <string name="zone_info_offset_and_name">%2$s (%1$s)</string>
 </resources>
