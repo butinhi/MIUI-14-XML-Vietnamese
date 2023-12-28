@@ -494,4 +494,10 @@ Bạn có thể tìm thấy danh sách thiết bị tương thích trên trang w
 	<string name="sub_title_mishare_switch">Tính năng này sẽ tự động tắt sau %d phút</string>
     <string name="transfer_to_phone_summary_new">Bật Mi Share trong TT điều khiển để có thể dễ dàng gửi và nhận tệp tin. Sau khi bật tính năng này, bạn có thể chia sẻ các mục với thiết bị ở gần trong %d phút trước khi tính năng này tự động tắt.</string>
     <string name="transfer_to_summary_new">Bật Mi Share trong TT điều khiển để có thể dễ dàng gửi và nhận tệp tin. Sau khi bật tính năng này, bạn có thể chia sẻ các mục với thiết bị ở gần trong %d phút trước khi tính năng này tự động tắt.</string>
+	<string name="error_msg_wlan_error">"Không thể kết nối. Hãy kết nối lại với Wi-Fi và thử lại."</string>
+	<string name="error_msg_wlan_error_china">"Không thể kết nối. Hãy kết nối lại với Wi-Fi và thử lại."</string>
+	<string name="error_p2p_create_group_failure">"Không thể kết nối. Kết nối lại Wi-Fi trên cả hai thiết bị và thử lại."</string>
+	<string name="error_p2p_create_group_failure_china">"Không thể kết nối. Kết nối lại Wi-Fi trên cả hai thiết bị và thử lại."</string>
+	<string name="error_p2p_recv_connect_timeout">"Không thể kết nối. Kết nối lại Wi-Fi trên cả hai thiết bị và thử lại."</string>
+	<string name="error_p2p_recv_connect_timeout_china">"Không thể kết nối. Kết nối lại Wi-Fi trên cả hai thiết bị và thử lại."</string>
 </resources>
