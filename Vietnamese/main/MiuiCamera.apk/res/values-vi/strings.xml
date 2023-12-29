@@ -2561,4 +2561,10 @@ Sau khi bật chức năng "ghi nhiều camera", máy ảnh của điện thoạ
     <string name="download_automatic_message_cn">Tự động tải xuống thêm các tính năng khi thiết bị này được kết nối với Wi-Fi?</string>
     <string name="download_automatic_summary">Tự động tải xuống thêm các tính năng qua Wi-Fi</string>
     <string name="download_automatic_summary_cn">Tự động tải xuống thêm các tính năng qua Wi-Fi</string>
+    <string name="settings_camera_lens_auto_switch_description">Tự động chuyển đổi giữa ống kính chính và ống kính tele dựa trên khoảng cách và độ sáng</string>
+    <string name="settings_camera_lens_auto_switch_title">Tự động điều chỉnh ống kính</string>
+    <string name="settings_camera_near_range_fallback_description">Tự động chuyển sang ống kính góc cực rộng để tránh hiệu ứng xóa phông khi chụp cận cảnh vật thể phẳng</string>
+    <string name="settings_camera_near_range_fallback_title">Macro thích ứng</string>
+    <string name="settings_camera_tele_fallback_description">Tự động chuyển đổi giữa ống kính chính và ống kính tele dựa trên khoảng cách và độ sáng</string>
+    <string name="settings_camera_tele_fallback_title">Ống kính tele thích ứng</string>
 </resources>

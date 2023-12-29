@@ -4898,9 +4898,9 @@ Bạn có thể thay đổi điều này sau đó từ Cài đặt > Ứng dụn
     <string name="bootloader_device_bind_no_network">Kết nối mạng và thử lại</string>
     <string name="bootloader_device_bind_fail">Không thể xác minh, chờ một hoặc hai phút và thử lại</string>
     <string name="bootloader_device_bind_msg">Đang chuẩn bị để thêm tài khoản và thiết bị…</string>
-    <string name="miui_experience_optimization">Bật tối ưu hóa MIUI</string>
-    <string name="open_miui_optimization_title">Bật tối ưu hóa MIUI</string>
-    <string name="close_miui_optimization_title">Tắt tối ưu hóa MIUI</string>
+    <string name="miui_experience_optimization">Bật tối ưu hóa OS</string>
+    <string name="open_miui_optimization_title">Bật tối ưu hóa OS</string>
+    <string name="close_miui_optimization_title">Tắt tối ưu hóa OS</string>
     <string name="open_miui_optimization_warning_message">Thiết bị của bạn sẽ khởi động lại để áp dụng thay đổi này.</string>
     <string name="close_miui_optimization_warning_message">Thiết bị của bạn sẽ khởi động lại để áp dụng thay đổi này. Chú ý: tắt tính năng này sẽ mang lại thay đổi lớn về bố cục và các yếu tố khác của Giao diện Người dùng.</string>
     <string name="optimization_close">Tắt &amp; khởi động lại</string>
@@ -6824,7 +6824,7 @@ Bạn chắc chắn sử dụng giờ được cấp bởi GPS?"</string>
     <string name="gxzw_dialog_not_show_again">Không hiển thị lại</string>
     <string name="gxzw_dialog_ok">Đã hiểu</string>
     <string name="gxzw_dialog_title">Tìm hiểu về cảm biến vân tay trong màn hình</string>
-    <string name="miui_optimization_disabled">Tắt tối ưu hóa MIUI</string>
+    <string name="miui_optimization_disabled">Tắt tối ưu hóa OS</string>
     <string name="miui_sos_audio_summary">Phát tin nhắn SOS khi liên hệ khẩn cấp được chọn</string>
     <string name="miui_sos_audio_title">Tin nhắn thoại SOS</string>
     <string name="miui_sos_call_log_duration">Thời lượng</string>
