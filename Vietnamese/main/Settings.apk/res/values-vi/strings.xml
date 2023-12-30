@@ -14733,4 +14733,14 @@ Thao tác xóa phương thức khóa sẽ xóa mẫu vân tay lưu trên thiết
     <string name="zen_mode_summary_combination">%1$s: %2$s</string>
     <string name="zone_info_footer_first_sentence">Sử dụng %1$s %2$s</string>
     <string name="zone_info_footer_second_sentence">%1$s bắt đầu vào %2$s.</string>
+	<string name="camera_grip_firmware_need_update">Cập nhật</string>
+    <string name="camera_grip_firmware_new_version">Cập nhật</string>
+    <string name="camera_grip_firmware_title_text">Cập nhật firmware</string>
+    <string name="camera_grip_firmware_update_faild">"Không thể cập nhật"</string>
+    <string name="camera_grip_firmware_update_ongoing">Đang cập nhật…</string>
+    <string name="camera_grip_firmware_update_successful">Cập nhật thành công</string>
+    <string name="photography_handle_charge_protected">Sạc tự động ngắt kết nối</string>
+    <string name="photography_handle_charge_protected_summary">"Khi thiết bị của bạn nhận ra rằng bạn đang sử dụng báng cầm máy ảnh, thiết bị sẽ ngừng sạc và duy trì pin ở mức %1$s"</string>
+	<string name="private_dns_host_name">Máy chủ nhà cung cấp DNS riêng</string>
+    <string name="private_dns_title">DNS riêng</string>
 </resources>

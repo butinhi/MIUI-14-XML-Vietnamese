@@ -3,7 +3,7 @@
 	<string name="network_partial_connectivity_detailed">Chạm để kết nối</string>
 	<string name="wifi_no_internet">%1$s không có quyền truy cập Internet</string>
 	<string name="wifi_available_sign_in">Đăng nhập vào mạng Wi-Fi</string>
-	<string name="mobile_no_internet">Mạng di động không có kết nối mạng</string>
+	<string name="mobile_no_internet">Mạng di động không có quyền truy cập internet</string>
 	<string name="private_dns_broken_detailed">Không thể truy cập máy chủ DNS Riêng tư</string>
 	<string name="network_switch_type_name_unknown">Loại mạng không xác định</string>
 	<string name="network_switch_metered">Đã chuyển sang %1$s</string>
@@ -13,4 +13,5 @@
 	<string name="network_available_sign_in">Đăng nhập vào mạng</string>
 	<string name="network_partial_connectivity">%1$s đã hạn chế kết nối</string>
 	<string name="wifi_no_internet_detailed">Nhấn để biết tùy chọn</string>
+	<string name="connectivityResourcesAppLabel">Nguồn kết nối hệ thống</string>
 </resources>
