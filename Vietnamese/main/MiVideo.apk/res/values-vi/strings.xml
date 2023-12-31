@@ -43,7 +43,7 @@
     <string name="screenrecord_failure">Không thể quay phim màn hình. Hãy thử lại.</string>
     <string name="screenrecord_share_gif">Chia sẻ GIF</string>
     <string name="screenrecord_share_video">Chia sẻ video</string>
-    <string name="screenrecord_slience">Video hiện không có tiếng vì phiên bản MIUI hiện tại không hỗ trợ ghi âm.</string>
+    <string name="screenrecord_slience">Video hiện không có tiếng vì phiên bản OS hiện tại không hỗ trợ ghi âm.</string>
     <string name="screenrecord_success">Đã quay phim màn hình thành công. Bạn có thể chia sẻ video này ngay.</string>
     <string name="share_tips">Chụp ảnh màn hình thành công. Chạm để chia sẻ.</string>
     <string name="storage_external_sdcard">Bộ nhớ ngoài</string>

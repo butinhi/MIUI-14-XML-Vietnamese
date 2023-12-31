@@ -72,7 +72,7 @@
     <string name="dialog_share_as_pic">Chia sẻ ghi chú như hình ảnh</string>
     <string name="note_description_title">Giới thiệu về Ghi chú </string>
     <string name="note_description_content">Ghi chú là công cụ tuyệt vời để ghi lại ý tưởng của bạn. Ghi chú được tích hợp sẵn chức năng nhắc nhở và đồng bộ vào Xiaomi Cloud vì thế bạn có thể truy cập mọi lúc, mọi nơi. Chắc chắn rằng bạn có thể thực hiện mà không cần những tính năng này trước khi xóa ứng dụng.</string>
-    <string name="db_downgrade_clear_date_reminder">Khi bạn chuyển sang phiên bản MIUI khác, cần xóa hết dữ liệu của ứng dụng Ghi chú. Trước khi thực hiện, chắc chắn rằng bạn đã sao lưu ghi chú vào Xiaomi Cloud.</string>
+    <string name="db_downgrade_clear_date_reminder">Khi bạn chuyển sang phiên bản OS khác, cần xóa hết dữ liệu của ứng dụng Ghi chú. Trước khi thực hiện, chắc chắn rằng bạn đã sao lưu ghi chú vào Xiaomi Cloud.</string>
     <string name="db_downgrade_clear_button">Xóa dữ liệu ứng dụng</string>
     <string name="app_name">Ghi chú</string>
     <string name="app_widget">Ghi chú</string>

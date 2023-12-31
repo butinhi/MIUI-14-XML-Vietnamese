@@ -1972,9 +1972,9 @@ Cài đặt này ảnh hưởng đến tất cả người dùng trên điện t
     <string name="device_info_not_available">Không khả dụng</string>
     <string name="device_internal_memory">Bộ nhớ trong</string>
     <string name="device_miui_more">Xem thêm</string>
-    <string name="device_miui_version">Phiên bản MIUI</string>
-    <string name="device_miui_version_for_POCO">Phiên bản MIUI (Dành cho POCO)</string>
-    <string name="device_miui_version_parameters">Phiên bản MIUI</string>
+    <string name="device_miui_version">phiên bản OS</string>
+    <string name="device_miui_version_for_POCO">phiên bản OS (Dành cho POCO)</string>
+    <string name="device_miui_version_parameters">phiên bản OS</string>
     <string name="device_miui_version_update">Cập nhật MIUI khả dụng</string>
     <string name="device_name">Tên thiết bị</string>
     <string name="device_name_input_error">Không thể lưu tên thiết bị</string>
@@ -2165,7 +2165,7 @@ Cài đặt này ảnh hưởng đến tất cả người dùng trên điện t
     <string name="double_tap_power_for_camera_title">Chuyển đến máy ảnh</string>
     <string name="double_twist_for_camera_mode_title">Chuyển máy ảnh</string>
     <string name="double_twist_for_camera_suggestion_title">Chụp ảnh selfie nhanh hơn</string>
-    <string name="download_current_rom">Tải xuống phiên bản MIUI mới nhất</string>
+    <string name="download_current_rom">Tải xuống phiên bản OS mới nhất</string>
     <string name="downloading_description">Đang tải xuống…</string>
     <string name="doze_always_on_summary">Tính năng này tăng mức sử dụng pin. Nó sẽ được tắt khi thiết bị ở lâu trong bóng tối hoặc Tiết kiệm pin được bật.</string>
     <string name="doze_always_on_title">Luôn bật</string>
@@ -5245,7 +5245,7 @@ Cài đặt này ảnh hưởng đến tất cả người dùng trên điện t
     <string name="se_wallet_ese">Mi Pay và thẻ giao thông NFC</string>
     <string name="se_wallet_hce">Sử dụng Ví tiền HCE</string>
     <string name="se_wallet_uicc">Sử dụng Ví tiền SIM%1$s</string>
-    <string name="search_about_settings">Giới thiệu về điện thoại;Số hiệu đời máy;Phiên bản Android;Phiên bản MIUI;CPU;RAM;Bộ nhớ trong;Phiên bản baseband;Phiên bản kernel;Số phiên bản;Thiết bị của tôi;Điện thoại;Thiết bị</string>
+    <string name="search_about_settings">Giới thiệu về điện thoại;Số hiệu đời máy;Phiên bản Android;phiên bản OS;CPU;RAM;Bộ nhớ trong;Phiên bản baseband;Phiên bản kernel;Số phiên bản;Thiết bị của tôi;Điện thoại;Thiết bị</string>
     <string name="search_accelerometer_title">Tự động xoay màn hình;Xoay màn hình;Định hướng;Chân dung;Phong cảnh</string>
     <string name="search_access_control">Cài đặt riêng tư;Riêng tư Bảo mật;Khách;Chế độ khách</string>
     <string name="search_accessibility_captioning_title">Phụ đề</string>

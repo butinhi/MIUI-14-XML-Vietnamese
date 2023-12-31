@@ -1655,7 +1655,7 @@ Hoạt động này làm giảm tuổi thọ pin."</string>
 	<string name="app_manager_permission_power_saving_title">Tiết kiệm pin</string>
 	<string name="app_manager_permission_startself_title">Tự khởi chạy</string>
 	<string name="app_manager_permission_summary_reject">Chặn tất cả</string>
-	<string name="app_manager_powerkeeper_miui_auto">Tiết kiệm Pin MIUI</string>
+	<string name="app_manager_powerkeeper_miui_auto">Tiết kiệm Pin OS</string>
 	<string name="app_manager_powerkeeper_no_bg">Hạn chế hoạt động nền</string>
 	<string name="app_manager_powerkeeper_no_restrict">Không hạn chế</string>
 	<string name="app_manager_powerkeeper_restrict_bg">Hạn chế ứng dụng nền</string>
@@ -2410,7 +2410,7 @@ Nhà cung cấp dịch vụ của bạn có thể tính thêm phí nếu bạn b
 	<string name="notification_open_extreme_mode_text">Đã bật Siêu tiết kiệm pin</string>
 	<string name="dialog_remobe_luckymoney_cancle">Sử dụng bản phát hành đơn</string>
 	<string name="power_center_list_item_set_lockscreen_time">Đặt màn hình ngủ sau 30 giây không hoạt động</string>
-	<string name="dialog_remove_luckymoney">Phiên bản MIUI này đã hỗ trợ Trợ lý lì xì mức hệ thống. Có thể gỡ bỏ phiên bản hiện tại và vào Bảo mật để mở Trợ lý lì xì nhanh hơn và ổn định hơn không?</string>
+	<string name="dialog_remove_luckymoney">phiên bản OS này đã hỗ trợ Trợ lý lì xì mức hệ thống. Có thể gỡ bỏ phiên bản hiện tại và vào Bảo mật để mở Trợ lý lì xì nhanh hơn và ổn định hơn không?</string>
 	<string name="dialog_restrict_all_mobile_summary">%s Kết nối dữ liệu di động tất cả ứng dụng sẽ bị hạn chế từ đây.</string>
 	<string name="dialog_restrict_all_mobile_title">Hạn chế kết nối dữ liệu di động %s</string>
 	<string name="dialog_restrict_all_wlan_summary">Kết nối Wi-Fi tất cả ứng dụng sẽ bị hạn chế từ đây.</string>
@@ -2744,7 +2744,7 @@ Bạn phải hiểu rằng tính năng này chỉ được cung cấp để bạ
 	<string name="ew_monitor_summary2">Báo cáo thông tin liên quan đến cảnh báo động đất.</string>
 	<string name="ew_monitor_summary3">Giúp nhiều người nhận thông báo động đất nhanh hơn.</string>
 	<string name="ew_monitor_support">Hỗ trợ kỹ thuật cung cấp bởi Chengdu Hi-tech Disaster Reduction Institute</string>
-	<string name="ew_monitor_support_rom">*Tính năng này được hỗ trợ bởi các thiết bị Xiaomi / Redmi và các phiên bản MIUI được chọn.</string>
+	<string name="ew_monitor_support_rom">*Tính năng này được hỗ trợ bởi các thiết bị Xiaomi / Redmi và các phiên bản OS được chọn.</string>
 	<string name="ew_monitor_thanks_tips">"Cảm ơn vì bạn đã trở thành tình nguyện viên theo dõi động đất số %s!"</string>
 	<string name="ew_monitor_title">Tình nguyện viên theo dõi động đất</string>
 	<string name="ew_monitor_title_spilt">"Tình nguyện viên theo dõi động đất"</string>

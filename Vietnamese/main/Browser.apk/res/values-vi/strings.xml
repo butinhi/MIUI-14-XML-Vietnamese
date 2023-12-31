@@ -525,7 +525,7 @@ Rời khỏi trang này?"</string>
     <string name="miuishare_account_login_ok">Đăng nhập</string>
     <string name="miuishare_account_need_activate">Tài khoản Weibo nên được liên kết với Tài khoản Mi. Đăng nhập Tài khoản Mi của bạn?</string>
     <string name="miuishare_account_need_login">Tài khoản Weibo nên được liên kết với Tài khoản Mi hiện tại của bạn. Đăng nhập để chia sẻ ngay?</string>
-    <string name="miuishare_app_name">Chia sẻ MIUI</string>
+    <string name="miuishare_app_name">Chia sẻ</string>
     <string name="miuishare_no_network">Không thể kết nối mạng</string>
     <string name="miuishare_publish">Gửi</string>
     <string name="miuishare_share_done">Đã chia sẻ</string>
@@ -849,7 +849,7 @@ Hãy nhớ rằng các tập tin tải xuống và dấu trang mà bạn thêm s
     <string name="suggest_item_delete_text">Xóa</string>
     <string name="suggest_open_app_failed">Không thể mở ứng dụng này</string>
     <string name="switchText">CÓ</string>
-    <string name="switch_proxy_dialog_msg">Đã phát hiện tấn công mạng. Hãy sử dụng ứng dụng Bảo mật của MIUI hoặc báo cáo cho cho nhà cung cấp.</string>
+    <string name="switch_proxy_dialog_msg">Đã phát hiện tấn công mạng. Hãy sử dụng ứng dụng Bảo mật của OS hoặc báo cáo cho cho nhà cung cấp.</string>
     <string name="switch_proxy_dialog_title">Tin tặc mạng</string>
     <string name="tab_hotpage">Bảng tin mới</string>
     <string name="tab_quicklinks">Trang bắt đầu</string>

@@ -14,12 +14,12 @@
     <string name="sina_token_invalid_warning">Tài khoản Weibo không hợp lệ, thêm tài khoản lại.</string>
     <string name="sina_share_fail_content_repeat">Bạn đã chia sẻ nội dung này.</string>
     <string name="resource_updater">Cập nhật MIUI</string>
-    <string name="keywords_updater">"Cập nhật MIUI;cập nhật hệ thống;cập nhật phần mềm;ROM;cập nhật ROM;cập nhật;các bản cập nhật;kiểm tra cập nhật;kiểm tra các bản cập nhật;tìm bản cập nhật;tải xuống bản cập nhật;nâng cấp;bản nâng cấp;nâng cấp phần mềm;phiên bản mới;phiên bản phần mềm;đang kiểm tra;có gì mới;có gì mới;tóm tắt;tóm tắt cập nhật;apk;gói cập nhật;gói ROM;tự động cập nhật;cập nhật tự động;tự động cập nhật;phiên bản MIUI;phiên bản;cập nhật;trình cập nhật"</string>
+    <string name="keywords_updater">"Cập nhật MIUI;cập nhật hệ thống;cập nhật phần mềm;ROM;cập nhật ROM;cập nhật;các bản cập nhật;kiểm tra cập nhật;kiểm tra các bản cập nhật;tìm bản cập nhật;tải xuống bản cập nhật;nâng cấp;bản nâng cấp;nâng cấp phần mềm;phiên bản mới;phiên bản phần mềm;đang kiểm tra;có gì mới;có gì mới;tóm tắt;tóm tắt cập nhật;apk;gói cập nhật;gói ROM;tự động cập nhật;cập nhật tự động;tự động cập nhật;phiên bản OS;phiên bản;cập nhật;trình cập nhật"</string>
     <string name="resource_auto_setting">Tự động cập nhật</string>
     <string name="keywords_auto_setting">Tự động cập nhật;Tải xuống tự động;Cài đặt tự động;cập nhật tự động;tự động cập nhật;cập nhật tự động</string>
     <string name="resource_updater_settings">Cập nhật</string>
-    <string name="keywords_updater_settings">"Cập nhật;cập nhật MIUI;cập nhật hệ thống;cập nhật phần mềm;ROM;cập nhật ROM;cập nhật;các bản cập nhật;kiểm tra cập nhật;kiểm tra các bản cập nhật;tìm bản cập nhật;tải xuống bản cập nhật;nâng cấp;bản nâng cấp;nâng cấp phần mềm;phiên bản mới;phiên bản phần mềm;đang kiểm tra;có gì mới;có gì mới;tóm tắt;tóm tắt cập nhật;apk;gói cập nhật;gói ROM;tự động cập nhật;cập nhật tự động;tự động cập nhật;phiên bản MIUI;phiên bản;cập nhật;trình cập nhật;Tải xuống tự động;Cài đặt tự động;Chương trình Phản hồi Beta;rom"</string>
-    <string name="path_updater_settings">Cài đặt/Thiết bị của tôi/Phiên bản MIUI</string>
+    <string name="keywords_updater_settings">"Cập nhật;cập nhật MIUI;cập nhật hệ thống;cập nhật phần mềm;ROM;cập nhật ROM;cập nhật;các bản cập nhật;kiểm tra cập nhật;kiểm tra các bản cập nhật;tìm bản cập nhật;tải xuống bản cập nhật;nâng cấp;bản nâng cấp;nâng cấp phần mềm;phiên bản mới;phiên bản phần mềm;đang kiểm tra;có gì mới;có gì mới;tóm tắt;tóm tắt cập nhật;apk;gói cập nhật;gói ROM;tự động cập nhật;cập nhật tự động;tự động cập nhật;phiên bản OS;phiên bản;cập nhật;trình cập nhật;Tải xuống tự động;Cài đặt tự động;Chương trình Phản hồi Beta;rom"</string>
+    <string name="path_updater_settings">Cài đặt/Thiết bị của tôi/phiên bản OS</string>
     <string name="app_name">Cập nhật</string>
     <string name="get_current">Hiện tại</string>
     <string name="check_new_version">Kiểm tra</string>
@@ -175,10 +175,10 @@ http://zhushou.xiaomi.com"</string>
     <string name="title_toast_auto_download">Bản cập nhật sẽ tải xuống tự động</string>
     <string name="check_local_package_update_title">Cập nhật</string>
     <string name="check_local_package_update_btn">Khởi động lại và cập nhật</string>
-    <string name="check_local_package_update_msg">Thiết bị của bạn sẽ khởi động lại tự động để cập nhật phiên bản MIUI %s.</string>
+    <string name="check_local_package_update_msg">Thiết bị của bạn sẽ khởi động lại tự động để cập nhật phiên bản OS %s.</string>
     <string name="check_local_package_wipe_title">Xóa dữ liệu</string>
     <string name="check_local_package_wipe_btn">Xóa và cập nhật</string>
-    <string name="check_local_package_wipe_msg">Bạn đang khôi phục đến phiên bản MIUI %s. Dữ liệu cá nhân của bạn sẽ bị xóa. Hãy chắc chắn bạn đã sao lưu mọi thứ bạn cần trước khi bắt đầu tiến trình.</string>
+    <string name="check_local_package_wipe_msg">Bạn đang khôi phục đến phiên bản OS %s. Dữ liệu cá nhân của bạn sẽ bị xóa. Hãy chắc chắn bạn đã sao lưu mọi thứ bạn cần trước khi bắt đầu tiến trình.</string>
     <string name="confirm_local_package_wipe_title">Xóa dữ liệu?</string>
     <string name="confirm_local_package_wipe_msg">Dữ liệu cá nhân của bạn sẽ bị xóa. Hãy chắc chắn bạn đã sao lưu mọi thứ bạn cần trước khi bắt đầu tiến trình.</string>
     <string name="confirm_local_package_wipe_btn">Xóa và cập nhật</string>
@@ -410,7 +410,7 @@ Cập nhật không khả dụng cho bạn!"</string>
     <string name="check_local_package_suggest_wipe_msg">Gói cập nhật bạn đã chọn (%s) cũ hơn phiên bản hiện tại. Sử dụng gói này trực tiếp có thể dẫn đến lỗi. Tốt nhất là xóa dữ liệu trước khi tiếp tục bước tiếp theo.</string>
     <string name="check_local_package_suggest_wipe_title">Xóa dữ liệu để cập nhật</string>
     <string name="check_local_package_update_btn_ab">Cập nhật</string>
-    <string name="check_local_package_update_msg_ab">Thiết bị của bạn sẽ cập nhật lên phiên bản MIUI %s.</string>
+    <string name="check_local_package_update_msg_ab">Thiết bị của bạn sẽ cập nhật lên phiên bản OS %s.</string>
     <string name="create_shortcut_sum">Hiển thị \"Trình cập nhật\" trên Màn hình chính</string>
     <string name="create_shortcut_title">Thêm lối tắt Màn hình chính</string>
     <string name="current_version">Phiên bản hiện tại</string>

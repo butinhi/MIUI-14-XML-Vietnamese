@@ -3710,7 +3710,7 @@ Bạn có thể thay đổi điều này sau đó từ Cài đặt > Ứng dụn
     <string name="search_permission_manager">Quyền;Truy cập root; Tải xuống; Tải xuống</string>
     <string name="search_permission_settings_title">Giấy phép ứng dụng</string>
     <string name="search_application_lock_name">Khóa ứng dụng</string>
-    <string name="search_about_settings">Giới thiệu về điện thoại;Số hiệu đời máy;Phiên bản Android;Phiên bản MIUI;CPU;RAM;Bộ nhớ trong;Phiên bản baseband;Phiên bản kernel;Số phiên bản;Thiết bị của tôi;Điện thoại;Thiết bị</string>
+    <string name="search_about_settings">Giới thiệu về điện thoại;Số hiệu đời máy;Phiên bản Android;phiên bản OS;CPU;RAM;Bộ nhớ trong;Phiên bản baseband;Phiên bản kernel;Số phiên bản;Thiết bị của tôi;Điện thoại;Thiết bị</string>
     <string name="search_device_name">Tên thiết bị</string>
     <string name="search_legal_information">Thông tin pháp lý</string>
     <string name="search_copyright_title">Bản quyền</string>
@@ -4537,7 +4537,7 @@ Bạn có thể thay đổi điều này sau đó từ Cài đặt > Ứng dụn
     <string name="dialog_content_login">Đăng nhập vào Tài khoản Mi của bạn để cập nhật?</string>
     <string name="dialog_title_login">Đăng nhập vào Tài khoản Mi của bạn</string>
     <string name="make_sure_cancel_update">Hủy cập nhật?</string>
-    <string name="download_current_rom">Tải xuống phiên bản MIUI mới nhất</string>
+    <string name="download_current_rom">Tải xuống phiên bản OS mới nhất</string>
     <string name="install_whole_rom">Tải ROM</string>
     <string name="apply_update_fail">Không thể cập nhật</string>
     <string name="now">Khởi động lại ngay</string>
@@ -6095,7 +6095,7 @@ Quản trị viên của bạn có thể giám sát hoạt động mạng của 
     <string name="restrict_background_data_dialog_summary">Ứng dụng chạy nền không thể nhận tin nhắn.</string>
     <string name="restrict_background_data_notification_summary">Các ứng dụng không thể kết nối vào mạng nếu dữ liệu nền bị hạn chế</string>
     <string name="restrict_background_data_title">Hạn chế dữ liệu nền</string>
-    <string name="search_about">Thông tin thiết bị;Số hiệu đời máy;Phiên bản Android;Phiên bản MIUI;CPU;RAM;Bộ nhớ trong;Phiên bản baseband;Phiên bản kernel;Số phiên bản</string>
+    <string name="search_about">Thông tin thiết bị;Số hiệu đời máy;Phiên bản Android;phiên bản OS;CPU;RAM;Bộ nhớ trong;Phiên bản baseband;Phiên bản kernel;Số phiên bản</string>
     <string name="search_accelerometer">Tự động xoay màn hình;Xoay màn hình;Định hướng;Chân dung;Phong cảnh</string>
     <string name="search_airplane">Chế độ máy bay;chế độ máy bay;Máy bay;máy bay;Chuyến bay</string>
     <string name="search_android_beam">NFC;Android Beam;Beam</string>

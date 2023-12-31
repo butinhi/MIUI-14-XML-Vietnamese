@@ -751,7 +751,7 @@ Hãy thử tìm kiếm cái gì khác."</string>
     <string name="screenrecord_nosupport_record">Quay phim màn hình hiện không hỗ trợ trên thiết bị này.</string>
     <string name="screenrecord_share_gif">Chia sẻ GIF</string>
     <string name="screenrecord_share_video">Chia sẻ video</string>
-    <string name="screenrecord_slience">Video hiện không có tiếng vì phiên bản MIUI hiện tại không hỗ trợ ghi âm.</string>
+    <string name="screenrecord_slience">Video hiện không có tiếng vì phiên bản OS hiện tại không hỗ trợ ghi âm.</string>
     <string name="screenrecord_success">Đã quay phim màn hình thành công. Bạn có thể chia sẻ video này ngay.</string>
 	<string name="offline_download_setting">Tải xuống</string>
 	<string name="offline_setting_mobile_net_limit_summary">Hạn chế sử dụng dữ liệu di động</string>

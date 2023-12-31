@@ -191,11 +191,11 @@
     <string name="Dashboard_Perm_SU">Quản lý quyền root</string>
     <string name="Dashboard_Perm_SU_Desc">Đang giám sát %1$d ứng dụng có quyền root</string>
     <string name="Dashboard_Perm_SU_Disabled">Quyền root đã tắt</string>
-    <string name="Dashboard_Perm_SU_Disabled_In_Stable">Quyền truy cập root không có sẵn trong bản MIUI ổn định</string>
+    <string name="Dashboard_Perm_SU_Disabled_In_Stable">Quyền truy cập root không có sẵn trong bản OS ổn định</string>
     <string name="Dashboard_Perm_SU_Disabled_In_Stable_Desc">"Cho phép truy cập root từ ứng dụng của bên thứ ba có thể dẫn đến mất ổn định hệ thống, mất dữ liệu, hoặc thậm chí là hư hỏng phần cứng.
 
-Bạn cần phải cài đặt phiên bản MIUI của nhà phát triển để truy cập quyền root."</string>
-    <string name="Dashboard_Perm_SU_Disabled_In_Stable_Download">Tải về MIUI</string>
+Bạn cần phải cài đặt phiên bản OS của nhà phát triển để truy cập quyền root."</string>
+    <string name="Dashboard_Perm_SU_Disabled_In_Stable_Download">Tải về OS</string>
     <string name="Dashboard_Perm_SU_Disabled_In_Stable_URL">http://www.miui.com/getrom.php</string>
     <string name="Dashboard_Perm_HIPS_Switch">Quyền truy cập</string>
     <string name="Dashboard_Perm_HIPS">Quản lý quyền truy cập</string>
@@ -207,7 +207,7 @@ Bạn cần phải cài đặt phiên bản MIUI của nhà phát triển để 
     <string name="Dashboard_Perm_AutoStart">Quyền tự khởi chạy</string>
     <string name="Dashboard_Perm_AutoStart_Desc">Điều khiển ứng dụng có thể bắt đầu khi thiết bị mở</string>
     <string name="Dashboard_HIPS_Disable_Title">Quyền truy cập</string>
-    <string name="Dashboard_HIPS_Disable_Content">MIUI sẽ không giám sát yêu cầu Quyền truy cập của ứng dụng.</string>
+    <string name="Dashboard_HIPS_Disable_Content">OS sẽ không giám sát yêu cầu Quyền truy cập của ứng dụng.</string>
     <string name="Dashboard_Log_Clear_Title">Xóa nhật ký</string>
     <string name="Dashboard_Log_Clear_Content">Tất cả nhật ký sẽ được xóa.</string>
     <string name="Privacy_Perm_Count">Cho phép %1$d | Từ chối %2$d</string>
@@ -229,7 +229,7 @@ Bạn cần phải cài đặt phiên bản MIUI của nhà phát triển để 
     <string name="SysOpt_Boost_AutoStart_Group">Tự khởi chạy</string>
     <string name="SysOpt_Boost_AutoStart">Quyền tự khởi chạy</string>
     <string name="Su_Enable_Dialog">%1$s đang yêu cầu quyền root.</string>
-    <string name="Su_Unavailable">Quyền truy cập root không có sẵn trong bản MIUI này. Bạn cần phải cài đặt lại phiên bản MIUI của nhà phát triển để có quyền root.</string>
+    <string name="Su_Unavailable">Quyền truy cập root không có sẵn trong bản OS này. Bạn cần phải cài đặt lại phiên bản OS của nhà phát triển để có quyền root.</string>
     <string name="Su_Package_Forbidden2">không có quyền root.</string>
     <string name="permisson_reject_notice_toast_text2">không có quyền %1$s.</string>
     <string name="HIPS_Action_Reject_Once">Từ chối một lần</string>

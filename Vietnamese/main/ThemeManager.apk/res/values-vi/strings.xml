@@ -1071,7 +1071,7 @@ Kích thước cập nhật Delta: %2$s"</string>
 	<string name="theme_component_video_wallpaper">Hình nền động</string>
 	<string name="de_mix_mode_icon">Biểu tượng</string>
 	<string name="search_non_filter_result">"Không tìm thấy kết quả"</string>
-	<string name="ota_recovery_theme_dialog_message">Một số yếu tố của chủ đề được sử dụng trước đây có thể không tương thích với phiên bản MIUI mới. Các yếu tố không tương thích sẽ được thay thế bằng các tùy chọn mặc định.</string>
+	<string name="ota_recovery_theme_dialog_message">Một số yếu tố của chủ đề được sử dụng trước đây có thể không tương thích với phiên bản OS mới. Các yếu tố không tương thích sẽ được thay thế bằng các tùy chọn mặc định.</string>
 	<string name="search_sort_news">Mới nhất trước</string>
 	<string name="fmt_date_numeric_month_day">d/M</string>
 	<string name="community_cta_dialog_ok">Đã hiểu</string>
@@ -1587,7 +1587,7 @@ Bạn sẽ thấy ảnh mới mỗi giờ."</string>
 	<string name="ringtone_confirm_dialog_title">Chú ý</string>
 	<string name="multiwindow_no_support_icon">"Không thể đổi biểu tượng khi sử dụng Chia màn hình"</string>
 	<string name="ringtone_confirm_dialog_message">"Nhạc chuông này quá dài. Vẫn sử dụng?"</string>
-    <string name="incompatible_dialog_message">"Chủ đề này chưa hoàn toàn tương thích với phiên bản MIUI này. Một vài trang có thể hoạt động không chính xác."</string>
+    <string name="incompatible_dialog_message">"Chủ đề này chưa hoàn toàn tương thích với phiên bản OS này. Một vài trang có thể hoạt động không chính xác."</string>
 	<string name="miuix_appcompat_search_input_description">Tìm kiếm</string>
 	<string name="miuix_appcompat_action_mode_deselect_all">Bỏ chọn</string>
 	<string name="video_not_support_title">Video này quá lớn</string>

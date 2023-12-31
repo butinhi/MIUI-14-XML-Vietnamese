@@ -9,10 +9,10 @@
     <string name="power_config_apps">Tiết kiệm Pin Ứng dụng</string>
     <string name="app_list_title">Chọn ứng dụng</string>
     <string name="power_hide_mode_app_list_summary">Tiết kiệm pin trong nền</string>
-    <string name="enable_hide_mode">Bật Tiết kiệm Pin MIUI</string>
-    <string name="disable_hide_mode">Tắt Tiết kiệm Pin MIUI</string>
-    <string name="about_hide_mode">Giới thiệu Tiết kiệm Pin MIUI</string>
-    <string name="disable_hide_mode_warning">Tắt Tiết kiệm Pin MIUI có thể là nguyên nhân gây hao pin nhiều hơn</string>
+    <string name="enable_hide_mode">Bật Tiết kiệm Pin OS</string>
+    <string name="disable_hide_mode">Tắt Tiết kiệm Pin OS</string>
+    <string name="about_hide_mode">Giới thiệu Tiết kiệm Pin OS</string>
+    <string name="disable_hide_mode_warning">Tắt Tiết kiệm Pin OS có thể là nguyên nhân gây hao pin nhiều hơn</string>
     <string name="show_system_app">Hiển thị ứng dụng hệ thống</string>
     <string name="hide_system_app">Ẩn ứng dụng hệ thống</string>
     <string name="scenario_policies_title">Bối cảnh thông minh</string>
@@ -43,7 +43,7 @@
     <string name="empty_title_apps_container_list">Không có ứng dụng nào</string>
     <string name="hints_loading_text">Vui lòng chờ…</string>
     <string name="config_mode_title">Cài đặt nền</string>
-    <string name="config_suggest_suffix_title">Tiết kiệm Pin MIUI (kiến nghị)</string>
+    <string name="config_suggest_suffix_title">Tiết kiệm Pin OS (kiến nghị)</string>
     <string name="config_no_restrict_title">Không hạn chế</string>
     <string name="config_restrict_function_title">Hạn chế ứng dụng nền</string>
     <string name="config_restrict_running_title">Hạn chế hoạt động nền</string>
@@ -191,7 +191,7 @@ Tiết kiệm pin sẽ xử lý ứng dụng quan trọng một cách có chọn
     <string name="power_config_bg_data_delay_time_title">Hạn chế dữ liệu nền</string>
     <string name="power_config_bg_data_delay_time_dialog_title">Chọn thời gian hạn chế dữ liệu nền</string>
     <string name="app_list_total">%d ứng dụng</string>
-    <string name="config_suggest_title">Tiết kiệm Pin MIUI</string>
+    <string name="config_suggest_title">Tiết kiệm Pin OS</string>
     <string name="location_disable_description">Ứng dụng chạy nền chỉ truy cập vị trí trong thời gian ngắn, sau đó sẽ bị hạn chế</string>
     <string name="location_disable_title">Giới hạn</string>
     <string name="location_enable_description">Ứng dụng có thể sử dụng dịch vụ vị trí trong nền</string>

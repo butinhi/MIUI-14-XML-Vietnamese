@@ -136,7 +136,7 @@
 	<string name="permission_agree">Đồng ý</string>
 	<string name="miservice_notification_boot_content">Tìm hiểu thêm về những điều MIUI có thể làm</string>
 	<string name="miui_feedback_edit_select_upload_log_not_select_desc">"Chưa chọn \"Thêm nhật ký\""</string>
-	<string name="miui_guide_footer_desc">"Hướng dẫn người dùng mới được thiết kế để giúp bạn tìm hiểu về thiết bị và MIUI. Một vài ảnh và video trong hướng dẫn được tạo cho mục đích tham khảo, có thể khác với sản phẩm thực tế. Mô tả tính năng trong hướng dẫn này có thể khác nhau tùy theo kiểu thiết bị, phiên bản MIUI, và môi trường sử dụng."</string>
+	<string name="miui_guide_footer_desc">"Hướng dẫn người dùng mới được thiết kế để giúp bạn tìm hiểu về thiết bị và MIUI. Một vài ảnh và video trong hướng dẫn được tạo cho mục đích tham khảo, có thể khác với sản phẩm thực tế. Mô tả tính năng trong hướng dẫn này có thể khác nhau tùy theo kiểu thiết bị, phiên bản OS, và môi trường sử dụng."</string>
 	<string name="miui_feedback_edit_delete_images">Xóa ảnh</string>
 	<string name="miui_feedback_edit_title_occurrence_time">Chọn thời gian</string>
 	<string name="miui_feedback_edit_choose_occurrence_time">Thời gian</string>

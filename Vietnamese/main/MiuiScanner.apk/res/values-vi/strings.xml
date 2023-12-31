@@ -176,7 +176,7 @@
     <string name="recognition_error_download_data_msg">Tải xuống công cụ nhận dạng để quét thẻ. Dung lượng khoảng 15MB. Sử dụng dữ liệu di động để tải?</string>
     <string name="recognition_error_download_success">Đã tải xuống thành công</string>
     <string name="recognition_error_download_fail">Không thể tải xuống công cụ nhận dạng</string>
-    <string name="low_version_tip">Phiên bản MIUI quá cũ. Cập nhật MIUI để sử dụng Máy quét.</string>
+    <string name="low_version_tip">phiên bản OS quá cũ. Cập nhật MIUI để sử dụng Máy quét.</string>
     <string name="app_description_title">Giới thiệu Máy quét</string>
     <string name="app_description_content">Máy quét cung cấp quét mã QR, quét để dịch, quét để giải quyết vấn đề, nhận dạng danh thiếp .v.v… Hãy chắc chắn rằng bạn hiểu rõ chức năng và dịch vụ được cung cấp bởi ứng dụng này.</string>
 	<string name="agree_btn">Đồng ý</string>
@@ -561,7 +561,7 @@ Vui lòng tham khảo góc trên hình để đặt thiết bị và thử lại
 	<string name="document_recognize_text">Nhận dạng văn bản</string>
 	<string name="please_select_an_item">Vui lòng chọn một mục</string>
 	<string name="textrecognition_results">Kết quả nhận dạng văn bản</string>
-	<string name="monitor_low_miui">Phiên bản MIUI quá thấp</string>
+	<string name="monitor_low_miui">phiên bản OS quá thấp</string>
 	<string name="are_you_sure_you_want_delete_file">Bạn có chắc muốn xóa %1$d tệp tin này?</string>
 	<string name="document_list_rename">Vui lòng nhập tên mới</string>
 	<string name="monitor_unsupport_device">Thiết bị này hiện không được hỗ trợ</string>

@@ -6,7 +6,7 @@
     <string name="cit_fail">Không qua</string>
     <string name="cit_tool">Công cụ bổ sung</string>
     <string name="cit_hide_menu">Ẩn menu</string>
-    <string name="cit_not_available">Kiểm tra này không khả dụng trên phiên bản MIUI này</string>
+    <string name="cit_not_available">Kiểm tra này không khả dụng trên phiên bản OS này</string>
     <string name="cit_version_check_title">Kiểm tra thông tin phiên bản</string>
     <string name="cit_sim_check_title">Thẻ SIM</string>
     <string name="cit_keyboard_test_title">Phím</string>

@@ -139,7 +139,7 @@ Kích thước cập nhật Delta: %2$s"</string>
     <string name="local_restore_window_title">Khôi phục từ máy</string>
     <string name="account_login">Đăng nhập</string>
     <string name="miliao_account_login">Đăng nhập vào MiTalk</string>
-    <string name="miliao_account_guide">Sử dụng Tài khoản Mi của bạn để đăng nhập Xiaomi Cloud, Cửa hàng Chủ đề MIUI và các dịch vụ Mi khác từ bất cứ nơi nào.</string>
+    <string name="miliao_account_guide">Sử dụng Tài khoản Mi của bạn để đăng nhập Xiaomi Cloud, Cửa hàng Chủ đề và các dịch vụ Mi khác từ bất cứ nơi nào.</string>
     <string name="auto_backup">Lịch trình sao lưu thường xuyên</string>
     <string name="contact_title">Liên hệ</string>
     <string name="call_title">Lịch sử cuộc gọi</string>

@@ -2428,7 +2428,7 @@ Vui lòng gửi mã này cho nhân viên kỹ thuật."</string>
 	<string name="passport_bad_authentication">Tên người dùng hoặc mật khẩu không hợp lệ</string>
 	<string name="passport_error_phone_error">Số điện thoại không hợp lệ</string>
 	<string name="voiceroom_set_workdata_hint_week">Tuần</string>
-	<string name="low_version_tip">Phiên bản MIUI quá cũ. Cập nhật MIUI để sử dụng Máy quét.</string>
+	<string name="low_version_tip">phiên bản OS quá cũ. Cập nhật MIUI để sử dụng Máy quét.</string>
 	<string name="passport_verify">Xác minh</string>
 	<string name="account_user_avatar_from_camera">Máy ảnh</string>
 	<string name="photoPickerNotFoundText">Không có hình ảnh nào trên điện thoại của bạn.</string>

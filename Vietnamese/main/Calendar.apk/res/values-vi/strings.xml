@@ -355,7 +355,7 @@ Kiểm tra cài đặt mạng và thử lại."</string>
     <string name="select_today_tip">Hôm nay</string>
     <string name="setting">Cài đặt</string>
     <string name="setting_about_calendar_version">Phiên bản lịch:</string>
-    <string name="setting_about_miui_version">Phiên bản MIUI:</string>
+    <string name="setting_about_miui_version">phiên bản OS:</string>
     <string name="setting_about_summary">Phiên bản:</string>
     <string name="setting_accounts">Tài khoản Lịch</string>
     <string name="setting_daysoff_no_update">Thông tin về ngày lễ đã được cập nhật.</string>

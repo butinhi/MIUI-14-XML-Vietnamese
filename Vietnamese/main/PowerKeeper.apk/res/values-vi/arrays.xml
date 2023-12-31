@@ -94,7 +94,7 @@
     </string-array>
     <string-array name="hmode_app_classify1">
         <item>Tùy chỉnh</item>
-        <item>Tiết kiệm Pin MIUI</item>
+        <item>Tiết kiệm Pin OS</item>
     </string-array>
     <string-array name="hmode_app_classify2">
         <item>Ứng dụng hoạt động</item>

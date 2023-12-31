@@ -658,7 +658,7 @@ Kích thước cập nhật Delta: %2$s"</string>
 	<string name="send_verification_code_fail">"Không thể gửi mã xác nhận"</string>
 	<string name="scanner_title_tip">Chọn mục để chuyển</string>
 	<string name="notification_trans_finish_send_title">Gửi dữ liệu thành công</string>
-	<string name="connection_tips_owner_message">Mi Mover được cài đặt sẵn trên tất cả các thiết bị chạy MIUI 11. Nếu bạn có phiên bản MIUI cũ hơn, bạn có thể tải xuống phiên bản Mi Mover mới nhất trong GetApps hoặc sử dụng liên kết này: %1$s.</string>
+	<string name="connection_tips_owner_message">Mi Mover được cài đặt sẵn trên tất cả các thiết bị chạy MIUI 11. Nếu bạn có phiên bản OS cũ hơn, bạn có thể tải xuống phiên bản Mi Mover mới nhất trong GetApps hoặc sử dụng liên kết này: %1$s.</string>
 	<string name="wechat_qq">Dữ liệu WeChat và QQ</string>
 	<string name="host_dialog_install_button">Cài đặt trên thiết bị khác</string>
 	<string name="saving_data_space_low">"Không đủ dung lượng lưu trữ.
