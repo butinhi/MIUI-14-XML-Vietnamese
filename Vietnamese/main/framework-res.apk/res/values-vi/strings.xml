@@ -23,7 +23,6 @@
     <string name="dialog_alert_title">Chú ý</string>
     <string name="VideoView_error_text_invalid_progressive_playback">Video này không hợp lệ để phát trực tuyến đến thiết bị này.</string>
     <string name="selectTextMode">Chọn văn bản</string>
-    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="fingerprint_icon_content_description">Biểu tượng vân tay</string>
     <string name="paste_as_plain_text">Dán dưới dạng văn bản thuần túy</string>
     <string name="autofill">Tự động điền</string>
@@ -683,7 +682,6 @@ Hãy liên hệ với quản trị viên của tổ chức nếu bạn có thắ
     <string name="fast_scroll_numeric_alphabet">" 0123456789ABCDEFGHIJKLMNOPQRSTUVWXYZ"</string>
     <string name="fcComplete">Mã tính năng đã hoàn tất.</string>
     <string name="fcError">Sự cố kết nối hoặc mã tính năng không hợp lệ.</string>
-    <string name="fileSizeSuffix">%1$s %2$s</string>
     <string name="file_count">{count,plural, =1{{file_name} + # tệp}other{{file_name} + # tệp}}</string>
     <string name="find">Tìm</string>
     <string name="find_next">Tìm kết quả phù hợp tiếp theo</string>
@@ -934,7 +932,6 @@ Hãy truy cập "<b>google.com/accounts/recovery</b>.</string>
     <string name="kg_reordering_delete_drop_target_text">Xóa</string>
     <string name="kg_sim_pin_instructions">Nhập PIN của SIM</string>
     <string name="kg_sim_unlock_progress_dialog_message">Đang mở khoá SIM…</string>
-    <string name="kg_text_message_separator">" — "</string>
     <string name="kg_too_many_failed_password_attempts_dialog_message">"Bạn đã %1$d lần nhập sai mật khẩu. 
 
 Hãy thử lại sau %2$d giây."</string>
@@ -1305,7 +1302,6 @@ Thông báo nâng cao có thể đọc mọi nội dung thông báo, bao gồm c
     <string name="notification_hidden_text">Thông báo mới</string>
     <string name="notification_history_title_placeholder">Thông báo tùy chỉnh cho ứng dụng</string>
     <string name="notification_listener_binding_label">Trình xử lý thông báo</string>
-    <string name="notification_messaging_title_template">%1$s: %2$s</string>
     <string name="notification_phishing_alert_content_description">Cảnh báo về hành vi lừa đảo</string>
     <string name="notification_ranker_binding_label">Dịch vụ xếp hạng thông báo</string>
     <string name="notification_reply_button_accessibility">Trả lời</string>
@@ -2192,7 +2188,6 @@ Bạn có muốn đóng trang không?"</string>
     <string name="zen_mode_feature_name">Không làm phiền</string>
     <string name="zen_mode_forever">Cho đến khi bạn tắt</string>
     <string name="zen_mode_forever_dnd">Cho đến khi bạn tắt Đừng làm phiền</string>
-    <string name="zen_mode_rule_name_combination">%1$s / %2$s</string>
     <string name="zen_mode_until">Cho đến %1$s</string>
     <string name="zen_mode_until_next_day">Cho tới %1$s</string>
     <string name="zen_upgrade_notification_content">Nhấn để xem những thông báo bị chặn.</string>
