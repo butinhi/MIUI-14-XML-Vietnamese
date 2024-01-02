@@ -1698,7 +1698,7 @@ Có người dùng khác trên thiết bị này.
     <string name="managed_profile_location_switch_title">Vị trí hồ sơ công việc</string>
     <string name="location_mode_title">Chế độ</string>
     <string name="location_mode_high_accuracy_title">Độ chính xác cao</string>
-    <string name="location_mode_battery_saving_title">Tiết kiệm pin</string>
+    <string name="location_mode_battery_saving_title">Tiết kiệm Pin</string>
     <string name="location_mode_sensors_only_title">Chỉ thiết bị</string>
     <string name="location_mode_location_off_title">Tắt vị trí</string>
     <string name="location_category_recent_location_requests">Yêu cầu vị trí gần đây</string>
@@ -2258,7 +2258,7 @@ Nếu thiết bị có nhiều người dùng, việc sử dụng lối tắt n�
     <string name="battery_desc_voice">Pin được các cuộc gọi thoại sử dụng</string>
     <string name="battery_desc_standby">Pin được sử dụng khi điện thoại ở chế độ rảnh</string>
     <string name="battery_desc_radio">Pin được vô tuyến tế bào sử dụng</string>
-    <string name="battery_sugg_radio">Chuyển sang chế độ trên máy bay để tiết kiệm pin trong khu vực không có phủ sóng điện thoại di động</string>
+    <string name="battery_sugg_radio">Chuyển sang chế độ trên máy bay để Tiết kiệm Pin trong khu vực không có phủ sóng điện thoại di động</string>
     <string name="battery_desc_flashlight">Lượng pin đèn pin tiêu thụ</string>
     <string name="battery_desc_camera">Lượng pin máy ảnh đã sử dụng</string>
     <string name="battery_desc_display">Pin được màn hình và đèn nền sử dụng</string>
@@ -2270,7 +2270,7 @@ Nếu thiết bị có nhiều người dùng, việc sử dụng lối tắt n�
     <string name="battery_sugg_bluetooth_headset">Thử kết nối tới thiết bị Bluetooth khác</string>
     <string name="battery_desc_apps">Pin do ứng dụng sử dụng</string>
     <string name="battery_sugg_apps_info">Dừng hoặc gỡ bỏ ứng dụng</string>
-    <string name="battery_sugg_apps_gps">Chọn chế độ tiết kiệm pin</string>
+    <string name="battery_sugg_apps_gps">Chọn chế độ Tiết kiệm Pin</string>
     <string name="battery_sugg_apps_settings">Ứng dụng có thể cung cấp các cài đặt để giảm mức sử dụng pin</string>
     <string name="battery_desc_users">Pin do người dùng sử dụng</string>
     <string name="battery_desc_unaccounted">Mức sử dụng nguồn chênh lệch</string>
@@ -2283,7 +2283,7 @@ Nếu thiết bị có nhiều người dùng, việc sử dụng lối tắt n�
     <string name="menu_stats_refresh">Làm mới</string>
     <string name="process_mediaserver_label">Máy chủ phương tiện</string>
     <string name="process_dex2oat_label">Tối ưu hóa ứng dụng</string>
-    <string name="battery_saver">Trình tiết kiệm pin</string>
+    <string name="battery_saver">Tiết kiệm Pin</string>
     <string name="battery_saver_turn_on_automatically_title">Tự động bật</string>
     <string name="battery_saver_turn_on_automatically_never">Không bao giờ</string>
     <string name="battery_saver_turn_on_automatically_pct">ở mức pin %1$s</string>
@@ -3367,7 +3367,7 @@ Bạn có thể thay đổi điều này sau đó từ Cài đặt > Ứng dụn
     <string name="condition_airplane_title">Đang bật chế độ trên máy bay</string>
     <string name="condition_airplane_summary">Mạng Wi-Fi, Bluetooth và mạng di động đều bị tắt. Bạn không thể gọi điện thoại hoặc kết nối với Internet.</string>
     <string name="condition_zen_title">Không làm phiền đang bật</string>
-    <string name="condition_battery_title">Trình tiết kiệm pin đang bật</string>
+    <string name="condition_battery_title">Tiết kiệm Pin đang bật</string>
     <string name="condition_battery_summary">Hiệu suất giảm. Dịch vụ vị trí và dữ liệu nền bị tắt.</string>
     <string name="condition_cellular_title">Dữ liệu di động bị tắt</string>
     <string name="condition_cellular_summary">Internet chỉ khả dụng qua Wi-Fi</string>
@@ -3682,7 +3682,7 @@ Bạn có thể thay đổi điều này sau đó từ Cài đặt > Ứng dụn
     <string name="search_music_headset_settings">Tai nghe &amp; hiệu ứng âm thanh;Tai nghe và hiệu ứng âm thanh;Tai nghe;Hiệu ứng âm thanh</string>
     <string name="search_accessibility_settings">Khả năng truy cập</string>
     <string name="search_lab_functions_title">Tính năng Beta;Chức năng Phòng thí nghiệm</string>
-    <string name="search_power_optimize">Tiết kiệm Pin;Tiết kiệm pin</string>
+    <string name="search_power_optimize">Tiết kiệm Pin;Tiết kiệm Pin</string>
     <string name="search_power_checker">Kiểm tra Pin</string>
     <string name="search_app_invisible">Ẩn ứng dụng;ứng dụng ẩn</string>
     <string name="search_privacy_settings">Sao lưu &amp; đặt lại;Sao lưu và đặt lại;Sao lưu;đặt lại</string>
@@ -3951,7 +3951,7 @@ Bạn có thể thay đổi điều này sau đó từ Cài đặt > Ứng dụn
     <string name="battery_settings_title">Pin</string>
     <string name="power_center">Tối ưu Pin</string>
     <string name="power_hide_mode_title">Quản lý sử dụng pin</string>
-    <string name="power_hide_mode_summary">Tiết kiệm pin bằng cách hạn chế ứng dụng cá nhân chạy nền, tắt kết nối Wi-Fi, dữ liệu di động và GPS</string>
+    <string name="power_hide_mode_summary">Tiết kiệm Pin bằng cách hạn chế ứng dụng cá nhân chạy nền, tắt kết nối Wi-Fi, dữ liệu di động và GPS</string>
     <string name="battery_indicator_style">Dạng thông báo Pin</string>
     <string name="power_usage_history">Sử dụng Pin</string>
     <string name="default_usb_mode">Kết nối USB</string>
@@ -4771,7 +4771,7 @@ Bạn có thể thay đổi điều này sau đó từ Cài đặt > Ứng dụn
     <string name="fluency_mode_confirm_and_reboot">Khởi động lại ngay</string>
     <string name="pick_up_gesture_wakeup_title">Nhấc để đánh thức thiết bị</string>
     <string name="aod_mode_title">Chế độ luôn bật</string>
-    <string name="aod_mode_summary">Tính năng này tăng mức sử dụng pin. Nó sẽ được tắt khi thiết bị ở lâu trong bóng tối hoặc Tiết kiệm pin được bật.</string>
+    <string name="aod_mode_summary">Tính năng này tăng mức sử dụng pin. Nó sẽ được tắt khi thiết bị ở lâu trong bóng tối hoặc Tiết kiệm Pin được bật.</string>
     <string name="install_no_market_app_title">Quét ứng dụng bên thứ ba</string>
     <string name="install_no_market_app_summary">Quét virus ứng dụng bên thứ ba trước khi cài đặt</string>
     <string name="theme_settings_title">Chủ đề</string>
@@ -6465,7 +6465,7 @@ Quản trị viên của bạn có thể giám sát hoạt động mạng của 
     <string name="audio_profile_bes_surround_mode_music">Chế độ nghe nhạc</string>
     <string name="audio_profile_bes_surround_summary">Âm thanh xung quanh</string>
     <string name="audio_profile_bes_surround_title">BesSurround</string>
-    <string name="bg_power_saving_title">Tiết kiệm pin thông minh ở chế độ chờ</string>
+    <string name="bg_power_saving_title">Tiết kiệm Pin thông minh ở chế độ chờ</string>
     <string name="bootloader_device_bind_exceed_sim_limit">Không thể thêm tài khoản đến thẻ SIM này.</string>
     <string name="bootloader_device_bind_no_sim">Lắp thẻ SIM và thử lại.</string>
     <string name="bootloader_device_bind_server_code">Không thể thêm. Lỗi mã:</string>
@@ -6627,7 +6627,7 @@ Bạn chắc chắn sử dụng giờ được cấp bởi GPS?"</string>
     <string name="omh_warning_dialog_msg">R-UIM của bạn không thể truy cập dịch vụ dữ liệu. Hãy nâng cấp R-UIM lên OMH R-UIM.</string>
     <string name="on_text">Bật</string>
     <string name="paper_mode_side_effect_hint">Cường độ cao hơn có thể ảnh hưởng đến cách thức nội dung được hiển thị.</string>
-    <string name="performance_and_power_title">Hiệu suất và tiết kiệm pin</string>
+    <string name="performance_and_power_title">Hiệu suất và Tiết kiệm Pin</string>
     <string name="play_pause_description">Phím Phát/Tạm dừng</string>
     <string name="power_remaining_charging_duration_only">Còn %1$s sẽ sạc đầy</string>
     <string name="radioInfo_menu_getIMS">Trạng thái dịch vụ IMS</string>
@@ -6635,7 +6635,7 @@ Bạn chắc chắn sử dụng giờ được cấp bởi GPS?"</string>
     <string name="regulatory_labels">Nhãn theo quy định</string>
     <string name="resolution_switch_display_size_tips">Ko thể dùng chức năng này trong ảnh đồ họa ở chế độ tiết kiệm điện</string>
     <string name="resolution_switch_multi_window_tips">Không thể chuyển đổi trong chế độ Nhiều cửa sổ</string>
-    <string name="resolution_switch_summary">Dùng độ phân giải thấp hơn để tiết kiệm pin</string>
+    <string name="resolution_switch_summary">Dùng độ phân giải thấp hơn để Tiết kiệm Pin</string>
     <string name="resolution_switch_title">Chế độ tiết kiệm điện đồ họa</string>
     <string name="rgb_manage_facerecoginition_text">Quản lý dữ liệu khuôn mặt 2D</string>
     <string name="root">Truy cập root</string>
@@ -6982,7 +6982,7 @@ Bạn chắc chắn sử dụng giờ được cấp bởi GPS?"</string>
     <string name="battery_saver_auto_title">Tự động bật</string>
     <string name="battery_saver_button_turn_off">Tắt ngay</string>
     <string name="battery_saver_button_turn_on">Bật ngay</string>
-    <string name="battery_saver_master_switch_title">Sử dụng Trình tiết kiệm pin</string>
+    <string name="battery_saver_master_switch_title">Sử dụng Tiết kiệm Pin</string>
     <string name="battery_saver_off_scheduled_summary">Sẽ bật lúc %1$s</string>
     <string name="battery_saver_seekbar_title">Lúc %1$s</string>
     <string name="battery_saver_seekbar_title_placeholder">Bật</string>
@@ -7102,7 +7102,7 @@ Nếu bạn thực hiện bất kì thao tác nào kể trên, thêm Tài khoả
     <string name="display_cutout_emulation_none">Không</string>
     <string name="double_tap_power_for_camera_suggestion_title">Mở nhanh camera</string>
     <string name="double_twist_for_camera_suggestion_title">Chụp ảnh selfie nhanh hơn</string>
-    <string name="doze_always_on_summary">Tính năng này tăng mức sử dụng pin. Nó sẽ được tắt khi thiết bị ở lâu trong bóng tối hoặc Tiết kiệm pin được bật.</string>
+    <string name="doze_always_on_summary">Tính năng này tăng mức sử dụng pin. Nó sẽ được tắt khi thiết bị ở lâu trong bóng tối hoặc Tiết kiệm Pin được bật.</string>
     <string name="doze_always_on_title">Luôn bật</string>
     <string name="expand_button_title">Nâng cao</string>
     <string name="fingerprint_delete_message">Bạn muốn xóa vân tay này?</string>
@@ -7157,25 +7157,25 @@ Nếu bạn thực hiện bất kì thao tác nào kể trên, thêm Tài khoả
     <string name="notifications_title">Thông báo</string>
     <string name="oem_lock_info_message">Vui lòng khởi động lại để bật tính năng bảo vệ thiết bị.</string>
     <string name="battery_tip_early_heads_up_done_summary">Một vài tính năng có thể bị hạn chế</string>
-    <string name="battery_tip_early_heads_up_done_title">Tiết kiệm pin bật</string>
+    <string name="battery_tip_early_heads_up_done_title">Tiết kiệm Pin bật</string>
     <string name="battery_tip_early_heads_up_summary">Pin có thể hết sớm hơn bình thường</string>
-    <string name="battery_tip_early_heads_up_title">Bật Tiết kiệm pin</string>
+    <string name="battery_tip_early_heads_up_title">Bật Tiết kiệm Pin</string>
     <string name="battery_tip_high_usage_summary">Pin có thể hết sớm</string>
     <string name="battery_tip_high_usage_title">Điện thoại sử dụng nhiều hơn bình thường</string>
     <string name="battery_tip_low_battery_title">Dung lượng pin thấp</string>
     <string name="battery_tip_low_battery_summary">Pin không thể cung cấp thời lượng pin tốt</string>
-    <string name="battery_tip_dialog_summary_message">Ứng dụng đang sử dụng pin bình thường. Nếu ứng dụng dùng quá nhiều pin, điện thoại của bạn sẽ đề xuất các tác vụ bạn có thể thực hiện. Bạn luôn có thể bật Tiết kiệm pin nếu bạn sắp hết pin.</string>
+    <string name="battery_tip_dialog_summary_message">Ứng dụng đang sử dụng pin bình thường. Nếu ứng dụng dùng quá nhiều pin, điện thoại của bạn sẽ đề xuất các tác vụ bạn có thể thực hiện. Bạn luôn có thể bật Tiết kiệm Pin nếu bạn sắp hết pin.</string>
     <string name="battery_tip_dialog_message">"Điện thoại của bạn được sử dụng nhiều hơn bình thường. Pin của bạn có thể hết trước thời gian dự kiến.
 
 Những ứng dụng sử dụng pin hàng đầu:"</string>
     <string name="battery_tip_restrict_app_dialog_ok">Hạn chế</string>
-    <string name="battery_tip_restrict_app_dialog_message">Để tiết kiệm pin, ngừng %1$s sử dụng pin trong nền. Ứng dụng có thể hoạt động không bình thường và thông báo có thể bị trì hoãn.</string>
+    <string name="battery_tip_restrict_app_dialog_message">Để Tiết kiệm Pin, ngừng %1$s sử dụng pin trong nền. Ứng dụng có thể hoạt động không bình thường và thông báo có thể bị trì hoãn.</string>
     <string name="battery_tip_smart_battery_title">Cải thiện thời lượng pin của thiết bị</string>
     <string name="battery_tip_summary_summary">Điện thoại có mức sử dụng pin nền bình thường</string>
     <string name="battery_tip_summary_title">Ứng dụng đang chạy bình thường</string>
-    <string name="battery_tip_restrict_apps_less_than_5_dialog_message">Để tiết kiệm pin, hãy dừng các hoạt động của các ứng dụng này trong nền. Ứng dụng bị hạn chế có thể hoạt động không bình thường và thông báo có thể bị trì hoãn.
+    <string name="battery_tip_restrict_apps_less_than_5_dialog_message">Để Tiết kiệm Pin, hãy dừng các hoạt động của các ứng dụng này trong nền. Ứng dụng bị hạn chế có thể hoạt động không bình thường và thông báo có thể bị trì hoãn.
     Ứng dụng:</string>
-    <string name="battery_tip_restrict_apps_more_than_5_dialog_message">Để tiết kiệm pin, hãy dừng các hoạt động của các ứng dụng này trong nền. Ứng dụng bị hạn chế có thể hoạt động không bình thường và thông báo có thể bị trì hoãn.
+    <string name="battery_tip_restrict_apps_more_than_5_dialog_message">Để Tiết kiệm Pin, hãy dừng các hoạt động của các ứng dụng này trong nền. Ứng dụng bị hạn chế có thể hoạt động không bình thường và thông báo có thể bị trì hoãn.
     Ứng dụng:
     %1$s.</string>
     <string name="battery_tip_smart_battery_summary">Bật Trình quản lý pin</string>
@@ -7965,7 +7965,7 @@ Bạn có thể biến thiết bị Android của mình thành một điểm tru
     <string name="off">Tắt</string>
     <string name="on">Bật</string>
     <string name="title_of_auto_launch_manage">Tự khởi chạy</string>
-    <string name="activity_title_power_manager">Tiết kiệm pin; Tiết kiệm pin</string>
+    <string name="activity_title_power_manager">Tiết kiệm Pin; Tiết kiệm Pin</string>
     <string name="card_main_hbassistant_title">Phong bì đỏ, gói đỏ; Tiền</string>
     <string name="loading">Chỉ vài giây…</string>
     <string name="auto_dual_clock_aod_summary">Hiển thị Đồng hồ kép khi thời gian hiện tại khác thời gian trên đồng hồ thứ hai</string>
@@ -9000,9 +9000,9 @@ Không phải tất cả ứng dụng đều hỗ trợ cài đặt này."</stri
     <string name="battery_saver_auto_percentage">Dựa trên phần trăm</string>
     <string name="battery_saver_auto_percentage_summary">Sẽ được bật lúc %1$s</string>
     <string name="battery_saver_auto_routine">Dựa trên thói quen của bạn</string>
-    <string name="battery_saver_auto_routine_summary">Tiết kiệm pin được bật nếu pin của bạn có vẻ sẽ hết trước khi bạn định cắm sạc</string>
+    <string name="battery_saver_auto_routine_summary">Tiết kiệm Pin được bật nếu pin của bạn có vẻ sẽ hết trước khi bạn định cắm sạc</string>
     <string name="battery_saver_schedule_settings_title">Đặt lịch</string>
-    <string name="battery_saver_sticky_description_new">Tiết kiệm pin sẽ được tắt khi điện thoại đạt %1$s</string>
+    <string name="battery_saver_sticky_description_new">Tiết kiệm Pin sẽ được tắt khi điện thoại đạt %1$s</string>
     <string name="battery_saver_sticky_title_new">Tắt khi sạc đầy</string>
     <string name="battery_tip_dialog_message_footer">Bao gồm hoạt động nền tốn năng lượng</string>
     <string name="bluetooth_left_name">Trái</string>
@@ -9110,7 +9110,7 @@ Không phải tất cả ứng dụng đều hỗ trợ cài đặt này."</stri
     <string name="keywords_app_default">Mở với</string>
     <string name="keywords_applications_settings">Ứng dụng</string>
     <string name="keywords_auto_brightness">Độ sáng tự động</string>
-    <string name="keywords_battery_saver_sticky">Tiết kiệm pin, nhãn dán, kiên trì, tiết kiệm năng lượng, pin</string>
+    <string name="keywords_battery_saver_sticky">Tiết kiệm Pin, nhãn dán, kiên trì, tiết kiệm năng lượng, pin</string>
     <string name="keywords_dark_ui_mode">chủ đề, sáng, tối, chế độ</string>
     <string name="keywords_device_feedback">lỗi</string>
     <string name="keywords_display_adaptive_sleep">mờ màn hình, ngủ, pin, hết giờ, chú ý, hiển thị, màn hình, không hoạt động</string>
@@ -9611,7 +9611,7 @@ Cho phép tất cả các ứng dụng muốn quét?"</string>
     <string name="accessibility_tutorial_dialog_button">Đã hiểu</string>
     <string name="radio_info_subid">subId hiện tại:</string>
     <string name="accessibility_dialog_button_stop">Dừng</string>
-    <string name="dark_ui_mode_disabled_summary_dark_theme_off">Tạm thời bật vì Tiết kiệm pin</string>
+    <string name="dark_ui_mode_disabled_summary_dark_theme_off">Tạm thời bật vì Tiết kiệm Pin</string>
     <string name="lock_screen_pin_skip_title">Bỏ qua cài đặt PIN?</string>
     <string name="style_suggestion_summary">Thử phong cách, hình nền, đồng hồ khác và hơn nữa</string>
     <string name="device_admin_warning_simplified">Thiết bị này sẽ được quản lý và giám sát bởi %1$s.</string>
@@ -9648,7 +9648,7 @@ Cho phép tất cả các ứng dụng muốn quét?"</string>
     <string name="wifi_metered_title">Sử dụng mạng</string>
     <string name="keywords_global_actions_panel">Hành động toàn bộ</string>
     <string name="smart_notifications_title">Thông báo thích ứng</string>
-    <string name="keywords_battery_saver_schedule">thói quen, lịch trình, tiết kiệm pin, tiết kiệm năng lượng, pin, tự động, phần trăm</string>
+    <string name="keywords_battery_saver_schedule">thói quen, lịch trình, Tiết kiệm Pin, tiết kiệm năng lượng, pin, tự động, phần trăm</string>
     <string name="battery_saver_turn_on_summary">Mở rộng thời lượng pin</string>
     <string name="gentle_notifications_display_status">Thanh trạng thái</string>
     <string name="bluetooth_untethered_unpair_dialog_body">%1$s sẽ không còn có thể ghép nối với bất kì thiết bị nào liên kết với tài khoản này</string>
@@ -9720,7 +9720,7 @@ Cho phép tất cả các ứng dụng muốn quét?"</string>
     <string name="wifi_generation_status">Wi-Fi %1$d</string>
     <string name="system_haptic_feedback">Phản hồi xúc giác</string>
     <string name="wifi_generation_icon_display">Biểu tượng</string>
-    <string name="screen_fps_summary">Tần số quét cao hơn sẽ khiến hình ảnh mượt hơn trong khi tần số quét thấp hơn giúp tiết kiệm pin</string>
+    <string name="screen_fps_summary">Tần số quét cao hơn sẽ khiến hình ảnh mượt hơn trong khi tần số quét thấp hơn giúp Tiết kiệm Pin</string>
     <string name="screen_fps_title">Tần số quét</string>
     <string name="speaker_clean">Làm sạch loa</string>
     <string name="network_alarm_summary_reg">Xem ứng dụng được hỗ trợ</string>
@@ -9740,7 +9740,7 @@ Dưới đây là một số nguyên nhân:
     <string name="scheduled_style">Đặt lịch</string>
     <string name="always_style">Luôn luôn</string>
     <string name="fingerprint_unlock_press_type">Bấm</string>
-    <string name="screen_fps_unit_power_save">%dHz (Tiết kiệm pin)</string>
+    <string name="screen_fps_unit_power_save">%dHz (Tiết kiệm Pin)</string>
     <string name="fingerprint_unlock_touch_type">Chạm</string>
     <string name="unlock_type_category_title">Phương thức nhận diện</string>
     <string name="gxzw_anim_aurora">Rạng đông</string>
@@ -10211,7 +10211,7 @@ Nếu bạn không đồng ý cấp các quyền đó, bạn sẽ không thể s
     <string name="zen_mode_starred_contacts_summary_none">Không</string>
     <string name="zen_mode_conversations_count_none">Không</string>
     <string name="dark_ui_activation_off_custom">Tắt đến khi %1$s</string>
-    <string name="network_2G_only">Chỉ 2G (tiết kiệm pin)</string>
+    <string name="network_2G_only">Chỉ 2G (Tiết kiệm Pin)</string>
     <string name="accessibility_shortcut_edit_dialog_title_advance">Nâng cao</string>
     <string name="wifi_expiry_time">Hết hạn vào %1$s</string>
     <string name="tether_settings_summary_bluetooth_tethering_only">Chỉ Bluetooth</string>
@@ -11023,7 +11023,7 @@ Chức năng này chỉ nhận được địa chỉ MAC Wi-Fi của bạn để
     <string name="gxzw_anim_dialog_message">Thêm vân tay để có thể thấy hiệu ứng vân tay. Thêm ngay?</string>
     <string name="miheadset_in_ear_check_summary">Tự động tạm dừng hoặc phát nhạc khi bạn đeo hoặc tháo tai nghe</string>
     <string name="miheadset_local_ota">OTA cục bộ</string>
-    <string name="save_battery_mode">Tiết kiệm pin với WQHD+</string>
+    <string name="save_battery_mode">Tiết kiệm Pin với WQHD+</string>
     <string name="screen_enhance_engine_ai_title">Tăng cường hình ảnh AI</string>
     <string name="headset_remove_message">Bạn có muốn xóa thiết bị này khỏi tài khoản của bạn</string>
     <string name="resolution_fhd_summary" formatted="false">null</string>
@@ -11037,7 +11037,7 @@ Chức năng này chỉ nhận được địa chỉ MAC Wi-Fi của bạn để
     <string name="face_unlock_prompt">Nhắc mở khóa khuôn mặt</string>
     <string name="bt_audio_share_switch_summary">Chia sẻ âm thanh với thiết bị Bluetooth đã kết nối</string>
     <string name="tether_password_illegal_character">Mật khẩu chứa ký tự không hợp lệ. Thử lại.</string>
-    <string name="save_battery_mode_summary">Tự động chuyển độ phân giải để tiết kiệm pin</string>
+    <string name="save_battery_mode_summary">Tự động chuyển độ phân giải để Tiết kiệm Pin</string>
     <string name="screen_enhance_engine_sr_for_video">Tăng cường video</string>
     <string name="screen_enhance_engine_sr_pic_summary_video_only">Tăng độ phân giải của video lên đến 1440p. Tính năng này được hỗ trợ bởi ứng dụng đã chọn và làm tăng nhẹ lượng pin tiêu thụ.</string>
     <string name="error_xcap_not_add">Loại APN không thể là loại XCAP.</string>
@@ -11859,7 +11859,7 @@ Sao chép tệp tin sao lưu vào thiết bị của bạn (MIUI-backup-AllBacku
     <string name="lockscreen_privacy_controls_setting_toggle">Hiển thị điều khiển thiết bị</string>
     <string name="main_clear_title">Đặt lại về dữ liệu gốc</string>
     <string name="wifi_connecting_to_message">Đang kết nối tới %1$s</string>
-    <string name="battery_saver_main_switch_title">Sử dụng Trình tiết kiệm pin</string>
+    <string name="battery_saver_main_switch_title">Sử dụng Tiết kiệm Pin</string>
     <string name="lockscreen_privacy_not_secure">Để sử dụng, trước tiên hãy đặt khóa màn hình</string>
     <string name="data_connection_cdma">1x</string>
     <string name="location_services_screen_title">Dịch vụ vị trí</string>
@@ -11921,7 +11921,7 @@ Sao chép tệp tin sao lưu vào thiết bị của bạn (MIUI-backup-AllBacku
     <string name="do_not_disturb_main_switch_title_off">Bật ngay</string>
     <string name="sim_action_reboot">Khởi động lại</string>
     <string name="sim_action_restart_title">Khởi động lại thiết bị?</string>
-    <string name="ambient_camera_battery_saver_off">Tắt tiết kiệm pin</string>
+    <string name="ambient_camera_battery_saver_off">Tắt Tiết kiệm Pin</string>
     <string name="accessibility_button_title">Nút Trợ năng</string>
     <string name="main_clear_final_desc_esim">Tất cả thông tin cá nhân của bạn, bao gồm ứng dụng đã tải xuống &amp; SIM, sẽ bị xóa. Bạn không thể hoàn tác hành động này.</string>
     <string name="sim_switch_button">Chuyển</string>
@@ -12372,7 +12372,7 @@ Bật tính năng này và chạm vào nút Trợ năng ở cuối màn hình đ
     <string name="accept_new_connection">Cho phép kết nối với các thiết bị mới</string>
     <string name="accept_new_connection_detail">Các kết nối mới đã bị hạn chế trong Trung tâm điều khiển</string>
     <string name="assistance_category_title">Khả năng truy cập</string>
-    <string name="brightness_auto_summary">Điều chỉnh độ sáng theo ánh sáng xung quanh để tiết kiệm pin</string>
+    <string name="brightness_auto_summary">Điều chỉnh độ sáng theo ánh sáng xung quanh để Tiết kiệm Pin</string>
     <string name="accessibility_button_intro_text">Truy cập nhanh các tính năng trợ năng từ bất kỳ màn hình nào</string>
     <string name="accessibility_button_summary">Truy cập nhanh các tính năng trợ năng</string>
     <string name="accessibility_button_opacity_title">Độ trong suốt khi không sử dụng</string>
@@ -12930,7 +12930,7 @@ Thiết bị của bạn có thể hoạt động bình thường mà không c�
     <string name="battery_missing_message">Đã xảy ra sự cố khi đọc dung lượng pin.</string>
     <string name="battery_not_usage">Không sử dụng kể từ lần sạc đầy gần nhất</string>
     <string name="battery_not_usage_24hr">Không sử dụng pin trong 24 giờ qua</string>
-    <string name="battery_saver_link_a11y">Tìm hiểu thêm về Trình tiết kiệm pin</string>
+    <string name="battery_saver_link_a11y">Tìm hiểu thêm về Tiết kiệm Pin</string>
     <string name="battery_saver_pref_auto_routine_summary">Sẽ bật dựa trên quy trình của bạn</string>
     <string name="battery_saver_sticky_title_percentage">Tắt khi pin còn %1$s</string>
     <string name="battery_summary_24hr">Sử dụng %1$s trong 24 giờ qua</string>
@@ -13234,8 +13234,8 @@ Sau khi kết nối, %2$s sẽ nhận được mọi cuộc gọi đến số %3
     <string name="daily_battery_usage_chart">Biểu đồ mức sử dụng pin hằng ngày</string>
     <string name="dark_mode_display_enable_summary">Chuyển sang giao diện người dùng ánh sáng yếu hiển thị hầu hết các bề mặt tối</string>
     <string name="dark_mode_power_save_alert_dialog_confirm">Tôi biết</string>
-    <string name="dark_mode_power_save_alert_dialog_message">"Nếu bạn tắt tối ưu hệ thống và bật Tiết kiệm pin, Chế độ nền tối sẽ tự động bật.
-Để tắt Chế độ nền tối, tắt Tiết kiệm pin hoặc bật tối ưu hệ thống trong Cài đặt > Tùy chọn nhà phát triển > Bật tối ưu hệ thống."</string>
+    <string name="dark_mode_power_save_alert_dialog_message">"Nếu bạn tắt tối ưu hệ thống và bật Tiết kiệm Pin, Chế độ nền tối sẽ tự động bật.
+Để tắt Chế độ nền tối, tắt Tiết kiệm Pin hoặc bật tối ưu hệ thống trong Cài đặt > Tùy chọn nhà phát triển > Bật tối ưu hệ thống."</string>
     <string name="dark_mode_power_save_alert_dialog_title">Chế độ nền tối</string>
     <string name="dark_theme_main_switch_title">Sử dụng Giao diện tối</string>
     <string name="dark_ui_auto_mode_custom_bedtime">Bật vào giờ đi ngủ</string>
@@ -13585,7 +13585,7 @@ Khu vực nơi bạn có thể xác nhận khóa màn hình sẽ chuyển sang b
     <string name="keywords_auto_click">vận động, chuột</string>
     <string name="keywords_backup_calling">gọi điện dự phòng</string>
     <string name="keywords_battery_adaptive_preferences">lựa chọn ưu tiên về tính năng thích ứng, pin thích ứng</string>
-    <string name="keywords_battery_saver">tiết kiệm pin, tiết kiệm năng lượng, trình tiết kiệm pin, tiết kiệm</string>
+    <string name="keywords_battery_saver">Tiết kiệm Pin, tiết kiệm năng lượng, Tiết kiệm Pin, tiết kiệm</string>
     <string name="keywords_battery_usage">xem mức sử dụng pin, mức sử dụng pin, mức sử dụng năng lượng</string>
     <string name="keywords_biometric_settings">khuôn mặt, vân tay, thêm vân tay</string>
     <string name="keywords_biometric_unlock">khuôn mặt, mở khóa, xác thực, đăng nhập, vân tay, sinh trắc học</string>

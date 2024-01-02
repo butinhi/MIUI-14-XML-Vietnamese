@@ -43,10 +43,10 @@
     <string name="early_warning_feedback_chooser_text">Chọn ứng dụng email</string>
     <string name="early_warning_feedback_subject">Phản hồi về thông báo cảnh báo sớm</string>
     <string name="early_warning_notification_channel_name">Cảnh báo về pin</string>
-    <string name="early_warning_notification_set_up_automatic_bs">Thiết lập lịch Trình tiết kiệm pin</string>
+    <string name="early_warning_notification_set_up_automatic_bs">Thiết lập lịch Tiết kiệm Pin</string>
     <string name="early_warning_notification_text">Thời điểm này là trước khi bạn thường sạc</string>
     <string name="early_warning_notification_title">Pin có thể hết lúc %1$s</string>
-    <string name="early_warning_notification_turn_on_bs">Bật Trình tiết kiệm pin</string>
+    <string name="early_warning_notification_turn_on_bs">Bật Tiết kiệm Pin</string>
     <string name="early_warning_notification_turn_on_once_bs">Bật một lần</string>
     <string name="character_counter_content_description">Đã nhập %1$d trong số %2$d ký tự</string>
     <string name="character_counter_overflowed_content_description">Đã vượt quá giới hạn ký tự %1$d/%2$d</string>

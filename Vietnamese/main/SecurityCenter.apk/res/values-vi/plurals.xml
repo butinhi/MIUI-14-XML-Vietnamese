@@ -310,8 +310,8 @@
 		<item quantity="one">Hiểu rồi (%ds)</item>
 	</plurals>
 	<plurals name="gb_vision_enhance_desc_detail">
-		<item quantity="other">Ghi chú:\n·Hình ảnh nâng cao sẽ không khả dụng khi Trình tiết kiệm pin bật hoặc thiết bị của bạn quá nóng.\n·Tốc độ khung hình thông minh hiển thị kết quả tốt nhất khi trò chơi của bạn được đặt hiển thị ít nhất %d khung hình mỗi giây.</item>
-		<item quantity="one">Ghi chú:\n·Hình ảnh nâng cao sẽ không khả dụng khi Trình tiết kiệm pin bật hoặc thiết bị của bạn quá nóng.\n·Tốc độ khung hình thông minh hiển thị kết quả tốt nhất khi trò chơi của bạn được đặt hiển thị ít nhất %d khung hình mỗi giây.</item>
+		<item quantity="other">Ghi chú:\n·Hình ảnh nâng cao sẽ không khả dụng khi Tiết kiệm Pin bật hoặc thiết bị của bạn quá nóng.\n·Tốc độ khung hình thông minh hiển thị kết quả tốt nhất khi trò chơi của bạn được đặt hiển thị ít nhất %d khung hình mỗi giây.</item>
+		<item quantity="one">Ghi chú:\n·Hình ảnh nâng cao sẽ không khả dụng khi Tiết kiệm Pin bật hoặc thiết bị của bạn quá nóng.\n·Tốc độ khung hình thông minh hiển thị kết quả tốt nhất khi trò chơi của bạn được đặt hiển thị ít nhất %d khung hình mỗi giây.</item>
 	</plurals>
 	<plurals name="gb_voice_changer_toast_tips_window_bubble">
 		<item quantity="other">Hãy thử Trình thay đổi giọng nói ngay bây giờ\nđể được dùng thử miễn phí %d-ngày!</item>
@@ -341,12 +341,12 @@
 		<item quantity="one">Thêm tối đa %d ứng dụng. Nhấn và giữ để sắp xếp lại.</item>
 	</plurals>
 	<plurals name="gtb_brightness_dialog_message">
-		<item quantity="other">Tính năng này tự động giảm độ sáng màn hình sau %d phút không hoạt động để tiết kiệm pin. Tiếp tục bật tính năng này?</item>
-		<item quantity="one">Tính năng này tự động giảm độ sáng màn hình sau %d phút không hoạt động để tiết kiệm pin. Tiếp tục bật tính năng này?</item>
+		<item quantity="other">Tính năng này tự động giảm độ sáng màn hình sau %d phút không hoạt động để Tiết kiệm Pin. Tiếp tục bật tính năng này?</item>
+		<item quantity="one">Tính năng này tự động giảm độ sáng màn hình sau %d phút không hoạt động để Tiết kiệm Pin. Tiếp tục bật tính năng này?</item>
 	</plurals>
 	<plurals name="gtb_setting_item_summary_brightness">
-		<item quantity="other">Tự động giảm độ sáng màn hình để tiết kiệm pin sau %d phút không hoạt động</item>
-		<item quantity="one">Tự động giảm độ sáng màn hình để tiết kiệm pin sau %d phút không hoạt động</item>
+		<item quantity="other">Tự động giảm độ sáng màn hình để Tiết kiệm Pin sau %d phút không hoạt động</item>
+		<item quantity="one">Tự động giảm độ sáng màn hình để Tiết kiệm Pin sau %d phút không hoạt động</item>
 	</plurals>
 	<plurals name="gtb_spring_festival_colored_egg">
 		<item quantity="other">Chúc mừng! Bạn đã mở khóa trứng Phục sinh %s.</item>
@@ -552,8 +552,8 @@
 		<item quantity="one">vấn đề sử dụng pin %d</item>
 	</plurals>
 	<plurals name="notification_power_consume_suggest">
-		<item quantity="other">Tối ưu hóa %d mục để tiết kiệm pin</item>
-		<item quantity="one">Tối ưu hóa %d mục để tiết kiệm pin</item>
+		<item quantity="other">Tối ưu hóa %d mục để Tiết kiệm Pin</item>
+		<item quantity="one">Tối ưu hóa %d mục để Tiết kiệm Pin</item>
 	</plurals>
 	<plurals name="notification_title_cmcc_app_check">
 		<item quantity="other">%d ngày kể từ lần kiểm tra cuối cùng</item>
@@ -1028,12 +1028,12 @@
 		<item quantity="one">%d mục có thể được tối ưu hóa</item>
 	</plurals>
 	<plurals name="power_center_battery_suggest">
-		<item quantity="other">Tối ưu hóa %d mục để tiết kiệm pin</item>
-		<item quantity="one">Tối ưu hóa %d mục để tiết kiệm pin</item>
+		<item quantity="other">Tối ưu hóa %d mục để Tiết kiệm Pin</item>
+		<item quantity="one">Tối ưu hóa %d mục để Tiết kiệm Pin</item>
 	</plurals>
 	<plurals name="power_center_battery_suggest_result">
-		<item quantity="other">Bạn có thể tối ưu hóa %d mục để tiết kiệm pin</item>
-		<item quantity="one">Bạn có thể tối ưu hóa %d mục để tiết kiệm pin</item>
+		<item quantity="other">Bạn có thể tối ưu hóa %d mục để Tiết kiệm Pin</item>
+		<item quantity="one">Bạn có thể tối ưu hóa %d mục để Tiết kiệm Pin</item>
 	</plurals>
 	<plurals name="power_center_battery_temperature">
 		<item quantity="other">%d oC</item>

@@ -196,7 +196,7 @@ Bạn phải đồng ý với Chính sách Riêng tư Kika trước khi sử d�
 	<string name="permission_screen_shoot_introduction">Để truy cập và lưu quay phim màn hình</string>
 	<string name="fast_application_introduction">Khung Ứng dụng nhanh cho phép bạn tạo và cung cấp dịch vụ trong ứng dụng nhanh.</string>
 	<string name="permission_location_introduction">Để cung cấp các dịch vụ dựa trên vị trí</string>
-	<string name="security_introduction">Bạn có thể sử dụng ứng dụng này để dọn dẹp rác trên thiết bị của bạn, tìm và vô hiệu hóa virus, tối ưu hóa hiệu suất để chơi game, tiết kiệm pin, quản lý ứng dụng, quyền và hơn thế nữa.</string>
+	<string name="security_introduction">Bạn có thể sử dụng ứng dụng này để dọn dẹp rác trên thiết bị của bạn, tìm và vô hiệu hóa virus, tối ưu hóa hiệu suất để chơi game, Tiết kiệm Pin, quản lý ứng dụng, quyền và hơn thế nữa.</string>
 	<string name="recorder_introduction">Bạn có thể sử dụng ứng dụng này để ghi âm và sao lưu ghi âm lên đám mây.</string>
 	<string name="servicestate_title">Tuyên bố về các dịch vụ cơ bản</string>
 	<string name="download_introduction">Ứng dụng này quản lý tất cả tải xuống của bạn, bao gồm những mục đã xong trong GetApps, Mi Video, Cập nhât, Chủ đề, và Trình duyệt.</string>
@@ -622,7 +622,7 @@ Bạn cần đọc và đồng ý với Chính sách Riêng tư Mint Keyboard tr
 	<string name="terms_of_use_label_wallpaper">Hình nền</string>
 	<string name="terms_of_use_label_home">Màn hình chính</string>
 	<string name="terms_of_use_label_power_detection">Trình nhận biết năng lượng</string>
-	<string name="terms_of_use_label_power_performance">Tiết kiệm pin</string>
+	<string name="terms_of_use_label_power_performance">Tiết kiệm Pin</string>
 	<string name="terms_of_use_label_quickapp">Ứng dụng nhanh</string>
 	<string name="terms_of_use_label_htmlviewer">Trình xem HTML</string>
 	<string name="terms_of_use_label_joyose">Trí tuệ xuất sắc</string>

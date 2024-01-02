@@ -1880,7 +1880,7 @@ In dễ dàng trên khổ A4"</string>
 	<string name="film_timefreeze">Tip bật</string>
 	<string name="color_effect_entry_new_6_describe">Giới thiệu về bộ lọc</string>
 	<string name="dual_video_user_guide_main_content">Để tạo video nhiều video, hãy chọn hai camera trên thiết bị của bạn và quay đồng thời. Các bản ghi có thể được lưu trữ riêng biệt hoặc được kết hợp trong một chế độ xem chia đôi hoặc video hình trong hình.</string>
-	<string name="pref_camera_auto_hibernation_description">Tắt màn hình sau %d phút chụp để tiết kiệm pin</string>
+	<string name="pref_camera_auto_hibernation_description">Tắt màn hình sau %d phút chụp để Tiết kiệm Pin</string>
 	<string name="professional_shortcut_short">Nghề nghiệp</string>
 	<string name="color_effect_entry_new_bbp_describe">Giới thiệu về bộ lọc</string>
 	<string name="film_timefreeze_reset">Đặt lại tip</string>

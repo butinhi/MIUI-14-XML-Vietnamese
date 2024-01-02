@@ -38,7 +38,7 @@
     <string name="basic_info_label_weight">Cân nặng</string>
     <string name="basic_info_save">Lưu</string>
     <string name="bg_control_dialog_go_set">Cài đặt</string>
-    <string name="bg_control_dialog_msg">Tiết kiệm pin sẽ giới hạn hoạt động nền của Sức khỏe Mi. Cho phép Sức khỏe Mi luôn chạy trong nền để số liệu thống kê được chính xác.</string>
+    <string name="bg_control_dialog_msg">Tiết kiệm Pin sẽ giới hạn hoạt động nền của Sức khỏe Mi. Cho phép Sức khỏe Mi luôn chạy trong nền để số liệu thống kê được chính xác.</string>
     <string name="bg_control_dialog_title">Giới hạn nền</string>
     <string name="cancel">Hủy</string>
     <string name="cancel_mark_end">Kỳ kinh nguyệt chưa kết thúc</string>
@@ -1178,7 +1178,7 @@ Nếu sự cố này xảy ra thường xuyên, hãy kiểm tra thiết bị c�
 	<string name="close_stand_notice_tip">Bắt đầu theo dõi đứng dậy</string>
 	<string name="body_water">Nước</string>
 	<string name="sleep_detection_guide_three_title">Tự động tạo thống kê</string>
-	<string name="exercise_question_answer_one">"1.Một số kiểu thiết bị không được trang bị cảm biến tiêu thụ điện năng thấp. Sức khỏe Xiaomi không theo dõi dữ liệu hoạt động để tiết kiệm pin trên các thiết bị sau: Redmi 1S, Redmi 2A, Redmi 2, Redmi 3, Redmi Pro, Redmi Note, Redmi Note 2, Redmi Note 3, Redmi Note 4, Mi 2, Mi 3, Mi 4.
+	<string name="exercise_question_answer_one">"1.Một số kiểu thiết bị không được trang bị cảm biến tiêu thụ điện năng thấp. Sức khỏe Xiaomi không theo dõi dữ liệu hoạt động để Tiết kiệm Pin trên các thiết bị sau: Redmi 1S, Redmi 2A, Redmi 2, Redmi 3, Redmi Pro, Redmi Note, Redmi Note 2, Redmi Note 3, Redmi Note 4, Mi 2, Mi 3, Mi 4.
 Nếu thiết bị của bạn nằm trong danh sách này, bạn có thể thêm nguồn dữ liệu thủ công trong Sức khỏe Xiaomi &gt; Menu &gt; Nguồn dữ liệu &gt; Thêm nguồn dữ liệu."</string>
 	<string name="dialog_allow">Cho phép</string>
 	<string name="exercise_sum">Báo cáo tập luyện</string>
@@ -1276,7 +1276,7 @@ Nếu thiết bị của bạn nằm trong danh sách này, bạn có thể thê
 	<string name="welcome_sedentary_description">"Sức khỏe Xiaomi có thể nhắc bạn đứng khi bạn ngồi quá lâu"</string>
 	<string name="exercise_speed">Tốc độ</string>
 	<string name="sleep_detection_question_one_answer_1">"Các pha ngủ sâu và ngủ ngắn được phát hiện dựa trên dữ liệu chuyển động cơ thể được thu thập bởi các cảm biến của thiết bị. Đây là lý do tại sao bạn không thể xem số liệu thống kê:
-1. Sức khỏe Xiaomi không thể thu thập dữ liệu. Điều này có thể xảy ra khi thiết bị của bạn tắt nguồn trong khi bạn đang ngủ, pin quá yếu hoặc ứng dụng không được phép hoạt động ở chế độ nền. Cho phép Sức khỏe Xiaomi tự động khởi động, thêm nó vào các ngoại lệ tiết kiệm pin và khóa nó ở chế độ nền để ngăn điều này xảy ra.
+1. Sức khỏe Xiaomi không thể thu thập dữ liệu. Điều này có thể xảy ra khi thiết bị của bạn tắt nguồn trong khi bạn đang ngủ, pin quá yếu hoặc ứng dụng không được phép hoạt động ở chế độ nền. Cho phép Sức khỏe Xiaomi tự động khởi động, thêm nó vào các ngoại lệ Tiết kiệm Pin và khóa nó ở chế độ nền để ngăn điều này xảy ra.
 2. Sức khỏe Xiaomi không thể phân tích dữ liệu thu thập được. Điều này có thể xảy ra khi điện thoại của bạn được đặt quá xa cơ thể khi bạn ngủ. Ngoài ra, chuyển động cơ thể của bạn có thể quá ít để có thể thay đổi chu kỳ giấc ngủ của bạn. Chúng tôi liên tục cải tiến các thuật toán của mình để giúp Sức khỏe Xiaomi phân tích giấc ngủ của bạn tốt hơn."</string>
 	<string name="welcome_sleep_description">Đặt điện thoại bên cạnh bạn để tìm hiểu về chu kỳ giấc ngủ của bạn vào buổi sáng</string>
 	<string name="welcome_sleep">Phân tích chu kỳ ngủ</string>
@@ -1677,7 +1677,7 @@ Bắt đầu lại."</string>
 	<string name="start_walking">Bắt đầu đi bộ</string>
 	<string name="setting_walking_goals">Đặt mục tiêu đi bộ</string>
 	<string name="gps_no_signal_hint">"Tín hiệu GPS hiện tại không cho phép theo dõi quá trình tập luyện của bạn và ghi lại các tuyến đường. Đi đến một khu vực ngoài trời bằng phẳng, thoáng đãng."</string>
-	<string name="snore_detection_close_prompt_desc">"Bạn đã không phát hiện ra tiếng ngáy và nói mơ trong một thời gian. Chúng tôi đã tắt tính năng này để bạn tiết kiệm pin. Nhấn để kiểm tra cài đặt."</string>
+	<string name="snore_detection_close_prompt_desc">"Bạn đã không phát hiện ra tiếng ngáy và nói mơ trong một thời gian. Chúng tôi đã tắt tính năng này để bạn Tiết kiệm Pin. Nhấn để kiểm tra cài đặt."</string>
 	<string name="hr_fp_report_common_desc">Nhịp tim bình thường dao động từ 60 đến 100 nhịp mỗi phút. Nhịp tim thấp hơn 60 BPM là dấu hiệu của nhịp tim chậm, trong khi nhịp tim trên 100 BPM được coi là nhịp tim nhanh ở người lớn.</string>
 	<string name="sporting_hint_exit_map">Đóng bản đồ</string>
 	<string name="sporting_content_speed">Tốc độ hiện tại: %1$s %2$s mỗi km</string>

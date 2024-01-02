@@ -1329,7 +1329,7 @@ Tính năng liên quan đến mã PIN2 sẽ bị khóa sau khi lần thử khôn
     <string name="preferred_network_type_pref_entries_5g_preferred">Ưu tiên 5G</string>
     <string name="preferred_network_type_pref_entries_auto">Tự động</string>
     <string name="preferred_network_type_pref_entries_global">Toàn cầu</string>
-    <string name="preferred_network_type_pref_entries_only_2g">Chỉ 2G (tiết kiệm pin)</string>
+    <string name="preferred_network_type_pref_entries_only_2g">Chỉ 2G (Tiết kiệm Pin)</string>
     <string name="preferred_network_type_pref_entries_only_2g_lm_cr">Chỉ GSM</string>
     <string name="preferred_network_type_pref_entries_only_3g">Chỉ 3G</string>
     <string name="preferred_network_type_pref_entries_only_3g_lm_cr">Chỉ WCDMA</string>

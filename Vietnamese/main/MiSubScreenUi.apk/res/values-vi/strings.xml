@@ -328,7 +328,7 @@
 	<string name="pm">CH</string>
 	<string name="the_fifth_day">Mùng 5 Tết Nguyên Đán</string>
 	<string name="page_detail_publish_time_gallery_label">"Đã thêm: "</string>
-	<string name="subscreen_other_wilderness_title">Siêu tiết kiệm pin</string>
+	<string name="subscreen_other_wilderness_title">Siêu Tiết kiệm Pin</string>
 	<string name="subscreen_settings_style">Chủ đề màn hình sau</string>
 	<string name="fmt_date_long_month_day">dd MMMM</string>
 	<string name="wireless_change_to_ac_charging">Chuyển sang sạc có dây</string>
@@ -344,14 +344,14 @@
 	<string name="gallery_page_name">Từ thư viện</string>
 	<string name="alarm_close">Vuốt lên để tắt</string>
 	<string name="fmt_date_numeric_year_month_day">d/M/yyyy</string>
-	<string name="subscreen_other_wilderness_summary">"Siêu tiết kiệm năng lượng sẽ vô hiệu hóa màn hình chính. Bạn sẽ chỉ có thể xem thời gian, chấp nhận cuộc gọi và gọi cho số liên lạc khẩn cấp của mình bằng cách sử dụng màn hình phía sau. Thiết bị của bạn sẽ có thể hoạt động trong tối đa %d ngày chỉ với một lần sạc khi bật Siêu tiết kiệm pin."</string>
+	<string name="subscreen_other_wilderness_summary">"Siêu tiết kiệm năng lượng sẽ vô hiệu hóa màn hình chính. Bạn sẽ chỉ có thể xem thời gian, chấp nhận cuộc gọi và gọi cho số liên lạc khẩn cấp của mình bằng cách sử dụng màn hình phía sau. Thiết bị của bạn sẽ có thể hoạt động trong tối đa %d ngày chỉ với một lần sạc khi bật Siêu Tiết kiệm Pin."</string>
 	<string name="sub_screen_app_name">Màn hình phía sau</string>
 	<string name="small_display_style">Chủ đề màn hình sau</string>
 	<string name="color_change_with_time_title">Tự động đổi màu</string>
 	<string name="fmt_date_short_year_month_day">dd/MM/yyyy</string>
 	<string name="aod_signature_12">hh:mm aa</string>
 	<string name="subscreen_settings_mode">Tắt sau</string>
-	<string name="subscreen_other_dialog_title">Siêu tiết kiệm pin</string>
+	<string name="subscreen_other_dialog_title">Siêu Tiết kiệm Pin</string>
 	<string name="font_thickness">Độ đậm phông chữ</string>
 	<string name="letter_space">Khoảng cách ký tự</string>
 	<string name="subscreen_switch_content_summary">Hiển thị nội dung thông báo trên màn hình phía sau</string>
@@ -365,7 +365,7 @@
 	<string name="fmt_date_numeric_month_day">d/M</string>
 	<string name="step_to_image_community">Tìm thêm tại Mi Community</string>
 	<string name="material_clock_toggle_content_description">Chọn AM hay PM</string>
-	<string name="subscreen_other_next_dialog_message">Bạn cần thêm số liên hệ khẩn cấp trước khi sử dụng Siêu tiết kiệm pin. Thêm ngay?</string>
+	<string name="subscreen_other_next_dialog_message">Bạn cần thêm số liên hệ khẩn cấp trước khi sử dụng Siêu Tiết kiệm Pin. Thêm ngay?</string>
 	<string name="clock_panel_icon">Chủ đề đồng hồ</string>
 	<string name="material_hour_selection">Chọn giờ</string>
 	<string name="bottomsheet_action_expand_halfway">Mở rộng một nửa</string>
@@ -387,7 +387,7 @@ d/M"</string>
 	<string name="subscreen_nightmode_summary">Sau khi mở，Tự động tắt sau 22:00-7:00</string>
 	<string name="subscreen_could_edit_pic">Kéo ảnh để thu phóng, nhấn giữ để xóa</string>
 	<string name="subscreen_nightmode_title">Không làm phiền ở chế độ ban đêm</string>
-	<string name="wilderness_is_starting">Đang bật Siêu tiết kiệm pin…</string>
+	<string name="wilderness_is_starting">Đang bật Siêu Tiết kiệm Pin…</string>
 	<string name="sps_cancel">Nhấn giữ để thoát</string>
 	<string name="add_emergency_contact">Thêm Liên hệ khẩn cấp</string>
 	<string name="contentDescripton_back">Quay lại</string>

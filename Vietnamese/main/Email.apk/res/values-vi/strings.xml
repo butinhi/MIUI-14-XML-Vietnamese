@@ -223,8 +223,8 @@
     <string name="automatic_remind_text">Nhắc nhở tự động</string>
     <string name="back">Quay lại</string>
     <string name="bank_card_detail">Chi tiết thẻ tín dụng</string>
-    <string name="battery_saver">Tiết kiệm pin</string>
-    <string name="battery_saver_keywords">tiết kiệm pin;pin mail</string>
+    <string name="battery_saver">Tiết kiệm Pin</string>
+    <string name="battery_saver_keywords">Tiết kiệm Pin;pin mail</string>
     <string name="bcc">Bcc</string>
     <string name="bill_center_setting">Cài đặt hóa đơn</string>
     <string name="bill_center_setting_head">Nhập thông tin từ các tài khoản này</string>
@@ -396,7 +396,7 @@
     <string name="email_netease">NetEase Mail</string>
     <string name="email_qq">QQ Mail</string>
     <string name="email_setting">Thư</string>
-    <string name="email_setting_keywords">Tài khoản;Thêm tài khoản;tài khoản mail;thêm tài khoản mail;xác nhận trước khi xóa;xác nhận xóa;xác nhận trước khi gửi;xác nhận gửi;tự động di chuyển;di chuyển;xem hội thoại;hội thoại mail;tiết kiệm pin;pin mail;gửi phản hồi;tải bản ghi lên</string>
+    <string name="email_setting_keywords">Tài khoản;Thêm tài khoản;tài khoản mail;thêm tài khoản mail;xác nhận trước khi xóa;xác nhận xóa;xác nhận trước khi gửi;xác nhận gửi;tự động di chuyển;di chuyển;xem hội thoại;hội thoại mail;Tiết kiệm Pin;pin mail;gửi phản hồi;tải bản ghi lên</string>
     <string name="email_sina">Sina Mail</string>
     <string name="eml_parse_message">Đang mở tập tin EML…</string>
     <string name="empty_account_tip">Không thể tìm thấy tài khoản</string>
@@ -874,8 +874,8 @@ Hãy thử hộp thư khác."</string>
     <string name="save_action">Lưu</string>
     <string name="save_attachment">Lưu</string>
     <string name="save_draft_failed">Lưu thư nháp thất bại</string>
-    <string name="save_power_summary">Thiết lập thời gian tiết kiệm pin</string>
-    <string name="save_power_title">Tiết kiệm pin</string>
+    <string name="save_power_summary">Thiết lập thời gian Tiết kiệm Pin</string>
+    <string name="save_power_title">Tiết kiệm Pin</string>
     <string name="save_this_new_signature">Lưu chữ ký mới?</string>
     <string name="saved">Đã lưu, %s</string>
     <string name="saving">Đang lưu…</string>

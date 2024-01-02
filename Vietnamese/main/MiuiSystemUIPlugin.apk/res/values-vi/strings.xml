@@ -386,7 +386,7 @@
 	<string name="miui_guide_dialog_message">Âm thanh phương tiện (nhạc, video, v.v.) sẽ vẫn được phát trong chế độ Im lặng. Bạn có thể thay đổi trong Cài đặt.</string>
 	<string name="miui_toast_zen_to_dnd">Đã bật Không làm phiền. Đã tắt âm thanh và rung</string>
 	<string name="power_off">Tắt nguồn</string>
-	<string name="wireless_charging_saver_message">Tiết kiệm pin đang bật. Vẫn bật sạc không dây ngược?</string>
+	<string name="wireless_charging_saver_message">Tiết kiệm Pin đang bật. Vẫn bật sạc không dây ngược?</string>
 	<string name="wireless_charging_tips_title">Sạc không dây ngược</string>
 	<string name="wireless_charging_saver_ok">Giữ</string>
 	<string name="miui_ringer_total_description">Im lặng và tắt rung (trừ báo thức)</string>
@@ -526,7 +526,7 @@ Việc nghe ở mức âm lượng cao trong thời gian dài có thể gây t�
 	<string name="close_invisible_mode_dialog_title">"Bạn đang ẩn danh"</string>
 	<string name="qs_control_big_tile_state_connected">Đã kết nối</string>
 	<string name="quick_settings_sim_disabled">" (Đã tắt)"</string>
-	<string name="quick_settings_batterysaver_label">Tiết kiệm pin</string>
+	<string name="quick_settings_batterysaver_label">Tiết kiệm Pin</string>
 	<string name="torch_high_temperature_warning">Thiết bị của bạn bị quá nhiệt. Không thể mở đèn pin.</string>
 	<string name="quick_settings_cellular_detail_dialog_message_turnon">Dữ liệu di động sẽ được bật. Kết nối với mạng di động có thể phát sinh chi phí tùy thuộc vào gói cước của bạn.</string>
 	<string name="accessibility_detail_switch_disable">Không khả dụng</string>
@@ -549,7 +549,7 @@ Việc nghe ở mức âm lượng cao trong thời gian dài có thể gây t�
 	<string name="accessibility_settings">Cài đặt</string>
 	<string name="quick_settings_more_settings">Thêm cài đặt</string>
 	<string name="quick_settings_sync_label">Đồng bộ</string>
-	<string name="quick_settings_extreme_batterysaver_label">Siêu tiết kiệm pin</string>
+	<string name="quick_settings_extreme_batterysaver_label">Siêu Tiết kiệm Pin</string>
 	<string name="quick_settings_nightmode_label">Chế độ tối</string>
 	<string name="quick_settings_wifi_detail_dual_wifi_switching_summary">Tăng tốc Wi-Fi băng tần kép cần sử dụng hai băng tần Wi-Fi. Nếu bạn kết nối với một mạng chính khác, kết nối phụ sẽ bị mất.</string>
 	<string name="quick_settings_wifi_detail_dual_wifi_switching_confirm">Xác nhận</string>

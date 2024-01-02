@@ -44,7 +44,7 @@
     <string name="gs_auto_clean_memory_detail">Xóa bộ nhớ đệm tự động để tối ưu trò chơi</string>
     <string name="gs_anto_clean_memory_whitelist">Danh sách ngoại lệ</string>
     <string name="gs_app_back_self_start">Tiết kiệm Pin</string>
-    <string name="gs_only_self_start_for_list">Giới hạn tiến trình nền để tiết kiệm pin cho trò chơi</string>
+    <string name="gs_only_self_start_for_list">Giới hạn tiến trình nền để Tiết kiệm Pin cho trò chơi</string>
     <string name="gs_game_shortcut">Tận hưởng trải nghiệm game mượt mà</string>
     <string name="gs_game_net_priority">Ưu tiên kết nối</string>
     <string name="gs_game_net_priority_detail">Giới hạn tốc độ tải xuống để có đủ băng thông cho trò chơi</string>
@@ -113,7 +113,7 @@
     <string name="setting">Cài đặt</string>
     <string name="loading">Vui lòng chờ…</string>
     <string name="auto_import_games">Đặt tất cả trò chơi vào một nơi</string>
-    <string name="game_more_improve">Giới hạn hoạt động nền và tốc độ tải xuống để tiết kiệm pin và băng thông cho trò chơi</string>
+    <string name="game_more_improve">Giới hạn hoạt động nền và tốc độ tải xuống để Tiết kiệm Pin và băng thông cho trò chơi</string>
     <string name="dont_bore">Đừng để phím và thông báo làm rối bạn</string>
     <string name="release_memory">Xóa bộ nhớ đệm</string>
     <string name="start">Bắt đầu</string>
@@ -276,10 +276,10 @@
 	<string name="superpower_progress_left_time">%1$d giờ %2$d phút</string>
 	<string name="superpower_search_hint">Tìm kiếm ứng dụng</string>
 	<string name="superpower_select_app_title">Bố cục Màn hình chính</string>
-	<string name="superpower_settings">Siêu tiết kiệm pin</string>
+	<string name="superpower_settings">Siêu Tiết kiệm Pin</string>
 	<string name="superpower_system">Đề xuất</string>
 	<string name="superpower_third">Ứng dụng bên thứ ba</string>
-	<string name="superpower_exit_hint">Đang tắt Siêu tiết kiệm pin…</string>
+	<string name="superpower_exit_hint">Đang tắt Siêu Tiết kiệm Pin…</string>
 	<string name="gdpr_msg">&lt;Data&gt;Để sử dụng các tính năng cơ bản của Bảo mật, bạn phải đồng ý rằng Xiaomi sẽ thu thập, xử lý và sử dụng dữ liệu cá nhân của bạn, bao gồm thông tin cách bạn sử dụng các tính năng của Bảo mật (v.d., thống kê sử dụng dữ liệu di động, thông tin về malware, cũng như thông tin cơ bản về thiết bị của bạn) và các loại thông tin khác được chỉ định tại &lt;a href=\"http://www.miui.com/res/doc/privacy.html?region=%1$s&amp;amp;lang=%2$s\"&gt;Chính sách Riêng tư&lt;/a&gt; của chúng tôi.&lt;/Data&gt;</string>
 	<string name="guide_desc_1">Cha mẹ hoàn toàn nắm bắt và quản lý việc sử dụng của bé</string>
 	<string name="guide_desc_2">"Tùy chỉnh ứng dụng cho trẻ em
@@ -298,7 +298,7 @@ An toàn, chất lượng, phát triển"</string>
 	<string name="camera_perm_dialog_title">Nhắc nhở</string>
 	<string name="superpower_app_phone">Điện thoại</string>
 	<string name="camera_perm_dialog_btn_ok">Cho phép</string>
-	<string name="superpower_settings_launcher">Siêu tiết kiệm pin</string>
+	<string name="superpower_settings_launcher">Siêu Tiết kiệm Pin</string>
 	<string name="superpower_app_delete">Xóa</string>
 	<string name="superpower_app_mms">Tin nhắn</string>
 	<string name="superpower_toast_app_select_full">Bạn có thể thêm tới 6 mục vào ứng dụng thường dùng</string>

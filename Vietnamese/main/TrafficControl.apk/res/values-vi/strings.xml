@@ -82,7 +82,7 @@
     <string name="v2_app_blocking_mobile_info">Chạm bất cứ ứng dụng ở bên trái để chặn không cho nó sử dụng dữ liệu.</string>
     <string name="v2_app_blocking_no_apps_blocked">Không ứng dụng nào bị chặn</string>
     <string name="v2_app_blocking_savings">Chạm bất cứ ứng dụng nào phía bên trái để tắt chế độ tiết kiệm của Opera Max.</string>
-    <string name="v2_app_blocking_wifi_info">Chặn không cho ứng dụng sử dụng Wi‑Fi sẽ có thể tiết kiệm pin.</string>
+    <string name="v2_app_blocking_wifi_info">Chặn không cho ứng dụng sử dụng Wi‑Fi sẽ có thể Tiết kiệm Pin.</string>
     <string name="v2_app_control_list_collapse_apps">Ẩn các ứng dụng khác</string>
     <string name="v2_app_control_list_expand_apps">Hiển thị các ứng dụng khác</string>
     <string name="v2_app_pass_activated">Đã kích hoạt thẻ</string>

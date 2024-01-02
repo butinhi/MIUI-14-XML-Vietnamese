@@ -97,8 +97,8 @@
 	<string name="time_location">Vị trí đồng hồ</string>
 	<string name="below_image">Dưới</string>
 	<string name="photo_editor_saving">Đang lưu…</string>
-	<string name="disable_aod_in_power_save_mode">Tắt khi bật Tiết kiệm pin</string>
-	<string name="disable_aod_in_power_save_mode_summary">"Không hiển thị các mục để tiết kiệm pin"</string>
+	<string name="disable_aod_in_power_save_mode">Tắt khi bật Tiết kiệm Pin</string>
+	<string name="disable_aod_in_power_save_mode_summary">"Không hiển thị các mục để Tiết kiệm Pin"</string>
 	<string name="aod_lock_screen_date_12_signature">d/M</string>
 	<string name="aod_lock_screen_date_signature">d/M</string>
 	<string name="theme_cate_title">Chủ đề</string>
