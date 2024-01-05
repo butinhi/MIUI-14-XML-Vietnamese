@@ -683,7 +683,7 @@ Bạn cần đọc và đồng ý với Chính sách Riêng tư Mint Keyboard tr
 	<string name="miuix_access_state_desc">Đã chọn</string>
 	<string name="terms_of_use_label_mi_account">Tài khoản Mi</string>
 	<string name="fmt_time_minute">"m 'phút'"</string>
-	<string name="terms_of_use_label_miuiDaemon"Hệ thống Daemon</string>
+	<string name="terms_of_use_label_miuiDaemon">Hệ thống Daemon</string>
 	<string name="miuix_indexer_selected">Đã chọn %s</string>
 	<string name="permission_read_app_list">nhận thông tin về ứng dụng đã cài đặt trên thiết bị</string>
 	<string name="service_name_bluetooth">Chế độ ngủ cơ bản</string>
