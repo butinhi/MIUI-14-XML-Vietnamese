@@ -312,7 +312,7 @@
     <string name="catch_full_log_add_photo">Thêm ảnh</string>
     <string name="catch_full_log_add_photo_dialog_content">Nếu sự cố bạn đang báo cáo có liên quan đến chất lượng hình ảnh của máy ảnh, hãy thêm ảnh mẫu gốc (chưa được cắt) để giúp chúng tôi xác định sự cố. Thêm ảnh ngay?</string>
     <string name="catch_full_log_dialog_confirm_text">Vào Màn hình chính</string>
-    <string name="catch_full_log_dialog_content">MIUI đang tạo nhật ký. Điều này có thể ảnh hưởng đến hiệu suất của thiết bị. Nếu bạn không thể tạo lại vấn đề bạn muốn báo cáo, hãy quay lại nhật ký và chạm \"Hủy\".</string>
+    <string name="catch_full_log_dialog_content">"Điều này có thể ảnh hưởng đến hiệu suất tổng thể của thiết bị. Nếu bạn không thể tái tạo sự cố bạn muốn báo cáo, hãy quay lại nhật ký và nhấn \"Hủy\"."</string>
     <string name="catch_full_log_dump_hprof_failed">Không thể tạo nhật ký treo máy</string>
     <string name="catch_full_log_item_content_catch_direct">"1. Quay lại tính năng bạn muốn báo cáo và thực hiện lại.
 2. Quay lại trang này và chạm \"Kết thúc và tải lên\"."</string>

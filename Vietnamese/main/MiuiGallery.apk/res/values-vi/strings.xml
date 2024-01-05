@@ -1409,7 +1409,7 @@ Chụp nhiều ảnh bạn của bạn hơn!"</string>
     <string name="story_download_without_wifi_msg">Sử dụng kết nối dữ liệu di động để tải xuống tập tin sẽ làm tăng sử dụng dữ liệu. Nếu bạn sử dụng quá giới hạn dữ liệu mà bạn đăng ký, nhà cung cấp dịch vụ sẽ tính phí bổ sung.</string>
     <string name="story_download_without_wifi_title">Cảnh báo sử dụng dữ liệu</string>
     <string name="story_photo_downloading">Đang tải xuống…</string>
-	<string name="alert_selection_description">MIUI sẽ phân tích các ảnh tương tự nhau và đánh dấu ảnh đẹp nhất.</string>
+	<string name="alert_selection_description">Thư viện sẽ phân tích những bức ảnh tương tự và đánh dấu những bức ảnh đẹp nhất cho bạn.</string>
 	<string name="alert_selection_title">Chọn ảnh đẹp nhất</string>
     <string name="card_description_annual_events">Thời gian quý báu dành cho nhau</string>
     <string name="card_description_annual_foods">Nhật ký của người sành ăn</string>
@@ -1464,8 +1464,8 @@ Chụp nhiều ảnh bạn của bạn hơn!"</string>
     <string name="filter_bi_sepia">Nâu đỏ</string>
     <string name="filter_bi_tea">Trà</string>
     <string name="filter_people_bw">Đen&amp;Trắng</string>
-    <string name="generate_story_summary">MIUI sẽ phân tích ảnh của bạn và tạo album Kỷ niệm. Tắt tính năng này để dừng tạo album Kỷ niệm.</string>
-    <string name="image_selection_summary">MIUI sẽ phân tích các bức ảnh tương tự và đánh dấu những bức ảnh đẹp nhất cho bạn. Tắt tính năng này để xóa dấu khỏi ảnh.</string>
+    <string name="generate_story_summary">"Chụp đủ ảnh, cắm sạc, tắt màn hình để làm kỷ niệm hiện lên. Những kỷ niệm đã tạo sẽ không biến mất nếu bạn tắt tính năng này."</string>
+    <string name="image_selection_summary">Thư viện sẽ phân tích những bức ảnh tương tự và đánh dấu những bức ảnh đẹp nhất cho bạn. Tắt tính năng này để xóa dấu khỏi ảnh.</string>
     <string name="image_selection_title">Chọn ảnh đẹp nhất</string>
     <string name="operation_set_video_wallpaper">Đặt làm video nền</string>
     <string name="photo_editor_font_default">Mi Lanting (Mặc định)</string>
