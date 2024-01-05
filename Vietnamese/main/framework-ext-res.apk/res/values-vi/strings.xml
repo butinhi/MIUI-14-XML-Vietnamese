@@ -540,4 +540,5 @@
 	<string name="mw_guide_dialog_button_confirm">Tôi biết</string>
 	<string name="relaunch_dialog_button_confirm">Khởi động lại</string>
 	<string name="relaunch_action">Khởi động lại</string>
+	<string name="softap_stat_toast">Điểm phát sóng đang bật</string>
 </resources>

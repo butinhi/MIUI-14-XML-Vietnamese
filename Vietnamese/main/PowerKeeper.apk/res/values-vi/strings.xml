@@ -48,7 +48,7 @@
     <string name="config_restrict_function_title">Hạn chế ứng dụng nền</string>
     <string name="config_restrict_running_title">Hạn chế hoạt động nền</string>
     <string name="config_restrict_running_warning">Ứng dụng chạy nền sẽ bị đóng, điều này có thể ảnh hưởng đến việc sử dụng</string>
-    <string name="config_description">MIUI có thể xác minh ứng dụng với tiến trình nền cụ thể (ví dụ ứng dụng nhắn tin, điều hướng, máy nghe nhạc), và áp dụng Tiết kiệm Pin mà không ảnh hưởng đến hoạt động nền quan trọng.</string>
+    <string name="config_description">Thiết bị của bạn có thể xác định các ứng dụng có quy trình nền cụ thể (ví dụ: ứng dụng nhắn tin và điều hướng, trình phát phương tiện) và áp dụng Tiết kiệm pin theo cách không ảnh hưởng đến hoạt động quan trọng trong nền.</string>
     <string name="config_suggest_description">"Xác minh ứng dụng và hoạt động để đảm bảo tiến trình quan trọng tiếp tục.
 Tiết kiệm Pin sẽ xử lý ứng dụng quan trọng một cách có chọn lọc."</string>
     <string name="config_no_restrict_description">Tiết kiệm Pin không hạn chế hoạt động ứng dụng</string>

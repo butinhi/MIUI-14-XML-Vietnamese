@@ -1550,7 +1550,7 @@ Bạn sẽ thấy ảnh mới mỗi giờ."</string>
 	<string name="no_more_notice">Không hiển thị lại</string>
 	<string name="create_home_icon">Lối tắt Màn hình chính</string>
 	<string name="exo_controls_shuffle_on_description">Bật trộn bài</string>
-	<string name="restore_home_icon_text">Thêm một Lối tắt Màn hình chính</string>
+	<string name="restore_home_icon_text">Thêm lối tắt Màn hình chính</string>
 	<string name="exo_controls_hide">Ẩn điều khiển trình phát</string>
 	<string name="exo_controls_fullscreen_enter_description">Vào toàn màn hình</string>
 	<string name="exo_controls_vr_description">Chế độ VR</string>
@@ -1785,4 +1785,8 @@ Tất cả các mục cá nhân hóa hiện đang được sử dụng trên thi
 	<string name="custom_widget">Tiện ích được đề xuất</string>
 	<string name="personalize_second_space_not_support_buy_widget">"Không thể mua tiện ích ở Không gian thứ hai"</string>
 	<string name="personalize_item_more_setting">Cài đặt thêm</string>
+	<string name="restore_default_change_wallpaper_when_special_lockscreen">"Bạn hiện đang sử dụng mẫu Màn hình khóa. Nếu bạn tiếp tục, Màn hình khóa của bạn sẽ được khôi phục về mặc định và hình nền Màn hình chính và Màn hình khóa sẽ được thay thế. Áp dụng ngay bây giờ?"</string>
+    <string name="restore_default_lock_style_apply_superwallpaper">"Mẫu màn hình khóa này không hỗ trợ hình nền Super. Sau khi áp dụng, Màn hình khóa của bạn sẽ trở lại mặc định và hình nền Màn hình chính và Màn hình khóa sẽ được thay thế. Áp dụng ngay bây giờ?"</string>
+    <string name="restore_default_lockscreen_when_special_lock_style">"Bạn hiện đang sử dụng mẫu Màn hình khóa. Nếu bạn tiếp tục, Màn hình khóa của bạn sẽ được khôi phục về mặc định. Áp dụng ngay bây giờ?"</string>
+    <string name="restore_history_lock_screen_when_apply_theme">"Bạn hiện đang sử dụng chủ đề của bên thứ ba. Nếu bạn thay đổi hình nền Màn hình khóa, điều này có thể khiến đồng hồ Màn hình khóa được khôi phục về mặc định. Áp dụng ngay bây giờ?"</string>
 </resources>
