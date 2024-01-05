@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="setting_image_recognize_category_text">
+        <item>Động vật</item>
+        <item>Tổ chức</item>
+        <item>Người nổi tiếng</item>
+        <item>Áp phích phim</item>
+        <item>Bìa sách</item>
+        <item>Bức tranh nổi tiếng</item>
+        <item>Danh thiếp</item>
+        <item>trong văn bản</item>
+    </string-array>
+</resources>

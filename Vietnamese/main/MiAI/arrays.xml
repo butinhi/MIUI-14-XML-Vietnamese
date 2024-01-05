@@ -1,0 +1,304 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="AiSettingDefaultDoubleTask">
+        <item>Mở máy quay</item>
+        <item>Kiểm tra thời tiết hôm nay</item>
+        <item>ảnh chụp màn hình</item>
+        <item>Mở mã thanh toán Alipay</item>
+        <item>Mở tìm kiếm nóng trên weibo</item>
+        <item>Mở WeChat</item>
+        <item>Bật đèn pin</item>
+    </string-array>
+    <string-array name="AiSettingDefaultSingleTask">
+        <item>ảnh chụp màn hình</item>
+        <item>Mở Alipay và quét</item>
+        <item>Mở máy quay</item>
+        <item>Mở WeChat và quét</item>
+        <item>Thời tiết hôm nay thế nào</item>
+        <item>đèn pin</item>
+    </string-array>
+    <string-array name="AiSettingDefaultTask">
+        <item>Hãy thức tỉnh các bạn cùng lớp Tiểu Ái</item>
+        <item>Kiểm tra thời tiết hôm nay</item>
+        <item>chơi một bài hát</item>
+        <item>QQ Music phát các bài hát địa phương</item>
+        <item>Chế độ bảo vệ mắt</item>
+        <item>tắt tiếng</item>
+        <item>Vương Nguyên Vương Nguyên</item>
+    </string-array>
+    <string-array name="AiSettingEditDeletePreview">
+        <item>biên tập</item>
+        <item>Xem trước</item>
+        <item>xóa bỏ</item>
+    </string-array>
+    <string-array name="AiSettingEditPreview">
+        <item>biên tập</item>
+        <item>Xem trước</item>
+    </string-array>
+    <string-array name="AiSettingLongPress">
+        <item>Hãy thức tỉnh các bạn cùng lớp Tiểu Ái</item>
+        <item>Chưa có hướng dẫn nào được đặt</item>
+    </string-array>
+    <string-array name="AiSettingOfflineTasks">
+        <item>Mở máy quay</item>
+        <item>ảnh chụp màn hình</item>
+        <item>Quét bằng Alipay</item>
+        <item>Mở kênh chương trình tạp kỹ iQiyi</item>
+        <item>Mở tìm kiếm nóng trên weibo</item>
+        <item>Mở WeChat</item>
+        <item>Mở mã thanh toán Alipay</item>
+        <item>Mở WeChat và quét</item>
+        <item>Mở mã thanh toán WeChat</item>
+        <item>Tạo ghi chú mới</item>
+        <item>Loại bỏ rác thải</item>
+        <item>tìm kiếm</item>
+        <item>mở máy tính</item>
+        <item>Mở tin tức ngày hôm nay</item>
+        <item>tăng tốc trò chơi</item>
+    </string-array>
+    <string-array name="aqi_title">
+        <item>Tốt</item>
+        <item>đạt yêu cầu</item>
+        <item>Ô nhiễm vừa phải</item>
+        <item>Nghèo</item>
+        <item>Rất nghèo</item>
+        <item>Nghiêm trọng</item>
+    </string-array>
+    <string-array name="aqi_title_append">
+        <item>%1$s</item>
+        <item>%1$s</item>
+        <item>%1$s không khí</item>
+        <item>chất lượng không khí %1$s</item>
+        <item>chất lượng không khí %1$s</item>
+        <item>chất lượng không khí %1$s</item>
+    </string-array>
+    <string-array name="aqi_title_prefix">
+        <item>AQI %1$s</item>
+        <item>AQI %1$s</item>
+        <item>%1$s</item>
+        <item>%1$s</item>
+        <item>%1$s</item>
+        <item>%1$s</item>
+    </string-array>
+    <string-array name="aqi_title_short">
+        <item>Tốt</item>
+        <item>đạt yêu cầu</item>
+        <item>Ô nhiễm vừa phải</item>
+        <item>Nghèo</item>
+        <item>Rất nghèo</item>
+        <item>Nghiêm trọng</item>
+    </string-array>
+    <string-array name="device_types">
+        <item>Tất cả các thiết bị</item>
+        <item>Tai nghe</item>
+        <item>Diễn giả</item>
+    </string-array>
+    <string-array name="im_window_tips_array">
+        <item>Thời tiết ngày mai</item>
+        <item>thời tiết Bắc Kinh</item>
+        <item>chất lượng không khí</item>
+        <item>ngày mai mặc gì</item>
+        <item>Bắc Kinh hạn chế đi lại với số cuối cùng ngày hôm nay</item>
+        <item>Số cuối cùng bị hạn chế</item>
+        <item>tỷ giá đô la</item>
+        <item>10 đô la Mỹ bằng bao nhiêu nhân dân tệ</item>
+        <item>súp gà độc</item>
+        <item>Hãy nói đùa đi</item>
+        <item>nói giỡn</item>
+        <item>Hãy nói đùa</item>
+        <item>Chúc mừng năm mới bằng tiếng Anh/tiếng Nhật/tiếng Hàn</item>
+        <item>Cách nói chúc mừng năm mới bằng tiếng Anh</item>
+        <item>vị trí của tôi</item>
+        <item>Giá cổ phiếu Xiaomi</item>
+        <item>Chỉ số tổng hợp Thượng Hải</item>
+        <item>Thứ Hai tuần sau là ngày gì?</item>
+        <item>Ngày Quốc Khánh là khi nào?</item>
+        <item>2 lũy thừa 32 bằng bao nhiêu?</item>
+        <item>Giảm 20% $300</item>
+        <item>Em gái của bà ngoại tên là gì?</item>
+    </string-array>
+    <string-array name="permission_management_bluetooth_text">
+        <item>Tuyên bố về quyền riêng tư khi kết nối với các thiết bị lân cận</item>
+        <item>Chúng tôi yêu cầu quyền kết nối với các thiết bị lân cận để khám phá và kết nối với các thiết bị Bluetooth. Nếu bạn không cấp quyền này, bạn sẽ không thể sử dụng tính năng này.</item>
+    </string-array>
+    <string-array name="permission_management_call_phone_text">
+        <item>Tuyên bố về quyền riêng tư khi thực hiện cuộc gọi</item>
+        <item>Chúng tôi yêu cầu quyền thực hiện cuộc gọi để có thể thực hiện cuộc gọi bằng lệnh thoại. Nếu bạn không cấp quyền này, bạn sẽ không thể sử dụng tính năng này.</item>
+    </string-array>
+    <string-array name="permission_management_camera_text">
+        <item>Tuyên bố về quyền riêng tư khi truy cập camera</item>
+        <item>Chúng tôi yêu cầu quyền truy cập vào máy ảnh để đánh giá tình trạng da. Nếu bạn không cấp quyền này, bạn sẽ không thể sử dụng tính năng này.</item>
+    </string-array>
+    <string-array name="permission_management_external_storage_pad_text">
+        <item>Tuyên bố về quyền riêng tư khi truy cập bộ nhớ</item>
+        <item>Chúng tôi yêu cầu quyền truy cập vào bộ lưu trữ để có thể lưu vào bộ nhớ đệm dữ liệu, truy cập các mục đã lưu và đồng bộ hóa các mục từ đám mây với thiết bị của bạn. Nếu bạn không cấp quyền này, chúng tôi sẽ không thể cung cấp các dịch vụ này và một số tính năng của ứng dụng sẽ không khả dụng.</item>
+    </string-array>
+    <string-array name="permission_management_external_storage_text">
+        <item>Tuyên bố về quyền riêng tư khi truy cập bộ nhớ</item>
+        <item>Chúng tôi yêu cầu quyền truy cập vào bộ lưu trữ để có thể lưu vào bộ nhớ đệm dữ liệu, truy cập các mục đã lưu và đồng bộ hóa các mục từ đám mây với thiết bị của bạn. Nếu bạn không cấp quyền này, chúng tôi sẽ không thể cung cấp các dịch vụ này và một số tính năng của ứng dụng sẽ không khả dụng.</item>
+    </string-array>
+    <string-array name="permission_management_location_text">
+        <item>Tuyên bố về quyền riêng tư khi truy cập vị trí</item>
+        <item>Chúng tôi yêu cầu quyền truy cập vị trí để có thể nhận được thông tin thời tiết chính xác, cung cấp dịch vụ điều hướng và xác định thành phố, múi giờ hiện tại của bạn và các đài phát thanh lân cận. Quyền truy cập vị trí được sử dụng để hỗ trợ bạn khi thực hiện các tác vụ liên quan đến vị trí, chẳng hạn như đặt vé vận chuyển và vé xem phim, tính thuế địa phương và tìm nhà hàng gần đó. Nếu bạn không cấp quyền này, chúng tôi sẽ không thể cung cấp các tính năng này.</item>
+    </string-array>
+    <string-array name="permission_management_process_outgoing_calls_text">
+        <item>Tuyên bố về quyền riêng tư khi truy cập trạng thái cuộc gọi</item>
+        <item>Chúng tôi yêu cầu quyền truy cập vào trạng thái cuộc gọi để có thể trả lời và kết thúc cuộc gọi cũng như ngăn chặn sự gián đoạn của Mi AI trong khi gọi. Nếu bạn không cấp quyền này, chúng tôi sẽ không thể cung cấp các tính năng liên quan.</item>
+    </string-array>
+    <string-array name="permission_management_read_calendar_text">
+        <item>Tuyên bố về quyền riêng tư khi truy cập lịch</item>
+        <item>Chúng tôi yêu cầu quyền truy cập vào lịch để có thể tạo, xem, chỉnh sửa và xóa các sự kiện lịch. Nếu không cấp quyền này, bạn sẽ không thể sử dụng lời nhắc lịch.</item>
+    </string-array>
+    <string-array name="permission_management_read_call_log_text">
+        <item>Tuyên bố về quyền riêng tư khi truy cập lịch sử cuộc gọi</item>
+        <item>Chúng tôi yêu cầu quyền truy cập vào lịch sử cuộc gọi để có thể trả lời cuộc gọi và xác định danh bạ. Nếu bạn không cấp quyền này, Mi AI có thể không thực hiện được các tác vụ này một cách chính xác.</item>
+    </string-array>
+    <string-array name="permission_management_read_contacts_text">
+        <item>Tuyên bố về quyền riêng tư khi truy cập danh bạ</item>
+        <item>Chúng tôi yêu cầu quyền truy cập vào danh bạ để có thể tìm kiếm và gọi cho các liên hệ bằng lệnh thoại. Nếu bạn không cấp quyền này, bạn sẽ không thể sử dụng tính năng này.</item>
+    </string-array>
+    <string-array name="permission_management_read_multimedia_message_text">
+        <item>Tuyên bố về quyền riêng tư khi truy cập MMS</item>
+        <item>Chúng tôi yêu cầu quyền truy cập MMS để có thể đọc to tin nhắn. Nếu bạn không cấp quyền này, bạn sẽ không thể sử dụng tính năng này.</item>
+    </string-array>
+    <string-array name="permission_management_read_sms_and_multimedia_message_text">
+        <item>Tuyên bố về quyền riêng tư khi truy cập SMS và MMS</item>
+        <item>Chúng tôi yêu cầu quyền truy cập SMS và MMS để có thể đọc to tin nhắn. Nếu bạn không cấp quyền này, bạn sẽ không thể sử dụng tính năng này.</item>
+    </string-array>
+    <string-array name="permission_management_read_sms_text">
+        <item>Tuyên bố về quyền riêng tư khi truy cập SMS</item>
+        <item>Chúng tôi yêu cầu quyền truy cập SMS để có thể đọc to tin nhắn. Nếu bạn không cấp quyền này, bạn sẽ không thể sử dụng tính năng này.</item>
+    </string-array>
+    <string-array name="permission_management_record_audio_text">
+        <item>Tuyên bố về quyền riêng tư khi ghi âm</item>
+        <item>Chúng tôi yêu cầu quyền ghi âm để có thể đánh thức Mi AI bằng giọng nói, ra lệnh và sử dụng các tính năng nhận dạng giọng nói và dịch giọng nói. Nếu bạn không cấp quyền này, bạn sẽ không thể sử dụng các tính năng này.</item>
+    </string-array>
+    <string-array name="permission_management_send_sms_text">
+        <item>Tuyên bố về quyền riêng tư khi gửi SMS</item>
+        <item>Chúng tôi yêu cầu quyền này để có thể gửi SMS bằng lệnh thoại. Nếu không cấp quyền này, bạn sẽ không thể sử dụng các tính năng liên quan.</item>
+    </string-array>
+    <string-array name="permission_management_write_contacts_text">
+        <item>Tuyên bố về quyền riêng tư khi chỉnh sửa danh bạ</item>
+        <item>Chúng tôi yêu cầu quyền chỉnh sửa danh bạ để thêm liên hệ khi thực hiện cuộc gọi. Nếu bạn không cấp quyền này, bạn sẽ không thể sử dụng tính năng này.</item>
+    </string-array>
+    <string-array name="report_method_entries">
+        <item>Chỉ khi tai nghe được kết nối</item>
+        <item>Luôn luôn</item>
+        <item>Tắt</item>
+    </string-array>
+    <string-array name="task_summary_action_unsupported">
+        <item>Rất tiếc, tác vụ đã lên lịch này hiện không được hỗ trợ. Hãy thử nói với tôi \"Bật Bluetooth sau 10 phút nữa\".</item>
+        <item>Rất tiếc, tác vụ đã lên lịch này chưa được hỗ trợ. Hãy thử nói với tôi \"Bật chế độ tối lúc 10 giờ tối\".</item>
+        <item>Rất tiếc, tác vụ đã lên lịch này hiện không được hỗ trợ. Hãy thử nói với tôi \"Tắt mạng dữ liệu lúc 22:00 hàng ngày\".</item>
+        <item>Rất tiếc, tác vụ đã lên lịch này hiện không được hỗ trợ. Hãy thử nói với tôi \"Bật chế độ tiết kiệm năng lượng vào lúc 8 giờ từ Thứ Hai đến Thứ Sáu hàng tuần\".</item>
+    </string-array>
+    <string-array name="task_summary_time_illegal">
+        <item>Rất tiếc, các tác vụ đã lên lịch đặt thời gian này hiện không được hỗ trợ. Hãy thử nói với tôi \"Bật Bluetooth sau 10 phút nữa\".</item>
+        <item>Rất tiếc, các tác vụ đã lên lịch đặt vào thời điểm này hiện không được hỗ trợ. Hãy thử nói với tôi \"Bật chế độ tối lúc 10 giờ tối\".</item>
+        <item>Rất tiếc, các tác vụ đã lên lịch đặt vào thời điểm này hiện không được hỗ trợ. Hãy thử nói với tôi \"Bật chế độ tắt tiếng vào lúc 22:00 hàng ngày\".</item>
+        <item>Rất tiếc, các tác vụ đã lên lịch đặt vào thời điểm này hiện không được hỗ trợ. Hãy thử nói với tôi \"Bật chế độ tiết kiệm năng lượng vào lúc 8 giờ từ thứ Hai đến thứ Sáu hàng tuần\".</item>
+    </string-array>
+    <string-array name="travel_mode_entries">
+        <item>Phương tiện giao thông công cộng</item>
+        <item>Xe hơi</item>
+        <item>Xe đạp</item>
+        <item>Đi dạo</item>
+    </string-array>
+    <string-array name="weather_type">
+        <item>thông thoáng</item>
+        <item>có mây một phần</item>
+        <item>Tiêu cực</item>
+        <item>sương mù</item>
+        <item>Mưa rất to</item>
+        <item>Mưa nặng hạt</item>
+        <item>mưa bão</item>
+        <item>mưa giông</item>
+        <item>vòi sen</item>
+        <item>mưa nặng hạt</item>
+        <item>Mưa vừa</item>
+        <item>mưa nhỏ</item>
+        <item>mưa tuyết</item>
+        <item>bão tuyết</item>
+        <item>mưa tuyết</item>
+        <item>tuyêt rơi day đặc</item>
+        <item>Tuyết vừa phải</item>
+        <item>Tiểu Tuyết</item>
+        <item>Bão cát mạnh</item>
+        <item>bão cát</item>
+        <item>bụi cát</item>
+        <item>thổi cát</item>
+        <item>kêu</item>
+        <item>Bụi nổi</item>
+        <item>sương mù</item>
+        <item>mưa lạnh</item>
+    </string-array>
+    <string-array name="weather_wind_breeze">
+        <item>Cấp độ 1</item>
+        <item>&lt;6,0 km/giờ</item>
+        <item>&lt;1,7m/giây</item>
+        <item>&lt;3,7 mph</item>
+        <item>&lt;3,2kn</item>
+    </string-array>
+    <string-array name="weather_wind_direction">
+        <item>gió Bắc</item>
+        <item>Gió đông bắc</item>
+        <item>Đông Phong</item>
+        <item>Gió Đông Nam</item>
+        <item>Gió nam</item>
+        <item>Gió Tây Nam</item>
+        <item>gió tây</item>
+        <item>Gió Tây Bắc</item>
+    </string-array>
+    <string-array name="weather_wind_direction_simple">
+        <item>N</item>
+        <item>KHÔNG</item>
+        <item>E</item>
+        <item>SE</item>
+        <item>S</item>
+        <item>SW</item>
+        <item>W</item>
+        <item>Tây Bắc</item>
+    </string-array>
+    <string-array name="weather_wind_power">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>số 8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+    </string-array>
+    <string-array name="weather_wind_unit_replace">
+        <item>Cấp độ %1$s</item>
+        <item>%1$sq.m/h</item>
+        <item>%1$sm/s</item>
+        <item>%1$smph</item>
+        <item>%1$giây</item>
+    </string-array>
+    <string-array name="widget_picture_select_style">
+        <item>ảnh chụp</item>
+        <item>Chọn ảnh</item>
+    </string-array>
+    <string-array name="xm_device_manager_tab_text">
+        <item>thiết bị bluetooth</item>
+        <item>nhà thông minh</item>
+    </string-array>
+    <string-array name="xm_device_voltage_alias">
+        <item>tai trái</item>
+        <item>tai phải</item>
+        <item>Hộp sạc</item>
+        <item>Pin thiết bị</item>
+    </string-array>
+    <string-array name="xm_device_voltage_alias2">
+        <item>bên trái</item>
+        <item>Phải</item>
+        <item>hộp</item>
+        <item>pin còn lại</item>
+    </string-array>
+</resources>

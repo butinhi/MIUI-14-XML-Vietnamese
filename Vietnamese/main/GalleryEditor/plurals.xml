@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="a_hour_ago">
+        <item quantity="other">1 giờ trước</item>
+    </plurals>
+    <plurals name="abbrev_a_hour_ago">
+        <item quantity="other">%d giờ trước</item>
+    </plurals>
+    <plurals name="abbrev_half_hour_ago">
+        <item quantity="other">Nửa tiếng trước</item>
+    </plurals>
+    <plurals name="abbrev_in_a_hour">
+        <item quantity="other">Trong %d giờ</item>
+    </plurals>
+    <plurals name="abbrev_in_half_hour">
+        <item quantity="other">Trong nửa giờ</item>
+    </plurals>
+    <plurals name="abbrev_in_less_than_one_minute">
+        <item quantity="other">Ngay lập tức</item>
+    </plurals>
+    <plurals name="abbrev_in_num_minutes">
+        <item quantity="other">Sau %d phút</item>
+        <item quantity="one">Trong %d phút</item>
+    </plurals>
+    <plurals name="abbrev_less_than_one_minute_ago">
+        <item quantity="other">Vừa rồi</item>
+    </plurals>
+    <plurals name="abbrev_num_minutes_ago">
+        <item quantity="other">%d phút trước</item>
+        <item quantity="one">%d phút trước</item>
+    </plurals>
+    <plurals name="file_type_detail_count">
+        <item quantity="other">tệp %1$d</item>
+        <item quantity="one">tệp %1$d</item>
+    </plurals>
+    <plurals name="filter_diy_import_toast_success">
+        <item quantity="other">Đã nhập thành công bộ lọc %1$d</item>
+        <item quantity="one">Đã nhập thành công bộ lọc %1$d</item>
+    </plurals>
+    <plurals name="filter_images_ratio_unsupport">
+        <item quantity="other">Đã chặn %d hình ảnh có tỷ lệ hình ảnh không được hỗ trợ</item>
+        <item quantity="one">Hình ảnh %d bị chặn với tỷ lệ hình ảnh không được hỗ trợ</item>
+    </plurals>
+    <plurals name="filter_images_unsupport">
+        <item quantity="other">Đã chặn %d hình ảnh không được hỗ trợ</item>
+        <item quantity="one">Đã chặn %d hình ảnh không được hỗ trợ</item>
+    </plurals>
+    <plurals name="half_hour_ago">
+        <item quantity="other">Nửa tiếng trước</item>
+    </plurals>
+    <plurals name="in_a_hour">
+        <item quantity="other">Trong 1 giờ</item>
+    </plurals>
+    <plurals name="in_half_hour">
+        <item quantity="other">Trong nửa giờ</item>
+    </plurals>
+    <plurals name="in_less_than_one_minute">
+        <item quantity="other">Ngay lập tức</item>
+    </plurals>
+    <plurals name="in_num_minutes">
+        <item quantity="other">trong %d phút</item>
+        <item quantity="one">trong 1 phút nữa</item>
+    </plurals>
+    <plurals name="less_than_one_minute_ago">
+        <item quantity="other">Vừa rồi</item>
+    </plurals>
+    <plurals name="miuix_appcompat_items_selected">
+        <item quantity="other">%d mục đã được chọn</item>
+        <item quantity="one">%d mục đã được chọn</item>
+    </plurals>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="other">%d thông báo mới</item>
+        <item quantity="one">%d thông báo mới</item>
+    </plurals>
+    <plurals name="num_minutes_ago">
+        <item quantity="other">%d phút trước</item>
+        <item quantity="one">1 phút trước</item>
+    </plurals>
+    <plurals name="photo_editor_talkback_crop_scale_value">
+        <item quantity="other">Xoay %d độ</item>
+        <item quantity="one">Xoay %d độ</item>
+    </plurals>
+    <plurals name="send_apk_dialog_desc">
+        <item quantity="other">%2$d gói cài đặt (%3$s) từ %1$s</item>
+        <item quantity="one">Gói cài đặt %2$d (%3$s) từ %1$s</item>
+    </plurals>
+    <plurals name="send_apk_dialog_desc_received">
+        <item quantity="other">Đã nhận được %2$d gói cài đặt (%3$s) từ %1$s</item>
+        <item quantity="one">Đã nhận được gói cài đặt %2$d (%3$s) từ %1$s</item>
+    </plurals>
+    <plurals name="send_apk_dialog_desc_receiving">
+        <item quantity="other">Đang nhận gói cài đặt %2$d (%3$s) từ %1$s…</item>
+        <item quantity="one">Đang nhận gói cài đặt %2$d (%3$s) từ %1$s…</item>
+    </plurals>
+    <plurals name="send_audio_dialog_desc">
+        <item quantity="other">%2$d tệp âm thanh (%3$s) từ %1$s</item>
+        <item quantity="one">%2$d tệp âm thanh (%3$s) từ %1$s</item>
+    </plurals>
+    <plurals name="send_audio_dialog_desc_received">
+        <item quantity="other">Đã nhận %2$d tệp âm thanh (%3$s) từ %1$s</item>
+        <item quantity="one">Đã nhận được tệp âm thanh %2$d (%3$s) từ %1$s</item>
+    </plurals>
+    <plurals name="send_audio_dialog_desc_receiving">
+        <item quantity="other">Đang nhận tệp âm thanh %2$d (%3$s) từ %1$s…</item>
+        <item quantity="one">Đang nhận tệp âm thanh %2$d (%3$s) từ %1$s…</item>
+    </plurals>
+    <plurals name="send_file_dialog_desc">
+        <item quantity="other">%2$d %3$s tệp (%4$s) từ %1$s</item>
+        <item quantity="one">Tệp %2$d %3$s (%4$s) từ %1$s</item>
+    </plurals>
+    <plurals name="send_file_dialog_desc_received">
+        <item quantity="other">Đã nhận được %2$d %3$s tệp (%4$s) từ %1$s</item>
+        <item quantity="one">Đã nhận được tệp %2$d %3$s (%4$s) từ %1$s</item>
+    </plurals>
+    <plurals name="send_file_dialog_desc_receiving">
+        <item quantity="other">Đang nhận tệp %2$d %3$s (%4$s) từ %1$s…</item>
+        <item quantity="one">Đang nhận tệp %2$d %3$s (%4$s) từ %1$s…</item>
+    </plurals>
+    <plurals name="send_image_dialog_desc">
+        <item quantity="other">%2$d hình ảnh từ %1$s</item>
+        <item quantity="one">Hình ảnh %2$d từ %1$s</item>
+    </plurals>
+    <plurals name="send_image_dialog_desc_received">
+        <item quantity="other">Đã nhận được %2$d hình ảnh từ %1$s</item>
+        <item quantity="one">Đã nhận được %2$d hình ảnh từ %1$s</item>
+    </plurals>
+    <plurals name="send_image_dialog_desc_receiving">
+        <item quantity="other">Đang nhận %2$d hình ảnh từ %1$s…</item>
+        <item quantity="one">Đang nhận hình ảnh %2$d từ %1$s…</item>
+    </plurals>
+    <plurals name="send_image_video_dialog_desc">
+        <item quantity="other">%2$d hình ảnh và video từ %1$s</item>
+        <item quantity="one">%2$d hình ảnh hoặc video từ %1$s</item>
+    </plurals>
+    <plurals name="send_image_video_dialog_desc_received">
+        <item quantity="other">Đã nhận được %2$d hình ảnh và video từ %1$s</item>
+        <item quantity="one">Đã nhận được %2$d hình ảnh hoặc video từ %1$s</item>
+    </plurals>
+    <plurals name="send_image_video_dialog_desc_receiving">
+        <item quantity="other">Đang nhận %2$d hình ảnh và video từ %1$s…</item>
+        <item quantity="one">Đang nhận %2$d hình ảnh hoặc video từ %1$s…</item>
+    </plurals>
+    <plurals name="send_more_type_file_dialog_desc">
+        <item quantity="other">%2$d tệp từ %1$s</item>
+        <item quantity="one">Tệp %2$d từ %1$s</item>
+    </plurals>
+    <plurals name="send_more_type_file_dialog_desc_received">
+        <item quantity="other">Đã nhận được %2$d tệp từ %1$s</item>
+        <item quantity="one">Đã nhận được tệp %2$d từ %1$s</item>
+    </plurals>
+    <plurals name="send_more_type_file_dialog_desc_receiving">
+        <item quantity="other">Đang nhận %2$d tệp từ %1$s…</item>
+        <item quantity="one">Đang nhận tệp %2$d từ %1$s…</item>
+    </plurals>
+    <plurals name="send_video_dialog_desc">
+        <item quantity="other">%2$d video từ %1$s</item>
+        <item quantity="one">%2$d video từ %1$s</item>
+    </plurals>
+    <plurals name="send_video_dialog_desc_received">
+        <item quantity="other">Đã nhận được %2$d video từ %1$s</item>
+        <item quantity="one">Đã nhận được %2$d video từ %1$s</item>
+    </plurals>
+    <plurals name="send_video_dialog_desc_receiving">
+        <item quantity="other">Đang nhận %2$d video từ %1$s…</item>
+        <item quantity="one">Đang nhận %2$d video từ %1$s…</item>
+    </plurals>
+    <plurals name="send_zip_dialog_desc">
+        <item quantity="other">%2$d bản lưu trữ (%3$s) từ %1$s</item>
+        <item quantity="one">Lưu trữ %2$d (%3$s) từ %1$s</item>
+    </plurals>
+    <plurals name="send_zip_dialog_desc_received">
+        <item quantity="other">Đã nhận được %2$d bản lưu trữ (%3$s) từ %1$s</item>
+        <item quantity="one">Đã nhận được %2$d bản lưu trữ (%3$s) từ %1$s</item>
+    </plurals>
+    <plurals name="send_zip_dialog_desc_receiving">
+        <item quantity="other">Đang nhận %2$d bản lưu trữ (%3$s) từ %1$s…</item>
+        <item quantity="one">Đang nhận bản lưu trữ %2$d (%3$s) từ %1$s…</item>
+    </plurals>
+    <plurals name="vlog_filter_diy_lut_import_success_toast">
+        <item quantity="other">Đã nhập thành công bộ lọc %1$d</item>
+        <item quantity="one">Đã nhập thành công bộ lọc %1$d</item>
+    </plurals>
+    <plurals name="vlog_talkback_crop_scale_value">
+        <item quantity="other">Xoay %d độ</item>
+        <item quantity="one">Xoay %d độ</item>
+    </plurals>
+    <plurals name="vlog_template_support_count_desc">
+        <item quantity="other">%d clip</item>
+        <item quantity="one">đoạn %d</item>
+    </plurals>
+</resources>

@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="acc_category_color_description">
+        <item>Trắng</item>
+        <item>Xanh đậm</item>
+        <item>Màu xanh nhạt</item>
+        <item>Màu đỏ</item>
+        <item>Màu xanh lá</item>
+        <item>Hồng</item>
+        <item>Màu nâu</item>
+        <item>Xám</item>
+    </string-array>
+    <string-array name="acc_magic_matting_background_description">
+        <item>Nhập hình ảnh</item>
+        <item>Nền trong suốt</item>
+    </string-array>
+    <string-array name="magic_effects_audio_titles">
+        <item>Thời gian rảnh rỗi</item>
+        <item>Gió</item>
+        <item>Giấc mơ</item>
+        <item>Mây</item>
+        <item>Suy nghĩ</item>
+        <item>Nụ</item>
+        <item>Sự biến hình</item>
+        <item>Chiều sâu</item>
+        <item>Phản ánh</item>
+        <item>Tối giản</item>
+        <item>Bí ẩn</item>
+        <item>Sương mù</item>
+    </string-array>
+    <string-array name="magic_effects_description">
+        <item>Nền hình học tương lai</item>
+        <item>Không khí của những bản in cũ</item>
+        <item>Biến hình nền thành bản phác thảo</item>
+        <item>Nền phong cách màu nước</item>
+        <item>Cyberpunk cổ điển</item>
+        <item>Các đoạn dọc bị đặt sai vị trí</item>
+        <item>Mờ mờ</item>
+        <item>Cảm giác tương lai</item>
+    </string-array>
+    <string-array name="magic_effects_icon">
+        <item>ma thuật_đặc biệt_lowpoly</item>
+        <item>ma thuật_đặc biệt_khắc gỗ</item>
+        <item>ma thuật_đặc biệt_sketch</item>
+        <item>ma thuật_đặc biệt_màu nước</item>
+        <item>ma thuật_đặc biệt_rbg</item>
+        <item>magic_special_window_shades</item>
+        <item>magic_special_window_fog</item>
+        <item>magic_special_fault_style</item>
+    </string-array>
+    <string-array name="magic_effects_icon_thumb">
+        <item>magic_special_thumb_lowpoly</item>
+        <item>magic_special_thumb_woodcut</item>
+        <item>magic_special_thumb_sketch</item>
+        <item>ma thuật_đặc biệt_thumb_màu nước</item>
+        <item>magic_special_thumb_rbg</item>
+        <item>magic_special_thumb_window_shades</item>
+        <item>magic_special_thumb_window_fog</item>
+        <item>magic_special_thumb_fault_style</item>
+    </string-array>
+    <string-array name="magic_effects_title">
+        <item>Poly thấp</item>
+        <item>khắc</item>
+        <item>phác thảo</item>
+        <item>Màu nước</item>
+        <item>RGB</item>
+        <item>Rèm</item>
+        <item>Cửa sổ đầy sương mù</item>
+        <item>công nghệ</item>
+    </string-array>
+    <string-array name="magic_effects_video_titles">
+        <item>phác thảo màu</item>
+        <item>Đường viền nét đứt</item>
+        <item>phác thảo huỳnh quang</item>
+        <item>Bóng màu</item>
+        <item>Sóng điện</item>
+        <item>Hiện hành</item>
+        <item>Sóng</item>
+        <item>Vật rất nhỏ</item>
+        <item>Chữ</item>
+        <item>Cánh</item>
+        <item>Thiên thần</item>
+    </string-array>
+    <string-array name="magic_idp_size_category">
+        <item>Tổng quan</item>
+        <item>Du lịch</item>
+        <item>Công việc</item>
+        <item>Các tài liệu</item>
+        <item>Giáo dục</item>
+        <item>bài kiểm tra</item>
+    </string-array>
+    <string-array name="magic_idp_size_category_certificates">
+        <item>An ninh xã hội</item>
+        <item>Tuyên bố về sức khỏe</item>
+        <item>Bảo hiểm y tế</item>
+        <item>NHẬN DẠNG</item>
+        <item>Giấy phép cư trú</item>
+    </string-array>
+    <string-array name="magic_idp_size_category_common">
+        <item>Một với</item>
+        <item>Hai cái lồn</item>
+        <item>Cái nhỏ hơn với</item>
+        <item>Nhỏ hơn hai cun</item>
+    </string-array>
+    <string-array name="magic_idp_size_category_education">
+        <item>Đơn xin nhập học</item>
+        <item>Mạng lưới sinh viên</item>
+        <item>Mạng lưới học sinh tiểu học</item>
+        <item>Hồ sơ mạng lưới sinh viên</item>
+        <item>tuyển sinh đại học</item>
+        <item>NEE</item>
+        <item>Bản tóm tắt</item>
+    </string-array>
+    <string-array name="magic_idp_size_category_examination">
+        <item>Kiểm tra tiếng Anh đại học 1</item>
+        <item>Kiểm tra tiếng Anh đại học 2</item>
+        <item>Kiểm tra tiếng Anh đại học 3</item>
+        <item>Bài kiểm tra năng lực Phổ Thông 1</item>
+        <item>Bài kiểm tra năng lực Phổ Thông 2</item>
+        <item>Kiểm tra tiếng Anh cấp bằng</item>
+        <item>PET cho trường cao đẳng</item>
+        <item>PET cấp 3</item>
+        <item>Kỳ thi xếp hạng máy tính quốc gia 1</item>
+        <item>Kỳ thi xếp hạng máy tính quốc gia 2</item>
+    </string-array>
+    <string-array name="magic_idp_size_category_profession">
+        <item>Chứng chỉ giáo viên tiểu học và trung học</item>
+        <item>Chứng nhận giáo viên</item>
+        <item>Bằng lái xe</item>
+        <item>Giấy phép hướng dẫn</item>
+        <item>Giấy phép hướng dẫn điện tử</item>
+        <item>Kiểm tra tư pháp quốc gia</item>
+        <item>Chứng chỉ xây dựng hạng nhất điện tử</item>
+        <item>Chứng chỉ xây dựng hạng hai</item>
+        <item>Kỳ thi chức danh kế toán sơ cấp</item>
+        <item>Kế toán công chứng</item>
+        <item>Giấy phép hướng dẫn Bắc Kinh</item>
+        <item>Thi chứng chỉ kế toán trung cấp</item>
+        <item>Kỳ thi chức danh kế toán cao cấp</item>
+        <item>Chứng chỉ chuyên môn kế toán</item>
+        <item>Kỳ thi chứng chỉ kế toán công</item>
+    </string-array>
+</resources>

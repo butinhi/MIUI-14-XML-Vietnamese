@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="entries_dropdown_preference">
+        <item>đồ họa</item>
+        <item>Số nội bộ</item>
+        <item>Số bên ngoài</item>
+    </string-array>
+    <string-array name="welcome_tips">
+        <item>Xin chào!</item>
+        <item>Chào mọi người! Bạn đang nói chuyện với Mi AI. Tôi là trợ lý của người bạn đang gọi.</item>
+    </string-array>
+</resources>

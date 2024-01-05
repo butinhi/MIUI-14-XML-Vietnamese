@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="alphabet_table">
+        <item>MỘT</item>
+        <item>B</item>
+        <item>TRONG</item>
+        <item>D</item>
+        <item>D</item>
+        <item>Tốt</item>
+        <item>Hoặc</item>
+        <item>J</item>
+        <item>VỚI</item>
+        <item>TÔI</item>
+        <item>VÀ</item>
+        <item>ĐẾN</item>
+        <item>L</item>
+        <item>M</item>
+        <item>N</item>
+        <item>VỀ</item>
+        <item>P</item>
+        <item>R</item>
+        <item>S</item>
+        <item>T</item>
+        <item>bạn</item>
+        <item>F</item>
+        <item>H</item>
+        <item>Ts</item>
+        <item>ch</item>
+        <item>Sh</item>
+        <item>Sh</item>
+        <item>E</item>
+        <item>Y</item>
+        <item>b</item>
+        <item>E</item>
+        <item>Yu</item>
+        <item>TÔI</item>
+        <item>\#</item>
+    </string-array>
+    <string-array name="alphabet_table_with_starred">
+        <item>!</item>
+        <item>MỘT</item>
+        <item>B</item>
+        <item>TRONG</item>
+        <item>D</item>
+        <item>D</item>
+        <item>Tốt</item>
+        <item>Hoặc</item>
+        <item>J</item>
+        <item>VỚI</item>
+        <item>TÔI</item>
+        <item>VÀ</item>
+        <item>ĐẾN</item>
+        <item>L</item>
+        <item>M</item>
+        <item>N</item>
+        <item>VỀ</item>
+        <item>P</item>
+        <item>R</item>
+        <item>S</item>
+        <item>T</item>
+        <item>bạn</item>
+        <item>F</item>
+        <item>H</item>
+        <item>Ts</item>
+        <item>ch</item>
+        <item>Sh</item>
+        <item>Sh</item>
+        <item>E</item>
+        <item>Y</item>
+        <item>b</item>
+        <item>E</item>
+        <item>Yu</item>
+        <item>TÔI</item>
+        <item>\#</item>
+    </string-array>
+    <string-array name="runtime_permission_desc">
+        <item>&lt;item>Nhận dạng giọng nói cho các tính năng như dịch giọng nói&lt;/item></item>
+    </string-array>
+</resources>
