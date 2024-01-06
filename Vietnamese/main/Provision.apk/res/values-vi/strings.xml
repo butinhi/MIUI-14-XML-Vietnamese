@@ -712,4 +712,14 @@ Bạn cần đọc và đồng ý với Chính sách Riêng tư Mint Keyboard tr
     <string name="other_settings_alarm_assistance_privacy">Chính sách bảo mật</string>
     <string name="other_settings_alarm_assistance_summary">"Bạn có thể tự động gửi thông tin vị trí của mình cho cảnh sát bằng SMS hoặc dữ liệu di động khi bạn đang gọi 110, 120, 119 hoặc 122. Đọc và đồng ý với &lt;a href=\"%1$s\">Thỏa thuận người dùng của chúng tôi &lt;/a> và &lt;a href=\"%2$s\">Chính sách quyền riêng tư&lt;/a> trước khi sử dụng tính năng này."</string>
     <string name="other_settings_alarm_assistance_user">Thỏa thuận người dùng</string>
+	<string name="aquire_device_info">Truy cập thông tin thiết bị</string>
+    <string name="interconnection_service_global_item_title">Kết nối Xiaomi</string>
+    <string name="interconnection_service_global_label">"&lt;Data>Kết nối Xiaomi cho phép các thiết bị của bạn tương tác không dây với nhau. Bằng cách bật công tắc này, bạn đồng ý với &lt;a href=%1$s>Chính sách quyền riêng tư của kết nối Xiaomi&lt;/a >.&lt;/Data>"</string>
+    <string name="interconnection_service_summary_global">"Các tính năng Kết nối Xiaomi có thể khác nhau tùy thuộc vào kiểu thiết bị và phiên bản hệ thống. Truy cập trang web chính thức của hệ thống để tìm hiểu thêm."</string>
+    <string name="permission_application_scope_description">"Chúng tôi chỉ sử dụng các quyền này khi thực hiện xác minh bảo mật và sẽ không sử dụng chúng cho bất kỳ mục đích nào khác."</string>
+    <string name="read_application_info">Truy cập thông tin ứng dụng</string>
+    <string name="safe_open_service">Bảo mật các dịch vụ mở</string>
+    <string name="safe_open_service_introduction">Các dịch vụ mở an toàn hỗ trợ các nhà phát triển và cung cấp khả năng bảo mật cấp hệ thống để bảo vệ người dùng và quyền riêng tư của họ.</string>
+    <string name="verify_application_security">Để xác minh bảo mật ứng dụng</string>
+    <string name="verify_device_security">Để xác minh bảo mật thiết bị</string>
 </resources>
