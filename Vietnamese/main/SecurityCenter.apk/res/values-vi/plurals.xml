@@ -632,8 +632,8 @@
 		<item quantity="one">%s giờ</item>
 	</plurals>
 	<plurals name="pc_main_power_center_battery_minute">
-		<item quantity="other">‌‌%s phút</item>
-		<item quantity="one">‌‌%s phút</item>
+		<item quantity="other">%s phút</item>
+		<item quantity="one">%s phút</item>
 	</plurals>
 	<plurals name="pc_main_power_manager_day">
 		<item quantity="other">%s ngày cho đến khi được sạc đầy</item>
@@ -984,32 +984,32 @@
 		<item quantity="one"> %s phút</item>
 	</plurals>
 	<plurals name="power_center_battery_charge_number">
-		<item quantity="other">‌‌lần</item>
-		<item quantity="one">‌‌lần</item>
+		<item quantity="other">lần</item>
+		<item quantity="one">lần</item>
 	</plurals>
 	<plurals name="power_center_battery_consume_prolblem">
 		<item quantity="other">Vấn đề sử dụng pin %d</item>
 		<item quantity="one">Vấn đề sử dụng pin %d</item>
 	</plurals>
 	<plurals name="power_center_battery_day">
-		<item quantity="other">%d ngày</item>
-		<item quantity="one">%d ngày</item>
+		<item quantity="other">"%d ngày "</item>
+		<item quantity="one">"%d ngày "</item>
 	</plurals>
 	<plurals name="power_center_battery_duration_hour_time_format">
-		<item quantity="other">giờ</item>
-		<item quantity="one">giờ</item>
+		<item quantity="other">" giờ"</item>
+		<item quantity="one">" giờ"</item>
 	</plurals>
 	<plurals name="power_center_battery_duration_min_time_format">
-		<item quantity="other">phút</item>
-		<item quantity="one">phút</item>
+		<item quantity="other">" phút"</item>
+		<item quantity="one">" phút"</item>
 	</plurals>
 	<plurals name="power_center_battery_hour">
-		<item quantity="other">%d giờ</item>
-		<item quantity="one">%d giờ</item>
+		<item quantity="other">"%d giờ "</item>
+		<item quantity="one">"%d giờ "</item>
 	</plurals>
 	<plurals name="power_center_battery_minute">
-		<item quantity="other">‌‌%d phút</item>
-		<item quantity="one">‌‌%d phút</item>
+		<item quantity="other">"%d phút "</item>
+		<item quantity="one">"%d phút "</item>
 	</plurals>
 	<plurals name="power_center_battery_optimization">
 		<item quantity="other">Tối ưu hóa việc sử dụng pin trong các trường hợp %d</item>
@@ -1024,8 +1024,8 @@
 		<item quantity="one">Bạn có thể khắc phục sự cố sử dụng pin %d</item>
 	</plurals>
 	<plurals name="power_center_battery_save_suggest">
-		<item quantity="other">%d mục có thể được tối ưu hóa</item>
-		<item quantity="one">%d mục có thể được tối ưu hóa</item>
+		<item quantity="other">" %d mục có thể được tối ưu hóa"</item>
+		<item quantity="one">" %d mục có thể được tối ưu hóa"</item>
 	</plurals>
 	<plurals name="power_center_battery_suggest">
 		<item quantity="other">Tối ưu hóa %d mục để Tiết kiệm Pin</item>
