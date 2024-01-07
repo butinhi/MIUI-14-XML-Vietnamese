@@ -988,8 +988,8 @@
 		<item quantity="one">" lần"</item>
 	</plurals>
 	<plurals name="power_center_battery_consume_prolblem">
-		<item quantity="other">Vấn đề sử dụng pin %d</item>
-		<item quantity="one">Vấn đề sử dụng pin %d</item>
+		<item quantity="other">%d vấn đề sử dụng Pin</item>
+		<item quantity="one">%d vấn đề sử dụng Pin</item>
 	</plurals>
 	<plurals name="power_center_battery_day">
 		<item quantity="other">"%d ngày "</item>
@@ -1036,8 +1036,8 @@
 		<item quantity="one">Bạn có thể tối ưu hóa %d mục để Tiết kiệm Pin</item>
 	</plurals>
 	<plurals name="power_center_battery_temperature">
-		<item quantity="other">%d oC</item>
-		<item quantity="one">%d oC</item>
+		<item quantity="other">%d °C</item>
+		<item quantity="one">%d °C</item>
 	</plurals>
 	<plurals name="power_center_battery_volume">
 		<item quantity="other">%d mAh</item>
