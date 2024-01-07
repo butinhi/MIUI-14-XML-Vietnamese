@@ -980,12 +980,12 @@
 		<item quantity="one">%s giờ</item>
 	</plurals>
 	<plurals name="power_battery_minute">
-		<item quantity="other"> %s phút</item>
-		<item quantity="one"> %s phút</item>
+		<item quantity="other">%s phút</item>
+		<item quantity="one">%s phút</item>
 	</plurals>
 	<plurals name="power_center_battery_charge_number">
-		<item quantity="other">lần</item>
-		<item quantity="one">lần</item>
+		<item quantity="other">" lần"</item>
+		<item quantity="one">" lần"</item>
 	</plurals>
 	<plurals name="power_center_battery_consume_prolblem">
 		<item quantity="other">Vấn đề sử dụng pin %d</item>
