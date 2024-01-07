@@ -5368,7 +5368,7 @@ Bạn có thể tắt tùy chọn \"Tự động điều chỉnh số liệu th�
 	<string name="pc_fast_charge_notifi_switch_title">Thông báo về tăng tốc độ sạc</string>
 	<string name="pc_fast_charge_notifi_title">Sạc %dW</string>
 	<string name="pc_fast_charge_notifi_title_on">Dừng tăng tốc độ sạc</string>
-	<string name="pc_fast_charge_switch_summary">Bật để tăng tốc quá trình sạc. MIUI sẽ ưu tiên tốc độ sạc mà vẫn đảm bảo an toàn cho thiết bị. Pin của bạn càng thấp thì sạc càng nhanh. Tính năng này có thể làm nóng thiết bị.</string>
+	<string name="pc_fast_charge_switch_summary">"Bật để tăng tốc quá trình sạc. Tính năng này sẽ ưu tiên tốc độ sạc đồng thời đảm bảo an toàn cho thiết bị của bạn. Pin càng yếu thì sạc càng nhanh. Tính năng này có thể làm nóng thiết bị của bạn."</string>
 	<string name="pc_fast_charge_switch_summary_new">Nhắc nhở tăng tốc độ sạc khi bộ sạc đi kèm được kết nối và pin ở dưới mức cài đặt</string>
 	<string name="pc_fast_charge_switch_title">Tăng tốc độ sạc</string>
 	<string name="pc_fast_charge_switch_toast_message">Thay đổi sẽ được áp dụng lần tới khi bạn sạc thiết bị này</string>
