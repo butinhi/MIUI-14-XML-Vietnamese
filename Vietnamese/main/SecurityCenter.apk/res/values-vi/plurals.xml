@@ -548,8 +548,8 @@
 		<item quantity="one">Xóa %d APK còn lại</item>
 	</plurals>
 	<plurals name="notification_power_consume_issue">
-		<item quantity="other">Vấn đề sử dụng pin %d</item>
-		<item quantity="one">Vấn đề sử dụng pin %d</item>
+        <item quantity="other">%d vấn đề sử dụng pin</item>
+        <item quantity="one">%d vấn đề sử dụng pin</item>
 	</plurals>
 	<plurals name="notification_power_consume_suggest">
 		<item quantity="other">Tối ưu hóa %d mục để Tiết kiệm Pin</item>
