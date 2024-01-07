@@ -3817,7 +3817,7 @@ Bạn có thể thay đổi điều này sau đó từ Cài đặt > Ứng dụn
     <string name="ringtone_uniform_setting_title">Cài đặt cho cả 2 SIM</string>
     <string name="ringtone_slot_setting_title">Cài đặt cho từng SIM</string>
     <string name="haptic_feedback_level">Mức rung</string>
-    <string name="privacy_protect_title">Bảo mật cá nhân</string>
+    <string name="privacy_protect_title">Quyền riêng tư &amp; bảo mật</string>
     <string name="privacy_mode_enable_title">Chế độ Khách</string>
     <string name="privacy_mode_enable_sum">Ẩn tin nhắn, ghi chú, ảnh, cài đặt và cuộc gọi đến</string>
     <string name="ac_enable_title">Khóa ứng dụng</string>
