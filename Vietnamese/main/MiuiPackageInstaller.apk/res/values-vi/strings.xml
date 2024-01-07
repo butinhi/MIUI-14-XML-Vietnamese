@@ -487,7 +487,7 @@
     <string name="miui_no_perms">Không cần quyền</string>
     <string name="miui_not_uninstall_system_app">Không thể gỡ cài đặt ứng dụng hệ thống</string>
     <string name="miui_other_permission">Khác</string>
-    <string name="miui_permission_manage_title">chi tiết %s</string>
+    <string name="miui_permission_manage_title">Chi tiết %s</string>
     <string name="miui_privacy_relative">Sự riêng tư</string>
     <string name="miui_recommend_clean">Xóa dữ liệu ứng dụng</string>
     <string name="miui_recommend_clean_msg">Dữ liệu ứng dụng có thể chứa các bản tải xuống, tệp, v.v. của ứng dụng này.</string>
@@ -569,7 +569,7 @@
     <string name="mtrl_picker_a11y_next_month">Đổi sang tháng sau</string>
     <string name="mtrl_picker_a11y_prev_month">Thay đổi sang tháng trước</string>
     <string name="mtrl_picker_announce_current_selection">Lựa chọn hiện tại: %1$s</string>
-    <string name="mtrl_picker_confirm">ĐƯỢC RỒI</string>
+    <string name="mtrl_picker_confirm">Ok</string>
     <string name="mtrl_picker_date_header_selected">%1$s</string>
     <string name="mtrl_picker_date_header_title">Chọn ngày</string>
     <string name="mtrl_picker_date_header_unselected">Ngày đã chọn</string>
@@ -596,7 +596,7 @@
     <string name="mtrl_picker_toggle_to_day_selection">Nhấn để chuyển sang chọn ngày</string>
     <string name="mtrl_picker_toggle_to_text_input_mode">Chuyển sang chế độ nhập văn bản</string>
     <string name="mtrl_picker_toggle_to_year_selection">Nhấn để chuyển sang chọn một năm</string>
-    <string name="mtrl_timepicker_confirm">ĐƯỢC RỒI</string>
+    <string name="mtrl_timepicker_confirm">Ok</string>
     <string name="net_work_error_msg">Không thể kết nối mạng để chạy kiểm tra bảo mật</string>
     <string name="net_work_error_retry">Thử lại</string>
     <string name="night">Buổi tối</string>
@@ -604,7 +604,7 @@
     <string name="no_set_lock_screen_tip">Nếu chưa thiết lập Mật khẩu màn hình khóa, vân tay hoặc Mở khóa bằng khuôn mặt, bạn có thể thực hiện việc này trong Cài đặt.</string>
     <string name="noon">Một</string>
     <string name="not_set">Không được thiết lập</string>
-    <string name="ok">ĐƯỢC RỒI</string>
+    <string name="ok">Ok</string>
     <string name="once_authorize_dialog_message">Ứng dụng này chưa vượt qua các bài kiểm tra bảo mật của Xiaomi và chưa có sẵn trong GetApps. Bạn có thể cho phép cài đặt ứng dụng này nếu bạn tin tưởng nó. Hãy nhớ rằng những ứng dụng chưa vượt qua các bài kiểm tra bảo mật của chúng tôi có thể gây ra rủi ro.</string>
     <string name="once_authorize_dialog_title">Cho phép cài đặt %s?</string>
     <string name="only_get_app_for_mi_store">Chỉ tải xuống ứng dụng thông qua GetApps và nhà phát triển đã được xác minh</string>
@@ -778,8 +778,8 @@
     <string name="passport_wrong_voice">Mã bạn nhập không chính xác</string>
     <string name="password_toggle_content_description">Hiển thị mật khẩu</string>
     <string name="password_wrong_msg">Không thể xác minh. Thử lại.</string>
-    <string name="perm_privacy_app_finish">ĐƯỢC RỒI</string>
-    <string name="perm_privacy_app_launch">Phóng</string>
+    <string name="perm_privacy_app_finish">Ok</string>
+    <string name="perm_privacy_app_launch">Mở</string>
     <string name="permission_des_access_background_location">Để truy cập vị trí khi ứng dụng đang chạy ở chế độ nền</string>
     <string name="permission_des_access_coarse_location">Để truy cập vị trí gần đúng của bạn</string>
     <string name="permission_des_access_fine_location">Để truy cập vị trí của bạn</string>
