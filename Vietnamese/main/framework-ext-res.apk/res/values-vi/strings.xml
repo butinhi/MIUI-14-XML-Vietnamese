@@ -463,7 +463,7 @@
 	<string name="australiaanimals_preview">Úc</string>
 	<string name="wallpaper_group_more_system_wallpaper_title">Thêm hình nền hệ thống</string>
 	<string name="monet">Ao hồ</string>
-	<string name="wallpaper_group_natural_texture_title">Mẫu tự nhiên</string>
+	<string name="wallpaper_group_natural_texture_title">Hoa văn thiên nhiên</string>
 	<string name="spring">Mùa xuân</string>
 	<string name="fireflies">Đom đóm</string>
 	<string name="frog">Tiếng ếch kêu</string>
@@ -541,4 +541,19 @@
 	<string name="relaunch_dialog_button_confirm">Khởi động lại</string>
 	<string name="relaunch_action">Khởi động lại</string>
 	<string name="softap_stat_toast">Điểm phát sóng đang bật</string>
+	<string name="wallpaper_floral_arrangement_title">Sắp xếp hoa</string>
+    <string name="wallpaper_geometrically_irregular_title">Hình học trừu tượng</string>
+    <string name="wallpaper_gradient_title">Pha trộn màu sắc</string>
+    <string name="wallpaper_group_black_gobi_title">Cát Gobi</string>
+    <string name="wallpaper_group_concerto_title">Bản hòa tấu</string>
+    <string name="wallpaper_group_crystallization_subtitle">Vẻ đẹp của khoa học</string>
+    <string name="wallpaper_group_crystallization_title">Kết tinh</string>
+    <string name="wallpaper_group_curves_title">Đường cong</string>
+    <string name="wallpaper_group_glassy_light_title">Kính nhiều lớp</string>
+    <string name="wallpaper_group_light_cycles_title">Vòng tròn neon</string>
+    <string name="wallpaper_group_macaron_title">Sỏi</string>
+    <string name="wallpaper_group_molten_glass_title">Thủy tinh nóng chảy</string>
+    <string name="wallpaper_group_petros_koublis_title">Giấc mơ</string>
+    <string name="wallpaper_group_shadow_geometry_title">Bóng hình</string>
+    <string name="wallpaper_overlapping_space_title">Hình dạng và ảo ảnh</string>
 </resources>
