@@ -591,7 +591,7 @@
     <string name="magic_effect_video_text">Hiệu ứng video</string>
     <string name="magic_eraser">Cục tẩy</string>
     <string name="magic_error_adding_filter">Không thể áp dụng bộ lọc</string>
-    <string name="magic_exporting">Tiết kiệm…</string>
+    <string name="magic_exporting">Đang lưu…</string>
     <string name="magic_filter">Cắt ra</string>
     <string name="magic_filter_dsc">Tạo ảnh chân dung với hình nền tuyệt đẹp</string>
     <string name="magic_galery">Phòng trưng bày</string>
@@ -1005,7 +1005,7 @@
     <string name="photo_editor_remover2_tip_type_deshadow">Xóa bóng</string>
     <string name="photo_editor_remover2_toast_no_things">Không thể phát hiện vật thể</string>
     <string name="photo_editor_rotate">Xoay</string>
-    <string name="photo_editor_saving">Tiết kiệm…</string>
+    <string name="photo_editor_saving">Đang lưu…</string>
     <string name="photo_editor_sky">Bầu trời</string>
     <string name="photo_editor_sticker">Hình dán</string>
     <string name="photo_editor_talkback_beautity_applied">Tự động làm đẹp đang bật</string>
