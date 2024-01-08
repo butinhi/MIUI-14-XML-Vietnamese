@@ -3319,4 +3319,6 @@ Phiên dịch có thể mất một lúc khi bạn sử dụng tính năng này 
 	<string name="first_delete_media_for_cloud">Các mục đã chọn sẽ bị xóa khỏi đám mây và tất cả các thiết bị đã đồng bộ hóa với các mục đã xóa gần đây sẽ bị xóa vĩnh viễn sau %d ngày trừ khi bạn có gói lưu trữ trên đám mây. Vẫn xóa?</string>
 	<string name="hdr_switch_show_hint">Sử dụng HDR để hiển thị chi tiết hơn ở vùng sáng và vùng tối</string>
     <string name="hdr_switch_show_title">Hiển thị HDR chuyên nghiệp</string>
+	<string name="privacy_permission_storage_detail">Để lưu trữ ảnh và video</string>
+	<string name="assistant_page_image_printing">In</string>
 </resources>

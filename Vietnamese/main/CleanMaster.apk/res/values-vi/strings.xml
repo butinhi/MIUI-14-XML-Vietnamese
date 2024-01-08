@@ -219,7 +219,7 @@
     <string name="hints_deepclean_scanning">Đang quét %s</string>
     <string name="cache_title_system_cache">Bộ nhớ đệm hệ thống</string>
     <string name="hints_storage_free">Miễn phí</string>
-    <string name="hints_storage_free_size">Tổng %1$s, trống %2$s</string>
+    <string name="hints_storage_free_size">Tổng %1$s, khả dụng %2$s</string>
     <string name="apps_sort_type_title">Sắp xếp</string>
     <string name="apps_sort_type_item_time">Thường dùng</string>
     <string name="apps_sort_type_item_size">Kích thước</string>
@@ -612,7 +612,7 @@
     <string name="facebook_clean_exit_confirm_msg">Chưa kết thúc quét Facebook. Dừng quét ngay?</string>
     <string name="facebook_clean_exit_confirm_ok">Dừng</string>
     <string name="facebook_clean_exit_confirm_title">Dừng quét?</string>
-    <string name="facebook_cleaner">Trình dọn dẹp Facebook</string>
+    <string name="facebook_cleaner">Dọn dẹp Facebook</string>
     <string name="facebook_group_cache">Tập tin bộ nhớ đệm</string>
     <string name="facebook_group_gif">GIF</string>
     <string name="facebook_group_image">Ảnh</string>
@@ -708,7 +708,7 @@
     <string name="junk_tag_junk_big_name_whatsapp_media_video">Tệp video Whatsapp</string>
     <string name="junk_tag_system_fixed_cache_item_sd_pushLog_title">Nhật ký đẩy GDC</string>
 	<string name="facebook_function_summery">Xóa các mục được lưu trữ bởi Facebook</string>
-    <string name="facebook_function_title">Trình dọn dẹp Facebook</string>
+    <string name="facebook_function_title">Dọn dẹp Facebook</string>
     <string name="phone_search">Tìm kiếm Google</string>
 	<string name="security_center_slogan">Để thiết bị luôn nhanh và an toàn</string>
 	<string name="notification_garbage_cleanup_summary">Xóa rác (%s) để tăng tốc thiết bị của bạn</string>
@@ -1414,4 +1414,5 @@
 	<string name="common_google_play_services_unknown_issue">%1$s đang gặp sự cố với các dịch vụ của Google Play. Hãy thử lại.</string>
 	<string name="common_google_play_services_update_title">Cập nhật dịch vụ của Google Play</string>
 	<string name="guide_secure_dialog_message_new">Điểm tối ưu hóa thiết bị của bạn thấp hơn %d điểm. Tối ưu hóa ngay bây giờ?</string>
+    <string name="dc_storage_info_new">%1$s khả dụng</string>
 </resources>

@@ -835,4 +835,6 @@ Bạn cần phải cài đặt phiên bản OS của nhà phát triển để tr
     <string name="group_sport_healthy">Sức khỏe và hoạt động</string>
     <string name="group_write_clipboard">Thêm mục vào clipboard</string>
 	<string name="HIPS_Perm_read_Calendar">Truy cập Lịch</string>
+	<string name="tilte_request_coarse_location">Cho phép %1$s truy cập vào vị trí gần đúng của bạn?</string>
+    <string name="tilte_request_fine_location">Cho phép %1$s truy cập vào vị trí chính xác của bạn hay thay vào đó bắt nó sử dụng vị trí gần đúng?</string>
 </resources>

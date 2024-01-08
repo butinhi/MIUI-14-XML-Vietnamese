@@ -3384,4 +3384,8 @@ dd/MM"</string>
     <string name="quick_settings_intelligent_dual_sim_accelerate_title">SIM kép thông minh</string>
 	<string name="screenrecord_save_title">Đã lưu bản ghi màn hình</string>
 	<string name="notification_status_bar">Thông báo &amp; thanh trạng thái</string>
+    <string name="media_projection_dialog_warning">%s sẽ có quyền truy cập vào tất cả thông tin hiển thị trên màn hình của bạn hoặc được phát từ thiết bị của bạn trong khi ghi hoặc truyền. Điều này bao gồm các thông tin như mật khẩu, chi tiết thanh toán, ảnh, tin nhắn và âm thanh mà bạn phát.</string>
+    <string name="media_projection_sys_service_dialog_title">Bắt đầu ghi hoặc truyền?</string>
+    <string name="media_projection_sys_service_dialog_warning">Dịch vụ cung cấp chức năng này sẽ có quyền truy cập vào tất cả thông tin hiển thị trên màn hình của bạn hoặc được phát từ thiết bị của bạn trong khi ghi hoặc truyền. Điều này bao gồm các thông tin như mật khẩu, chi tiết thanh toán, ảnh, tin nhắn và âm thanh mà bạn phát.</string>
+    <string name="media_seamless_other_device">Thiết bị khác</string>
 </resources>
