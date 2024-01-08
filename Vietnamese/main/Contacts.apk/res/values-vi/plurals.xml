@@ -203,4 +203,8 @@
 	<plurals name="miuix_appcompat_items_selected">
 		<item quantity="other">%d mục đã chọn</item>
 	</plurals>
+	<plurals name="notification_missedCallsMsg">
+        <item quantity="other">%d cuộc gọi nhỡ</item>
+        <item quantity="one">%d cuộc gọi nhỡ</item>
+    </plurals>
 </resources>

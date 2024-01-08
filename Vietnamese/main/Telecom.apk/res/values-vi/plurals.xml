@@ -2,6 +2,7 @@
 <resources>
     <plurals name="notification_missedCallTitle_miui">
         <item quantity="other">Cuộc gọi nhỡ</item>
+		<item quantity="one">Cuộc gọi nhỡ</item>
     </plurals>
 	<plurals name="wifi_tether_connected_summary">
         <item quantity="other">%1$d thiết bị được kết nối</item>

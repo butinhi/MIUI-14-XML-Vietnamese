@@ -2225,4 +2225,5 @@ Chuyển vùng Mi cần kết nối Internet và truy cập thông tin vị trí
 	<string name="invisible_mode_dialog_cancel">Hủy</string>
 	<string name="manage_external_storage_dialog_title">Yêu cầu quyền</string>
 	<string name="invisible_mode_title">"Bạn đang ẩn danh"</string>
+	<string name="notification_missedCallsTitle">Cuộc gọi nhỡ</string>
 </resources>
