@@ -600,4 +600,7 @@ dd/M"</string>
     <string name="miui_lock_screen_date_two_lines_12">"EE dd MMM"</string>
     <string name="miui_lock_screen_large_date">"EE d/M"</string>
     <string name="miui_lock_screen_large_date_12">"EE d/M"</string>
+	<string name="format_month_day_style2">d/M</string>
+	<string name="format_month_day_style1">d/MMM</string>
+	<string name="format_month_day_week">EEE, dd MMM</string>
 </resources>
