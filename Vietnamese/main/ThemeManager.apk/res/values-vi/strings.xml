@@ -33,8 +33,8 @@
     <string name="change_wallpaper">Hình nền</string>
     <string name="close">Đóng</string>
     <string name="component_backup_preference_title">Sao lưu chủ đề</string>
-    <string name="component_category_finest_title">CHUNG</string>
-    <string name="component_category_more_title">NÂNG CAO</string>
+    <string name="component_category_finest_title">Chung</string>
+    <string name="component_category_more_title">Nâng cao</string>
     <string name="component_title_ringtone">Nhạc chuông</string>
     <string name="component_title_wallpaper">Hình nền</string>
     <string name="current_using_desktop_wallpaper_text">Màn hình chính</string>
@@ -121,7 +121,7 @@
     <string name="lockscreen_magazine_title">Tạp chí Khóa màn hình</string>
     <string name="lockscreen_wallpaper">Màn hình khóa</string>
     <string name="lockstyle_personal_settings">Tùy chỉnh</string>
-    <string name="mi_wallpaper">Hình nền MIUI</string>
+    <string name="mi_wallpaper">Hình nền</string>
     <string name="multi_sim_ringtone_settings_dialog_message">Nhạc chuông đã được áp dụng trên hai thẻ SIM.</string>
     <string name="multi_sim_ringtone_settings_dialog_ok">Tôi biết</string>
     <string name="multi_sim_ringtone_settings_dialog_remind_never">Không hiển thị lại</string>
@@ -1789,4 +1789,21 @@ Tất cả các mục cá nhân hóa hiện đang được sử dụng trên thi
     <string name="restore_default_lock_style_apply_superwallpaper">"Mẫu màn hình khóa này không hỗ trợ hình nền Super. Sau khi áp dụng, Màn hình khóa của bạn sẽ trở lại mặc định và hình nền Màn hình chính và Màn hình khóa sẽ được thay thế. Áp dụng ngay bây giờ?"</string>
     <string name="restore_default_lockscreen_when_special_lock_style">"Bạn hiện đang sử dụng mẫu Màn hình khóa. Nếu bạn tiếp tục, Màn hình khóa của bạn sẽ được khôi phục về mặc định. Áp dụng ngay bây giờ?"</string>
     <string name="restore_history_lock_screen_when_apply_theme">"Bạn hiện đang sử dụng chủ đề của bên thứ ba. Nếu bạn thay đổi hình nền Màn hình khóa, điều này có thể khiến đồng hồ Màn hình khóa được khôi phục về mặc định. Áp dụng ngay bây giờ?"</string>
+	<string name="miui_lock_screen_date">EEE, dd MMM</string>
+    <string name="miui_lock_screen_date_12">EEE, dd MMM</string>
+    <string name="miui_lock_screen_date_two_lines">"EEE dd MMM"</string>
+    <string name="miui_lock_screen_date_two_lines_12">"EEE dd MMM"</string>
+    <string name="miui_lock_screen_large_date">"EE d/M"</string>
+    <string name="miui_lock_screen_large_date_12">"EE d/M"</string>
+	<string name="miui_magazine_c_clock_style2_date">EE d/M</string>
+	<string name="miui_magazine_c_clock_style2_date_content_description">EEEE, dd MMM</string>
+	<string name="miui_magazine_clock_date">d/M</string>
+	<string name="miui_magazine_clock_date_content_description">dd/MM</string>
+	<string name="miui_rhombus_clock_date">dd MMMM</string>
+	<string name="miui_smart_frame_clock_date">d/M</string>
+	<string name="privacy_revoke_agree_content_1">1. Tất cả các đơn hàng (bao gồm cả các đơn hàng đã thanh toán) được thực hiện trên thiết bị Xiaomi mà bạn đã sử dụng Tài khoản Xiaomi của mình. Bạn sẽ không thể sử dụng các mặt hàng bạn đã mua nữa.</string>
+    <string name="privacy_revoke_agree_content_2">2. Tất cả thông tin về lượt thích, nhận xét, xếp hạng và người theo dõi của bạn được tạo trên thiết bị Xiaomi nơi bạn đã sử dụng Tài khoản Xiaomi của mình.</string>
+    <string name="privacy_revoke_agree_content_5">5. Tất cả các mục cá nhân hóa hiện đang được sử dụng trên thiết bị này. Tùy chọn cá nhân hóa mặc định sẽ được khôi phục.</string>
+    <string name="privacy_phone_revoke_agree_content_3">3. Tất cả các chủ đề, hình nền, hình nền động, phông chữ, biểu tượng và nhạc chuông được tải xuống thiết bị này.</string>
+    <string name="privacy_phone_revoke_agree_content_4">4. Tất cả bản ghi lịch sử tìm kiếm, tùy chọn quyền, cài đặt và mục được lưu trong bộ nhớ đệm được tạo trên thiết bị này.</string>
 </resources>

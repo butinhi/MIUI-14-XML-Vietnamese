@@ -3394,4 +3394,9 @@ dd/MM"</string>
     <string name="quick_settings_miui_wifi_label">Wi-Fi</string>
     <string name="quick_settings_miui_wlan_detail_empty_text">Không có mạng Wi-Fi</string>
     <string name="quick_settings_miui_wlan_label">Wi-Fi</string>
+	<string name="miui_magazine_c_clock_style2_date">EE d/M</string>
+    <string name="miui_magazine_c_clock_style2_date_content_description">EEEE, dd MM</string>
+    <string name="miui_magazine_clock_date">d/M</string>
+    <string name="miui_magazine_clock_date_content_description">dd/MM</string>
+	<string name="miui_rhombus_clock_date">dd MMM</string>
 </resources>

@@ -588,4 +588,16 @@ dd/M"</string>
 	<string name="kg_rhombus_switch_label">Chữ số nhiều màu</string>
 	<string name="kg_smart_frame_primary_label">Chữ</string>
 	<string name="kg_smart_frame_secondary_label">Nền</string>
+	<string name="miui_smart_frame_clock_date">d/M</string>
+	<string name="miui_rhombus_clock_date">dd MMM</string>
+	<string name="miui_magazine_clock_date_content_description">dd/MM</string>
+	<string name="miui_magazine_clock_date">d/M</string>
+	<string name="miui_magazine_c_clock_style2_date_content_description">EE, dd MMM</string>
+	<string name="miui_magazine_c_clock_style2_date">EE d/M</string>
+	<string name="miui_lock_screen_date">EE, dd MMM</string>
+    <string name="miui_lock_screen_date_12">EE, dd MMM</string>
+    <string name="miui_lock_screen_date_two_lines">"EE dd MMM"</string>
+    <string name="miui_lock_screen_date_two_lines_12">"EE dd MMM"</string>
+    <string name="miui_lock_screen_large_date">"EE d/M"</string>
+    <string name="miui_lock_screen_large_date_12">"EE d/M"</string>
 </resources>
