@@ -3390,4 +3390,8 @@ dd/MM"</string>
     <string name="media_seamless_other_device">Thiết bị khác</string>
 	<string name="quick_settings_state_wifi_select_nearby_ap">Chọn mạng Wi-Fi lân cận</string>
     <string name="quick_settings_state_wlan_select_nearby_ap">Chọn mạng Wi-Fi lân cận</string>
+	<string name="quick_settings_miui_wifi_detail_empty_text">Không có mạng Wi-Fi</string>
+    <string name="quick_settings_miui_wifi_label">Wi-Fi</string>
+    <string name="quick_settings_miui_wlan_detail_empty_text">Không có mạng Wi-Fi</string>
+    <string name="quick_settings_miui_wlan_label">Wi-Fi</string>
 </resources>
