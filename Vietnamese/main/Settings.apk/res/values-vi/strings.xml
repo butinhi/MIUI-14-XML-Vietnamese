@@ -4395,7 +4395,7 @@ Bạn có thể thay đổi điều này sau đó từ Cài đặt > Ứng dụn
     <string name="wifi_share_summary2">Khi người dùng MIUI khác chia sẻ mạng, bạn có thể kết nối trực tiếp với mạng đó mà không cần nhập mật khẩu.</string>
     <string name="wifi_share_summary3">Bạn cũng có thể chia sẻ mạng Wi-Fi công cộng cho người dùng MIUI khác.</string>
     <string name="wifi_share_add">Chia sẻ mạng Wi-Fi công cộng</string>
-    <string name="wifi_share_notification_summary"Hệ thống đã kết nối bạn đến mạng Wi-Fi công cộng.</string>
+    <string name="wifi_share_notification_summary">Hệ thống đã kết nối bạn đến mạng Wi-Fi công cộng.</string>
     <string name="wifi_share_add_summary">"Khi bạn chia sẻ mạng Wi-Fi công cộng,
  bạn có thể sử dụng các mạng được chia sẻ của người dùng khác"</string>
     <string name="wifi_share_login">Chia sẻ mạng Wi-Fi</string>
