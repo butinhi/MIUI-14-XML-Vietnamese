@@ -91,4 +91,16 @@
 	<plurals name="miuix_appcompat_items_selected">
 		<item quantity="other">%d mục đã chọn</item>
 	</plurals>
+	<plurals name="exit_camera_hint">
+        <item quantity="other">&lt;Data>"Không thể kết nối với máy ảnh.&lt;br>Ứng dụng này sẽ bị đóng sau &lt;font color=#FFCE16>&lt;b>%1$d giây&lt;/b>&lt;/font>. Sau đó, đợi một hoặc hai phút và thử lại."&lt;/Data></item>
+        <item quantity="one">&lt;Data>"Không thể kết nối với máy ảnh.&lt;br>Ứng dụng này sẽ bị đóng sau &lt;font color=#FFCE16>&lt;b>%1$d giây&lt;/b>&lt;/font>. Sau đó, đợi một hoặc hai phút và thử lại."&lt;/Data></item>
+    </plurals>
+    <plurals name="exit_thermal_hint">
+        <item quantity="other">&lt;Data>Thiết bị quá nóng.&lt;br>Ứng dụng sẽ đóng sau &lt;font color=#FFCE16>&lt;b>%1$d giây&lt;/b>&lt;/font>. Tiến trình hiện tại đã được lưu tự động.&lt;/Data></item>
+        <item quantity="one">&lt;Data>Thiết bị quá nóng.&lt;br>Ứng dụng sẽ đóng sau &lt;font color=#FFCE16>&lt;b>%1$d giây&lt;/b>&lt;/font>. Tiến trình hiện tại đã được lưu tự động.&lt;/Data></item>
+    </plurals>
+    <plurals name="exit_version_hint">
+        <item quantity="other">&lt;Data>"Phiên bản Máy ảnh bạn đang sử dụng không tương thích với thiết bị của bạn.&lt;br>Ứng dụng này sẽ bị đóng sau &lt;font color=#FFCE16>&lt;b>%1$d giây&lt;/b>&lt;/font>. Gỡ cài đặt bản cập nhật Máy ảnh và thử lại."&lt;/Data></item>
+        <item quantity="one">&lt;Data>"Phiên bản Máy ảnh bạn đang sử dụng không tương thích với thiết bị của bạn.&lt;br>Ứng dụng này sẽ bị đóng sau &lt;font color=#FFCE16>&lt;b>%1$d giây&lt;/b>&lt;/font>. Gỡ cài đặt bản cập nhật Máy ảnh và thử lại."&lt;/Data></item>
+    </plurals>
 </resources>
