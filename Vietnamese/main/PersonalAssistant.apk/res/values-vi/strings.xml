@@ -2998,4 +2998,16 @@ Vui lòng gửi mã này cho nhân viên kỹ thuật."</string>
 	<string name="pa_global_search_description">Tìm kiếm</string>
 	<string name="pa_picker_detail_download_maml_dialog_message">Cần có %s dữ liệu di động để tải xuống tiện ích này ngay bây giờ. Vẫn tải xuống?</string>
 	<string name="pa_picker_detail_download_maml_dialog_checkbox_text">"Không hiển thị lại trong %d phút"</string>
+    <string name="pa_widget_menu_edit_card_in_stack">Sửa \"%s\"</string>
+    <string name="pa_widget_menu_edit_stack">Sửa nhóm</string>
+    <string name="pa_widget_menu_improve_edit">Sửa</string>
+    <string name="pa_widget_menu_improve_remove">Xoá</string>
+    <string name="pa_widget_menu_improve_remove_card_in_stack">Xoá \"%s\"</string>
+    <string name="pa_widget_menu_improve_replace">Thay thế</string>
+    <string name="pa_widget_menu_remove_card_in_stack">Xoá \"%s\"</string>
+	<string name="pa_toast_home_layout_locked">Bố cục màn hình chính bị khóa</string>
+    <string name="pa_vertical_center">Bố cục dọc. Căn lề giữa.</string>
+    <string name="pa_vertical_left">Bố cục dọc. Căn lề trái.</string>
+    <string name="pa_vertical_right">Bố cục dọc. Căn lề phải.</string>
+    <string name="pa_widget_advert_loading_dialog_message">Đợi một chút…</string>
 </resources>
