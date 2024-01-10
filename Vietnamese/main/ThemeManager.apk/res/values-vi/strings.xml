@@ -1800,4 +1800,7 @@ Tất cả các mục cá nhân hóa hiện đang được sử dụng trên thi
     <string name="privacy_revoke_agree_content_5">5. Tất cả các mục cá nhân hóa hiện đang được sử dụng trên thiết bị này. Tùy chọn cá nhân hóa mặc định sẽ được khôi phục.</string>
     <string name="privacy_phone_revoke_agree_content_3">3. Tất cả các chủ đề, hình nền, hình nền động, phông chữ, biểu tượng và nhạc chuông được tải xuống thiết bị này.</string>
     <string name="privacy_phone_revoke_agree_content_4">4. Tất cả bản ghi lịch sử tìm kiếm, tùy chọn quyền, cài đặt và mục được lưu trong bộ nhớ đệm được tạo trên thiết bị này.</string>
+	    	<string name="format_month_day_style2">d/M</string>
+	<string name="format_month_day_style1">d/MMM</string>
+	<string name="format_month_day_week">EEE, dd MMM</string>
 </resources>
