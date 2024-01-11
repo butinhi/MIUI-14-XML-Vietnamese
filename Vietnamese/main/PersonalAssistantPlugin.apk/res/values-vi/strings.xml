@@ -170,8 +170,8 @@
     <string name="greeting_title_night">Chào buổi tối!</string>
     <string name="greeting_weather_prefix_moring">Hôm nay</string>
     <string name="greeting_weather_prefix_night">Ngày mai</string>
-    <string name="greeting_weather_prefix_saturday">Thứ bảy</string>
-    <string name="greeting_weather_prefix_sunday">Chủ nhật</string>
+    <string name="greeting_weather_prefix_saturday">Thứ Bảy</string>
+    <string name="greeting_weather_prefix_sunday">Chủ Nhật</string>
     <string name="greeting_weather_desc">%1$s %2$s %3$s %4$s</string>
     <string name="greeting_weather_desc_from_to">%1$s tới %2$s</string>
     <string name="greeting_schedule_desc">Các sự kiện được lên lịch cho ngày hôm nay: %1$d</string>

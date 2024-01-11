@@ -143,13 +143,13 @@
 		<item>60 phút</item>
 	</string-array>
     <string-array name="pa_home_week_days">
-        <item>Chủ nhật</item>
-        <item>Thứ hai</item>
-        <item>Thứ ba</item>
+        <item>Chủ Nhật</item>
+        <item>Thứ Hai</item>
+        <item>Thứ Ba</item>
         <item>Thứ Tư</item>
-        <item>Thứ năm</item>
-        <item>Thứ sáu</item>
-        <item>Thứ bảy</item>
-        <item>Chủ nhật</item>
+        <item>Thứ Năm</item>
+        <item>Thứ Sáu</item>
+        <item>Thứ Bảy</item>
+        <item>Chủ Nhật</item>
     </string-array>
 </resources>

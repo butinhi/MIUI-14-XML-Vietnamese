@@ -49,13 +49,13 @@
 		<item>Đang mở Sức khỏe Mi</item>
 	</string-array>
 	<string-array name="week">
-		<item>Chủ nhật</item>
-		<item>Thứ hai</item>
-		<item>Thứ ba</item>
-		<item>Thứ tư</item>
-		<item>Thứ năm</item>
-		<item>Thứ sáu</item>
-		<item>Thứ bảy</item>
+		<item>Chủ Nhật</item>
+		<item>Thứ Hai</item>
+		<item>Thứ Ba</item>
+		<item>Thứ Tư</item>
+		<item>Thứ Năm</item>
+		<item>Thứ Sáu</item>
+		<item>Thứ Bảy</item>
 	</string-array>
 	<string-array name="stand_guide_page_content1">
 		<item>Ít vận động gây ra nhiều vấn đề sức khỏe. Nếu không thể giảm tổng thời gian ngồi một chỗ, các hoạt động đứng không liên tục có thể cải thiện hiệu quả các vấn đề ít vận động.</item>

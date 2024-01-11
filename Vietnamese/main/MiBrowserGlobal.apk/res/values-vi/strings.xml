@@ -159,9 +159,9 @@ Rời khỏi trang này bây giờ?"</string>
 	<string name="report_action_manual_pull_refresh">Kéo xuống để làm mới</string>
 	<string name="contextmenu_manually_block_ad">Dán nhãn là quảng cáo</string>
 	<string name="report_event_enter_news_flow">Nhập luồng thông tin</string>
-	<string name="month_november">Tháng mười một</string>
+	<string name="month_november">Tháng 11</string>
 	<string name="pref_setting_title">Cài đặt trang</string>
-	<string name="month_february">Tháng hai</string>
+	<string name="month_february">Tháng 2</string>
 	<string name="block_ads_choice_block">Chặn</string>
 	<string name="mw_common_google_play_services_install_button">Cài đặt</string>
 	<string name="mw_date_picker_dialog_clear">Xóa</string>
@@ -176,7 +176,7 @@ Rời khỏi trang này bây giờ?"</string>
 	<string name="mw_abc_searchview_description_voice">Tìm kiếm bằng giọng nói</string>
 	<string name="new_update_available">Đã có phiên bản mới</string>
 	<string name="storage_permission_request_toast">Tải xuống yêu cầu truy cập vào lưu trữ thiết bị của bạn</string>
-	<string name="monday">Thứ hai</string>
+	<string name="monday">Thứ Hai</string>
 	<string name="year_month_day_format">dd MMM, yyyy</string>
 	<string name="quicklink_not_saved">Không thể thêm vào trang bắt đầu</string>
 	<string name="miuix_appcompat_action_mode_deselect_all">Bỏ chọn</string>
@@ -229,7 +229,7 @@ Hãy nhớ rằng các tập tin tải xuống và dấu trang mà bạn thêm s
 	<string name="report_action_timed_refresh">Thời gian làm mới</string>
 	<string name="fmt_time_second_millis">"s.S 'giây'"</string>
 	<string name="common_google_play_services_install_title">Cài đặt dịch vụ của Google Play</string>
-	<string name="friday">Thứ sáu</string>
+	<string name="friday">Thứ Sáu</string>
 	<string name="added_to_bookmarks">Đã thêm vào dấu trang</string>
 	<string name="vote_already">Bạn đã bình chọn</string>
 	<string name="noti_web_push">Thông báo trang web</string>
@@ -436,7 +436,7 @@ Kích thước cập nhật Delta: %2$s"</string>
 	<string name="save_image_failed">Không thể lưu ảnh</string>
 	<string name="homepage_delete_card_menu">Xóa</string>
 	<string name="fetching_video">Đang chuẩn bị video…</string>
-	<string name="month_january">Tháng một</string>
+	<string name="month_january">Tháng 1</string>
 	<string name="clear_most_visited">Lịch sử gần đây</string>
 	<string name="force_quick_search_title">Tìm kiếm</string>
 	<string name="columbus_player_close_desc">Bạn sẽ mất phần thưởng của bạn</string>
@@ -524,7 +524,7 @@ Kích thước cập nhật Delta: %2$s"</string>
 	<string name="progress_dialog_setting_wallpaper">Đang cài đặt hình nền…</string>
 	<string name="fast_search_title">Tìm kiếm nhanh</string>
 	<string name="app_name_midrop">Mi Drop</string>
-	<string name="month_june">Tháng sáu</string>
+	<string name="month_june">Tháng 6</string>
 	<string name="mw_no_matches">Không khớp</string>
 	<string name="title_app_tags">Ứng dụng</string>
 	<string name="media_error_action_refresh">Làm mới</string>
@@ -532,14 +532,14 @@ Kích thước cập nhật Delta: %2$s"</string>
 	<string name="solar_term_white_dews">Bạch Lộ</string>
 	<string name="chinese_leap">Nhuận</string>
 	<string name="rlv_refreshing">Đang làm mới</string>
-	<string name="wednesday">Thứ tư</string>
-	<string name="month_september">Tháng chín</string>
+	<string name="wednesday">Thứ Tư</string>
+	<string name="month_september">Tháng 9</string>
 	<string name="pref_rate_app">Đồng ý</string>
 	<string name="miuix_appcompat_search_input_description">Tìm kiếm</string>
 	<string name="preference_copied">\"%1$s\" đã sao chép vào clipboard.</string>
 	<string name="fmt_date_numeric_month_day">d/M</string>
 	<string name="mw_date_picker_dialog_other_button_label">Khác</string>
-	<string name="thursday">Thứ năm</string>
+	<string name="thursday">Thứ Năm</string>
 	<string name="app_name_screenshot">Ảnh chụp màn hình</string>
 	<string name="ignore_add_pwa_dialog_today">Không hiển thị lại hôm nay</string>
 	<string name="account_bind_secure_phone_title">Thêm số điện thoại khôi phục</string>
@@ -564,7 +564,7 @@ Kích thước cập nhật Delta: %2$s"</string>
 	<string name="mw_miuichromium_error_page_problem_page_not_working_reason_empty_response">Trang này không hoạt động do %s0 không gửi bất kỳ dữ liệu nào.</string>
 	<string name="readmode_reach_last_page">Đây là trang cuối cùng</string>
 	<string name="speed_test_ping">Trễ</string>
-	<string name="month_july">Tháng bảy</string>
+	<string name="month_july">Tháng 7</string>
 	<string name="mw_month_picker_dialog_title">Đặt tháng</string>
 	<string name="select_music">Âm thanh</string>
 	<string name="columbus_player_close_video">ĐÓNG VIDEO</string>
@@ -718,7 +718,7 @@ Kích thước cập nhật Delta: %2$s"</string>
 	<string name="mw_miuichromium_error_page_problem_cannot_reach_site_reason_name_collision">Không thể truy cập trang web này. Trang web này trên intranet có cùng URL như trang web bên ngoài.</string>
 	<string name="search_sm">SM</string>
 	<string name="contextmenu_dial_dot">Quay số…</string>
-	<string name="month_may">Tháng năm</string>
+	<string name="month_may">Tháng 5</string>
 	<string name="mw_abc_searchview_description_clear">Xóa truy vấn</string>
 	<string name="hashtag_detail_explore">Khám phá</string>
 	<string name="lockpattern_need_to_unlock_wrong">Thử lại</string>
@@ -792,7 +792,7 @@ Trang mà bạn xem sẽ không xuất hiện trong lịch sử."</string>
 	<string name="suggest_open_app_failed">Không thể mở ứng dụng này</string>
 	<string name="chinese_symbol_animals_horse">Ngọ</string>
 	<string name="lockpattern_continue_button_text">Tiếp theo</string>
-	<string name="saturday">Thứ bảy</string>
+	<string name="saturday">Thứ Bảy</string>
 	<string name="diagnosis_log_send_failed">Gửi nhật ký chẩn đoán thất bại.</string>
 	<string name="error_filename_too_long">Tên tập tin bạn đã nhập là quá dài.</string>
 	<string name="file_info_modified">Thay đổi lần cuối:</string>
@@ -1192,7 +1192,7 @@ Trang mà bạn xem sẽ không xuất hiện trong lịch sử."</string>
 	<string name="passport_wrong_vcode">Mã bạn nhập không đúng</string>
 	<string name="accessibility_button_clear">Xóa nội dung nhập vào</string>
 	<string name="vpn_privacy_dialog_title">Tuyên bố về quyền riêng tư</string>
-	<string name="month_march">Tháng ba</string>
+	<string name="month_march">Tháng 3</string>
 	<string name="the_chinese_youth_day">Hội Giới Trẻ</string>
 	<string name="pref_privacy_clear_form_data_summary">Xóa tất cả dữ liệu biểu mẫu đã lưu</string>
 	<string name="news_loading">Đang tải…</string>
@@ -1201,7 +1201,7 @@ Trang mà bạn xem sẽ không xuất hiện trong lịch sử."</string>
 	<string name="month_august_short">Tháng 8</string>
 	<string name="transfer_restart">Khởi động lại</string>
 	<string name="download_business_v5_edit_mode_title_empty">Đã chọn 0</string>
-	<string name="month_august">Tháng tám</string>
+	<string name="month_august">Tháng 8</string>
 	<string name="action_menu_text_refresh">Làm mới</string>
 	<string name="passport_error_network">Không thể kết nối mạng</string>
 	<string name="no_app_open_document">Không tìm thấy ứng dụng để xử lý tác vụ này</string>
@@ -1373,7 +1373,7 @@ Trang mà bạn xem sẽ không xuất hiện trong lịch sử."</string>
 	<string name="nf_feedback_tips2">Cảm ơn phản hồi của bạn</string>
 	<string name="nf_feedback_tips1">"Bạn sẽ ít thấy nội dung loại này hơn"</string>
 	<string name="solar_term_slight_cold">Tiểu Hàn</string>
-	<string name="sunday">Chủ nhật</string>
+	<string name="sunday">Chủ Nhật</string>
 	<string name="version_check_button_no_network">Không thể kết nối mạng</string>
 	<string name="phone">Lưu trữ</string>
 	<string name="homepage_get_location">Nhận vị trí</string>
@@ -1452,7 +1452,7 @@ Trang mà bạn xem sẽ không xuất hiện trong lịch sử."</string>
 	<string name="passport_account_label">Tài khoản Mi</string>
 	<string name="action_menu_account_not_login">Chưa đăng nhập</string>
 	<string name="pref_version_info">Thông tin phiên bản</string>
-	<string name="month_december">Tháng mười hai</string>
+	<string name="month_december">Tháng 12</string>
 	<string name="heavenly_stems_ren">"Nhâm "</string>
 	<string name="pref_privacy_clear_passwords_summary">Xóa tất cả mật khẩu đã lưu</string>
 	<string name="return_to_homepage">Quay trở lại trang bắt đầu</string>
@@ -1705,7 +1705,7 @@ Trang mà bạn xem sẽ không xuất hiện trong lịch sử."</string>
 	<string name="ytb_logout">Đăng xuất</string>
 	<string name="fmt_date_long_year_month">MMMM, yyyy</string>
 	<string name="load_more">XEM THÊM</string>
-	<string name="month_april">Tháng tư</string>
+	<string name="month_april">Tháng 4</string>
 	<string name="tab_feed">Tin tức</string>
 	<string name="no_space_alert_text">Không đủ dung lượng lưu trữ</string>
 	<string name="download_dialog_default_path_invalid">Vị trí tải xuống bạn đã chọn là không hợp lệ. Đang lưu vị trí mặc định…</string>
@@ -1854,7 +1854,7 @@ Trang mà bạn xem sẽ không xuất hiện trong lịch sử."</string>
 	<string name="mw_common_signin_button_text">Đăng nhập</string>
 	<string name="app_name_downloads">Tải xuống</string>
 	<string name="fetch_video">Đang chuẩn bị video…</string>
-	<string name="month_october">Tháng mười</string>
+	<string name="month_october">Tháng 10</string>
 	<string name="rename_alert">Nếu bạn thay đổi định dạng tập tin, bạn sẽ không thể mở.</string>
 	<string name="report_action_channel_click">Bấm vào kênh</string>
 	<string name="download_memory_info_avai">Khả dụng %s |</string>
@@ -1959,7 +1959,7 @@ Trang mà bạn xem sẽ không xuất hiện trong lịch sử."</string>
 	<string name="exo_controls_previous_description">Bản nhạc trước</string>
 	<string name="security_warnings_confirm_message">Tắt tính năng này có thể gây ra nguy cơ bảo mật.</string>
 	<string name="pref_automatic_matching_searchengines_title">Chuyển sang công cụ tìm kiếm thường dùng</string>
-	<string name="tuesday">Thứ ba</string>
+	<string name="tuesday">Thứ Ba</string>
 	<string name="refreshing">Đang làm mới</string>
 	<string name="pref_privacy_clear_cookies">Xóa tất cả dữ liệu cookie</string>
 	<string name="chinese_symbol_animals_dog">Tuất</string>

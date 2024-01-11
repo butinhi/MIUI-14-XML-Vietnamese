@@ -4,18 +4,18 @@
 		<item>Sửa một số vấn đề đã biết.</item>
 	</string-array>
 	<string-array name="month12">
-		<item>Tháng Một</item>
-		<item>Tháng Hai</item>
-		<item>Tháng Ba</item>
-		<item>Tháng Tư</item>
-		<item>Tháng Năm</item>
-		<item>Tháng Sáu</item>
-		<item>Tháng Bảy</item>
-		<item>Tháng Tám</item>
-		<item>Tháng Chín</item>
-		<item>Tháng Mười</item>
-		<item>Tháng Mười Một</item>
-		<item>Tháng Mười Hai</item>
+		<item>Tháng 1</item>
+		<item>Tháng 2</item>
+		<item>Tháng 3</item>
+		<item>Tháng 4</item>
+		<item>Tháng 5</item>
+		<item>Tháng 6</item>
+		<item>Tháng 7</item>
+		<item>Tháng 8</item>
+		<item>Tháng 9</item>
+		<item>Tháng 10</item>
+		<item>Tháng 11</item>
+		<item>Tháng 12</item>
 	</string-array>
 	<string-array name="account_user_gender_name">
 		<item>Nam</item>

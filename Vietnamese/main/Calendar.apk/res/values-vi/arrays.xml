@@ -10,11 +10,11 @@
         <item>Tất cả sự kiện</item>
     </string-array>
     <string-array name="ordinal_labels">
-        <item>đầu tiên</item>
-        <item>thứ hai</item>
-        <item>thứ ba</item>
-        <item>thứ tư</item>
-        <item>cuối cùng</item>
+        <item>Đầu tiên</item>
+        <item>Thứ Hai</item>
+        <item>Thứ Ba</item>
+        <item>Thứ Tư</item>
+        <item>Cuối cùng</item>
     </string-array>
     <string-array name="prefEntries_alerts_vibrateWhen">
         <item>Luôn luôn</item>
@@ -23,9 +23,9 @@
     </string-array>
     <string-array name="preferences_week_start_day_labels">
         <item>Theo địa phương</item>
-        <item>Thứ bảy</item>
-        <item>Chủ nhật</item>
-        <item>Thứ hai</item>
+        <item>Thứ Bảy</item>
+        <item>Chủ Nhật</item>
+        <item>Thứ Hai</item>
     </string-array>
     <string-array name="response_labels1">
         <item>Không có phản hồi</item>
@@ -664,22 +664,22 @@
 		<item>Từ chối</item>
 	</string-array>
 	<string-array name="panchang_weeks">
-        <item>Chủ nhật</item>
-        <item>Thứ hai</item>
-        <item>Thứ ba</item>
-        <item>Thứ tư</item>
-        <item>Thứ năm</item>
-        <item>Thứ sáu</item>
-        <item>Thứ bảy</item>
+        <item>Chủ Nhật</item>
+        <item>Thứ Hai</item>
+        <item>Thứ Ba</item>
+        <item>Thứ Tư</item>
+        <item>Thứ Năm</item>
+        <item>Thứ Sáu</item>
+        <item>Thứ Bảy</item>
      </string-array>
 	 <string-array name="week_array">
-		<item>Chủ nhật</item>
-		<item>Thứ hai</item>
-		<item>Thứ ba</item>
-		<item>Thứ tư</item>
-		<item>Thứ năm</item>
-		<item>Thứ sáu</item>
-		<item>Thứ bảy</item>
+		<item>Chủ Nhật</item>
+		<item>Thứ Hai</item>
+		<item>Thứ Ba</item>
+		<item>Thứ Tư</item>
+		<item>Thứ Năm</item>
+		<item>Thứ Sáu</item>
+		<item>Thứ Bảy</item>
 	</string-array>
 	<string-array name="account_sync_frequency">
 		<item>Thủ công</item>

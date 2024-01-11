@@ -19,13 +19,13 @@
         <item>Th 7</item>
     </string-array>
     <string-array name="date_week">
-        <item>Thứ hai</item>
-        <item>Thứ ba</item>
-        <item>Thứ tư</item>
-        <item>Thứ năm</item>
-        <item>Thứ sáu</item>
-        <item>Thứ bảy</item>
-        <item>Chủ nhật</item>
+        <item>Thứ Hai</item>
+        <item>Thứ Ba</item>
+        <item>Thứ Tư</item>
+        <item>Thứ Năm</item>
+        <item>Thứ Sáu</item>
+        <item>Thứ Bảy</item>
+        <item>Chủ Nhật</item>
     </string-array>
     <string-array name="date_week_simple">
         <item>T2</item>

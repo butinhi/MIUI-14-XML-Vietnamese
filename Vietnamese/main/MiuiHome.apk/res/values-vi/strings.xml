@@ -719,7 +719,7 @@
 	<string name="earthly_branches_si">Tỵ</string>
 	<string name="month_january_shortest">Thg 1</string>
 	<string name="chinese_symbol_animals_horse">Ngọ</string>
-	<string name="saturday">Thứ bảy</string>
+	<string name="saturday">Thứ Bảy</string>
 	<string name="the_double_ninth_festival">Tết Trùng Dương</string>
 	<string name="the_forth_day">Mùng 4 Tết Nguyên Đán</string>
 	<string name="month_october_shortest">Thg 10</string>
@@ -728,7 +728,7 @@
 	<string name="solar_term_white_dews">Bạch Lộ</string>
 	<string name="chinese_digit_six">6</string>
 	<string name="chinese_leap">Nhuận</string>
-	<string name="wednesday">Thứ tư</string>
+	<string name="wednesday">Thứ Tư</string>
 	<string name="solar_term_hoar_frost_falls">Tuyết Sương</string>
 	<string name="month_september">Tháng 9</string>
 	<string name="close">Đóng</string>
@@ -742,7 +742,7 @@
 	<string name="chinese_day_17">17</string>
 	<string name="the_mid_autumn_festival">Tết Trung Thu</string>
 	<string name="chinese_day_16">16</string>
-	<string name="thursday">Thứ năm</string>
+	<string name="thursday">Thứ Năm</string>
 	<string name="chinese_day_15">15</string>
 	<string name="the_partys_day">Ngày thành lập Đảng</string>
 	<string name="chinese_day_14">14</string>
@@ -829,7 +829,7 @@
 	<string name="solar_term_winter_solstice">Đông Chí</string>
 	<string name="month_march_short">Tháng 3</string>
 	<string name="solar_term_slight_cold">Tiểu Hàn</string>
-	<string name="sunday">Chủ nhật</string>
+	<string name="sunday">Chủ Nhật</string>
 	<string name="earthly_branches_you">Dậu</string>
 	<string name="month_november">Tháng 11</string>
 	<string name="month_october">Tháng 10</string>
@@ -851,7 +851,7 @@
 	<string name="month_december_short">Tháng 12</string>
 	<string name="month_may_short">Tháng 5</string>
 	<string name="month_october_short">Tháng 10</string>
-	<string name="monday">Thứ hai</string>
+	<string name="monday">Thứ Hai</string>
 	<string name="wednesday_shortest">Th 4</string>
 	<string name="miuix_appcompat_action_mode_deselect_all">Bỏ chọn</string>
 	<string name="more">Thêm</string>
@@ -917,7 +917,7 @@
 	<string name="solar_term_insects_awaken">Kinh Trập</string>
 	<string name="today">Hôm nay</string>
 	<string name="heavenly_stems_ji">"Kỷ "</string>
-	<string name="friday">Thứ sáu</string>
+	<string name="friday">Thứ Sáu</string>
 	<string name="solar_term_autumn_begins">Lập Thu</string>
 	<string name="miuix_appcompat_search_action_mode_cancel">Hủy</string>
 	<string name="month_april">Tháng 4</string>
@@ -927,7 +927,7 @@
 	<string name="heavenly_stems_ren">"Nhâm "</string>
 	<string name="afternoon">CH</string>
 	<string name="chinese_month_june">6</string>
-	<string name="tuesday">Thứ ba</string>
+	<string name="tuesday">Thứ Ba</string>
 	<string name="the_retrocession_day">Ngày nhượng chủ quyền</string>
 	<string name="solar_term_clear_and_bright">Thanh Minh</string>
 	<string name="solar_term_heavy_snow">Đại Tuyết</string>
