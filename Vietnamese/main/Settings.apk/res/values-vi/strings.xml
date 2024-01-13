@@ -14743,4 +14743,9 @@ Thao tác xóa phương thức khóa sẽ xóa mẫu vân tay lưu trên thiết
     <string name="photography_handle_charge_protected_summary">"Khi thiết bị của bạn nhận ra rằng bạn đang sử dụng báng cầm máy ảnh, thiết bị sẽ ngừng sạc và duy trì pin ở mức %1$s"</string>
 	<string name="private_dns_host_name">Máy chủ nhà cung cấp DNS riêng</string>
     <string name="private_dns_title">DNS riêng</string>
+	<string name="display_notification_icon_0">Không</string>
+    <string name="display_notification_icon_1">%d biểu tượng</string>
+    <string name="display_notification_icon_3">%d biểu tượng</string>
+    <string name="display_notification_icon_5">%d biểu tượng</string>
+	<string name="title_show_notification_icon_count">Hiển thị số biểu tượng thông báo</string>
 </resources>
