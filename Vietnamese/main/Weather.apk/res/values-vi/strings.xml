@@ -102,7 +102,7 @@ Kéo xuống để làm mới hoặc kiểm tra cài đặt mạng"</string>
     <string name="wind_unit">%1$skm/h</string>
     <string name="wind_miles_unit">%1$smph</string>
     <string name="aqi_top_pollution">Chất ô nhiễm chính</string>
-    <string name="aqi_detail_title">Chỉ số Chất lượng Không khí</string>
+    <string name="aqi_detail_title">Chỉ số chất lượng không khí</string>
     <string name="aqi_detail_subtitle">AQI %1$s</string>
     <string name="top_pollution_pm25">PM2.5</string>
     <string name="top_pollution_pm10">PM10</string>
@@ -113,10 +113,10 @@ Kéo xuống để làm mới hoặc kiểm tra cài đặt mạng"</string>
     <string name="realtime_temperature_no_data">Không có dữ liệu</string>
     <string name="realtime_wind_default_title">Gió</string>
     <string name="realtime_humidity_title">Độ ẩm</string>
-    <string name="realtime_aqi_title">Chỉ số Chất lượng Không khí</string>
+    <string name="realtime_aqi_title">Chỉ số chất lượng không khí</string>
     <string name="aqi_detail_sub_title">Chi tiết AQI</string>
     <string name="aqi_publish_time">Đã cập nhật %1$s</string>
-    <string name="aqi_desc">Chỉ số Chất lượng Không khí</string>
+    <string name="aqi_desc">Chỉ số chất lượng không khí</string>
     <string name="indices_title">Hoạt động được kiến nghị</string>
     <string name="hourly_forecast_title">Dự báo hàng giờ</string>
     <string name="aqi_detail_5_days">Dự báo 5 ngày</string>
@@ -289,7 +289,7 @@ Chạm vào màn hình để thêm thủ công hoặc định vị lại thành 
     <string name="other_settings">Cài đặt khác</string>
     <string name="receive_net_mock_success">Đã nhận mô phỏng mạng</string>
 	<string name="act_location_error_to_find_city">Không thể nhận thông tin vị trí. Bạn có thể thêm thành phố theo cách thủ công.</string>
-    <string name="activity_main_pub_time">Đã đăng lúc %1$s</string>
+    <string name="activity_main_pub_time">đã đăng lúc %1$s</string>
     <string name="empty_view_net_loading">Đang cập nhật…</string>
     <string name="empty_view_net_unavailable">Không thể kết nối mạng</string>
     <string name="empty_view_refresh">Thử lại</string>
@@ -410,7 +410,7 @@ Chạm vào màn hình để thêm thủ công hoặc định vị lại thành 
 	<string name="suggestion_for_yangsha">Tốc độ gió có thể ảnh hưởng lái xe</string>
 	<string name="suggestion_for_strong_sandstorm">Tránh ra ngoài</string>
 	<string name="suggestion_for_sand_storm">Hãy lái xe cẩn thận hôm nay</string>
-	<string name="aqi_alert_channel_name">Cảnh báo Chất lượng không khí (AQI)</string>
+	<string name="aqi_alert_channel_name">Cảnh báo chất lượng không khí (AQI)</string>
 	<string name="suggestion_for_shower">Dự kiến mưa nhẹ với gió</string>
 	<string name="suggestion_for_light_rain">Mặc áo mưa</string>
 	<string name="suggestion_for_yin">Dự kiến tầm nhìn kém</string>

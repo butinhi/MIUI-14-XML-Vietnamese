@@ -1486,7 +1486,7 @@ Ghi chú: Chỉ cho phiên bản Ubuntu 8.04!"</item>
         <item>Xử lý như là mạng không đo lượng dữ liệu</item>
     </string-array>
 	<string-array name="ai_key_item_name">
-        <item>Trò chuyện với Google Assistant</item>
+        <item>Trò chuyện với Trợ lý Google</item>
         <item>Mở Google Tìm kiếm</item>
         <item>Mở máy ảnh sau</item>
         <item>Mở máy ảnh trước</item>

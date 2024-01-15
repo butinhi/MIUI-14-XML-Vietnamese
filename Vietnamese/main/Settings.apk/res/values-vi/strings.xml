@@ -13478,7 +13478,7 @@ Nếu không thanh toán đúng hạn, tổ chức tín dụng có thể khoá t
     <string name="gesture_to_split_screen">Cử chỉ</string>
     <string name="global_stylus_summary">Viết trong bất kỳ trường văn bản và chuyển đổi chữ viết tay thành văn bản (chỉ hỗ trợ tiếng Anh và tiếng Trung)</string>
     <string name="global_stylus_title">Sửa văn bản viết tay</string>
-    <string name="google_assistant_guide_message">Bạn có thể nhấn và giữ Phím Nguồn trong %s giây để bắt đầu trò chuyện với Google Assistant. Đặt lối tắt này ngay?</string>
+    <string name="google_assistant_guide_message">Bạn có thể nhấn và giữ Phím Nguồn trong %s giây để bắt đầu trò chuyện với Trợ lý Google. Đặt lối tắt này ngay?</string>
     <string name="google_assistant_guide_tip">*Nhấn và giữ Phím Nguồn trong %s giây để mở menu tắt máy.</string>
     <string name="grant_admin">Có, đặt họ làm quản trị viên</string>
     <string name="graphics_driver_main_switch_title">Dùng các lựa chọn ưu tiên về trình điều khiển đồ hoạ</string>

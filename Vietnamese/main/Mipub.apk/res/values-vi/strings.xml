@@ -146,7 +146,7 @@
     <string name="mx_on_sim_2">Tin nhắn Mi SIM 2</string>
     <string name="ex_type_sms">SMS/MMS</string>
     <string name="ex_type_mx">Tin nhắn Mi</string>
-    <string name="mx_dspt">Gửi tin nhắn đến thiết bị MIUI khác mà không phát sinh cước phí</string>
+    <string name="mx_dspt">Gửi tin nhắn SMS và MMS đến các thiết bị Xiaomi khác mà không bị tính phí khi bạn kết nối với Wi-Fi.</string>
     <string name="mx_current_status">Cài đặt sử dụng dữ liệu</string>
     <string name="mx_auto_resend_sms">Gửi như tin nhắn SMS</string>
     <string name="mx_auto_resend_sms_summary">Dùng kết nối dữ liệu di động để gửi tin nhắn như SMS khi bạn không có kết nối Wi-Fi. Bạn sẽ phải trả phí thông thường cho nhà mạng.</string>
