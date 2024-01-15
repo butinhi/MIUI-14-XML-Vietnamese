@@ -304,7 +304,7 @@
     <string name="mx_btn_enable_now">Kích hoạt</string>
     <string name="mx_count_dspt">Bạn đã gửi %1$d SMS và %2$d MMS miễn phí</string>
     <string name="mx_current_status">Cài đặt</string>
-    <string name="mx_dspt">Gửi tin nhắn SMS và MMS đến thiết bị MIUI khác mà không phát sinh cước phí khi bạn kết nối Wi-Fi.</string>
+    <string name="mx_dspt">Gửi tin nhắn SMS và MMS đến các thiết bị Xiaomi khác mà không bị tính phí khi bạn kết nối với Wi-Fi.</string>
     <string name="mx_dspt_listview">Gửi tin nhắn đến thiết bị MIUI khác mà không phát sinh cước phí</string>
     <string name="mx_dspt_provision">Tin nhắn Mi cho phép bạn gửi tin nhắn đến người dùng MIUI khác thông qua internet mà không phát sinh chi phí. Một tin nhắn SMS có thể được yêu cầu gửi đi để kích hoạt lại Tin nhắn Mi. Nhà cung cấp sẽ tính phí tin nhắn này. Bên cạnh đó, dịch vụ này cần truy cập dữ liệu di động để làm việc bình thường.</string>
     <string name="mx_dspt_provision_ex2">Chính sách Riêng tư</string>
