@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources>
-    <string name="short_cut_dialog_cancel_button_text">Không</string>
-    <string name="short_cut_dialog_cotent">Ứng dụng dưới đây không thể sử dụng nếu không cài đặt. Lưu lối tắt?</string>
-    <string name="short_cut_dialog_create_button_text">Có</string>
-    <string name="short_cut_dialog_not_tip_check_box">"Không nhắc lại trong 2 tuần"</string>
-    <string name="short_cut_dialog_title">Tạo lối tắt</string>
-</resources>

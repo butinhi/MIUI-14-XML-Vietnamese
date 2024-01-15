@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources>
-    <string name="app_name">FingerprintExtensionService</string>
-    <string name="app_label">FingerprintExtensionService</string>
-    <string name="pn_notification_title">Hiệu chỉnh cảm biến vân tay</string>
-    <string name="pn_notification_text">Cảm biến chưa được hiệu chỉnh, vui lòng hiệu chỉnh.</string>
-    <string name="permdesc_ACCESS_EXTENSION_SERVICE">Cho phép ứng dụng truy cập vào mô-đun mở rộng của Vân tay.</string>
-</resources>

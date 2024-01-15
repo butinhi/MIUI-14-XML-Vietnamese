@@ -1,5 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources>
-    <string name="permlab_useEmbms">Truy cập dịch vụ quảng bá cho phát trực tuyến đa tuyến</string>
-    <string name="permdesc_useEmbms">Cho phép ứng dụng truy cập các dịch vụ phát trực tuyến đa tuyến. Các ứng dụng độc hại có thể tính thêm phí phí dữ liệu cho bạn.</string>
-</resources>

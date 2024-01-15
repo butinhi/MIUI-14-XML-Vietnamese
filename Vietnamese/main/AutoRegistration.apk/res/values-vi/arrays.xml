@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources>
-    <string-array name="original_registry_results">
-        <item>Thành công</item>
-        <item>Lỗi giải mã</item>
-        <item>Lỗi kiểm tra</item>
-    </string-array>
-</resources>

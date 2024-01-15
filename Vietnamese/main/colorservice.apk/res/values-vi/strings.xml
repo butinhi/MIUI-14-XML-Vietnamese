@@ -1,5 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources>
-    <string name="permission_description">"Cho phép ứng dụng trực tiếp ảnh hưởng đến các giá trị hiển thị của thiết bị"</string>
-    <string name="permission_label">Ảnh hưởng Cài đặt Hiển thị</string>
-</resources>
