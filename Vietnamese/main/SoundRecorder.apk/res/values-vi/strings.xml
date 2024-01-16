@@ -760,4 +760,13 @@
 	<string name="unknown_error_info">Lỗi không xác định</string>
 	<string name="library_android_database_sqlcipher_libraryName">SQLCipher cho Android</string>
 	<string name="network_error_info">Lỗi mạng đã xảy ra. Kiểm tra cài đặt mạng của bạn và thử lại.</string>
+	<string name="new_search_alll_records_hint">Tìm kiếm các bản ghi</string>
+    <string name="new_search_app_records_hint">Tìm kiếm bản ghi ứng dụng</string>
+    <string name="new_search_call_records_hint">Tìm kiếm bản ghi cuộc gọi</string>
+    <string name="new_search_fm_records_hint">Tìm kiếm bản ghi radio</string>
+    <string name="new_search_recorder_records_hint">Tìm kiếm trong Máy ghi âm</string>
+	<string name="toast_enter_silent_mode">Ghi âm. Chế độ im lặng đang bật.</string>
+    <string name="toast_exit_silent_mode">Ghi âm xong. Chế độ im lặng đã tắt.</string>
+    <string name="stop_status_focus_notification">Ghi xong</string>
+    <string name="storage_permission_dialog_title">Cần có quyền lưu trữ</string>
 </resources>

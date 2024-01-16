@@ -1099,4 +1099,5 @@ Vui lòng tham khảo góc trên hình để đặt thiết bị và thử lại
 	<string name="translate_export">Xuất</string>
 	<string name="save_word">Lưu</string>
 	<string name="continue_video">Quét</string>
+	<string name="toast_net_timeout">Yêu cầu đã hết thời gian chờ. Đợi một hoặc hai phút và thử lại.</string>
 </resources>

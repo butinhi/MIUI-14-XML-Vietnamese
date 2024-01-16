@@ -2567,4 +2567,21 @@ Sau khi bật chức năng "ghi nhiều camera", máy ảnh của điện thoạ
     <string name="settings_camera_near_range_fallback_title">Macro thích ứng</string>
     <string name="settings_camera_tele_fallback_description">Tự động chuyển đổi giữa ống kính chính và ống kính tele dựa trên khoảng cách và độ sáng</string>
     <string name="settings_camera_tele_fallback_title">Ống kính tele thích ứng</string>
+	<string name="pref_super_night_se_desc">Phát hiện điều kiện ánh sáng yếu trong khi sử dụng chế độ Ảnh và Chân dung để tự động cải thiện chất lượng hình ảnh</string>
+	<string name="pad_pref_camera_lying_desc">Thông báo về hướng hiện tại khi thiết bị song song với mặt đất trong khi chụp ảnh, scan tài liệu</string>
+	<string name="pad_pref_camera_lying_summary">Thông báo về hướng hiện tại khi thiết bị song song với mặt đất</string>
+	<string name="pref_camera_lying_desc">Thông báo về hướng hiện tại khi thiết bị song song với mặt đất trong khi chụp ảnh, scan tài liệu</string>
+	<string name="pref_camera_heic_image_format_desc3">"Định dạng tệp hình ảnh hiệu quả cao giúp tiết kiệm dung lượng lưu trữ ở chế độ Ảnh và Ultra HD nhưng không được một số ứng dụng bên thứ ba hỗ trợ. Bạn không thể chụp ảnh động và xóa hình mờ trong HEIF."</string>
+    <string name="pref_camera_heic_image_format_description_global">"Định dạng tệp hình ảnh hiệu quả cao giúp tiết kiệm dung lượng lưu trữ nhưng không được một số ứng dụng bên thứ ba hỗ trợ. Bạn không thể xóa hình mờ trong HEIF."</string>
+    <string name="pref_camera_suspend_shutter_button_summary">Kéo nút chụp lên để tạo thêm màn trập nổi</string>
+    <string name="pref_camera_suspend_shutter_button_title">Màn trập bổ sung</string>
+	<string name="pref_movie_solid_support_desc">Hoạt động cho video ở chế độ Pro và Time-lapse</string>
+	<string name="pref_camera_auto_hibernation_desc">Tắt màn hình sau %d phút không hoạt động để Tiết kiệm Pin trong khi quay video thông thường hoặc video tua nhanh thời gian, sử dụng tính năng chụp liên tục theo thời gian hoặc phơi sáng lâu</string>
+	<string name="selfie_setting_title">Cài đặt tự sướng</string>
+	<string name="pref_beauty_me_mp_switch_desc">Chỉnh hiệu ứng trang điểm cho nam trên ảnh nhóm</string>
+    <string name="pref_beauty_me_mp_switch_title">Điều chỉnh hiệu ứng trang điểm cho nam giới</string>
+    <string name="pref_beauty_nvs_wp_desc">Xoá nốt ruồi khi sử dụng tác dụng làm mịn da</string>
+    <string name="pref_beauty_nvs_wp_title">Xóa nốt ruồi</string>
+	<string name="pref_camera_volumekey_function_timer_desc">"Sẽ không hoạt động với video"</string>
+    <string name="pref_camera_volumekey_function_zoom_desc">Chỉ hoạt động ở các chế độ hỗ trợ thu phóng</string>
 </resources>

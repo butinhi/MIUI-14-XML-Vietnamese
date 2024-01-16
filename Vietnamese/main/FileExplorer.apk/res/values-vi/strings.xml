@@ -310,7 +310,7 @@
     <string name="view_more_sticker">Xem thêm biểu tượng</string>
     <string name="load_sticker_fail">Không thể tải biểu tượng</string>
     <string name="pick_folder">Chọn thư mục</string>
-    <string name="search_description">Tìm kiếm tất cả tập tin trên thiết bị</string>
+    <string name="search_description">Tìm tất cả tập tin trên thiết bị</string>
     <string name="encrypt_prefix">ẨN</string>
     <string name="cancelled_by_user">Thao tác bị hủy bỏ</string>
     <string name="cancel_operation">Hủy thao tác</string>
@@ -1165,7 +1165,7 @@ Gia nhập cùng 170 triệu Mi Fan!"</string>
     <string name="path_recent_file">Quản lý tập tin trong thiết bị</string>
     <string name="rename_input_null">Nhập tên tệp mới</string>
     <string name="search_download">Tải xuống;Tải xuống gần đây</string>
-    <string name="search_guid_hint">Tìm kiếm tập tin</string>
+    <string name="search_guid_hint">Tìm tập tin</string>
     <string name="search_hot_sticker">Nhãn dán; Nhãn dán đã tải</string>
 	<string name="default_empty_des">Thư mục trống, nhấn để thử lại!</string>
     <string name="default_error_des">Mạng tạm thời không khả dụng. Kiểm tra cài đặt mạng và thử lại</string>
@@ -1769,4 +1769,13 @@ Gia nhập cùng 170 triệu Mi Fan!"</string>
     <string name="permission_storage_title">Truy cập bộ nhớ thiết bị</string>
     <string name="permission_storage_title_pad">Truy cập bộ nhớ thiết bị</string>
 	<string name="cloud_permission_storage_desc">Để lưu ảnh và tài liệu vào thiết bị của bạn</string>
+	<string name="func_settings">Cài đặt tính năng</string>
+	<string name="view_mode_grid">Lưới</string>
+    <string name="view_mode_list">Danh sách</string>
+    <string name="view_type_mode">Bố cục</string>
+    <string name="sort_mode">Sắp xếp</string>
+    <string name="sort_type">Lọc</string>
+	<string name="positive_order">Chuyển tiếp</string>
+	<string name="search_text_hint">Tìm tập tin</string>
+    <string name="search_category_type">Tìm theo danh mục</string>
 </resources>

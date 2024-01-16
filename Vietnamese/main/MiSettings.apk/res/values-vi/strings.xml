@@ -1027,4 +1027,7 @@
     <string name="fps_smooth_summary">Tốc độ làm mới cao giúp chi tiết rõ ràng hơn</string>
     <string name="fps_smooth_title">Cao</string>
     <string name="fps_user_tip">- Những hình ảnh động demo này được phát ở tốc độ thấp để bạn tham khảo. Hiệu suất thực tế có thể trông khác dựa trên các yếu tố khác nhau.</string>
+	<string name="opened_high_refresh_options">Ứng dụng sử dụng tốc độ làm mới cao</string>
+	<string name="customize_high_refresh_summary">Tính năng này hỗ trợ tốc độ làm mới lên tới %d Hz. Tốc độ làm mới phù hợp có thể được chọn tự động dựa trên tùy chọn thiết bị.</string>
+    <string name="customize_high_refresh_title">Ứng dụng sử dụng tốc độ làm mới cao</string>
 </resources>

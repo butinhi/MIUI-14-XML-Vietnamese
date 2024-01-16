@@ -500,4 +500,13 @@ Bạn có thể tìm thấy danh sách thiết bị tương thích trên trang w
 	<string name="error_p2p_create_group_failure_china">"Không thể kết nối. Kết nối lại Wi-Fi trên cả hai thiết bị và thử lại."</string>
 	<string name="error_p2p_recv_connect_timeout">"Không thể kết nối. Kết nối lại Wi-Fi trên cả hai thiết bị và thử lại."</string>
 	<string name="error_p2p_recv_connect_timeout_china">"Không thể kết nối. Kết nối lại Wi-Fi trên cả hai thiết bị và thử lại."</string>
+	<string name="mi_share_turbo_mode">Tăng tốc chuyển</string>
+    <string name="sub_title_turbo_mode">Chuyển siêu nhanh giữa điện thoại và máy tính bảng Xiaomi. Mạng sẽ bị ngắt kết nối trong quá trình chuyển.</string>
+    <string name="sub_title_withdraw_privacy_policy_consent">Việc rút lại sự đồng ý với Chính sách quyền riêng tư cũng sẽ tắt Mi Share</string>
+    <string name="menu_item_permission_manager_and_use_guide_title">Chi tiết quyền</string>
+    <string name="menu_item_privacy_setting_title">Riêng tư</string>
+    <string name="menu_item_support_device_title">Thiết bị hỗ trợ</string>
+    <string name="menu_item_view_privacy_policy_title">Xem chính sách bảo mật</string>
+    <string name="menu_item_view_user_protocol_title">Xem thỏa thuận người dùng</string>
+    <string name="menu_item_withdraw_privacy_policy_consent_title">Rút lại chấp thuận</string>
 </resources>
