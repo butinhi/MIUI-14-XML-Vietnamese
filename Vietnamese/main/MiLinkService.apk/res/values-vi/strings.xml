@@ -780,4 +780,37 @@ Nếu cả hai thiết bị không thể kết nối tới cùng một mạng, b
 	<string name="privacy_revoke_agree_introduce">Nếu tiếp tục, bạn sẽ rút lại chấp thuận của mình đối với Chính sách Riêng tư Kết nối Xiaomi. Thông tin cá nhân đã được thu thập và lưu trữ sẽ bị xóa trong khoảng thời gian cụ thể theo luật và quy định hiện hành trừ khi có yêu cầu khác. Vì dịch vụ kết nối được cung cấp dựa trên việc thu thập thông tin cá nhân cần thiết, việc rút lại chấp thuận của bạn sẽ được coi là từ chối chấp nhận dịch vụ kết nối. Việc bạn rút lại chấp thuận sẽ không ảnh hưởng đến việc sử dụng bình thường các tính năng và dịch vụ khác.</string>
 	<string name="synergy_text">Kết nối</string>
 	<string name="tile_label_v2">Dịch vụ kết nối</string>
+	<string name="connect_device_fail">"Không thể kết nối với thiết bị"</string>
+    <string name="connect_setting_privacy_title">Riêng tư</string>
+    <string name="connect_settings_application_ecological">Kết hợp ứng dụng</string>
+    <string name="connect_settings_category_connection_car">Tính năng xe hơi</string>
+    <string name="connect_settings_category_personal_device">Thiết bị cá nhân</string>
+    <string name="connect_settings_communication_sharing">Chia sẻ không dây</string>
+    <string name="connect_settings_connect_privacy">Riêng tư</string>
+    <string name="connect_settings_corp_network">Hỗ trợ mạng</string>
+    <string name="connect_settings_corp_phone">Cuộc gọi</string>
+    <string name="connect_settings_nfc_share">Chuyển các mục qua NFC</string>
+    <string name="connect_settings_not_opened">Tắt</string>
+    <string name="connect_settings_opened">Mở</string>
+    <string name="connect_settings_privacy_policy">Chính sách bảo mật</string>
+    <string name="connect_settings_relay_app">Ứng dụng</string>
+    <string name="connect_settings_share_clipboard">Bộ nhớ tạm</string>
+    <string name="connect_settings_share_launcher">Màn hình chính+</string>
+    <string name="connect_settings_share_notification">Thông báo</string>
+    <string name="connect_settings_summary"><Data>Tự động phát hiện các thiết bị lân cận đã đăng nhập vào Tài khoản Xiaomi của bạn và kết nối chúng với nhau để thực hiện nhiều tác vụ khác nhau trên nhiều thiết bị. &lt;a href=%1$s>Tìm hiểu thêm&lt;/a></Data></string>
+    <string name="connect_settings_summary_connection_service">Cho phép các thiết bị của bạn tương tác không dây với nhau </string>
+    <string name="connect_settings_summary_corp_phone">Trả lời cuộc gọi trên máy tính bảng hoặc máy tính ở gần đã đăng nhập vào Tài khoản Xiaomi của bạn</string>
+    <string name="connect_settings_summary_hyper_mind">Tính năng này tìm hiểu các mẫu của bạn và sử dụng chúng để điều khiển các thiết bị thông minh trong nhà của bạn. Được hỗ trợ bởi Mi AI.</string>
+    <string name="connect_settings_summary_relay_app">Tiếp tục các tác vụ trong cùng một ứng dụng trên thiết bị khác</string>
+    <string name="connect_settings_summary_share_clipboard">Dán văn bản và hình ảnh vào thiết bị khác trong vòng %d phút sau khi sao chép chúng trên thiết bị này</string>
+    <string name="connect_settings_summary_share_launcher_pad">Xem và tương tác với Màn hình chính của các điện thoại lân cận đã đăng nhập vào Tài khoản Xiaomi của bạn</string>
+    <string name="connect_settings_summary_share_launcher_phone">"Cho phép máy tính bảng và máy tính ở gần xem và tương tác với Màn hình chính của thiết bị này"</string>
+    <string name="connect_settings_summary_share_notification_pad">Nhận thông báo từ các điện thoại lân cận đã đăng nhập vào Tài khoản Xiaomi của bạn</string>
+    <string name="connect_settings_summary_share_notification_phone">Hiển thị thông báo trên máy tính bảng hoặc máy tính ở gần đang sử dụng khi thiết bị này bị khóa</string>
+    <string name="connect_settings_user_agreement">Chính sách riêng tư</string>
+    <string name="connect_settings_withdraw_consent">Rút lại chấp thuận</string>
+    <string name="connection_failed">"Không thể kết nối máy ảnh"</string>
+    <string name="controller_auth_cancel">Huỷ</string>
+    <string name="controller_auth_title">Xác minh điều khiển từ xa</string>
+    <string name="copy_toast_msg">Liên kết được sao chép vào bộ nhớ tạm</string>
 </resources>
