@@ -7222,4 +7222,5 @@ Bật cái này sẽ tắt cái kia."</string>
 	<string name="permisison_usage_menu_mic">Microphone</string>
     <string name="battery_and_property_important_notify">Thông báo pin quan trọng</string>
     <string name="battery_and_property_ordinary_notify">Thông báo pin thường xuyên</string>
+	<string name="app_manager_share_apk">Chia sẻ</string>
 </resources>

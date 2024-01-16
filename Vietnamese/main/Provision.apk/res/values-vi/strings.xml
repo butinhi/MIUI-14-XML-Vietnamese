@@ -138,12 +138,12 @@ Bạn phải đồng ý với Chính sách Riêng tư Kika trước khi sử d�
     <string name="skip_gesture_guide_dialog_negative_btn">Hủy</string>
     <string name="skip_gesture_guide_dialog_positive_btn">OK</string>
     <string name="skip_gesture_guide_dialog_title">Cử chỉ màn hình tràn cạnh</string>
-	<string name="terms_of_use_label_updater">, Cập nhật</string>
+	<string name="terms_of_use_label_updater">Dịch vụ cập nhật hệ thống (kiểm tra các bản cập nhật trực tuyến và thông báo về các phiên bản mới)</string>
 	<string name="other_settings_enhanced_lockscreen_privacy_index">Chính sách Riêng tư</string>
-	<string name="terms_of_use_label_package">, Trình cài đặt gói</string>
-	<string name="terms_of_use_ble_htmlViewer">, Nhà cung cấp vị trí, Trình xem HTML</string>
-	<string name="terms_of_use_label_Mistore">, Trình cắm hệ thống Mi Store</string>
-	<string name="terms_of_use_label_phrase">, Cụm từ thường dùng</string>
+	<string name="terms_of_use_label_package">Trình cài đặt gói</string>
+	<string name="terms_of_use_ble_htmlViewer">Nhà cung cấp vị trí, Trình xem HTML</string>
+	<string name="terms_of_use_label_Mistore">Cửa hàng Mi</string>
+	<string name="terms_of_use_label_phrase">Cụm từ thường dùng</string>
 	<string name="other_settings_ad_dialog_content">Sau khi tắt tính năng này, bạn sẽ không còn nhận được quảng cáo cá nhân nữa. Tuy nhiên, bạn vẫn sẽ nhận được quảng cáo không liên quan đến sở thích của mình. Bạn có thể tìm hiểu thêm về quảng cáo cá nhân trong Chính sách Riêng tư Xiaomi. Vẫn tắt quảng cáo cá nhân?</string>
     <string name="other_settings_ad_disable_summary">Bật quảng cáo cá nhân</string>
 	<string name="permission_photo_video">Chụp ảnh và quay video:</string>

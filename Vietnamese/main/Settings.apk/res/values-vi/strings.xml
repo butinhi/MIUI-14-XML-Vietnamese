@@ -2525,7 +2525,7 @@ Một giải pháp đồng bộ hóa dữ liệu của Google cho phép quyền 
     <string name="data_usage_app_summary_title">Dữ liệu ứng dụng</string>
     <string name="data_usage_accounting">Tính toán dữ liệu của nhà cung cấp dịch vụ có thể khác với thiết bị của bạn.</string>
     <string name="data_usage_app">Sử dụng ứng dụng</string>
-    <string name="data_usage_app_info_label">THÔNG TIN ỨNG DỤNG</string>
+    <string name="data_usage_app_info_label">Thông tin ứng dụng</string>
     <string name="data_usage_cellular_data">Dữ liệu di động</string>
     <string name="data_usage_data_limit">Đặt giới hạn dữ liệu</string>
     <string name="data_usage_cycle">Chu kỳ sử dụng dữ liệu</string>
