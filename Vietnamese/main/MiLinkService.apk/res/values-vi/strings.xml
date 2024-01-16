@@ -798,13 +798,13 @@ Nếu cả hai thiết bị không thể kết nối tới cùng một mạng, b
     <string name="appcirculate_alert_busy_positive">Gián đoạn</string>
     <string name="appcirculate_alert_busy_text">Dường như thiết bị kia hiện đang chuyển tập tin. Làm gián đoạn quá trình chuyển để tiếp tục?</string>
     <string name="appcirculate_alert_busy_title">Chuyển gián đoạn</string>
-    <string name="appcirculate_alert_transfer_busy_text">设备文件传输中，请稍后重试</string>
+    <string name="appcirculate_alert_transfer_busy_text">Tệp thiết bị đang được chuyển, vui lòng thử lại sau.</string>
     <string name="appcirculate_fragment_circulate_app_content_description">Xem trước: %1$s</string>
     <string name="appcirculate_fragment_circulate_device_content_description">Mở trên thiết bị khác: %1$s</string>
     <string name="appcirculate_fragment_circulate_device_list_app_deliver">Mở \"%1$s\" trên thiết bị khác</string>
     <string name="appcirculate_fragment_circulate_device_list_button_confirm">Tìm kiếm lại</string>
     <string name="appcirculate_fragment_circulate_device_list_text_none"><u>Không tìm thấy thiết bị của bạn?</u></string>
-    <string name="appcirculate_toast_app_notstall">流转失败，手机端未安装此应用</string>
+    <string name="appcirculate_toast_app_notstall">Chuyển không thành công, ứng dụng này chưa được cài đặt trên điện thoại di động</string>
     <string name="appcirculate_toast_busy">Dường như thiết bị kia hiện đang chuyển tập tin. Chờ cho đến khi quá trình chuyển hoàn tất và thử lại.</string>
     <string name="appcirculate_toast_connected">Đã bắt đầu chiếu</string>
     <string name="appcirculate_toast_fail">Không thể chuyển sang thiết bị khác</string>
@@ -821,9 +821,9 @@ Nếu cả hai thiết bị không thể kết nối tới cùng một mạng, b
     <string name="bottomsheet_action_expand">Mở rộng bảng dưới cùng</string>
     <string name="bottomsheet_drag_handle_clicked">Đã nhấn đúp nút kéo</string>
     <string name="bottomsheet_drag_handle_content_description">Nút kéo</string>
-    <string name="camera_associate_connecting">Connecting to camera</string>
+    <string name="camera_associate_connecting">Đang kết nối với máy ảnh</string>
     <string name="camera_associate_failed">Không thể kết nối với camera</string>
-    <string name="camera_associate_success">Camera connected</string>
+    <string name="camera_associate_success">Đã kết nối máy ảnh</string>
     <string name="camera_connecting">%s muốn sử dụng camera của thiết bị này</string>
     <string name="camera_disassociate">Đã ngắt kết nối khỏi camera</string>
     <string name="cancel_button">Hủy</string>
@@ -898,16 +898,16 @@ Nếu cả hai thiết bị không thể kết nối tới cùng một mạng, b
     <string name="circulate_controlphone_button_hint">Xem màn hình</string>
     <string name="circulate_controlphone_title">Quản lý thiết bị</string>
     <string name="circulate_device_type_name_mijia">Thiết bị nhà thông minh</string>
-    <string name="circulate_device_type_name_pad">Tablet</string>
-    <string name="circulate_device_type_name_phone">Phone</string>
+    <string name="circulate_device_type_name_pad">Máy tính bảng</string>
+    <string name="circulate_device_type_name_phone">Điện thoại</string>
     <string name="circulate_device_type_name_tv">TV</string>
     <string name="circulate_device_type_name_wifi_speaker_with_screen">Touch screen speaker</string>
     <string name="circulate_headset_back_to_box_desc">"1. Đặt cả hai tai nghe vào hộp sạc.
 2.Bấm và giữ phím trên hộp sạc.
 3. Hoàn tất ghép nối trên thiết bị mục tiêu."</string>
     <string name="circulate_headset_back_to_box_desc_err_308">Để có thể chuyển phát giữa các thiết bị, ghép nối tai nghe với TV của bạn trước.</string>
-    <string name="circulate_headset_back_to_box_desc_err_310">"1. Press the Power button on the TV remote to disconnect speakers.
-2. Try to connect earphones again once the screen lights up."</string>
+    <string name="circulate_headset_back_to_box_desc_err_310">"1. Nhấn nút Nguồn trên điều khiển TV để ngắt kết nối loa.
+2. Hãy thử kết nối lại tai nghe khi màn hình sáng lên."</string>
     <string name="circulate_headset_back_to_box_desc_pad">"1. Đặt cả hai tai nghe vào hộp sạc.
 2. Bấm và giữ phím trên hộp sạc.
 3. Hoàn tất ghép nối trong cài đặt Bluetooth hoặc sử dụng hộp thoại pop-up trên thiết bị này."</string>
@@ -925,7 +925,7 @@ Nếu cả hai thiết bị không thể kết nối tới cùng một mạng, b
     <string name="circulate_headset_back_to_box_title_phone">Ghép nối tai nghe với thiết bị này</string>
     <string name="circulate_headset_back_to_box_title_tv">Ghép nối tai nghe của bạn</string>
     <string name="circulate_headset_control_anc_clear">Xuyên âm</string>
-    <string name="circulate_headset_control_anc_disable_hint">Your earphones are connected to two devices. You can only adjust volume from this device.</string>
+    <string name="circulate_headset_control_anc_disable_hint">Tai nghe của bạn được kết nối với hai thiết bị. Bạn chỉ có thể điều chỉnh âm lượng từ thiết bị này.</string>
     <string name="circulate_headset_control_anc_noise_cancel">Chống ồn</string>
     <string name="circulate_headset_control_anc_off">Tắt</string>
     <string name="circulate_headset_control_battery_case">Hộp sạc</string>
@@ -942,8 +942,8 @@ Nếu cả hai thiết bị không thể kết nối tới cùng một mạng, b
     <string name="circulate_headset_error_device_not_support">Không thể kết nối tai nghe với thiết bị này</string>
     <string name="circulate_headset_error_ear_phone_not_support">Tai nghe này không hỗ trợ chuyển phát âm thanh</string>
     <string name="circulate_headset_error_headset_not_support">Không thể kết nối tai nghe của bạn với máy tính này</string>
-    <string name="circulate_headset_error_headset_not_worn">Put in both earphones and try again</string>
-    <string name="circulate_headset_error_headset_not_worn_both">Put in both earphones and try again</string>
+    <string name="circulate_headset_error_headset_not_worn">Hãy đeo cả hai tai nghe vào và thử lại</string>
+    <string name="circulate_headset_error_headset_not_worn_both">Hãy đeo cả hai tai nghe vào và thử lại</string>
     <string name="circulate_headset_error_remote_host_bluetooth_unenable">"Bật Bluetooth trên TV
 và đăng nhập vào Tài khoản Xiaomi của bạn"</string>
     <string name="circulate_headset_error_self_upgrade">Không thể hoàn tất tác vụ này. Cập nhật ứng dụng trước.</string>
@@ -951,7 +951,7 @@ và đăng nhập vào Tài khoản Xiaomi của bạn"</string>
     <string name="circulate_headset_error_upgrade">Cập nhật ứng dụng trên thiết bị mục tiêu của bạn trước</string>
     <string name="circulate_jump_to_mijia">Mở Mi Home</string>
     <string name="circulate_local_pad_name">My tablet</string>
-    <string name="circulate_more_button_content_description">更多</string>
+    <string name="circulate_more_button_content_description">Hơn</string>
     <string name="circulate_more_device">Thiết bị khác</string>
     <string name="circulate_more_setting">Cài đặt bổ sung</string>
     <string name="circulate_open_in_tv">Mở trên TV</string>
@@ -979,8 +979,8 @@ và đăng nhập vào Tài khoản Xiaomi của bạn"</string>
     <string name="circulate_ringfind_error_hint_stop">Không thể dừng phát âm thanh. Thử lại.</string>
     <string name="circulate_ringfind_title">Phát âm thanh</string>
     <string name="circulate_ringfind_title_stop">Dừng phát âm thanh</string>
-    <string name="circulate_speaker_control_header_title">音箱播控</string>
-    <string name="circulate_speaker_control_view">来自%1$s</string>
+    <string name="circulate_speaker_control_header_title">Điều khiển phát sóng loa</string>
+    <string name="circulate_speaker_control_view">Từ %1$s</string>
     <string name="circulate_sport_device_find_band">Tìm vòng đeo tay này</string>
     <string name="circulate_sport_device_find_start">Đang tìm thiết bị này…</string>
     <string name="circulate_sport_device_find_start_failed">Không tìm thấy thiết bị này. Thử lại.</string>
@@ -1000,12 +1000,12 @@ và đăng nhập vào Tài khoản Xiaomi của bạn"</string>
     <string name="clipboard_cancel_sync">Hủy</string>
     <string name="clipboard_loading">Đang dán từ %1$s</string>
     <string name="close_auxiliary_wifi_hint">Tắt \"Tăng tốc Wi-Fi băng tần kép\" để có thể chiếu</string>
-    <string name="close_auxiliary_wifi_hint_china">Turn off \"Dual band WLAN speed boost\" to be able to cast</string>
+    <string name="close_auxiliary_wifi_hint_china">Tắt \"Tăng tốc Wi-Fi băng tần kép\" để có thể chiếu</string>
     <string name="close_dp_casting_hint">Ngắt kết nối cáp và thử lại</string>
     <string name="close_hotspot_hint_DFS">Để chuyển các mục sang TV, tắt điểm phát sóng trước.</string>
     <string name="close_invisible_mode_dialog_message">Hiện không thể sử dụng Mi Smart Play. Tắt Chế độ ẩn danh trong Cài đặt để có thể sử dụng tính năng này.</string>
-    <string name="config_wifi_label_china">Xiaomi Conference Tapcast WLAN</string>
-    <string name="config_wifi_label_global">Xiaomi Conference Tapcast Wi-Fi</string>
+    <string name="config_wifi_label_china">Wi-Fi Tapcast hội nghị Xiaomi</string>
+    <string name="config_wifi_label_global">Wi-Fi Tapcast hội nghị Xiaomi</string>
     <string name="connect_device_fail">Không thể kết nối với thiết bị</string>
     <string name="connect_setting_privacy_title">Riêng tư</string>
     <string name="connect_settings_application_ecological">Kết hợp ứng dụng</string>
@@ -1045,11 +1045,11 @@ và đăng nhập vào Tài khoản Xiaomi của bạn"</string>
     <string name="dialog_nearbydevice_permission_message">Cho phép thiết bị này truy cập thiết bị lân cận để có thể sử dụng tính năng chiếu.</string>
     <string name="dialog_nearbydevice_permission_title">Yêu cầu quyền</string>
     <string name="dialog_ok">OK</string>
-    <string name="dialog_scanning_close_dual_wifi_china">Turn off \"Dual band WLAN speed boost\" to be able to cast. Turn this feature off now?</string>
+    <string name="dialog_scanning_close_dual_wifi_china">Tắt \"Tăng tốc độ Wi-Fi băng tần kép\" để có thể truyền. Tắt tính năng này ngay bây giờ?</string>
     <string name="dialog_scanning_close_dual_wifi_global">Tắt \"Tăng tốc Wi-Fi băng tần kép\" để có thể chiếu. Tắt tính năng này ngay?</string>
     <string name="dialog_scanning_close_tethering">Tắt điểm phát sóng để có thể chiếu. Tắt tính năng này ngay?</string>
     <string name="dp_casting_start_hint">Đã kết nối qua cáp. Chiếu đã kết thúc.</string>
-    <string name="dual_wifi_warning_china">Turn off dual WLAN and try again</string>
+    <string name="dual_wifi_warning_china">Tắt mạng Wi-Fi kép và thử lại</string>
     <string name="dual_wifi_warning_global">Tắt Wi-Fi kép và thử lại</string>
     <string name="enable_screen_projection_summary_new">Chiếu màn hình thiết bị di động sang TV lân cận và các màn hình bên ngoài khác ​</string>
     <string name="err_toast_msg_audio_support_support_only">Thiết bị này chỉ hỗ trợ chuyển phát âm thanh. Thử kéo thẻ âm thanh.</string>
@@ -1059,7 +1059,7 @@ và đăng nhập vào Tài khoản Xiaomi của bạn"</string>
     <string name="err_toast_msg_not_support">Thao tác này chưa được hỗ trợ</string>
     <string name="err_toast_msg_not_support_audio_protocol">Không thể chuyển phát âm thanh đến thiết bị này</string>
     <string name="err_toast_msg_retry_later">Không thể thực hiện thao tác này. Chờ một hoặc hai phút và thử lại.</string>
-    <string name="err_toast_msg_try_switch_network">Kết nối thiết bị di động và máy tính với cùng một mạng WLAN</string>
+    <string name="err_toast_msg_try_switch_network">Kết nối thiết bị di động và máy tính với cùng một mạng Wi-Fi</string>
     <string name="find_device_close">Tôi biết</string>
     <string name="find_device_notification_content_phone">%1$s đang tìm kiếm thiết bị này bằng %2$s. Mở khóa để dừng phát âm thanh.</string>
     <string name="find_device_notification_content_single_phone">Ai đó đang tìm kiếm thiết bị này bằng %1$s. Mở khóa để dừng phát âm thanh.</string>
@@ -1193,8 +1193,8 @@ và đăng nhập vào Tài khoản Xiaomi của bạn"</string>
     <string name="notify_wifiap_dialog_title">Cấu hình mạng</string>
     <string name="ok_button">Tôi biết</string>
     <string name="onehop_mirror_guide_message_button">Tôi biết</string>
-    <string name="onehop_mirror_guide_message_text_1">Cast your phone display to your computer with one tap.</string>
-    <string name="onehop_mirror_guide_message_text_2">Select photos, videos, and other files from Gallery or File Manager to transfer to your computer.</string>
+    <string name="onehop_mirror_guide_message_text_1">Truyền màn hình điện thoại của bạn tới máy tính chỉ bằng một lần nhấn.</string>
+    <string name="onehop_mirror_guide_message_text_2">Chọn ảnh, video và các tệp khác từ Thư viện hoặc Trình quản lý tệp để chuyển sang máy tính của bạn.</string>
     <string name="onehop_mirror_guide_message_title">Mi Smart Hub</string>
     <string name="paipai_connect_tv1_text">Đã kết nối với thiết bị</string>
     <string name="paipai_connect_tv2_text">Dữ liệu đã chuyển</string>
@@ -1216,7 +1216,7 @@ và đăng nhập vào Tài khoản Xiaomi của bạn"</string>
     <string name="privacy_revoke_confirm_title">Không thể sử dụng dịch vụ</string>
     <string name="privacy_revoke_dialog_message">Nếu tiếp tục, bạn sẽ rút lại chấp thuận của mình đối với Chính sách Riêng tư của HappyCast. Thông tin cá nhân đã được thu thập và lưu giữ sẽ bị xóa trong khoảng thời gian cụ thể theo luật và quy định hiện hành trừ khi có yêu cầu khác. Do HappyCast cung cấp các dịch vụ dựa trên việc thu thập thông tin cá nhân cần thiết, việc rút lại chấp thuận của bạn sẽ được coi là từ chối chấp nhận các dịch vụ của HappyCast. Rút lại chấp thuận ngay?</string>
     <string name="privacy_revoke_succeed">Rút lại chấp thuận thành công</string>
-    <string name="privacy_revoking_warning">Withdrawing consent…</string>
+    <string name="privacy_revoking_warning">Rút lại sự đồng ý…</string>
     <string name="privacy_setting_category_2">Chính sách Riêng tư HappyCast</string>
     <string name="privacy_setting_revoke_lelink_policy">Rút lại chấp thuận đối với Chính sách Riêng tư HappyCast</string>
     <string name="privacy_setting_show_lelink_law">Xem Tuyên bố Pháp lý HappyCast</string>
@@ -1238,7 +1238,6 @@ và đăng nhập vào Tài khoản Xiaomi của bạn"</string>
     <string name="remote_speaker_loop">Phát theo thứ tự</string>
     <string name="remote_speaker_random">Ngẫu nhiên</string>
     <string name="remote_speaker_repeat">Lặp lại</string>
-    <string name="required_permissions">android.permission.ACCESS_FINE_LOCATION;android.permission.ACCESS_COARSE_LOCATION;android.permission.ACCESS_BACKGROUND_LOCATION;android.permission.READ_PHONE_STATE;android.permission.READ_EXTERNAL_STORAGE;android.permission.RECORD_AUDIO;</string>
     <string name="screen_projection_characteristics_cast_summary">Chiếu nội dung màn hình lên TV lân cận</string>
     <string name="screen_projection_characteristics_hang_up_summary_new">Tắt màn hình thiết bị di động trong khi chiếu để tiết kiệm pin và tránh quá nhiệt</string>
     <string name="screen_projection_characteristics_private_summary_new">Bảo vệ sự riêng tư của bạn: trong khi chiếu, thiết bị của bạn sẽ không hiển thị thông báo nổi, cuộc gọi đến và các mục riêng tư khác</string>
@@ -1279,15 +1278,15 @@ và đăng nhập vào Tài khoản Xiaomi của bạn"</string>
     <string name="share_desktop_with_car">Chia sẻ Màn hình chính với xe hơi</string>
     <string name="share_desktop_with_car_ing">Đang chia sẻ màn hình với xe hơi…</string>
     <string name="show_result_on_tv">Xem kết quả trên TV</string>
-    <string name="status_bar_fail">"Couldn't connect"</string>
-    <string name="status_bar_loading">Connecting…</string>
+    <string name="status_bar_fail">"Không thể kết nối"</string>
+    <string name="status_bar_loading">Đang kết nối…</string>
     <string name="status_bar_notification_info_overflow">999+</string>
-    <string name="status_bar_success">Connected successfully</string>
+    <string name="status_bar_success">Đã kết nối thành công</string>
     <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
     <string name="synergy_being_used_text">Đang sử dụng</string>
     <string name="talk_back_device_battery_quantity">Pin %s</string>
     <string name="time_picker_label_minute">Phút</string>
-    <string name="title_activity_permission">PermissionActivity</string>
+    <string name="title_activity_permission">Quyền hoạt động</string>
     <string name="toast_invisible_mode">Bạn đang ẩn danh. Hiện không thể chiếu.</string>
     <string name="toast_invisible_mode1">Chiếu không hoạt động khi bạn đang ẩn danh</string>
     <string name="toast_nfc_same_wifi">Kết nối TV và thiết bị này với cùng một mạng</string>
@@ -1295,7 +1294,7 @@ và đăng nhập vào Tài khoản Xiaomi của bạn"</string>
     <string name="upgrade_app_name_version">%1$s | %2$s</string>
     <string name="upgrade_edit_mijia">Sửa</string>
     <string name="upgrade_help_title">Trợ giúp cập nhật</string>
-    <string name="upgrade_log_title">更新日志</string>
+    <string name="upgrade_log_title">Nhật ký thay đổi</string>
     <string name="upgrade_login_dialog_message">Đăng nhập vào Tài khoản Xiaomi để có thể xem thiết bị đã kết nối.</string>
     <string name="upgrade_login_dialog_sure">Đăng nhập</string>
     <string name="upgrade_login_dialog_title">Đăng nhập Tài khoản Xiaomi</string>
@@ -1303,7 +1302,7 @@ và đăng nhập vào Tài khoản Xiaomi của bạn"</string>
     <string name="upgrade_start">Cập nhật</string>
     <string name="upgrade_start_all">Cập nhật</string>
     <string name="upgrade_title">Cập nhật thiết bị đã kết nối</string>
-    <string name="upgrade_toast_cannot_cancel_while_installing">正在安装中，不可中断</string>
+    <string name="upgrade_toast_cannot_cancel_while_installing">Đang trong quá trình cài đặt, không thể gián đoạn</string>
     <string name="upgrade_toast_no_wifi">Không thể kết nối</string>
     <string name="upgrade_tv_device_tip">*Cập nhật được cung cấp bởi TV Xiaomi</string>
     <string name="upgrade_ver_can_upgrade">Cập nhật khả dụng</string>
