@@ -4057,7 +4057,7 @@ Bật một trong các tính năng sẽ tắt tính năng còn lại."</string>
 	<string name="traffic_to_limit_warning">"Bạn đã sử dụng %s giới hạn dữ liệu"</string>
 	<string name="warningcenter_policeassist_flow_send">Chia sẻ vị trí với cảnh sát</string>
 	<string name="warningcenter_policeassist_open_content">"Tự động gửi thông tin vị trí của bạn cho cảnh sát bằng SMS hoặc dữ liệu di động khi bạn đang gọi 110, 120, 119, 122 hoặc 12122."</string>
-	<string name="storage_clear_available_total_size">Đã dùng %1$s/%3$s | Còn %2$s</string>
+	<string name="storage_clear_available_total_size">Đã dùng %1$s/%3$s | %2$s khả dụng</string>
 	<string name="warningcenter_policeassist_flow_locfailed">"Không thể chia sẻ vị trí"</string>
 	<string name="power_center_unoffical_battery_dialog_summary">Có vẻ như thiết bị này đã lắp pin không chính hãng. Nguồn điện sạc sẽ được hạ xuống để bảo vệ thiết bị của bạn. Sử dụng pin trái phép có thể dẫn đến pin bị phồng, quá nhiệt và rò rỉ. Nó cũng có thể gây cháy hoặc các mối nguy hiểm khác. Tìm nhà cung cấp dịch vụ được ủy quyền để thay thế pin của bạn.</string>
 	<string name="view_traffic_details">Xem thống kê sử dụng dữ liệu</string>
@@ -6516,7 +6516,7 @@ Thiết bị của bạn bây giờ nhanh hơn %s."</string>
 	<string name="storage_item_doc_name">Tài liệu</string>
 	<string name="storage_item_other_name">Khác</string>
 	<string name="storage_item_picture_name">Ảnh</string>
-	<string name="storage_item_system_data">Hệ thống</string>
+	<string name="storage_item_system_data">Tập tin hệ thống</string>
 	<string name="storage_item_system_name">Hệ thống</string>
 	<string name="permission_usage_virtual_calllog_once">%1$s | Ứng dụng này trả về một bản ghi cuộc gọi trống</string>
 	<string name="storage_menu_mount">Gắn</string>
@@ -7049,7 +7049,7 @@ Rút lại sự đồng ý ngay bây giờ?"</string>
 	<string name="storage_fbo_tools">Tối ưu hóa lưu trữ</string>
 	<string name="storage_file_delete_tip">Xóa vĩnh viễn các mục đã chọn? Một số trong số chúng có thể được tải lại khi cần thiết.</string>
 	<string name="storage_file_dialog_delete_title">Xóa mục</string>
-	<string name="storage_item_video_name">Băng hình</string>
+	<string name="storage_item_video_name">Video</string>
 	<string name="storage_my_device">Thiết bị của tôi</string>
 	<string name="storage_system_log">Nhật ký hệ thống</string>
 	<string name="storage_system_log_tip">Nhật ký hệ thống sẽ tự động bị xóa khi cần thiết</string>
