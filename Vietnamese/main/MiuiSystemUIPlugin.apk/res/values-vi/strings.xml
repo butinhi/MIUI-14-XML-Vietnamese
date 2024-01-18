@@ -609,4 +609,5 @@ Việc nghe ở mức âm lượng cao trong thời gian dài có thể gây t�
     <string name="miui_dnd_mode_on">Không làm phiền đang bật</string>
 	<string name="miui_silent_mode_off">Chế độ im lặng đã tắt</string>
     <string name="miui_silent_mode_on">Chế độ im lặng đang bật</string>
+	<string name="deice_local">Thiết bị này</string>
 </resources>

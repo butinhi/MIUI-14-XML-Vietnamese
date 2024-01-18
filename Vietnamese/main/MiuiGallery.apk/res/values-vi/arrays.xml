@@ -368,4 +368,34 @@
         <item>Kỷ niệm ngon</item>
         <item>Giúp lần thứ hai, xin vui lòng!</item>
     </string-array>
+	<string-array name="last_some_day_babies_title">
+        <item>Bận rộn lớn lên</item>
+        <item>Ngày càng dễ thương</item>
+        <item>Thám hiểm nhỏ</item>
+    </string-array>
+	<string-array name="last_some_day_fit_title">
+        <item>Nhật ký tập thể dục</item>
+        <item>Ngày càng mạnh mẽ</item>
+    </string-array>
+	<string-array name="last_some_day_foods_title">
+        <item>Chúc ngon miệng!</item>
+        <item>Một vết khác?</item>
+        <item>Ăn ngon miệng nhé!</item>
+    </string-array>
+	<string-array name="last_some_day_playground_title">
+        <item>Cười và vẫy!</item>
+        <item>Giờ chơi</item>
+    </string-array>
+	<string-array name="last_some_day_ski_title">
+        <item>Ngoài trời tuyệt vời</item>
+        <item>Dấu vết trên tuyết</item>
+    </string-array>
+	<string-array name="last_some_day_sports_title">
+        <item>Không thể ngăn cản</item>
+        <item>Giữ dáng</item>
+    </string-array>
+	<string-array name="last_some_day_wedding_title">
+        <item>Một ngày trọng đại</item>
+        <item>Xuống lối đi!</item>
+    </string-array>	
 </resources>
