@@ -93,14 +93,14 @@
         <item>An ninh xã hội</item>
         <item>Tuyên bố về sức khỏe</item>
         <item>Bảo hiểm y tế</item>
-        <item>NHẬN DẠNG</item>
+        <item>Nhận dạng</item>
         <item>Giấy phép cư trú</item>
     </string-array>
     <string-array name="magic_idp_size_category_common">
-        <item>Một với</item>
-        <item>Hai cái lồn</item>
-        <item>Cái nhỏ hơn với</item>
-        <item>Nhỏ hơn hai cun</item>
+        <item>1cm</item>
+        <item>2cm</item>
+        <item>Ít hơn 1cm</item>
+        <item>Ít hơn 2cm</item>
     </string-array>
     <string-array name="magic_idp_size_category_education">
         <item>Đơn xin nhập học</item>
