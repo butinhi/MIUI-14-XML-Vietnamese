@@ -675,7 +675,6 @@ Hoạt động này làm giảm tuổi thọ pin."</string>
 	<string name="power_optimize_loading">Đang tải</string>
 	<string name="prompt_input_time_illegal">Không thể đặt thời gian này, hãy thay đổi và thử lại</string>
 	<string name="power_settings_saver_title">Tiết kiệm Pin</string>
-	<string name="quick_optimize_no_fix_issue_title">Không thể sửa vấn đề pin</string>
 	<string name="quick_optimize_no_fix_issue_subtitle">Không thể kéo dài tuổi thọ pin</string>
 	<string name="quick_optimize_no_issue_title">Không thể tìm thấy vấn đề pin</string>
 	<string name="quick_optimize_no_issue_subtitle">Mọi thứ đều tốt</string>
@@ -3701,7 +3700,6 @@ Chuyển đổi giữa các ký tự khác nhau và các hiệu ứng đặc bi�
 	<string name="input_cellular_data_warn_hint">Nhập giới hạn cảnh báo sử dụng dữ liệu</string>
 	<string name="privacy_risk_dangerous_title">"Bạn đã cấp các quyền có rủi ro cao"</string>
 	<string name="power_optimize_disconnect_data_summary">Sử dụng dữ liệu di động trong nền tiêu tốn điện năng</string>
-	<string name="power_center_problem_title">Sửa vấn đề</string>
 	<string name="privacy_risk_photo_delete">Ảnh có thể bị xóa mà không cần quyền của bạn</string>
 	<string name="permission_instruction_storage">Để bảo vệ quyền riêng tư của bạn, MIUI cho phép bạn quyết định xem bạn có cho phép các ứng dụng có quyền lưu trữ truy cập Thư viện và tin nhắn của bạn trong các ứng dụng mạng xã hội hay không.</string>
 	<string name="power_center_batteryscan_normal">Không có vấn đề sử dụng pin. Xem Kết quả.</string>
@@ -7232,7 +7230,6 @@ Bật cái này sẽ tắt cái kia."</string>
 	<string name="pc_phone_battery_level">Điện thoại</string>
     <string name="pc_power_mode_has_performance">Chế độ hiệu suất đang bật</string>
     <string name="pc_reminder_always_protect_summary">Chuyển sang sạc hạn chế để giảm lão hóa pin</string>
-	<string name="power_center_batteryscan_normal">Mọi thứ trông có vẻ tốt. Xem Kết quả.</string>
     <string name="power_center_problem_title">Tiêu thụ điện năng cao</string>
 	<string name="power_ntc_dialog_btn_finish">Hiểu rồi</string>
     <string name="power_ntc_dialog_msg">Ngắt kết nối bộ sạc ngay bây giờ. Làm sạch và lau khô cổng sạc trước khi sử dụng lại.</string>
@@ -7242,8 +7239,7 @@ Bật cái này sẽ tắt cái kia."</string>
     <string name="pp_toast_read_clipboard">Thông báo khi ứng dụng truy cập các mục trong bảng nhớ tạm</string>
     <string name="pp_toast_read_clipboard_item">Thông báo</string>
     <string name="privacy_risk_result_screen_shield_msg">Các ứng dụng chứa thông tin cá nhân nhạy cảm sẽ được hiển thị trong Gần đây với phần xem trước bị che đi</string>
-    <string name="quick_optimize_no_fix_issue_title">"Không thể tối ưu hóa các mục có mức tiêu thụ điện năng cao"</string>
-    <string name="quick_optimize_no_issue_title">Không có vật phẩm nào tiêu thụ điện năng cao</string>
+    <string name="quick_optimize_no_fix_issue_title">"Không thể tối ưu các mục có mức tiêu thụ điện năng cao"</string>
     <string name="recommend_type_random">Hệ thống đề xuất mà không có lý do</string>
     <string name="recommend_type_recent_used">Được đề xuất dựa trên các chức năng thường được sử dụng</string>
     <string name="recommend_type_server_config">Cấu hình hoạt động</string>
