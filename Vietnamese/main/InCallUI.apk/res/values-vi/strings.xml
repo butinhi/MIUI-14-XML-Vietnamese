@@ -624,4 +624,5 @@
 	<string name="saf_permission_later">Không phải bây giờ</string>
 	<string name="relay_network_error">Không thể kết nối mạng, hãy thử lại sau</string>
 	<string name="msim_select_default_last">Sử dụng gần đây</string>
+	<string name="focus_notification_on_call">Đang gọi…</string>
 </resources>
