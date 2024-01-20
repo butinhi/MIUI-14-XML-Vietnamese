@@ -338,10 +338,10 @@
 	</string-array>
 	<string-array name="magic_idp_size_category_common">
 		<item></item>
-		<item>1cm</item>
-		<item>2cm</item>
-		<item>Ít hơn 1cm</item>
-		<item>Ít hơn 2cm</item>
+		<item>1 cm</item>
+		<item>2 cm</item>
+		<item>Ít hơn 1 cm</item>
+		<item>Ít hơn 2 cm</item>
 	</string-array>
 	<string-array name="magic_effects_description">
 		<item>Biến nền thành bản phác thảo</item>
