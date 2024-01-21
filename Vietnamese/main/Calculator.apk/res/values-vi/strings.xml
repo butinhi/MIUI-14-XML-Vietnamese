@@ -1117,4 +1117,6 @@ Lưu ý rằng ứng dụng này cần kết nối với mạng và yêu cầu c
 	<string name="miuix_access_state_desc">Đã chọn</string>
 	<string name="miuix_indexer_selected">Đã chọn %s</string>
 	<string name="tenure_year_month">%1$s và %2$s</string>
+	<string name="uninstall_warning_content">"Máy tính là một ứng dụng hệ thống. Bạn sẽ không thể sử dụng chức năng cơ bản của nó, cũng như chuyển đổi tiền tệ và đơn vị đo lường, tính toán các khoản trả nợ thế chấp hoặc sử dụng các tính năng khác sau khi gỡ bỏ nó."</string>
+    <string name="uninstall_warning_title">Gỡ bỏ Máy tính?</string>
 </resources>

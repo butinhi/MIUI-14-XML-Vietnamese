@@ -2872,4 +2872,6 @@ Tắt phím nhanh để dừng đồng bộ."</string>
 	<string name="bookshelf__search_label_history">Lịch sử tìm kiếm</string>
 	<string name="btn_confirm">Tôi biết</string>
 	<string name="branch_new_function">Tính năng mới</string>
+	<string name="app_uninstall_description_content">"Trình duyệt là một ứng dụng hệ thống. Bạn sẽ không thể sử dụng các dịch vụ tìm kiếm và duyệt web mà nó cung cấp sau khi gỡ bỏ."</string>
+    <string name="app_uninstall_description_title">Gỡ bỏ trình duyệt?</string>
 </resources>

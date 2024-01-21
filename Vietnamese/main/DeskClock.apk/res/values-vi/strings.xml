@@ -823,4 +823,6 @@ sau khi Sức khỏe Mi phân tích đủ dữ liệu"</string>
 	<string name="alarm_alert">Báo thức đang reo</string>
 	<string name="upcoming_alarm">Báo thức sắp tới: %s</string>
 	<string name="upcoming_alarm_new">Báo thức sắp tới: %s</string>
+	<string name="xiaomi_deskclock_uninstall_description_content">"Đồng hồ là một ứng dụng hệ thống. Bạn sẽ không thể kiểm tra thời gian, đặt báo thức hoặc sử dụng các tính năng Đồng hồ khác sau khi gỡ bỏ ứng dụng."</string>
+    <string name="xiaomi_deskclock_uninstall_description_title">Gỡ bỏ Đồng hồ?</string>
 </resources>
