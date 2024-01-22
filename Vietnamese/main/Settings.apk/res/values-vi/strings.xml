@@ -2634,12 +2634,12 @@ Cài đặt này ảnh hưởng đến tất cả người dùng trên điện t
     <string name="vpn_no_ca_cert">(Không xác minh máy chủ)</string>
     <string name="vpn_no_server_cert">(Đã nhận từ máy chủ)</string>
     <string name="vpn_cancel">Hủy</string>
-    <string name="vpn_done">Loại bỏ</string>
+    <string name="vpn_done">Bỏ qua</string>
     <string name="vpn_save">Lưu</string>
     <string name="vpn_connect">Kết nối</string>
     <string name="vpn_replace">Thay thế</string>
     <string name="vpn_edit">Chỉnh sửa cấu hình VPN</string>
-    <string name="vpn_forget">Bỏ qua</string>
+    <string name="vpn_forget">Quên</string>
     <string name="vpn_connect_to">Kết nối với %s</string>
     <string name="vpn_disconnect_confirm">Ngắt kết nối VPN này.</string>
     <string name="vpn_disconnect">Ngắt kết nối</string>

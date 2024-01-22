@@ -7255,4 +7255,5 @@ Bật cái này sẽ tắt cái kia."</string>
     <string name="power_wireless_update_driver_note">"Bạn có thể tự động kiểm tra các bản cập nhật firmware và cài đặt phiên bản mới sau khi chúng được phát hành. Không tắt thiết bị của bạn khi đang kiểm tra bản cập nhật hoặc cài đặt chúng."</string>
     <string name="power_wireless_update_error">"Không thể cập nhật. Thử lại."</string>
     <string name="power_wireless_update_in_progress">Đang cập nhật firmware…</string>
+	<string name="pc_battery_charge_protect">Bảo vệ sạc</string>
 </resources>
