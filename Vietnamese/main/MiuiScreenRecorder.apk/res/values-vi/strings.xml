@@ -121,7 +121,7 @@
 	<string name="miuix_sbl_tracking_progress_labe_up_refresh">Đang làm mới</string>
 	<string name="miuix_sbl_tracking_progress_labe_up_nodata">Không có dữ liệu</string>
 	<string name="miuix_sbl_tracking_progress_labe_refreshed">Đã làm mới</string>
-	<string name="uninstall_warning_content">"Quay phim màn hình là một ứng dụng hệ thống. Bạn sẽ không thể quay phim màn hình sau khi gỡ nó."</string>
+	<string name="uninstall_warning_content">"Quay phim màn hình là một ứng dụng hệ thống. Bạn sẽ không thể quay phim màn hình sau khi gỡ bỏ."</string>
 	<string name="uninstall_warning_title">Gỡ Quay phim màn hình?</string>
 	<string name="chinese_day_20">20</string>
 	<string name="month_november_short">Tháng 11</string>
@@ -436,6 +436,4 @@ Chạm để xem"</string>
 	<string name="show_hard_key_new">Hiển thị các lần nhấn nút</string>
 	<string name="app_notification_record_saved">Đã lưu bản ghi màn hình. Nhấn để xem.</string>
     <string name="show_hard_key_summary_new">Hiển thị phím điều hướng</string>
-	<string name="uninstall_warning_content">"Trình ghi màn hình là một ứng dụng hệ thống. Bạn sẽ không thể quay video màn hình sau khi gỡ bỏ."</string>
-    <string name="uninstall_warning_title">Gỡ bỏ Trình ghi màn hình?</string>
 </resources>

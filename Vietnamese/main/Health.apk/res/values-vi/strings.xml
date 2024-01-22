@@ -1803,7 +1803,7 @@ Các thử nghiệm của chúng tôi cho thấy rằng phương pháp này đo 
 	<string name="course_search_no_result">Không tìm thấy khóa học tương ứng</string>
 	<string name="mcv2_music_artist_unknown_text">Nghệ sĩ không xác định</string>
 	<string name="mcv2_playback_error_text">"Không thể phát mục bạn yêu cầu"</string>
-	<string name="health_uninstall_dialog_content">"Sức khỏe Xiaomi là một ứng dụng hệ thống. Bạn có thể sử dụng ứng dụng này để đếm số bước, theo dõi giấc ngủ, thời gian và cân nặng, cũng như đồng bộ hóa số liệu thống kê của bạn với đám mây. Bạn sẽ không thể sử dụng ứng dụng này sau khi gỡ bỏ. "</string>
+	<string name="health_uninstall_dialog_content">"Sức khỏe Xiaomi là một ứng dụng hệ thống. Bạn có thể sử dụng ứng dụng này để đếm số bước, theo dõi giấc ngủ, thời gian và cân nặng, cũng như đồng bộ hóa số liệu thống kê của bạn với đám mây. Bạn sẽ không thể sử dụng ứng dụng này sau khi gỡ bỏ."</string>
 	<string name="MediaControlView_ad_text">Ghé thăm nhà quảng cáo</string>
 	<string name="mcv2_cc_is_on">Phụ đề đang bật. Bấm để ẩn nó.</string>
 	<string name="mcv2_next_button_desc">Phương tiện tiếp theo</string>
@@ -1961,6 +1961,4 @@ Nếu bạn không muốn tham gia các lớp học được đề xuất, bạn
 	<string name="sport_data_use_subtitle">Để theo dõi quá trình tập luyện và thể chất của bạn, chúng tôi thu thập và xử lý thông tin của bạn bao gồm lộ trình tập luyện, dữ liệu về giấc ngủ, nhịp tim và cân nặng.</string>
     <string name="sport_data_use_tip">"Đọc và đồng ý với &lt;font color=\"#0D84FF\">&lt;a href=%1$s>Chính sách sử dụng dữ liệu hoạt động và sức khỏe&lt;/a>&lt;/font> của chúng tôi để hiểu rõ hơn cách chúng tôi thu thập và xử lý thông tin của bạn. Bạn sẽ không thể sử dụng dịch vụ này nếu bạn không đồng ý với việc chúng tôi thu thập và xử lý."</string>
     <string name="sport_data_use_title">Quyền dữ liệu</string>
-	<string name="health_uninstall_dialog_content">"Sức khoẻ là một ứng dụng hệ thống. Bạn có thể sử dụng ứng dụng này để đếm bước, theo dõi giấc ngủ, thời gian và cân nặng cũng như đồng bộ hóa số liệu thống kê của bạn với đám mây. Bạn sẽ không thể sử dụng ứng dụng này sau khi gỡ bỏ nó."</string>
-    <string name="health_uninstall_dialog_title">Gỡ bỏ Sức khoẻ?</string>
 </resources>

@@ -1054,6 +1054,4 @@ Cho phép Ghi chú ghi âm."</string>
     <string name="widget_size_item_super_big">Cực lớn</string>
     <string name="widget_size_not_support">"Tiện ích cực lớn không được hỗ trợ trên thiết bị này"</string>
 	<string name="new_alert_title_delete">Xóa ghi chú</string>
-	<string name="notes_description_content">"Ghi chú là một ứng dụng hệ thống. Bạn sẽ không thể sử dụng ứng dụng này sau khi gỡ bỏ."</string>
-    <string name="notes_description_title">Gỡ bỏ Ghi chú?</string>
 </resources>

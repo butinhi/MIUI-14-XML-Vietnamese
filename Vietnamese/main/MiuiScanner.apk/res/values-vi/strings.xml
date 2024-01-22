@@ -1006,7 +1006,6 @@ Vui lòng tham khảo góc trên hình để đặt thiết bị và thử lại
 	<string name="Fullmask_mode_str1">Hiển thị kết quả được xử lý bởi máy quét WeChat mà không hiển thị quá trình nhận dạng</string>
 	<string name="check_phone_num">Đã tìm thấy một số điện thoại</string>
 	<string name="qrcode_cannot_be_processed_auto">"Máy quét thông minh không thể xử lý mã này. Thay vào đó, hãy quét mã bằng WeChat."</string>
-	<string name="title_desktop_uninstall">Gỡ bỏ máy quét?</string>
 	<string name="half_covered_mode">Không khẩu trang</string>
 	<string name="translate_try_agains">"Không thể nhận dạng hình ảnh"</string>
 	<string name="Fullmask_mode">Đeo khẩu trang</string>
