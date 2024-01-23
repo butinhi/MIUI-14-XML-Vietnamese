@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="permission_description_summary_storage">Ứng dụng được cấp quyền này có thể truy cập tất cả các tệp trên thiết bị này</string>
+    <string name="role_dialer_request_description">Ứng dụng này sẽ được phép gửi Thông báo cũng như cấp quyền truy cập vào Máy ảnh, Danh bạ, Micrô, Điện thoại và tin nhắn SMS của bạn</string>
+    <string name="role_sms_request_description">Ứng dụng này sẽ được phép gửi Thông báo cũng như được cấp quyền truy cập vào Máy ảnh, Danh bạ, Tệp, Micrô, Điện thoại và tin nhắn SMS của bạn</string>
+    <string name="safety_center_dismissed_issues_card_title">Cảnh báo bị loại bỏ</string>
+    <string name="safety_center_entry_content_description">%1$s. %2$s</string>
+    <string name="safety_center_entry_group_collapse_action">Thu gọn danh sách và ẩn chế độ cài đặt</string>
+    <string name="safety_center_entry_group_content_description">Danh sách. %1$s. %2$s</string>
+    <string name="safety_center_entry_group_expand_action">Mở rộng và hiện danh sách</string>
+    <string name="safety_center_entry_group_item_content_description">Mục trong danh sách. %1$s. %2$s</string>
+    <string name="safety_center_entry_group_with_actions_needed_content_description">Danh sách. %1$s. Việc cần làm. %2$s</string>
+    <string name="safety_center_gear_label">Cài đặt</string>
+    <string name="safety_center_info_label">Thông tin</string>
+    <string name="safety_center_issue_card_prefix_content_description">Cảnh báo. %1$s</string>
+    <string name="safety_center_more_issues_card_expand_action">{count,plural, =1{Mở rộng và xem một cảnh báo khác}other{Mở rộng và xem # cảnh báo khác}}</string>
+    <string name="safety_center_more_issues_card_title">Cảnh báo khác</string>
+    <string name="safety_center_qs_close_button">Đóng</string>
+    <string name="safety_center_qs_collapse_action">Thu gọn</string>
+    <string name="safety_center_qs_expand_action">Mở rộng và hiển thị các tùy chọn</string>
+    <string name="safety_center_qs_open_action">Mở</string>
+    <string name="safety_center_qs_page_landing">Các tùy chọn cài đặt nhanh về bảo mật và quyền riêng tư</string>
+    <string name="safety_center_qs_privacy_control">Chuyển. %1$s. %2$s</string>
+    <string name="safety_center_qs_status_summary">Kiểm tra các chế độ cài đặt có thể giúp tăng cường bảo vệ cho thiết bị của bạn</string>
+    <string name="safety_center_qs_toggle_action">Bật/tắt</string>
+    <string name="safety_center_resolved_issue_fallback">Hoàn tất hành động</string>
+    <string name="safety_center_review_settings_button">Xem lại các chế độ cài đặt</string>
+    <string name="work_policy_summary">Chế độ cài đặt do quản trị viên CNTT quản lý</string>
+    <string name="work_policy_title">Thông tin về chính sách công việc của bạn</string>
+</resources>
