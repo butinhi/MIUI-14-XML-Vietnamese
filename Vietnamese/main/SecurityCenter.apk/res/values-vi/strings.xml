@@ -3375,7 +3375,7 @@ Ghi lại các trình tự và sử dụng chúng bất cứ lúc nào!"</string
 	<string name="read_clipboard_ai_close_no">Lần tới</string>
 	<string name="read_clipboard_ai_close_yes">Điều chỉnh</string>
 	<string name="vb_video_effects_setting_knight">Kim loại</string>
-	<string name="vb_video_effects_setting_green_orange">Tuổi trẻ</string>
+	<string name="vb_video_effects_setting_green_orange">Cam</string>
 	<string name="privacy_thumbnail_blur_category_tip">Đề xuất</string>
 	<string name="privacy_thumbnail_blur_category_financial">Tài chính</string>
 	<string name="privacy_thumbnail_blur_search_empty">Không tìm thấy kết quả</string>
@@ -6985,7 +6985,7 @@ Rút lại sự đồng ý ngay bây giờ?"</string>
 	<string name="warningcenter_disaster_receive_info">Định dạng cảnh báo</string>
 	<string name="warningcenter_disaster_receive_level">Chọn mức độ cảnh báo</string>
 	<string name="warningcenter_disaster_receive_level_blue">Xanh lục</string>
-	<string name="warningcenter_disaster_receive_level_orange">Tuổi trẻ</string>
+	<string name="warningcenter_disaster_receive_level_orange">Cam</string>
 	<string name="warningcenter_disaster_receive_level_red">Đỏ</string>
 	<string name="warningcenter_disaster_receive_level_yellow">Vàng</string>
 	<string name="warningcenter_disaster_receive_settings">Định dạng cảnh báo</string>

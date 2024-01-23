@@ -1279,7 +1279,7 @@ Chờ đến khi đồng bộ hoàn toàn hoặc xem tin nhắn trên máy tính
 	<string name="ser_resp_err_map_serclosed_info">%s máy chủ đã đóng</string>
 	<string name="font_underline">Gạch chân</string>
 	<string name="font_color_gray">Xám</string>
-	<string name="font_color_orange">Tuổi trẻ</string>
+	<string name="font_color_orange">Cam</string>
 	<string name="font_color_red">Đỏ</string>
 	<string name="font_color_white">Trắng</string>
 	<string name="font_color_purple">Tím</string>
