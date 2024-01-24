@@ -89,11 +89,6 @@
         <item>Đối với tất cả sự kiện</item>
         <item>Đối với sự kiện nhạy cảm với thời gian</item>
     </string-array>
-    <string-array name="prefEntries_alerts_popup_new_summary">
-        <item></item>
-        <item></item>
-        <item>@string/preferences_popup_alert_smart_summary_new</item>
-    </string-array>
     <string-array name="prefEntries_alerts_vibrateWhen">
         <item>Luôn luôn</item>
         <item>Chỉ khi chuông im lặng</item>
