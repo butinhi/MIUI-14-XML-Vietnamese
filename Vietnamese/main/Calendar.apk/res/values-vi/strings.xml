@@ -875,4 +875,24 @@ Kiểm tra cài đặt mạng và thử lại."</string>
     <string name="yearly">"Hàng năm (mỗi  %s )"</string>
     <string name="yearly_plain">Hàng năm</string>
     <string name="yesterday">Hôm qua</string>
+	<string name="lunar_ba">8</string>
+    <string name="lunar_chu">0</string>
+    <string name="lunar_chu_shi">10</string>
+    <string name="lunar_er_shi">20</string>
+    <string name="lunar_jiu">9</string>
+    <string name="lunar_ling">0</string>
+    <string name="lunar_liu">6</string>
+    <string name="lunar_nian">2</string>
+    <string name="lunar_qi">7</string>
+    <string name="lunar_san">3</string>
+    <string name="lunar_san_shi">30</string>
+    <string name="lunar_shi">1</string>
+    <string name="lunar_shi_yi">1</string>
+    <string name="lunar_si">4</string>
+    <string name="lunar_yi">1</string>
+    <string name="lunar_wu">5</string>
+    <string name="lunar_zheng">1</string>
+    <string name="lunar_er">2</string>
+    <string name="lunar_shi_er">2</string>
+    <string name="event_lunar_month">/01</string>
 </resources>

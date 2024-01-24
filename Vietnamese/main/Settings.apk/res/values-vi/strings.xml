@@ -14748,4 +14748,7 @@ Thao tác xóa phương thức khóa sẽ xóa mẫu vân tay lưu trên thiết
     <string name="display_notification_icon_3">%d biểu tượng</string>
     <string name="display_notification_icon_5">%d biểu tượng</string>
 	<string name="title_show_notification_icon_count">Hiển thị biểu tượng thông báo</string>
+	<string name="my_device_front_camera">Máy ảnh trước</string>
+    <string name="my_device_guarantee">Thời hạn bảo hành</string>
+	<string name="my_device_real_camera">Máy ảnh sau</string>
 </resources>
