@@ -6805,8 +6805,8 @@ Bạn chắc chắn sử dụng giờ được cấp bởi GPS?"</string>
     <string name="bootloader_device_bind_no_data_network">Tắt WLAN rồi thêm tài khoản và thiết bị bằng dữ liệu di động.</string>
     <string name="bootloader_device_bind_server_token_expired_1">Không thể xác thực. Thử thêm lại tài khoản và thiết bị</string>
     <string name="bootloader_device_bind_server_token_expired_2">Không thể xác thực. Đăng nhập vào tài khoản của bạn và làm lại từ đầu.</string>
-    <string name="camera_front">"%s trước"</string>
-    <string name="camera_rear">"%s sau"</string>
+    <string name="camera_front">Trước %s</string>
+    <string name="camera_rear">Sau %s</string>
     <string name="change_theme_reboot">Thay đổi chủ đề cần phải khởi động lại.</string>
     <string name="child_mode_settings">Kiểm soát của phụ huynh</string>
     <string name="connected">Đã kết nối</string>
