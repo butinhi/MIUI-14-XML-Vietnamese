@@ -13643,8 +13643,8 @@ Khu vực nơi bạn có thể xác nhận khóa màn hình sẽ chuyển sang b
     <string name="location_time_zone_detection_status_title">Không thể tự động thiết lập múi giờ</string>
     <string name="location_time_zone_provider_fix_dialog_ok_button">Khắc phục vấn đề này</string>
     <string name="lock_password_checking">Đang xác minh khóa màn hình…</string>
-    <string name="lock_screen_after_fold_screen_summary">"The device will be locked after you fold it, except for the cases when you're using the front camera or speaker."</string>
-    <string name="lock_screen_after_fold_screen_title">Fold to lock</string>
+    <string name="lock_screen_after_fold_screen_summary">"Thiết bị sẽ bị khóa sau khi bạn gập lại, trừ trường hợp bạn đang sử dụng camera trước hoặc loa ngoài."</string>
+    <string name="lock_screen_after_fold_screen_title">Gấp để khóa</string>
     <string name="lock_screen_auto_pin_confirm_summary">Tự động mở khoá nếu bạn nếu nhập đúng mã PIN gồm từ 6 chữ số trở lên. Cách này sẽ kém bảo mật hơn một chút so với việc nhấn Enter để xác nhận.</string>
     <string name="lock_screen_auto_pin_confirm_title">Mở khoá bằng cách tự động xác nhận</string>
     <string name="lock_screen_notifs_show_all_summary">Hiện thông báo cuộc trò chuyện, mặc định và im lặng</string>
