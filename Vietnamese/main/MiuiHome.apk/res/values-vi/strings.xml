@@ -374,7 +374,7 @@
     <string name="home_gesture_global_search">Tìm kiếm</string>
     <string name="home_gesture_no_action">Không</string>
     <string name="home_gesture_notification_bar">Thông báo</string>
-    <string name="launcher_pull_down_title">Trượt lên từ Màn hình chính</string>
+    <string name="launcher_pull_down_title">Vuốt xuống từ Màn hình chính</string>
     <string name="launcher_slide_up_title">Vuốt lên từ Màn hình chính</string>
     <string name="menu_finish">Hoàn tất</string>
     <string name="widgets_preview_title">Thêm tiện ích</string>
@@ -1068,7 +1068,7 @@
 	<string name="xiaomi_market_sdk_update_dialog_cancel">Không phải bây giờ</string>
 	<string name="material_hour_selection">Chọn giờ</string>
 	<string name="Icon_name_classic_mode">Cài đặt Màn hình chính</string>
-	<string name="small_window">Chế độ lái xe MIUI</string>
+	<string name="small_window">Cửa sổ nổi</string>
 	<string name="quick_search_guide_all_apps">Tất cả ứng dụng</string>
 	<string name="btn_cancel">Hủy</string>
 	<string name="material_timepicker_pm">CH</string>

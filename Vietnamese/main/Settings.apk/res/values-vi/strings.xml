@@ -11134,7 +11134,7 @@ Chức năng này chỉ nhận được địa chỉ MAC Wi-Fi của bạn để
     <string name="bluetooth_blacklist_remove_device">Bỏ chặn</string>
     <string name="bluetooth_pairing_add_to_blackfile">Chặn</string>
     <string name="sound_settings_tab_sound">Âm thanh</string>
-    <string name="haptic_generate_small_window_gestures_09_content_description">Chế độ lái xe MIUI</string>
+    <string name="haptic_generate_small_window_gestures_09_content_description">Cửa sổ nổi</string>
     <string name="haptic_return_gesture_05_content_description">Đang quay lại</string>
     <string name="crisp_text">Tần số cao thêm sự rõ ràng cho các chi tiết của mọi hành động</string>
     <string name="flashback_summary">Hiển thị thông tin chính khi ứng dụng được hiển thị dưới dạng cửa sổ nổi</string>
@@ -12209,7 +12209,7 @@ Có người dùng khác trên thiết bị này.
     <string name="set_shoulder_key_shortcut_checkbox_message">Không hiển thị lại</string>
     <string name="shoulder_key_shortcut_mute">Chế độ im lặng</string>
     <string name="shoulder_key_shortcut_settings">Nút ở cạnh</string>
-    <string name="multi_window_cvw_title">Chế độ lái xe MIUI</string>
+    <string name="multi_window_cvw_title">Cửa sổ nổi</string>
     <string name="string_off">Tắt</string>
     <string name="ks_screenshot">Chụp m.hình</string>
     <string name="string_int_hour">%d giờ</string>

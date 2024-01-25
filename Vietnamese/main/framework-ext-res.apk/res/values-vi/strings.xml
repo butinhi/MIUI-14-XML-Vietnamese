@@ -389,7 +389,7 @@
 	<string name="dock_tip_splitscreen_portrait_drag">Kéo thanh theo chiều dọc để chuyển vị trí của hai cửa sổ ứng dụng.</string>
 	<string name="application_cannot_open_au_pay">Cài đặt au PAY trước</string>
 	<string name="relaunch_dialog_message">"Không thể điều chỉnh kích thước cửa sổ khi bạn đang sử dụng ứng dụng. Bạn có thể khởi chạy lại ứng dụng để điều chỉnh kích thước cửa sổ, nhưng dữ liệu ứng dụng sinh ra trong phiên này sẽ mất. Vẫn khởi chạy lại?"</string>
-	<string name="small_freeform_enter_warning">Chế độ lái xe MIUI</string>
+	<string name="small_freeform_enter_warning">Cửa sổ nổi</string>
 	<string name="small_freeform_memory_toast_game_type">"Không thể mở ngay bây giờ. Trò chơi này yêu cầu quá nhiều bộ nhớ để có thể hoạt động."</string>
 	<string name="small_freeform_memory_toast_app_type">"Không thể mở ngay bây giờ. Ứng dụng này yêu cầu quá nhiều bộ nhớ để có thể hoạt động."</string>
 	<string name="small_freeform_exit_tip">Đóng cửa sổ nổi</string>

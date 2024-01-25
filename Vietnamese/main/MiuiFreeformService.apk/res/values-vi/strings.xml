@@ -319,7 +319,7 @@
     <string name="fmt_date_numeric_year_month">M-yyyy</string>
     <string name="fmt_time_minute_second">"m 'phút' s 'giây'"</string>
     <string name="fmt_time_24hour_minute_second_millis">h:mm:ss.S</string>
-    <string name="multi_window_cvw">Chế độ lái xe MIUI</string>
+    <string name="multi_window_cvw">Cửa sổ nổi</string>
     <string name="fmt_time_millis">Giây</string>
     <string name="fmt_time_second_millis">"s.S 'giây'"</string>
     <string name="time_picker_label_hour">Giờ</string>
@@ -358,7 +358,7 @@
     <string name="fmt_time_12hour_minute_second">H:mm:ss</string>
     <string name="fmt_date_numeric_day">D</string>
     <string name="fmt_date_day">D</string>
-    <string name="multi_window_cvw_title">Chế độ lái xe MIUI</string>
+    <string name="multi_window_cvw_title">Cửa sổ nổi</string>
     <string name="bottom_bar_smallwindow_drag_text">Kéo vào đây để ghim</string>
     <string name="freeform_guide_tip_notification">Kéo xuống để mở trong cửa sổ nổi</string>
     <string name="freeform_guide_dialog_freeform_controller_summary">"Kéo cửa sổ nổi theo cạnh trên của nó để di chuyển xung quanh
@@ -393,7 +393,7 @@ của một ứng dụng để đóng"</string>
     <string name="desktop_btn_cancel">Hủy bỏ</string>
     <string name="desktop_btn_continue">Bắt đầu</string>
     <string name="desktop_mode_guide_summary">Chế độ máy trạm cho phép bạn mở nhiều ứng dụng trong cửa sổ nổi bằng cách nhấn vào biểu tượng của chúng trên thanh ứng dụng.</string>
-    <string name="desktop_mode_guide_title">máy trạm</string>
+    <string name="desktop_mode_guide_title">Máy trạm</string>
     <string name="dock_location_left">Bên trái</string>
     <string name="dock_location_right">Phải</string>
     <string name="dock_location_title">Vị trí bến ứng dụng</string>
@@ -504,8 +504,8 @@ sau đó kéo để di chuyển"</string>
     <string name="how_to_split_screen_combination_summary_pad">Tạo phím tắt cho việc kết hợp Chia đôi màn hình bằng dock ứng dụng</string>
     <string name="miui_bubbles_notification">Bong bóng hội thoại</string>
     <string name="miui_bubbles_notification_status_opened">Bật</string>
-    <string name="miui_desktop_mode_settings">máy trạm</string>
-    <string name="miui_desktop_mode_settings_title">máy trạm</string>
+    <string name="miui_desktop_mode_settings">Máy trạm</string>
+    <string name="miui_desktop_mode_settings_title">Máy trạm</string>
     <string name="miui_desktop_mode_video_description">Nhấn vào biểu tượng ứng dụng trên thanh công cụ để mở ứng dụng trong cửa sổ nổi. Bạn có thể bật và tắt chế độ Máy trạm trong Trung tâm điều khiển.</string>
     <string name="miuix_access_state_desc">Đã chọn</string>
     <string name="miuix_alphabet_indexer_name">Thanh chỉ mục</string>
