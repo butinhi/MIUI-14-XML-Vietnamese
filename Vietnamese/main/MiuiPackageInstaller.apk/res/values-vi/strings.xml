@@ -1286,7 +1286,7 @@ Tất cả dữ liệu trước đó của bạn sẽ được giữ lại."</st
     <string name="install_confirm_dialog_negative_button">Hủy</string>
     <string name="install_confirm_dialog_positive_button">Cài đặt</string>
     <string name="install_confirm_dialog_title">Chú ý</string>
-    <string name="install_confirm_question">Bạn có muons cài đặt ứng dụng này? Nó sẽ truy cập vào:</string>
+    <string name="install_confirm_question">Bạn có muốn cài đặt ứng dụng này? Nó sẽ truy cập vào:</string>
     <string name="install_confirm_question_des_10">"Nếu bạn sẵn sàng chấp nhận rủi ro và muốn tiếp tục cài đặt, hãy cho phép cài đặt trong Bảo mật > Quản lý ứng dụng > Quyền > Ứng dụng có thể có rủi ro. Nếu bạn không thể thấy \"Ứng dụng có thể có rủi ro\", cập nhật ứng dụng Bảo mật của bạn và thử lại."</string>
     <string name="install_confirm_question_des_10_tablet">"Nếu bạn sẵn sàng chấp nhận rủi ro và muốn tiếp tục cài đặt, hãy cho phép cài đặt trong Bảo mật > Quản lý ứng dụng > Quyền > Ứng dụng có thể có rủi ro. Nếu bạn không thể thấy \"Ứng dụng có thể có rủi ro\", cập nhật ứng dụng Bảo mật của bạn và thử lại."</string>
     <string name="install_confirm_question_no_perms">"Bạn có muốn cài đặt ứng dụng này? Nó không yêu cầu quyền gì đặc biệt."</string>

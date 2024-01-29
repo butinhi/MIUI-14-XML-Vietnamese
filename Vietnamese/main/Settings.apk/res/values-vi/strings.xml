@@ -11026,7 +11026,7 @@ Chức năng này chỉ nhận được địa chỉ MAC Wi-Fi của bạn để
     <string name="save_battery_mode">Tiết kiệm Pin với WQHD+</string>
     <string name="screen_enhance_engine_ai_title">Tăng cường hình ảnh AI</string>
     <string name="headset_remove_message">Bạn có muốn xóa thiết bị này khỏi tài khoản của bạn</string>
-    <string name="resolution_fhd_summary" formatted="false">null</string>
+    <string name="resolution_fhd_summary" formatted="false">%d×%d (Tiết kiệm pin)</string>
     <string name="screen_enhance_engine_ai_pic_summary">Nhận diện đối tượng (v.d. cây cối, động vật, tòa nhà) và điều chỉnh động hiệu ứng hiển thị. Tính năng này làm tăng nhẹ lượng pin tiêu thụ.</string>
     <string name="aod_notification_style">Hiệu ứng thông báo</string>
     <string name="miheadet_up_music">Bên trên</string>
@@ -11066,7 +11066,7 @@ Chức năng này chỉ nhận được địa chỉ MAC Wi-Fi của bạn để
     <string name="miheadset_last_version">Firmware đã được cập nhật</string>
     <string name="miheadset_double_click_left">Chạm hai lần vào tai nghe bên trái</string>
     <string name="screen_enhance_engine_sr_for_pic">Tăng cường hình ảnh</string>
-    <string name="resolution_qhd_summary" formatted="false">null</string>
+    <string name="resolution_qhd_summary" formatted="false">%d×%d (Rõ ràng hơn)</string>
     <string name="miheadset_audio_mode_normal">Chế độ bình thường</string>
     <string name="personalize_title">Hình nền &amp; cá nhân hóa</string>
     <string name="miheadset_double_click_key_mode_summary">Thay đổi bản đồ phím nhấn đúp</string>
