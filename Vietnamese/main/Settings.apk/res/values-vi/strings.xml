@@ -4048,7 +4048,7 @@ Bạn có thể thay đổi điều này sau đó từ Cài đặt > Ứng dụn
     <string name="wifi_context_menu_forget">Quên</string>
     <string name="wifi_context_menu_change_password">Đổi mật khẩu</string>
     <string name="wifi_context_menu_change_wapi_certificate">Thay đổi chứng chỉ WAPI</string>
-    <string name="wifi_info_reconnect">Lỗi mật khẩu, vui lòng thử lại!</string>
+    <string name="wifi_info_reconnect">Sai mật khẩu, vui lòng thử lại!</string>
     <string name="wifi_scan_always_available">Quét luôn khả dụng</string>
     <string name="wifi_scan_always_available_summary">Hãy để dịch vụ vị trí của Google và ứng dụng khác quét mạng, thậm chí khi Wi-Fi tắt</string>
     <string name="attempt_other_network">Chuyển đổi mạng</string>

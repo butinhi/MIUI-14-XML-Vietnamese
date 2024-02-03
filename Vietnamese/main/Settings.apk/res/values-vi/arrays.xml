@@ -38,6 +38,20 @@
         <item>Đã chặn</item>
         <item>Tạm thời tránh kết nối kém</item>
     </string-array>
+	<string-array name="wifitrackerlib_wifi_status">
+        <item></item>
+        <item>Đang quét…</item>
+        <item>Đang kết nối…</item>
+        <item>Đang xác thực…</item>
+        <item>Đang nhận địa chỉ IP…</item>
+        <item>Đã kết nối</item>
+        <item>Đã tạm dừng</item>
+        <item>Đang ngắt kết nối…</item>
+        <item>Đã ngắt kết nối</item>
+        <item>Không thành công</item>
+        <item>Đã chặn</item>
+        <item>Tạm thời tránh kết nối kém</item>
+    </string-array>
     <string-array name="hdcp_checking_titles">
         <item>Không kiểm tra</item>
         <item>Chỉ kiểm tra nội dung DRM</item>
