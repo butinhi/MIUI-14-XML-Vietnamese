@@ -683,7 +683,7 @@ Vui lòng tham khảo góc trên hình để đặt thiết bị và thử lại
 	<string name="can_only_be_English_Chinese">Ngôn ngữ dịch trực tuyến chỉ có thể là tiếng Anh và tiếng Trung giản thể</string>
 	<string name="picture_video_toast">Video không thể xem trước</string>
 	<string name="local_ocr_recognition">Nhận diện OCR cục bộ</string>
-	<string name="code_always">Tùy chọn này được đặt mặc định vào lần sau và sẽ không được nhắc lại</string>
+	<string name="code_always">Nhớ lựa chọn của tôi</string>
 	<string name="wifi_low_version_prompt">Nhắc Wi-Fi</string>
 	<string name="picture_gif_tag">GIF</string>
 	<string name="ucrop_label_edit_photo">Sửa ảnh</string>

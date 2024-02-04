@@ -2872,4 +2872,5 @@ Tắt phím nhanh để dừng đồng bộ."</string>
 	<string name="bookshelf__search_label_history">Lịch sử tìm kiếm</string>
 	<string name="btn_confirm">Tôi biết</string>
 	<string name="branch_new_function">Tính năng mới</string>
+	<string name="remember_my_choice">Nhớ lựa chọn của tôi</string>
 </resources>
