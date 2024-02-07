@@ -1267,7 +1267,7 @@ Tất cả dữ liệu trước đó của bạn sẽ được giữ lại."</st
     <string name="game_center_intercept_trust_app">Tôi tin tưởng ứng dụng này và có thể đối mặt với mọi rủi ro có thể xảy ra.</string>
     <string name="game_center_intercept_warning_msg">"Ứng dụng này chưa được quét vi-rút bởi Xiaomi. Cài đặt ứng dụng từ Trò chơi để tránh rủi ro bảo mật."</string>
     <string name="game_center_lunch_error">Cài đặt Mi Games trước</string>
-    <string name="grant_confirm_question">Bạn có muốn cấp những quyền dưới đây? Nó sẽ truy cập vào:</string>
+    <string name="grant_confirm_question">Bạn có muốn cấp những quyền dưới đây?</string>
     <string name="grant_dialog_button_allow">Cho phép</string>
     <string name="grant_dialog_button_deny">Từ chối</string>
     <string name="grant_dialog_button_deny_anyway">Vẫn từ chối</string>
@@ -1286,11 +1286,11 @@ Tất cả dữ liệu trước đó của bạn sẽ được giữ lại."</st
     <string name="install_confirm_dialog_negative_button">Hủy</string>
     <string name="install_confirm_dialog_positive_button">Cài đặt</string>
     <string name="install_confirm_dialog_title">Chú ý</string>
-    <string name="install_confirm_question">Bạn có muốn cài đặt ứng dụng này? Nó sẽ truy cập vào:</string>
+    <string name="install_confirm_question">Bạn có muốn cài đặt ứng dụng này không?</string>
     <string name="install_confirm_question_des_10">"Nếu bạn sẵn sàng chấp nhận rủi ro và muốn tiếp tục cài đặt, hãy cho phép cài đặt trong Bảo mật > Quản lý ứng dụng > Quyền > Ứng dụng có thể có rủi ro. Nếu bạn không thể thấy \"Ứng dụng có thể có rủi ro\", cập nhật ứng dụng Bảo mật của bạn và thử lại."</string>
     <string name="install_confirm_question_des_10_tablet">"Nếu bạn sẵn sàng chấp nhận rủi ro và muốn tiếp tục cài đặt, hãy cho phép cài đặt trong Bảo mật > Quản lý ứng dụng > Quyền > Ứng dụng có thể có rủi ro. Nếu bạn không thể thấy \"Ứng dụng có thể có rủi ro\", cập nhật ứng dụng Bảo mật của bạn và thử lại."</string>
     <string name="install_confirm_question_no_perms">"Bạn có muốn cài đặt ứng dụng này? Nó không yêu cầu quyền gì đặc biệt."</string>
-    <string name="install_confirm_question_update">"Bạn có muốn cài đặt bản cập nhật cho ứng dụng đã có? Dữ liệu đã có sẽ không bị mất. Ứng dụng được cập nhật sẽ truy cập vào:"</string>
+    <string name="install_confirm_question_update">Bạn có muốn cập nhật ứng dụng này không?</string>
     <string name="install_confirm_question_update_no_perms">"Bạn có muốn cài đặt cập nhật cho ứng dụng này? Dữ liệu đã có của ứng dụng sẽ không bị mất. Nó không yêu cầu quyền nào đặc biệt."</string>
     <string name="install_confirm_question_update_system">"Bạn có muốn cài đặt một bản cập nhật cho ứng dụng hệ thống này? Dữ liệu ứng dụng đã có sẽ không bị mất. Ứng dụng được cập nhật sẽ truy cập vào:"</string>
     <string name="install_confirm_question_update_system_no_perms">"Bạn có muốn cài đặt bản cập nhật cho ứng dụng hệ thống này? Dữ liệu hiện tại của ứng dụng sẽ không bị mất. Nó không yêu cầu quyền nào đặc biệt."</string>
@@ -1479,4 +1479,5 @@ Ngoài ra, bạn có thể tắt Chế độ đơn giản và thử lại."</str
     <string name="wear_app_channel">Cài đặt/gỡ bỏ ứng dụng Android Wear</string>
     <string name="wear_not_allowed_dlg_text">Hành động Cài đặt/gỡ bỏ không hỗ trợ trên Đồng hồ.</string>
     <string name="xiaomi_account_verify">Đăng nhập vào tài khoản Mi của bạn để có thể tiếp tục cài đặt.</string>
+	<string name="to_be_installed">Tiếp tục cài đặt</string>
 </resources>
