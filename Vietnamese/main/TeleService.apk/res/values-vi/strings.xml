@@ -3700,4 +3700,9 @@ Bất cứ người dùng nào cũng có thể cập nhật ứng dụng cho ng�
     <string name="intelligent_dual_sim_title">SIM kép thông minh</string>
 	<string name="ussdinitiated_title">Bắt đầu USSD</string>
 	<string name="feedback_title">Phản hồi</string>
+	<string name="switch_debug_menu">Cài đặt mạng bổ sung</string>
+    <string name="show_vonr_switch_summary">Hiển thị công tắc VoNR trong chi tiết SIM</string>
+    <string name="show_vonr_switch_title">Hiển thị công tắc VoNR</string>
+	<string name="fiveg_sa_vice_switch_summary">Cho phép SIM phụ sử dụng mạng 5G độc lập</string>
+	<string name="n28_summary">Sử dụng dải tần 803 MHz</string>
 </resources>
