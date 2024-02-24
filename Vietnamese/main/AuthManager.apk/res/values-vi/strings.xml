@@ -840,4 +840,5 @@ Bạn cần phải cài đặt phiên bản OS của nhà phát triển để tr
 	<string name="HIPS_Perm_Receive_SMS">Nhận tin nhắn SMS và MMS</string>
     <string name="HIPS_Perm_Receive_SMS_desc">Nhận tin nhắn của bạn</string>
 	<string name="HIPS_Perm_read_Calendar_Desc">Xem các sự kiện được thêm vào Lịch</string>
+	<string name="call_notification_incoming_text">Cuộc gọi đến</string>
 </resources>
