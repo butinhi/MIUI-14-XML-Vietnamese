@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="action_add_to_workspace">Thêm vào Không gian làm việc</string>
-	<string name="application_name">Trình khởi chạy hệ thống</string>
+	<string name="application_name">Trình khởi chạy</string>
     <string name="folder_name">Thư mục</string>
     <string name="unnamed_folder_name">Thư mục</string>
     <string name="chooser_wallpaper">Chọn hình nền mới</string>
