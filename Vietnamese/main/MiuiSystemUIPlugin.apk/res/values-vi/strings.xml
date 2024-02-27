@@ -450,8 +450,8 @@ Việc nghe ở mức âm lượng cao trong thời gian dài có thể gây t�
 	<string name="hearing_assist_transmission_tips_continue">Bật</string>
 	<string name="hearing_assist_bluetooth_enable_tips_start">Bật</string>
 	<string name="hearing_assist_bluetooth_enable_tips_title">Bật Bluetooth</string>
-	<string name="hearing_assist_transmission_label">Khối lượng trả về</string>
-	<string name="hearing_assist_transmission_tips_title">Khối lượng trả về</string>
+	<string name="hearing_assist_transmission_label">Theo dõi trực tiếp tai nghe</string>
+	<string name="hearing_assist_transmission_tips_title">Theo dõi trực tiếp tai nghe</string>
 	<string name="hearing_assist_transmission_tips_cancel">Hủy</string>
 	<string name="hearing_assist_bluetooth_enable_tips_cancle">Hủy</string>
 	<string name="mtrl_picker_invalid_format_use">Sử dụng: %1$s</string>
