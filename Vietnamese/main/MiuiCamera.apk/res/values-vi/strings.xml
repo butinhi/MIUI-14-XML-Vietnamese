@@ -1867,7 +1867,7 @@ In dễ dàng trên khổ A4"</string>
 	<string name="accessibility_preview_zoom_tip">%1$.1f xem trước thu phóng</string>
 	<string name="dual_video_record_merged">Kết hợp</string>
 	<string name="film_timefreeze_hint">Vui lòng không di chuyển điện thoại</string>
-	<string name="pref_k_h">Theo dõi trực tiếp tai nghe</string>
+	<string name="pref_k_h">Tai nghe theo dõi trực tiếp</string>
 	<string name="doc_shortcut_long">Tài liệu</string>
 	<string name="video_shortcut_long">Video</string>
 	<string name="fastmotion_pro_save_time_infinity">Thời lượng không giới hạn</string>
