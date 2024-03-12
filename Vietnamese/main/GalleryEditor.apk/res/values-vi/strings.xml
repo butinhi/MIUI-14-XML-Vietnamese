@@ -912,7 +912,6 @@
     <string name="photo_editor_crop_and_rotate">Cắt</string>
     <string name="photo_editor_crop_auto">Tự động</string>
     <string name="photo_editor_crop_auto_tips">Đã cắt tự động</string>
-    <string name="photo_editor_crop_reset">Cài lại</string>
     <string name="photo_editor_crop_rotation_format">%s°</string>
     <string name="photo_editor_crop_size_free">Tùy chỉnh</string>
     <string name="photo_editor_crop_size_landscape_fullscreen">M.hình ngan</string>
@@ -2110,11 +2109,8 @@
     <string name="photo_editor_crop_outpaint_process_tips">Tạo hình ảnh…</string>
     <string name="photo_editor_crop_outpaint_ratio_name">Tỷ lệ thuận</string>
     <string name="photo_editor_crop_reset">Đặt lại</string>
-	<string name="photo_editor_crop_size_free">Cá nhân</string>
 	<string name="photo_editor_crop_size_origin">Nguyên bản</string>
-	<string name="photo_editor_beautify">Tự động</string>
 	<string name="photo_editor_beautify_auto">Tự động</string>
-	<string name="photo_editor_crop_auto">Tự động</string>
 	<string name="photo_editor_crop_outpaint_auto_name">Tự động</string>
 	<string name="aicrmanager_download_process_content_title">Đang tải xuống plugin chỉnh sửa AI</string>
 </resources>
