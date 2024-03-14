@@ -70,7 +70,7 @@
     <string name="adjust_tab_color">Màu sắc</string>
     <string name="adjust_tab_curve">Đường cong</string>
     <string name="adjust_tab_detail">Chi tiết</string>
-    <string name="adjust_tab_dispersion">phân tán</string>
+    <string name="adjust_tab_dispersion">Phân tán</string>
     <string name="adjust_tab_effect">Các hiệu ứng</string>
     <string name="adjust_tab_tone">Tông</string>
     <string name="adjust_tab_white_balance">Cân bằng trắng</string>
@@ -110,12 +110,12 @@
     <string name="beauty_ai_beauty_category_beautify_face">Bức xạ</string>
     <string name="beauty_ai_beauty_category_complexion">Ánh sáng</string>
     <string name="beauty_ai_beauty_category_filter">Bộ lọc</string>
-    <string name="beauty_ai_beauty_category_japanese">phấn màu</string>
+    <string name="beauty_ai_beauty_category_japanese">Phấn màu</string>
     <string name="beauty_ai_beauty_category_light_color">Tươi mới</string>
-    <string name="beauty_ai_beauty_category_mildly_mature">Đã xác định</string>
+    <string name="beauty_ai_beauty_category_mildly_mature">Trưởng thành</string>
     <string name="beauty_ai_beauty_category_natural">Chỉnh sửa</string>
     <string name="beauty_ai_beauty_category_protist">Gốc</string>
-    <string name="beauty_ai_beauty_category_strong_color">quyến rũ</string>
+    <string name="beauty_ai_beauty_category_strong_color">Quyến rũ</string>
     <string name="beauty_ai_beauty_category_texture">Kết cấu</string>
     <string name="beauty_ai_beauty_tip_detecting_age">Kiểm tra các đặc điểm trên khuôn mặt…</string>
     <string name="beauty_ai_beauty_tip_detecting_gender">Kiểm tra ngoại hình…</string>
@@ -176,7 +176,7 @@
     <string name="beauty_skin_beauty_category_even_skin">Điều màu</string>
     <string name="beauty_skin_beauty_category_eyebrow_enhancement">Lông mày</string>
     <string name="beauty_skin_beauty_category_freckle_and_acne">Khuyết điểm</string>
-    <string name="beauty_skin_beauty_category_freckle_and_acne_state_on">TRÊN</string>
+    <string name="beauty_skin_beauty_category_freckle_and_acne_state_on">Bật</string>
     <string name="beauty_skin_beauty_category_microdermabrasion">Lỗ chân lông</string>
     <string name="beauty_skin_beauty_category_remove_dark_circles">Quầng thâm</string>
     <string name="beauty_skin_beauty_category_skin_texture">Kết cấu</string>
@@ -573,7 +573,7 @@
     <string name="loading_text_format" formatted="false">Đang xóa thông tin cá nhân khỏi ảnh (%d/ %d)…</string>
     <string name="loading_video_compress_lib">Đang tải xuống plugin nén video…</string>
     <string name="magic_add_full">Bạn có thể thêm tối đa %1$d người</string>
-    <string name="magic_background">Lý lịch</string>
+    <string name="magic_background">Nền phía sau</string>
     <string name="magic_bitmap_damaged">Tệp hình ảnh bị hỏng</string>
     <string name="magic_brush">Chải</string>
     <string name="magic_camera">Máy ảnh</string>
@@ -930,7 +930,7 @@
     <string name="photo_editor_gallery_frame_no_exif">Không thể nhận dạng siêu dữ liệu hình ảnh</string>
     <string name="photo_editor_gallery_frame_site_left">Bên trái</string>
     <string name="photo_editor_gallery_frame_site_right">Phải</string>
-    <string name="photo_editor_label">Biên tập</string>
+    <string name="photo_editor_label">Sửa</string>
     <string name="photo_editor_long_crop">Cắt</string>
     <string name="photo_editor_miui_beauty">Làm đẹp</string>
     <string name="photo_editor_miui_beauty_menu_eraser_blemish">Khuyết điểm</string>
@@ -1800,7 +1800,7 @@
     <string name="vlog_template_qingfeng">Hào quang</string>
     <string name="vlog_template_replace">Thay thế</string>
     <string name="vlog_template_retry">Thử lại</string>
-    <string name="vlog_template_rixi">phấn màu</string>
+    <string name="vlog_template_rixi">Phấn màu</string>
     <string name="vlog_template_rule_downloading">Đang tải xuống plugin…</string>
     <string name="vlog_template_rule_importing">Đang nhập…</string>
     <string name="vlog_template_rule_matching">Đang điều chỉnh mẫu…</string>
@@ -1888,7 +1888,7 @@
     <string name="adjust_talkback_curve_reset">Cài lại</string>
     <string name="adjust_whites">Phạm vi ánh sáng</string>
 	<string name="filter_category_classic">Cổ điển</string>
-    <string name="filter_category_diy">Phong tục</string>
+    <string name="filter_category_diy">Tuỳ chỉnh</string>
     <string name="filter_category_film">Phim</string>
     <string name="filter_category_fresh">Tươi</string>
     <string name="filter_category_general">Tổng quan</string>
@@ -2111,4 +2111,21 @@
 	<string name="photo_editor_crop_size_origin">Nguyên bản</string>
 	<string name="photo_editor_crop_outpaint_auto_name">Tự động</string>
 	<string name="aicrmanager_download_process_content_title">Đang tải xuống plugin chỉnh sửa AI</string>
+	<string name="photo_editor_crop_outpaint_free_name">Tuỳ chỉnh</string>
+	<string name="photo_editor_picture_quality">Chất lượng</string>
+	<string name="photo_editor_quality">Chất lượng</string>
+	<string name="photo_editor_high">Cao</string>
+    <string name="photo_editor_highest">Tốt nhất</string>
+    <string name="photo_editor_leica_frame">Hình mờ Leica</string>
+    <string name="photo_editor_low">Thấp</string>
+    <string name="photo_editor_middle">Trung bình</string>
+	<string name="photo_editor_size_ratio">Kích cỡ</string>
+	<string name="photo_editor_estimate_size">Kích cỡ ước tính: %1$s - %2$d × %3$d px</string>
+	<string name="photo_editor_aicrmanager_install">Cài đặt</string>
+    <string name="photo_editor_aicrmanager_model_name">Chỉnh sửa AI</string>
+    <string name="photo_editor_aicrmanager_title">Quản lý plug-in</string>
+    <string name="photo_editor_aicrmanager_uninstall">Xoá</string>	
+    <string name="beauty_skin_beauty_tab_adjust">Nâng cao</string>
+    <string name="beauty_skin_beauty_tab_skin">Da</string>
+    <string name="beauty_skin_beauty_tab_skin_color">Da mặt</string>
 </resources>

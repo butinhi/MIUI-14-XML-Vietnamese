@@ -3323,4 +3323,7 @@ Phiên dịch có thể mất một lúc khi bạn sử dụng tính năng này 
 	<string name="assistant_page_image_printing">In</string>
 	<string name="gallery_uninstall_description_content">"Thư viện là một ứng dụng hệ thống cho phép bạn xem, quản lý và đồng bộ hóa ảnh và video trên tất cả các thiết bị được kết nối. Nếu bạn gỡ bỏ Thư viện, bạn sẽ mất các mục bạn đặt ở chế độ riêng tư và các tính năng khác liên quan đến việc xem và chọn các mục trong Thư viện cũng sẽ không còn khả dụng với bạn nữa. Vẫn gỡ bỏ?"</string>
     <string name="gallery_uninstall_description_title">Gỡ bỏ Thư viện?</string>
+	<string name="str_scan_form">Nhận biết bảng</string>
+	<string name="equivalent_focal_length">(Tiêu cự tương đương %dmm)</string>
+	<string name="create_new_share_album">Tạo album chia sẻ</string>
 </resources>
