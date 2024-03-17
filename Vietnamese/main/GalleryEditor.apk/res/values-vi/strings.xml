@@ -1883,7 +1883,7 @@
     <string name="adjust_dispersion_strength">Cường độ</string>
     <string name="adjust_dispersion_tip">"Di chuyển vòng tròn để điều chỉnh vùng phân tán"</string>
     <string name="adjust_highlight_shadow">Nổi bật &amp; bóng tối</string>
-    <string name="adjust_tab_de_noise">Khử tiếng ồn</string>
+    <string name="adjust_tab_de_noise">Khử nhiễu</string>
     <string name="adjust_talkback_curve_anchor_delete">Xóa điểm neo</string>
     <string name="adjust_talkback_curve_reset">Cài lại</string>
     <string name="adjust_whites">Phạm vi ánh sáng</string>
@@ -1924,7 +1924,7 @@
     <string name="filter_film_sunset_red">Đỏ tươi</string>
     <string name="filter_film_taichi_ink">Mực</string>
     <string name="filter_general_blackice">Băng đen</string>
-    <string name="filter_general_blackwhite">Đen &amp; trắng</string>
+    <string name="filter_general_blackwhite">Đen trắng</string>
     <string name="filter_general_delicious">Đồ ăn</string>
     <string name="filter_general_df">Trong trẻo</string>
     <string name="filter_general_fairytale">Câu chuyện</string>
@@ -2128,4 +2128,5 @@
     <string name="beauty_skin_beauty_tab_adjust">Nâng cao</string>
     <string name="beauty_skin_beauty_tab_skin">Da</string>
     <string name="beauty_skin_beauty_tab_skin_color">Da mặt</string>
+	<string name="filter_category_black_white">Đen trắng</string>	
 </resources>
