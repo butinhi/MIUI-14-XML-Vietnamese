@@ -1306,4 +1306,6 @@ d MMMM"</string>
     <string name="summary4">"Chào mừng bạn đến với Khoá tạp chí! Tại đây, bạn có thể đăng ký các danh mục hình nền yêu thích của mình và thường xuyên nhận những hình ảnh mới được gửi đến Màn hình khóa của bạn. "</string>
 	<string name="select_at_least_one_mode">Chọn chế độ trình chiếu hình nền</string>
 	<string name="applied_and_added_to_custom_wallpaper">"Đã thêm vào trình chiếu của bạn thành công. &lt;font color ='#3482FF'>&lt;a href='%1$s'>Xem&lt;/font>&lt;/a>"</string>
+	<string name="dlg_add_to_loop_success_toast">Đã thêm hình nền vào trình chiếu</string>
+	<string name="wallpaper_added_success_toast">Đã thêm hình nền thành công</string>
 </resources>
