@@ -50,6 +50,7 @@
     </plurals>
     <plurals name="anniversary_day">
         <item quantity="other">%1$s ngày</item>
+		<item quantity="one">%1$s ngày</item>
     </plurals>
     <plurals name="anniversary_notify_before_3_day_title">
         <item quantity="other">Kỷ niệm: %1$d ngày sau là %3$d năm %2$s</item>

@@ -914,7 +914,7 @@
     <string name="photo_editor_crop_auto_tips">Đã cắt tự động</string>
     <string name="photo_editor_crop_rotation_format">%s°</string>
     <string name="photo_editor_crop_size_free">Tùy chỉnh</string>
-    <string name="photo_editor_crop_size_landscape_fullscreen">M.hình ngan</string>
+    <string name="photo_editor_crop_size_landscape_fullscreen">M.hình ngang</string>
     <string name="photo_editor_crop_size_portrait_fullscreen">M.hình dọc</string>
     <string name="photo_editor_doodle">Vẽ</string>
     <string name="photo_editor_filter">Bộ lọc</string>
