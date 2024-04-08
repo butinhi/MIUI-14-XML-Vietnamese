@@ -3402,4 +3402,5 @@ dd/MM"</string>
 	<string name="format_month_day_style2">d/M</string>
 	<string name="format_month_day_style1">d/MMM</string>
 	<string name="format_month_day_week">EEE, dd MMM</string>
+	<string name="face_unlock_locked">"Không thể sử dụng Mở khóa khuôn mặt"</string>
 </resources>
