@@ -7256,4 +7256,16 @@ Bật cái này sẽ tắt cái kia."</string>
     <string name="power_wireless_update_error">"Không thể cập nhật. Thử lại."</string>
     <string name="power_wireless_update_in_progress">Đang cập nhật firmware…</string>
 	<string name="pc_battery_charge_protect">Bảo vệ sạc</string>
+	<string name="app_manager_airtel_dlg_msg">Nếu bạn có thắc mắc, hãy liên hệ với Airtel</string>
+    <string name="app_manager_airtel_dlg_title">Bị chặn bởi Airtel</string>
+    <string name="gamebox_filter_alpha_tip">Trong suốt</string>
+    <string name="gamebox_filter_dark_conter">Họa tiết</string>
+    <string name="gamebox_filter_tip">Bộ lọc trong trò chơi đã chọn sẽ được áp dụng khi bạn bắt đầu chơi</string>
+    <string name="gamebox_filter_toast_apply">Bộ lọc sẽ được áp dụng khi bạn bắt đầu chơi</string>
+    <string name="gamebox_filter_toast_open">Áp dụng bộ lọc: %1$s</string>
+    <string name="gamebox_mem_filter">Bộ lọc trò chơi</string>
+    <string name="pc_berserk_mode_dialog_title">Bật chế độ tối ưu</string>
+    <string name="pc_berserk_mode_noti_summary">Chế độ tối ưu có thể làm tăng mức tiêu thụ điện năng và dẫn đến các vấn đề quá nhiệt</string>
+    <string name="pc_berserk_mode_performance_title">Chế độ tối ưu</string>
+    <string name="pc_power_mode_has_berserk">Chế độ tối ưu đang bật</string>
 </resources>
