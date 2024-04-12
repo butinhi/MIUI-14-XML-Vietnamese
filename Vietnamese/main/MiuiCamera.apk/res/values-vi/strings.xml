@@ -597,7 +597,7 @@ Vệ sinh ống kính để có hiệu ứng tốt hơn."</string>
     <string name="pref_camera_coloreffect_entry_seventy">Năm 1970</string>
     <string name="accessibility_countdown">Nút đếm ngược</string>
 	<string name="fps960_toast">Quay chuyển động chậm sẽ bắt đầu khi bộ hẹn giờ đạt đến chấm trắng</string>
-    <string name="module_name_new_slow_motion">C.động chậm</string>
+    <string name="module_name_new_slow_motion">Chuyển động chậm</string>
     <string name="portrait_bokeh_first_tips">"Sử dụng chế độ Chân dung để làm mờ bối cảnh ảnh chụp"</string>
     <string name="portrait_bokeh_text">Chế độ chân dung</string>
     <string name="portrait_bokeh_tips">Đặt đối tượng trong phạm vi 1.5m</string>
@@ -2584,4 +2584,23 @@ Sau khi bật chức năng "ghi nhiều camera", máy ảnh của điện thoạ
     <string name="pref_beauty_nvs_wp_title">Xóa nốt ruồi</string>
 	<string name="pref_camera_volumekey_function_timer_desc">"Sẽ không hoạt động với video"</string>
     <string name="pref_camera_volumekey_function_zoom_desc">Chỉ hoạt động ở các chế độ hỗ trợ thu phóng</string>
+    <string name="mode_edit_hold_on">Giữ một mục</string>
+    <string name="mode_edit_moved">Đặt vào hàng %1$d, vị trí %2$d</string>
+    <string name="mode_edit_photo_disable">Ngừng chụp ảnh</string>
+    <string name="mode_edit_video_disable">Dừng quay video</string>
+    <string name="module_name_microfilm">Phim ngắn</string>
+    <string name="module_name_street">Chụp nhanh</string>
+    <string name="module_name_street_hint">Thay đổi khoảng cách lấy nét ở đây</string>
+    <string name="moiton_detection_960_fps_video_tip" formatted="false">%1dfps video có thể dài tới %2d giây</string>
+    <string name="moiton_detection_tip">Đang phát hiện chuyển động… Giữ ổn định thiết bị.</string>
+    <string name="moiton_detection_video_electric_quantity_tip">Hãy sạc thiết bị của bạn để có thể sử dụng tính năng này</string>
+    <string name="moiton_detection_video_temperature_stop_tip">Thiết bị của bạn quá nóng. Quá trình ghi sẽ dừng sau %d giây.</string>
+    <string name="moiton_detection_video_temperature_tip">Làm mát thiết bị của bạn để có thể sử dụng tính năng này</string>
+	<string name="street_preferred_description">Để bật tính năng này, hãy đi tới Cài đặt > Khởi chạy Máy ảnh và chọn \"Chụp ảnh\"</string>
+	<string name="config_name_photography_style">Phong cách</string>
+	<string name="manual_picture_style_new">Phong cách</string>
+	<string name="accessibility_aperture_adjust">Khẩu độ</string>
+	<string name="aperture_adjust_title">Khẩu độ</string>
+	<string name="parameter_aperture_title">Khẩu độ</string>
+	<string name="function_friend_mode">Cam hỗ trợ</string>
 </resources>

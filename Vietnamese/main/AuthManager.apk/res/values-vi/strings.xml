@@ -275,9 +275,9 @@ Bạn cần phải cài đặt phiên bản OS của nhà phát triển để tr
     <string name="HIPS_Perm_background_start_activity">Hiển thị cửa sổ bật lên khi chạy trong nền</string>
     <string name="HIPS_Perm_background_start_activity_Desc">Hiển thị cửa sổ bật lên khi chạy trong nền</string>
     <string name="HIPS_Perm_get_installed_apps">Nhận thông tin về ứng dụng đã cài đặt</string>
-    <string name="HIPS_Perm_get_installed_apps_Desc">nhận thông tin về ứng dụng đã cài đặt trên thiết bị</string>
-    <string name="HIPS_Perm_service_foreground">Dịch vụ nền trước</string>
-    <string name="HIPS_Perm_service_foreground_Desc">dịch vụ nền trước</string>
+    <string name="HIPS_Perm_get_installed_apps_Desc">Nhận thông tin về ứng dụng đã cài đặt trên thiết bị</string>
+    <string name="HIPS_Perm_service_foreground">Quyền truy cập thông báo</string>
+    <string name="HIPS_Perm_service_foreground_Desc">Quyền truy cập thông báo</string>
     <string name="permission_group_title_charges_related">Tính phí</string>
     <string name="permission_group_title_privacy_related">Riêng tư</string>
     <string name="permission_group_title_media_related">Đa phương tiện</string>
