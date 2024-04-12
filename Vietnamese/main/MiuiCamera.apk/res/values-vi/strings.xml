@@ -1852,7 +1852,7 @@ In dễ dàng trên khổ A4"</string>
 	<string name="pref_histogram_on">"Mở"</string>
 	<string name="pref_camera_video_ai_scene_title">Máy ảnh AI</string>
 	<string name="pref_n_s_o_l">"Mở"</string>
-	<string name="pref_n_s_o_m">"Đóng"</string>
+	<string name="pref_n_s_o_m">"Tắt"</string>
 	<string name="color_effect_entry_new_3_describe">Giới thiệu về bộ lọc</string>
 	<string name="pref_hdr10plus_video_mode_description">Tối ưu hóa màu sắc và độ tương phản của video 4K/8K. Cần thiết bị hỗ trợ HDR10 + để phát bình thường</string>
 	<string name="update_start">Cập nhật %1$s</string>
@@ -2603,4 +2603,11 @@ Sau khi bật chức năng "ghi nhiều camera", máy ảnh của điện thoạ
 	<string name="aperture_adjust_title">Khẩu độ</string>
 	<string name="parameter_aperture_title">Khẩu độ</string>
 	<string name="function_friend_mode">Cam hỗ trợ</string>
+    <string name="pref_switch_camera_heic_image_desc">"Định dạng ảnh hiệu quả hơn giúp tiết kiệm dung lượng lưu trữ. Nó hỗ trợ chế độ Ultra HD nhưng không hỗ trợ ảnh động, xóa hình mờ thông thường và một số ứng dụng của bên thứ ba."</string>
+    <string name="pref_true_colour_video_mode_description">Quay video bằng Dolby Vision để ghi lại các chi tiết sống động như thật, màu sắc ấn tượng và độ tương phản nổi bật (tính năng này có thể không tương thích với một số ứng dụng của bên thứ ba)</string>
+    <string name="pref_true_colour_video_mode_introduction">Trải nghiệm hình ảnh tuyệt đẹp, chi tiết sống động như thật và độ tương phản nổi bật</string>
+    <string name="pref_true_colour_video_mode_setting_dec">"Ghi lại các chi tiết sống động như thật, màu sắc tuyệt đẹp và độ tương phản nổi bật ở chế độ Video và Pro. Tiêu điểm theo dõi chuyển động và mã hóa H.264 không được hỗ trợ. Tính năng này có thể không tương thích với một số ứng dụng của bên thứ ba."</string>
+    <string name="pref_true_colour_video_mode_summary">Quay video 1080P và 4K ở chế độ Video và Pro để ghi lại các chi tiết sống động như thật, màu sắc ấn tượng và độ tương phản ấn tượng (tính năng này có thể không tương thích với một số ứng dụng của bên thứ ba)</string>
+	<string name="pref_n_s_a">Cài đặt âm thanh</string>
+	<string name="pref_i_n_r_b">Giảm tiếng ồn thông minh</string>
 </resources>
