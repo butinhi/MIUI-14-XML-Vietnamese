@@ -6820,7 +6820,7 @@ Bạn chắc chắn sử dụng giờ được cấp bởi GPS?"</string>
     <string name="enable_atrace_summary">Bắt sự kiện kernel sử dụng ATrace</string>
     <string name="fingerprint_others_title">Khác</string>
     <string name="gxzw_anim_title">Hiệu ứng vân tay</string>
-    <string name="gxzw_dialog_message">Để cảm biến vân tay trong màn hình hoạt động bình thường, đừng sử dụng miếng dán màn hình. Nếu vần thiết, hãy sử dụng miếng dán chính hãng hoặc được ủy quyền</string>
+    <string name="gxzw_dialog_message">Để cảm biến vân tay trong màn hình hoạt động bình thường, đừng sử dụng miếng dán màn hình. Nếu cần thiết, hãy sử dụng miếng dán chính hãng hoặc được ủy quyền</string>
     <string name="gxzw_dialog_not_show_again">Không hiển thị lại</string>
     <string name="gxzw_dialog_ok">Đã hiểu</string>
     <string name="gxzw_dialog_title">Tìm hiểu về cảm biến vân tay trong màn hình</string>
