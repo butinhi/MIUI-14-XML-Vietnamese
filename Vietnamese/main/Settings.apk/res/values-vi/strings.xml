@@ -14751,4 +14751,5 @@ Thao tác xóa phương thức khóa sẽ xóa mẫu vân tay lưu trên thiết
 	<string name="my_device_front_camera">Máy ảnh trước</string>
     <string name="my_device_guarantee">Thời hạn bảo hành</string>
 	<string name="my_device_real_camera">Máy ảnh sau</string>
+	<string name="title_device_control">Điều khiển thiết bị</string>
 </resources>

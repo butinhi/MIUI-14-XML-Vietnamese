@@ -2459,7 +2459,7 @@ Thử lại sau %d giây."</string>
 	<string name="controls_in_progress">Đang thực hiện</string>
 	<string name="keyguard_indication_trust_unlocked_plugged_in">"%1$s
 %2$s"</string>
-	<string name="quick_controls_title">điều khiển thiết bị</string>
+	<string name="quick_controls_title">Điều khiển thiết bị</string>
 	<string name="volume_ringer_hint_mute">Tắt tiếng</string>
 	<string name="mobile_data_disable_message_default_carrier">Nhà mạng của tôi</string>
 	<string name="priority_onboarding_show_at_top_text">Hiển thị phía trên của đoạn hội thoại</string>

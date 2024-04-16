@@ -3327,4 +3327,5 @@ Phiên dịch có thể mất một lúc khi bạn sử dụng tính năng này 
 	<string name="equivalent_focal_length">(Tiêu cự tương đương %dmm)</string>
 	<string name="create_new_share_album">Tạo album chia sẻ</string>
 	<string name="sync_off_global_title">Giữ ảnh và video của bạn an toàn</string>
+	<string name="clear_thumbnails_progress_dialog_text">Xác minh dữ liệu…</string>
 </resources>

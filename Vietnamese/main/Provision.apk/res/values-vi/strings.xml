@@ -722,4 +722,8 @@ Bạn cần đọc và đồng ý với Chính sách Riêng tư Mint Keyboard tr
     <string name="safe_open_service_introduction">Các dịch vụ mở an toàn hỗ trợ các nhà phát triển và cung cấp khả năng bảo mật cấp hệ thống để bảo vệ người dùng và quyền riêng tư của họ.</string>
     <string name="verify_application_security">Để xác minh bảo mật ứng dụng</string>
     <string name="verify_device_security">Để xác minh bảo mật thiết bị</string>
+	<string name="interconnection_communication_introduction">Dịch vụ Truyền thông Internet của Xiaomi cho phép bạn khám phá, kết nối và liên lạc với các thiết bị khác.</string>
+	<string name="service_interconnection_communication">Dịch vụ Truyền thông Internet Xiaomi</string>
+	<string name="terms_of_use_label_communication_service">Dịch vụ Truyền thông Internet Xiaomi</string>
+	<string name="terms_of_use_label_remote_provisioner">Nhà cung cấp từ xa</string>
 </resources>

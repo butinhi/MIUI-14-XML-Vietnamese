@@ -73,7 +73,7 @@
 	<string name="fmt_weekday">W</string>
 	<string name="miuix_appcompat_search_input_description">Tìm kiếm</string>
 	<string name="preference_copied">\"%1$s\" đã sao chép vào clipboard.</string>
-	<string name="quick_controls_title">điều khiển thiết bị</string>
+	<string name="quick_controls_title">Điều khiển thiết bị</string>
 	<string name="fmt_date_numeric_month_day">d/M</string>
 	<string name="chinese_day_13">13</string>
 	<string name="chinese_day_12">12</string>
