@@ -1032,4 +1032,6 @@ Các bước: Mở APP WeChat&gt;My&gt;Cài đặt&gt;Chung&gt;Sao lưu và di c
 	<string name="apple_install_skip">Bỏ qua</string>
 	<string name="apple_install_get_data_faild">Đã xảy ra lỗi</string>
 	<string name="apple_install_install_immediately_default">Cài đặt</string>
+	<string name="provisiion_set_old_phone">Nhập từ thiết bị cũ</string>
+	<string name="provision_set_old_pad">Nhập từ thiết bị cũ</string>
 </resources>

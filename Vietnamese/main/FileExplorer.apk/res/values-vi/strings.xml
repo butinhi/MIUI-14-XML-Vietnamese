@@ -1778,4 +1778,5 @@ Gia nhập cùng 170 triệu Mi Fan!"</string>
 	<string name="positive_order">Chuyển tiếp</string>
 	<string name="search_text_hint">Tìm tập tin</string>
     <string name="search_category_type">Tìm theo danh mục</string>
+	<string name="import_files_from_old_phones">Nhập từ thiết bị cũ</string>
 </resources>
