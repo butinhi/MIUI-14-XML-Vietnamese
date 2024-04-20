@@ -1859,7 +1859,7 @@ Chụp nhiều ảnh bạn của bạn hơn!"</string>
 	<string name="throwing_screen">Trình chiếu</string>
 	<string name="default_device_name">Thiết bị chưa biết</string>
 	<string name="confirm_cancel_task_images">Hủy gửi ảnh đến %1$s?</string>
-	<string name="enable_midrop">Mở</string>
+	<string name="enable_midrop">Bật</string>
 	<string name="pc_device_model_name">Máy tính xách tay</string>
 	<string name="scanning_device_tips">Đang tìm thiết bị lân cận… Đảm bảo các thiết bị khác đang trong chế độ hiển thị.</string>
 	<string name="unrecognized_manufacture">Thương hiệu chưa nhận diện</string>
@@ -3328,4 +3328,20 @@ Phiên dịch có thể mất một lúc khi bạn sử dụng tính năng này 
 	<string name="create_new_share_album">Tạo album chia sẻ</string>
 	<string name="sync_off_global_title">Giữ ảnh và video của bạn an toàn</string>
 	<string name="clear_thumbnails_progress_dialog_text">Xác minh dữ liệu…</string>
+	<string name="google_banner_backup_des">Bắt đầu ngay bây giờ và giữ an toàn cho ảnh, video của bạn trong Google Photos.</string>
+    <string name="google_banner_backup_left_btn_text">Không phải bây giờ</string>
+    <string name="google_banner_backup_right_btn_text">Bật sao lưu</string>
+    <string name="google_banner_backup_title">Sao lưu các mục vào Google Photos</string>
+    <string name="google_banner_upgrade_des">Bạn có thể mua thêm bộ nhớ đám mây cho Tài khoản Google của mình.</string>
+    <string name="google_banner_upgrade_left_btn_text">Xem chi tiết</string>
+    <string name="google_banner_upgrade_right_btn_text">Mua dung lượng lưu trữ</string>
+    <string name="google_banner_upgrade_title">Bộ nhớ đám mây đã đầy</string>
+	<string name="backup_category_title">Sao lưu</string>
+	<string name="select_backup">Chọn sao lưu</string>
+	<string name="backup_google_description">Giữ ảnh an toàn bằng cách sao lưu vào Tài khoản Google của bạn</string>
+	<string name="backup_onedrive_description">Bảo vệ ảnh của bạn trên đám mây và truy cập chúng trên mọi thiết bị</string>
+	<string name="transfer_dialog_btn_open_google_backup">Bật</string>
+	<string name="open_backup">Bật</string>
+	<string name="backup_display">Lời nhắc lưu trữ</string>
+    <string name="assistant_today_of_year_function_no_address_tip">Quay ngược thời gian</string>
 </resources>

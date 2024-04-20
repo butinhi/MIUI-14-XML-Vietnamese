@@ -1779,4 +1779,12 @@ Gia nhập cùng 170 triệu Mi Fan!"</string>
 	<string name="search_text_hint">Tìm tập tin</string>
     <string name="search_category_type">Tìm theo danh mục</string>
 	<string name="import_files_from_old_phones">Nhập từ thiết bị cũ</string>
+	<string name="reverse_order">Đảo ngược</string>
+	<string name="display_mode">Hiển thị</string>
+	<string name="midrive_display_related">Hiển thị</string>
+	<string name="display_all_dirs">Tất cả thư mục</string>
+    <string name="display_hide_sys_dirs">Thư mục ẩn hệ thống</string>
+	<string name="recent_file_sort_type">Sắp xếp theo</string>
+	<string name="recent_file_by_source">Nguồn tập tin</string>
+    <string name="recent_file_sort_by_date">Ngày</string>
 </resources>
