@@ -689,7 +689,7 @@
 	<string name="subscribe_dlg_content2">Đăng ký \"%1$s\"</string>
 	<string name="llks_subscribe">Đăng ký</string>
 	<string name="shield_tag_list_title">Mục đã chặn</string>
-	<string name="sst_morning_greeting_desc2">Nhận lời chào từ %1$s đến %2$s mỗi sáng</string>
+	<string name="sst_morning_greeting_desc2">Nhận lời chào từ %1$sh đến %2$sh mỗi sáng</string>
 	<string name="shield_failed">"Không thể chặn mục này"</string>
 	<string name="sure_close_gallery">Tắt Tạp chí Khóa màn hình?</string>
 	<string name="llks_try_it">Thử</string>
@@ -1308,4 +1308,16 @@ d MMMM"</string>
 	<string name="applied_and_added_to_custom_wallpaper">"Đã thêm vào trình chiếu của bạn thành công. &lt;font color ='#3482FF'>&lt;a href='%1$s'>Xem&lt;/font>&lt;/a>"</string>
 	<string name="dlg_add_to_loop_success_toast">Đã thêm hình nền vào trình chiếu</string>
 	<string name="wallpaper_added_success_toast">Đã thêm hình nền thành công</string>
+	<string name="sst_surprise_wallpaper">Hình nền ấn tượng</string>
+	<string name="surprise_wallpaper_empty_dlg_content">Hình nền ấn tượng sẽ dựa trên hình nền tự chọn (nếu được bật) hoặc hình nền tùy chỉnh được tạo ngẫu nhiên</string>
+	<string name="surprise_wallpaper_empty_dlg_title">Hình nền ấn tượng</string>
+	<string name="sst_surprise_wallpaper_desc">Sử dụng AIGC để tạo hình nền được cá nhân hóa</string>
+	<string name="action_more_dlg_add_to_loop">Thêm vào trình chiếu</string>
+    <string name="action_more_dlg_apply">Đặt làm hình nền màn hình khóa</string>
+    <string name="action_more_dlg_dislike">"Tôi không thích điều này"</string>
+    <string name="action_more_dlg_my_favor">Thêm vào mục yêu thích</string>
+    <string name="action_more_dlg_save">Tải hình nền</string>
+    <string name="action_more_dlg_settings">Thêm cài đặt</string>
+    <string name="action_more_dlg_share">Chia sẻ</string>
+	<string name="lks_to_setting">Cài đặt Tạp chí khoá</string>
 </resources>
