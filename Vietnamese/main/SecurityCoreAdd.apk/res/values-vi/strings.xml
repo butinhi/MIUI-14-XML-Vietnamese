@@ -1103,7 +1103,7 @@ dành riêng cho mỗi ứng dụng"</string>
     <string name="xspace_head">Ứng dụng kép</string>
     <string name="xspace_header">Ứng dụng kép</string>
     <string name="xspace_instagram_title">Instagram</string>
-    <string name="xspace_install_complete">&lt;font>Tạo ứng dụng kép thành công. &lt;/font>&lt;font color=#0D84FF>Mở ngay&lt;/font>.</string>
+    <string name="xspace_install_complete">Tạo ứng dụng kép thành công. Mở ngay.</string>
     <string name="xspace_install_completed">Biểu tượng đã được thêm vào Màn hình chính</string>
     <string name="xspace_install_completed_global">Biểu tượng đã thêm đến ngăn ứng dụng</string>
     <string name="xspace_install_failed">Không thể tạo</string>

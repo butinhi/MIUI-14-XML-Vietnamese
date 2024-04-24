@@ -842,4 +842,5 @@ Bạn cần phải cài đặt phiên bản OS của nhà phát triển để tr
 	<string name="HIPS_Perm_read_Calendar_Desc">Xem các sự kiện được thêm vào Lịch</string>
 	<string name="call_notification_incoming_text">Cuộc gọi đến</string>
 	<string name="carwith_grant_permission_tips_when_lock">Mở khóa điện thoại của bạn trước</string>
+	<string name="deny_fine_keep_blur_location">Vị trí gần đúng</string>
 </resources>

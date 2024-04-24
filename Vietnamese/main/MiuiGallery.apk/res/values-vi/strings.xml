@@ -3344,4 +3344,5 @@ Phiên dịch có thể mất một lúc khi bạn sử dụng tính năng này 
 	<string name="open_backup">Bật</string>
 	<string name="backup_display">Lời nhắc lưu trữ</string>
     <string name="assistant_today_of_year_function_no_address_tip">Quay ngược thời gian</string>
+	<string name="global_trash_vip_info_text_login_medium_or_low_level">"Các mục đã xóa có thể được sao lưu trên đám mây tối đa %1$s ngày. Các mục chưa được sao lưu sẽ được giữ lại tối đa %2$s ngày."</string>
 </resources>
