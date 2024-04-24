@@ -10718,7 +10718,7 @@ Thông tin này xác định liệu danh bạ của bạn có thể sử dụng 
     <string name="accessibility_shortcut_edit_dialog_summary_software_gesture_talkback">"Vuốt lên từ phía dưới màn hình bằng 3 ngón tay.
 
 Để chuyển giữa các tính năng, vuốt lên bằng 3 ngón tay và giữ."</string>
-    <string name="notification_history_off_summary">Bật lịch sử thông báo để xcem thông báo hiện tại và báo lại</string>
+    <string name="notification_history_off_summary">Bật lịch sử thông báo để xem thông báo hiện tại và báo lại</string>
     <string name="disable_wifi_hotspot_when_usb_and_bluetooth_and_ethernet_on">Chỉ chia sẻ kết nối qua USB, Bluetooth và Ethernet</string>
     <string name="zen_mode_other_sounds_none">Không có gì có thể gián đoạn</string>
     <string name="power_menu_privacy_show_cards">Hiển thị thẻ khi khóa</string>
