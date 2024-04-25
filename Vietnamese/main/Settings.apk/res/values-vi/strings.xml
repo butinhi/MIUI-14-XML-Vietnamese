@@ -14752,4 +14752,5 @@ Thao tác xóa phương thức khóa sẽ xóa mẫu vân tay lưu trên thiết
     <string name="my_device_guarantee">Thời hạn bảo hành</string>
 	<string name="my_device_real_camera">Máy ảnh sau</string>
 	<string name="title_device_control">Điều khiển thiết bị</string>
+	<string name="screen_dark_mode_time_summary">Thiết bị sẽ chuyển sang Chế độ tối vào khoảng thời gian đã lên lịch khi bạn tắt màn hình</string>
 </resources>
