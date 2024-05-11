@@ -14753,4 +14753,9 @@ Thao tác xóa phương thức khóa sẽ xóa mẫu vân tay lưu trên thiết
 	<string name="my_device_real_camera">Máy ảnh sau</string>
 	<string name="title_device_control">Điều khiển thiết bị</string>
 	<string name="screen_dark_mode_time_summary">Thiết bị sẽ chuyển sang Chế độ tối vào khoảng thời gian đã lên lịch khi bạn tắt màn hình</string>
+	<string name="lyra_account_ap_summary_v2">"Cho phép máy tính bảng và máy tính ở gần đăng nhập vào Tài khoản Xiaomi của bạn sử dụng dữ liệu di động của thiết bị, bật điểm phát sóng trên thiết bị và kết nối với nó"</string>
+    <string name="lyra_account_ap_title_v2">Chia sẻ kết nối</string>
+    <string name="lyra_auto_connect_summary_v2">"Tự động bật điểm phát sóng và kết nối các thiết bị lân cận đã đăng nhập vào Tài khoản Xiaomi của bạn với điểm phát sóng đó nếu chúng chưa kết nối với mạng và cho phép chúng sử dụng dữ liệu di động của thiết bị này"</string>
+    <string name="lyra_auto_connect_title_v2">Chia sẻ tự động</string>
+	<string name="nrca_type_title">Trạng thái tổng hợp mạng</string>
 </resources>
