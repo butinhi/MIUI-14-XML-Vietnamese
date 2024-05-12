@@ -14758,4 +14758,5 @@ Thao tác xóa phương thức khóa sẽ xóa mẫu vân tay lưu trên thiết
     <string name="lyra_auto_connect_summary_v2">"Tự động bật điểm phát sóng và kết nối các thiết bị lân cận đã đăng nhập vào Tài khoản Xiaomi của bạn với điểm phát sóng đó nếu chúng chưa kết nối với mạng và cho phép chúng sử dụng dữ liệu di động của thiết bị này"</string>
     <string name="lyra_auto_connect_title_v2">Chia sẻ tự động</string>
 	<string name="nrca_type_title">Trạng thái tổng hợp mạng</string>
+	<string name="nrca_unregistered">Chưa đăng ký</string>
 </resources>

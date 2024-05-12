@@ -664,4 +664,8 @@
         <item quantity="other">%d giây</item>
         <item quantity="one">%d giây</item>
     </plurals>
+	    <plurals name="nrca_info">
+        <item quantity="other">Thay đổi sẽ được áp dụng sau %d giây</item>
+        <item quantity="one">Thay đổi sẽ được áp dụng sau %d giây</item>
+    </plurals>
 </resources>
