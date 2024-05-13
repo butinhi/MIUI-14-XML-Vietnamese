@@ -1518,7 +1518,7 @@ Bạn cũng được kết nối với %3$s, ứng dụng này có thể giám s
      <string name="quick_settings_dual_location_label">GPS kép</string>
      <string name="quick_settings_edit_label">Thêm</string>
      <string name="quick_settings_extreme_batterysaver_label">Siêu Tiết kiệm Pin</string>
-     <string name="quick_settings_flashlight_label">Đèn flash</string>
+     <string name="quick_settings_flashlight_label">Đèn pin</string>
      <string name="quick_settings_hotspot_label">Điểm phát sóng</string>
      <string name="quick_settings_ime_label">Phương thức nhập</string>
      <string name="quick_settings_inversion_label">Đảo màu</string>

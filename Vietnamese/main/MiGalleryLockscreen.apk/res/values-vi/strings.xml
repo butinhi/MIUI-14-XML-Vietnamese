@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">Khóa tạp chí</string>
+    <string name="app_name">Tạp chí màn hình khoá</string>
     <string name="apply">Áp dụng</string>
     <string name="at_least_one">Chọn ít nhất một thể loại</string>
     <string name="auto_interval">Tự động</string>
@@ -10,7 +10,7 @@
     <string name="change_time">Đổi hình nền</string>
     <string name="day">Mỗi ngày một lần</string>
     <string name="declaration">Nhận hình nền mới cho màn hình khóa miễn phí mỗi ngày.</string>
-    <string name="declaration_lockscreen_title">Khóa tạp chí</string>
+    <string name="declaration_lockscreen_title">Tạp chí màn hình khoá</string>
     <string name="declaration_title">Điều khoản và Điều kiện</string>
     <string name="dislike">Xóa</string>
     <string name="hour_1">Mỗi giờ</string>
@@ -19,7 +19,7 @@
     <string name="liked">Đã thích</string>
     <string name="lockscreen_magazine_summary">Thể loại</string>
     <string name="lockscreen_magazine_system_title">Ngoại tuyến</string>
-    <string name="lockscreen_magazine_title">Khóa tạp chí</string>
+    <string name="lockscreen_magazine_title">Tạp chí màn hình khoá</string>
     <string name="lockscreen_wallpaper_changed">Hình nền đã đổi</string>
     <string name="minutes_15">Mỗi 15 phút</string>
     <string name="no_long_show">Không hiển thị lại</string>
@@ -43,7 +43,7 @@
     <string name="sst_grid_view_unselect_all">Bỏ chọn tất cả</string>
     <string name="sst_no_favor_wallpaper_hint">Không có hình nền trong Yêu thích</string>
     <string name="sst_prov_enable_desc">Nhận hình nền mới cho màn hình khóa thường xuyên</string>
-    <string name="sst_prov_enable_title">Bật khóa tạp chí</string>
+    <string name="sst_prov_enable_title">Bật Tạp chí màn hình khoá</string>
     <string name="sst_require_one_category_hint">Chọn ít nhất một thể loại</string>
     <string name="sst_sti_desc">Đặt tần suất cập nhật hình nền</string>
     <string name="sst_sti_title">Tần suất cập nhật</string>
@@ -61,8 +61,8 @@
     <string name="wallpaper_feed_title">Bạn có thể thích</string>
     <string name="user_ac_not_login">Chưa đăng nhập</string>
     <string name="user_ac_click_to_login">Chạm để đăng nhập</string>
-    <string name="uninstall_warning_text_title">Xóa Khóa tạp chí</string>
-    <string name="uninstall_introduction_text_title">Về Khóa tạp chí</string>
+    <string name="uninstall_warning_text_title">Xóa Tạp chí màn hình khoá</string>
+    <string name="uninstall_introduction_text_title">Về Tạp chí màn hình khoá</string>
     <string name="top_search_tip">Tìm kiếm danh mục bạn thích</string>
     <string name="toast_neterror_tip">Đã xảy ra lỗi mạng</string>
     <string name="toast_load_hd_fail">Không thể tải ảnh gốc</string>
@@ -72,7 +72,7 @@
     <string name="sst_show_lockscreen_entry_title">Lối tắt màn hình khóa</string>
     <string name="sst_show_lockscreen_entry_desc">Hiển thị lối tắt trên màn hình khóa</string>
     <string name="sst_cover_chg_enable_title">Hiển thị khi đang sạc</string>
-    <string name="sst_cover_chg_enable_desc">Hiển thị Khóa tạp chí khi đang sạc</string>
+    <string name="sst_cover_chg_enable_desc">Hiển thị Tạp chí màn hình khoá khi đang sạc</string>
     <string name="sliding_on_unlock">Trượt lên để mở khóa</string>
     <string name="shortcut_failed">Không thể tạo lối tắt</string>
     <string name="shortcut_exist">Đã tồn tại lối tắt</string>
@@ -623,7 +623,7 @@
 	<string name="sst_shield_tag_title">Mục đã chặn</string>
 	<string name="recommend_switch_dlg_title">Tắt đề xuất?</string>
 	<string name="ad_btn_open">Mở</string>
-	<string name="open_gallery">Tạp chí Khóa màn hình</string>
+	<string name="open_gallery">Tạp chí màn hình khoá</string>
 	<string name="shield_tag_entrance_desc">Chọn để chặn tất cả ảnh từ danh mục này</string>
 	<string name="recommend_switch_dlg_other">Không tắt</string>
 	<string name="theme_apply_lockscreen_failed">Không thể áp dụng</string>
@@ -691,7 +691,7 @@
 	<string name="shield_tag_list_title">Mục đã chặn</string>
 	<string name="sst_morning_greeting_desc2">Nhận lời chào từ %1$sh đến %2$sh mỗi sáng</string>
 	<string name="shield_failed">"Không thể chặn mục này"</string>
-	<string name="sure_close_gallery">Tắt Tạp chí Khóa màn hình?</string>
+	<string name="sure_close_gallery">Tắt Tạp chí màn hình khoá?</string>
 	<string name="llks_try_it">Thử</string>
 	<string name="create_shortcut_title">Tạo một Lối tắt Màn hình chính</string>
 	<string name="add">Thêm</string>
@@ -711,10 +711,10 @@
 	<string name="enable_toast_cw">Đã chuyển sang trình chiếu</string>
 	<string name="see_more_content">Xem thêm</string>
 	<string name="disable_dlg_content">"Bạn sẽ không thể nhận ảnh mới chuyển tới Màn hình chính và Màn hình khóa của bạn nếu bạn tắt Tạp chí Khóa màn hình. Vẫn tắt?"</string>
-	<string name="enable_toast_cwo">Bật Tạp chí khóa màn hình và bắt đầu trình chiếu</string>
+	<string name="enable_toast_cwo">Bật Tạp chí màn hình khoá và bắt đầu trình chiếu</string>
 	<string name="pull_to_refresh_loading_label">Chỉ vài giây…</string>
 	<string name="status_wallpaper_loop_not_start">Tắt</string>
-	<string name="disable_dlg_title">Tắt Tạp chí Khóa màn hình?</string>
+	<string name="disable_dlg_title">Tắt Tạp chí màn hình khoá?</string>
 	<string name="toast_connect_failed_tip">"Không thể kết nối. Chờ một vài phút rồi thử lại."</string>
 	<string name="enable_toast_ar">Đã chuyển sang đề xuất</string>
 	<string name="system_default">Mặc định</string>
@@ -722,7 +722,7 @@
 	<string name="sst_morning_history_desc">Xem lời chào buổi sáng trước đó</string>
 	<string name="mode_auto_desc_open">Tự động nhận ảnh mới</string>
 	<string name="disable_dlg_cancel">Hủy</string>
-	<string name="mode_auto_desc">Bật Tạp chí Khóa màn hình để tự động nhận ảnh mới</string>
+	<string name="mode_auto_desc">Bật Tạp chí màn hình khoá để tự động nhận ảnh mới</string>
 	<string name="sst_morning_history_title">Lịch sử lời chào buổi sáng</string>
 	<string name="sst_subscripted2">Danh mục khả dụng</string>
 	<string name="mode_cw_desc_selected">Sử dụng ảnh của bạn trong trình chiếu</string>
@@ -1302,8 +1302,8 @@ d MMMM"</string>
 	<string name="user_agreement_hint_with_telecom">&lt;Data&gt;Tôi đã đọc và đồng ý với &lt;a href=%1$s&gt;Thỏa thuận Người dùng&lt;/a&gt;, &lt;a href=%2$s&gt;Chính sách Riêng tư&lt;/a&gt; và &lt;a href=%3$s&gt;Điều khoản và Điều kiện của dịch vụ xác minh tài khoản eSurfing&lt;/a&gt;.&lt;/Data&gt;</string>
 	<string name="facebook_login_btn_content_description">Đăng nhập bằng Facebook</string>
 	<string name="user_agreement_hint_with_mobile">&lt;Data&gt;Tôi đã đọc và đồng ý với &lt;a href=%1$s&gt;Thỏa thuận Người dùng&lt;/a&gt;, &lt;a href=%2$s&gt;Chính sách Riêng tư&lt;/a&gt; và &lt;a href=%3$s&gt;Điều khoản và Điều kiện của dịch vụ xác minh China Mobile&lt;/a&gt;.&lt;/Data&gt;</string>
-	<string name="summary3">"Chào mừng bạn đến với Khoá tạp chí! Tại đây, bạn có thể đăng ký các danh mục hình nền yêu thích của mình và thường xuyên nhận những hình ảnh mới được gửi đến Màn hình khóa của bạn. Ứng dụng này cần kết nối với internet và thu thập dữ liệu cá nhân cần thiết để có thể hoạt động bình thường.&lt;br>Để cung cấp các dịch vụ bổ sung, chúng tôi có thể yêu cầu quyền truy cập và lưu các mục vào bộ nhớ của thiết bị này.&lt;br>Để hiểu đầy đủ các quyền của bạn với tư cách là người dùng cũng như cách chúng tôi sử dụng dữ liệu của bạn, hãy đọc và đồng ý với &lt;font color ='#37A5FF'>&lt;a href='%1$s'>Thỏa thuận người dùng&lt;/font>&lt;/a> và &lt;font color ='#37A5FF'>&lt;a href='%2$s'>Chính sách riêng tư&lt;/font>&lt;/a> trước khi sử dụng ứng dụng này."</string>
-    <string name="summary4">"Chào mừng bạn đến với Khoá tạp chí! Tại đây, bạn có thể đăng ký các danh mục hình nền yêu thích của mình và thường xuyên nhận những hình ảnh mới được gửi đến Màn hình khóa của bạn. "</string>
+	<string name="summary3">"Chào mừng bạn đến với Tạp chí màn hình khoá! Tại đây, bạn có thể đăng ký các danh mục hình nền yêu thích của mình và thường xuyên nhận những hình ảnh mới được gửi đến Màn hình khóa của bạn. Ứng dụng này cần kết nối với internet và thu thập dữ liệu cá nhân cần thiết để có thể hoạt động bình thường.&lt;br>Để cung cấp các dịch vụ bổ sung, chúng tôi có thể yêu cầu quyền truy cập và lưu các mục vào bộ nhớ của thiết bị này.&lt;br>Để hiểu đầy đủ các quyền của bạn với tư cách là người dùng cũng như cách chúng tôi sử dụng dữ liệu của bạn, hãy đọc và đồng ý với &lt;font color ='#37A5FF'>&lt;a href='%1$s'>Thỏa thuận người dùng&lt;/font>&lt;/a> và &lt;font color ='#37A5FF'>&lt;a href='%2$s'>Chính sách riêng tư&lt;/font>&lt;/a> trước khi sử dụng ứng dụng này."</string>
+    <string name="summary4">"Chào mừng bạn đến với Tạp chí màn hình khoá! Tại đây, bạn có thể đăng ký các danh mục hình nền yêu thích của mình và thường xuyên nhận những hình ảnh mới được gửi đến Màn hình khóa của bạn. "</string>
 	<string name="select_at_least_one_mode">Chọn chế độ trình chiếu hình nền</string>
 	<string name="applied_and_added_to_custom_wallpaper">"Đã thêm vào trình chiếu của bạn thành công. &lt;font color ='#3482FF'>&lt;a href='%1$s'>Xem&lt;/font>&lt;/a>"</string>
 	<string name="dlg_add_to_loop_success_toast">Đã thêm hình nền vào trình chiếu</string>
@@ -1319,5 +1319,5 @@ d MMMM"</string>
     <string name="action_more_dlg_save">Tải hình nền</string>
     <string name="action_more_dlg_settings">Thêm cài đặt</string>
     <string name="action_more_dlg_share">Chia sẻ</string>
-	<string name="lks_to_setting">Cài đặt Tạp chí khoá</string>
+	<string name="lks_to_setting">Cài đặt Tạp chí màn hình khoá</string>
 </resources>
