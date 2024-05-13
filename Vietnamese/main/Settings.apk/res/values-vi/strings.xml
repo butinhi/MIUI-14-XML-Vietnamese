@@ -3855,7 +3855,7 @@ Bạn có thể thay đổi điều này sau đó từ Cài đặt > Ứng dụn
     <string name="wallpaper_desktop">Màn hình chính</string>
     <string name="wallpaper_lockscreen">Màn hình khóa</string>
     <string name="wallpaper_live">Hình nền động</string>
-    <string name="lockscreen_magazine_title">Tạp chí Khóa màn hình</string>
+    <string name="lockscreen_magazine_title">Tạp chí màn hình khoá</string>
     <string name="title_font">Phông chữ</string>
     <string name="title_font_current">Phông chữ hệ thống</string>
     <string name="title_layout_current">Kích thước văn bản</string>
@@ -5217,7 +5217,7 @@ Bạn có thể thay đổi điều này sau đó từ Cài đặt > Ứng dụn
     <string name="biometric_weak_improve_matching_title">Cải thiện làm khớp khuôn mặt</string>
     <string name="biometric_weak_liveliness_title">Kiểm tra tính năng sống động</string>
     <string name="biometric_weak_liveliness_summary">Cần chớp mắt để mở khóa</string>
-    <string name="lockscreen_magazine">Tạp chí Khóa màn hình</string>
+    <string name="lockscreen_magazine">Tạp chí màn hình khoá</string>
     <string name="lockscreen_magazine_summary">Hình ảnh tuyệt đẹp và những câu chuyện thú vị được gửi đến bạn hàng ngày</string>
     <string name="setup_password_back">Quay lại</string>
     <string name="setup_password_confirm">OK</string>
