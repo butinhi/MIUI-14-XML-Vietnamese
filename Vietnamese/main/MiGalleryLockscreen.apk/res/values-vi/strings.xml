@@ -248,7 +248,7 @@
     <string name="passport_registered_phone_user_name">Tên người dùng: %s</string>
     <string name="passport_password_req_notice">Mật khẩu phải dài 8-16 ký tự và kết hợp ít nhất hai trong số sau: chữ số, chữ cái và ký hiệu đặc biệt (ví dụ: 123abc@# hoặc 123abc hoặc abc@#).</string>
     <string name="passport_reset_password_prompt">Mật khẩu không chính xác</string>
-    <string name="passport_reset_password_title">Thiết lập lại mật khẩu</string>
+    <string name="passport_reset_password_title">Đặt lại mật khẩu</string>
     <string name="passport_auto_generate_pwd">Tạo mật khẩu bảo mật</string>
     <string name="passport_pwd_generate_failure">Không thể tạo mật khẩu</string>
     <string name="passport_use_generated_pwd_title">Nhớ mật khẩu của bạn</string>
@@ -343,7 +343,7 @@
     <string name="passport_login_failed">Không thể đăng nhập</string>
     <string name="passport_reg_failed">Không thể thiết lập tài khoản</string>
     <string name="passport_verification_failed">Xác thực thất bại</string>
-    <string name="passport_reset_fail_title">Không thể thiết lập lại mật khẩu</string>
+    <string name="passport_reset_fail_title">Không thể đặt lại mật khẩu</string>
     <string name="passport_identification_expired">Mã xác minh đã hết hạn, vui lòng bắt đầu lại</string>
     <string name="passport_bad_authentication">Tên người dùng hoặc mật khẩu không hợp lệ</string>
     <string name="passport_error_user_name">Tên người dùng bạn nhập vào không hợp lệ.</string>

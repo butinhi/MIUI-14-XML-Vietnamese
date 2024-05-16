@@ -1119,4 +1119,16 @@ Lưu ý rằng ứng dụng này cần kết nối với mạng và yêu cầu c
 	<string name="tenure_year_month">%1$s và %2$s</string>
 	<string name="uninstall_warning_content">"Máy tính là một ứng dụng hệ thống. Bạn sẽ không thể sử dụng chức năng cơ bản của nó, cũng như chuyển đổi tiền tệ và đơn vị đo lường, tính toán các khoản trả nợ thế chấp hoặc sử dụng các tính năng khác sau khi gỡ bỏ nó."</string>
     <string name="uninstall_warning_title">Gỡ bỏ Máy tính?</string>
+	<string name="bmi_input_age_error">"Không thể tính chỉ số BMI cho người dưới 14 tuổi"</string>
+    <string name="bmi_input_error">"Thông tin bạn nhập không chính xác"</string>
+    <string name="bmi_label">Giới thiệu về BMI</string>
+    <string name="bmi_result_label">Chỉ số khối cơ thể</string>
+    <string name="bmi_tips">"Chỉ số khối cơ thể (BMI) là cân nặng của một người tính bằng kilogam chia cho bình phương chiều cao tính bằng mét. BMI là phương pháp sàng lọc dễ dàng cho hạng cân."</string>
+	<string name="age">Tuổi</string>
+	<string name="height">Chiều cao (cm)</string>
+	<string name="hint_age">Nhập tuổi</string>
+    <string name="hint_height">Nhập chiều cao</string>
+    <string name="hint_weight">Nhập trọng lượng</string>
+	<string name="male">Giới tính: Nam</string>
+	<string name="female">Giới tính: Nữ</string>
 </resources>

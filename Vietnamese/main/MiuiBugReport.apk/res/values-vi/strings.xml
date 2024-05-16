@@ -516,9 +516,9 @@
     <string name="passport_remove_confirm">Đăng xuất</string>
     <string name="passport_remove_unactivated_account_notice">Tài khoản của bạn chưa được kích hoạt.</string>
     <string name="passport_resend_active_email">Gửi lại email</string>
-    <string name="passport_reset_fail_title">Không thể thiết lập lại mật khẩu</string>
+    <string name="passport_reset_fail_title">Không thể đặt lại mật khẩu</string>
     <string name="passport_reset_password_prompt">Mật khẩu không chính xác</string>
-    <string name="passport_reset_password_title">Thiết lập lại mật khẩu</string>
+    <string name="passport_reset_password_title">Đặt lại mật khẩu</string>
     <string name="passport_restart">Bắt đầu lại</string>
     <string name="passport_restart_register_prompt">Một tin nhắn xác minh khác có thể được yêu cầu để tạo Tài khoản Mi.</string>
     <string name="passport_restart_register_title">Tạo Tài khoản Mi</string>

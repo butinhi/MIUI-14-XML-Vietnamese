@@ -45,7 +45,7 @@
     <string name="passport_registered_phone_user_name">Tên người dùng: %s</string>
     <string name="passport_password_req_notice">Mật khẩu phải từ 8-16 ký tự và bao gồm cả số và chữ (phân biệt chữ hoa chữ thường).</string>
     <string name="passport_reset_password_prompt">Mật khẩu không chính xác</string>
-    <string name="passport_reset_password_title">Thiết lập lại mật khẩu</string>
+    <string name="passport_reset_password_title">Đặt lại mật khẩu</string>
     <string name="passport_auto_generate_pwd">Tạo mật khẩu bảo mật</string>
     <string name="passport_pwd_generate_failure">Không thể tạo mật khẩu</string>
     <string name="passport_use_generated_pwd_title">Nhớ mật khẩu của bạn</string>
@@ -138,7 +138,7 @@
     <string name="passport_login_failed">Không thể đăng nhập</string>
     <string name="passport_reg_failed">Không thể thiết lập tài khoản</string>
     <string name="passport_verification_failed">Xác thực thất bại</string>
-    <string name="passport_reset_fail_title">Không thể thiết lập lại mật khẩu</string>
+    <string name="passport_reset_fail_title">Không thể đặt lại mật khẩu</string>
     <string name="passport_identification_expired">Mã xác minh đã hết hạn, vui lòng bắt đầu lại</string>
     <string name="passport_bad_authentication">Tên người dùng hoặc mật khẩu không hợp lệ</string>
     <string name="passport_error_user_name">Tên người dùng bạn nhập vào không hợp lệ.</string>
@@ -503,7 +503,7 @@
     <string name="account_user_gender_female">Nữ</string>
     <string name="account_user_gender_male">Nam</string>
     <string name="account_bind_new_phone">Thêm số điện thoại mới</string>
-    <string name="account_bind_phone_notice">Sử dụng số điện thoại này để đăng nhập vào tài khoản, thiết lập lại mật khẩu, hoặc thay đổi cài đặt bảo mật.</string>
+    <string name="account_bind_phone_notice">Sử dụng số điện thoại này để đăng nhập vào tài khoản, đặt lại mật khẩu, hoặc thay đổi cài đặt bảo mật.</string>
     <string name="account_binded_phone">Điện thoại %d</string>
     <string name="account_none_binded_secure_phone">Không có số điện thoại liên kết</string>
     <string name="account_user_secure_info">Điện thoại &amp; email</string>
@@ -1061,7 +1061,7 @@ Hãy chắc chắn bạn nhớ tất cả câu trả lời."</string>
 	<string name="deny">Từ chối</string>
 	<string name="permission_write_external_storage">Truy cập và lưu mục vào bộ nhớ</string>
 	<string name="login_with_other">Tùy chọn khác</string>
-	<string name="get_back_password">Thiết lập lại mật khẩu</string>
+	<string name="get_back_password">Đặt lại mật khẩu</string>
 	<string name="no_install">Chưa cài đặt</string>
 	<string name="button_refuse">Không đồng ý</string>
 	<string name="find_equipment">Tìm</string>
