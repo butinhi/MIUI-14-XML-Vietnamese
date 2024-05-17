@@ -1320,4 +1320,25 @@ d MMMM"</string>
     <string name="action_more_dlg_settings">Thêm cài đặt</string>
     <string name="action_more_dlg_share">Chia sẻ</string>
 	<string name="lks_to_setting">Cài đặt Tạp chí màn hình khoá</string>
+	<string name="sst_ai_wallpaper_Activity_title">Tạo hình nền AI</string>
+    <string name="sst_ai_wallpaper_desc">Hình ảnh vẽ tay có thể được sử dụng để tạo hình nền độ nét cao theo nhiều phong cách thông qua AIGC.</string>
+    <string name="sst_ai_wallpaper_title">Tạo hình nền AI</string>
+    <string name="wallpaper_creator_empty_dlg_content">Các bước đơn giản, hình thành ngay. Nhập ảnh vẽ tay/ảnh khác, nhập một số lời nhắc và tạo ngay bốn ảnh nền cách điệu thông qua các mô hình lớn AI. Chọn cái ưng ý nhất và lưu vào album.</string>
+	<string name="ai_back">Quay lại</string>
+    <string name="ai_begin">Bắt đầu</string>
+    <string name="ai_disable_limit_message">Không còn lượt nào cho ngày hôm nay. Tạo thêm hình nền AI vào ngày mai!</string>
+    <string name="ai_edit_hint">Mô tả kết quả mong đợi của bạn. Một mô tả hay có thể giúp AI của chúng tôi sáng tạo tốt hơn với những từ rõ ràng như \"Vàng\",\"Rồng\",\"Bay lên\",\"Đám mây\".</string>
+    <string name="ai_network_error_message">"Không có kết nối mạng. Không thể sử dụng hình nền AI."</string>
+    <string name="ai_next">Lưu vào Thư viện</string>
+    <string name="ai_participation">Sự tham gia của AI</string>
+    <string name="ai_recommend_keyword">Kiểu</string>
+    <string name="ai_text_limit">"Không thể nhập thêm văn bản"</string>
+    <string name="ai_wallpaper_declare_double_link"><Data>Đọc và đồng ý với &lt;a href=\"%1$s\">Thỏa thuận của người dùng&lt;/a> và &lt;a href=\"%2$s\">Chính sách bảo mật&lt;/a> trước khi bạn tiếp tục.</Data></string>
+	<string name="creation_ai_disable_limit_message">Không còn lượt nào cho ngày hôm nay. Tạo thêm hình nền AI vào ngày mai!</string>
+    <string name="creation_ai_disable_message">Tính năng này chỉ dành cho người thử nghiệm Beta. Bạn có thể đăng ký trên Cộng đồng Xiaomi.</string>
+    <string name="creation_ai_disable_title">Cần có quyền của người thử nghiệm beta</string>
+    <string name="creation_ai_err">Xác thực ngoại lệ</string>
+    <string name="creation_ai_load">Đợi một chút…</string>
+    <string name="creation_ai_ok">Hiểu rồi</string>
+    <string name="creation_ai_recreate">Bắt đầu lại</string>
 </resources>
