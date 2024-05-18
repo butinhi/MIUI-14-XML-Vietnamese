@@ -7268,4 +7268,22 @@ Bật cái này sẽ tắt cái kia."</string>
     <string name="pc_berserk_mode_noti_summary">Chế độ tối ưu có thể làm tăng mức tiêu thụ điện năng và dẫn đến các vấn đề quá nhiệt</string>
     <string name="pc_berserk_mode_performance_title">Chế độ tối ưu</string>
     <string name="pc_power_mode_has_berserk">Chế độ tối ưu đang bật</string>
+	<string name="pc_charge_protection_features_title">Tùy chọn sạc</string>
+    <string name="pc_charge_protection_wired_charge">Sạc có dây</string>
+    <string name="pc_charge_protection_wired_charge_mode">Chế độ sạc có dây</string>
+    <string name="pc_charge_protection_wireless_charge">Sạc không dây</string>
+    <string name="pc_charge_protection_wireless_charge_mode">Chế độ sạc không dây</string>
+    <string name="pc_charge_protection_wireless_reverse_charge">Sạc không dây ngược</string>
+    <string name="pc_charge_protection_wireless_reverse_charge_limit_desc">"Tắt sạc không dây ngược khi pin của thiết bị này dưới %1$s"</string>
+    <string name="pc_charge_protection_wireless_reverse_charge_limit_title">Giới hạn sạc</string>
+    <string name="pc_charge_wireless_charge_mode_silence_title">Thời gian ở chế độ im lặng</string>
+    <string name="pc_charge_wireless_charge_select_silence">Im lặng</string>
+    <string name="pc_charge_wireless_charge_select_silence_always">Luôn luôn</string>
+    <string name="pc_charge_wireless_charge_select_silence_night">Đêm</string>
+    <string name="pc_charge_wireless_charge_select_silence_night_summary">%1$s đến %2$s vào ngày hôm sau</string>
+    <string name="pc_charge_wireless_charge_select_silence_summary">Giảm tiếng ồn và sạc chậm hơn</string>
+    <string name="pc_charge_wireless_charge_select_standard">Tiêu chuẩn</string>
+    <string name="pc_charge_wireless_charge_select_topspeed">Tốc độ tối đa</string>
+    <string name="pc_charge_wireless_charge_select_topspeed_summary">Tăng tiếng ồn và nhiệt độ thiết bị</string>
+    <string name="pc_charge_wireless_only_mi_charger_work">"Chỉ hoạt động với bộ sạc đi kèm của Xiaomi"</string>
 </resources>
