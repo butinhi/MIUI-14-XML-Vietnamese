@@ -7286,4 +7286,6 @@ Bật cái này sẽ tắt cái kia."</string>
     <string name="pc_charge_wireless_charge_select_topspeed">Tốc độ tối đa</string>
     <string name="pc_charge_wireless_charge_select_topspeed_summary">Tăng tiếng ồn và nhiệt độ thiết bị</string>
     <string name="pc_charge_wireless_only_mi_charger_work">"Chỉ hoạt động với bộ sạc đi kèm của Xiaomi"</string>
+	<string name="pc_always_charge_protect_summary">Chỉ cho phép sạc tối đa %1$s để duy trì tình trạng pin</string>
+    <string name="pc_always_charge_protect_title">Sạc hạn chế</string>
 </resources>

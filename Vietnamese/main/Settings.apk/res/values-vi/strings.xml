@@ -14759,4 +14759,7 @@ Thao tác xóa phương thức khóa sẽ xóa mẫu vân tay lưu trên thiết
     <string name="lyra_auto_connect_title_v2">Chia sẻ tự động</string>
 	<string name="nrca_type_title">Trạng thái tổng hợp mạng</string>
 	<string name="nrca_unregistered">Chưa đăng ký</string>
+	<string name="fivega_enhanced_network_summary">Trải nghiệm công nghệ mạng 5G-A mới, chỉ nhằm mục đích thử nghiệm</string>
+    <string name="fivega_enhanced_network_title">Mạng nâng cao 5G-A</string>
+    <string name="fivega_switch_summary">"Trải nghiệm tốc độ tối đa của 5G. Trạng thái thực tế phụ thuộc vào mạng và việc triển khai dịch vụ của nhà mạng cục bộ"</string>
 </resources>
