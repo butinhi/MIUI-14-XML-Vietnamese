@@ -14762,4 +14762,8 @@ Thao tác xóa phương thức khóa sẽ xóa mẫu vân tay lưu trên thiết
 	<string name="fivega_enhanced_network_summary">Trải nghiệm công nghệ mạng 5G-A mới, chỉ nhằm mục đích thử nghiệm</string>
     <string name="fivega_enhanced_network_title">Mạng nâng cao 5G-A</string>
     <string name="fivega_switch_summary">"Trải nghiệm tốc độ tối đa của 5G. Trạng thái thực tế phụ thuộc vào mạng và việc triển khai dịch vụ của nhà mạng cục bộ"</string>
+	<string name="illegal_device_name_modification_notification">Đổi tên thiết bị</string>
+    <string name="illegal_hotspot_name_modification_notification">Đổi tên điểm phát sóng</string>
+    <string name="name_modification_no_network_notification">Hãy kết nối với mạng và thử lại</string>
+    <string name="save_device_name_progress_message">Đang lưu…</string>
 </resources>
