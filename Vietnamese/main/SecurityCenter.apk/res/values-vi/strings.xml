@@ -7293,4 +7293,7 @@ Bật cái này sẽ tắt cái kia."</string>
     <string name="pc_charge_mode_standard">Tiêu chuẩn</string>
     <string name="pc_charge_mode_topspeed">Tốc độ tối đa</string>
     <string name="pc_charge_mode_topspeed_tips">Thiết bị có thể nóng lên</string>
+    <string name="game_performance_wild_mode">Wild Boost</string>
+    <string name="game_performance_wild_mode_tips">"Bật để cải thiện hiệu suất của thiết bị
+(Thiết bị của bạn sẽ nóng lên và tiêu thụ nhiều điện năng hơn)"</string>
 </resources>
