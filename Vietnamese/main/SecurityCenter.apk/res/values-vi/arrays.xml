@@ -1,92 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string-array name="traffic_package_type">
-        <item>Gói dữ liệu hàng tháng</item>
-        <item>Gói dữ liệu hàng ngày</item>
-        <item>Gói dữ liệu không giới hạn</item>
-    </string-array>
-	<string-array name="date_of_traffic_cmcc">
-        <item>"Tuần này "</item>
-        <item>"Hôm nay "</item>
-        <item>"Tháng này "</item>
-    </string-array>
-    <string-array name="date_of_traffic">
-        <item>"Hôm qua "</item>
-        <item>"Hôm nay "</item>
-        <item>"Tháng trước "</item>
-        <item>"Tháng này "</item>
-    </string-array>
-    <string-array name="date_of_traffic_prefix_cmcc">
-        <item>"Tuần này: "</item>
-        <item>"Hôm nay: "</item>
-        <item>"Tháng này: "</item>
-    </string-array>
-    <string-array name="date_of_traffic_prefix">
-        <item>"Hôm qua: "</item>
-        <item>"Hôm nay: "</item>
-        <item>"Tháng trước: "</item>
-        <item>"Tháng này: "</item>
-    </string-array>
-    <string-array name="date_of_app_all">
-        <item>"Hôm qua (dữ liệu) "</item>
-        <item>"Hôm nay (dữ liệu) "</item>
-        <item>"Tháng trước (dữ liệu) "</item>
-        <item>"Tháng này (dữ liệu) "</item>
-        <item>"Hôm qua (Wi-Fi) "</item>
-        <item>"Hôm nay (Wi-Fi) "</item>
-        <item>"Tháng trước (Wi-Fi) "</item>
-        <item>"Tháng này (Wi-Fi) "</item>
-    </string-array>
-    <string-array name="traffic_type">
-        <item>"Thông tin sử dụng dữ liệu di động "</item>
-        <item>"Thông tin sử dụng Wi-Fi "</item>
-    </string-array>
-    <string-array name="mi_service_traffic_type">
-        <item>"Thông tin sử dụng dữ liệu di động "</item>
-        <item>"Thông tin sử dụng Wi-Fi "</item>
-    </string-array>
-    <string-array name="over_limit_traffic_waring_style">
-        <item>Hiển thị cảnh báo</item>
-        <item>Cảnh báo và tắt dữ liệu di động</item>
-    </string-array>
-    <string-array name="roaming_network_type">
-        <item>Luôn luôn</item>
-        <item>Chỉ trường hợp ngoại lệ</item>
-        <item>Không bao giờ</item>
-    </string-array>
-    <string-array name="lock_mode">
-        <item>Khi thiết bị khóa</item>
-        <item>Khi thiết bị khóa hoặc sau khi thoát ứng dụng</item>
-        <item>Khi thiết bị khóa hoặc trong 1 phút sau khi thoát ứng dụng</item>
-    </string-array>
-    <string-array name="sort_type">
-        <item>Trạng thái</item>
-        <item>Tên ứng dụng</item>
-        <item>Tần suất sử dụng</item>
-        <item>Lưu trữ đã dùng</item>
-        <item>Thời gian cài đặt</item>
-    </string-array>
-    <string-array name="sort_title">
-        <item>Sắp xếp theo trạng thái</item>
-        <item>Sắp xếp theo tên ứng dụng</item>
-        <item>Sắp xếp theo tần suất sử dụng</item>
-        <item>Sắp xếp theo lưu trữ đã dùng</item>
-        <item>Sắp xếp theo thời gian cài đặt</item>
-    </string-array>
-    <string-array name="title_app_info">
-        <item>Nguồn cài đặt</item>
-        <item>Thời gian cài đặt</item>
-        <item>Nguồn cập nhật lần cuối</item>
-        <item>Thời gian cập nhật lần cuối</item>
-    </string-array>
-    <string-array name="sms_report_type">
-        <item>Sử dụng dữ liệu</item>
-        <item>Số dư tài khoản</item>
-    </string-array>
-    <string-array name="tether_limit_warn_type">
-        <item>Tắt và thông báo</item>
-        <item>Chỉ thông báo</item>
-    </string-array>
     <string-array name="alarm_repeat_type">
         <item>Một lần</item>
         <item>Mỗi ngày</item>
@@ -100,131 +13,242 @@
         <item>Các ngày trong tuần</item>
         <item>Tùy chỉnh</item>
     </string-array>
-    <string-array name="power_dialog_auto_clean_memory_items">
-        <item>Sau 1 phút</item>
-        <item>Sau 5 phút</item>
-        <item>Sau 10 phút</item>
-        <item>Không bao giờ</item>
+    <string-array name="app_behavior_type_menu">
+        <item>Tất cả bản ghi</item>
+        <item>Tự khởi chạy</item>
+        <item>Khởi chạy dây chuyền</item>
+        <item>Sử dụng quyền</item>
+        <item>Hành động nhạy cảm</item>
     </string-array>
-    <string-array name="power_dialog_sleep_items">
-        <item>15 giây</item>
-        <item>30 giây</item>
-        <item>1 phút</item>
-        <item>2 phút</item>
-        <item>5 phút</item>
-        <item>10 phút</item>
-        <item>Không bao giờ</item>
+    <string-array name="applock_password_types">
+        <item>Hình mở khóa</item>
+        <item>PIN</item>
+        <item>Mật khẩu</item>
     </string-array>
-    <string-array name="power_dialog_cpu_state_items">
-        <item>Hiệu suất cao</item>
-        <item>Cân bằng</item>
+    <string-array name="cache_sort_type">
+        <item>Kích thước</item>
+        <item>Tên</item>
     </string-array>
-    <string-array name="power_dialog_wifi_internet_state_items">
-        <item>Tắt</item>
-        <item>Bật</item>
+    <string-array name="cellular_data_unit">
+        <item>GB</item>
+        <item>MB</item>
+    </string-array>
+    <string-array name="cellular_package_type">
+        <item>Gói tháng</item>
+        <item>Không giới hạn</item>
+        <item>Gói hàng ngày</item>
+    </string-array>
+    <string-array name="daily_brand">
+        <item>Tùy chỉnh</item>
+        <item>Thẻ Xiaomi Fan</item>
+        <item>Thẻ Xiao Tiansheng</item>
+        <item>Thẻ Tencent King</item>
+    </string-array>
+    <string-array name="daily_rent_card_brands">
+        <item>Tùy chỉnh</item>
+        <item>Mi Mobile</item>
+        <item>Thẻ Xiaomi Fan</item>
+        <item>Thẻ Tianshen</item>
+        <item>Thẻ Tencent</item>
+    </string-array>
+    <string-array name="date_of_app_all">
+        <item>"Hôm qua (dữ liệu di động) "</item>
+        <item>"Hôm nay (dữ liệu di động) "</item>
+        <item>"Tháng trước (dữ liệu di động) "</item>
+        <item>"Tháng này (dữ liệu di động) "</item>
+        <item>"Hôm qua (Wi-Fi) "</item>
+        <item>"Hôm nay (Wi-Fi) "</item>
+        <item>"Tháng trước (Wi-Fi) "</item>
+        <item>"Tháng này (Wi-Fi) "</item>
+    </string-array>
+    <string-array name="date_of_traffic">
+        <item>"Hôm qua "</item>
+        <item>"Hôm nay "</item>
+        <item>"Tháng trước "</item>
+        <item>"Tháng này "</item>
+    </string-array>
+    <string-array name="date_of_traffic_cmcc">
+        <item>"Tuần này "</item>
+        <item>"Hôm nay "</item>
+        <item>"Tháng này "</item>
+    </string-array>
+    <string-array name="date_of_traffic_prefix">
+        <item>"Hôm qua: "</item>
+        <item>"Hôm nay: "</item>
+        <item>"Tháng trước: "</item>
+        <item>"Tháng này: "</item>
+    </string-array>
+    <string-array name="date_of_traffic_prefix_cmcc">
+        <item>"Tuần này: "</item>
+        <item>"Hôm nay: "</item>
+        <item>"Tháng này: "</item>
+    </string-array>
+    <string-array name="debug_open_intercept">
+        <item>Có thể truy cập và sửa các tập tin trên thiết bị của bạn bằng máy tính.</item>
+        <item>Vẫn cài đặt ứng dụng trên thiết bị của bạn mà không cần được cấp quyền rõ ràng.</item>
+        <item>Bạn có thể theo dõi và ghi lại nội dung màn hình từ xa.</item>
+        <item>Có thể truy cập thông tin chi tiết về thiết bị của bạn.</item>
+    </string-array>
+    <string-array name="exo_controls_playback_speeds">
+        <item>0,25x</item>
+        <item>0,5x</item>
+        <item>0,75x</item>
+        <item>Bình thường</item>
+        <item>1,25x</item>
+        <item>1,5x</item>
+        <item>2x</item>
+    </string-array>
+    <string-array name="gb_adv_touch_custom_level">
+        <item>Thấp nhất</item>
+        <item>Thấp</item>
+        <item>Bình thường</item>
+        <item>Cao</item>
+        <item>Cao nhất</item>
+    </string-array>
+    <string-array name="gb_voice_change_gender">
+        <item>@string/gb_voice_changer_gender_man</item>
+        <item>@string/gb_voice_changer_gender_female</item>
+    </string-array>
+    <string-array name="input_package_names">
+        <item>com.baidu.input_mi</item>
+        <item>com.iflytek.inputmethod.miui</item>
+        <item>com.sohu.inputmethod.sogou.xiaomi</item>
+    </string-array>
+    <string-array name="key_app_info">
+        <item>install_source</item>
+        <item>install_time</item>
+        <item>update_source</item>
+        <item>update_time</item>
+    </string-array>
+    <string-array name="lock_mode">
+        <item>Khi thiết bị khóa</item>
+        <item>Khi thiết bị khóa hoặc sau khi thoát ứng dụng</item>
+        <item>Khi thiết bị khóa hoặc trong 1 phút sau khi thoát ứng dụng</item>
+    </string-array>
+    <string-array name="mi_service_traffic_type">
+        <item>"Sử dụng di động "</item>
+        <item>"Sử dụng Wi-Fi "</item>
+    </string-array>
+    <string-array name="miui_optimization_close_intercept">
+        <item>Quan trọng: Nhiều ứng dụng hệ thống có thể không hoạt động.</item>
+        <item>Bố cục văn bản, tài khoản, và nội dung có thể không hiển thị chính xác.</item>
+    </string-array>
+    <string-array name="operate_entries">
+        <item>@string/auto_task_operation_open</item>
+        <item>@string/auto_task_operation_close</item>
+        <item>@string/auto_task_operation_no_op</item>
+    </string-array>
+    <string-array name="operate_entryValues">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+    <string-array name="operate_memory_entries">
+        <item>@string/auto_task_operation_open</item>
+        <item>@string/auto_task_operation_close</item>
+        <item>@string/auto_task_operation_no_op</item>
+    </string-array>
+    <string-array name="operate_memory_entryValues">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+    <string-array name="over_limit_traffic_waring_style">
+        <item>Hiển thị cảnh báo</item>
+        <item>Cảnh báo và tắt dữ liệu di động</item>
+    </string-array>
+    <string-array name="pc_battery_history_spinner_choice">
+        <item>@string/pc_battery_history_consume_rank_menu_item</item>
+        <item>@string/power_center_battery_all</item>
+        <item>@string/power_center_battery_software</item>
+        <item>@string/power_center_battery_hardware</item>
+        <item>@string/pc_battery_history_battery_detail_menu_item</item>
+    </string-array>
+    <string-array name="pc_battery_history_spinner_choice_new">
+        <item>@string/pc_battery_history_consume_rank_menu_item</item>
+        <item>@string/power_center_battery_all</item>
+        <item>@string/power_center_battery_software</item>
+        <item>@string/power_center_battery_hardware</item>
+        <item>@string/pc_battery_history_battery_detail_menu_item</item>
+    </string-array>
+    <string-array name="pc_fast_charge_entry">
+        <item>10%</item>
+        <item>20%</item>
+        <item>30%</item>
+        <item>40%</item>
+        <item>50%</item>
+    </string-array>
+    <string-array name="pc_fast_charge_entry_value">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+    </string-array>
+    <string-array name="pc_settings_thermal_entries">
         <item>Mặc định</item>
+        <item>Ưu tiên hiệu suất</item>
     </string-array>
-    <string-array name="power_dialog_vibration_items">
-        <item>Không rung</item>
-        <item>Rung khi im lặng</item>
-        <item>Luôn rung</item>
+    <string-array name="pc_settings_thermal_summaries">
+        <item>Sử dụng chế độ điều khiển nhiệt độ mặc định</item>
+        <item>Đang ưu tiên hiệu suất</item>
     </string-array>
-	<string-array name="luckymoney_sound">
-		<item>Tắt tiếng</item>
-		<item>Tiền vàng</item>
-		<item>Lì xì đang đến</item>
-	</string-array>
-	<string-array name="pc_settings_thermal_entries">
-		<item>Mặc định</item>
-		<item>Ưu tiên hiệu suất</item>
-	</string-array>
-	<string-array name="pc_settings_thermal_summaries">
-		<item>Sử dụng chế độ điều khiển nhiệt độ mặc định</item>
-		<item>Ưu tiên hiệu suất</item>
-	</string-array>
-	<string-array name="ew_emergency_organ_donation_arrays">
-		<item>Có</item>
-		<item>Không</item>
-	</string-array>
-	<string-array name="applock_password_types">
-		<item>Mẫu hình</item>
-		<item>PIN</item>
-		<item>Mật khẩu</item>
-	</string-array>
-	<string-array name="app_behavior_type_menu">
-		<item>Mọi hành vi</item>
-		<item>Tự khởi chạy</item>
-		<item>Khởi chạy hàng loạt</item>
-		<item>Sử dụng quyền</item>
-		<item>Hành vi nhạy cảm</item>
-	</string-array>
-	<string-array name="priority_storage_entries">
-		<item>Bộ nhớ trong</item>
-		<item>Bộ nhớ ngoài</item>
-	</string-array>
-	<string-array name="perm_intercept_notification">
-		<item>Đọc tất cả thông báo, bao gồm nội dung tin nhắn của bạn và các mục khác có thể chứa thông tin cá nhân</item>
-		<item>Hạn chế quyền thông báo cho một vài ứng dụng</item>
-		<item>Mô phỏng khai thác thông báo và mở ứng dụng</item>
-		<item>Bật hoặc tắt Chế độ Không làm phiền</item>
-	</string-array>
-	<string-array name="daily_brand">
-		<item>Tùy chỉnh</item>
-		<item>Thẻ Mi Fan</item>
-		<item>Thẻ Xiao Tiansheng</item>
-		<item>Thẻ Tencent King</item>
-	</string-array>
-	<string-array name="perm_intercept_statitics">
-		<item>Thu thập dữ liệu về sở thích và hành vi của bạn bằng cách tìm hiểu những ứng dụng bạn sử dụng và tần suất sử dụng chúng</item>
-		<item>Truy cập cài đặt ngôn ngữ liên quan đến nhà cung cấp dịch vụ của bạn và các chi tiết khác</item>
-	</string-array>
-	<string-array name="debug_open_intercept">
-		<item>Có thể truy cập và chỉnh sửa các tệp tin trên thiết bị của bạn bằng máy tính.</item>
-		<item>Được cài đặt các ứng dụng mà không có sự cho phép rõ ràng từ bạn.</item>
-		<item>"Bạn sẽ có thể theo dõi và ghi lại nội dung màn hình của bạn từ xa."</item>
-		<item>Có thể truy cập thông tin chi tiết về thiết bị của bạn.</item>
-	</string-array>
-	<string-array name="perm_intercept_unknown_source">
-		<item>"Các ứng dụng của bên thứ ba không được xác minh bởi GetApps có thể gây ra nhiều sự cố và làm giảm tính ổn định của hệ thống."</item>
-		<item>Một số ứng dụng của bên thứ ba có thể chứa phần mềm độc hại khiến dữ liệu cá nhân của bạn gặp rủi ro.</item>
-	</string-array>
-	<string-array name="miui_optimization_close_intercept">
-		<item>Quan trọng: Nhiều ứng dụng hệ thống có thể không hoạt động đúng cách.</item>
-		<item>Bố cục văn bản, tài khoản và nội dung có thể không được hiển thị chính xác.</item>
-	</string-array>
-	<string-array name="cellular_package_type">
-		<item>Gói tháng</item>
-		<item>Không giới hạn</item>
-		<item>Gói ngày</item>
-	</string-array>
-	<string-array name="daily_rent_card_brands">
-		<item>Tùy chỉnh</item>
-		<item>Điện thoại Mi Mobile</item>
-		<item>Thẻ Mi Fan</item>
-		<item>Thẻ Tianshen</item>
-		<item>Thẻ Tencent</item>
-	</string-array>
-	<string-array name="gb_adv_touch_custom_level">
-		<item>Thấp nhất</item>
-		<item>Thấp</item>
-		<item>Thông thường</item>
-		<item>Cao</item>
-		<item>Cao nhất</item>
-	</string-array>
-	<string-array name="cache_sort_type">
-		<item>Kích thước</item>
-		<item>Tên</item>
-	</string-array>
-	<string-array name="sort_title_new">
-        <item>Xếp theo tên ứng dụng</item>
-        <item>Xếp theo tần suất sử dụng</item>
-        <item>Xếp theo lưu trữ đã sử dụng</item>
-        <item>Xếp theo thời gian cài đặt</item>
+    <string-array name="perm_intercept_notification">
+        <item>Đọc tất cả các thông báo của bạn, bao gồm nội dung tin nhắn văn bản và các mục khác có thể chứa thông tin cá nhân</item>
+        <item>Giới hạn quyền thông báo cho một số ứng dụng</item>
+        <item>Mô phỏng chạm thông báo và mở ứng dụng</item>
+        <item>Bật và tắt chế độ Không làm phiền</item>
     </string-array>
-	<string-array name="sort_type_new">
+    <string-array name="perm_intercept_statitics">
+        <item>Thu thập dữ liệu về sở thích và hành vi của bạn bằng cách tìm hiểu loại và tần suất ứng dụng được sử dụng</item>
+        <item>Truy cập cài đặt ngôn ngữ và thông tin liên quan đến nhà cung cấp dịch vụ, cũng như các dữ liệu khác</item>
+    </string-array>
+    <string-array name="perm_intercept_unknown_source">
+        <item>Các ứng dụng của bên thứ ba không được xác minh có thể gây ra nhiều vấn đề và làm giảm tính ổn định của hệ thống.</item>
+        <item>Một số ứng dụng của bên thứ ba có thể chứa phần mềm độc hại khiến dữ liệu cá nhân của bạn gặp nguy cơ.</item>
+    </string-array>
+    <string-array name="priority_storage_entries">
+        <item>Bộ nhớ trong</item>
+        <item>Bộ nhớ ngoài</item>
+    </string-array>
+    <string-array name="roaming_network_type">
+        <item>Luôn luôn</item>
+        <item>Chỉ trường hợp ngoại lệ</item>
+        <item>Không bao giờ</item>
+    </string-array>
+    <string-array name="sms_report_type">
+        <item>Sử dụng dữ liệu</item>
+        <item>Số dư tài khoản</item>
+    </string-array>
+    <string-array name="sort_title_new">
+        <item>Sắp xếp theo tên ứng dụng</item>
+        <item>Sắp xếp theo sử dụng gần đây nhất</item>
+        <item>Sắp xếp theo lưu trữ đã sử dụng</item>
+        <item>Sắp xếp theo thời gian cài đặt</item>
+    </string-array>
+    <string-array name="sort_type_new">
         <item>Tên ứng dụng</item>
-        <item>Tần suất sử dụng</item>
+        <item>Sử dụng gần đây</item>
         <item>Lưu trữ đã sử dụng</item>
         <item>Thời gian cài đặt</item>
+    </string-array>
+    <string-array name="tether_limit_warn_type">
+        <item>Tắt và thông báo</item>
+        <item>Chỉ thông báo</item>
+    </string-array>
+    <string-array name="title_app_info">
+        <item>Nguồn cài đặt</item>
+        <item>Thời gian cài đặt</item>
+        <item>Nguồn cập nhật lần cuối</item>
+        <item>Thời gian cập nhật lần cuối</item>
+    </string-array>
+    <string-array name="traffic_package_type">
+        <item>Gói dữ liệu hàng tháng</item>
+        <item>Gói dữ liệu hàng ngày</item>
+        <item>Gói dữ liệu không giới hạn</item>
+    </string-array>
+    <string-array name="traffic_type">
+        <item>"Sử dụng dữ liệu di động "</item>
+        <item>"Sử dụng Wi-Fi "</item>
     </string-array>
 </resources>
