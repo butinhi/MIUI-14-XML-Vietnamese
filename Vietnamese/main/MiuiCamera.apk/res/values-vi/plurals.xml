@@ -1,106 +1,120 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <plurals name="a_hour_ago">
+        <item quantity="other">1 giờ trước</item>
+    </plurals>
+    <plurals name="abbrev_a_hour_ago">
+        <item quantity="other">1 giờ trước</item>
+    </plurals>
+    <plurals name="abbrev_half_hour_ago">
+        <item quantity="other">Nửa giờ trước</item>
+    </plurals>
+    <plurals name="abbrev_in_a_hour">
+        <item quantity="other">Trong 1 giờ</item>
+    </plurals>
+    <plurals name="abbrev_in_half_hour">
+        <item quantity="other">Trong nửa giờ</item>
+    </plurals>
+    <plurals name="abbrev_in_less_than_one_minute">
+        <item quantity="other">Tức thì</item>
+    </plurals>
+    <plurals name="abbrev_in_num_minutes">
+        <item quantity="other">sau %d phút</item>
+    </plurals>
+    <plurals name="abbrev_less_than_one_minute_ago">
+        <item quantity="other">Vừa xong</item>
+    </plurals>
+    <plurals name="abbrev_num_minutes_ago">
+        <item quantity="other">%d phút trước</item>
+    </plurals>
+    <plurals name="accessibility_auto_night_tip">
+        <item quantity="other">Hẹn giờ %d giây cho Chế độ ban đêm</item>
+    </plurals>
     <plurals name="accessibility_focus_face_detect">
-        <item quantity="other">Đã lấy nét. %d khuôn mặt đã nhận diện</item>
+        <item quantity="other">Đã lấy nét. Phát hiện %d khuôn mặt</item>
     </plurals>
-	<plurals name="toast_burst_snap_finished_summary">
-        <item quantity="other">Hoàn tất chụp liên tiếp, đã chụp %1$s ảnh</item>
+    <plurals name="accessibility_timer_burst_count">
+        <item quantity="other">%d ảnh trong một lần chụp liên tiếp</item>
     </plurals>
-	<plurals name="delete_selection">
-		<item quantity="other">Xóa mục đã chọn?</item>
-	</plurals>
-	<plurals name="clone_guide_tip2">
-		<item quantity="other">Bạn có thể tạo đến %d bản sao một lúc.</item>
-	</plurals>
-	<plurals name="timer_burst_setting_total_count">
-		<item quantity="other">%1$s ảnh</item>
-	</plurals>
-	<plurals name="accessibility_timer_burst_count">
-		<item quantity="other">%d ảnh trong một lần chụp liên tiếp</item>
-	</plurals>
-	<plurals name="accessibility_timer_burst_interval">
-		<item quantity="other">Đếm ngược: %d giây</item>
-	</plurals>
-	<plurals name="accessibility_vv_duartion">
-		<item quantity="other">Thời lượng: %d giây</item>
-	</plurals>
-	<plurals name="fastmotion_pro_min_unit">
-		<item quantity="other">%1$d phút</item>
-	</plurals>
-	<plurals name="live_workspace_delete_dialog_title">
-		<item quantity="other">Xóa %1$d bản nháp?</item>
-	</plurals>
-	<plurals name="fastmotion_pro_sec_unit">
-		<item quantity="other">%1$d giây</item>
-	</plurals>
-	<plurals name="timefreeze_guide_tip1">
-		<item quantity="other">Bạn có thể chụp đóng băng thời gian với tối đa %d chủ thể.</item>
-	</plurals>
-	<plurals name="abbrev_a_hour_ago">
-		<item quantity="other">1 giờ trước</item>
-	</plurals>
-	<plurals name="abbrev_half_hour_ago">
-		<item quantity="other">Nửa giờ trước</item>
-	</plurals>
-	<plurals name="less_than_one_minute_ago">
-		<item quantity="other">Vừa xong</item>
-	</plurals>
-	<plurals name="abbrev_in_a_hour">
-		<item quantity="other">Trong 1 giờ</item>
-	</plurals>
-	<plurals name="in_a_hour">
-		<item quantity="other">Trong 1 giờ</item>
-	</plurals>
-	<plurals name="num_minutes_ago">
-		<item quantity="other">%d phút trước</item>
-		<item quantity="one">1 phút trước</item>
-	</plurals>
-	<plurals name="in_half_hour">
-		<item quantity="other">Trong nửa giờ</item>
-	</plurals>
-	<plurals name="half_hour_ago">
-		<item quantity="other">Nửa giờ trước</item>
-	</plurals>
-	<plurals name="a_hour_ago">
-		<item quantity="other">1 giờ trước</item>
-	</plurals>
-	<plurals name="abbrev_in_num_minutes">
-		<item quantity="other">trong %d phút</item>
-		<item quantity="one">trong 1 phút</item>
-	</plurals>
-	<plurals name="abbrev_num_minutes_ago">
-		<item quantity="other">%d phút trước</item>
-		<item quantity="one">1 phút trước</item>
-	</plurals>
-	<plurals name="abbrev_less_than_one_minute_ago">
-		<item quantity="other">Vừa xong</item>
-	</plurals>
-	<plurals name="in_less_than_one_minute">
-		<item quantity="other">Tức thì</item>
-	</plurals>
-	<plurals name="abbrev_in_half_hour">
-		<item quantity="other">Trong nửa giờ</item>
-	</plurals>
-	<plurals name="abbrev_in_less_than_one_minute">
-		<item quantity="other">Tức thì</item>
-	</plurals>
-	<plurals name="in_num_minutes">
-		<item quantity="other">trong %d phút</item>
-		<item quantity="one">trong 1 phút</item>
-	</plurals>
-	<plurals name="miuix_appcompat_items_selected">
-		<item quantity="other">%d mục đã chọn</item>
-	</plurals>
-	<plurals name="exit_camera_hint">
-        <item quantity="other">&lt;Data>"Không thể kết nối với máy ảnh.&lt;br>Ứng dụng này sẽ bị đóng sau &lt;font color=#FFCE16>&lt;b>%1$d giây&lt;/b>&lt;/font>. Sau đó, đợi một hoặc hai phút và thử lại."&lt;/Data></item>
-        <item quantity="one">&lt;Data>"Không thể kết nối với máy ảnh.&lt;br>Ứng dụng này sẽ bị đóng sau &lt;font color=#FFCE16>&lt;b>%1$d giây&lt;/b>&lt;/font>. Sau đó, đợi một hoặc hai phút và thử lại."&lt;/Data></item>
+    <plurals name="accessibility_timer_burst_interval">
+        <item quantity="other">Khoảng thời gian: %d giây</item>
+    </plurals>
+    <plurals name="accessibility_vv_duartion">
+        <item quantity="other">Thời lượng: %d giây</item>
+    </plurals>
+    <plurals name="cinemaster_toast_camera_overflow">
+        <item quantity="other">Bạn có thể kết nối tối đa %d camera với cùng một mạng</item>
+    </plurals>
+    <plurals name="cinemaster_toast_monitor_overflow">
+        <item quantity="other">Bạn có thể kết nối tối đa %d màn hình với cùng một mạng</item>
+    </plurals>
+    <plurals name="clone_guide_tip2">
+        <item quantity="other">Bạn có thể tạo tối đa %d phân thân tại một thời điểm.</item>
+    </plurals>
+    <plurals name="exit_camera_hint">
+        <item quantity="other">&lt;Data>Không thể kết nối camera.&lt;br>Ứng dụng này sẽ đóng sau &lt;font color=#FFCE16>&lt;b>%1$d giây&lt;/b>&lt;/font>. Sau đó, chờ một hoặc hai phút và thử lại.&lt;/Data></item>
     </plurals>
     <plurals name="exit_thermal_hint">
-        <item quantity="other">&lt;Data>Thiết bị quá nóng.&lt;br>Ứng dụng sẽ đóng sau &lt;font color=#FFCE16>&lt;b>%1$d giây&lt;/b>&lt;/font>. Tiến trình hiện tại đã được lưu tự động.&lt;/Data></item>
-        <item quantity="one">&lt;Data>Thiết bị quá nóng.&lt;br>Ứng dụng sẽ đóng sau &lt;font color=#FFCE16>&lt;b>%1$d giây&lt;/b>&lt;/font>. Tiến trình hiện tại đã được lưu tự động.&lt;/Data></item>
+        <item quantity="other">&lt;Data>Thiết bị này hiện quá nóng.&lt;br>Ứng dụng sẽ đóng sau &lt;font color=#FFCE16>&lt;b>%1$d giây&lt;/b>&lt;/font>. Tiến trình hiện tại đã được lưu tự động.&lt;/Data></item>
     </plurals>
     <plurals name="exit_version_hint">
-        <item quantity="other">&lt;Data>"Phiên bản Máy ảnh bạn đang sử dụng không tương thích với thiết bị của bạn.&lt;br>Ứng dụng này sẽ bị đóng sau &lt;font color=#FFCE16>&lt;b>%1$d giây&lt;/b>&lt;/font>. Gỡ cài đặt bản cập nhật Máy ảnh và thử lại."&lt;/Data></item>
-        <item quantity="one">&lt;Data>"Phiên bản Máy ảnh bạn đang sử dụng không tương thích với thiết bị của bạn.&lt;br>Ứng dụng này sẽ bị đóng sau &lt;font color=#FFCE16>&lt;b>%1$d giây&lt;/b>&lt;/font>. Gỡ cài đặt bản cập nhật Máy ảnh và thử lại."&lt;/Data></item>
+        <item quantity="other">&lt;Data>Phiên bản Camera mà bạn đang sử dụng không tương thích với mẫu thiết bị của bạn&lt;br>Ứng dụng sẽ đóng sau &lt;font color=#FFCE16>&lt;b>%1$d giây&lt;/b>&lt;/font>. Gỡ cài đặt cập nhật Camera và thử lại.&lt;/Data></item>
+    </plurals>
+    <plurals name="fastmotion_pro_min_unit">
+        <item quantity="other">%1$d phút</item>
+    </plurals>
+    <plurals name="fastmotion_pro_sec_unit">
+        <item quantity="other">%1$d giây</item>
+    </plurals>
+    <plurals name="friend_mode_display_first_dialog">
+        <item quantity="other">Đã bật hẹn giờ (%1$d giây). Ảnh sẽ được chuyển đến thiết bị này.</item>
+    </plurals>
+    <plurals name="half_hour_ago">
+        <item quantity="other">Nửa giờ trước</item>
+    </plurals>
+    <plurals name="in_a_hour">
+        <item quantity="other">Trong 1 giờ</item>
+    </plurals>
+    <plurals name="in_half_hour">
+        <item quantity="other">Trong nửa giờ</item>
+    </plurals>
+    <plurals name="in_less_than_one_minute">
+        <item quantity="other">Tức thì</item>
+    </plurals>
+    <plurals name="in_num_minutes">
+        <item quantity="other">trong %d phút</item>
+    </plurals>
+    <plurals name="less_than_one_minute_ago">
+        <item quantity="other">Vừa mới</item>
+    </plurals>
+    <plurals name="live_workspace_delete_dialog_title">
+        <item quantity="other">Xóa %1$d thư nháp?</item>
+    </plurals>
+    <plurals name="miuix_appcompat_items_selected">
+        <item quantity="other">Đã chọn %d mục</item>
+    </plurals>
+    <plurals name="num_minutes_ago">
+        <item quantity="other">%d phút trước</item>
+    </plurals>
+    <plurals name="number_unit_seconds_split">
+        <item quantity="other">%d giây</item>
+    </plurals>
+    <plurals name="pad_ccc_temperature_warning_msg">
+        <item quantity="other">Thiết bị của bạn quá nhiệt. Camera sẽ đóng trong %d giây. Ảnh hoặc video của bạn sẽ được lưu tự động.</item>
+    </plurals>
+    <plurals name="pref_camera_fastmotion_duration_unit">
+        <item quantity="other">%1$s phút</item>
+    </plurals>
+    <plurals name="pref_live_duration_prompt">
+        <item quantity="other">Quay %d giây</item>
+    </plurals>
+    <plurals name="timefreeze_guide_tip1">
+        <item quantity="other">Bạn có thể quay video đóng băng thời gian với tối đa %d đối tượng.</item>
+    </plurals>
+    <plurals name="timer_burst_setting_total_count">
+        <item quantity="other">%1$s ảnh</item>
+    </plurals>
+    <plurals name="toast_burst_snap_finished_summary">
+        <item quantity="other">Hoàn tất chụp liên tiếp, đã chụp %1$s ảnh</item>
     </plurals>
 </resources>
