@@ -119,11 +119,6 @@
         <item>Bạn mới và bạn cũ</item>
         <item>Những cuộc gặp gỡ năm ngoái</item>
     </string-array>
-    <string-array name="menu_copy_or_move">
-        <item>Chuyển</item>
-        <item>Sao chép</item>
-        <item>@string/cancel</item>
-    </string-array>
     <string-array name="month">
         <item>Tháng 1</item>
         <item>Tháng 2</item>

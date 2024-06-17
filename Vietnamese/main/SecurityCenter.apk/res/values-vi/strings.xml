@@ -987,7 +987,6 @@ Tuy nhiên, một số giao dịch của bạn vẫn chưa hoàn thành. Để 
     <string name="card_main_private_space_summary">Sử dụng Không gian thứ hai giống như có hai thiết bị</string>
     <string name="card_main_private_space_title">Không gian Thứ hai</string>
     <string name="card_main_sectool_title">Công cụ</string>
-    <string name="card_main_speeddetail_action">@string/card_main_monthreport_action</string>
     <string name="card_main_video_manage_title">Quản lý video</string>
     <string name="card_main_whatsappclean_title">Dọn dẹp WhatsApp</string>
     <string name="card_main_xspace_action">Tạo</string>
@@ -1363,7 +1362,6 @@ Nó sẽ được thêm vào danh sách ngoại lệ, nhưng các mục bị ch�
     <string name="dynamic_performance_optimization_title">Hiệu suất động</string>
     <string name="early_morning">Buổi sáng</string>
     <string name="edit_phone_num">Chỉnh sửa số điện thoại SIM</string>
-    <string name="ellipsis">…</string>
     <string name="email">Email</string>
     <string name="empty" />
     <string name="empty_app">Không có ứng dụng nào</string>
@@ -1441,9 +1439,7 @@ Nó sẽ được thêm vào danh sách ngoại lệ, nhưng các mục bị ch�
     <string name="exo_download_paused_for_wifi">Đang chờ có Wi-Fi để tải xuống</string>
     <string name="exo_download_removing">Đang xóa các mục đã tải xuống</string>
     <string name="exo_item_list">%1$s, %2$s</string>
-    <string name="exo_track_bitrate">%1$.2f Mb/giây</string>
     <string name="exo_track_mono">Đơn âm</string>
-    <string name="exo_track_resolution">%1$d × %2$d</string>
     <string name="exo_track_role_alternate">Thay thế</string>
     <string name="exo_track_role_closed_captions">Phụ đề</string>
     <string name="exo_track_role_commentary">Bình luận</string>
@@ -2667,7 +2663,6 @@ Thiết bị của bạn nhanh hơn %s."</string>
     <string name="menu_text_license_manager">Quyền</string>
     <string name="menu_text_networkassistants">Sử dụng dữ liệu</string>
     <string name="menu_text_networkassistants_danger">Vượt quá %s</string>
-    <string name="menu_text_networkassistants_data">%1$s%2$s</string>
     <string name="menu_text_networkassistants_remain">Còn lại %s</string>
     <string name="menu_text_networkassistants_unit_b">B</string>
     <string name="menu_text_networkassistants_unit_gb">GB</string>
@@ -2676,7 +2671,6 @@ Thiết bị của bạn nhanh hơn %s."</string>
     <string name="menu_text_optimize_manage">Tăng tốc</string>
     <string name="menu_text_optimize_manage_1">Tăng tốc</string>
     <string name="menu_text_power_manager">Pin</string>
-    <string name="menu_text_power_percent_title">%s</string>
     <string name="menu_wh_remove">Xóa khỏi danh sách ngoại lệ</string>
     <string name="menu_white">Thêm vào d.sách ngoại lệ</string>
     <string name="mi_ime_not_used">Sử dụng bàn phím được ủy quyền bởi Xiaomi</string>
@@ -2786,7 +2780,6 @@ Thiết bị của bạn nhanh hơn %s."</string>
     <string name="mtrl_picker_a11y_next_month">Chuyển sang tháng tiếp theo</string>
     <string name="mtrl_picker_a11y_prev_month">Chuyển về tháng trước</string>
     <string name="mtrl_picker_announce_current_selection">Lựa chọn hiện tại: %1$s</string>
-    <string name="mtrl_picker_confirm">@android:string/ok</string>
     <string name="mtrl_picker_date_header_selected">%1$s</string>
     <string name="mtrl_picker_date_header_title">Chọn ngày</string>
     <string name="mtrl_picker_date_header_unselected">Ngày đã chọn</string>
@@ -3601,11 +3594,6 @@ Tiết kiệm pin tối ưu"</string>
     <string name="power_center_dialog_msg_top">Khi bật Tiết kiệm pin, các hoạt động tối ưu sau sẽ được thực hiện:</string>
     <string name="power_center_hints_scan_danger_result">Bạn có thể sửa vấn đề pin ngay</string>
     <string name="power_center_list_item_auto_brightness">Tự động điều chỉnh độ sáng màn hình</string>
-    <string name="power_center_list_item_battery_health_model_temperature">%d ℃</string>
-    <string name="power_center_list_item_battery_health_model_voltage">%s V</string>
-    <string name="power_center_list_item_battery_health_model_volume">%s mAh</string>
-    <string name="power_center_list_item_battery_status_capacity">mAh</string>
-    <string name="power_center_list_item_battery_status_temperature">℃</string>
     <string name="power_center_list_item_battery_status_time">giờ</string>
     <string name="power_center_list_item_close_bluetooth">Tắt Bluetooth</string>
     <string name="power_center_list_item_deep_save_title">Cài đặt nâng cao</string>
@@ -3919,7 +3907,6 @@ Tiết kiệm pin tối ưu"</string>
     <string name="pref_normal_traffic_limit">Khi gói lưu lượng đã sử dụng hết</string>
     <string name="pref_open_adjust_traffic">Cập nhật dữ liệu sử dụng hàng ngày bằng cách sử dụng số liệu thống kê của nhà mạng</string>
     <string name="pref_operator_not_set">Nhà cung cấp chưa được thiết lập</string>
-    <string name="pref_operator_setting">%1$s%2$s</string>
     <string name="pref_over_traffic_limit">Khi bạn vượt quá lưu lượng</string>
     <string name="pref_package_traffic_settings">Gói lưu lượng</string>
     <string name="pref_pkg_begin_date">Ngày bắt đầu sử dụng gói dữ liệu</string>
@@ -4220,7 +4207,6 @@ Rút lại chấp thuận ngay?"</string>
     <string name="privacy_using_record">Đang ghi âm</string>
     <string name="privacyapp_number_masked_text">Nội dung thông báo đã ẩn</string>
     <string name="privacyapp_number_unmasked_text">Nội dung thông báo có thể ẩn</string>
-    <string name="process_kernel_label">Android</string>
     <string name="process_mediaserver_label">Máy chủ phương tiện</string>
     <string name="process_vpnsdkmanager_label">Game Turbo</string>
     <string name="promotion">Quảng cáo</string>

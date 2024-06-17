@@ -3550,11 +3550,9 @@ Những ảnh chụp đẹp nhất được chọn tự động. Bạn có thể
     <string name="error_check_network_later">Kiểm tra cài đặt mạng và thử lại</string>
     <string name="error_create_share_album_fail_default">Không thể tạo do lỗi không xác định</string>
     <string name="error_storage_no_write_permission_tip_title">"Vài album yêu cầu quyền để được đồng bộ. "</string>
-    <string name="face_recommend_group_number">%1$d/%2$d</string>
     <string name="fail_reason_migrate">Đang xử lý các mục… Chờ một hoặc hai phút và thử lại.</string>
     <string name="feedback_problem">Báo cáo sự cố</string>
     <string name="feedback_suggest">Gửi kiến nghị</string>
-    <string name="fileSizeSuffix">%1$s%2$s</string>
     <string name="fmt_date_long_month">MMMM</string>
     <string name="fmt_date_numeric_month">M</string>
     <string name="fmt_date_short_month">MMM</string>
@@ -3577,7 +3575,6 @@ Những ảnh chụp đẹp nhất được chọn tự động. Bạn có thể
     <string name="google_setting_sync_set">Cài đặt đồng bộ</string>
     <string name="google_setting_title">Sao lưu Google Photos</string>
     <string name="google_setting_turn_off_backup">Tắt sao lưu và đồng bộ</string>
-    <string name="grant_permission_item">\"%s\"</string>
     <string name="grant_permission_manage_storage_unlock">Mở khóa thiết bị và cho phép ứng dụng này truy cập tất cả các tập tin để có thể xem chúng.</string>
     <string name="grant_permission_shortcut">Cho phép ứng dụng này tạo lối tắt Màn hình chính trước.</string>
     <string name="grant_permission_storage">Cho phép ứng dụng này truy cập lưu trữ trước.</string>
@@ -3814,7 +3811,6 @@ Những ảnh chụp đẹp nhất được chọn tự động. Bạn có thể
     <string name="passport_wrong_vcode">Mã bạn nhập không chính xác</string>
     <string name="passport_wrong_voice">Mã bạn nhập không chính xác</string>
     <string name="people_page_photo">Hình thu nhỏ một người</string>
-    <string name="percent_sign">%</string>
     <string name="permission_account_desc">Để đăng nhập và quản lý tài khoản hệ thống</string>
     <string name="permission_account_name">Truy cập tài khoản</string>
     <string name="permission_clipboard_desc">Để truy cập và lưu các mục vào bộ nhớ tạm</string>
@@ -3879,7 +3875,6 @@ Những ảnh chụp đẹp nhất được chọn tự động. Bạn có thể
     <string name="share_album_cancel_share">Dừng chia sẻ</string>
     <string name="share_album_change_background">Thay đổi ảnh nền</string>
     <string name="share_album_create_failed">Không thể tạo album chia sẻ</string>
-    <string name="share_album_create_processing">@string/cloud_bacup_disable_processing</string>
     <string name="share_album_exit_button_text">Dừng chia sẻ</string>
     <string name="share_album_exit_confirm">Bạn sẽ không thể truy cập tất cả mục trong album này nếu tiếp tục. Lưu tất cả các mục quan trọng trước khi bạn rời khỏi.</string>
     <string name="share_album_exit_confirm_title">Rời khỏi nhóm này?</string>
@@ -3957,7 +3952,6 @@ Những ảnh chụp đẹp nhất được chọn tự động. Bạn có thể
     <string name="share_album_type_baby">Album Baby</string>
     <string name="share_album_type_home">Màn hình chờ gia đình</string>
     <string name="share_from">Từ %1$s</string>
-    <string name="show_cloud_albumlist_title">@string/album_cloud_list_page_title</string>
     <string name="show_nearby_photos">Hiển thị ảnh và video lân cận</string>
     <string name="size_suffix">%1$s%2$s</string>
     <string name="slim_auto_backup_cloud_confirm_detail">Bật đồng bộ với đám mây để có thể tải ảnh và video từ thiết bị lên đám mây.</string>

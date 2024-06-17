@@ -105,20 +105,10 @@
         <item>Cao</item>
         <item>Cao nhất</item>
     </string-array>
-    <string-array name="gb_voice_change_gender">
-        <item>@string/gb_voice_changer_gender_man</item>
-        <item>@string/gb_voice_changer_gender_female</item>
-    </string-array>
     <string-array name="input_package_names">
         <item>com.baidu.input_mi</item>
         <item>com.iflytek.inputmethod.miui</item>
         <item>com.sohu.inputmethod.sogou.xiaomi</item>
-    </string-array>
-    <string-array name="key_app_info">
-        <item>install_source</item>
-        <item>install_time</item>
-        <item>update_source</item>
-        <item>update_time</item>
     </string-array>
     <string-array name="lock_mode">
         <item>Khi thiết bị khóa</item>
@@ -133,20 +123,10 @@
         <item>Quan trọng: Nhiều ứng dụng hệ thống có thể không hoạt động.</item>
         <item>Bố cục văn bản, tài khoản, và nội dung có thể không hiển thị chính xác.</item>
     </string-array>
-    <string-array name="operate_entries">
-        <item>@string/auto_task_operation_open</item>
-        <item>@string/auto_task_operation_close</item>
-        <item>@string/auto_task_operation_no_op</item>
-    </string-array>
     <string-array name="operate_entryValues">
         <item>0</item>
         <item>1</item>
         <item>2</item>
-    </string-array>
-    <string-array name="operate_memory_entries">
-        <item>@string/auto_task_operation_open</item>
-        <item>@string/auto_task_operation_close</item>
-        <item>@string/auto_task_operation_no_op</item>
     </string-array>
     <string-array name="operate_memory_entryValues">
         <item>0</item>
@@ -156,20 +136,6 @@
     <string-array name="over_limit_traffic_waring_style">
         <item>Hiển thị cảnh báo</item>
         <item>Cảnh báo và tắt dữ liệu di động</item>
-    </string-array>
-    <string-array name="pc_battery_history_spinner_choice">
-        <item>@string/pc_battery_history_consume_rank_menu_item</item>
-        <item>@string/power_center_battery_all</item>
-        <item>@string/power_center_battery_software</item>
-        <item>@string/power_center_battery_hardware</item>
-        <item>@string/pc_battery_history_battery_detail_menu_item</item>
-    </string-array>
-    <string-array name="pc_battery_history_spinner_choice_new">
-        <item>@string/pc_battery_history_consume_rank_menu_item</item>
-        <item>@string/power_center_battery_all</item>
-        <item>@string/power_center_battery_software</item>
-        <item>@string/power_center_battery_hardware</item>
-        <item>@string/pc_battery_history_battery_detail_menu_item</item>
     </string-array>
     <string-array name="pc_fast_charge_entry">
         <item>10%</item>

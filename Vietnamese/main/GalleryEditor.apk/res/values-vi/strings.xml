@@ -1124,7 +1124,6 @@
     <string name="mtrl_picker_a11y_next_month">Chuyển sang tháng tiếp theo</string>
     <string name="mtrl_picker_a11y_prev_month">Chuyển về tháng trước</string>
     <string name="mtrl_picker_announce_current_selection">Lựa chọn hiện tại: %1$s</string>
-    <string name="mtrl_picker_confirm">@android:string/ok</string>
     <string name="mtrl_picker_date_header_selected">%1$s</string>
     <string name="mtrl_picker_date_header_title">Chọn ngày</string>
     <string name="mtrl_picker_date_header_unselected">Ngày đã chọn</string>
@@ -1379,7 +1378,6 @@ Hãy chạm vào \"Pro\" để sử dụng."</string>
     <string name="photo_editor_talkback_crop_free">Tự do</string>
     <string name="photo_editor_talkback_crop_landscape_screen">Tỷ lệ khung hình toàn màn hình chiều ngang.</string>
     <string name="photo_editor_talkback_crop_mirror">Gương</string>
-    <string name="photo_editor_talkback_crop_movie">@string/filter_category_movie</string>
     <string name="photo_editor_talkback_crop_original">Gốc</string>
     <string name="photo_editor_talkback_crop_portrait_screen">Tỷ lệ khung hình toàn màn hình chiều đứng.</string>
     <string name="photo_editor_talkback_crop_reset">Đặt lại</string>
@@ -1488,19 +1486,14 @@ Hãy chạm vào \"Pro\" để sử dụng."</string>
     <string name="screen_editor_btn_save">Lưu</string>
     <string name="screen_editor_btn_shell_off">Xóa khung thiết bị</string>
     <string name="screen_editor_btn_shell_on">Thêm khung thiết bị</string>
-    <string name="screen_editor_crop">@string/photo_editor_long_crop</string>
     <string name="screen_editor_crop_disallowed_with_shell">Không thể cắt ảnh chụp màn hình sau khi thêm khung thiết bị</string>
     <string name="screen_editor_delete_dialog_msg">Xóa ảnh chụp màn hình này?</string>
     <string name="screen_editor_delete_dialog_picture_msg">Xóa ảnh này ngay?</string>
-    <string name="screen_editor_doodle">@string/photo_editor_doodle</string>
     <string name="screen_editor_finish">Hoàn tất</string>
-    <string name="screen_editor_mosaic">@string/photo_editor_mosaic</string>
-    <string name="screen_editor_send">@string/operation_send</string>
     <string name="screen_editor_shell_disallowed_with_crop">Không thể thêm khung thiết bị đến ảnh chụp màn hình đã cắt</string>
     <string name="screen_editor_shell_net_error">Kết nối mạng để tải xuống khung thiết bị</string>
     <string name="screen_editor_shell_res_downloading">Đang tải xuống khung thiết bị…</string>
     <string name="screen_editor_shell_storage_insufficient">Không thể tải xuống khung thiết bị do không đủ dung lượng lưu trữ</string>
-    <string name="screen_editor_text">@string/photo_editor_text</string>
     <string name="screen_save_dialog_btn_cancel">Hủy</string>
     <string name="screen_save_dialog_btn_delete">Xóa ảnh chụp màn hình</string>
     <string name="screen_save_dialog_btn_save">Lưu vào Thư viện</string>
