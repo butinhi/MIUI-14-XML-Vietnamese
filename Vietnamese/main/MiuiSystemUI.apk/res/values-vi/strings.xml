@@ -3879,7 +3879,6 @@ mm"</string>
     <string name="monitoring_description_managed_device_named_vpn">Thiết bị này kết nối với Internet thông qua %1$s. Quản trị viên CNTT của bạn có thể nhìn thấy hoạt động của bạn trên mạng, bao gồm cả email và dữ liệu duyệt web.</string>
     <string name="monitoring_description_managed_profile_network_logging">Quản trị viên của bạn đã bật tính năng ghi nhật ký mạng. Tính năng này giám sát lưu lượng truy cập trong hồ sơ công việc chứ không giám sát lưu lượng truy cập trong hồ sơ cá nhân của bạn.</string>
     <string name="monitoring_description_parental_controls">Thiết bị này do cha mẹ bạn quản lý. Cha mẹ có thể có thể xem và quản lý những thông tin như ứng dụng bạn dùng, vị trí của bạn và thời gian bạn sử dụng thiết bị.</string>
-    <string name="monitoring_description_vpn_settings_separator">" "</string>
     <string name="monitoring_financed_description_named_management">"%1$s có thể truy cập vào dữ liệu liên kết với thiết bị này, quản lý ứng dụng và thay đổi các chế độ cài đặt trên thiết bị này.
 
 Nếu bạn có thắc mắc, hãy liên hệ với %2$s."</string>
@@ -4077,8 +4076,6 @@ Nếu bạn có thắc mắc, hãy liên hệ với %2$s."</string>
     <string name="sound_settings">Âm thanh và chế độ rung</string>
     <string name="speed_label_okay">Khá tốt</string>
     <string name="split_screen_text">Chia đôi màn hình</string>
-    <string name="status_bar_clock_date_weekday_format_12_brief">@string/status_bar_clock_date_format_12</string>
-    <string name="status_bar_clock_date_weekday_format_brief">@string/status_bar_clock_date_format</string>
     <string name="stream_bluetooth_sco">Bluetooth</string>
     <string name="stylus_battery_low_percentage">Còn %s pin</string>
     <string name="stylus_battery_low_subtitle">Hãy kết nối bút cảm ứng với bộ sạc</string>
