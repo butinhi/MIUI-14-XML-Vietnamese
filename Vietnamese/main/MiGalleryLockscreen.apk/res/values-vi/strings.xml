@@ -1963,4 +1963,10 @@ thẻ tiếp theo"</string>
     <string name="wd_dialog_switch_cp_cancel">Hủy</string>
     <string name="wd_dialog_switch_cp_content">Chúng tôi đã thêm nhiều nội dung vào Khóa tạp chí. Đọc và đồng ý với &lt;a href=\"%1$s\">Chính sách Riêng tư&lt;/a> và &lt;a href=\"%2$s\" >Thỏa thuận Người dùng&lt;/a> trước khi bạn tiếp tục.</string>
     <string name="wd_dialog_switch_cp_title">Điều khoản và Điều kiện</string>
+	<string name="external_storage_permission_summary">Cho phép ứng dụng này truy cập các tệp trên thiết bị của bạn để có thể thêm hình nền của riêng bạn vào Tạp chí màn hình khoá và lưu nội dung đã tải xuống vào thiết bị của bạn.</string>
+	<string name="personalized">Cá nhân hóa</string>
+	<string name="cancel_mfashiongallery_service">Hủy dịch vụ Tạp chí màn hình khoá</string>
+	<string name="cancel_service">Hủy dịch vụ</string>
+    <string name="cancel_service_running">Hủy dịch vụ…</string>
+    <string name="cancel_service_summary">"Nếu tiếp tục, bạn sẽ hủy dịch vụ Tạp chí màn hình khoá. Thông tin cá nhân đã được thu thập và lưu giữ sẽ bị xóa trong khoảng thời gian cụ thể theo luật và quy định hiện hành trừ khi có yêu cầu khác. Vẫn hủy dịch vụ?"</string>
 </resources>
