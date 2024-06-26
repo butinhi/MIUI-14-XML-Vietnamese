@@ -1875,8 +1875,6 @@ Tất cả các mục cá nhân hóa hiện đang được sử dụng trên thi
     <string name="exo_download_paused_for_network">Đang chờ có mạng để tải xuống</string>
     <string name="exo_download_paused_for_wifi">Đang chờ có Wi-Fi để tải xuống</string>
     <string name="exo_item_list">%1$s, %2$s</string>
-    <string name="exo_track_bitrate">%1$.2f Mb/giây</string>
-    <string name="exo_track_resolution">%1$d × %2$d</string>
     <string name="exo_track_role_alternate">Thay thế</string>
     <string name="exo_track_role_closed_captions">Phụ đề</string>
     <string name="exo_track_role_commentary">Bình luận</string>
@@ -1932,7 +1930,6 @@ Tất cả các mục cá nhân hóa hiện đang được sử dụng trên thi
     <string name="humidity_format_with_unit">%s</string>
     <string name="icon_size">Kích cỡ biểu tượng</string>
     <string name="icon_style">Biểu tượng</string>
-    <string name="item_resource_audio_divider">│</string>
     <string name="last_choice">Được sử dụng lần cuối</string>
     <string name="later">Lần tới</string>
     <string name="latest_wallpaper">Mới</string>
@@ -1966,7 +1963,6 @@ mm"</string>
     <string name="more_personal_setting">Cài đặt bổ sung</string>
     <string name="more_ringtones">Thêm nhạc chuông</string>
     <string name="more_wallpapers">Chạm để xem thêm hình nền</string>
-    <string name="mtrl_picker_confirm">@android:string/ok</string>
     <string name="mtrl_picker_date_header_selected">%1$s</string>
     <string name="mtrl_picker_range_header_selected">%1$s – %2$s</string>
     <string name="mtrl_picker_text_input_day_abbr">d</string>
@@ -2060,7 +2056,6 @@ mm"</string>
     <string name="read_write_file">Truy cập và lưu tập tin trên thiết bị này</string>
     <string name="read_write_file_a">Truy cập và lưu tập tin và ảnh được lưu trữ trên thiết bị (để lưu trữ nội dung đã tải xuống)</string>
     <string name="res_migrate_tip">Để Chủ đề tương thích với các phiên bản Android sắp tới, chúng tôi chuyển các mục đã tải xuống của bạn đến một vị trí mới. Khởi động lại ứng dụng để áp dụng thay đổi và xem nội dung đã tải xuống của bạn.</string>
-    <string name="resource_price_format">(%1$s)</string>
     <string name="resource_right_ack_check_error">Mã này đã hết hạn</string>
     <string name="resource_search_color_hint_dark">Đen</string>
     <string name="resource_search_empt">Không tìm thấy kết quả</string>
@@ -2102,7 +2097,6 @@ mm"</string>
     <string name="somatosensory_temperature_format">Cảm giác như %s°</string>
     <string name="special_topic">Thể loại</string>
     <string name="start_all">Tiếp tục tất cả</string>
-    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="storage_file">Để lưu các mục đã tải xuống</string>
     <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
     <string name="sunrise_time_format">Bình minh %s</string>
@@ -2119,7 +2113,6 @@ mm"</string>
     <string name="theme_desc_a">Làm cho thiết bị thêm thú vị với chủ đề, hình nền, phông chữ và nhạc chuông.</string>
     <string name="theme_desc_b">Chào mừng sử dụng Chủ đề. Làm cho thiết bị thêm thú vị với chủ đề, hình nền, phông chữ và nhạc chuông.</string>
     <string name="theme_home_page">Trang chính</string>
-    <string name="theme_name">%1$s</string>
     <string name="theme_recommend">Chủ đề tương tự</string>
     <string name="themes_has_an_updated_version">Phiên bản mới của Chủ đề khả dụng</string>
     <string name="themes_might_like">Chủ đề bạn có thể thích</string>

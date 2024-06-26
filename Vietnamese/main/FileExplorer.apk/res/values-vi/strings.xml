@@ -1876,7 +1876,6 @@ Thử chuyển tập tin từ thiết bị sang Mi Drive."</string>
     <string name="fallback_menu_item_copy_link">Sao chép đường liên kết</string>
     <string name="fallback_menu_item_open_in_browser">Mở trong trình duyệt</string>
     <string name="fallback_menu_item_share_link">Chia sẻ liên kết</string>
-    <string name="fileSizeSuffix">%1$s %2$s</string>
     <string name="fmt_date_long_month">MMMM</string>
     <string name="fmt_date_numeric_month">M</string>
     <string name="fmt_date_short_month">MMM</string>
@@ -2020,7 +2019,6 @@ Thử chuyển tập tin từ thiết bị sang Mi Drive."</string>
     <string name="s6">Cho phép Quảng cáo tạo sự kiện lịch?</string>
     <string name="s7">Quảng cáo thử nghiệm</string>
     <string name="select_pdf">Chọn PDF</string>
-    <string name="settings">@string/server_control_settings</string>
     <string name="size_lv2" formatted="false">%1d KB - %2d MB</string>
     <string name="size_lv3" formatted="false">%1d MB - %2d MB</string>
     <string name="size_lv4" formatted="false">%1d MB - %2d MB</string>

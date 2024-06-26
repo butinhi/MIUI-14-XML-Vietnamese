@@ -1897,7 +1897,6 @@ thẻ tiếp theo"</string>
     <string name="setting_topic_title">Chọn chủ đề</string>
     <string name="setting_wifi_only_desc">Tắt tính năng này để tiết kiệm dữ liệu di động</string>
     <string name="setting_wifi_only_title">Cập nhật hình nền bằng dữ liệu di động</string>
-    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
     <string name="summary_discovery">"Cách thú vị để mở khóa 
 điện thoại"</string>

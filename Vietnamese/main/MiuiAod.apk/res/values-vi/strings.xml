@@ -762,7 +762,6 @@ mm"</string>
     <string name="smart_style">Thông minh</string>
     <string name="smart_style_summary">Không hiển thị khi thiết bị của bạn ở trong túi, ánh sáng môi trường yếu trong thời gian dài hoặc khi bạn không nhìn vào màn hình</string>
     <string name="somatosensory_temperature_format">Cảm giác như %s°</string>
-    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
     <string name="sunrise_time_format">Bình minh %s</string>
     <string name="sunrise_time_format_desc">Thời gian mặt trời mọc: %s</string>

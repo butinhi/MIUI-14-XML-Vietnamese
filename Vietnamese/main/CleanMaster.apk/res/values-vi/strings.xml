@@ -1428,7 +1428,6 @@
     <string name="ad_flag_text">QC</string>
     <string name="copy_toast_msg">Đã sao chép đường liên kết vào bảng nhớ tạm</string>
     <string name="deepclean_list_item_from_miui">MIUI</string>
-    <string name="empty">" "</string>
     <string name="engine_mi">Xiaomi</string>
     <string name="exo_download_paused">Đã tạm dừng tải xuống</string>
     <string name="exo_download_paused_for_network">Đang chờ có mạng để tải xuống</string>
@@ -1444,7 +1443,6 @@
     <string name="global_wa_setting_other_pref_reconmmend_title">Kiến nghị</string>
     <string name="guide_dc_dialog_message_new">Dung lượng lưu trữ miễn phí còn lại ít hơn %d GB. Điều này có thể làm chậm thiết bị của bạn. Dọn dẹp sâu để giải phóng dung lượng lưu trữ.</string>
     <string name="guide_dc_dialog_positive">OK</string>
-    <string name="hints_header_left">%d</string>
     <string name="lock_device_toast">Thiết bị này đã bị khóa. Mở khóa để sử dụng Dọn dẹp.</string>
     <string name="low_memory_clean_dialog_msg_new">Xóa ít nhất %d MB tập tin trước</string>
     <string name="native_body">Nội dung</string>
