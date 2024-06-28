@@ -74,6 +74,6 @@
         <item>\#</item>
     </string-array>
     <string-array name="runtime_permission_desc">
-        <item>&lt;item>Nhận dạng giọng nói cho các tính năng như dịch giọng nói&lt;/item></item>
+        <item>Nhận dạng giọng nói cho các tính năng như dịch giọng nói</item>
     </string-array>
 </resources>

@@ -35,9 +35,10 @@
     <string name="add_control_center_hint_text_2">Bước 2. Nhấn vào "Mi AI Dịch"</string>
     <string name="add_control_center_hint_text_3">Có thể cần phải thêm Mi AI Dịch theo cách thủ công vào Trung tâm điều khiển trên một số kiểu máy. Trong Trung tâm điều khiển, trước tiên hãy nhấn *, sau đó nhấn * trên Mi AI Dịch.</string>
     <string name="add_control_center_summary">Kéo từ trên cùng màn hình xuống để bật dịch bất cứ lúc nào</string>
+	<string name="add_phrase_content_description">Thêm một cụm từ thường xuyên</string>
     <string name="add_shortcut_dialog_cancel">Không phải bây giờ</string>
-    <string name="add_shortcut_dialog_content">Thêm lối tắt vào màn hình chính để có thể dịch %s bất cứ lúc nào chỉ bằng một cú nhấp chuột.</string>
-    <string name="add_shortcut_dialog_title">Thêm nhãn</string>
+    <string name="add_shortcut_dialog_content">Thêm lối tắt Màn hình chính cho %s để có thể dịch bất cứ lúc nào chỉ bằng một lần nhấn.</string>
+    <string name="add_shortcut_dialog_title">Thêm lối tắt</string>
     <string name="afternoon">Ngày</string>
     <string name="again_download_language_resources_hint">Vui lòng kết nối Internet và thử tải xuống lại Gói tài nguyên phụ đề trực tiếp</string>
     <string name="agree_text">Đồng ý</string>
