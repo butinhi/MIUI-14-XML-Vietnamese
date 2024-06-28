@@ -1107,4 +1107,5 @@
 	<string name="open_personal_assistant_settings_off">Tắt</string>
 	<string name="dock_and_folder_not_edit_icon_tip">Để chỉnh sửa, trước tiên hãy di chuyển ứng dụng ra khỏi dock và thư mục</string>
 	<string name="dock_not_edit_icon_tip">Để chỉnh sửa, trước tiên hãy di chuyển ứng dụng ra khỏi dock</string>
+	<string name="system_shortcuts_icon_remove">Xoá</string>
 </resources>
