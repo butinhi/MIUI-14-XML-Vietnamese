@@ -1183,7 +1183,6 @@ Tăng cường bảo mật."</string>
     <string name="mtrl_picker_a11y_next_month">Chuyển sang tháng tiếp theo</string>
     <string name="mtrl_picker_a11y_prev_month">Chuyển về tháng trước</string>
     <string name="mtrl_picker_announce_current_selection">Lựa chọn hiện tại: %1$s</string>
-    <string name="mtrl_picker_confirm">@android:string/ok</string>
     <string name="mtrl_picker_date_header_selected">%1$s</string>
     <string name="mtrl_picker_date_header_title">Chọn ngày</string>
     <string name="mtrl_picker_date_header_unselected">Ngày đã chọn</string>
@@ -1239,7 +1238,6 @@ Tăng cường bảo mật."</string>
     <string name="service_double_attention">Tính năng tìm kiếm nâng cao được cung cấp bởi Branch Metrics Inc. Để tính năng này hoạt động, chúng tôi cần chia sẻ các yêu cầu tìm kiếm, ID Quảng cáo Google và địa chỉ IP của bạn với Branch Metrics Inc. Đọc và đồng ý với <font color="#B3000000"><a href="http://url1">Điều khoản &amp; Điều kiện Khám phá Người dùng Cuối</a></font> và <font color="#B3000000"><a href="http://url2">Chính sách Riêng tư Branch Discovery</a></font> trước khi sử dụng tính năng này.</string>
     <string name="shortcut_share_dialog_content_pad">Các tập tin bạn gửi từ thiết bị của bạn, cũng như người nhận được bạn chọn và xác định. Hãy chú ý khi bạn chọn tập tin để chia sẻ và chọn người nhận. Bạn không được sử dụng thiết bị của mình để truyền bất kỳ virus, phần mềm độc hại, trojans, bom hẹn giờ và các đối tượng gây hại khác cho người khác. Không sử dụng thiết bị của bạn để truyền bất kỳ phần mềm nào có thể ảnh hưởng đến việc sử dụng thường xuyên của thiết bị người nhận hoặc bất kỳ mục nào có thể làm hỏng, can thiệp, chặn hoặc loại bỏ bất kỳ dữ liệu hệ thống hoặc thông tin cá nhân nào trên thiết bị đầu cuối di động. Bạn sẽ chịu trách nhiệm cho mọi thiệt hại gây ra cho người dùng hoặc thiết bị đầu cuối di động khác. Xiaomi sẽ làm hết khả năng để đảm bảo rằng tính năng chia sẻ, cũng như công nghệ và thông tin liên quan là an toàn, hiệu quả, chính xác và đáng tin cậy. Tuy nhiên, do những hạn chế của công nghệ hiện tại, Xiaomi không đảm bảo rằng tính năng chia sẻ là hoàn hảo và sẽ đáp ứng mọi nhu cầu của bạn.</string>
     <string name="start_new_window">Cửa sổ mới</string>
-    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="status_bar_recent_memory_giga">%1$s GB</string>
     <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
     <string name="switch_personal_assistant_app_vault">App vault</string>
