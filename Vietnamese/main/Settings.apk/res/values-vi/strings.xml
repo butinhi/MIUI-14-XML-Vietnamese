@@ -3817,7 +3817,7 @@ Bạn có thể thay đổi điều này sau đó từ Cài đặt > Ứng dụn
     <string name="ringtone_uniform_setting_title">Cài đặt cho cả 2 SIM</string>
     <string name="ringtone_slot_setting_title">Cài đặt cho từng SIM</string>
     <string name="haptic_feedback_level">Mức rung</string>
-    <string name="privacy_protect_title">Quyền riêng tư &amp; bảo mật</string>
+    <string name="privacy_protect_title">Riêng tư &amp; bảo mật</string>
     <string name="privacy_mode_enable_title">Chế độ Khách</string>
     <string name="privacy_mode_enable_sum">Ẩn tin nhắn, ghi chú, ảnh, cài đặt và cuộc gọi đến</string>
     <string name="ac_enable_title">Khóa ứng dụng</string>
@@ -10088,7 +10088,7 @@ Tiếp tục truy cập cài đặt bổ sung."</string>
     <string name="dialog_backup_title">Cập nhật sao lưu trước khi tiến hành khôi phục cài đặt gốc?</string>
     <string name="other_password">Mật khẩu khác</string>
     <string name="face_data_manage_unlock_slide_msg">Thay thế vuốt để mở khóa bằng mở khóa khuôn mặt</string>
-    <string name="privacy_protection">Quyền riêng tư &amp; bảo mật</string>
+    <string name="privacy_protection">Riêng tư &amp; bảo mật</string>
     <string name="backup_more_settings">Cài đặt</string>
     <string name="multi_face_delete_show_message">Xóa dữ liệu khuôn mặt ngay?</string>
     <string name="nfc_repair_summary">Sửa vấn đề ngăn bạn sử dụng tính năng NFC</string>
@@ -12580,7 +12580,7 @@ Tính năng này chỉ hoạt động khi điều hướng hệ thống được
     <string name="wifitrackerlib_checking_for_internet_access">Kiểm tra truy cập internet...</string>
     <string name="accessibility_text_reading_options_suggestion_title">Thay đổi cách hiển thị văn bản</string>
     <string name="device_info_protected_single_press">Nhấn để hiển thị thông tin</string>
-    <string name="privacy_and_security">Quyền riêng tư &amp; bảo mật</string>
+    <string name="privacy_and_security">Riêng tư &amp; bảo mật</string>
     <string name="title_quick_control_all_devices">Hiển thị điều khiển cho các thiết bị lân cận</string>
     <string name="summary_quick_control_all_devices">Hiển thị các điều khiển cho TV, loa và ô tô ở gần trong Trung tâm điều khiển</string>
     <string name="extension_function">Các tính năng ứng dụng bổ sung</string>

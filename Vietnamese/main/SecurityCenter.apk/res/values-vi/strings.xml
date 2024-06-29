@@ -6661,7 +6661,7 @@ Thiết bị của bạn bây giờ nhanh hơn %s."</string>
     <string name="pp_lab_compact_blur_location_summary">Chọn \"Mặc định\" để sử dụng chức năng vị trí gần đúng của Android hoặc \"Tất cả\" để sử dụng tài nguyên hệ thống bổ sung hỗ trợ tất cả ứng dụng.</string>
     <string name="pp_read_phone_info_summary">Truy cập thông tin SIM</string>
     <string name="precise_location_title">Vị trí chính xác</string>
-    <string name="privacy">Quyền riêng tư</string>
+    <string name="privacy">Riêng tư</string>
     <string name="tc_cmd_invalid">Mẫu không hợp lệ</string>
     <string name="tc_get_cmd_error">Không thể nhận mẫu</string>
     <string name="tc_parse_error">Không thể phân tích SMS</string>
