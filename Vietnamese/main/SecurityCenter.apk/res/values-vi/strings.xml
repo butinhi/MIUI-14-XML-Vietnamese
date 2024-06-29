@@ -7311,7 +7311,6 @@ Bật cái này sẽ tắt cái kia."</string>
     <string name="auto_task_operation_string_comma">,</string>
     <string name="auto_task_operation_string_split">;</string>
     <string name="blur_key_words_oaid">OAID</string>
-    <string name="card_main_speeddetail_action">@string/card_main_monthreport_action</string>
     <string name="clipboard_ai_allow_summary">Cho phép hệ thống xác định xem ứng dụng có thể truy cập nội dung bộ nhớ tạm hay không và nhắc nhở bạn khi ứng dụng truy cập</string>
     <string name="columbus_ad_flag_text">QC</string>
     <string name="columbus_skip_ad">Bỏ qua</string>
@@ -7335,10 +7334,7 @@ Bật cái này sẽ tắt cái kia."</string>
     <string name="common_signin_button_text_long">Đăng nhập bằng Google</string>
     <string name="conversation_summary_new">Làm đẹp, phụ đề và các tính năng khác trong cuộc gọi âm thanh và video</string>
     <string name="desc_share_uid_sec" formatted="false">%1s. %2s</string>
-    <string name="ellipsis">…</string>
     <string name="exo_item_list">%1$s, %2$s</string>
-    <string name="exo_track_bitrate">%1$.2f Mb/giây</string>
-    <string name="exo_track_resolution">%1$d × %2$d</string>
     <string name="exo_track_role_closed_captions">Phụ đề</string>
     <string name="fcm_fallback_notification_channel_label">Khác</string>
     <string name="firewall_statement_msg">Do giới hạn của hệ thống và yêu cầu về chất lượng của nhà cung cấp, một số ít ứng dụng có thể tiếp tục sử dụng dữ liệu di động ngay cả khi dữ liệu bị tắt. Nếu bạn gặp phải tình huống này, hãy cho chúng tôi biết trong Dịch vụ &amp; phản hồi.</string>
@@ -7380,12 +7376,10 @@ Bộ làm mát Trò chơi Xiaomi"</string>
     <string name="log_count">(%d)</string>
     <string name="mark_time_text">%d</string>
     <string name="menu_item_notification_garbage_text">%s</string>
-    <string name="menu_text_networkassistants_data">%1$s%2$s</string>
     <string name="menu_text_networkassistants_unit_b">B</string>
     <string name="menu_text_networkassistants_unit_gb">GB</string>
     <string name="menu_text_networkassistants_unit_kb">KB</string>
     <string name="menu_text_networkassistants_unit_mb">MB</string>
-    <string name="menu_text_power_percent_title">%s</string>
     <string name="mi_sim_link_custom">"%1$s&lt;br/>&lt;br/>&lt;font color='#ccffffff'>&lt;U>%2$s&lt;/U>&lt;/font>"</string>
     <string name="mtrl_picker_date_header_selected">%1$s</string>
     <string name="mtrl_picker_text_input_day_abbr">d</string>
@@ -7441,15 +7435,8 @@ Bộ làm mát Trò chơi Xiaomi"</string>
     <string name="pin_toast_nav">Bấm và giữ phím quay lại và xem trước để bỏ ghim ứng dụng này</string>
     <string name="power_center_battery_duration_format">%1$s %2$s</string>
     <string name="power_center_battery_problem_and_suggest">%1$s. %2$s.</string>
-    <string name="power_center_list_item_battery_health_model_temperature">%d ℃</string>
-    <string name="power_center_list_item_battery_health_model_voltage">%s V</string>
-    <string name="power_center_list_item_battery_health_model_volume">%s mAh</string>
-    <string name="power_center_list_item_battery_status_capacity">mAh</string>
-    <string name="power_center_list_item_battery_status_temperature">℃</string>
     <string name="power_center_main_percent_formatted">%s%%</string>
     <string name="power_save_ps_close_setting_gps">GPS</string>
-    <string name="pref_operator_setting">%1$s%2$s</string>
-    <string name="process_kernel_label">Android</string>
     <string name="right_precent">100%</string>
     <string name="scanning_bar_number_new">%s</string>
     <string name="search_input_txt_na">"&lt;font color='#ff0000'>%s&lt;/font>"</string>
