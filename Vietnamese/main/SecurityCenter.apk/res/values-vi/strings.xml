@@ -574,7 +574,7 @@ Hoạt động này làm giảm tuổi thọ pin."</string>
     <string name="om_ill_proc_type_radio_title">Ứng dụng kết nối mạng thường xuyên và dẫn đến hao pin</string>
     <string name="om_ill_proc_type_radio_detail">Sửa vấn đề kết nối mạng</string>
     <string name="om_ill_proc_activity_title">Vấn đề</string>
-    <string name="power_center_title">Pin &amp; hiệu suất</string>
+    <string name="power_center_title">Pin</string>
     <string name="power_center_back">Quay lại Sử dụng pin</string>
     <string name="power_center_auto_shutdown">Hẹn giờ tắt/mở máy</string>
     <string name="power_center_ontime_boot">Thời gian mở</string>
@@ -952,7 +952,7 @@ Hoạt động này làm giảm tuổi thọ pin."</string>
     <string name="menu_text_antispam">Danh sách chặn</string>
     <string name="menu_text_license_manager">Quyền</string>
     <string name="menu_text_garbage_cleanup">Trình dọn dẹp</string>
-    <string name="menu_text_power_manager">Tối ưu Pin</string>
+    <string name="menu_text_power_manager">Pin</string>
     <string name="menu_text_power_percent_title_default">Pin</string>
     <string name="last_check_canceled">Quét trước đó đã bị hủy bỏ</string>
     <string name="examination_score_100">Tất cả mọi thứ đều tốt!</string>
@@ -1896,7 +1896,7 @@ Hoạt động lì xì Lễ hội mùa xuân, đừng bỏ lỡ phong bao lì x�
     <string name="banner_optimizemanage_summary">Giải phóng bộ nhớ</string>
     <string name="banner_red_money_assist_button">Bật</string>
     <string name="banner_red_money_assist_summary">Mở phong bì nhanh hơn</string>
-    <string name="battery_and_property">Pin &amp; hiệu suất</string>
+    <string name="battery_and_property">Pin</string>
     <string name="battery_can_use_time">Còn lại %s</string>
     <string name="battery_desc_ambient_display">Năng lượng tiêu hao bởi Màn hình Luôn bật</string>
     <string name="battery_health_level_text">Tình trạng pin</string>
@@ -5415,7 +5415,7 @@ Bạn có thể tắt tùy chọn \"Tự động điều chỉnh số liệu th�
     <string name="pc_search_keywords_battery_use">Sử dụng pin</string>
     <string name="pc_search_keywords_capacity">Dung lượng pin</string>
     <string name="pc_search_keywords_property">Hiệu năng</string>
-    <string name="pc_settings_title">Cài đặt Pin &amp; Hiệu suất</string>
+    <string name="pc_settings_title">Pin</string>
     <string name="bh_home_to_set_phone_number">Đặt số điện thoại</string>
     <string name="bh_more_functions">Thêm công cụ</string>
     <string name="bh_no_resource_tab_view">Không có mặt hàng nào</string>
