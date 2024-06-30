@@ -45,7 +45,7 @@
     <string name="Settings_title_anti_virus_kddi">Cài đặt quét bảo mật</string>
     <string name="Settings_title_garbage_cleanup">Cài đặt dọn dẹp</string>
     <string name="Settings_title_network_assistants">Cài đặt sử dụng dữ liệu</string>
-    <string name="Settings_title_power_center">Cài đặt Tối ưu Pin</string>
+    <string name="Settings_title_power_center">Cài đặt Tối ưu pin</string>
     <string name="abc_action_bar_home_description">Vào Trang bắt đầu</string>
     <string name="abc_action_bar_up_description">Quay lại</string>
     <string name="abc_action_menu_overflow_description">Thêm tùy chọn</string>
@@ -80,7 +80,7 @@
     <string name="abc_toolbar_collapse_description">Thu gọn</string>
     <string name="abnormal_consume_disable_autostart">Hạn chế tự khởi chạy</string>
     <string name="abnormal_consume_disable_autostart_toast">Hạn chế tự khởi chạy thành công</string>
-    <string name="abnormal_consume_set_hidemode">Sử dụng Tiết kiệm Pin với ứng dụng này</string>
+    <string name="abnormal_consume_set_hidemode">Sử dụng Tiết kiệm pin với ứng dụng này</string>
     <string name="abnormal_consume_type_cpu">Mức sử dụng CPU cao</string>
     <string name="abnormal_consume_type_wakelock">Hệ thống không thể chuyển sang chế độ ngủ</string>
     <string name="about_autostart">Giới thiệu tự khởi chạy</string>
@@ -232,7 +232,7 @@ Dữ liệu còn lại bao gồm dữ liệu đã gia hạn từ tháng trước
     <string name="tc_sms_report_send_num">Số điện thoại nhà cung cấp #</string>
     <string name="tc_sms_report_receive_num">Số người nhận</string>
     <string name="tc_sms_report_receive_content">Nội dung SMS báo cáo sử dụng dữ liệu (Xác nhận số liệu thống kê sử dụng dữ liệu)</string>
-    <string name="tc_sms_report_receive_content_null">Giúp chúng tôi cải thiện tính năng này! &lt;br/>Bằng cách: &lt;br/> 1. Vào \"Kiểm tra lệnh tin nhắn SMS\" và \"Số người nhận\" &lt;br/> 2. Chạm \"Nhận SMS mẫu \" &lt;br/> 3. Chờ để nhận tin nhắn SMS từ nhà cung cấp &lt;br/> 4. Chạm \"Tải lên MIUI\"</string>
+    <string name="tc_sms_report_receive_content_null">Giúp chúng tôi cải thiện tính năng này!&lt;br/>Bằng cách:&lt;br/>1. Vào Kiểm tra lệnh tin nhắn SMS và Số người nhận.&lt;br/>2. Chạm Nhận SMS mẫu.&lt;br/>3. Chờ để nhận tin nhắn SMS từ nhà cung cấp.&lt;br/>4. Chạm Tải lên.</string>
     <string name="tc_sms_report_get_sms">Nhận SMS</string>
     <string name="tc_sms_report_get_sms_bill">Nhận SMS</string>
     <string name="tc_sms_report_get_sms_calltime">Nhận SMS</string>
@@ -242,7 +242,7 @@ Dữ liệu còn lại bao gồm dữ liệu đã gia hạn từ tháng trước
     <string name="tc_sms_report_do_report">Gửi</string>
     <string name="tc_sms_report_get_success">Đã nhận SMS báo cáo dữ liệu sử dụng từ nhà cung cấp. Đảm bảo rằng báo cáo là chính xác và gửi cho chúng tôi.</string>
     <string name="tc_sms_report_get_success_notify_title">Đã nhận SMS báo cáo dữ liệu sử dụng</string>
-    <string name="tc_sms_report_get_success_notify_body">Đảm bảo rằng báo cáo là chính xác và gửi tới MIUI.</string>
+    <string name="tc_sms_report_get_success_notify_body">Đảm bảo báo cáo là chính xác và gửi cho chúng tôi.</string>
     <string name="tc_sms_report_upload_success">Đã gửi SMS báo cáo sử dụng dữ liệu. Chúng tôi sẽ nhận ngay!</string>
     <string name="tc_sms_report_upload_when_net">Cảm ơn bạn đã phản hồi!</string>
     <string name="tc_sms_report_notify_get_timeout_title">Không thể đối chiếu sử dụng dữ liệu</string>
@@ -263,9 +263,6 @@ Dữ liệu còn lại bao gồm dữ liệu đã gia hạn từ tháng trước
     <string name="sc_allow_network_dialog_tiltle">Không thể sử dụng tính năng này</string>
     <string name="sc_allow_network_dialog_message">Ứng dụng này cần phải kết nối Internet để làm việc bình thường.</string>
     <string name="privacy_prompt_upload">Tải lên</string>
-    <string name="privacy_prompt_traffic_adjust_message">"Sau khi bạn bắt đầu hiệu chỉnh, MIUI sẽ kết nối mạng, mã hóa thông tin nhà mạng, số điện thoại, IMEI, Tài khoản Mi và tải lên máy chủ Mi để nhận mẫu hiệu chỉnh của nhà mạng và kiểm tra xem có thể mua dữ liệu ở khu vực bạn hay không.
-
-Khi hiệu chỉnh, MIUI sẽ gửi tin nhắn đến nhà mạng để nhận mẫu hiệu chỉnh."</string>
     <string name="privacy_prompt_tc_sms_report_message">Chi tiết số điện và nhà cung cấp của bạn sẽ được mã hóa và tải lên máy chủ của Mi để cập nhật thông tin sử dụng dữ liệu của bạn.</string>
     <string name="international_roaming_setting">Chuyển vùng dữ liệu</string>
     <string name="domestic_roaming_setting">Chuyển vùng quốc tế</string>
@@ -282,8 +279,8 @@ Khi hiệu chỉnh, MIUI sẽ gửi tin nhắn đến nhà mạng để nhận m
     <string name="roaming_start_body">Chạm để xem danh sách ngoại lệ chuyển vùng dữ liệu.</string>
     <string name="dialog_app_roaming_title">%1$s không thể sử dụng chuyển vùng dữ liệu</string>
     <string name="dialog_app_roaming_message">%1$s không thể sử dụng dữ liệu di động khi chuyển vùng. Khi bạn chuyển vùng, chỉ có ứng dụng được thêm trong danh sách ngoại lệ mới có thể sử dụng dữ liệu di động.</string>
-    <string name="add_miservice_dialog_title">Khung Dịch vụ MIUI</string>
-    <string name="add_miservice_dialog_content">%s yêu cầu bạn thêm khung dịch vụ MIUI vào danh sách ngoại lệ. Bạn có thể nhận thông báo từ các ứng dụng hệ thống trong MIUI và của bên thứ ba khác.</string>
+    <string name="add_miservice_dialog_title">Khung dịch vụ Xiaomi</string>
+    <string name="add_miservice_dialog_content">%s yêu cầu bạn thêm khung dịch vụ Xiaomi vào danh sách ngoại lệ. Bạn có thể nhận thông báo từ các ứng dụng hệ thống và của bên thứ ba khác.</string>
     <string name="pref_roaming_daily_limit_setting_cat_title">Giới hạn dữ liệu hàng ngày</string>
     <string name="pref_roaming_daily_limit_setting">Đặt giới hạn dữ liệu hàng ngày khi chuyển vùng</string>
     <string name="mian_page_primary_txt">Chuyển vùng dữ liệu</string>
@@ -369,9 +366,9 @@ Khi hiệu chỉnh, MIUI sẽ gửi tin nhắn đến nhà mạng để nhận m
     <string name="network_blocked_connected_open_wifi">Đã kết nối tới mạng công cộng</string>
     <string name="network_connected_exception_title">Kiểm tra mạng</string>
     <string name="protocol_exception_title">Chẩn đoán giao thức mạng</string>
-    <string name="protocol_loop_back_exception_summary">Kiểm tra vòng lặp trên máy thất bại. Để báo cáo vấn đề này với MIUI, truy cập ứng dụng Phản hồi và gửi báo lỗi từ thiết bị của bạn.</string>
+    <string name="protocol_loop_back_exception_summary">Kiểm tra vòng lặp trên máy thất bại. Để báo cáo vấn đề này, truy cập ứng dụng Phản hồi và gửi báo lỗi từ thiết bị của bạn.</string>
     <string name="ip_address_exception_summary">Không thể lấy địa chỉ IP. Nếu bạn gặp vấn đề này một lần nữa, hãy thử sử dụng một địa chỉ IP tĩnh.</string>
-    <string name="local_ip_exception_summary">Không thể lấy địa chỉ IP. Để báo cáo vấn đề này với MIUI, truy cập ứng dụng Phản hồi và gửi báo cáo lỗi từ thiết bị của bạn.</string>
+    <string name="local_ip_exception_summary">Không thể lấy địa chỉ IP. Để báo cáo vấn đề này, truy cập ứng dụng Phản hồi và gửi báo cáo lỗi từ thiết bị của bạn.</string>
     <string name="renew_ip">Thử lại</string>
     <string name="network_permission_exception_tips">Không thể sử dụng dữ liệu di động để kết nối mạng</string>
     <string name="open_now">Cho phép ứng dụng sử dụng dữ liệu di động</string>
@@ -441,8 +438,6 @@ Thử sử dụng cáp Ethernet để kết nối bộ định tuyến của b�
     <string name="tc_diagnostic_sim_location_result">"&lt;font color='#CC0000'>Kết quả: Sai vị trí&lt;br/>&lt;br/>Cài đặt vị trí: &lt;xliff:g id=location example=BeiJing>%1$s&lt;/xliff:g>&lt;br/>Vị trí thực: &lt;xliff:g id=location example=ShangHai>%2$s&lt;/xliff:g>&lt;/font>"</string>
     <string name="tc_diagnostic_operator_result">"&lt;font color='#CC0000'>Kết quả: Nhà mạng sai&lt;br/>&lt;br/>Cài đặt nhà mạng: &lt;xliff:g id=operator example=CMCC>%1$s&lt;/xliff:g>&lt;br/>Nhà mạng thực: &lt;xliff:g id=location example=UNICOM>%2$s&lt;/xliff:g>&lt;/font>"</string>
     <string name="tc_diagnostic_brand_result">"&lt;font color='#CC0000'>Kết quả: Thương hiệu nhà mạng sai&lt;br/>&lt;br/>Cài đặt thương hiệu: &lt;xliff:g id=brand example=UNICOM 3G>%1$s&lt;/xliff:g>&lt;br/>Thương hiệu thực: &lt;xliff:g id=location example=UNICOM 4G>%2$s&lt;/xliff:g>&lt;/font>"</string>
-    <string name="tc_diagnostic_result">"&lt;font color='#CC0000'>Kết quả: Không thể hoàn tất chẩn đoán&lt;br/>&lt;br/>Báo cáo vấn đề này để giúp MIUI cải thiện công cụ chẩn đoán&lt;/font>"</string>
-    <string name="tc_diagnostic_success_result">"&lt;font color='#CC0000'>Kết quả: Nhà mạng và thương hiệu chính xác&lt;br/>&lt;br/>Không thể hoàn tất điều chỉnh:&lt;br/>1. Số liệu thống kê nhà mạng có thể không chính xác vào đầu hoặc cuối tháng.&lt;br/>2. Tính năng ứng dụng bảo mật chưa được cập nhật.&lt;br/>&lt;br/>Báo cáo vấn đề này để MIUI cải thiện công cụ chẩn đoán&lt;/font>"</string>
     <string name="tc_diagnostic_notification_title">Chẩn đoán nhà mạng</string>
     <string name="tc_diagnostic_notification_summary">Không thể điều chỉnh liên tục 5 lần. Chạm để bắt đầu chẩn đoán.</string>
     <string name="tc_diagnostic_upload_success">Cảm ơn phản hồi của bạn!</string>
@@ -456,7 +451,7 @@ Thử sử dụng cáp Ethernet để kết nối bộ định tuyến của b�
     <string name="tc_diagnostic_all_error_notification_title">Không thể hoàn tất chẩn đoán</string>
     <string name="tc_diagnostic_all_error_notification_summary">Chạm để báo cáo vấn đề</string>
     <string name="tc_diagnostic_success_notification_title">Nhà mạng và thương hiệu chính xác</string>
-    <string name="tc_diagnostic_success_notification_summary">Báo cáo vấn đề này để giúp MIUI cải thiện công cụ chẩn đoán</string>
+    <string name="tc_diagnostic_success_notification_summary">Báo cáo vấn đề này để giúp hệ thống cải thiện công cụ chẩn đoán</string>
     <string name="tc_diagnostic_repair_success_toast">Đã thay đổi thành công</string>
     <string name="tc_diagnostic_complete">Hoàn tất</string>
     <string name="tc_diagnostic_notification_sumarry">Chạm để xem kết quả</string>
@@ -574,7 +569,7 @@ Hoạt động này làm giảm tuổi thọ pin."</string>
     <string name="om_ill_proc_type_radio_title">Ứng dụng kết nối mạng thường xuyên và dẫn đến hao pin</string>
     <string name="om_ill_proc_type_radio_detail">Sửa vấn đề kết nối mạng</string>
     <string name="om_ill_proc_activity_title">Vấn đề</string>
-    <string name="power_center_title">Pin &amp; hiệu suất</string>
+    <string name="power_center_title">Pin</string>
     <string name="power_center_back">Quay lại Sử dụng pin</string>
     <string name="power_center_auto_shutdown">Hẹn giờ tắt/mở máy</string>
     <string name="power_center_ontime_boot">Thời gian mở</string>
@@ -586,14 +581,14 @@ Hoạt động này làm giảm tuổi thọ pin."</string>
     <string name="power_center_state_off">Tắt</string>
     <string name="power_center_charge_time">%1$s cho đến khi đầy</string>
     <string name="power_dialog_cancel">Hủy</string>
-    <string name="power_consume_rank_title">Sử dụng Pin</string>
+    <string name="power_consume_rank_title">Sử dụng pin</string>
     <string name="power_consume_rank_software">Ứng dụng</string>
     <string name="power_consume_rank_hardware">Phần cứng</string>
     <string name="power_consume_software_total_format">Ứng dụng: %s</string>
     <string name="power_consume_hardware_total_format">Phần cứng: %s</string>
     <string name="power_consume_other">Khác</string>
     <string name="battery_desc_other_apps">Điện năng tiêu thụ bởi các ứng dụng khác</string>
-    <string name="power_settings_title">Cài đặt Tối ưu Pin</string>
+    <string name="power_settings_title">Cài đặt Tối ưu pin</string>
     <string name="power_settings_category_title">Chỉ số pin</string>
     <string name="power_settings_shape">Đồ họa</string>
     <string name="power_settings_number">Phần trăm</string>
@@ -663,18 +658,18 @@ Hoạt động này làm giảm tuổi thọ pin."</string>
     <string name="deep_clean_disconnect_data_title">Tắt dữ liệu di động khi thiết bị khóa</string>
     <string name="power_analysis_consume_title">Sử dụng pin</string>
     <string name="power_analysis_suggestion_need_optimize">Đã phát hiện vấn đề sử dụng pin.</string>
-    <string name="power_optimize_save_on_lockscreen">Tiết kiệm Pin khi khóa màn hình</string>
+    <string name="power_optimize_save_on_lockscreen">Tiết kiệm pin khi khóa màn hình</string>
     <string name="power_optimize_close_app">Đóng ứng dụng tiêu thụ pin quá mức</string>
     <string name="power_optimize_disable_app_autostart">Chặn ứng dụng tự động mở</string>
     <string name="power_optimize_disable_start_other_app">Chặn ứng dụng mở ứng dụng khác</string>
     <string name="power_optimize_brightness">Độ sáng màn hình</string>
-    <string name="power_optimize_open_hide_mode">Bật Tiết kiệm Pin</string>
+    <string name="power_optimize_open_hide_mode">Bật Tiết kiệm pin</string>
     <string name="power_optimize_auto_catagory_title">Vấn đề pin</string>
     <string name="power_optimize_catagory_fixed_title">Đã tối ưu</string>
     <string name="power_optimize_btn_text_fixed">Đã tối ưu</string>
     <string name="power_optimize_loading">Đang tải</string>
     <string name="prompt_input_time_illegal">Không thể đặt thời gian này, hãy thay đổi và thử lại</string>
-    <string name="power_settings_saver_title">Tiết kiệm Pin</string>
+    <string name="power_settings_saver_title">Tiết kiệm pin</string>
     <string name="quick_optimize_no_fix_issue_subtitle">Không thể kéo dài tuổi thọ pin</string>
     <string name="quick_optimize_no_issue_title">Không thể tìm thấy vấn đề pin</string>
     <string name="quick_optimize_no_issue_subtitle">Mọi thứ đều tốt</string>
@@ -689,10 +684,10 @@ Hoạt động này làm giảm tuổi thọ pin."</string>
     <string name="battery_history_activity_title">Lịch sử</string>
     <string name="btn_text_goto_power_rank">Xem tất cả thống kê</string>
     <string name="btn_text_goto_setup">Vào Cài đặt</string>
-    <string name="power_save_title_text">Tiết kiệm Pin</string>
-    <string name="power_save_summary_text">Bật Tiết kiệm Pin để giảm hoạt động nền ứng dụng, dừng đồng bộ, và hạn chế tối đa hiệu ứng hình ảnh.</string>
-    <string name="hide_mode_summary_text">Quản lý hoạt động nền ứng dụng để Tiết kiệm Pin</string>
-    <string name="hide_mode_app_background_setting_text">Tiết kiệm Pin ứng dụng</string>
+    <string name="power_save_title_text">Tiết kiệm pin</string>
+    <string name="power_save_summary_text">Bật Tiết kiệm pin để giảm hoạt động nền ứng dụng, dừng đồng bộ, và hạn chế tối đa hiệu ứng hình ảnh.</string>
+    <string name="hide_mode_summary_text">Quản lý hoạt động nền ứng dụng để Tiết kiệm pin</string>
+    <string name="hide_mode_app_background_setting_text">Tiết kiệm pin ứng dụng</string>
     <string name="battery_estimate_usage_time_title">Thời gian sử dụng</string>
     <string name="battery_estimate_charge_time_title">Thời gian sạc</string>
     <string name="battery_temperature_title">Nhiệt độ</string>
@@ -708,22 +703,22 @@ Hoạt động này làm giảm tuổi thọ pin."</string>
     <string name="notification_battery_consume_abnormal_title">Pin bị sụt quá nhanh</string>
     <string name="notification_battery_consume_abnormal_summary">Đã hao %2$s pin trong %1$d phút</string>
     <string name="app_check_no_issue">Không phát hiện vấn đề nào về pin! Tuyệt!</string>
-    <string name="power_save_mode_enable">Tiết kiệm Pin</string>
+    <string name="power_save_mode_enable">Tiết kiệm pin</string>
     <string name="power_save_mode_summary">Giám sát quá trình nền và tắt đồng bộ.</string>
-    <string name="power_optimize_save_mode_not_opened">Tắt Tiết kiệm Pin</string>
-    <string name="notification_exit_power_save_mode">Đã tắt Tiết kiệm Pin</string>
+    <string name="power_optimize_save_mode_not_opened">Tắt Tiết kiệm pin</string>
+    <string name="notification_exit_power_save_mode">Đã tắt Tiết kiệm pin</string>
     <string name="notification_exit_power_save_mode_subtitle">Đã sạc %s.</string>
     <string name="power_save_mode_auto_exit_title">Tắt khi sạc</string>
     <string name="power_save_mode_auto_exit_summary">Tắt khi pin 60%% hoặc đã sạc đầy</string>
-    <string name="power_save_mode_close_warn_title">Tiết kiệm Pin</string>
-    <string name="power_save_mode_close_warn_text">Tiết kiệm Pin giới hạn hoạt động nền và đồng bộ. Nếu bạn chọn sử dụng khi thiết bị được sạc, một vài tính năng có thể không làm việc bình thường. Bật Tiết kiệm Pin khi thiết bị được sạc?</string>
+    <string name="power_save_mode_close_warn_title">Tiết kiệm pin</string>
+    <string name="power_save_mode_close_warn_text">Tiết kiệm pin giới hạn hoạt động nền và đồng bộ. Nếu bạn chọn sử dụng khi thiết bị được sạc, một vài tính năng có thể không làm việc bình thường. Bật Tiết kiệm pin khi thiết bị được sạc?</string>
     <string name="battery_health_title_text">Tình trạng pin</string>
     <string name="battery_health_status_text">Trạng thái pin</string>
     <string name="battery_health_voltage_text">Điện áp pin</string>
     <string name="battery_health_temperature_text">Nhiệt độ pin</string>
     <string name="battery_health_left_battery_text">Pin còn lại</string>
     <string name="power_optimize_disable_gps">Tắt GPS</string>
-    <string name="power_optimize_battery_save_idea">Tối ưu Pin</string>
+    <string name="power_optimize_battery_save_idea">Tối ưu pin</string>
     <string name="power_optimize_battery_save_more">Thêm</string>
     <string name="settings_battery_consume_abnormal_title">Thông báo hao pin</string>
     <string name="settings_battery_consume_abnormal_summary">Nhận thông báo khi pin bị hao quá nhanh</string>
@@ -731,7 +726,7 @@ Hoạt động này làm giảm tuổi thọ pin."</string>
     <string name="settings_category_other">Cài đặt khác</string>
     <string name="settings_choice_no_notification">Tắt</string>
     <string name="settings_power_save_ontime_title">Hẹn giờ</string>
-    <string name="power_save_mode_ontime_enabled">Hẹn giờ bật tắt chế độ Tiết kiệm Pin</string>
+    <string name="power_save_mode_ontime_enabled">Hẹn giờ bật tắt chế độ Tiết kiệm pin</string>
     <string name="power_save_mode_start_time">Bắt đầu</string>
     <string name="power_save_mode_end_time">Kết thúc</string>
     <string name="charging_text_battery_nearly_full">Sắp đầy pin</string>
@@ -847,7 +842,7 @@ Hoạt động này làm giảm tuổi thọ pin."</string>
     <string name="safepay_alert_dialog_button_fix">Sửa</string>
     <string name="safepay_alert_dialog_button_continue">Tiếp tục</string>
     <string name="safe_result_header_info_protecting">Đang bảo vệ</string>
-    <string name="safe_result_item_info_system_version">MIUI đã cập nhật phiên bản mới nhất</string>
+    <string name="safe_result_item_info_system_version">Hệ thống đã được cập nhật</string>
     <string name="safe_result_item_info_system_root">Bảo mật root</string>
     <string name="safe_result_item_info_system_scan">Giám sát thanh toán đã bật</string>
     <string name="safe_result_item_info_system_antivirus">Bảo vệ chống virus lừa đảo</string>
@@ -892,7 +887,7 @@ Hoạt động này làm giảm tuổi thọ pin."</string>
     <string name="sp_background_risk_type_sign">Ứng dụng không chính thức đang chạy</string>
     <string name="sp_background_risk_type_root">Hệ thống đã bị root</string>
     <string name="resource_securitycenter_settings">Bảo mật</string>
-    <string name="keywords_securitycenter_settings">Sử dụng pin, Quản lý tự động khởi động; Cài đặt qua USB, Cấp phép ứng dụng; Mua dữ liệu di động; Danh sách chặn, Sử dụng dữ liệu; Hiệu chỉnh gói dữ liệu; Mạng thử nghiệm; Tiết kiệm Pin, sưởi ấm, bật, tắt, pin, thoát nước, các vấn đề về pin, năng lượng, Tiết kiệm Pin, tiết kiệm năng lượng, tiết kiệm năng lượng, Tiết kiệm Pin; Tự động khởi động; Quyền; Tự động khởi động; Tự động khởi động MIUI; Tự động khởi động ứng dụng; tự khởi động ứng dụng; Bắt đầu chuỗi, bắt đầu chuỗi, bắt đầu kích hoạt; Cài đặt USB, cài đặt từ máy tính, cài đặt ADB; Địa điểm; Liên hệ truy cập; dữ liệu, dữ liệu di động, dữ liệu mua, dữ liệu nạp tiền, gói dữ liệu; Chặn; Danh sách đen; Danh sách chặn thông minh; Gian lận, Bán hàng, Đại lý; Danh sách chặn cuộc gọi; Danh sách chặn tin nhắn; Danh sách chặn tin nhắn; Danh sách chặn SMS, danh sách đen, danh sách đen, danh sách chặn, lừa đảo, chặn liên lạc; Giao thông; Hiệu chuẩn; Kết nối; Internet; Kiểm tra; Sử dụng pin, tối ưu hóa pin, sử dụng năng lượng; Trò chơi, tăng tốc, Vinh quang của nhà vua, Chế độ biểu diễn; Không làm phiền</string>
+    <string name="keywords_securitycenter_settings">Sử dụng pin, Quản lý tự động khởi động; Cài đặt qua USB, Cấp phép ứng dụng; Mua dữ liệu di động; Danh sách chặn, Sử dụng dữ liệu; Hiệu chỉnh gói dữ liệu; Mạng thử nghiệm; Tiết kiệm pin, sưởi ấm, bật, tắt, pin, thoát nước, các vấn đề về pin, năng lượng, Tiết kiệm pin, tiết kiệm năng lượng, tiết kiệm năng lượng, Tiết kiệm pin; Tự động khởi động; Quyền; Tự động khởi động; Tự động khởi động hệ thống; Tự động khởi động ứng dụng; tự khởi động ứng dụng; Bắt đầu chuỗi, bắt đầu chuỗi, bắt đầu kích hoạt; Cài đặt USB, cài đặt từ máy tính, cài đặt ADB; Địa điểm; Liên hệ truy cập; dữ liệu, dữ liệu di động, dữ liệu mua, dữ liệu nạp tiền, gói dữ liệu; Chặn; Danh sách đen; Danh sách chặn thông minh; Gian lận, Bán hàng, Đại lý; Danh sách chặn cuộc gọi; Danh sách chặn tin nhắn; Danh sách chặn tin nhắn; Danh sách chặn SMS, danh sách đen, danh sách đen, danh sách chặn, lừa đảo, chặn liên lạc; Giao thông; Hiệu chuẩn; Kết nối; Internet; Kiểm tra; Sử dụng pin, tối ưu hóa pin, sử dụng năng lượng; Trò chơi, tăng tốc, Vinh quang của nhà vua, Chế độ biểu diễn; Không làm phiền</string>
     <string name="path_securitycenter_settings">Ứng dụng hệ thống/Bảo mật</string>
     <string name="resource_securitycenter">Bảo mật</string>
     <string name="keywords_securitycenter">Bảo mật;Kiểm tra;Quét</string>
@@ -904,10 +899,10 @@ Hoạt động này làm giảm tuổi thọ pin."</string>
     <string name="keywords_antivirus">Virus;Nguy cơ;Diệt virus;Quét;Kiểm tra bảo mật thanh toán;bảo mật thanh toán;an toàn thanh toán,bảo vệ thanh toán;đã bảo vệ thanh toán;khu an toàn;khu thanh toán an toàn</string>
     <string name="path_antivirus">Ứng dụng hệ thống/Bảo mật/Quét virus</string>
     <string name="resource_powercenter">Tối ưu pin</string>
-    <string name="keywords_powercenter">Tiết kiệm Pin;Quá nóng;Bật;Tắt;Pin;Hao pin;Vấn đề pin;Năng lượng;Tiết kiệm Pin;Tiết kiệm năng lượng;Tiết kiệm năng lượng</string>
+    <string name="keywords_powercenter">Tiết kiệm pin;Quá nóng;Bật;Tắt;Pin;Hao pin;Vấn đề pin;Năng lượng;Tiết kiệm pin;Tiết kiệm năng lượng;Tiết kiệm năng lượng</string>
     <string name="path_powercenter">Ứng dụng hệ thống/Bảo mật/Tối ưu pin</string>
     <string name="resource_auto_restart">Quản lý tự khởi chạy</string>
-    <string name="keywords_auto_restart">Tự khởi chạy; Quyền; Quản lý tự khởi chạy; tự khởi chạy MIUI; tự khởi chạy ứng dụng;Liên tục khởi chạy;liên tục khởi chạy;đã kích hoạt khởi chạy</string>
+    <string name="keywords_auto_restart">Tự khởi chạy; Quyền; Quản lý tự khởi chạy; tự khởi chạy hệ thống; tự khởi chạy ứng dụng;Liên tục khởi chạy;liên tục khởi chạy;đã kích hoạt khởi chạy</string>
     <string name="path_auto_restart">Ứng dụng hệ thống/Bảo mật/Quyền/Tự khởi chạy</string>
     <string name="resource_usb_install">Cài đặt qua USB</string>
     <string name="keywords_usb_install">Cài đặt USB;cài đặt từ máy tính;Cài đặt ADB</string>
@@ -931,7 +926,7 @@ Hoạt động này làm giảm tuổi thọ pin."</string>
     <string name="keywords_networkassistant_4">Kết nối;Internet;Kiểm tra</string>
     <string name="path_networkassistant_4">Ứng dụng hệ thống/Bảo mật/Sử dụng dữ liệu/Kiểm tra mạng</string>
     <string name="resource_powercenter_powerrank">Pin &amp; hiệu suất</string>
-    <string name="keywords_powercenter_powerrank">Sử dụng Pin</string>
+    <string name="keywords_powercenter_powerrank">Sử dụng pin</string>
     <string name="path_powercenter_powerrank">Pin &amp; hiệu suất/Sử dụng pin</string>
     <string name="resource_gamebooster">Tăng tốc trò chơi</string>
     <string name="keywords_gamebooster">Trò chơi;tăng tốc;King of Glory;Chế độ hiệu suất;Không làm phiền;Trò chơi;Tốc độ chơi game;tăng tốc</string>
@@ -952,7 +947,7 @@ Hoạt động này làm giảm tuổi thọ pin."</string>
     <string name="menu_text_antispam">Danh sách chặn</string>
     <string name="menu_text_license_manager">Quyền</string>
     <string name="menu_text_garbage_cleanup">Trình dọn dẹp</string>
-    <string name="menu_text_power_manager">Tối ưu Pin</string>
+    <string name="menu_text_power_manager">Pin</string>
     <string name="menu_text_power_percent_title_default">Pin</string>
     <string name="last_check_canceled">Quét trước đó đã bị hủy bỏ</string>
     <string name="examination_score_100">Tất cả mọi thứ đều tốt!</string>
@@ -965,7 +960,7 @@ Hoạt động này làm giảm tuổi thọ pin."</string>
     <string name="activity_title_networkassistants">Sử dụng dữ liệu</string>
     <string name="activity_title_antispam">Danh sách chặn</string>
     <string name="activity_title_license_manager">Quyền</string>
-    <string name="activity_title_power_manager">Tối ưu Pin</string>
+    <string name="activity_title_power_manager">Tối ưu pin</string>
     <string name="activity_title_garbage_cleanup">Trình dọn dẹp</string>
     <string name="memory_check_content">Đã giải phóng %s</string>
     <string name="memory_clear_unused">Xóa bộ nhớ đệm (%s)</string>
@@ -1045,7 +1040,7 @@ Hoạt động này làm giảm tuổi thọ pin."</string>
     <string name="activity_title_apps_manager">Ứng dụng</string>
     <string name="activity_title_permissions_manager">Quyền</string>
     <string name="dialog_title_auto_start_declare">Giới thiệu tự khởi chạy</string>
-    <string name="dialog_msg_auto_start_declare">Một số ứng dụng có thể không chính xác khi chỉ ra rằng MIUI đã ngăn cản khởi chạy. Để kiểm tra các quyền đã được cấp cho các ứng dụng cá nhân, hãy vào Cài đặt> Ứng dụng.</string>
+    <string name="dialog_msg_auto_start_declare">Một số ứng dụng có thể không chính xác khi chỉ ra rằng hệ thống đã ngăn cản khởi chạy. Kiểm tra các quyền đã được cấp cho từng ứng dụng trong Cài đặt.</string>
     <string name="empty_title_perm_apps">Không có ứng dụng nào có quyền này.</string>
     <string name="reject_all">Chặn tất cả</string>
     <string name="prompt_all">Yêu cầu tất cả</string>
@@ -1121,7 +1116,7 @@ Hoạt động này làm giảm tuổi thọ pin."</string>
     <string name="summary_cloud_service">Đồng bộ ảnh, liên hệ, và nhiều thứ nữa trên tất cả các thiết bị của bạn</string>
     <string name="title_network_switch">Kết nối mạng</string>
     <string name="summary_network_switch">Cho phép ứng dụng Bảo mật kết nối internet</string>
-    <string name="title_power_optimizer">Tiết kiệm Pin</string>
+    <string name="title_power_optimizer">Tiết kiệm pin</string>
     <string name="summary_power_optimizer">Giảm hiệu suất thiết bị khi pin yếu</string>
     <string name="title_data_flow_monitor">Bật giám sát sử dụng dữ liệu</string>
     <string name="title_data_flow">Giám sát dữ liệu di động</string>
@@ -1155,8 +1150,8 @@ Hoạt động này làm giảm tuổi thọ pin."</string>
     <string name="title_cloud_space_full">Xiaomi Cloud đã đầy</string>
     <string name="summary_cloud_space_full">Thêm dung lượng lưu trữ và tính năng mới</string>
     <string name="title_auto_update">Cập nhật tự động</string>
-    <string name="summary_auto_update">MIUI sẽ chọn thời gian thích hợp nhất để tải xuống và cài đặt cập nhật.</string>
-    <string name="title_miui_update_latest">MIUI đã cập nhật phiên bản mới nhất</string>
+    <string name="summary_auto_update">Tính năng này sẽ chọn thời gian thích hợp nhất để tải xuống và cài đặt cập nhật.</string>
+    <string name="title_miui_update_latest">Hệ thống đã được cập nhật</string>
     <string name="title_miui_update">Tìm thấy phiên bản mới</string>
     <string name="summary_miui_update">Tìm thấy phiên bản mới cho %s.</string>
     <string name="title_virus_cloudscan">Quét virus Xiaomi Cloud</string>
@@ -1418,7 +1413,7 @@ Hoạt động này làm giảm tuổi thọ pin."</string>
     <string name="antivirus_website_check_title">Duyệt web an toàn</string>
     <string name="apn_exception_modify_summary">Điểm truy cập mặc định của nhà mạng không được sử dụng hoặc đã bị chỉnh sửa</string>
     <string name="apn_exception_wap_summary">WAP đang không ổn định. Chuyển sang NET.</string>
-    <string name="app_behavior_about_content_no_link">Để bảo vệ quyền riêng tư của dữ liệu riêng tư của người dùng, hệ thống MIUI sẽ hiển thị hệ thống và khởi động, khởi động, chuyển quyền và hồ sơ nhạy cảm của ứng dụng bên thứ ba dưới dạng bản ghi. Do hệ thống Android, có thể có lỗi trong bản ghi này. Nếu tìm thấy lỗi ghi hệ thống, vui lòng gửi nội dung lỗi cho chúng tôi thông qua Dịch vụ và phản hồi để giúp chúng tôi sửa lỗi chính xác của bản ghi.</string>
+    <string name="app_behavior_about_content_no_link">Hệ thống có thể hiển thị khi các ứng dụng khởi chạy các ứng dụng khác, tự khởi chạy, quyền được sử dụng và thực hiện các hành động nhạy cảm. Do vấn đề tương thích phiên bản Android, một số bản ghi có thể không chính xác. Nếu bạn tìm thấy bản ghi hành vi ứng dụng không chính xác, hãy báo cáo cho chúng tôi bằng ứng dụng \"Dịch vụ &amp; phản hồi\".</string>
     <string name="app_behavior_about_negative">Phản hồi</string>
     <string name="app_behavior_about_positive">Tôi biết</string>
     <string name="app_behavior_about_setting">Cài đặt</string>
@@ -1651,10 +1646,10 @@ Hoạt động này làm giảm tuổi thọ pin."</string>
     <string name="app_manager_permission_dcimcontrol_title">Truy cập Thư viện</string>
     <string name="app_manager_permission_manager_title">Quyền</string>
     <string name="app_manager_permission_notify_title">Thông báo</string>
-    <string name="app_manager_permission_power_saving_title">Tiết kiệm Pin</string>
+    <string name="app_manager_permission_power_saving_title">Tiết kiệm pin</string>
     <string name="app_manager_permission_startself_title">Tự khởi chạy</string>
     <string name="app_manager_permission_summary_reject">Chặn tất cả</string>
-    <string name="app_manager_powerkeeper_miui_auto">Tiết kiệm Pin</string>
+    <string name="app_manager_powerkeeper_miui_auto">Tiết kiệm pin</string>
     <string name="app_manager_powerkeeper_no_bg">Hạn chế hoạt động nền</string>
     <string name="app_manager_powerkeeper_no_restrict">Không hạn chế</string>
     <string name="app_manager_powerkeeper_restrict_bg">Hạn chế ứng dụng nền</string>
@@ -1684,7 +1679,7 @@ Hoạt động này làm giảm tuổi thọ pin."</string>
     <string name="app_manager_uninstall">Gỡ bỏ</string>
     <string name="app_manager_uninstall_button_text">Gỡ bỏ</string>
     <string name="app_manager_uninstall_notify_title">Gỡ ứng dụng ít sử dụng</string>
-    <string name="app_manager_uninstall_protected_dlg_msg">Gỡ bỏ ứng dụng hệ thống có thể dẫn đến một số chức năng MIUI hoạt động không bình thường. Vẫn tiếp tục gỡ?</string>
+    <string name="app_manager_uninstall_protected_dlg_msg">Gỡ cài đặt ứng dụng hệ thống có thể dẫn đến một số chức năng hệ thống hoạt động không bình thường. Vẫn tiếp tục gỡ?</string>
     <string name="app_manager_uninstall_protected_dlg_title">Gỡ bỏ ứng dụng hệ thống</string>
     <string name="app_manager_uninstall_with_xspace_app_dlg_msg">Ứng dụng kép tương ứng sẽ bị xóa cùng với dữ liệu ứng dụng.</string>
     <string name="app_manager_uninstall_xspace_app_dlg_msg">Gỡ bỏ ứng dụng kép sẽ xóa tất cả dữ liệu ứng dụng.</string>
@@ -1843,13 +1838,13 @@ Hoạt động lì xì Lễ hội mùa xuân, đừng bỏ lỡ phong bao lì x�
     <string name="auto_task_default_task_summary_driver_car">Bật điểm phát sóng di động khi được kết nối với hệ thống ô tô qua Bluetooth</string>
     <string name="auto_task_default_task_summary_listen_music">Phát nhạc và chọn loại tai nghe</string>
     <string name="auto_task_default_task_summary_noon_break">Lên lịch thời gian ngủ trưa và bật chế độ DND</string>
-    <string name="auto_task_default_task_summary_save_power">Bật Tiết kiệm Pin khi pin dưới 30%</string>
+    <string name="auto_task_default_task_summary_save_power">Bật Tiết kiệm pin khi pin dưới 30%</string>
     <string name="auto_task_default_task_summary_sleep">Lên lịch đi ngủ và tùy chỉnh hành vi của thiết bị</string>
     <string name="auto_task_default_task_summary_watch_video">Mở ứng dụng, bật Wi-Fi, điều chỉnh âm lượng</string>
     <string name="auto_task_default_task_title_driver_car">Lái xe</string>
     <string name="auto_task_default_task_title_listen_music">Nghe nhạc</string>
     <string name="auto_task_default_task_title_noon_break">Ngủ ngắn</string>
-    <string name="auto_task_default_task_title_save_power">Tiết kiệm Pin</string>
+    <string name="auto_task_default_task_title_save_power">Tiết kiệm pin</string>
     <string name="auto_task_default_task_title_sleep">Ngủ</string>
     <string name="auto_task_default_task_title_watch_video">Xem phim</string>
     <string name="auto_task_delete_task">Xóa nhiệm vụ</string>
@@ -1867,7 +1862,7 @@ Hoạt động lì xì Lễ hội mùa xuân, đừng bỏ lỡ phong bao lì x�
     <string name="auto_task_open_bluetooth">Bật Bluetooth</string>
     <string name="auto_task_open_wlan">Bật Wi-Fi</string>
     <string name="auto_task_please_select_item">Chọn mục</string>
-    <string name="auto_task_result_summary_text">Đặt nhiệm vụ tự động cho Tiết kiệm Pin</string>
+    <string name="auto_task_result_summary_text">Đặt nhiệm vụ tự động cho Tiết kiệm pin</string>
     <string name="auto_task_select_address_company">Cơ quan</string>
     <string name="auto_task_select_address_home">Nhà riêng</string>
     <string name="auto_task_select_address_leave">Thoát</string>
@@ -1896,7 +1891,7 @@ Hoạt động lì xì Lễ hội mùa xuân, đừng bỏ lỡ phong bao lì x�
     <string name="banner_optimizemanage_summary">Giải phóng bộ nhớ</string>
     <string name="banner_red_money_assist_button">Bật</string>
     <string name="banner_red_money_assist_summary">Mở phong bì nhanh hơn</string>
-    <string name="battery_and_property">Pin &amp; hiệu suất</string>
+    <string name="battery_and_property">Pin</string>
     <string name="battery_can_use_time">Còn lại %s</string>
     <string name="battery_desc_ambient_display">Năng lượng tiêu hao bởi Màn hình Luôn bật</string>
     <string name="battery_health_level_text">Tình trạng pin</string>
@@ -1904,10 +1899,10 @@ Hoạt động lì xì Lễ hội mùa xuân, đừng bỏ lỡ phong bao lì x�
     <string name="battery_low_button_open_power_save">Bật</string>
     <string name="battery_low_percent_format_save_mode_closed">Pin còn ít hơn %s. Đừng quên sạc thiết bị của bạn.</string>
     <string name="battery_low_percent_format_save_mode_closed_new_version">Pin yếu. Hãy sạc thiết bị.</string>
-    <string name="battery_low_percent_format_save_mode_open">Pin còn ít hơn %1$s. Bật Tiết kiệm Pin để thêm %2$s.</string>
-    <string name="battery_low_percent_format_save_mode_open_new_version">Bật Tiết kiệm Pin để thêm %s.</string>
+    <string name="battery_low_percent_format_save_mode_open">Pin còn ít hơn %1$s. Bật Tiết kiệm pin để thêm %2$s.</string>
+    <string name="battery_low_percent_format_save_mode_open_new_version">Bật Tiết kiệm pin để thêm %s.</string>
     <string name="battery_low_title">Pin yếu</string>
-    <string name="battery_low_title_power_save">Tiết kiệm Pin</string>
+    <string name="battery_low_title_power_save">Tiết kiệm pin</string>
     <string name="battery_statistics_activity_title">Thống kê sử dụng pin</string>
     <string name="battery_status_level_excellent">Xuất sắc</string>
     <string name="battery_status_level_good">Tốt</string>
@@ -1960,7 +1955,7 @@ Hoạt động lì xì Lễ hội mùa xuân, đừng bỏ lỡ phong bao lì x�
     <string name="gs_dialog_confirm_close_msg">Lối tắt sẽ bị xóa khỏi Màn hình chính. Vào Bảo mật > Cài đặt để khôi phục.</string>
     <string name="game_improve_title">Tối ưu hiệu suất</string>
     <string name="game_net_title">Tối ưu tốc độ kết nối</string>
-    <string name="save_energy_title">Tối ưu Pin</string>
+    <string name="save_energy_title">Tối ưu pin</string>
     <string name="dont_bore_title">Chế độ Không làm phiền</string>
     <string name="game_improve_text1">Dọn dẹp bộ nhớ đệm nền để giải phóng bộ nhớ khi chơi game</string>
     <string name="game_improve_text2">Dọn dẹp bộ nhớ đệm nền để giải phóng bộ nhớ khi chơi game và cải thiện hiệu suất GPU</string>
@@ -1979,14 +1974,14 @@ Hoạt động lì xì Lễ hội mùa xuân, đừng bỏ lỡ phong bao lì x�
     <string name="power_center_custom_title">Chế độ pin</string>
     <string name="power_center_auto_shutdown_summary_default">Hẹn giờ tự động tắt mở máy</string>
     <string name="power_center_custom_summary_default">Tối ưu thiết lập hệ thống kéo dài thời gian sử dụng pin</string>
-    <string name="power_center_low_battery_title">Tiết kiệm Pin</string>
+    <string name="power_center_low_battery_title">Tiết kiệm pin</string>
     <string name="power_center_low_battery_summary_default">Chuyển đổi chế độ sử dụng khi pin yếu</string>
     <string name="power_center_low_battery_summary_dynamic">Khi pin %1$d%% chuyển sang %2$s</string>
     <string name="power_center_on_time_title">Hẹn giờ chuyển đổi chế độ</string>
     <string name="power_center_on_time_summary_default">Hẹn giờ chuyển đổi chế độ sử dụng pin</string>
     <string name="power_center_on_time_summary_dynamic">%1$s - %2$s chuyển sang %3$s</string>
     <string name="power_center_consume_time">Còn lại %1$s</string>
-    <string name="power_center_battery_full">Đã sạc đầy Pin</string>
+    <string name="power_center_battery_full">Đã sạc đầy pin</string>
     <string name="power_chooser_title">Chế độ pin</string>
     <string name="bill_limit_notification_text_format">Thẻ: %1$s | Số dư: %2$s CNY</string>
     <string name="bill_limit_notification_title">Thiếu số dư</string>
@@ -2034,7 +2029,7 @@ Hoạt động lì xì Lễ hội mùa xuân, đừng bỏ lỡ phong bao lì x�
     <string name="power_mode_cpu_state_performance_desc">Ưu tiên hiệu suất hơn tuổi thọ Pin</string>
     <string name="power_mode_cpu_state_balance">Cân bằng</string>
     <string name="power_mode_cpu_state_balance_desc">Chỉ tăng hiệu suất của CPU khi cần thiết</string>
-    <string name="power_mode_cpu_state_save">Tiết kiệm Pin</string>
+    <string name="power_mode_cpu_state_save">Tiết kiệm pin</string>
     <string name="boost_done">Đã tăng tốc thành công</string>
     <string name="boost_stop">Tắt tăng tốc</string>
     <string name="booster_suc">Đã tăng tốc thành công</string>
@@ -2193,7 +2188,7 @@ Hoạt động lì xì Lễ hội mùa xuân, đừng bỏ lỡ phong bao lì x�
     <string name="power_dialog_cpu_state_performance_desc">Ưu tiên hiệu suất hơn tuổi thọ Pin</string>
     <string name="power_dialog_cpu_state_balance">Cân bằng</string>
     <string name="power_dialog_cpu_state_balance_desc">Chỉ tăng hiệu suất của CPU khi cần thiết</string>
-    <string name="power_dialog_cpu_state_save">Tiết kiệm Pin</string>
+    <string name="power_dialog_cpu_state_save">Tiết kiệm pin</string>
     <string name="choose_gs_show_way">Chọn hướng trang chủ</string>
     <string name="clean_immediately">Xóa</string>
     <string name="clean_master_icon_recall_button_text">Thêm</string>
@@ -2248,8 +2243,8 @@ Hoạt động lì xì Lễ hội mùa xuân, đừng bỏ lỡ phong bao lì x�
     <string name="power_dialog_delete_dialog_cannot_delete_is_my_mode">Thiết bị của bạn được thiết lập chuyển sang chế độ này khi pin yếu. Bạn cần thay đổi cài đặt pin của bạn trước khi bạn có thể xóa nó.</string>
     <string name="power_dialog_delete_dialog_cannot_delete_on_time">Thiết bị của bạn được hẹn giờ để chuyển sang chế độ này sau đó. Bạn cần phải thay đổi cài đặt pin trước khi bạn có thể xóa nó.</string>
     <string name="power_save_choose_mode">Chọn chế độ</string>
-    <string name="power_save_low_battery_title">Tiết kiệm Pin</string>
-    <string name="power_save_low_battery_auto_save_title">Tiết kiệm Pin</string>
+    <string name="power_save_low_battery_title">Tiết kiệm pin</string>
+    <string name="power_save_low_battery_auto_save_title">Tiết kiệm pin</string>
     <string name="power_save_low_battery_seekbar_title">Chuyển đổi chế độ pin khi mức pin còn lại thấp hơn %1$d%%</string>
     <string name="power_save_low_battery_option_title">Nếu pin yếu, chuyển sang</string>
     <string name="power_save_low_battery_option_summary">Khi mức pin trên giá trị mức pin thấp, thiết bị sẽ chuyển sang chế độ được dùng trước đó</string>
@@ -2281,10 +2276,10 @@ Hoạt động lì xì Lễ hội mùa xuân, đừng bỏ lỡ phong bao lì x�
     <string name="power_notify_lowbattery">Pin còn lại %1$d%%</string>
     <string name="power_recovery_mode">Đã hồi phục đến %1$s</string>
     <string name="copy">Sao chép</string>
-    <string name="power_subtitle_lowbattery">Chuyển chế độ sử dụng để Tiết kiệm Pin.</string>
+    <string name="power_subtitle_lowbattery">Chuyển chế độ sử dụng để Tiết kiệm pin.</string>
     <string name="create_gamebooster_destop">Tạo Lối tắt Màn hình chính thành công</string>
     <string name="create_shortcut">Tạo lối tắt Tăng tốc trò chơi trên Màn hình chính</string>
-    <string name="power_subtitle_ontime">Hẹn giờ Tiết kiệm Pin.</string>
+    <string name="power_subtitle_ontime">Hẹn giờ Tiết kiệm pin.</string>
     <string name="power_exitlowbattery_whencharge">Tắt khi cắm sạc</string>
     <string name="power_button_delete">Xóa</string>
     <string name="power_mode_my_mode">Chế độ của tôi</string>
@@ -2320,59 +2315,59 @@ Hoạt động lì xì Lễ hội mùa xuân, đừng bỏ lỡ phong bao lì x�
     <string name="cta_dialog_negative">Thoát</string>
     <string name="cta_dialog_positive">Đồng ý</string>
     <string name="cta_dialog_title">Kết nối Internet</string>
-    <string name="cta_main_purpose">Chào mừng tới Bảo mật! Bạn có thể dùng ứng dụng này để xóa rác trên thiết bị, tìm và diệt virus, tối ưu hiệu năng chơi game, Tiết kiệm Pin, quản lý ứng dụng và hơn thế nữa.</string>
+    <string name="cta_main_purpose">Chào mừng tới Bảo mật! Bạn có thể dùng ứng dụng này để xóa rác trên thiết bị, tìm và diệt virus, tối ưu hiệu năng chơi game, Tiết kiệm pin, quản lý ứng dụng và hơn thế nữa.</string>
     <string name="extreme_add_white_list_title">Ứng dụng chạy nền ngoại lệ</string>
     <string name="cta_settings">Cho phép kết nối internet</string>
     <string name="custom_define_permission_desc_android.permission.CALL_PHONE">Để sử dụng danh sách chặn và thực hiện cuộc gọi đến các liên hệ khẩn cấp khi có cảnh báo động đất</string>
-    <string name="extreme_power_save_description">"<li>Siêu Tiết kiệm Pin dừng tất cả hoạt động nền của một ứng dụng sau khi bạn rời khỏi ứng dụng và quay lại Màn hình chính. Ứng dụng này sẽ không gửi thông báo cho bạn hoặc nhận cập nhật.</li>"
-"<li>Nếu bạn muốn ứng dụng chạy trong nền, hãy khóa ứng dụng đó trong phần Gần đây hoặc thêm ứng dụng chạy nền ngoại lệ bên dưới. Có thể chạy lên đến 4 ứng dụng trong nền khi Siêu Tiết kiệm Pin được bật. </li>"
-"<li>Siêu Tiết kiệm Pin sẽ tắt NFC theo mặc định. Bạn có thể thay đổi điều này trong Cài đặt.</li>"
-"<li>Để đảm bảo bạn có thể sử dụng bình thường tất cả các tính năng của thiết bị, Siêu Tiết kiệm Pin sẽ tự động tắt khi pin của bạn sạc được 30%.</li>"</string>
+    <string name="extreme_power_save_description">"<li>Siêu Tiết kiệm pin dừng tất cả hoạt động nền của một ứng dụng sau khi bạn rời khỏi ứng dụng và quay lại Màn hình chính. Ứng dụng này sẽ không gửi thông báo cho bạn hoặc nhận cập nhật.</li>"
+"<li>Nếu bạn muốn ứng dụng chạy trong nền, hãy khóa ứng dụng đó trong phần Gần đây hoặc thêm ứng dụng chạy nền ngoại lệ bên dưới. Có thể chạy lên đến 4 ứng dụng trong nền khi Siêu Tiết kiệm pin được bật. </li>"
+"<li>Siêu Tiết kiệm pin sẽ tắt NFC theo mặc định. Bạn có thể thay đổi điều này trong Cài đặt.</li>"
+"<li>Để đảm bảo bạn có thể sử dụng bình thường tất cả các tính năng của thiết bị, Siêu Tiết kiệm pin sẽ tự động tắt khi pin của bạn sạc được 30%.</li>"</string>
     <string name="custom_define_permission_desc_android.permission.READ_CALL_LOG">Để hiển thị các cuộc gọi bị chặn trong lịch sử cuộc gọi của bạn</string>
     <string name="custom_define_permission_desc_android.permission.READ_CONTACTS">Để sử dụng danh sách chặn</string>
-    <string name="extreme_power_save_mode_summary">Siêu Tiết kiệm Pin hạn chế hoạt động nền, và dừng đồng bộ.</string>
+    <string name="extreme_power_save_mode_summary">Siêu Tiết kiệm pin hạn chế hoạt động nền, và dừng đồng bộ.</string>
     <string name="custom_define_permission_desc_android.permission.READ_SMS">Để sử dụng danh sách chặn và nhận dạng tin nhắn từ nhà cung cấp dịch vụ của bạn</string>
     <string name="custom_define_permission_desc_android.permission.SEND_SMS">Để sử dụng danh sách chặn và gửi tin nhắn hiệu chỉnh đến nhà cung cấp dịch vụ của bạn</string>
     <string name="custom_define_permission_desc_android.permission.WRITE_CALL_LOG">Để xóa tin nhắn khỏi danh sách chặn của bạn</string>
     <string name="first_aid_card_apn_button">Sửa</string>
-    <string name="custom_define_permission_desc_android.permission_group.LOCATION">Để cung cấp các tính năng liên quan đến vị trí của bạn trong Trung tâm cảnh báo MIUI, SOS khẩn cấp, Tiết kiệm Pin ứng dụng, trình quét bảo mật thanh toán và dịch vụ vị trí gần đúng</string>
+    <string name="custom_define_permission_desc_android.permission_group.LOCATION">Để cung cấp tính năng liên quan đến vị trí của bạn trong Trung tâm Cảnh báo, SOS khẩn cấp, Tiết kiệm pin ứng dụng và quét bảo mật thanh toán, và dịch vụ vị trí gần đúng</string>
     <string name="first_aid_card_apn_summary">APN đã được thay đổi. Sửa để có thể kết nối mạng.</string>
     <string name="custom_define_permission_desc_android.permission_group.STORAGE">Để gửi và nhận tệp tin</string>
     <string name="customizer_mode_user_define_name">Quy tắc của tôi</string>
     <string name="daily_card_setting_fragment_daily_card_brand">Nhà cung cấp</string>
     <string name="daily_card_setting_fragment_daily_card_brand_value">Chọn nhà cung cấp</string>
     <string name="daily_card_setting_fragment_daily_card_setting">Cài đặt gói dữ liệu hàng ngày</string>
-    <string name="daily_card_setting_fragment_daily_card_summary">MIUI sẽ đặt giới hạn dữ liệu và ứng dụng với không giới hạn dữ liệu theo nhà cung cấp mà bạn chọn. Nếu nhà cung cấp không được liệt kê, chọn \"Khác\" và thiết lập gói dữ liệu ngày theo cách thủ công</string>
+    <string name="daily_card_setting_fragment_daily_card_summary">Chúng tôi sẽ đặt giới hạn dữ liệu và ứng dụng với dữ liệu không giới hạn theo nhà cung cấp bạn chọn. Nếu nhà cung cấp của bạn không có trong danh sách, hãy chọn \"Khác\" và thiết lập gói dữ liệu hàng ngày theo cách thủ công.</string>
     <string name="daily_card_setting_fragment_daily_package">Hạn chế dữ liệu hàng ngày</string>
     <string name="daily_card_setting_fragment_month_package">Gói dữ liệu tháng</string>
     <string name="daily_card_setting_fragment_package_summary">Nếu gói dữ liệu ngày chứa một gói dữ liệu tháng, nó sẽ được sử dụng trước khi dùng gói dữ liệu ngày</string>
     <string name="first_aid_card_apn_title">Không thể kết nối mạng</string>
     <string name="first_aid_card_consume_power_button3">Tắt</string>
     <string name="first_aid_card_consume_power_button4">Tắt</string>
-    <string name="first_aid_card_consume_power_summary1">Hơn 5 ứng dụng được phép tự khởi chạy. Hạn chế để Tiết kiệm Pin.</string>
+    <string name="first_aid_card_consume_power_summary1">Hơn 5 ứng dụng được phép tự khởi chạy. Hạn chế để Tiết kiệm pin.</string>
     <string name="data_booster_desc">Dừng SIM khác để giữ kết nối ổn định</string>
     <string name="data_booster_title">Ổn định kết nối dữ liệu</string>
     <string name="data_local_processing_and_storage">Dữ liệu được lưu trữ và xử lý cục bộ</string>
     <string name="data_local_processing_and_storage_detail">Dữ liệu bạn nhập sẽ được lưu trữ và xử lý ở thiết bị và không được tải lên đám mây.</string>
-    <string name="data_usage_mobile_dialog_title">Bạn đã sử dụng 5GB dữ liệu di động. MIUI đã tắt dữ liệu di động.</string>
-    <string name="data_usage_protected_dialog_message">"MIUI đã tắt dữ liệu di động để ngăn bạn tạo ra phí bổ sung cho nhà cung cấp.
+    <string name="data_usage_mobile_dialog_title">Bạn đã sử dụng 5 GB dữ liệu di động. Dữ liệu di động đã bị tắt.</string>
+    <string name="data_usage_protected_dialog_message">"Hệ thống đã tắt dữ liệu di động để ngăn bạn tạo ra phí bổ sung cho nhà cung cấp.
 
 Nhà cung cấp dịch vụ của bạn có thể tính thêm phí nếu bạn bật lại dữ liệu di động."</string>
-    <string name="data_usage_protected_notify_message">MIUI đã tắt dữ liệu di động để chặn phát sinh phí từ nhà cung cấp.</string>
+    <string name="data_usage_protected_notify_message">Dữ liệu di động đã bị tắt để ngăn việc phát sinh thêm phí của nhà cung cấp dịch vụ.</string>
     <string name="data_usage_protected_notify_title">Bạn đã sử dụng 5GB dữ liệu di động</string>
     <string name="databooster_tips_message">Bật để giới hạn tất cả thẻ SIM ngoại trừ thẻ dữ liệu. Tắt tính năng này nếu xảy ra lỗi trong các trò chơi bạn chọn.</string>
     <string name="databooster_tips_title">Chú ý</string>
-    <string name="first_aid_card_consume_power_summary3">Tắt Bluetooth để Tiết kiệm Pin</string>
-    <string name="first_aid_card_consume_power_summary4">Tắt GPS để Tiết kiệm Pin</string>
+    <string name="first_aid_card_consume_power_summary3">Tắt Bluetooth để Tiết kiệm pin</string>
+    <string name="first_aid_card_consume_power_summary4">Tắt GPS để Tiết kiệm pin</string>
     <string name="first_aid_card_float_window_button">Chặn</string>
     <string name="date_picker_lunar">Lịch âm</string>
     <string name="date_time_picker_dialog_title">Đặt ngày và giờ</string>
     <string name="day_overflow_tips">Lưu lượng hàng ngày vượt quá ngưỡng nhắc nhở</string>
     <string name="debug_open_final_tip">Bật Gỡ lỗi USB?</string>
     <string name="debug_open_title">Tính năng này dành cho nhà phát triển và có thể không thuận tiện cho người dùng phổ thông. Bật gỡ lỗi USB có thể mang lại những thay đổi sau:</string>
-    <string name="deep_power_save_item_summary_auto_brightness">Tự động điều chỉnh độ sáng màn hình để Tiết kiệm Pin</string>
-    <string name="deep_power_save_item_summary_bluetooth">Tắt Bluetooth để Tiết kiệm Pin</string>
-    <string name="deep_power_save_item_summary_lock_screen_time_new">Đặt màn hình ở chế độ ngủ sau %d giây không hoạt động để Tiết kiệm Pin</string>
+    <string name="deep_power_save_item_summary_auto_brightness">Tự động điều chỉnh độ sáng màn hình để Tiết kiệm pin</string>
+    <string name="deep_power_save_item_summary_bluetooth">Tắt Bluetooth để Tiết kiệm pin</string>
+    <string name="deep_power_save_item_summary_lock_screen_time_new">Đặt màn hình ở chế độ ngủ sau %d giây không hoạt động để Tiết kiệm pin</string>
     <string name="deep_power_save_item_title_auto_brightness">Bật độ sáng tự động</string>
     <string name="deep_power_save_item_title_bluetooth">Tắt Bluetooth</string>
     <string name="deep_power_save_item_title_lock_screen_time">Tắt màn hình</string>
@@ -2405,8 +2400,8 @@ Nhà cung cấp dịch vụ của bạn có thể tính thêm phí nếu bạn b
     <string name="menu_summary_garbage_cleanup_3">Dọn dẹp rác ngay</string>
     <string name="midrop_post_notification_contentText">Thử Mi Drop. Nhanh và không có quảng cáo.</string>
     <string name="notification_exit_extreme_mode_text">Pin đã được sạc hơn %s</string>
-    <string name="notification_exit_extreme_mode_title">Đã tắt Siêu Tiết kiệm Pin</string>
-    <string name="notification_open_extreme_mode_text">Đã bật Siêu Tiết kiệm Pin</string>
+    <string name="notification_exit_extreme_mode_title">Đã tắt Siêu Tiết kiệm pin</string>
+    <string name="notification_open_extreme_mode_text">Đã bật Siêu Tiết kiệm pin</string>
     <string name="dialog_remobe_luckymoney_cancle">Sử dụng bản phát hành đơn</string>
     <string name="power_center_list_item_set_lockscreen_time">Đặt màn hình ngủ sau 30 giây không hoạt động</string>
     <string name="dialog_remove_luckymoney">phiên bản OS này đã hỗ trợ Trợ lý lì xì mức hệ thống. Có thể gỡ bỏ phiên bản hiện tại và vào Bảo mật để mở Trợ lý lì xì nhanh hơn và ổn định hơn không?</string>
@@ -2482,7 +2477,7 @@ Chúng sẽ được thêm vào danh sách ngoại lệ, nhưng các mục bị 
     <string name="dlg_summary_close_theme">Chủ đề động không hoạt động.</string>
     <string name="dlg_summary_close_wifi">Wi-Fi, Bluetooth, và điểm phát di động sẽ bị tắt.</string>
     <string name="dlg_summary_nfc">NFC sẽ được tắt.</string>
-    <string name="dlg_summary_title">Hoạt động nền sẽ bị hạn chế khi bạn rời khỏi ứng dụng hoặc quay trở lại Màn hình chính. Thêm ứng dụng vào ngoại lệ Tiết kiệm Pin để nó có thể chạy trong nền.</string>
+    <string name="dlg_summary_title">Hoạt động nền sẽ bị hạn chế khi bạn rời khỏi ứng dụng hoặc quay trở lại Màn hình chính. Thêm ứng dụng vào ngoại lệ Tiết kiệm pin để nó có thể chạy trong nền.</string>
     <string name="dlg_title_not_open_stranger_identify">ID Người gọi</string>
     <string name="dlg_update_btn_contiue">Tiếp tục</string>
     <string name="dlg_update_btn_open">Cho phép</string>
@@ -2517,7 +2512,7 @@ Chúng sẽ được thêm vào danh sách ngoại lệ, nhưng các mục bị 
     <string name="summary_rcs_switch">Gửi SMS cho người dùng China Mobile mà không phải trả phí phát sinh</string>
     <string name="title_rcs_switch">Bật Tin nhắn China Mobile</string>
     <string name="card_main_deepclean_facebook_title">Dọn dẹp Facebook</string>
-    <string name="deep_power_save_item_summary_lock_screen_time">Tắt màn hình sau 30 giây không hoạt động để Tiết kiệm Pin</string>
+    <string name="deep_power_save_item_summary_lock_screen_time">Tắt màn hình sau 30 giây không hoạt động để Tiết kiệm pin</string>
     <string name="om_promotion">Quảng cáo</string>
     <string name="shake_send_sticker">Lắc nào</string>
     <string name="edit_new_task_name">Tên</string>
@@ -2542,13 +2537,12 @@ Chúng sẽ được thêm vào danh sách ngoại lệ, nhưng các mục bị 
     <string name="app_permission_use_group_sms">Tin nhắn</string>
     <string name="app_permission_use_group_sms_des">Gửi, nhận và đọc tin nhắn</string>
     <string name="eletric_card_summary_5">Bảo vệ riêng tư</string>
-    <string name="cta_dialog_msg">&lt;Data>Bạn cần đồng ý với &lt;a href=\"http://www.miui.com/res/doc/privacy.html?region=%1$s&amp;amp;lang=%2$s\">Chính sách Riêng tư&lt;/a> của chúng tôi trước khi sử dụng Bảo mật. Bảo mật cũng cần kết nối mạng và truy cập vị trí của bạn để hoạt động bình thường và giữ cho nhận dạng quét virus được cập nhật. Đồng ý?&lt;/Data></string>
     <string name="function_shield_summary_m">Hạn chế Tự động độ sáng và cử chỉ chụp màn hình</string>
     <string name="third_desktop_dialog_ok">Đã hiểu</string>
     <string name="later">Xử lý sau</string>
     <string name="lucky_sound_mode_gold">Tiền vàng</string>
     <string name="lucky_sound_mode_no">Tắt tiếng</string>
-    <string name="power_save_ps_close_setting">Tắt các dịch vụ và tính năng có mức tiêu thụ điện năng cao (đồng bộ hóa, GPS, phản hồi xúc giác, \"Nhấc để đánh thức \", \"Chạm hai lần để đánh thức hoặc tắt màn hình\", \"Hiển thị biểu tượng vân tay khi màn hình tắt\") để Tiết kiệm Pin</string>
+    <string name="power_save_ps_close_setting">Tắt các dịch vụ và tính năng có mức tiêu thụ điện năng cao (đồng bộ hóa, GPS, phản hồi xúc giác, \"Nhấc để đánh thức \", \"Chạm hai lần để đánh thức hoặc tắt màn hình\", \"Hiển thị biểu tượng vân tay khi màn hình tắt\") để Tiết kiệm pin</string>
     <string name="app_manager_thumbnail_blur_summary">Làm mờ xem trước ứng dụng trong Gần đây</string>
     <string name="eletric_group_title_one_identification_risk_screen">Không hiển thị thông báo</string>
     <string name="app_manager_thumbnail_blur_title">Làm mờ xem trước ứng dụng</string>
@@ -2558,8 +2552,8 @@ Chúng sẽ được thêm vào danh sách ngoại lệ, nhưng các mục bị 
     <string name="system_permission_declare_revoke_path">Bạn có thể gỡ bỏ ứng dụng này, đăng xuất khỏi tài khoản, hoặc quản lý quyền và ủy quyền của bạn trong Bảo mật > Quản lý ứng dụng > Quyền > Quyền khác.</string>
     <string name="superpower_notification_hint_enter">Bật</string>
     <string name="superpower_notification_title">Pin còn ít hơn 10%</string>
-    <string name="superpower_settins_autoenter_summary">Tự động bật Siêu Tiết kiệm Pin khi pin chỉ còn 10%</string>
-    <string name="superpower_settins_autoleave_summary">Tự động tắt Siêu Tiết kiệm Pin khi pin đã sạc được 50%</string>
+    <string name="superpower_settins_autoenter_summary">Tự động bật Siêu Tiết kiệm pin khi pin chỉ còn 10%</string>
+    <string name="superpower_settins_autoleave_summary">Tự động tắt Siêu Tiết kiệm pin khi pin đã sạc được 50%</string>
     <string name="eletric_identification_unfamiliar_numbers">Nhận dạng số không xác định</string>
     <string name="privacy_apps_begin_use">Bắt đầu</string>
     <string name="privacy_apps_button_know">Đã hiểu</string>
@@ -2573,7 +2567,6 @@ Chúng sẽ được thêm vào danh sách ngoại lệ, nhưng các mục bị 
     <string name="system_permission_declare_revoke_uninstallable">Bạn có thể gỡ bỏ ứng dụng này hoặc quản lý quyền và xác thực trong Bảo mật > Quản lý ứng dụng > Quyền > Quyền khác.</string>
     <string name="email">Email</string>
     <string name="ew_alert_help_place_text">Nếu cần thiết, đến nơi trú ẩn gần nhất để đảm bảo an toàn và nhận được sự trợ giúp.</string>
-    <string name="ew_china_version_first_start_network_msg">Tính năng này cung cấp cho bạn chức năng cảnh báo động đất. Nó sẽ thông báo cho bạn về các trận động đất sắp tới và phát âm thanh cảnh báo. Bạn sẽ có thể tìm nơi trú ẩn gần nhất, gọi cho người liên hệ khẩn cấp và xuất trình thẻ y tế nếu được yêu cầu. &lt;br>Chúng tôi sẽ bảo vệ thông tin cá nhân của bạn theo luật, quy định và chính sách bảo mật có liên quan. &lt;br>Để có thể hoạt động bình thường, tính năng này yêu cầu các quyền sau để thu thập thông tin cá nhân của bạn: &lt;br>• Thông tin vị trí: &lt;br>Để truy cập vị trí của bạn và cung cấp các cảnh báo động đất chính xác. &lt;br>Nếu bạn không đồng ý cấp các quyền đó hoặc chia sẻ và tải lên thông tin cá nhân của mình, bạn sẽ không thể sử dụng tính năng này. Bạn có thể chọn tắt hoặc không bật tính năng này trong những trường hợp như vậy. &lt;br>Bạn phải đọc và đồng ý với&lt;a href=\"http://api.sec.miui.com/res/docs/disclaimer/privacy/earthquake_alert?region=%1$s&amp;lang=%2$s\">Chính sách Riêng tư&lt;/a> của chúng tôi trước khi sử dụng tính năng này.</string>
     <string name="ew_alert_help_place_title">Nơi trú ẩn xung quanh</string>
     <string name="ew_guide_statement_text">Điều khoản miễn trừ này áp dụng cho tất cả người dùng có chức năng cảnh báo động đất (sau đây gọi là bạn). Khi bạn đồng ý với điều khoản này, điều khoản này thể hiện mối quan hệ giữa bạn và Xiaomi Technology Co., Ltd. và các chi nhánh của (sau đây gọi là Xiaomi) tạo thành một tài liệu ràng buộc pháp lý. Bạn xác nhận rằng bạn đã đọc chi tiết tất cả nội dung của điều khoản miễn trừ này, bạn hoàn toàn hiểu và đồng ý với tất cả nội dung của điều khoản miễn trừ này, nếu bạn không đồng ý với nội dung của điều khoản miễn trừ này thì bạn nên tắt ngay chức năng cảnh báo động đất. Theo các luật và quy định liên quan, Xiaomi sẽ cung cấp cho bạn các dịch vụ cảnh báo sớm dựa trên phạm vi khu vực giám sát cảnh báo sớm động đất do các cơ quan liên quan thực hiện. Tức là khi bật chức năng cảnh báo động đất, bạn có thể nhận được các dịch vụ cảnh báo động đất tại các khu vực trên. Đối với các khu vực hiện đang cung cấp dịch vụ cảnh báo sớm động đất, vui lòng kiểm tra trong mô-đun [Quản lý đô thị]. Các khu vực cảnh báo sớm sẽ dần được bổ sung trong tương lai, vì vậy hãy chú ý theo dõi! Vì sự an toàn của bạn, Xiaomi cung cấp các mô-đun chức năng liên quan trong trung tâm an toàn để hiển thị cho bạn thông tin cảnh báo động đất. Bạn hiểu rằng thông tin cảnh báo sớm động đất được cung cấp bởi Viện nghiên cứu giảm nhẹ thiên tai công nghệ cao Thành Đô và Xiaomi không có bất kỳ quyền kiểm soát nào đối với thông tin đó. Xiaomi không hứa hẹn hoặc đảm bảo tính chính xác, hiệu quả và kịp thời của thông tin cảnh báo sớm, cũng như không đảm bảo rằng dịch vụ cảnh báo sớm động đất có thể đáp ứng mọi nhu cầu của bạn. Việc nhận thông tin cảnh báo động đất đòi hỏi bạn phải giữ cho mạng điện thoại di động của mình hoạt động bình thường, không nhận được hoặc nhận không kịp do bên thứ ba như lỗi đường truyền, sự cố kỹ thuật, mạng, hỏng thiết bị đầu cuối, hệ thống không ổn định và các lý do bất khả kháng khác Xiaomi sẽ không chịu bất kỳ trách nhiệm nào về mọi tổn thất phải chịu. Bạn hiểu rằng dịch vụ cảnh báo sớm động đất chỉ mang tính chất tham khảo để bạn đánh giá rủi ro an toàn và đưa ra quyết định an toàn. Cảnh báo sớm động đất chỉ có thể cung cấp thời gian cảnh báo sớm từ vài giây đến hàng chục giây. Bạn chịu trách nhiệm với các rủi ro và hậu quả của bất kỳ hành động nào bạn thực hiện dựa trên dịch vụ cảnh báo sớm động.</string>
     <string name="ew_alert_arrive_location">Sóng địa chấn đến trong %s</string>
@@ -2587,7 +2580,7 @@ Kết nối cả điện thoại và màn hình ngoài (v.d. TV của bạn) và
 3. Nếu bạn muốn dùng thiết bị không phải Xiaomi, nhưng không thể tìm thấy nó trong danh sách thiết bị khả dụng, thử cách dưới đây:
 Kết nối cả điện thoại và màn hình mở rộng của bạn (v.d. TV của bạn) vào cùng một mạng Wi-Fi. hoặc kết nối màn hình mở rộng vào điểm phát của điện thoại."</string>
     <string name="cta_close_dialog_ok">Hạn chế</string>
-    <string name="enable_extreme_power_save_mode">Siêu Tiết kiệm Pin</string>
+    <string name="enable_extreme_power_save_mode">Siêu Tiết kiệm pin</string>
     <string name="permgroupdesc_camera">Chụp ảnh và quay video</string>
     <string name="enter">Nhập</string>
     <string name="permgroupdesc_location">Truy cập thông tin vị trí</string>
@@ -2631,7 +2624,7 @@ Kết nối cả điện thoại và màn hình mở rộng của bạn (v.d. TV
     <string name="ew_concern_manage">Quản lý hội nghị</string>
     <string name="privacy_description_mic">%1s đang sử dụng micro dưới nền. Bạn có thể gạt nút bên dưới để hạn chế hoạt động này.</string>
     <string name="ew_contact_dialog_title">Chú ý</string>
-    <string name="power_save_ps_close_setting_5g">Tắt các dịch vụ và tính năng có mức tiêu thụ điện năng cao (đồng bộ hóa, kết nối mạng 5G, GPS, phản hồi xúc giác, \"Nhấc để đánh thức\", \"Chạm hai lần để đánh thức hoặc tắt màn hình\", \"Hiển thị biểu tượng vân tay khi màn hình tắt\") để Tiết kiệm Pin</string>
+    <string name="power_save_ps_close_setting_5g">Tắt các dịch vụ và tính năng có mức tiêu thụ điện năng cao (đồng bộ hóa, kết nối mạng 5G, GPS, phản hồi xúc giác, \"Nhấc để đánh thức\", \"Chạm hai lần để đánh thức hoặc tắt màn hình\", \"Hiển thị biểu tượng vân tay khi màn hình tắt\") để Tiết kiệm pin</string>
     <string name="ew_emergency_allergy">Dị ứng</string>
     <string name="ew_emergency_basic_info">Thông tin cơ bản</string>
     <string name="ew_emergency_birthday">Ngày sinh</string>
@@ -2855,8 +2848,8 @@ Video sẽ được lưu trong Tăng tốc Trò chơi > Khoảnh khắc quan tr�
     <string name="exo_track_unknown">Không xác định</string>
     <string name="expand_button_title">Nâng cao</string>
     <string name="exposed_dropdown_menu_content_description">Hiển thị menu</string>
-    <string name="extreme_power_save_mode_card_summary">Bật chế độ Siêu Tiết kiệm Pin để Tiết kiệm Pin khi pin yếu.</string>
-    <string name="extreme_power_save_mode_title">Siêu Tiết kiệm Pin</string>
+    <string name="extreme_power_save_mode_card_summary">Bật chế độ Siêu Tiết kiệm pin để Tiết kiệm pin khi pin yếu.</string>
+    <string name="extreme_power_save_mode_title">Siêu Tiết kiệm pin</string>
     <string name="app_behavior_key_camera">Máy ảnh</string>
     <string name="app_behavior_notification_camera_two" formatted="false">%1s vaf %2s đang chụp ảnh</string>
     <string name="face_unlock_be_on_the_screen">Đặt thiết bị trước mặt bạn</string>
@@ -2917,7 +2910,7 @@ Video sẽ được lưu trong Tăng tốc Trò chơi > Khoảnh khắc quan tr�
     <string name="first_aid_card_airplane_title">Không thể thực hiện cuộc gọi hoặc kết nối mạng</string>
     <string name="first_aid_card_consume_power_button1">Chặn</string>
     <string name="first_aid_card_consume_power_button2">Tắt</string>
-    <string name="first_aid_card_consume_power_summary2">Tắt điểm phát sóng di động để Tiết kiệm Pin</string>
+    <string name="first_aid_card_consume_power_summary2">Tắt điểm phát sóng di động để Tiết kiệm pin</string>
     <string name="power_off_warning_button_ok">Đã hiểu</string>
     <string name="first_aid_card_consume_power_title">Sử dụng pin</string>
     <string name="first_aid_card_kadun_button1">Giải phóng dung lượng</string>
@@ -2956,10 +2949,10 @@ Video sẽ được lưu trong Tăng tốc Trò chơi > Khoảnh khắc quan tr�
     <string name="first_aid_scanning_item5">Đang kiểm tra vấn đề khác…</string>
     <string name="first_aid_stop_scan">Dừng quét</string>
     <string name="privacy_dialog_ok_with_num">Đã hiểu (%s giây)</string>
-    <string name="privacy_dialog_call_message">Mặc định, MIUI không cho phép ứng dụng bên thứ ba thực hiện:</string>
+    <string name="privacy_dialog_call_message">Theo mặc định, hệ thống không cho phép các ứng dụng của bên thứ ba thực hiện các thao tác sau:</string>
     <string name="privacy_pop_location">Đã truy cập vị trí hôm nay</string>
     <string name="first_settings_share_enable">Thêm nhãn \"Chia sẻ an toàn\"</string>
-    <string name="first_settings_share_enable_subtitle">Mục bạn chia sẻ lên WeChat sẽ hiển thị với nhãn MIUI</string>
+    <string name="first_settings_share_enable_subtitle">Các mục bạn chia sẻ trên WeChat sẽ xuất hiện với biểu tượng</string>
     <string name="first_settings_subtitle">Đây là các tùy chọn chia sẻ an toàn khả dụng cho bạn:</string>
     <string name="first_settings_title">Bảo vệ sự riêng tư của bạn</string>
     <string name="fixed_cellular_data_quota_monthly">Giới hạn dữ liệu hàng tháng</string>
@@ -3043,7 +3036,7 @@ Video sẽ được lưu trong Tăng tốc Trò chơi > Khoảnh khắc quan tr�
     <string name="friday_short">Th 6</string>
     <string name="friday_shortest">Th 6</string>
     <string name="privacy_empty_contact">Không truy cập liên hệ hôm nay</string>
-    <string name="privacy_dialog_camera_message">Để bảo vệ sự riêng tư của bạn, MIUI không cho phép ứng dụng sử dụng máy ảnh dưới nền.</string>
+    <string name="privacy_dialog_camera_message">Để bảo sự riêng tư của bạn, hệ thống không cho phép các ứng dụng sử dụng camera trong nền.</string>
     <string name="fully_informed_privacy">Nhận thức về quyền riêng tư</string>
     <string name="privacy_dialog_call_title">Bảo vệ cuộc gọi</string>
     <string name="function_auto_reject_title">Từ chối cuộc gọi VoLTE đến thẻ SIM không có dịch vụ dữ liệu</string>
@@ -3084,7 +3077,7 @@ Video sẽ được lưu trong Tăng tốc Trò chơi > Khoảnh khắc quan tr�
     <string name="game_manual_record_setting_peace">An bình</string>
     <string name="game_manual_record_setting_setting">Thông tin về tính năng này</string>
     <string name="game_manual_record_setting_title">Khoảnh khắc quan trọng</string>
-    <string name="game_more_improve">Giới hạn hoạt động nền và tốc độ tải xuống để Tiết kiệm Pin và băng thông cho trò chơi</string>
+    <string name="game_more_improve">Giới hạn hoạt động nền và tốc độ tải xuống để Tiết kiệm pin và băng thông cho trò chơi</string>
     <string name="game_setting">Cài đặt trò chơi</string>
     <string name="game_video_net_data">Dữ liệu di động</string>
     <string name="game_video_network_eror">Không thể kết nối mạng. Kiểm tra cài đặt mạng của bạn và thử lại.</string>
@@ -3098,7 +3091,6 @@ Video sẽ được lưu trong Tăng tốc Trò chơi > Khoảnh khắc quan tr�
     <string name="gamebooster_network_dialog_title">Vài tính năng không khả dụng</string>
     <string name="privacy_empty_record">Không ghi âm hôm nay</string>
     <string name="privacy_app_behavior_summary">Tự khởi chạy, quyền và hơn nữa</string>
-    <string name="privacy_guide_permission_use_text">MIUI sẽ đếm và hiển thị số lần ứng dụng sử dụng các quyền nhạy cảm, bao gồm vị trí, liên lạc, lịch sử cuộc gọi và quyền truy cập bộ nhớ, cũng như ghi lại âm thanh. Bạn có thể tìm hiểu số lần mỗi ứng dụng sử dụng các quyền này và xác định xem bạn có cần điều chỉnh cài đặt quyền của mình không.</string>
     <string name="gamebox_app_not_find">Cài đặt ứng dụng trước.</string>
     <string name="gamebox_brightness">Độ sáng</string>
     <string name="gamebox_browser_not_find">Cài đặt Trình duyệt Mi trước</string>
@@ -3193,7 +3185,7 @@ Video sẽ được lưu trong Tăng tốc Trò chơi > Khoảnh khắc quan tr�
     <string name="privacy_app_permission_manage_title">Quản lý quyền</string>
     <string name="privacy_dialog_camera_title">Hạn chế sử dụng máy ảnh dưới nền</string>
     <string name="privacy_permission_location">Truy cập vị trí</string>
-    <string name="privacy_dialog_danger_mission_message">Android có nhiều quyền có rủi ro cao (ví dụ: quyền gửi thông báo đẩy cho bạn). Để bảo vệ quyền riêng tư của bạn, MIUI sẽ hỏi bạn có cho phép hành vi đó không và cung cấp các tùy chọn hạn chế.</string>
+    <string name="privacy_dialog_danger_mission_message">Android cho phép nhiều quyền có tính rủi ro cao (Ví dụ: quyền gửi thông báo đẩy cho bạn). Để bảo vệ quyền riêng tư, hệ thống sẽ hỏi bạn có cho phép hành động đó hay không và cung cấp tùy chọn hạn chế.</string>
     <string name="privacy_using_camera">Đang sử dụng máy ảnh</string>
     <string name="privacy_using_location">Truy cập vị trí</string>
     <string name="privacy_dialog_call_item_1">Truy cập thông tin thiết bị</string>
@@ -3326,7 +3318,7 @@ Ghi lại các trình tự và sử dụng chúng bất cứ lúc nào!"</string
     <string name="limit_speed_by_quota">Lưu lượng sử dụng không giới hạn, tốc độ sẽ bị giảm nếu vượt quá ngưỡng</string>
     <string name="set_package_tips_detail">Thông tin nhà mạng, số điện thoại di động, số IMEI và Tài khoản Mi bạn đã điền sẽ được mã hóa và tải lên máy chủ Xiaomi.</string>
     <string name="select_province_and_city">Vui lòng chọn một tỉnh</string>
-    <string name="vb_fps_settings_tips">Tính năng này điều chỉnh tốc độ làm tươi màn hình thành tốc độ khung hình video, giúp Tiết kiệm Pin và phát lại mượt mà. Bật nhận xét nổi sẽ tắt tốc độ làm mới tự động.</string>
+    <string name="vb_fps_settings_tips">Tính năng này điều chỉnh tốc độ làm tươi màn hình thành tốc độ khung hình video, giúp Tiết kiệm pin và phát lại mượt mà. Bật nhận xét nổi sẽ tắt tốc độ làm mới tự động.</string>
     <string name="make_sure_package_type">Xác nhận loại lưu lượng truy cập của bạn</string>
     <string name="not_settled">Chưa đặt</string>
     <string name="settings_privacy_revoke_title">Điều khoản và Điều kiện</string>
@@ -3466,7 +3458,7 @@ Ghi lại các trình tự và sử dụng chúng bất cứ lúc nào!"</string
     <string name="pp_app_del_img_intercept_detail">Nhận thông báo khi ứng dụng xóa các mục khỏi Thư viện mà không có sự cho phép của bạn</string>
     <string name="privacy_risk_detection_title">Phát hiện rủi ro về quyền riêng tư</string>
     <string name="gb_voice_changer_setting_realtime_title">Phản hồi thời gian thực</string>
-    <string name="power_optimize_darkmode_extend_summary">Chế độ tối thay đổi bảng màu của giao diện người dùng hệ thống và các ứng dụng được chọn cho phép bạn Tiết kiệm Pin và giảm mỏi mắt</string>
+    <string name="power_optimize_darkmode_extend_summary">Chế độ tối thay đổi bảng màu của giao diện người dùng hệ thống và các ứng dụng được chọn cho phép bạn Tiết kiệm pin và giảm mỏi mắt</string>
     <string name="power_optimize_prohibit_app_autostart">"Không cho phép ứng dụng tự khởi chạy"</string>
     <string name="privacy_risk_sensitive_call_records">Cho phép các ứng dụng truy cập hoặc chỉnh sửa lịch sử cuộc gọi</string>
     <string name="privacy_risk_dangerous_notice_msg">Cho phép ứng dụng đọc và quản lý thông báo</string>
@@ -3493,7 +3485,7 @@ Ghi lại các trình tự và sử dụng chúng bất cứ lúc nào!"</string
     <string name="special_perm_intercept_app_title">Đọc tất cả thông báo</string>
     <string name="special_perm_note_title">Gửi SMS trả phí</string>
     <string name="privacy_risk_space_uninstall_dialog_msg">Gỡ bỏ các ứng dụng đã chọn bao gồm các ứng dụng Kép của chúng？</string>
-    <string name="notification_power_consume_suggest_summary">Khắc phục sự cố để Tiết kiệm Pin</string>
+    <string name="notification_power_consume_suggest_summary">Khắc phục sự cố để Tiết kiệm pin</string>
     <string name="special_perm_intercept_psd_title">Theo dõi và điều khiển khóa màn hình</string>
     <string name="power_optimize_darkmode_dialog_title">Bật Chế độ tối</string>
     <string name="power_center_battery_level">Đã sạc %s</string>
@@ -3522,7 +3514,7 @@ Ghi lại các trình tự và sử dụng chúng bất cứ lúc nào!"</string
     <string name="special_perm_intercept_screen_msg">Theo dõi và ghi lại tất cả nội dung hiển thị trên màn hình</string>
     <string name="power_center_battery_app_detail">Sử dụng pin ứng dụng</string>
     <string name="permission_instruction_touch_pay">Quyền này cho phép các ứng dụng thực hiện thanh toán không tiếp xúc.</string>
-    <string name="power_center_list_item_set_lockscreen_time_summary">Khóa thiết bị của bạn nhanh hơn giúp Tiết kiệm Pin</string>
+    <string name="power_center_list_item_set_lockscreen_time_summary">Khóa thiết bị của bạn nhanh hơn giúp Tiết kiệm pin</string>
     <string name="special_perm_control_notice_title">Đọc và điều khiển thông báo</string>
     <string name="special_perm_app_msg">Cho phép các ứng dụng xác định xem chúng chỉ nên được sử dụng làm ứng dụng công việc</string>
     <string name="permission_instruction_send_sms">Quyền này cho phép các ứng dụng gửi tin nhắn văn bản, điều này có thể phát sinh thêm phí. Các ứng dụng độc hại có thể sử dụng quyền này để gửi tin nhắn trả phí mà không có sự đồng ý của bạn.</string>
@@ -3557,7 +3549,7 @@ và khám phá Đổi giọng nói!"</string>
     <string name="special_perm_file_msg">Cho phép các ứng dụng truy cập tất cả các tệp trên thiết bị này</string>
     <string name="special_perm_intercept_system_title">"Ảnh hưởng đến tính bảo mật và ổn định của hệ thống"</string>
     <string name="permission_instruction_call_phone">"Quyền này cho phép các ứng dụng thực hiện các cuộc gọi không mong muốn, điều này có thể phát sinh thêm phí. Lưu ý rằng quyền này không cho phép các ứng dụng gọi đến các số điện thoại khẩn cấp. Các ứng dụng độc hại có thể sử dụng quyền này để thực hiện cuộc gọi trả phí mà không có sự đồng ý của bạn."</string>
-    <string name="pp_app_reads_clipboard_smart_reminder_detail">"MIUI sẽ quyết định liệu các ứng dụng có được phép truy cập vào khay nhớ tạm của bạn hay không. Khi họ làm vậy, bạn sẽ nhận được thông báo."</string>
+    <string name="pp_app_reads_clipboard_smart_reminder_detail">"Thiết bị của bạn sẽ quyết định xem các ứng dụng có được phép truy cập vào khay nhớ tạm của bạn hay không. Khi chúng làm như vậy, bạn sẽ nhận được thông báo."</string>
     <string name="privacy_dialog_content_part3">"Đọc và đồng ý với &lt;a href=\"%2$s\">Thỏa thuận Người dùng&lt;/a> và &lt;a href=\"%1$s\">Chính sách Riêng tư&lt;/a> của chúng tôi trước khi sử dụng Bảo mật. Nếu bạn không đồng ý sử dụng các dịch vụ nói trên, bạn sẽ không thể sử dụng một số tính năng của ứng dụng này; tuy nhiên, chức năng cơ bản của nó vẫn sẽ khả dụng cho bạn."</string>
     <string name="permission_instruction_write_clipboard">Quyền này cho phép các ứng dụng lưu các mục vào khay nhớ tạm. Thư rác có thể ảnh hưởng đến việc sử dụng khay nhớ tạm thời bình thường của bạn.</string>
     <string name="special_perm_install_msg">Cho phép ứng dụng cài đặt ứng dụng từ các nguồn không xác định</string>
@@ -3626,7 +3618,7 @@ và khám phá Đổi giọng nói!"</string>
     <string name="permission_instruction_nfc">Quyền này cho phép các ứng dụng giao tiếp với thẻ và thiết bị NFC.</string>
     <string name="pp_optional_protection_function">Các biện pháp bảo vệ tùy chọn</string>
     <string name="gb_voice_changer_toast_window_vip_expire">Đăng ký của bạn sắp hết hạn. Gia hạn đăng ký ngay bây giờ để nhận các lợi ích!</string>
-    <string name="power_center_battery_charge_night">Tiết kiệm Pin khi sạc vào ban đêm</string>
+    <string name="power_center_battery_charge_night">Tiết kiệm pin khi sạc vào ban đêm</string>
     <string name="gb_voice_changer_toast_window_new_tips">"Thử Đổi giọng nói!
 Chuyển đổi giữa các ký tự khác nhau và các hiệu ứng đặc biệt."</string>
     <string name="pp_safe_share_img_detail">Chia sẻ ảnh mà không có thông tin vị trí và siêu dữ liệu</string>
@@ -3670,7 +3662,7 @@ Chuyển đổi giữa các ký tự khác nhau và các hiệu ứng đặc bi�
     <string name="special_perm_app_title">Liên kết ứng dụng công việc với ứng dụng cá nhân</string>
     <string name="traffic_correction_failed_tips">"Không thể kiểm tra gói dữ liệu. Đảm bảo cài đặt nhà cung cấp dịch vụ là chính xác hoặc đặt gói của bạn theo cách thủ công."</string>
     <string name="privacy_risk_result_photo_sensitive">Ảnh của bạn chứa thông tin cá nhân</string>
-    <string name="permission_instruction_sociality">Để bảo vệ quyền riêng tư của bạn, MIUI cho phép bạn quyết định xem bạn có cho phép các ứng dụng có quyền lưu trữ truy cập tin nhắn của bạn trong các ứng dụng mạng xã hội hay không.</string>
+    <string name="permission_instruction_sociality">Nếu bạn cho phép ứng dụng truy cập tập tin trong thư mục riêng của chúng, hệ thống cho phép bạn quyết định xem bạn có muốn ứng dụng này truy cập tập tin được tạo từ ứng dụng mạng xã hội để bảo vệ quyền riêng tư hay không. Vì ứng dụng có API Android cấp 29 trở lên đã hỗ trợ phân vùng lưu trữ, nên tùy chọn này không được hỗ trợ.</string>
     <string name="pp_app_warning_permission_tips_detail">Nhận thông báo khi ứng dụng truy cập vị trí của bạn, ghi âm hoặc sử dụng máy ảnh</string>
     <string name="special_perm_intercept_title">"\"%s\" là một quyền rất nhạy cảm. Nếu bạn cấp quyền này, thông tin cá nhân của bạn có thể bị rò rỉ và tài sản của bạn có thể gặp rủi ro. Đây là những gì ứng dụng sẽ được phép làm:"</string>
     <string name="permission_instruction_use_sip">Quyền này cho phép các ứng dụng sử dụng dịch vụ video SIP.</string>
@@ -3679,7 +3671,7 @@ Chuyển đổi giữa các ký tự khác nhau và các hiệu ứng đặc bi�
     <string name="read_clipboard_op_content">"Thay vì chỉ cấp quyền khi bạn đang sử dụng ứng dụng, bạn sẽ nhận được thông báo mỗi khi ứng dụng truy cập khay nhớ tạm của bạn."</string>
     <string name="power_optimize_reduce_fps">Giảm tốc độ làm tươi màn hình xuống %d Hz</string>
     <string name="gb_voice_changer_trial_gender_dialog">Đã nhận được bản dùng thử miễn phí thành công! Chọn giới tính để điều chỉnh các hiệu ứng và khuyến nghị cho phù hợp.</string>
-    <string name="permission_instruction_gallery">Để bảo vệ quyền riêng tư của bạn, MIUI cho phép bạn quyết định xem bạn có cho phép các ứng dụng có quyền lưu trữ truy cập Thư viện hay không.</string>
+    <string name="permission_instruction_gallery">Nếu bạn cho phép ứng dụng truy cập tập tin trong thư mục riêng của chúng, hệ thống cho phép bạn quyết định xem bạn có muốn ứng dụng này truy cập vào mục trong Thư viện để bảo vệ quyền riêng tư hay không. Vì ứng dụng có API Android cấp 29 trở lên đã hỗ trợ phân vùng lưu trữ, nên tùy chọn này không được hỗ trợ.</string>
     <string name="privacy_risk_dangerous_manager_msg">Cho phép các ứng dụng kiểm soát một phần thiết bị của bạn</string>
     <string name="special_perm_above_title">Hiển thị các mục trên các ứng dụng khác</string>
     <string name="power_center_battery_hardware">Phần cứng %s</string>
@@ -3693,7 +3685,7 @@ Chuyển đổi giữa các ký tự khác nhau và các hiệu ứng đặc bi�
     <string name="read_clipboard_op_title">Thông báo khi ứng dụng truy cập các mục trong khay nhớ tạm</string>
     <string name="pp_app_permission_settings_detail">Cho phép ứng dụng sử dụng các quyền liên quan đến quyền riêng tư</string>
     <string name="permission_instruction_change_wifi_state">Quyền này cho phép các ứng dụng bật và tắt Wi-Fi mà không cần bạn xác nhận.</string>
-    <string name="power_optimize_aod_summary">Thiết bị của bạn Tiết kiệm Pin khi màn hình tắt</string>
+    <string name="power_optimize_aod_summary">Thiết bị của bạn Tiết kiệm pin khi màn hình tắt</string>
     <string name="special_perm_intercept_data_msg">Xóa tất cả dữ liệu trên thiết bị này mà không được phép</string>
     <string name="permission_instruction_running_exceed_data">Quyền này cho phép các ứng dụng bỏ qua giới hạn sử dụng dữ liệu di động.</string>
     <string name="pp_app_warning_permission_tips">Nhận thông báo về hoạt động của ứng dụng</string>
@@ -3701,20 +3693,20 @@ Chuyển đổi giữa các ký tự khác nhau và các hiệu ứng đặc bi�
     <string name="privacy_risk_dangerous_title">"Bạn đã cấp các quyền có rủi ro cao"</string>
     <string name="power_optimize_disconnect_data_summary">Sử dụng dữ liệu di động trong nền tiêu tốn điện năng</string>
     <string name="privacy_risk_photo_delete">Ảnh có thể bị xóa mà không cần quyền của bạn</string>
-    <string name="permission_instruction_storage">Để bảo vệ quyền riêng tư của bạn, MIUI cho phép bạn quyết định xem bạn có cho phép các ứng dụng có quyền lưu trữ truy cập Thư viện và tin nhắn của bạn trong các ứng dụng mạng xã hội hay không.</string>
+    <string name="permission_instruction_storage">Nếu bạn cho phép ứng dụng truy cập tập tin trong thư mục riêng của chúng, hệ thống cho phép bạn quyết định xem bạn có muốn ứng dụng này truy cập vào mục trong Thư viện và tập tin được tạo từ ứng dụng mạng xã hội để bảo vệ quyền riêng tư hay không. Vì ứng dụng có API Android cấp 29 trở lên đã hỗ trợ phân vùng lưu trữ, nên tùy chọn này không được hỗ trợ.</string>
     <string name="power_center_batteryscan_normal">Không có vấn đề sử dụng pin. Xem Kết quả.</string>
     <string name="see_all_app_behavior_record">Xem tất cả hành vi ứng dụng</string>
     <string name="permission_instruction_get_accounts">Quyền này cho phép các ứng dụng truy cập danh sách tài khoản được lưu trữ trên thiết bị của bạn. Danh sách này có thể chứa tất cả các tài khoản cá nhân của bạn được tạo bởi các ứng dụng đã cài đặt, cũng như các tài khoản từ các nền tảng mạng xã hội và công cụ giao tiếp.</string>
     <string name="permission_instruction_picture_in_picture">Quyền này cho phép các ứng dụng hiển thị các mục trên Màn hình chính của bạn hoặc trên các ứng dụng khác thông qua giao diện hình trong ảnh.</string>
     <string name="permission_instruction_camera">Quyền này cho phép các ứng dụng sử dụng máy ảnh để chụp ảnh hoặc quay video.</string>
     <string name="power_optimize_clean_memory">Xóa bộ nhớ sau %d phút thiết bị khóa</string>
-    <string name="power_optimize_power_save_summary">Bật Tiết kiệm Pin để áp dụng nhiều tối ưu hóa hệ thống hạn chế hoạt động nền</string>
+    <string name="power_optimize_power_save_summary">Bật Tiết kiệm pin để áp dụng nhiều tối ưu hóa hệ thống hạn chế hoạt động nền</string>
     <string name="special_perm_disturb_title">Bật chế độ Không làm phiền</string>
     <string name="special_perm_vr_title">Sử dụng trợ lý VR</string>
     <string name="pp_private_photo_album">Ảnh và video riêng tư</string>
     <string name="privacy_risk_dangerous_permissions_msg">"Để bảo vệ quyền riêng tư của bạn và ngăn thông tin nhạy cảm bị lộ, chỉ cấp các quyền có rủi ro cao khi cần thiết."</string>
     <string name="pp_icon_layout_status_bg_content_enable">Đã bảo vệ</string>
-    <string name="power_optimize_darkmode_dialog_summary">Chế độ tối thay đổi bảng màu của giao diện người dùng hệ thống và các ứng dụng được chọn cho phép bạn Tiết kiệm Pin và giảm mỏi mắt.</string>
+    <string name="power_optimize_darkmode_dialog_summary">Chế độ tối thay đổi bảng màu của giao diện người dùng hệ thống và các ứng dụng được chọn cho phép bạn Tiết kiệm pin và giảm mỏi mắt.</string>
     <string name="vb_video_effects_setting_nostalgia">Hoài niệm</string>
     <string name="permission_instruction_body_sensors">Quyền này cho phép các ứng dụng truy cập thông tin về cơ thể của bạn được các cảm biến thu thập (ví dụ: nhịp tim). Hãy nhớ thông tin về cơ thể của bạn là thông tin cá nhân.</string>
     <string name="gb_voice_changer_user_status_remain_time">Ngày hết hạn: %s</string>
@@ -3729,7 +3721,7 @@ Chuyển đổi giữa các ký tự khác nhau và các hiệu ứng đặc bi�
     <string name="settings_privacy_revoke_desc">Bằng cách tắt nút gạt, bạn rút lại sự đồng ý của mình đối với Chính sách bảo mật về quyền riêng tư.</string>
     <string name="pp_safe_box">Không gian riêng tư</string>
     <string name="pp_privacy_risk_detection_detail">Tự động phát hiện các rủi ro về quyền riêng tư và nhận các khuyến nghị về các biện pháp bảo vệ</string>
-    <string name="pp_safe_box_detail">Để bảo vệ quyền riêng tư của bạn, MIUI cho phép bạn kiểm soát cách ứng dụng truy cập vào ảnh và lịch sử trò chuyện trên mạng xã hội của bạn.</string>
+    <string name="pp_safe_box_detail">"Các mục riêng tư chỉ được mã hóa và lưu trữ trên thiết bị này. Những người khác sẽ không thể truy cập chúng khi họ đang sử dụng thiết bị này và bản thân thiết bị sẽ không được phép truy cập các mục được mã hóa và sử dụng chúng dưới bất kỳ hình thức nào."</string>
     <string name="pp_smart_manager_pwd">Mật khẩu</string>
     <string name="write_clipboard_tip_content">Quyền này cho phép các ứng dụng lưu các mục vào khay nhớ tạm. Thư rác có thể ảnh hưởng đến việc sử dụng khay nhớ tạm thời bình thường của bạn.</string>
     <string name="privacy_thumbnail_blur_category_photography">Ảnh &amp; video</string>
@@ -3758,7 +3750,7 @@ Chuyển đổi giữa các ký tự khác nhau và các hiệu ứng đặc bi�
     <string name="pp_safe_input_pwd">Bảo vệ mật khẩu của bạn</string>
     <string name="permission_instruction_notification_adjustment">Quyền này cho phép các ứng dụng cung cấp các thông báo thích ứng đa dạng và được cá nhân hóa hơn.</string>
     <string name="privacy_risk_sensitive_second_title">"Bạn đã cấp các quyền nhạy cảm"</string>
-    <string name="power_optimize_auto_brightness_summary">Độ sáng tự động Tiết kiệm Pin</string>
+    <string name="power_optimize_auto_brightness_summary">Độ sáng tự động Tiết kiệm pin</string>
     <string name="special_perm_intercept_risk_app_title">Cài đặt ứng dụng nguy hiểm</string>
     <string name="special_perm_above_msg">Cho phép ứng dụng hiển thị các mục trên các ứng dụng khác</string>
     <string name="permission_instruction_activity_recognition">Quyền này cho phép các ứng dụng truy cập thông tin được thu thập bởi các cảm biến tích hợp để phát hiện hoạt động thể chất của bạn (ví dụ: số bước và bài tập). Hãy nhớ thông tin về hoạt động thể chất của bạn là thông tin cá nhân.</string>
@@ -4033,7 +4025,7 @@ Bật một trong các tính năng sẽ tắt tính năng còn lại."</string>
     <string name="warningcenter_policeassist_title">Vị trí khẩn cấp</string>
     <string name="power_center_super_wireless_charge_noti_summary">Chạm để mở Cài đặt</string>
     <string name="vb_video_effects_dolby_dialog_enhancer">Đối thoại nâng cap</string>
-    <string name="power_dailog_night_charge_protection_summary">Có vẻ như pin của bạn được sạc đầy hầu hết thời gian, điều này có thể làm tăng tốc độ lão hóa của pin. MIUI đã bật tính năng sạc tối ưu để bạn tránh những sự cố như vậy.</string>
+    <string name="power_dailog_night_charge_protection_summary">Dường như pin của bạn được sạc đầy hầu hết thời gian, điều này có thể làm tăng tốc độ lão hóa. Sạc tối ưu hiện đã được bật để tránh những vấn đề như vậy.</string>
     <string name="notification_exit_power_save_mode_full_subtitle">Thiết bị đã được sạc đầy</string>
     <string name="storage_clear_video">Xóa bộ đệm video</string>
     <string name="vb_video_effects_dolby_open">Dolby Atmos đang bật</string>
@@ -4051,7 +4043,7 @@ Bật một trong các tính năng sẽ tắt tính năng còn lại."</string>
     <string name="power_center_super_wireless_charge_summary">"Tăng tốc độ quạt của bộ làm mát của bộ sạc không dây"</string>
     <string name="notification_enter_power_save_mode_subtitle">Tắt khi thiết bị %s hoặc đã sạc đầy</string>
     <string name="vtb_func_display_style_desc0">AI có thể nhận dạng con người, động vật, thực vật, bầu trời, tòa nhà và các đối tượng khác có trong video và tự động tăng cường chúng.</string>
-    <string name="superpower_settins_autoenter_summary_new">Tự động bật Siêu Tiết kiệm Pin khi pin chỉ còn %s</string>
+    <string name="superpower_settins_autoenter_summary_new">Tự động bật Siêu Tiết kiệm pin khi pin chỉ còn %s</string>
     <string name="traffic_to_limit_warning">"Bạn đã sử dụng %s giới hạn dữ liệu"</string>
     <string name="warningcenter_policeassist_flow_send">Chia sẻ vị trí với cảnh sát</string>
     <string name="warningcenter_policeassist_open_content">"Tự động gửi thông tin vị trí của bạn cho cảnh sát bằng SMS hoặc dữ liệu di động khi bạn đang gọi 110, 120, 119, 122 hoặc 12122."</string>
@@ -4070,15 +4062,15 @@ Bật một trong các tính năng sẽ tắt tính năng còn lại."</string>
     <string name="summary_app_update_new">Cập nhật ứng dụng để truy cập tính năng mới</string>
     <string name="cetus_invisible_mode_warn_camera">"Bạn đang ẩn danh. Quyền máy ảnh bị tạm ngưng."</string>
     <string name="app_manager_updater_notify_message">Cập nhật ứng dụng để truy cập tính năng mới</string>
-    <string name="notification_enter_power_save_mode_title">Bật Tiết kiệm Pin</string>
+    <string name="notification_enter_power_save_mode_title">Bật Tiết kiệm pin</string>
     <string name="power_center_super_wireless_charge_toast_close">Sạc nhanh không dây đã tắt</string>
     <string name="warningcenter_policeassist_charge_tips">*Bạn có thể bị tính phí cho các tin nhắn văn bản đến. Liên hệ với nhà cung cấp dịch vụ của bạn để tìm hiểu về giá cước.</string>
     <string name="power_center_unoffical_battery_noti_summary">Pin hiện tại của bạn có thể gây ra rủi ro bảo mật</string>
-    <string name="power_center_night_charge_protection_summary">Để giảm sự lão hóa của pin, MIUI học hỏi từ thói quen sạc hàng ngày của bạn để giảm tình trạng sạc liên tục không cần thiết</string>
+    <string name="power_center_night_charge_protection_summary">Để giảm sự lão hóa của pin, thiết bị học thói quen sạc hàng ngày của bạn để giảm tình trạng sạc liên tục không cần thiết</string>
     <string name="power_center_night_charge_protection_setting">Xem thêm tùy chọn trong Bảo mật > Pin.</string>
-    <string name="pp_privacy_lab_clipboard_summary">Cho phép MIUI quyết định liệu một ứng dụng có thể truy cập vào khay nhớ tạm và nhận thông báo khi ứng dụng đó truy cập hay không</string>
+    <string name="pp_privacy_lab_clipboard_summary">Cho phép thiết bị của bạn quyết định xem ứng dụng có thể truy cập vào bộ nhớ tạm hay không và nhận thông báo khi có truy cập</string>
     <string name="power_center_super_wireless_charge_noti_switch">Thông báo về tính năng sạc nhanh không dây</string>
-    <string name="settings_battery_power_save_suggest_title">Đề xuất và cảnh báo về Tiết kiệm Pin</string>
+    <string name="settings_battery_power_save_suggest_title">Đề xuất và cảnh báo về Tiết kiệm pin</string>
     <string name="power_center_unoffical_battery_tip">"Thông tin sức khỏe không có sẵn cho pin không chính hãng này. Nhấn để tìm hiểu về các rủi ro bảo mật."</string>
     <string name="warningcenter_policeassist_noti_privacy">Chạm để xem Chính sách Riêng tư</string>
     <string name="power_center_unoffical_battery_summary2">Thay pin ở nơi khác có thể làm hỏng thiết bị này. Sử dụng pin trái phép có thể dẫn đến pin bị phồng, quá nhiệt và rò rỉ. Nó cũng có thể gây cháy hoặc các mối nguy hiểm khác. Không sử dụng pin không chính hãng.</string>
@@ -4091,7 +4083,7 @@ Bật một trong các tính năng sẽ tắt tính năng còn lại."</string>
     <string name="pp_privacy_protection_lab">Lab bảo vệ riêng tư</string>
     <string name="vb_video_effects_dolby_stereo_expansion">Âm thanh nổi mở rộng</string>
     <string name="warningcenter_policeassist_noti_title">Chia sẻ vị trí trong các cuộc gọi khẩn cấp</string>
-    <string name="superpower_settins_autoleave_summary_new">Tự động tắt Tiết kiệm Pin cực cao khi pin đã sạc được %s</string>
+    <string name="superpower_settins_autoleave_summary_new">Tự động tắt Tiết kiệm pin cực cao khi pin đã sạc được %s</string>
     <string name="power_center_super_wireless_charge">Sạc nhanh không dây</string>
     <string name="tips">Gợi ý</string>
     <string name="privacy_hide_other_permissions">Ẩn các quyền khác</string>
@@ -4108,7 +4100,7 @@ Bật một trong các tính năng sẽ tắt tính năng còn lại."</string>
     <string name="oaid_apps_title">Nhận dạng thiết bị</string>
     <string name="privacy_input_icon_layout_status_bg_content_enable">Đã bảo vệ</string>
     <string name="power_wireless_need_update_text">Đang cập nhật…</string>
-    <string name="pc_hidemode_power_save">Tiết kiệm Pin</string>
+    <string name="pc_hidemode_power_save">Tiết kiệm pin</string>
     <string name="risk_tip">Phát hiện nguy cơ</string>
     <string name="set_now">Cài đặt</string>
     <string name="pc_hidemode_normal">Cân bằng</string>
@@ -4134,7 +4126,7 @@ Bật một trong các tính năng sẽ tắt tính năng còn lại."</string>
     <string name="sp_security_scan_title">Quét bảo mật</string>
     <string name="sp_sos_title">SOS khẩn cấp</string>
     <string name="sp_security_center_title">Bảo mật</string>
-    <string name="sp_micare_title">Trung tâm Cảnh báo MIUI</string>
+    <string name="sp_micare_title">Trung tâm Cảnh báo</string>
     <string name="sp_abnormal_scan_title">Sửa vấn đề</string>
     <string name="sp_eew_title">Cảnh báo động đất</string>
     <string name="sp_privacy_protect_title">Bảo vệ riêng tư</string>
@@ -4344,7 +4336,7 @@ Bật một trong các tính năng sẽ tắt tính năng còn lại."</string>
     <string name="virus_ignore_dialog_title">Bỏ qua rủi ro</string>
     <string name="virus_detail_app">Chứa vi-rút</string>
     <string name="virus_engine_choose_text">Định nghĩa vi-rút trực tuyến</string>
-    <string name="wireless_charging_saver_message">Tiết kiệm Pin đang bật. Vẫn bật sạc không dây ngược?</string>
+    <string name="wireless_charging_saver_message">Tiết kiệm pin đang bật. Vẫn bật sạc không dây ngược?</string>
     <string name="wireless_charging_fg_control_ok">Điều chỉnh</string>
     <string name="wireless_charging_saver_ok">Giữ</string>
     <string name="wireless_charging_connected_message">"Không thể sử dụng sạc không dây ngược khi thiết bị của bạn đang được sạc không dây."</string>
@@ -4461,7 +4453,7 @@ Bật một trong các tính năng sẽ tắt tính năng còn lại."</string>
     <string name="gs_advanced_setting_summary">Cài đặt cho trò chơi cá nhân</string>
     <string name="gs_advanced_setting_title">Cài đặt bổ sung</string>
     <string name="gs_anto_clean_memory_whitelist">Danh sách ngoại lệ</string>
-    <string name="gs_app_back_self_start">Tiết kiệm Pin</string>
+    <string name="gs_app_back_self_start">Tiết kiệm pin</string>
     <string name="gs_auto_clean_memory">Xóa bộ nhớ đệm</string>
     <string name="gs_auto_clean_memory_detail">Xóa bộ nhớ đệm tự động để tối ưu trò chơi</string>
     <string name="gs_autobooster_dialog_message">Nếu bạn đang sử dụng tăng tốc Xunyou, hãy mở trò chơi trên trang được chỉ định.</string>
@@ -4483,7 +4475,7 @@ Bật một trong các tính năng sẽ tắt tính năng còn lại."</string>
     <string name="gs_gamebox">Lối tắt trong trò chơi</string>
     <string name="gs_gamebox_detail">Vuốt từ cạnh trên của màn hình để hiển thị</string>
     <string name="gs_gamebox_slip">Kéo màn hình xuống để mở</string>
-    <string name="gs_only_self_start_for_list">Giới hạn tiến trình nền để Tiết kiệm Pin cho trò chơi</string>
+    <string name="gs_only_self_start_for_list">Giới hạn tiến trình nền để Tiết kiệm pin cho trò chơi</string>
     <string name="gs_open_game_booster_summary">Tăng tốc mạng để chơi game</string>
     <string name="gs_performance_mode">Chế độ hiệu suất</string>
     <string name="gs_performance_mode_detail">Tối ưu hiệu suất hệ thống để chơi game</string>
@@ -4522,7 +4514,7 @@ Bật một trong các tính năng sẽ tắt tính năng còn lại."</string>
     <string name="app_predict_search_empty">"Không tìm thấy ứng dụng"</string>
     <string name="behavior_widget_get_location">Đã truy cập vị trí</string>
     <string name="title_result_lock_screen">Màn hình khóa</string>
-    <string name="task_summary_close_save_battery">Tắt Tiết kiệm Pin</string>
+    <string name="task_summary_close_save_battery">Tắt Tiết kiệm pin</string>
     <string name="title_condition_hotspot">Điểm phát sóng di động</string>
     <string name="weight_heavy">Chữ đậm</string>
     <string name="title_result_touch">Phản hồi xúc giác</string>
@@ -4588,7 +4580,7 @@ Bật một trong các tính năng sẽ tắt tính năng còn lại."</string>
     <string name="summary_condition_scan_virus">Quét Virus</string>
     <string name="privacy_recommend_title">Đề xuất cá nhân hóa</string>
     <string name="task_summary_open_auto_brightness">Bật độ sáng tự động</string>
-    <string name="task_summary_open_save_battery">Bật Tiết kiệm Pin</string>
+    <string name="task_summary_open_save_battery">Bật Tiết kiệm pin</string>
     <string name="title_condition_bluetooth_device">Kết nối với thiết bị Bluetooth</string>
     <string name="xiaomi_market_sdk_update_dialog_ok">Cập nhật</string>
     <string name="title_condition_start_activity">Mở ứng dụng</string>
@@ -4596,7 +4588,7 @@ Bật một trong các tính năng sẽ tắt tính năng còn lại."</string>
     <string name="task_summary_close_bluetooth">Tắt Bluetooth</string>
     <string name="task_summary_open_mute_mode">Bật Chế độ Im lặng</string>
     <string name="privacy_dialog_negative_button_text">Thoát</string>
-    <string name="title_result_save_battery">Tiết kiệm Pin</string>
+    <string name="title_result_save_battery">Tiết kiệm pin</string>
     <string name="popular_action_card_title">Mọi người đang sử dụng</string>
     <string name="pc_fast_charge_notifi_action_text_on">Tăng tốc</string>
     <string name="network_disable_dialog_content_cn">Mạng không mạnh, vui lòng kiểm tra trạng thái mạng ~</string>
@@ -4681,13 +4673,13 @@ Bật một trong các tính năng sẽ tắt tính năng còn lại."</string>
     <string name="guide_get_operator_error">"&lt;font color='#33b4ff'>&lt;U>Sai nhà mạng?&lt;/U>&lt;/font>"</string>
     <string name="guide_operator_text">Nhà cung cấp hiện tại:</string>
     <string name="guide_quck_open">Bật</string>
-    <string name="guide_second_text">Sau khi bạn thiết lập nhà mạng, MIUI sẽ giám sát việc sử dụng dữ liệu di động của bạn hàng ngày bằng cách gửi SMS nhà mạng miễn phí. Khi MIUI phát hiện bạn vượt quá giới hạn dữ liệu, hệ thống sẽ ngắt kết nối mạng và thông báo cho bạn.</string>
+    <string name="guide_second_text">Sau khi bạn thiết lập nhà cung cấp dịch vụ, chúng tôi sẽ giám sát việc sử dụng dữ liệu di động của bạn hàng ngày bằng cách gửi SMS miễn phí cho nhà cung cấp dịch vụ. Khi chúng tôi phát hiện bạn đã vượt quá giới hạn dữ liệu, bạn sẽ bị ngắt kết nối mạng và được thông báo.</string>
     <string name="guide_wait_setting">Lần tới</string>
     <string name="handle_title_abnormal">Pin hao quá nhanh</string>
     <string name="handle_title_app">Ứng dụng</string>
     <string name="handle_title_details">Chi tiết sử dụng pin</string>
     <string name="handle_title_system">Sử dụng pin hệ thống</string>
-    <string name="hide_mode_result_summary_text">Tùy chỉnh cài đặt Tiết kiệm Pin cho ứng dụng cá nhân</string>
+    <string name="hide_mode_result_summary_text">Tùy chỉnh cài đặt Tiết kiệm pin cho ứng dụng cá nhân</string>
     <string name="hint_antispam_mode_edit">Tùy chỉnh chế độ</string>
     <string name="hongbao_cancel">Hủy</string>
     <string name="hongbao_message_slogon">Điện thoại Xiaomi rất nhanh!</string>
@@ -4740,16 +4732,16 @@ Bật một trong các tính năng sẽ tắt tính năng còn lại."</string>
     <string name="item_view_role_description">Tab</string>
     <string name="bubble_app_empty_page">Không thể tìm thấy ứng dụng hỗ trợ bong bóng hội thoại trên thiết bị này</string>
     <string name="card_main_facebookclean_title">Dọn dẹp Facebook</string>
-    <string name="pc_batery_protection">Bảo vệ Pin</string>
+    <string name="pc_batery_protection">Bảo vệ pin</string>
     <string name="pc_more_battery_feature">Thêm tính năng</string>
     <string name="pc_current_power_mode">Chế độ hiện tại</string>
-    <string name="pc_power_consume_check">Kiểm tra Pin</string>
+    <string name="pc_power_consume_check">Kiểm tra pin</string>
     <string name="pc_more_power_rank_apps">Nhiều ứng dụng hơn</string>
     <string name="pc_night_sleep_mode_title">Chế độ ban đêm</string>
-    <string name="pc_night_sleep_mode_summary">Tự động tắt vài tính năng để Tiết kiệm Pin khi phát hiện chế độ ngủ</string>
+    <string name="pc_night_sleep_mode_summary">Tự động tắt vài tính năng để Tiết kiệm pin khi phát hiện chế độ ngủ</string>
     <string name="pc_smart_discharge_checkbox_title">Tự động ngắt sạc</string>
     <string name="pc_smart_discharge_drop_down_title">Cài đặt tự động ngắt kết nối</string>
-    <string name="pc_smart_discharge_checkbox_summary">Khi sử dụng ứng dụng điều hướng, quá trình sạc sẽ tự động dừng khi pin đạt đến mức đã chọn. Tính năng này sẽ không hoạt động khi Tiết kiệm Pin hoặc Trình siêu Tiết kiệm Pin được bật.</string>
+    <string name="pc_smart_discharge_checkbox_summary">Khi sử dụng ứng dụng điều hướng, quá trình sạc sẽ tự động dừng khi pin đạt đến mức đã chọn. Tính năng này sẽ không hoạt động khi Tiết kiệm pin hoặc Trình siêu Tiết kiệm pin được bật.</string>
     <string name="pc_smart_discharge_protect_notifi_summary">Để bảo vệ pin, quá trình sạc sẽ tự động dừng ở mức đã chọn khi sử dụng ứng dụng điều hướng</string>
     <string name="pc_smart_discharge_protect_notifi_summary2">Để bảo vệ pin, quá trình sạc sẽ tự động dừng ở mức đã chọn khi sử dụng ứng dụng điều hướng</string>
     <string name="pc_batery_information">Thông tin Pin</string>
@@ -4762,7 +4754,7 @@ Bật một trong các tính năng sẽ tắt tính năng còn lại."</string>
     <string name="pc_power_consume_check_ing">Đang kiểm tra…</string>
     <string name="pc_save_charge">Khi sạc pin</string>
     <string name="pc_save_other_setting">Cài đặt khác</string>
-    <string name="pc_save_power">Tiết kiệm Pin</string>
+    <string name="pc_save_power">Tiết kiệm pin</string>
     <string name="power_settings_firmware_update_title">Cập nhật phần sụn</string>
     <string name="load_only_under_wlan">Chỉ tải qua Wi-Fi</string>
     <string name="loading">Vui lòng chờ…</string>
@@ -5000,7 +4992,7 @@ phản hồi"</string>
     <string name="na_query_and_correction_msg">"Bạn có thể kiểm tra và hiệu chỉnh số dư tài khoản cũng như số liệu thống kê dữ liệu di động bằng cách gửi SMS miễn phí tới nhà cung cấp dịch vụ của bạn. Những tin nhắn này được mã hóa.
 Tin nhắn truy vấn số dư không được lưu trữ trong Tin nhắn và sẽ không được hiển thị.
 Bạn có thể tắt tùy chọn \"Tự động điều chỉnh số liệu thống kê sử dụng dữ liệu\" bất cứ lúc nào."</string>
-    <string name="menu_summary_power_manager">Tiết kiệm Pin giúp bạn kéo dài thời gian sử dụng</string>
+    <string name="menu_summary_power_manager">Tiết kiệm pin giúp bạn kéo dài thời gian sử dụng</string>
     <string name="menu_summary_power_manager_1">Pin đã được sạc đầy</string>
     <string name="menu_summary_power_manager_2">Còn lại %s</string>
     <string name="menu_summary_power_manager_3">Kết nối bộ sạc</string>
@@ -5022,8 +5014,8 @@ Bạn có thể tắt tùy chọn \"Tự động điều chỉnh số liệu th�
     <string name="midrop_post_notification_contentTitle">Cần chuyển tập tin?</string>
     <string name="miliao_lucky_warning">Lì xì Xiaomi</string>
     <string name="permission_group_image_video">Quyền này cho phép các ứng dụng truy cập ảnh và video được lưu trữ trên thiết bị này.</string>
-    <string name="miui_optimization_close_final_tip">Tắt Tối ưu hóa MIUI?</string>
-    <string name="miui_optimization_close_title">Tính năng này dành cho nhà phát triển và có thể không thuận tiện cho người dùng phổ thông. Tắt Tối ưu hóa MIUI có thể mang lại những thay đổi sau:</string>
+    <string name="miui_optimization_close_final_tip">Tắt tối ưu hệ thống?</string>
+    <string name="miui_optimization_close_title">Tính năng này dành cho nhà phát triển và có thể không thuận tiện cho người dùng phổ thông. Tắt tối ưu hệ thống có thể dẫn đến các thay đổi sau:</string>
     <string name="permission_group_nearby_device">Quyền này cho phép các ứng dụng khám phá và kết nối với các thiết bị lân cận cũng như xác định vị trí của chúng.</string>
     <string name="permission_instruction_read_read_calendar">Quyền này cho phép các ứng dụng thêm, xóa và chỉnh sửa các sự kiện lịch.</string>
     <string name="permission_instruction_receive_sms_mms">Quyền này cho phép ứng dụng đọc tất cả SMS và MMS. Những tin nhắn này có thể chứa mật khẩu, chi tiết tài khoản ngân hàng và thông tin cá nhân khác.</string>
@@ -5074,7 +5066,7 @@ Bạn có thể tắt tùy chọn \"Tự động điều chỉnh số liệu th�
     <string name="permission_usage_virtual_common_once">%1$s | Ứng dụng này trả về một tin nhắn trống</string>
     <string name="permission_usage_virtual_contacts_once">%1$s | Ứng dụng này trả về một liên hệ trống</string>
     <string name="popular_action_anti_spam_title_global">Chặn cuộc gọi và tin nhắn</string>
-    <string name="privacy_and_safety">Quyền riêng tư &amp; bảo mật</string>
+    <string name="privacy_and_safety">Riêng tư &amp; bảo mật</string>
     <string name="privacy_apps_tutorial_dlg_message_1">Tách hai ngón tay ra trên Màn hình chính để xem các ứng dụng ẩn</string>
     <string name="privacy_apps_tutorial_dlg_message_2">Lưu ý: Khi bạn ẩn một ứng dụng, chỉ lối tắt trên Màn hình chính của ứng dụng đó bị ẩn.</string>
     <string name="safety">Bảo mật</string>
@@ -5118,7 +5110,7 @@ Bạn có thể tắt tùy chọn \"Tự động điều chỉnh số liệu th�
     <string name="network_changed_noti_summary">Đang dùng dữ liệu di động</string>
     <string name="network_changed_noti_title">Đã ngắt kết nối Wi-Fi</string>
     <string name="network_control">Xem cài đặt ứng dụng</string>
-    <string name="network_traffic_warning_text">MIUI không thể thống kê sử dụng dữ liệu cho ứng dụng hệ thống riêng lẻ ở đây. Bạn sẽ không thể nhìn thấy thông tin chi tiết liên quan về sử dụng dữ liệu trong ứng dụng trong trường hợp ứng dụng này sử dụng dữ liệu di động chủ động.</string>
+    <string name="network_traffic_warning_text">Chúng tôi không thể thống kê sử dụng dữ liệu cho ứng dụng hệ thống riêng lẻ ở đây. Bạn sẽ không thể nhìn thấy thông tin chi tiết liên quan về sử dụng dữ liệu trong ứng dụng trong trường hợp ứng dụng này sử dụng dữ liệu di động chủ động.</string>
     <string name="network_traffic_warning_title">Sử dụng dữ liệu ứng dụng hệ thống</string>
     <string name="widget_ramjat_message">Giải phóng bộ nhớ</string>
     <string name="HIPS_Perm_Intl_group_name_camera">Máy ảnh</string>
@@ -5159,7 +5151,7 @@ Bạn có thể tắt tùy chọn \"Tự động điều chỉnh số liệu th�
     <string name="notification_garbage_cleanup_title">Dọn dẹp tệp rác</string>
     <string name="ad_text_btn_resume">Bảng tóm tắt</string>
     <string name="notification_low_battery_need_charge">Sạc thiết bị của bạn</string>
-    <string name="notification_low_battery_open_save_mode">Bật Tiết kiệm Pin</string>
+    <string name="notification_low_battery_open_save_mode">Bật Tiết kiệm pin</string>
     <string name="notification_low_battery_title">Pin còn ít hơn %s</string>
     <string name="notification_mask_summary">Không hiển thị nội dung thông báo cho ứng dụng được bảo vệ</string>
     <string name="notification_mask_title">Ẩn nội dung thông báo</string>
@@ -5215,7 +5207,7 @@ Bạn có thể tắt tùy chọn \"Tự động điều chỉnh số liệu th�
     <string name="open_callwait">Bật</string>
     <string name="open_dnd_mode">Chế độ không làm phiền</string>
     <string name="open_dnd_mode_summary">Không làm phiền trong khoảng thời gian, lời nhăc lì xì và báo thức lì xì sẽ không nhắc</string>
-    <string name="open_extreme_power_save_mode_title">Bật Siêu Tiết kiệm Pin</string>
+    <string name="open_extreme_power_save_mode_title">Bật Siêu Tiết kiệm pin</string>
     <string name="open_fast_open_mode">Mở chế độ cao điểm</string>
     <string name="open_fast_open_mode_summary">Chế độ chộp nhanh đã bật. Khi nhận được lì xì, hệ thống sẽ tự mở trang lì xì.</string>
     <string name="open_game">Mở</string>
@@ -5254,7 +5246,7 @@ Bạn có thể tắt tùy chọn \"Tự động điều chỉnh số liệu th�
     <string name="optimize_result_button_to_set">Áp dụng</string>
     <string name="optimize_result_button_update_now">Cập nhật</string>
     <string name="optimize_result_summary_sucurity_risk">Vài tính năng an toàn đã bị tắt. Bật các tính năng này để thiết bị an toàn hơn:</string>
-    <string name="optimize_result_summary_system_default_settings">Sử dụng ứng dụng MIUI mặc định để tăng tính ổn định và bảo mật hệ thống.</string>
+    <string name="optimize_result_summary_system_default_settings">Sử dụng ứng dụng mặc định để tăng tính ổn định và bảo mật hệ thống.</string>
     <string name="optimize_result_title_sucurity_risk">Đã tìm thấy nguy cơ bảo mật</string>
     <string name="optimize_result_title_system_default_settings">Cài đặt mặc định đã được thay đổi</string>
     <string name="optimize_result_toast_system_default_settings">Đã khôi phục cài đặt mặc định</string>
@@ -5319,7 +5311,7 @@ Bạn có thể tắt tùy chọn \"Tự động điều chỉnh số liệu th�
     <string name="pc_abnormal_scan_reason_scan_wifi">Tìm kiếm Wi-Fi quá thường xuyên0</string>
     <string name="pc_abnormal_scan_reason_use_GPS">Sử dụng dịch vụ vị trí quá thường xuyên</string>
     <string name="pc_abnormal_scan_reason_wake_system">Đánh thức hệ thống quá thường xuyên</string>
-    <string name="pc_activity_title">Tối ưu Pin</string>
+    <string name="pc_activity_title">Tối ưu pin</string>
     <string name="applock_lock_mode_locked_or_exit_or_wait">Khi thiết bị bị khóa​ hoặc trong %d phút sau khi thoát khỏi ứng dụng</string>
     <string name="applock_not_add_account_normal">Không thêm tài khoản</string>
     <string name="pc_battery_detail_curve_reference_now">Bây giờ</string>
@@ -5411,11 +5403,11 @@ Bạn có thể tắt tùy chọn \"Tự động điều chỉnh số liệu th�
     <string name="bh_create_order_record_success_text">Hoàn thành</string>
     <string name="bh_create_order_time_item_text">Thời gian</string>
     <string name="pc_search_keywords_battery">Pin</string>
-    <string name="pc_search_keywords_battery_save">Tiết kiệm Pin</string>
+    <string name="pc_search_keywords_battery_save">Tiết kiệm pin</string>
     <string name="pc_search_keywords_battery_use">Sử dụng pin</string>
     <string name="pc_search_keywords_capacity">Dung lượng pin</string>
     <string name="pc_search_keywords_property">Hiệu năng</string>
-    <string name="pc_settings_title">Cài đặt Pin &amp; Hiệu suất</string>
+    <string name="pc_settings_title">Pin</string>
     <string name="bh_home_to_set_phone_number">Đặt số điện thoại</string>
     <string name="bh_more_functions">Thêm công cụ</string>
     <string name="bh_no_resource_tab_view">Không có mặt hàng nào</string>
@@ -5608,7 +5600,7 @@ Cấp quyền cho ứng dụng nhưng trả lại thông tin trống để bảo
     <string name="phone_manage_app_manager_summary">Quản lý ứng dụng trên thiết bị</string>
     <string name="phone_manage_clean_summary">Giải phóng bộ nhớ lưu trữ</string>
     <string name="phone_manage_clean_title">Trình dọn dẹp</string>
-    <string name="phone_manage_electric_summary">Tối ưu thiết bị của bạn để Tiết kiệm Pin</string>
+    <string name="phone_manage_electric_summary">Tối ưu thiết bị của bạn để Tiết kiệm pin</string>
     <string name="phone_manage_electric_title">Pin</string>
     <string name="custom_define_permission_desc_android.permission.group.SENSORS">Để phát hiện sóng địa chấn để theo dõi động đất</string>
     <string name="phone_manage_recent_use">Sử dụng gần đây</string>
@@ -5624,8 +5616,8 @@ Cấp quyền cho ứng dụng nhưng trả lại thông tin trống để bảo
     <string name="dialog_btn_yes_install_icon">Cài đặt</string>
     <string name="dialog_msg_auto_start_declare_global">Một số ứng dụng có thể chỉ ra không chính xác rằng hệ thống đã ngăn chúng khởi động. Kiểm tra các quyền đã được cấp cho từng ứng dụng trong Cài đặt.</string>
     <string name="dialog_msg_create_icon_content">Tạo lối tắt Màn hình chính ngay bây giờ?</string>
-    <string name="dialog_msg_delete_icon_content_pad">Bảo mật cho phép bạn dọn rác trên thiết bị của mình, tìm và vô hiệu hóa vi-rút, Tiết kiệm Pin, quản lý quyền, v.v.</string>
-    <string name="dialog_msg_delete_icon_content_phone">Bảo mật cho phép bạn dọn rác trên thiết bị của mình, tìm và vô hiệu hóa vi-rút, Tiết kiệm Pin, quản lý quyền, v.v.</string>
+    <string name="dialog_msg_delete_icon_content_pad">Bảo mật cho phép bạn dọn rác trên thiết bị của mình, tìm và vô hiệu hóa vi-rút, Tiết kiệm pin, quản lý quyền, v.v.</string>
+    <string name="dialog_msg_delete_icon_content_phone">Bảo mật cho phép bạn dọn rác trên thiết bị của mình, tìm và vô hiệu hóa vi-rút, Tiết kiệm pin, quản lý quyền, v.v.</string>
     <string name="dialog_msg_delete_icon_title_pad">Xóa lối tắt màn hình chính \"Bảo mật\"?</string>
     <string name="dialog_msg_delete_icon_title_phone">Xóa lối tắt màn hình chính \"Bảo mật\"?</string>
     <string name="dialog_msg_install_manager_content">Cài đặt lại Bảo mật?</string>
@@ -5643,19 +5635,19 @@ Cấp quyền cho ứng dụng nhưng trả lại thông tin trống để bảo
     <string name="eletric_group_title_two_identification_risk_app">Nhận cảnh báo về rủi ro tài chính</string>
     <string name="power_ambient_display">Màn hình Luôn bật</string>
     <string name="eletric_group_title_two_identification_risk_mms">Nhận cảnh báo khi mã xác minh được chuyển tiếp</string>
-    <string name="power_center_5g_save_close_detail">Tiết kiệm Pin 5G giúp tăng tuổi thọ pin mà không ảnh hưởng đến kết nối 5G. Tắt đi?</string>
+    <string name="power_center_5g_save_close_detail">Tiết kiệm pin 5G giúp tăng tuổi thọ pin mà không ảnh hưởng đến kết nối 5G. Tắt đi?</string>
     <string name="power_center_5g_save_close_later">Không tắt</string>
-    <string name="power_center_5g_save_close_title">Tắt Tiết kiệm Pin 5G</string>
+    <string name="power_center_5g_save_close_title">Tắt Tiết kiệm pin 5G</string>
     <string name="power_center_5g_save_summary_text">Làm cho kết nối 5G ít tiêu thụ năng lượng hơn trong các trường hợp nhất định</string>
-    <string name="power_center_5g_save_title_text">Tiết kiệm Pin 5G</string>
+    <string name="power_center_5g_save_title_text">Tiết kiệm pin 5G</string>
     <string name="eletric_group_two_identification_risk_mms">Bảo vệ mã xác minh</string>
     <string name="eletric_identification_unfamiliar_numbers_summary">Hiển thị các loại cuộc gọi cho các số chưa biết dựa trên phản hồi của người dùng</string>
     <string name="power_center_battery_last">Còn lại %s</string>
     <string name="eletric_no_grant_dialog_negative_button">Hủy bỏ</string>
-    <string name="power_center_dialog_msg_bottom">Bạn có thể tăng thời lượng pin lên đến %1$dg %2$dp. Bật Tiết kiệm Pin?</string>
-    <string name="power_center_dialog_msg_title">Bật để có thêm %1$s. Các hành động dưới đây sẽ được thực hiện để Tiết kiệm Pin:</string>
+    <string name="power_center_dialog_msg_bottom">Bạn có thể tăng thời lượng pin lên đến %1$dg %2$dp. Bật Tiết kiệm pin?</string>
+    <string name="power_center_dialog_msg_title">Bật để có thêm %1$s. Các hành động dưới đây sẽ được thực hiện để Tiết kiệm pin:</string>
     <string name="eletric_no_grant_dialog_positive_button">Cài đặt</string>
-    <string name="power_center_dialog_msg_top">Khi bật Tiết kiệm Pin, MIUI sẽ thực hiện các tối ưu hóa sau:</string>
+    <string name="power_center_dialog_msg_top">Khi bật Tiết kiệm pin, các hoạt động tối ưu sau sẽ được thực hiện:</string>
     <string name="power_center_hints_scan_danger_result">Bạn có thể sửa vấn đề pin ngay</string>
     <string name="power_center_list_item_auto_brightness">Tự động điều chỉnh độ sáng màn hình</string>
     <string name="eletric_no_grant_dialog_title">Yêu cầu quyền</string>
@@ -5672,7 +5664,7 @@ Cấp quyền cho ứng dụng nhưng trả lại thông tin trống để bảo
     <string name="ew_close_tips">Cảnh báo động đất đã tắt</string>
     <string name="power_center_one_key_save">Tối ưu</string>
     <string name="power_center_power_save_summary_text">Tăng thời lượng còn lại lên đến %1$dg %2$dp</string>
-    <string name="power_center_power_save_title_text">Tiết kiệm Pin</string>
+    <string name="power_center_power_save_title_text">Tiết kiệm pin</string>
     <string name="power_center_scan_item_title_5g">Kết nối 5G</string>
     <string name="power_center_scan_item_title_GPS">Điều chỉnh độ chính xác GPS</string>
     <string name="power_center_scan_item_title_abnormal">Vấn đề pin</string>
@@ -5683,7 +5675,7 @@ Cấp quyền cho ứng dụng nhưng trả lại thông tin trống để bảo
     <string name="power_center_scan_item_title_brightness">Điều chỉnh độ sáng màn hình</string>
     <string name="power_center_scan_item_title_clean_memory">Xóa bộ nhớ</string>
     <string name="power_center_scan_item_title_hide">Quản lý sử dụng pin</string>
-    <string name="power_center_scan_item_title_power_saver">Bật Tiết kiệm Pin</string>
+    <string name="power_center_scan_item_title_power_saver">Bật Tiết kiệm pin</string>
     <string name="power_center_scan_item_title_running_app">Ứng dụng đang chạy trong nền</string>
     <string name="power_center_scan_result_safe">Không tìm thấy vấn đề pin</string>
     <string name="ew_emergency_idcard">Nhận dạng</string>
@@ -5704,19 +5696,19 @@ Hỗ trợ kỹ thuật của Xiaomi &amp; ICL"</string>
     <string name="exo_download_paused_for_network">Tải xuống đang chờ mạng</string>
     <string name="power_center_stop_scan_title">Dừng quét</string>
     <string name="power_center_super_save_summary_text">Tăng thời lượng còn lại lên đến %1$dg %2$dp</string>
-    <string name="power_center_super_save_title_text">Siêu Tiết kiệm Pin</string>
+    <string name="power_center_super_save_title_text">Siêu Tiết kiệm pin</string>
     <string name="power_center_super_wireless_charge_enter_noti_summary">Tốc độ quạt sạc không dây tăng lên, sạc nhanh hơn</string>
     <string name="power_center_super_wireless_charge_enter_noti_title">Có thể bật chế độ sạc không dây cực nhanh</string>
     <string name="exo_download_paused_for_wifi">Tải xuống đang chờ WiFi</string>
     <string name="exo_track_role_alternate">Luân phiên</string>
-    <string name="power_dialog_super_save_msg">Siêu Tiết kiệm Pin hạn chế hầu hết tính năng hao pin và giảm hiệu năng thiết bị nhằm mục đích giữ lại các tính năng cơ bản (v.d. gọi, nhắn tin và kết nối mạng) lâu nhất có thể. Bật Siêu Tiết kiệm Pin?</string>
-    <string name="power_dialog_super_save_msg_5g">Siêu Tiết kiệm Pin hạn chế hầy hết tính năng hao pin (v.d. kết nối 5G) giảm hiệu năng thiết bị của bạn. Chỉ gọi điện, nhắn tin và kết nối mạng không bị ảnh hưởng. Bật Siêu Tiết kiệm Pin?</string>
-    <string name="power_dialog_super_save_title">Siêu Tiết kiệm Pin</string>
+    <string name="power_dialog_super_save_msg">Siêu Tiết kiệm pin hạn chế hầu hết tính năng hao pin và giảm hiệu năng thiết bị nhằm mục đích giữ lại các tính năng cơ bản (v.d. gọi, nhắn tin và kết nối mạng) lâu nhất có thể. Bật Siêu Tiết kiệm pin?</string>
+    <string name="power_dialog_super_save_msg_5g">Siêu Tiết kiệm pin hạn chế hầy hết tính năng hao pin (v.d. kết nối 5G) giảm hiệu năng thiết bị của bạn. Chỉ gọi điện, nhắn tin và kết nối mạng không bị ảnh hưởng. Bật Siêu Tiết kiệm pin?</string>
+    <string name="power_dialog_super_save_title">Siêu Tiết kiệm pin</string>
     <string name="power_main_battery_last_day_hour">Còn lại %1$s ngày %2$s giờ</string>
     <string name="power_main_battery_last_hour_minute">Còn lại %1$s giờ %2$s phút</string>
     <string name="exo_track_role_commentary">Bình luận</string>
     <string name="exo_track_role_supplementary">Bổ sung</string>
-    <string name="first_aid_card_consume_power_summary_app">Hơn %d ứng dụng được phép tự khởi động. Hạn chế để Tiết kiệm Pin.</string>
+    <string name="first_aid_card_consume_power_summary_app">Hơn %d ứng dụng được phép tự khởi động. Hạn chế để Tiết kiệm pin.</string>
     <string name="power_off_warning_message">Pin yếu. Thiết bị của bạn sẽ tắt trong %d giây. Kết nối bộ sạc.</string>
     <string name="power_off_warning_notification_title">Chuẩn bị tắt máy</string>
     <string name="power_optimize_disable_5g">Hạn chế kết nối 5G</string>
@@ -5733,12 +5725,12 @@ Hỗ trợ kỹ thuật của Xiaomi &amp; ICL"</string>
 %2$d. Nếu cả hai thẻ SIM của bạn đều không được kết nối với mạng 5G thì SIM chính của bạn sẽ tự động từ chối các cuộc gọi đến.
 %3$d. Tính năng này chỉ được hỗ trợ ở Trung Quốc đại lục.
 %4$d. Tính năng này chỉ hoạt động trong mạng 5G-SA."</string>
-    <string name="power_save_mode">Tiết kiệm Pin</string>
-    <string name="power_save_mode_close_aod_display_summary">Tắt Màn hình luôn bật khi Tiết kiệm Pin được bật</string>
+    <string name="power_save_mode">Tiết kiệm pin</string>
+    <string name="power_save_mode_close_aod_display_summary">Tắt Màn hình luôn bật khi Tiết kiệm pin được bật</string>
     <string name="power_save_mode_close_aod_display_title">Tắt Màn hình luôn bật</string>
-    <string name="power_save_mode_close_notification_screenon_summary">Hoạt động khi Tiết kiệm Pin được bật</string>
+    <string name="power_save_mode_close_notification_screenon_summary">Hoạt động khi Tiết kiệm pin được bật</string>
     <string name="power_save_mode_close_notification_screenon_title">Không sáng màn hình khi có thông báo</string>
-    <string name="power_save_mode_close_xiaoai_wakeup_summary">Hoạt động khi Tiết kiệm Pin được bật</string>
+    <string name="power_save_mode_close_xiaoai_wakeup_summary">Hoạt động khi Tiết kiệm pin được bật</string>
     <string name="power_save_mode_close_xiaoai_wakeup_title">Không kích hoạt Mi AI bằng giọng nói</string>
     <string name="power_save_mode_other_optimization">Tối ưu tùy chỉnh</string>
     <string name="gamebooster_dialog_recover">Thay mới</string>
@@ -5755,20 +5747,20 @@ Hỗ trợ kỹ thuật của Xiaomi &amp; ICL"</string>
     <string name="power_save_ps_close_setting_haptic">Phản hồi xúc giác</string>
     <string name="power_save_ps_close_setting_pickupwakeup">\"Nhấc để đánh thức\"</string>
     <string name="power_save_ps_close_setting_sync">Đồng bộ</string>
-    <string name="power_save_ps_description_title">Tiết kiệm Pin kích hoạt các hạn chế sau:</string>
+    <string name="power_save_ps_description_title">Tiết kiệm pin kích hoạt các hạn chế sau:</string>
     <string name="power_save_ps_freeze">Đóng băng các ứng dụng chạy nền</string>
     <string name="power_save_ps_limit">Giới hạn hoạt động của các ứng dụng hệ thống</string>
     <string name="power_save_settings">Cài đặt pin</string>
-    <string name="power_save_started_summary_text">Tiết kiệm Pin đang bật. Nó làm giảm hoạt động nền ứng dụng, dừng đồng bộ và hạn chế tối đa hiệu ứng hình ảnh.</string>
+    <string name="power_save_started_summary_text">Tiết kiệm pin đang bật. Nó làm giảm hoạt động nền ứng dụng, dừng đồng bộ và hạn chế tối đa hiệu ứng hình ảnh.</string>
     <string name="power_setting_background_app_save_summary">Giới hạn hoạt động của ứng dụng trong nền mà không ảnh hưởng đến chức năng</string>
-    <string name="power_setting_background_app_save_title">Tiết kiệm Pin dưới nền</string>
+    <string name="power_setting_background_app_save_title">Tiết kiệm pin dưới nền</string>
     <string name="power_setting_category_other">Cài đặt thêm</string>
     <string name="power_setting_config_scenario_policies_title">Tình huống</string>
     <string name="power_setting_features">Tính năng đặc biệt</string>
     <string name="power_setting_important_warning">Chú ý</string>
-    <string name="power_setting_power_save_summary_text">Tối ưu cài đặt hệ thống để Tiết kiệm Pin</string>
-    <string name="power_setting_scenario_policies_summary">Nhận diện tình huống để tự động chuyển giữa các chế độ Tiết kiệm Pin</string>
-    <string name="power_setting_super_save_summary_text">Hạn chế nhiều tính năng hệ thống để Tiết kiệm Pin</string>
+    <string name="power_setting_power_save_summary_text">Tối ưu cài đặt hệ thống để Tiết kiệm pin</string>
+    <string name="power_setting_scenario_policies_summary">Nhận diện tình huống để tự động chuyển giữa các chế độ Tiết kiệm pin</string>
+    <string name="power_setting_super_save_summary_text">Hạn chế nhiều tính năng hệ thống để Tiết kiệm pin</string>
     <string name="power_setting_warm_configure">Điều khiển nhiệt độ</string>
     <string name="power_setting_warm_performance_tip">Các tình huống yêu cầu mức tiêu thụ điện năng cao sẽ làm tăng nhiệt độ của thiết bị của bạn lên trên mức của chế độ kiểm soát nhiệt độ mặc định.</string>
     <string name="power_setting_wireless_reverse_charging_summary">Sạc không dây cho các thiết bị tương thích</string>
@@ -5790,7 +5782,7 @@ Hỗ trợ kỹ thuật của Xiaomi &amp; ICL"</string>
     <string name="gb_barrage_app_manger">Quản lý ứng dụng</string>
     <string name="pref_about_traffic_title">Cài đặt sử dụng dữ liệu</string>
     <string name="pref_adjust_data_usage">Tin nhắn mẫu nhà cung cấp</string>
-    <string name="pref_adjust_data_usage_summary">Sau khi bạn thay đổi mẫu hiệu chỉnh, MIUI sẽ sử dụng nó để nhận thống kê sử dụng dữ liệu từ nhà mạng</string>
+    <string name="pref_adjust_data_usage_summary">Sau khi bạn thay đổi mẫu hiệu chỉnh, Xiaomi sẽ sử dụng nó để lấy số liệu thống kê sử dụng dữ liệu từ nhà cung cấp dịch vụ</string>
     <string name="pref_adjust_traffic_data">Thiết lập sử dụng dữ liệu</string>
     <string name="pref_auto_adjust_traffic">Tự động điều chỉnh thống kê sử dụng dữ liệu</string>
     <string name="pref_automatic_adjust">Tự động đối chiếu lưu lượng sử dụng</string>
@@ -5809,7 +5801,7 @@ Hỗ trợ kỹ thuật của Xiaomi &amp; ICL"</string>
     <string name="pref_open_adjust_traffic">Cập nhật dữ liệu sử dụng hàng ngày bằng cách sử dụng số liệu thống kê của nhà mạng</string>
     <string name="gb_barrage_chat_text_size_big">Lớn</string>
     <string name="pref_package_traffic_settings">Giới hạn dữ liệu di động</string>
-    <string name="pref_summary_upload_data_usage">Báo cáo thống kê sử dụng dữ liệu của bạn để giúp chúng tôi cải thiện MIUI. Báo cáo được thực hiện tuân theo Chính sách Bảo mật của chúng tôi.</string>
+    <string name="pref_summary_upload_data_usage">Báo cáo thông tin sử dụng dữ liệu của bạn để giúp chúng tôi cải thiện sản phẩm và dịch vụ. Tiến trình báo cáo sẽ được thực hiện tuân theo Chính sách Riêng tư của chúng tôi.</string>
     <string name="pref_title_declaration">Từ chối trách nhiệm quan trọng</string>
     <string name="pref_title_diagnostics_show_float_notification">Thông báo nổi</string>
     <string name="pref_title_traffic_package_type">Loại gói dữ liệu</string>
@@ -5976,8 +5968,8 @@ Hỗ trợ kỹ thuật của Xiaomi &amp; ICL"</string>
     <string name="malicious_win_large">Cửa sổ quá lớn</string>
     <string name="malicious_win_small">Cửa sổ quá nhỏ</string>
     <string name="privacy_manage_title">Quản lý</string>
-    <string name="privacy_mask_summary">Thay vì số nhận dạng thực của bạn, MIUI sẽ cung cấp ID ảo (OAID) cho các ứng dụng của bên thứ ba. Nó ngăn các ứng dụng theo dõi hành vi và sở thích của bạn và bảo vệ quyền riêng tư của bạn</string>
-    <string name="privacy_mask_title">ID nhận dạng ảo được bật</string>
+    <string name="privacy_mask_summary">Thay vì nhận dạng thực, hệ thống sẽ cung cấp ID ảo (OAID) cho các ứng dụng của bên thứ ba. Điều này ngăn ứng dụng theo dõi hành vi và sở thích của bạn và bảo vệ quyền riêng tư.</string>
+    <string name="privacy_mask_title">ID ảo đang bật</string>
     <string name="privacy_mode_dialog_title">Chế độ Khách</string>
     <string name="privacy_more_info_title">Tìm hiểu thêm về tính năng bảo vệ riêng tư</string>
     <string name="privacy_notification_subtitle">Chạm để quản lý quyền</string>
@@ -6007,7 +5999,7 @@ Thiết bị của bạn bây giờ nhanh hơn %s."</string>
     <string name="privacy_pop_record">Đã ghi âm hôm nay</string>
     <string name="privacy_pop_storage">Đã truy cập bộ nhớ hôm nay</string>
     <string name="privacy_protect_summary">Bảo vệ thông tin cá nhân của bạn</string>
-    <string name="privacy_protect_title">Quyền riêng tư &amp; bảo mật</string>
+    <string name="privacy_protect_title">Riêng tư &amp; bảo mật</string>
     <string name="privacy_provision_back">Quay lại</string>
     <string name="privacy_provision_more">Tìm hiểu thêm về bảo vệ quyền riêng tư</string>
     <string name="privacy_provision_next">Tiếp theo</string>
@@ -6057,7 +6049,7 @@ Thiết bị của bạn bây giờ nhanh hơn %s."</string>
     <string name="privacy_show_password_summary">Giữ mật khẩu hiển thị một thời gian ngắn</string>
     <string name="privacy_special_permission_summary">Theo dõi ứng dụng sử dụng quyền nhạy cảm như thế nào</string>
     <string name="privacy_special_permission_title">Quyền đặc biệt</string>
-    <string name="privacy_summary">Tìm hiểu về bảo vệ riêng tư trong MIUI 12</string>
+    <string name="privacy_summary">Tìm hiểu thêm về bảo vệ cá nhân</string>
     <string name="mtrl_picker_text_input_date_range_start_hint">Ngày bắt đầu</string>
     <string name="mtrl_picker_toggle_to_day_selection">Nhấn để chuyển sang chọn ngày</string>
     <string name="mtrl_picker_toggle_to_text_input_mode">Chuyển sang chế độ nhập văn bản</string>
@@ -6139,9 +6131,9 @@ Thiết bị của bạn bây giờ nhanh hơn %s."</string>
     <string name="risk_app_install_manager">Ứng dụng có thể có rủi ro</string>
     <string name="pc_close_notifi_action">Tắt</string>
     <string name="root">Truy cập Root</string>
-    <string name="pc_continuity_has_open_save_mode_notifi_sumary">Tiết kiệm Pin sẽ tắt khi %1$s đạt %2$s hoặc được sạc đầy</string>
-    <string name="pc_continuity_has_open_save_mode_notifi_title">Đã bật Tiết kiệm Pin trên %s</string>
-    <string name="pc_continuity_open_save_mode_notifi_sumary">Pin %1$s yếu hơn %2$s. Bật Tiết kiệm Pin để thêm %3$s %4$s.</string>
+    <string name="pc_continuity_has_open_save_mode_notifi_sumary">Tiết kiệm pin sẽ tắt khi %1$s đạt %2$s hoặc được sạc đầy</string>
+    <string name="pc_continuity_has_open_save_mode_notifi_title">Đã bật Tiết kiệm pin trên %s</string>
+    <string name="pc_continuity_open_save_mode_notifi_sumary">Pin %1$s yếu hơn %2$s. Bật Tiết kiệm pin để thêm %3$s %4$s.</string>
     <string name="scan_installed_games">Đang kiểm tra trò chơi đã cài đặt…</string>
     <string name="pc_continuity_open_save_mode_notifi_title">%s pin yếu</string>
     <string name="pc_emergency_call">Khẩn cấp</string>
@@ -6181,7 +6173,7 @@ Thiết bị của bạn bây giờ nhanh hơn %s."</string>
     <string name="security_center_slogan">Để thiết bị luôn nhanh và an toàn</string>
     <string name="security_guide_bubble_text">Mở</string>
     <string name="security_guide_summary">Một nơi cho các công cụ và dịch vụ</string>
-    <string name="security_guide_title">Gói Tiện ích MIUI</string>
+    <string name="security_guide_title">Công cụ</string>
     <string name="securityadd_install_fail">Không thể cập nhật trình cắm. Thử lại.</string>
     <string name="securityadd_update_tips_cancle">Không phải bây giờ</string>
     <string name="securityadd_update_tips_message">Cập nhật Trình cắp Dịch vụ bảo mật để có thể truy cập tính năng chơi game mới nhất. Sẽ tải xuống khoảng %1$dMB.</string>
@@ -6210,14 +6202,14 @@ Thiết bị của bạn bây giờ nhanh hơn %s."</string>
     <string name="settings_negative_button_text">Không phải bây giờ</string>
     <string name="pc_hight_refresh_rate_reminder_summary">Sử dụng tốc độ làm mới cao hơn. Điều này có thể làm tăng mức tiêu thụ điện năng và nhiệt độ thiết bị.</string>
     <string name="pc_hight_refresh_rate_reminder_title">Xem video có tốc độ khung hình cao</string>
-    <string name="settings_share_enable_summary">Mục bạn chia sẻ trên WeChat sẽ hiển thị với nhãn MIUI</string>
+    <string name="settings_share_enable_summary">Các mục bạn chia sẻ trên WeChat sẽ xuất hiện với biểu tượng</string>
     <string name="settings_share_info">Đây là các tùy chọn chia sẻ an toàn khả dụng cho các mục chia sẻ từ Thư viện và Quản lý tệp tin:</string>
     <string name="settings_show_detail">Xem chi tiết</string>
     <string name="settings_tip">Vào Thư viện > Cài đặt để xem thêm tùy chọn</string>
     <string name="settings_title">Chia sẻ an toàn</string>
     <string name="shake_send_sticker_summary">Trong WeChat và QQ, một biểu thức ngẫu nhiên sẽ xuất hiện. Đánh vần biểu thức vào ngày lễ, dễ mà!</string>
     <string name="pc_no_more_remind">Đừng nhắc nhở</string>
-    <string name="pc_power_save_settings_new">Cài đặt Tiết kiệm Pin</string>
+    <string name="pc_power_save_settings_new">Cài đặt Tiết kiệm pin</string>
     <string name="pc_remind_close_cover_to_charge_summary">Gấp thiết bị trước khi sạc để có trải nghiệm sạc nhanh hơn và ổn định hơn.</string>
     <string name="shield_keyboard_detail">Chạm hai lần vào phím để bật lại</string>
     <string name="shield_keyboard_summary">Hạn chế nút và cử chỉ toàn màn hình trong trò chơi</string>
@@ -6238,8 +6230,8 @@ Thiết bị của bạn bây giờ nhanh hơn %s."</string>
     <string name="pc_suggest_open_fast_charge">Bật sạc nhanh %dW</string>
     <string name="pc_temperature_too_high">Thiết bị quá nóng</string>
     <string name="pc_wait_device_cools_down">Đợi cho đến khi thiết bị của bạn nguội đi để có thể sử dụng tính năng này.</string>
-    <string name="pc_work_in_save_mode">Tiết kiệm Pin</string>
-    <string name="pc_work_in_super_save_mode">Siêu Tiết kiệm Pin</string>
+    <string name="pc_work_in_save_mode">Tiết kiệm pin</string>
+    <string name="pc_work_in_super_save_mode">Siêu Tiết kiệm pin</string>
     <string name="pc_xiaoai_create_auto_task">Nhiệm vụ mới từ Mi AI</string>
     <string name="permdesc_get_installed_apps">Cho phép \"%1$s\" truy cập thông tin về các ứng dụng đã cài đặt?</string>
     <string name="permisison_usage_menu_all">Tất cả</string>
@@ -6570,27 +6562,27 @@ Thiết bị của bạn bây giờ nhanh hơn %s."</string>
     <string name="power_center_battery_duration_screen_on">Thời gian sử dụng màn hình còn lại</string>
     <string name="summary_restrict_data_usage">Bạn đã giới hạn việc sử dụng dữ liệu cho ứng dụng này. Chạm để sửa.</string>
     <string name="summary_result_screen_brightness_format">Đặt độ sáng màn hình %s</string>
-    <string name="power_center_dialog_msg_title_screen_on">Bạn sẽ nhận được %1$s thời gian sử dụng thiết bị nếu bật tính năng này. Dưới đây là các biện pháp sẽ Tiết kiệm Pin:</string>
+    <string name="power_center_dialog_msg_title_screen_on">Bạn sẽ nhận được %1$s thời gian sử dụng thiết bị nếu bật tính năng này. Dưới đây là các biện pháp sẽ Tiết kiệm pin:</string>
     <string name="superpower_dialog_button_disable_dialog">Không hiển thị lại</string>
     <string name="power_center_speed_mode_dialog_text">Chế độ tốc độ tăng cường hiệu suất của thiết bị bằng cách tăng mức tiêu thụ điện năng và cho phép thiết bị nóng lên. Tránh sử dụng chế độ Tốc độ trong thời gian dài.</string>
-    <string name="superpower_dialog_massage">Siêu Tiết kiệm Pin hạn chế hầu hết tính năng hao pin và giảm hiệu năng thiết bị nhằm mục đích giữ lại các tính năng cơ bản (v.d. gọi, nhắn tin và kết nối mạng) lâu nhất có thể. Bật Siêu Tiết kiệm Pin?</string>
-    <string name="superpower_dialog_title">Siêu Tiết kiệm Pin</string>
-    <string name="superpower_notification_summary">Bật Siêu Tiết kiệm Pin</string>
+    <string name="superpower_dialog_massage">Siêu Tiết kiệm pin hạn chế hầu hết tính năng hao pin và giảm hiệu năng thiết bị nhằm mục đích giữ lại các tính năng cơ bản (v.d. gọi, nhắn tin và kết nối mạng) lâu nhất có thể. Bật Siêu Tiết kiệm pin?</string>
+    <string name="superpower_dialog_title">Siêu Tiết kiệm pin</string>
+    <string name="superpower_notification_summary">Bật Siêu Tiết kiệm pin</string>
     <string name="superpower_notification_time_12">EEEE, dd MMMM</string>
     <string name="superpower_notification_time_24">EEEE, dd MMMM</string>
-    <string name="superpower_progress_content">Đang bật Siêu Tiết kiệm Pin…</string>
+    <string name="superpower_progress_content">Đang bật Siêu Tiết kiệm pin…</string>
     <string name="superpower_progress_left_time">%1$d giờ %2$d phút</string>
     <string name="superpower_progress_switch_home">Đang chuyển sang Chủ đề tối</string>
     <string name="superpower_progress_title">Thời gian còn lại</string>
     <string name="superpower_progress_turndown_brightness">Đang giảm độ sáng màn hình</string>
     <string name="superpower_progress_turnoff_items">Đang hạn chế các hoạt động hao pin</string>
     <string name="superpower_progress_turnoff_process">Hạn chết hoạt động nền</string>
-    <string name="superpower_savemode_description_title">Siêu Tiết kiệm Pin kích hoạt các hạn chế sau:</string>
+    <string name="superpower_savemode_description_title">Siêu Tiết kiệm pin kích hoạt các hạn chế sau:</string>
     <string name="superpower_savemode_limit1">Chủ đề tối</string>
     <string name="superpower_savemode_limit2">Hạn chế hoạt động nền</string>
     <string name="superpower_savemode_limit3">Hạn chế hoạt động hao pin (đồng bộ, GPS, rung, Màn hình Luôn bật, v.v.)</string>
     <string name="superpower_savemode_limit4">Cho phép ứng dụng đã chọn hoạt động bình thường</string>
-    <string name="superpower_settings">Siêu Tiết kiệm Pin</string>
+    <string name="superpower_settings">Siêu Tiết kiệm pin</string>
     <string name="superpower_settins_autoenter_title">Tự động bật</string>
     <string name="superpower_settins_autoleave_title">Tự động tắt</string>
     <string name="superpower_settins_other">Cài đặt bổ sung</string>
@@ -6663,13 +6655,13 @@ Thiết bị của bạn bây giờ nhanh hơn %s."</string>
     <string name="task_summary_open_airplane">Bật chế độ Máy bay</string>
     <string name="power_port_damp_notify_title">Cổng sạc bị ướt</string>
     <string name="power_rank_surface_flinger">Kết xuất</string>
-    <string name="power_save_model_open">Tiết kiệm Pin đang bật</string>
+    <string name="power_save_model_open">Tiết kiệm pin đang bật</string>
     <string name="pp_lab_compact_blur_location">Ứng dụng truy cập vị trí gần đúng</string>
     <string name="task_summary_open_hotspot">Bật điểm phát sóng di động</string>
     <string name="pp_lab_compact_blur_location_summary">Chọn \"Mặc định\" để sử dụng chức năng vị trí gần đúng của Android hoặc \"Tất cả\" để sử dụng tài nguyên hệ thống bổ sung hỗ trợ tất cả ứng dụng.</string>
     <string name="pp_read_phone_info_summary">Truy cập thông tin SIM</string>
     <string name="precise_location_title">Vị trí chính xác</string>
-    <string name="privacy">Quyền riêng tư</string>
+    <string name="privacy">Riêng tư</string>
     <string name="tc_cmd_invalid">Mẫu không hợp lệ</string>
     <string name="tc_get_cmd_error">Không thể nhận mẫu</string>
     <string name="tc_parse_error">Không thể phân tích SMS</string>
@@ -6714,7 +6706,7 @@ Không bao giờ bỏ lỡ phong bao lì xì nào"</string>
     <string name="thermal_tips_message">Chơi game trong chế độ Hiệu suất có thể dẫn đến vấn đề quá nhiệt.</string>
     <string name="thermal_tips_title">Chú ý</string>
     <string name="third_application">Ứng dụng đã cài đặt</string>
-    <string name="third_desktop_dialog_content">Vì các ứng dụng Trình khởi chạy bên thứ ba có thể gây ra các vấn đề như rò rỉ dữ liệu, hao pin và lag bất thường, v.v., chỉ những ứng dụng được xác minh bởi MIUI mới có thể đặt làm Trình khởi chạy mặc định</string>
+    <string name="third_desktop_dialog_content">Các ứng dụng trình khởi chạy từ bên thứ ba có thể dẫn đến các sự cố như rò rỉ dữ liệu, hao pin bất thường và bị lag. Chỉ những ứng dụng đã được xác minh mới có thể được đặt làm trình khởi chạy mặc định của bạn</string>
     <string name="privacy_flares_current_detail_mic">Ứng dụng này đang sử dụng micrô</string>
     <string name="third_desktop_dialog_title">Lỗi</string>
     <string name="privacy_flares_current_detail_mic_loc">Ứng dụng này đang sử dụng micrô và truy cập vị trí của bạn</string>
@@ -6938,7 +6930,7 @@ Rút lại sự đồng ý ngay bây giờ?"</string>
     <string name="warningcenter_action_check">Xem</string>
     <string name="warningcenter_alert_home">Vị trí</string>
     <string name="warningcenter_alert_room">Phòng</string>
-    <string name="warningcenter_alert_source">Trung tâm Cảnh báo MIUI | Nguồn dữ liệu: %s</string>
+    <string name="warningcenter_alert_source">Trung tâm Cảnh báo | Nguồn dữ liệu: %s</string>
     <string name="warningcenter_alert_time">Thời gian</string>
     <string name="warningcenter_alert_warning_time">Thời gian nhận: %s</string>
     <string name="warningcenter_disaster_all">Tất cả cảnh báo</string>
@@ -6965,7 +6957,7 @@ Rút lại sự đồng ý ngay bây giờ?"</string>
     <string name="warningcenter_disaster_hanchao">Gió lạnh</string>
     <string name="warningcenter_disaster_icon_title">Cảnh báo demo</string>
     <string name="warningcenter_disaster_info">Xuất bản bởi Trung tâm cảnh báo của CMA</string>
-    <string name="warningcenter_disaster_info_from">Trung tâm cảnh báo sớm MIUI | Thông tin từ Trung tâm cảnh báo Quốc gia</string>
+    <string name="warningcenter_disaster_info_from">Trung tâm cảnh báo sớm | Thông tin từ Trung tâm cảnh báo Quốc gia</string>
     <string name="warningcenter_disaster_info_title">Về cảnh báo</string>
     <string name="warningcenter_disaster_leiyudafeng">Sấm sét và gió bão</string>
     <string name="warningcenter_disaster_level_1">Mức I (Vô cùng nghiêm trọng)</string>
@@ -7036,7 +7028,7 @@ Rút lại sự đồng ý ngay bây giờ?"</string>
     <string name="warningcenter_mijia_search_keywords">Cảnh báo Mi Home</string>
     <string name="warningcenter_mijia_title">Cảnh báo từ thiết bị nhà thông minh</string>
     <string name="storage_entry_setting">Cài đặt</string>
-    <string name="warningcenter_title">Trung tâm Cảnh báo MIUI</string>
+    <string name="warningcenter_title">Trung tâm Cảnh báo</string>
     <string name="weChat_not_found">Phiên bản ứng dụng quá thấp hoặc ứng dụng chưa được cài đặt</string>
     <string name="website">Trang Web</string>
     <string name="wechat_lucky_warning">Lì xì WeChat</string>
@@ -7146,8 +7138,8 @@ Rút lại sự đồng ý ngay bây giờ?"</string>
     <string name="upgrade_tvm_component_desc">Để đảm bảo tính bảo mật cho các giao dịch của bạn, hãy cập nhật bổ trợ Thành phần khóa điện thoại thông qua Bảo mật.</string>
     <string name="upgrade_tvm_component_title">Cập nhật plug-in Thành phần khóa điện thoại</string>
     <string name="vb_power_performance_mode_conflict_toast">Không thể sử dụng tính năng này khi bật Chế độ hiệu suất</string>
-    <string name="vb_power_save_mode_conflict_toast">Không thể sử dụng tính năng này khi Tiết kiệm Pin đang bật</string>
-    <string name="vb_super_power_save_mode_conflict_toast">Không thể sử dụng tính năng này khi bật Ultra Tiết kiệm Pin</string>
+    <string name="vb_power_save_mode_conflict_toast">Không thể sử dụng tính năng này khi Tiết kiệm pin đang bật</string>
+    <string name="vb_super_power_save_mode_conflict_toast">Không thể sử dụng tính năng này khi bật Ultra Tiết kiệm pin</string>
     <string name="vb_ve_settings_display_style_tips_new_with_conflict_tips">"*Hiệu ứng này sẽ chỉ được áp dụng cho khu vực phát lại video.
 
 Tính năng này không hoạt động với video nâng cao.
@@ -7207,12 +7199,12 @@ Bật cái này sẽ tắt cái kia."</string>
     <string name="pc_night_charge_protect_title">Bảo vệ sạc ban đêm</string>
     <string name="power_dailog_night_charge_protection_summary_new">Có vẻ như bạn thường xuyên sạc đầy pin của thiết bị này, điều này có thể đẩy nhanh quá trình lão hóa của thiết bị này. Tính năng bảo vệ sạc vào ban đêm đã được bật để tự động điều chỉnh thời lượng sạc và duy trì tuổi thọ của pin.</string>
     <string name="pc_night_charge_protect_summary">Tự động điều chỉnh thời gian sạc để duy trì tuổi thọ pin</string>
-    <string name="pc_keywords_low_power_consumption_save">Tiết kiệm Pin</string>
+    <string name="pc_keywords_low_power_consumption_save">Tiết kiệm pin</string>
     <string name="unused_apps_switch">Dừng hoạt động ứng dụng nếu không sử dụng</string>
     <string name="unused_apps_switch_summary">Xóa quyền, xóa tệp tạm thời và dừng thông báo</string>
     <string name="activity_title_apps_settings">Ứng dụng</string>
     <string name="permission_action_virtual_common_summary">Cấp cho ứng dụng các quyền cần thiết nhưng trả lại tin nhắn trống để bảo vệ quyền riêng tư của bạn</string>
-    <string name="privacy_and_security">Quyền riêng tư &amp; bảo mật</string>
+    <string name="privacy_and_security">Riêng tư &amp; bảo mật</string>
     <string name="app_disable_dlg_positive">Tắt ứng dụng</string>
     <string name="app_disable_dlg_text">"Nếu bạn tắt ứng dụng này, hệ thống và các ứng dụng khác có thể không còn hoạt động bình thường nữa. Không thể gỡ cài đặt ứng dụng hệ thống này. Nó sẽ bị ẩn nếu bạn quyết định tắt."</string>
     <string name="permisison_usage_menu_camera">Máy ảnh</string>
@@ -7401,7 +7393,7 @@ Bộ làm mát Trò chơi Xiaomi"</string>
     <string name="pc_battery_history_show_imei">IMEI:</string>
     <string name="pc_high_temp_discharge_reminder">Sạc thiết bị của bạn. Pin có thể bị hỏng nếu thiết bị quá nhiệt trong khi pin yếu.</string>
     <string name="pc_keywords_fast_charge">Sạc nhanh</string>
-    <string name="pc_keywords_low_power_mode">Chế độ tiết kiệm pin</string>
+    <string name="pc_keywords_low_power_mode">Chế độ Tiết kiệm pin</string>
     <string name="pc_keywords_navigation_discharge">Dừng sạc trong khi điều hướng</string>
     <string name="pc_keywords_night_mode">Chế độ ban đêm</string>
     <string name="pc_keywords_night_protect">Bảo vệ pin vào ban đêm</string>
@@ -7412,7 +7404,7 @@ Bộ làm mát Trò chơi Xiaomi"</string>
     <string name="pc_keywords_summary_battery_protect">Để giảm sự lão hóa của pin, hệ thống học thói quen sạc hàng ngày của bạn để giảm tình trạng sạc liên tục không cần thiết</string>
     <string name="pc_keywords_summary_low_power_consume">Làm cho kết nối 5G ít tiêu thụ điện năng hơn trong các tình huống nhất định</string>
     <string name="pc_keywords_summary_navigation">Khi sử dụng ứng dụng điều hướng, quá trình sạc sẽ tự động dừng khi pin đạt đến mức đã chọn</string>
-    <string name="pc_keywords_summary_night_save">Tự động tắt một số tính năng để tiết kiệm pin khi phát hiện ngủ</string>
+    <string name="pc_keywords_summary_night_save">Tự động tắt một số tính năng để Tiết kiệm pin khi phát hiện ngủ</string>
     <string name="pc_timely_charging_summary">Pin dưới %1$s. Nếu thiết bị quá nhiệt trong khi pin yếu, điều này có thể làm hỏng pin.</string>
     <string name="pc_timely_charging_title">Sạc thiết bị của bạn</string>
     <string name="pc_wireless_charging_special_stand_summary1">Lắp bị của bạn lên đế đi kèm với bộ sạc không dây</string>
