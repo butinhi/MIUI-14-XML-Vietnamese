@@ -566,7 +566,7 @@ Việc nghe ở mức âm lượng cao trong thời gian dài có thể gây t�
     <string name="qs_control_big_tile_state_opened">Bật</string>
     <string name="quick_settings_screenshot_label">Chụp m.hình</string>
     <string name="accessibility_detail_switch_off">Tắt</string>
-    <string name="quick_settings_bluetooth_label">Chế độ ngủ cơ bản</string>
+    <string name="quick_settings_bluetooth_label">Bluetooth</string>
     <string name="wifi_is_off">Wi-Fi tắt</string>
     <string name="qs_control_expand_detail_title">Dữ liệu của tôi</string>
     <string name="miui_screen_rotation_freeze_message">Đã tắt tự động xoay.</string>

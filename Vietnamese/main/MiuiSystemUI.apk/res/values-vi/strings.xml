@@ -3297,7 +3297,7 @@ dd/MM"</string>
     <string name="fmt_weekday">W</string>
     <string name="fmt_date_time">D T</string>
     <string name="fmt_date_short_year_month">MMM, yyyy</string>
-    <string name="output_service_bt">Chế độ ngủ cơ bản</string>
+    <string name="output_service_bt">Bluetooth</string>
     <string name="fmt_time_12hour_minute_second_millis">h:mm:ss.S</string>
     <string name="fmt_weekday_date">W, D</string>
     <string name="fmt_time_12hour_minute">h:mm</string>
