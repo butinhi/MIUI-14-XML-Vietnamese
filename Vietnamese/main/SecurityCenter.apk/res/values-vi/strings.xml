@@ -4637,12 +4637,12 @@ Bật một trong các tính năng sẽ tắt tính năng còn lại."</string>
     <string name="size_peta_byte">PB</string>
     <string name="vb_video_effects_spatial">Theo dõi chuyển động đầu</string>
     <string name="privacy_permission_desc">Chi tiết quyền</string>
-    <string name="title_result_bluetooth">Chế độ ngủ cơ bản</string>
+    <string name="title_result_bluetooth">Bluetooth</string>
     <string name="vb_video_effects_3d">Âm thanh vòm</string>
     <string name="pc_battery_chart_loading">Đang làm mới</string>
     <string name="system_anti_fraud_dialog_confirm_btn_txt">Tôi biết</string>
     <string name="vb_video_effects_3d_surround">Âm thanh vòm</string>
-    <string name="title_condition_bluetooth">Chế độ ngủ cơ bản</string>
+    <string name="title_condition_bluetooth">Bluetooth</string>
     <string name="virus_app_type_uninstalled">APK</string>
     <string name="power_rank_system">Hệ thống Android</string>
     <string name="vb_video_effects_3d_summary">Tăng cường độ sâu tái tạo âm thanh cho tai nghe và loa</string>

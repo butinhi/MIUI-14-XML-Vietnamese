@@ -12136,7 +12136,7 @@ Có người dùng khác trên thiết bị này.
     <string name="fmt_weekday_date_time">W, D T</string>
     <string name="size_byte">B</string>
     <string name="fmt_time_24hour_minute">HH:mm</string>
-    <string name="keywords_add_bt_device">Chế độ ngủ cơ bản</string>
+    <string name="keywords_add_bt_device">Bluetooth</string>
     <string name="size_giga_byte">GB</string>
     <string name="fmt_weekday_timezone">W z</string>
     <string name="fmt_time_24hour_minute_second">H:mm:ss</string>

@@ -2334,12 +2334,12 @@ Tắt phím nhanh để dừng đồng bộ."</string>
 	<string name="risk_continue">Tiếp tục</string>
 	<string name="risk_detail">Chi tiết</string>
 	<string name="mw_chip_remove_icon_content_description">Xóa \'%1$s\'</string>
-	<string name="category_bluetooth">Chế độ ngủ cơ bản</string>
+	<string name="category_bluetooth">Bluetooth</string>
 	<string name="game_center_recommend_title">Đề nghị cho bạn</string>
 	<string name="game_center_recommend_play">Phát</string>
 	<string name="local_bookmarks">Chuyển tập tin mà không cần kết nối Internet cho bất kỳ nội dung nào sau đây:</string>
 	<string name="fmt_time_second">Giây</string>
-	<string name="app_name_bluetooth">Chế độ ngủ cơ bản</string>
+	<string name="app_name_bluetooth">Bluetooth</string>
 	<string name="fmt_date">D</string>
 	<string name="fmt_time">T</string>
 	<string name="fmt_time_millis">Giây</string>
