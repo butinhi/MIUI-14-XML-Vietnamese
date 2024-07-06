@@ -38,14 +38,14 @@
     <string name="ads_install_button_installed">Mở</string>
     <string name="ads_install_button_isInstalling">Đang cài đặt</string>
     <string name="ads_install_button_waiting">Chờ</string>
-    <string name="after_install_to_delete">Xóa các gói cài đặt sau khi cài đặt</string>
+    <string name="after_install_to_delete">Xóa các gói cài đặt sau khi cài</string>
     <string name="afternoon">Buổi chiều</string>
     <string name="aleady_understand_the_app_is_hight_risk">hiểu rằng ứng dụng này có thể gây ra rủi ro bảo mật.</string>
     <string name="allow_current_install">Cho phép một lần</string>
     <string name="allowed_this_time">Cho phép một lần</string>
     <string name="already_understand_the_risks">Tôi hiểu rằng ứng dụng này có thể gây ra rủi ro về bảo mật.</string>
     <string name="already_understood_bundle_app">Tôi hiểu những rủi ro của các ứng dụng đi kèm</string>
-    <string name="am">LÀ</string>
+    <string name="am">SA</string>
     <string name="androidx_startup">androidx.startup</string>
     <string name="anonymous_source_continue">Tiếp tục</string>
     <string name="anonymous_source_warning">Điện thoại và dữ liệu cá nhân của bạn dễ bị các ứng dụng không xác định tấn công hơn. Bằng cách cài đặt ứng dụng này, bạn đồng ý rằng bạn chịu trách nhiệm về mọi hư hỏng đối với điện thoại của mình hoặc mất dữ liệu có thể xảy ra do sử dụng ứng dụng này.</string>
@@ -841,8 +841,8 @@
     <string name="permission_num">%1$s</string>
     <string name="please_input_install_app_name">Nhập tên ứng dụng</string>
     <string name="please_input_phone_password">Nhập khóa màn hình</string>
-    <string name="pm">BUỔI CHIỀU</string>
-    <string name="pref_ads">khuyến nghị</string>
+    <string name="pm">CH</string>
+    <string name="pref_ads">Khuyến nghị</string>
     <string name="pref_key_about_privacy_title">Chính sách bảo mật</string>
     <string name="pref_key_app_appeal">Yêu cầu ứng dụng</string>
     <string name="pref_key_developer_services">Dịch vụ dành cho nhà phát triển</string>
@@ -915,7 +915,7 @@
     <string name="risk_app_trust_tips_default">Ứng dụng này chứa nhiều rủi ro và có thể vi phạm quyền riêng tư của bạn hoặc liên quan đến lừa đảo. Chúng tôi khuyên bạn nên chặn tải xuống ứng dụng này.</string>
     <string name="risk_close_tip">Tắt ủy quyền</string>
     <string name="risk_close_tip_des">Nếu bạn tắt tính năng này, mọi ứng dụng bạn đang cố cài đặt sẽ không còn được kiểm tra vấn đề bảo mật nữa và các ứng dụng nguy hiểm sẽ được cài đặt trực tiếp mà không có sự cho phép của bạn. Chúng tôi sẽ phải xác minh khóa màn hình hoặc dấu vân tay của bạn nếu bạn đã đặt chúng trước đó.</string>
-    <string name="risk_install_already_open">TRÊN</string>
+    <string name="risk_install_already_open">Bật</string>
     <string name="risk_install_no_open">Tắt</string>
     <string name="risk_verification">Xác minh rủi ro</string>
     <string name="risk_verification_des">Rủi ro đã được phát hiện với ứng dụng này. Trước tiên, hãy tiến hành xác minh rủi ro để vẫn cài đặt hoặc hủy cài đặt.</string>
@@ -966,7 +966,7 @@
     <string name="security_mode_introduce">Tính năng của Mi Protect</string>
     <string name="security_mode_introduce_setting">Cài đặt Mi Protect</string>
     <string name="security_mode_off_suggestion_msg">Khuyến khích</string>
-    <string name="security_mode_on_suggestion_msg">TRÊN</string>
+    <string name="security_mode_on_suggestion_msg">Bật</string>
     <string name="security_mode_open_guide_elder_action_button">Bật</string>
     <string name="security_mode_open_guide_elder_msg">Bảo vệ quyền riêng tư và bảo mật trực tuyến của bạn</string>
     <string name="security_mode_open_guide_elder_title">Bật tính năng bảo vệ người cao tuổi của Mi Protect</string>
@@ -1176,7 +1176,7 @@ hoạt động đáng ngờ"</string>
     <string name="uri_no_permission">Không thể đọc tệp, quyền bị từ chối</string>
     <string name="user_is_not_allowed_dlg_text">Người dùng hiện tại không được phép thực hiện việc gỡ cài đặt này.</string>
     <string name="v7_preference_off">TẮT</string>
-    <string name="v7_preference_on">TRÊN</string>
+    <string name="v7_preference_on">BẬT</string>
     <string name="verification_word">Xác minh</string>
     <string name="verify_account_default_title">Xác minh danh tính của bạn</string>
     <string name="verify_account_title">Xác minh danh tính của bạn</string>
