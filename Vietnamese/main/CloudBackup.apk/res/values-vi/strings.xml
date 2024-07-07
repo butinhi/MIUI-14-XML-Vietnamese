@@ -671,7 +671,15 @@ Thử lại"</string>
 	<string name="restore_file_empty">Không có bản sao lưu ở đây</string>
 	<string name="cloud_backup_detail_no_time">Không có hồ sơ sao lưu</string>
 	<string name="session_success_restore_data_size">Tổng kích thước tệp: %s</string>
-	<string name="backup_state_not_auto">Tính năng sao lưu tự động đang tắt</string>
+	<string name="backup_state_not_auto">Sao lưu tự động đang tắt</string>
 	<string name="manage_and_restore_backups">Quản lý và khôi phục dữ liệu đã sao lưu</string>
-	<string name="backup_action_long_time_not_backup_title">Không có bản sao lưu gần đây</string>	
+	<string name="backup_action_long_time_not_backup_title">Không có bản sao lưu gần đây</string>
+    <string name="backup_state_auto">Sao lưu tự động đang bật</string>
+	<string name="cloud_backup_detail_header_condition_wlan">Wi-Fi</string>
+    <string name="cloud_backup_detail_header_condition_wlan_china">Wi-Fi</string>
+	<string name="cloud_backup_detail_header_condition_screen">Màn hình khóa</string>
+	<string name="menu_item_more_backup_options">Dịch vụ sao lưu bổ sung</string>
+	<string name="page_title_more_backup_options">Dịch vụ sao lưu bổ sung</string>
+	<string name="cloud_backup_get_installed_apps_summary">Để sao lưu và khôi phục các ứng dụng Màn hình chính</string>
+    <string name="cloud_backup_get_installed_apps_title">Truy cập danh sách ứng dụng được cài đặt trên thiết bị</string>
 </resources>
