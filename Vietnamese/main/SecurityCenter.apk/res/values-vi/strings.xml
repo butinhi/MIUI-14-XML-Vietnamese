@@ -7479,4 +7479,23 @@ Thiết bị của bạn có thể nóng lên và tiêu thụ nhiều điện n�
     <string name="virus_engine_split_text">", "</string>
     <string name="virus_scan_process_pre">%</string>
     <string name="vtb_ai_subtitle_intl">Phụ đề AI</string>
+	<string name="gd_setting_dock_activity_title">Thanh bên</string>
+	<string name="gd_setting_dock_call_summary">Các tính năng dành cho cuộc gọi thoại và video (ví dụ: đủ sáng)</string>
+	<string name="gd_setting_dock_call_title">Công cụ gọi</string>
+	<string name="gd_setting_dock_game_summary">Tăng cường hiển thị và hiệu suất khi chơi game</string>
+	<string name="gd_setting_dock_game_summary_new">Tăng cường hiển thị và hiệu suất khi chơi game</string>
+	<string name="gd_setting_dock_summary">Mở các ứng dụng khác trong cửa sổ nổi khi sử dụng ứng dụng ở chế độ toàn màn hình</string>
+	<string name="gd_setting_dock_title">Thanh bên</string>
+	<string name="gd_setting_dock_video_summary">Sử dụng các hiệu ứng như Dolby Atmos khi xem video</string>
+	<string name="gd_setting_dock_video_summary_new">Sử dụng các công cụ và hiệu ứng khi xem video</string>
+	<string name="gd_setting_group_custom_conversation_apps">Ghi âm giọng nói cho cuộc gọi</string>
+	<string name="global_dock_guide_desc_pad">Nhấn và giữ chỉ báo để di chuyển cửa sổ xung quanh</string>
+    <string name="global_dock_guide_desc_with_split_screen_new">"· Nhấn vào một ứng dụng trên thanh bên để mở ứng dụng đó trong cửa sổ nổi.
+· Kéo ứng dụng vào giữa màn hình để mở ứng dụng đó trong cửa sổ nổi hoặc sang một bên để sử dụng Chia đôi màn hình.
+· Nhấn và giữ chỉ báo để di chuyển cửa sổ xung quanh."</string>
+    <string name="global_dock_guide_desc_without_split_screen_new">"Vuốt để mở thanh bên và nhấn vào ứng dụng để mở ứng dụng đó trong cửa sổ nổi.
+Nhấn và giữ chỉ báo để di chuyển cửa sổ xung quanh."</string>
+	<string name="gd_setting_group_custom_gtb_apps_new">Quản lý ứng dụng trò chơi</string>
+	<string name="gd_setting_group_custom_vtb_apps_new">Quản lý ứng dụng video</string>
+	<string name="cs_privacy_camera_global_settings_title">Quyền riêng tư cuộc gọi</string>
 </resources>
