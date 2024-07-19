@@ -1083,7 +1083,7 @@ Sẽ dùng mạng ưu tiên thay thế."</string>
     <string name="preferred_network_type_pref_entries_3g_preferred">Ưu tiên 3G</string>
     <string name="preferred_network_type_pref_entries_4g_preferred_cdma">Ưu tiên 4G (CDMA)</string>
     <string name="preferred_network_type_pref_entries_3g_preferred_cdma">Ưu tiên 3G (CDMA)</string>
-    <string name="preferred_network_type_pref_entries_only_2g">Chỉ 2G (Tiết kiệm Pin)</string>
+    <string name="preferred_network_type_pref_entries_only_2g">Chỉ 2G (Tiết kiệm pin)</string>
     <string name="preferred_network_type_pref_entries_only_3g">Chỉ 3G</string>
     <string name="preferred_network_type_3g_only_warning">Thẻ SIM của bạn phải được hỗ trợ 3G để kết nối mạng.</string>
     <string name="call_description_recording">Đang ghi âm…</string>
@@ -2569,7 +2569,7 @@ Cuộc gọi khẩn cấp chỉ khả dụng trong vùng phủ sóng Mạng di �
     <string name="preferred_network_mode_dialogtitle_show_radio_tech">Chế độ mạng</string>
     <string name="proximity_mode_title">Bật cảm biến tiệm cận</string>
     <string name="proximity_off_summary">Khi bạn trả lời cuộc gọi, màn hình sẽ luôn bật.</string>
-    <string name="proximity_on_summary">Khi bạn trả lời cuộc gọi, màn hình sẽ tắt để Tiết kiệm Pin.</string>
+    <string name="proximity_on_summary">Khi bạn trả lời cuộc gọi, màn hình sẽ tắt để Tiết kiệm pin.</string>
     <string name="proxy_address">Địa chỉ Proxy</string>
     <string name="puk_length_indicate">(8 chữ số)</string>
     <string name="register_femtocell_point_result_fail_tip">Không thể kết nối với mạng này bây giờ. Vui lòng thử lại sau.</string>
@@ -3662,7 +3662,7 @@ Bất cứ người dùng nào cũng có thể cập nhật ứng dụng cho ng�
 	<string name="permission_description">Chi tiết quyền</string>
 	<string name="ask">Hỏi</string>
 	<string name="optimization_settings_category">Tối ưu hóa</string>
-	<string name="fiveg_power_switch_title">Tiết kiệm Pin 5G</string>
+	<string name="fiveg_power_switch_title">Tiết kiệm pin 5G</string>
 	<string name="data_connection_3g">3G</string>
 	<string name="data_connection_4g">4G</string>
 	<string name="smart_multinetwork_acceleration_title">Tăng tốc mạng thông minh</string>

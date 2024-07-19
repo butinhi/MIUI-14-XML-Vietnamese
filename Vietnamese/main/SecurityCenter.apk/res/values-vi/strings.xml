@@ -4744,7 +4744,7 @@ Bật một trong các tính năng sẽ tắt tính năng còn lại."</string>
     <string name="pc_smart_discharge_checkbox_summary">Khi sử dụng ứng dụng điều hướng, quá trình sạc sẽ tự động dừng khi pin đạt đến mức đã chọn. Tính năng này sẽ không hoạt động khi Tiết kiệm pin hoặc Trình siêu Tiết kiệm pin được bật.</string>
     <string name="pc_smart_discharge_protect_notifi_summary">Để bảo vệ pin, quá trình sạc sẽ tự động dừng ở mức đã chọn khi sử dụng ứng dụng điều hướng</string>
     <string name="pc_smart_discharge_protect_notifi_summary2">Để bảo vệ pin, quá trình sạc sẽ tự động dừng ở mức đã chọn khi sử dụng ứng dụng điều hướng</string>
-    <string name="pc_batery_information">Thông tin Pin</string>
+    <string name="pc_batery_information">Thông tin pin</string>
     <string name="pc_toady_charge_time_title">Số lần sạc pin hôm nay</string>
     <string name="app_name_pad">Bảo mật</string>
     <string name="kilobyteShort">KB</string>

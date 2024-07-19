@@ -225,7 +225,7 @@
     <string name="download_manage_item_complete">Hoàn tất</string>
     <string name="download_method">Tải xuống</string>
     <string name="download_no_application_title">Không thể mở tập tin</string>
-    <string name="download_paused_in_power_save_mode">Tải xuống đã tạm dừng khi Tiết kiệm Pin bật</string>
+    <string name="download_paused_in_power_save_mode">Tải xuống đã tạm dừng khi Tiết kiệm pin bật</string>
     <string name="download_processing">Đang tải xuống…</string>
     <string name="download_quality">Chất lượng tải xuống</string>
     <string name="download_quality_summary">Cài đặt bổ sung cho các bài hát mà bạn tải xuống</string>
@@ -511,7 +511,7 @@
     <string name="optimize_all_until_scanned">Đang quét bài hát trên máy, vui lòng thử lại sau</string>
     <string name="other_song_in_album">Bài hát khác từ album này</string>
     <string name="paused_by_app">Đã tạm dừng</string>
-    <string name="paused_in_power_save_mode">Tạm dừng khi Tiết kiệm Pin bật</string>
+    <string name="paused_in_power_save_mode">Tạm dừng khi Tiết kiệm pin bật</string>
     <string name="paused_insufficient_space">Đang chờ</string>
     <string name="paused_queued_for_wifi">Đang chờ kết nối</string>
     <string name="paused_unknown">Đã tạm dừng</string>
@@ -541,7 +541,7 @@
     <string name="playlist_type_recommend">Danh sách phát đặc sắc</string>
     <string name="please_download_first">Bạn cần tải bài hát này trước khi đặt làm nhạc chuông</string>
     <string name="please_select_song">Chọn một bài hát trước</string>
-    <string name="power_save_mode_dialog_msg">Tiết kiệm Pin bật. Bắt đầu tải xuống ngay?</string>
+    <string name="power_save_mode_dialog_msg">Tiết kiệm pin bật. Bắt đầu tải xuống ngay?</string>
     <string name="preset_music_playlist">Danh sách phát Nhạc Mi</string>
     <string name="priority_storage">Dùng thẻ nhớ SD</string>
     <string name="priority_storage_summary">Tự động tải xuống thẻ SD nếu khả dụng</string>

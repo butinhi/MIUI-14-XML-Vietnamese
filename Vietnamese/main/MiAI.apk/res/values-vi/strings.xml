@@ -272,7 +272,7 @@ Thử ngay bây giờ"</string>
 
 2. Để kích hoạt Mi AI bằng lời chào bằng giọng nói, trước tiên bạn cần bật màn hình.
 
-3. Hãy nhớ rằng Trình tiết kiệm pin sẽ tắt tính năng này.
+3. Hãy nhớ rằng Trình Tiết kiệm pin sẽ tắt tính năng này.
 
 %1$s"</string>
     <string name="ai_voice_trigger_control_summary">Kích hoạt Mi AI kèm theo lời chào khi màn hình bật</string>
@@ -3141,7 +3141,7 @@ Các từ nóng được hỗ trợ: Bạn cùng lớp Xiaoai, bài hát trướ
     <string name="xm_connect_guide_long_press_message">Chọn chức năng giảm tiếng ồn bạn cần sử dụng bằng cách nhấn và giữ tai trái và phải và chọn ít nhất 2</string>
     <string name="xm_connect_guide_look_more">xem thêm</string>
     <string name="xm_connect_guide_low_power">Chế độ tiết kiệm năng lượng</string>
-    <string name="xm_connect_guide_low_power_messge">Đặt khoảng thời gian khi không sử dụng thiết bị, ngắt kết nối Bluetooth và đặt thiết bị ở chế độ chờ để tiết kiệm pin.</string>
+    <string name="xm_connect_guide_low_power_messge">Đặt khoảng thời gian khi không sử dụng thiết bị, ngắt kết nối Bluetooth và đặt thiết bị ở chế độ chờ để Tiết kiệm pin.</string>
     <string name="xm_connect_guide_next">dấu vết tiếp theo</string>
     <string name="xm_connect_guide_noise_control">Kiểm soát giảm tiếng ồn</string>
     <string name="xm_connect_guide_notifi_message">Kết nối thiết bị đã hoàn tất, vui lòng nhấp vào để tiến hành cài đặt thiết bị.</string>

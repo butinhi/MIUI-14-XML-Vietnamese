@@ -409,8 +409,8 @@ Hãy chạm vào màn hình để bắt đầu GPS…"</string>
     <string name="magnetic_info_hint">Hãy xoay thiết bị như 8 hình dạng</string>
     <string name="cit_flash_life_check_title">Tuổi thọ đèn flash</string>
     <string name="cit_flash_life_check_summary">Ước lượng thời gian sử dụng đèn flash thiết bị</string>
-    <string name="cit_battery_check_title">Thông tin Pin</string>
-    <string name="cit_battery_check_summary">Thống kê Pin thiết bị</string>
+    <string name="cit_battery_check_title">Thông tin pin</string>
+    <string name="cit_battery_check_summary">Thống kê pin thiết bị</string>
     <string name="cit_tfcard_support_title">Hỗ trợ thẻ TF</string>
     <string name="cit_tfcard_support_summary">Kiểm tra xem nếu thẻ TF được hỗ trợ trên thiết bị này</string>
     <string name="cit_hardware_info_title">Thông tin phần cứng</string>
