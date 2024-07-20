@@ -190,7 +190,7 @@
     <string name="reset_function_msg">Thiết lập lại chức năng này có thể làm %1$s làm việc không bình thường.</string>
     <string name="some_app_taking">(%1$s đã sử dụng tính năng này)</string>
     <string name="unbind_device_alert_cancel">Hủy</string>
-    <string name="unbind_device_alert_content">Mất kết nối với %1$s. Để Tiết kiệm Pin, hủy ghép nối thiết bị này ngay.</string>
+    <string name="unbind_device_alert_content">Mất kết nối với %1$s. Để Tiết kiệm pin, hủy ghép nối thiết bị này ngay.</string>
     <string name="unbind_device_alert_ok">Hủy ghép nối</string>
     <string name="unbind_device_alert_title">Hủy ghép nối thiết bị</string>
 	<string name="a2dp_sink_mbs_label">Âm thanh Bluetooth</string>

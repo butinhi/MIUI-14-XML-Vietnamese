@@ -225,10 +225,10 @@ Hiện bạn có thể nhận %d ngày dùng thử miễn phí!"</item>
         <item quantity="other">Thêm tối đa %d ứng dụng. Bấm và giữ để sắp xếp lại.</item>
     </plurals>
     <plurals name="gtb_brightness_dialog_message">
-        <item quantity="other">Tính năng này tự động giảm độ sáng màn hình sau %d phút không hoạt động để tiết kiệm pin. Tiếp tục bật tính năng này?</item>
+        <item quantity="other">Tính năng này tự động giảm độ sáng màn hình sau %d phút không hoạt động để Tiết kiệm pin. Tiếp tục bật tính năng này?</item>
     </plurals>
     <plurals name="gtb_setting_item_summary_brightness">
-        <item quantity="other">Tự động giảm độ sáng màn hình để tiết kiệm pin sau %d phút không hoạt động</item>
+        <item quantity="other">Tự động giảm độ sáng màn hình để Tiết kiệm pin sau %d phút không hoạt động</item>
     </plurals>
     <plurals name="gtb_spring_festival_colored_egg">
         <item quantity="other">"Congrats! You've unlocked %s Easter eggs."</item>
@@ -379,7 +379,7 @@ Hiện bạn có thể nhận %d ngày dùng thử miễn phí!"</item>
         <item quantity="other">%d mục tiêu thụ điện năng cao</item>
     </plurals>
     <plurals name="notification_power_consume_suggest">
-        <item quantity="other">Tối ưu %d mục để tiết kiệm pin</item>
+        <item quantity="other">Tối ưu %d mục để Tiết kiệm pin</item>
     </plurals>
     <plurals name="notification_title_cmcc_app_check">
         <item quantity="other">%d ngày kể từ ngày kiểm tra cuối</item>
@@ -526,10 +526,10 @@ Hiện bạn có thể nhận %d ngày dùng thử miễn phí!"</item>
         <item quantity="other">" %d mục có thể được tối ưu"</item>
     </plurals>
     <plurals name="power_center_battery_suggest">
-        <item quantity="other">Tối ưu %d mục để tiết kiệm pin</item>
+        <item quantity="other">Tối ưu %d mục để Tiết kiệm pin</item>
     </plurals>
     <plurals name="power_center_battery_suggest_result">
-        <item quantity="other">Bạn có thể tối ưu %d mục để tiết kiệm pin</item>
+        <item quantity="other">Bạn có thể tối ưu %d mục để Tiết kiệm pin</item>
     </plurals>
     <plurals name="power_center_battery_temperature">
         <item quantity="other">%d ℃</item>

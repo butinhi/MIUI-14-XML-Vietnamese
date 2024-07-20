@@ -1880,7 +1880,7 @@ In dễ dàng trên khổ A4"</string>
     <string name="film_timefreeze">Tip bật</string>
     <string name="color_effect_entry_new_6_describe">Giới thiệu về bộ lọc</string>
     <string name="dual_video_user_guide_main_content">Để tạo video nhiều video, hãy chọn hai camera trên thiết bị của bạn và quay đồng thời. Các bản ghi có thể được lưu trữ riêng biệt hoặc được kết hợp trong một chế độ xem chia đôi hoặc video hình trong hình.</string>
-    <string name="pref_camera_auto_hibernation_description">Tắt màn hình sau %d phút chụp để Tiết kiệm Pin</string>
+    <string name="pref_camera_auto_hibernation_description">Tắt màn hình sau %d phút chụp để Tiết kiệm pin</string>
     <string name="professional_shortcut_short">Nghề nghiệp</string>
     <string name="color_effect_entry_new_bbp_describe">Giới thiệu về bộ lọc</string>
     <string name="film_timefreeze_reset">Đặt lại tip</string>
@@ -2576,7 +2576,7 @@ Sau khi bật chức năng "ghi nhiều camera", máy ảnh của điện thoạ
     <string name="pref_camera_suspend_shutter_button_summary">Kéo nút chụp lên để tạo thêm màn trập nổi</string>
     <string name="pref_camera_suspend_shutter_button_title">Màn trập bổ sung</string>
     <string name="pref_movie_solid_support_desc">Hoạt động cho video ở chế độ Pro và Time-lapse</string>
-    <string name="pref_camera_auto_hibernation_desc">Tắt màn hình sau %d phút không hoạt động để Tiết kiệm Pin trong khi quay video thông thường hoặc video tua nhanh thời gian, sử dụng tính năng chụp liên tục theo thời gian hoặc phơi sáng lâu</string>
+    <string name="pref_camera_auto_hibernation_desc">Tắt màn hình sau %d phút không hoạt động để Tiết kiệm pin trong khi quay video thông thường hoặc video tua nhanh thời gian, sử dụng tính năng chụp liên tục theo thời gian hoặc phơi sáng lâu</string>
     <string name="selfie_setting_title">Cài đặt tự sướng</string>
     <string name="pref_beauty_me_mp_switch_desc">Chỉnh hiệu ứng trang điểm cho nam trên ảnh nhóm</string>
     <string name="pref_beauty_me_mp_switch_title">Điều chỉnh hiệu ứng trang điểm cho nam giới</string>

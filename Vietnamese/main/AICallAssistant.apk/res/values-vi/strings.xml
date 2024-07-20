@@ -356,7 +356,7 @@
     <string name="click_me_to_check_the_message">Click vào tôi để xem nội dung tin nhắn</string>
     <string name="close">đóng</string>
     <string name="close_dial_pad">Đóng bảng quay số</string>
-    <string name="close_save_power_mode">Vui lòng tắt chế độ siêu tiết kiệm pin rồi bỏ phím tắt lịch sử Call Assistant</string>
+    <string name="close_save_power_mode">Vui lòng tắt chế độ siêu Tiết kiệm pin rồi bỏ phím tắt lịch sử Call Assistant</string>
     <string name="collect_diagnosis_log">Tạo nhật ký chẩn đoán</string>
     <string name="come_phone_tagged">Đánh dấu số điện thoại</string>
     <string name="common_scenario_reply_tv">Câu trả lời thường gặp</string>
@@ -849,7 +849,7 @@
     <string name="saturday">Thứ Bảy</string>
     <string name="saturday_short">phụ</string>
     <string name="saturday_shortest">sb</string>
-    <string name="save_power_mode">Vui lòng tắt chế độ siêu tiết kiệm pin trước khi tạo lối tắt nhật ký cuộc gọi AI</string>
+    <string name="save_power_mode">Vui lòng tắt chế độ siêu Tiết kiệm pin trước khi tạo lối tắt nhật ký cuộc gọi AI</string>
     <string name="search">Tìm kiếm</string>
     <string name="search_bar_text">Tìm kiếm danh bạ hoặc cuộc gọi AI</string>
     <string name="search_box">Thanh tìm kiếm</string>

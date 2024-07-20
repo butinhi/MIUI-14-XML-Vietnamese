@@ -751,7 +751,7 @@ Một số ứng dụng khẩn cấp và an toàn cần truy cập vào thông t
     <string name="unused_apps_page_summary">"Nếu một ứng dụng không được dùng đến trong vài tháng, hệ thống sẽ:
 
 • Thu hồi các quyền để bảo vệ dữ liệu của bạn
-• Chặn các thông báo để tiết kiệm pin
+• Chặn các thông báo để Tiết kiệm pin
 • Xóa các tệp tạm thời để giải phóng bộ nhớ
 
 Để cho phép lại các quyền và thông báo, hãy mở ứng dụng đó."</string>
