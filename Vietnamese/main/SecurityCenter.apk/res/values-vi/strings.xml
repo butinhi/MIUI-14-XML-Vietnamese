@@ -5065,7 +5065,6 @@ Bạn có thể tắt tùy chọn \"Tự động điều chỉnh số liệu th�
     <string name="permission_usage_virtual_calendar_once">%1$s | Ứng dụng này trả về một sự kiện lịch trống</string>
     <string name="permission_usage_virtual_common_once">%1$s | Ứng dụng này trả về một tin nhắn trống</string>
     <string name="permission_usage_virtual_contacts_once">%1$s | Ứng dụng này trả về một liên hệ trống</string>
-    <string name="popular_action_anti_spam_title_global">Chặn cuộc gọi và tin nhắn</string>
     <string name="privacy_and_safety">Riêng tư &amp; bảo mật</string>
     <string name="privacy_apps_tutorial_dlg_message_1">Tách hai ngón tay ra trên Màn hình chính để xem các ứng dụng ẩn</string>
     <string name="privacy_apps_tutorial_dlg_message_2">Lưu ý: Khi bạn ẩn một ứng dụng, chỉ lối tắt trên Màn hình chính của ứng dụng đó bị ẩn.</string>
@@ -7498,4 +7497,6 @@ Nhấn và giữ chỉ báo để di chuyển cửa sổ xung quanh."</string>
 	<string name="gd_setting_group_custom_gtb_apps_new">Quản lý ứng dụng trò chơi</string>
 	<string name="gd_setting_group_custom_vtb_apps_new">Quản lý ứng dụng video</string>
 	<string name="cs_privacy_camera_global_settings_title">Quyền riêng tư cuộc gọi</string>
+	<string name="menu_summary_antispam_calls">Chặn cuộc gọi rác</string>
+	<string name="popular_action_anti_spam_title_global">Chặn cuộc gọi rác</string>
 </resources>
