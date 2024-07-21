@@ -716,7 +716,7 @@ Nếu cả hai thiết bị không thể kết nối tới cùng một mạng, b
     <string name="miplay_mini_card_no_song_subtitle">Không phát lại</string>
     <string name="miplay_mini_card_no_song_title">Âm thanh điện thoại</string>
     <string name="circulate_card_mirror_phone_title">"Màn hình điện thoại"</string>
-    <string name="appcirculate_fragment_circulate_device_card_switch_subtitle">"Bật để tìm thiết bị ở gần và phát âm thanh và video trên chúng"</string>
+    <string name="appcirculate_fragment_circulate_device_card_switch_subtitle">"Cho phép ứng dụng tìm kiếm thiết bị lân cận để có thể sử dụng các tính năng điều khiển và kết nối"</string>
     <string name="circulate_card_sticker_dressing_equipment">Tùy chỉnh thiết bị</string>
     <string name="circulate_card_sticker_expend_contentDescription">Hiển thị các thiết bị tùy chỉnh</string>
     <string name="circulate_card_sticker_add">Thêm nhãn dán</string>
@@ -769,8 +769,8 @@ Nếu cả hai thiết bị không thể kết nối tới cùng một mạng, b
     <string name="connect_settings_connect_permission">Kết nối và quyền</string>
     <string name="connect_settings_connection_service">Kết nối Xiaomi</string>
     <string name="device_permission_dialog_message">Mở Cài đặt > Kết nối > Kết nối và quyền trên %s và cấp quyền camera trước.</string>
-    <string name="mirror_phone_content_remote">Bạn có thể bật Màn hình chính+ trong Cài đặt > Kết nối.</string>
-    <string name="mirror_remote_pad_content">Bạn có thể bật Màn hình chính+ trong Cài đặt > Kết nối.</string>
+    <string name="mirror_phone_content_remote">Bạn có thể bật Màn hình chính+ trong Cài đặt &gt; Kết nối.</string>
+    <string name="mirror_remote_pad_content">Bạn có thể bật Màn hình chính+ trong Cài đặt &gt; Kết nối.</string>
     <string name="privacy_phone_read_theme_privacy_policy"><Data>Tôi đã đọc và đồng ý với \"&lt;font color=\"#8C93B0\">&lt;/color>&lt;a href=\"%1$s\">Tuyên bố Rút lại chấp thuận đối với Chính sách Riêng tư Kết nối Xiaomi&lt;/a>&lt;/font>\".</Data></string>
     <string name="privacy_revoke_agree_detail_content">"%1$d. Đảm bảo bạn có quyền rút lại chấp thuận trước khi tiếp tục.
 %2$d. Sau khi bạn rút lại chấp thuận, thông tin cá nhân đã được thu thập và lưu trữ sẽ bị xóa trong khoảng thời gian cụ thể theo luật và quy định hiện hành trừ khi có yêu cầu khác. Vì dịch vụ kết nối được cung cấp dựa trên việc thu thập thông tin cá nhân cần thiết nên việc bạn rút lại chấp thuận sẽ được coi là từ chối chấp nhận các dịch vụ kết nối. Việc bạn rút lại chấp thuận sẽ không ảnh hưởng đến việc sử dụng bình thường các tính năng và dịch vụ khác.
@@ -1195,7 +1195,7 @@ và đăng nhập vào Tài khoản Xiaomi của bạn"</string>
     <string name="onehop_mirror_guide_message_button">Tôi biết</string>
     <string name="onehop_mirror_guide_message_text_1">Truyền màn hình điện thoại của bạn tới máy tính chỉ bằng một lần nhấn.</string>
     <string name="onehop_mirror_guide_message_text_2">Chọn ảnh, video và các tệp khác từ Thư viện hoặc Trình quản lý tệp để chuyển sang máy tính của bạn.</string>
-    <string name="onehop_mirror_guide_message_title">Mi Smart Hub</string>
+    <string name="onehop_mirror_guide_message_title">Kết nối Xiaomi</string>
     <string name="paipai_connect_tv1_text">Đã kết nối với thiết bị</string>
     <string name="paipai_connect_tv2_text">Dữ liệu đã chuyển</string>
     <string name="privacy_action_failed">Không thể rút lại chấp thuận</string>
