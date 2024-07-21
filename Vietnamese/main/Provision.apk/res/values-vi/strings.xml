@@ -710,7 +710,6 @@ Bạn cần đọc và đồng ý với Chính sách Riêng tư Mint Keyboard tr
     <string name="refuse_cookie">Từ chối cookie</string>
     <string name="other_settings_alarm_assistance">Vị trí khẩn cấp</string>
     <string name="other_settings_alarm_assistance_privacy">Chính sách bảo mật</string>
-    <string name="other_settings_alarm_assistance_summary">"Bạn có thể tự động gửi thông tin vị trí của mình cho cảnh sát bằng SMS hoặc dữ liệu di động khi bạn đang gọi 110, 120, 119 hoặc 122. Đọc và đồng ý với &lt;a href=\"%1$s\">Thỏa thuận người dùng của chúng tôi &lt;/a> và &lt;a href=\"%2$s\">Chính sách quyền riêng tư&lt;/a> trước khi sử dụng tính năng này."</string>
     <string name="other_settings_alarm_assistance_user">Thỏa thuận người dùng</string>
     <string name="aquire_device_info">Truy cập thông tin thiết bị</string>
     <string name="interconnection_service_global_item_title">Kết nối Xiaomi</string>
@@ -970,4 +969,5 @@ Bạn có thể tắt cập nhật tự động trong GetApps > Cài đặt > T�
     <string name="time_picker_label_minute">Phút</string>
     <string name="xunlei_company_related">http://sl-m-ssl.xunlei.com/h5/page/protocol/network/%s</string>
     <string name="xunlei_privacy_related">http://sl-m-ssl.xunlei.com/h5/page/protocol/%s/?theme=light</string>
+	<string name="other_settings_alarm_assistance_summary">"Bạn có thể tự động gửi thông tin vị trí của mình cho cảnh sát bằng SMS hoặc dữ liệu di động khi bạn gọi 110, 120, 119 hoặc 122. Đọc và đồng ý với &lt;a href=\"%1$s\">Thoả thuận người dùng&lt;/a> và &lt;a href=\"%2$s\">Chính sách bảo mật&lt;/a> trước khi sử dụng tính năng này."</string>
 </resources>
