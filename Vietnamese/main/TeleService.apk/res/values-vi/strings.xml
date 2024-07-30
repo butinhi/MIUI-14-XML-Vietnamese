@@ -682,7 +682,6 @@ Bạn vẫn muốn chuyển sang nhà cung cấp mới?"</string>
     <string name="roaming_reenable_message">Mất kết nối dữ liệu do bạn thoát khỏi mạng cục bộ cùng với việc tắt chuyển vùng dữ liệu.</string>
     <string name="roaming_warning">Cho phép chuyển vùng dữ liệu? Bạn có thể phải chịu phí chuyển vùng đáng kể!</string>
     <string name="roaming_alert_title">Cho phép chuyển vùng dữ liệu?</string>
-    <string name=" hide_error_from_network_text">Không thể xử lý yêu cầu</string>
     <string name="gsm_umts_options">Tùy chọn GSM/UMTS</string>
     <string name="call_forward_option">Tùy chọn chuyển tiếp cuộc gọi</string>
     <string name="cdma_options">Tùy chọn CDMA</string>
