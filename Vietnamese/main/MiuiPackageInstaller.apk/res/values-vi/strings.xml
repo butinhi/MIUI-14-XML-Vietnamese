@@ -1199,7 +1199,7 @@ hoạt động đáng ngờ"</string>
     <string name="xiaomi_account_risk">Mật khẩu tài khoản Mi</string>
     <string name="xiaomi_market_sdk_update_dialog_cancel">Không phải bây giờ</string>
     <string name="xiaomi_market_sdk_update_dialog_ok">Cập nhật</string>
-    <string name="xiaomi_market_sdk_update_dialog_title">Đã có bản cập nhật</string>
+    <string name="xiaomi_market_sdk_update_dialog_title">Đã có phiên bản mới</string>
     <string name="yesterday">Hôm qua</string>
     <string name="action_bar_report_link_des">Cảnh báo ứng dụng</string>
     <string name="adb_install_no_network">"Không thể kết nối mạng. Kiểm tra cài đặt mạng của bạn và thử lại."</string>

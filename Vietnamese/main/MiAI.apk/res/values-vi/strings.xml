@@ -3102,7 +3102,7 @@ Thông tin hậu cần của công ty chuyển phát nhanh sẽ không được 
     <string name="xiaoai_understand_you_better_after_filling_in">Cung cấp thông tin cá nhân của bạn để Mi AI có thể hiểu bạn hơn</string>
     <string name="xiaomi_market_sdk_update_dialog_cancel">Không phải bây giờ</string>
     <string name="xiaomi_market_sdk_update_dialog_ok">Cập nhật</string>
-    <string name="xiaomi_market_sdk_update_dialog_title">Đã có bản cập nhật</string>
+    <string name="xiaomi_market_sdk_update_dialog_title">Đã có phiên bản mới</string>
     <string name="xm_active_device_notification_title">Đã kết nối thiết bị Xiao ai</string>
     <string name="xm_add">Thêm vào</string>
     <string name="xm_ai_notification_cancle">Hủy bỏ</string>
