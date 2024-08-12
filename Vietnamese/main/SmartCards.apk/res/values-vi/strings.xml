@@ -1619,7 +1619,7 @@
 	<string name="wx_pay_success">Trả tiền thành công</string>
 	<string name="xiaomi_market_sdk_update_dialog_cancel">Không phải bây giờ</string>
 	<string name="xiaomi_market_sdk_update_dialog_ok">Cập nhật</string>
-	<string name="xiaomi_market_sdk_update_dialog_title">Đã có bản cập nhật</string>
+	<string name="xiaomi_market_sdk_update_dialog_title">Đã có phiên bản mới</string>
 	<string name="year">năm</string>
 	<string name="yes">Đúng</string>
 	<string name="yesterday">Hôm qua</string>
