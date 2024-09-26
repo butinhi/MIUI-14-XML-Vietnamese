@@ -7486,4 +7486,13 @@ Nhấn và giữ chỉ báo để di chuyển cửa sổ xung quanh."</string>
 	<string name="cs_privacy_camera_global_settings_title">Quyền riêng tư cuộc gọi</string>
 	<string name="menu_summary_antispam_calls">Chặn cuộc gọi rác</string>
 	<string name="popular_action_anti_spam_title_global">Chặn cuộc gọi rác</string>
+	<string name="pc_smart_charge_pogo_project_dialog_title">Bảo vệ pin</string>
+	<string name="pc_smart_charge_pogo_project_notification_title">Bảo vệ pin</string>
+	<string name="pc_health_charge_protect_summary">Để kéo dài tuổi thọ pin, thiết bị sẽ ngừng sạc khi mức pin đạt đến %1$s</string>
+	<string name="pc_smart_charge_button_summary">Để kéo dài tuổi thọ pin, hệ thống sẽ tìm hiểu cách bạn sạc thiết bị và dừng sạc khi mức pin đạt đến %1$s</string>
+	<string name="pc_smart_charge_pogo_project_dialog_content">"Để kéo dài tuổi thọ pin, pin của thiết bị này sẽ không vượt quá mức hiện tại khi được kết nối với ô tô."</string>
+	<string name="pc_smart_charge_pogo_project_notification_content">"Để kéo dài tuổi thọ pin, pin của thiết bị này sẽ không vượt quá mức hiện tại khi được kết nối với ô tô"</string>
+    <string name="pc_fast_charge_temp_remider">"Bật để tự động điều chỉnh tốc độ sạc. Tính năng này chỉ hoạt động với bộ sạc do Xiaomi cung cấp. Thiết bị của bạn có thể nóng lên trong khi sạc."</string>
+	<string name="pc_health_charge_protect_title">Bảo vệ pin</string>
+	<string name="pc_smart_charge_title">Sạc thông minh</string>
 </resources>
