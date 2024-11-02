@@ -1030,4 +1030,7 @@
 	<string name="opened_high_refresh_options">Ứng dụng sử dụng tốc độ làm mới cao</string>
 	<string name="customize_high_refresh_summary">Tính năng này hỗ trợ tốc độ làm mới lên tới %d Hz. Tốc độ làm mới phù hợp có thể được chọn tự động dựa trên tùy chọn thiết bị.</string>
     <string name="customize_high_refresh_title">Ứng dụng sử dụng tốc độ làm mới cao</string>
+	<string name="health_of_use_eyes">Khỏe mạnh</string>
+    <string name="health_use_of_pad">Sử dụng thiết bị</string>
+    <string name="health_use_of_phone">Sử dụng thiết bị</string>
 </resources>

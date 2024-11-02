@@ -14810,4 +14810,9 @@ Thao tác xóa phương thức khóa sẽ xóa mẫu vân tay lưu trên thiết
     <string name="valid_net_result_fail">Không thể nhận thông tin. Chờ một hoặc hai phút và thử lại.</string>
     <string name="valid_net_result_title">Kết quả</string>
     <string name="wireless_display">Hiển thị không dây</string>
+	<string name="system_personalize_title">Cá nhân hoá</string>
+	<string name="enhanced_ai_applications">Tăng cường ứng dụng AI</string>
+    <string name="enhanced_ai_applications_summary">Sử dụng AI để nâng cấp ứng dụng và tận hưởng các dịch vụ thông minh hơn</string>
+	<string name="health_use_of_pad">Sử dụng thiết bị</string>
+    <string name="health_use_of_phone">Sử dụng thiết bị</string>
 </resources>
