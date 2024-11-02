@@ -1317,4 +1317,5 @@ và đăng nhập vào Tài khoản Xiaomi của bạn"</string>
     <string name="wifi_scan_btn_text">Quét lại</string>
     <string name="wifi_username_et_hint">ID tài khoản</string>
     <string name="window_card_ml_find_null">Thiết bị này có thể không ở gần đây</string>
+	<string name="connect_settings_communication_sharing">Kết nối không dây</string>
 </resources>
