@@ -4060,4 +4060,6 @@ Những ảnh chụp đẹp nhất được chọn tự động. Bạn có thể
     <string name="video_quality_8k">8K</string>
     <string name="video_tags_enter">Hiển thị đánh dấu</string>
     <string name="wechat_retry_install_msg">Cài đặt WeChat trước</string>
+	<string name="external_delete_notification_content">Nhấn để xem các mục đã xóa gần đây để đảm bảo không có mục quan trọng nào bị mất</string>
+    <string name="external_delete_notification_title">Các mục đã xóa khỏi Thư viện</string>
 </resources>
