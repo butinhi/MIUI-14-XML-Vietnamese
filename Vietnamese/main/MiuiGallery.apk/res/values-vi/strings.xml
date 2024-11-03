@@ -4062,4 +4062,13 @@ Những ảnh chụp đẹp nhất được chọn tự động. Bạn có thể
     <string name="wechat_retry_install_msg">Cài đặt WeChat trước</string>
 	<string name="external_delete_notification_content">Nhấn để xem các mục đã xóa gần đây để đảm bảo không có mục quan trọng nào bị mất</string>
     <string name="external_delete_notification_title">Các mục đã xóa khỏi Thư viện</string>
+	<string name="switch_gallery_widget_editor_dof_enable">Hiệu ứng chiều sâu</string>
+	<string name="btn_gallery_widget_pre_edit">Chỉnh sửa</string>
+	<string name="desc_gallery_widget_editor_selected_photo_list">Ảnh đã chọn</string>
+    <string name="desc_gallery_widget_editor_font_color_list">Màu chữ</string>
+    <string name="desc_gallery_widget_editor_font_type_list">Phông</string>
+	<string name="desc_gallery_widget_editor_text_position_list">Bố cục</string>
+	<string name="gallery_widget_editor_widget_text_form_label">Chữ</string>
+    <string name="gallery_widget_editor_widget_text_form_placeholder">Nhập văn bản</string>
+	<string name="miuix_indexer_collect">Bộ sưu tập</string>
 </resources>
