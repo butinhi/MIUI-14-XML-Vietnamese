@@ -2242,4 +2242,10 @@ Bạn có thể rút lại chấp thuận của mình đối với Chính sách 
     <string name="ai_inquire_apply_wallpaper">Áp dụng hình nền này?</string>
     <string name="ai_moving_your_wallpaper">Xem cách AI có thể làm cho hình nền của bạn trở nên sống động</string>
 	<string name="personalize_aod_notify_style_title">Hiển thị thông báo</string>
+    <string name="ai_read_the_privacy_policy">&lt;Data>Đọc và đồng ý với &lt;a href=\"%1$s\">Thỏa thuận người dùng&lt;/a> và &lt;a href=\"%2$s\">Chính sách bảo mật&lt;/a> của chúng tôi trước khi bạn tiếp tục.&lt;/Data></string>
+    <string name="ai_read_the_privacy_policy_pad">&lt;Data>Đọc và đồng ý với &lt;a href=\"%1$s\">Thỏa thuận người dùng&lt;/a> và &lt;a href=\"%2$s\">Chính sách bảo mật hình nền và cá nhân hóa&lt;/a> của chúng tôi trước khi bạn tiếp tục.&lt;/Data></string>
+    <string name="ai_select_again">Chọn</string>
+    <string name="ai_select_message">Chỉ chọn hình ảnh phong cảnh, thành phố, cây cối và ô tô, và đảm bảo rằng chủ thể chính của hình ảnh rõ ràng và không bị cản trở.</string>
+    <string name="ai_select_title">"Không thể xử lý hình ảnh"</string>
+    <string name="ai_select_wallpaper">Chọn hình nền</string>
 </resources>

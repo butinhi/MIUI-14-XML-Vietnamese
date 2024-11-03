@@ -829,7 +829,7 @@ Thời gian tiếp theo bắt đầu trong %2$d ngày (%3$s)"</string>
     <string name="simContacts_empty">Không có danh bạ trên thẻ SIM của bạn.</string>
     <string name="simContacts_title">Quản lý liên hệ thẻ SIM</string>
     <string name="simContacts_airplaneMode">Để nhập liên hệ từ thẻ SIM, hãy tắt chế độ Máy bay.</string>
-    <string name="enable_pin">Mã PIN của SIM</string>
+    <string name="enable_pin">Bật/tắt mã PIN của SIM</string>
     <string name="change_pin">Thay đổi mã PIN của SIM</string>
     <string name="enter_pin_text">Mã PIN của SIM:</string>
     <string name="oldPinLabel">Mã PIN cũ</string>
@@ -3705,4 +3705,5 @@ Bất cứ người dùng nào cũng có thể cập nhật ứng dụng cho ng�
 	<string name="fiveg_sa_vice_switch_summary">Cho phép SIM phụ sử dụng mạng 5G độc lập</string>
 	<string name="n28_summary">Sử dụng dải tần 803 MHz</string>
 	<string name="call_notification_incoming_text">Cuộc gọi đến</string>
+	<string name="enable_esim_summary">Tắt SIM %s sau khi bật</string>
 </resources>
