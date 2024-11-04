@@ -4071,4 +4071,7 @@ Những ảnh chụp đẹp nhất được chọn tự động. Bạn có thể
 	<string name="gallery_widget_editor_widget_text_form_label">Chữ</string>
     <string name="gallery_widget_editor_widget_text_form_placeholder">Nhập văn bản</string>
 	<string name="miuix_indexer_collect">Bộ sưu tập</string>
+    <string name="delete_all_photos">"Bạn sắp xóa tất cả ảnh trên thiết bị. Điều này có thể khiến bạn mất dữ liệu quan trọng. Vẫn xoá?"</string>
+    <string name="delete_media_dialog_comment">Những mục này trước tiên sẽ được chuyển đến \"Mục đã xóa\". Từ đó, bạn có thể khôi phục chúng hoặc xóa chúng vĩnh viễn.</string>
+    <string name="delete_media_from_cloud">Các mục đã chọn sẽ bị xóa khỏi tất cả các thiết bị và đám mây. Vẫn xoá?</string>
 </resources>
