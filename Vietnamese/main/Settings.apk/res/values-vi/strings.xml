@@ -3737,7 +3737,7 @@ Bạn có thể thay đổi điều này sau đó từ Cài đặt > Ứng dụn
     <string name="device_miui_more">Xem thêm</string>
     <string name="device_share_loading">Đang tạo ảnh…</string>
     <string name="device_actionbar_title">Tất cả thông số</string>
-    <string name="device_complete_parameters">Hoàn tất</string>
+    <string name="device_complete_parameters">Tất cả thông số</string>
     <string name="menu_share">Chia sẻ</string>
     <string name="menu_check">Trải nghiệm</string>
     <string name="mi_shopping_mall">Mi Store</string>
@@ -14819,4 +14819,12 @@ Thao tác xóa phương thức khóa sẽ xóa mẫu vân tay lưu trên thiết
 	<string name="nearby_wifi_refresh">Làm mới</string>
     <string name="long_press_editor_style_summary">Nhấn và giữ màn hình Khóa để chỉnh sửa đồng hồ và hình nền</string>
     <string name="long_press_editor_style_title">Nhấn và giữ để chỉnh sửa</string>
+    <string name="device_class_car_kit">Hệ thống xe hơi</string>
+    <string name="device_class_headset">Tai nghe</string>
+    <string name="device_class_hearing_aid">Máy trợ thính</string>
+    <string name="device_class_other">Khác</string>
+    <string name="device_class_setting_summary">Chỉ định loại thiết bị để tối ưu hóa trải nghiệm của bạn hơn nữa</string>
+    <string name="device_class_setting_title">Loại thiết bị</string>
+    <string name="device_class_speaker">Loa</string>
+    <string name="device_class_watch">Đồng hồ</string>
 </resources>
