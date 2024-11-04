@@ -4149,4 +4149,6 @@ Nếu bạn có thắc mắc, hãy liên hệ với %2$s."</string>
     <string name="wind_direction_7">Gió TB</string>
     <string name="wind_direction_7_f">Gió TB</string>
     <string name="wind_format">%1$s | Cấp %2$s</string>
+	<string name="custom_lockscreen">Tuỳ chỉnh màn hình khoá</string>
+	<string name="miuix_indexer_collect">Bộ sưu tập</string>
 </resources>
