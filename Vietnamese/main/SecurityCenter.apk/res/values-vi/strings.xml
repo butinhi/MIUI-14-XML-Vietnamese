@@ -7508,4 +7508,5 @@ Nhấn và giữ chỉ báo để di chuyển cửa sổ xung quanh."</string>
     <string name="pc_low_temperature_extreme_endurance_title">Chế độ chịu lạnh</string>
 	<string name="pc_health_charge_protect_notification_summary">Bật chế độ bảo vệ pin để giảm tình trạng pin bị lão hóa</string>
 	<string name="pc_cycle_count_protect_title">Chu kỳ</string>
+	<string name="privacy_extra_provision_title">Dịch vụ mở rộng</string>
 </resources>

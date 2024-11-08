@@ -963,6 +963,19 @@ Bạn có thể tắt cập nhật tự động trong GetApps > Cài đặt > T�
     <string name="time_picker_label_minute">Phút</string>
     <string name="xunlei_company_related">http://sl-m-ssl.xunlei.com/h5/page/protocol/network/%s</string>
     <string name="xunlei_privacy_related">http://sl-m-ssl.xunlei.com/h5/page/protocol/%s/?theme=light</string>
-	<string name="other_settings_alarm_assistance_summary">"Bạn có thể tự động gửi thông tin vị trí của mình cho cảnh sát bằng SMS hoặc dữ liệu di động khi bạn gọi 110, 120, 119 hoặc 122. Đọc và đồng ý với &lt;a href=\"%1$s\">Thoả thuận người dùng&lt;/a> và &lt;a href=\"%2$s\">Chính sách bảo mật&lt;/a> trước khi sử dụng tính năng này."</string>
-
+	<string name="other_settings_alarm_assistance_summary">"Bạn có thể tự động gửi thông tin vị trí của mình cho cảnh sát bằng SMS hoặc dữ liệu di động khi bạn gọi 110, 120, 119 hoặc 122. Đọc và đồng ý với Thoả thuận người dùng và Chính sách bảo mật trước khi sử dụng tính năng này."</string>
+    <string name="sample_text_summary">Xiaomi không ngừng xây dựng những sản phẩm tuyệt vời với mức giá hợp lý để mọi người trên thế giới có thể tận hưởng cuộc sống tốt đẹp hơn thông qua công nghệ tiên tiến.</string>
+    <string name="sample_text_title">Văn bản mẫu:</string>
+	<string name="layout_size_large">Lớn</string>
+    <string name="layout_size_normal">Thường</string>
+	<string name="terms_and_statement_title">Điều khoản và điều kiện</string>
+	<string name="terms_of_use_label_use_network_china_append">Khi thiết bị của bạn được kích hoạt, các dịch vụ sau sẽ kết nối với mạng:</string>
+	<string name="phone_service_introduction">Điện thoại là dịch vụ cơ bản cho phép thiết bị của bạn thực hiện cuộc gọi, gửi và nhận tin nhắn và kết nối với mạng.</string>
+	<string name="require_statement">Để cung cấp các dịch vụ cơ bản, chúng tôi cần các quyền sau:</string>
+    <string name="require_telephone_imei">Đọc IMEI và IMSI</string>
+    <string name="require_telephone_imei_summary">Để truy cập IMEI</string>
+    <string name="require_telephone_location">Truy cập vị trí</string>
+    <string name="require_telephone_location_summary">Để truy cập vị trí gần đúng và cung cấp dịch vụ tối ưu hóa mạng dựa trên vị trí</string>
+	<string name="study_full_screen_gesture_text">Tìm hiểu cử chỉ điều hướng</string>
+	<string name="provision_complete_text">Tiếp tục</string>
 </resources>
