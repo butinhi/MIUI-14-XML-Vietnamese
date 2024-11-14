@@ -788,4 +788,5 @@ mm"</string>
     <string name="wind_direction_7_f">Gió TB</string>
     <string name="wind_format">%1$s | Cấp %2$s</string>
 	<string name="kg_font_filter_group_label_gradient_blur">Độ dốc</string>
+	<string name="always_style_symmary_new">Tăng tiêu thụ điện năng</string>
 </resources>

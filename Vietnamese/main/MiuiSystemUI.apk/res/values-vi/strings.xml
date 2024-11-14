@@ -4151,4 +4151,8 @@ Nếu bạn có thắc mắc, hãy liên hệ với %2$s."</string>
     <string name="wind_format">%1$s | Cấp %2$s</string>
 	<string name="custom_lockscreen">Tuỳ chỉnh màn hình khoá</string>
 	<string name="miuix_indexer_collect">Bộ sưu tập</string>
+    <string name="quick_settings_state_saved_bt_devices">Thiết bị Bluetooth đã lưu</string>
+    <string name="quick_settings_state_saved_wifi_devices">Mạng Wi-Fi đã lưu</string>
+    <string name="quick_settings_state_saved_wlan_devices_china">Đã lưu Wi-Fi</string>
+	
 </resources>

@@ -978,4 +978,5 @@ Bạn có thể tắt cập nhật tự động trong GetApps > Cài đặt > T�
     <string name="require_telephone_location_summary">Để truy cập vị trí gần đúng và cung cấp dịch vụ tối ưu hóa mạng dựa trên vị trí</string>
 	<string name="study_full_screen_gesture_text">Tìm hiểu cử chỉ điều hướng</string>
 	<string name="provision_complete_text">Tiếp tục</string>
+	<string name="font_size_title">Cỡ chữ</string>
 </resources>
