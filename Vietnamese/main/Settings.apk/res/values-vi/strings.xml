@@ -14827,4 +14827,6 @@ Thao tác xóa phương thức khóa sẽ xóa mẫu vân tay lưu trên thiết
     <string name="device_class_setting_title">Loại thiết bị</string>
     <string name="device_class_speaker">Loa</string>
     <string name="device_class_watch">Đồng hồ</string>
+    <string name="sensors_hal_log_summary">Sử dụng nhật ký cho Cảm biến HAL</string>
+    <string name="sensors_hal_log_title">Nhật ký cảm biến HAL</string>
 </resources>
