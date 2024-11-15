@@ -14829,4 +14829,8 @@ Thao tác xóa phương thức khóa sẽ xóa mẫu vân tay lưu trên thiết
     <string name="device_class_watch">Đồng hồ</string>
     <string name="sensors_hal_log_summary">Sử dụng nhật ký cho Cảm biến HAL</string>
     <string name="sensors_hal_log_title">Nhật ký cảm biến HAL</string>
+	<string name="bt_connect_help_earphone_second">%d. Để có thể phát hiện chúng, hãy nhấn và giữ nút nguồn trên loa hoặc tai nghe cho đến khi đèn báo bắt đầu nhấp nháy.</string>
+    <string name="bt_connect_help_earphone_third">%d. Bây giờ bạn có thể tìm và ghép nối loa và tai nghe của mình.</string>
+    <string name="bt_connect_help_toast">"Không tìm thấy thiết bị của bạn? Nhấn để xem trợ giúp."</string>
+    <string name="bt_connect_help_wear">Thiết bị đeo được</string>
 </resources>
