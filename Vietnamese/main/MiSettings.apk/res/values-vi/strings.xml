@@ -1033,4 +1033,9 @@
 	<string name="health_of_use_eyes">Khỏe mạnh</string>
     <string name="health_use_of_pad">Sử dụng thiết bị</string>
     <string name="health_use_of_phone">Sử dụng thiết bị</string>
+	<string name="eyes_habits_tips">Thông báo về sức khỏe mắt</string>
+    <string name="eyes_habits_tips_desc">Nhận thông báo khi thiết bị của bạn phát hiện các tình trạng có thể gây mỏi mắt</string>
+	<string name="more_visual_health_settings">Thêm các thiết lập về sức khỏe mắt</string>
+	<string name="full_screen_remind">Cảnh báo</string>
+	<string name="mild_remind">Thông báo</string>
 </resources>

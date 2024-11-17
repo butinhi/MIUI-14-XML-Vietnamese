@@ -14833,4 +14833,9 @@ Thao tác xóa phương thức khóa sẽ xóa mẫu vân tay lưu trên thiết
     <string name="bt_connect_help_earphone_third">%d. Bây giờ bạn có thể tìm và ghép nối loa và tai nghe của mình.</string>
     <string name="bt_connect_help_toast">"Không tìm thấy thiết bị của bạn? Nhấn để xem trợ giúp."</string>
     <string name="bt_connect_help_wear">Thiết bị đeo được</string>
+	<string name="eye_habit_prompt_summary">Nhận thông báo khi thiết bị của bạn phát hiện các tình trạng có thể gây mỏi mắt</string>
+    <string name="eye_habit_prompt_title">Thông báo về sức khỏe mắt</string>
+	<string name="more_settings_eye_health">Thêm các thiết lập về sức khỏe mắt</string>
+	<string name="full_screen_reminder">Cảnh báo</string>
+	<string name="mild_remind">Thông báo</string>
 </resources>

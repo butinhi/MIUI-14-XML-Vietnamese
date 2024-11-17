@@ -4074,4 +4074,13 @@ Những ảnh chụp đẹp nhất được chọn tự động. Bạn có thể
     <string name="delete_all_photos">"Bạn sắp xóa tất cả ảnh trên thiết bị. Điều này có thể khiến bạn mất dữ liệu quan trọng. Vẫn xoá?"</string>
     <string name="delete_media_dialog_comment">Những mục này trước tiên sẽ được chuyển đến \"Mục đã xóa\". Từ đó, bạn có thể khôi phục chúng hoặc xóa chúng vĩnh viễn.</string>
     <string name="delete_media_from_cloud">Các mục đã chọn sẽ bị xóa khỏi tất cả các thiết bị và đám mây. Vẫn xoá?</string>
+	<string name="recently_deleted">Đã xóa gần đây</string>
+    <string name="featured_people_empty_des">Mọi người và nhóm sẽ được sắp xếp khi thiết bị đang sạc và màn hình tắt</string>
+    <string name="featured_people_empty_title">Chưa có người nào</string>
+    <string name="featured_journey_empty_title">Chưa có chuyến đi nào</string>
+    <string name="featured_journey_pets_empty_des">Hành trình sẽ được sắp xếp khi thiết bị đang sạc và màn hình tắt</string>
+    <string name="journey">Hành trình</string>
+    <string name="journey_time_all">Tất cả</string>
+    <string name="featured_time_empty_des">Ký ức sẽ được sắp xếp khi thiết bị đang sạc và màn hình tắt</string>
+    <string name="featured_time_empty_title">Chưa có ký ức nào ở đây</string>
 </resources>
