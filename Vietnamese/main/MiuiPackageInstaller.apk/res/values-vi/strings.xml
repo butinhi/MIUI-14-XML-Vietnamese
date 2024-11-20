@@ -28,8 +28,8 @@
     <string name="abc_shareactionprovider_share_with">Chia sẽ với</string>
     <string name="abc_shareactionprovider_share_with_application">Chia sẻ với %s</string>
     <string name="abc_toolbar_collapse_description">Sụp đổ</string>
-    <string name="about_pure_mode">Giới thiệu về Mi Protect</string>
-    <string name="about_safe_mode">Tìm hiểu thêm về Mi Protect</string>
+    <string name="about_pure_mode">Giới thiệu về Bảo vệ Mi</string>
+    <string name="about_safe_mode">Tìm hiểu thêm về Bảo vệ Mi</string>
     <string name="actionbar_button_up_description">Mặt sau</string>
     <string name="ad_permissions">&lt;u>Quyền&lt;u/></string>
     <string name="ad_privacy">&lt;u>Quyền riêng tư&lt;u/></string>
@@ -103,9 +103,9 @@
     <string name="bundle_app_sure_title">Ứng dụng này có thể không phải là \"%1$s\"</string>
     <string name="bundle_app_tip_test">Qua xem xét và phản hồi của người dùng, chúng tôi nhận thấy rằng ứng dụng này gói hoặc buộc cài đặt các ứng dụng khác. \"%1$s\" có thể không phải là ứng dụng bạn đang tìm kiếm.</string>
     <string name="bundle_no_store_app_on_self_desc_text">\"%1$s\" là một phần của bản tải xuống đi kèm. Nếu bạn vẫn muốn tải xuống \"%2$s\", hãy nhấn vào đây.</string>
-    <string name="button_text_back">Mặt sau</string>
+    <string name="button_text_back">Quay lại</string>
     <string name="cancel_install">Hủy bỏ</string>
-    <string name="cancel_update">Đừng cập nhật</string>
+    <string name="cancel_update">Không cập nhật</string>
     <string name="cannot_do_app_check">Không thể thực hiện kiểm tra bảo mật</string>
     <string name="cb_back">nút quay lại</string>
     <string name="character_counter_content_description">Các ký tự đã nhập %1$d trong tổng số %2$d</string>
@@ -202,7 +202,7 @@
     <string name="confirm_install">Cài đặt</string>
     <string name="copy">Sao chép</string>
     <string name="cpu_compatible_error">Ứng dụng này không tương thích hoàn toàn với kiến ​​trúc 64-bit. Việc sử dụng nó có thể làm giảm hiệu suất hệ thống và tăng mức tiêu thụ điện năng. Nhấn để tìm hiểu thêm.</string>
-    <string name="cta_button_text_cancel">Lối ra</string>
+    <string name="cta_button_text_cancel">Thoát</string>
     <string name="custom_toast_with_clickable_span">%1$s %2$s</string>
     <string name="date_picker_lunar">Lịch truyền thống Trung Quốc</string>
     <string name="date_time_picker_dialog_title">Đặt ngày và giờ</string>
@@ -233,7 +233,7 @@
     <string name="dev_com_risk_text">Loại rủi ro</string>
     <string name="dev_com_submit_tip">Không thể gửi thêm khiếu nại ngày hôm nay. Hãy thử vào ngày mai.</string>
     <string name="dev_complaint">Mẫu đơn khiếu nại</string>
-    <string name="dev_complaint_btntext">Nộp</string>
+    <string name="dev_complaint_btntext">Gửi</string>
     <string name="dev_complaint_result_tip1">Đã gửi kháng nghị thành công</string>
     <string name="dev_complaint_result_tip2">Chúng tôi sẽ liên hệ với bạn trong vòng %d ngày làm việc. Vui lòng không gửi khiếu nại trùng lặp.</string>
     <string name="dev_complaint_tiptext">Chúng tôi sẽ liên hệ với bạn trong vòng %d ngày làm việc kể từ khi bạn gửi khiếu nại</string>
@@ -242,10 +242,10 @@
     <string name="dialog_install_source">Nguồn: %1$s</string>
     <string name="dialog_open_security_mode_on_button_msg">Hiểu rồi</string>
     <string name="dialog_security_mode_guide_cancel">Hủy bỏ</string>
-    <string name="dialog_security_mode_guide_delete_apps_msg">Bạn đã xóa nhiều ứng dụng mà bạn chưa từng sử dụng. Nếu bạn tải nhầm ứng dụng hoặc quảng cáo không mong muốn, hãy bật Mi Protect để ngăn ứng dụng tải xuống và cài đặt ứng dụng khác mà không có sự đồng ý của bạn.</string>
-    <string name="dialog_security_mode_guide_elder_msg">Hãy bật tính năng bảo vệ Elder của Mi Protect để đảm bảo quyền riêng tư và bảo mật của bạn.</string>
+    <string name="dialog_security_mode_guide_delete_apps_msg">Bạn đã xóa nhiều ứng dụng mà bạn chưa từng sử dụng. Nếu bạn tải nhầm ứng dụng hoặc quảng cáo không mong muốn, hãy bật Bảo vệ Mi để ngăn ứng dụng tải xuống và cài đặt ứng dụng khác mà không có sự đồng ý của bạn.</string>
+    <string name="dialog_security_mode_guide_elder_msg">Hãy bật tính năng bảo vệ Elder của Bảo vệ Mi để đảm bảo quyền riêng tư và bảo mật của bạn.</string>
     <string name="dialog_security_mode_guide_open">Bật</string>
-    <string name="dialog_security_mode_guide_title">Bật Mi Protect</string>
+    <string name="dialog_security_mode_guide_title">Bật Bảo vệ Mi</string>
     <string name="discover_risk_app">Rủi ro được phát hiện</string>
     <string name="dlg_msg_unoffical">Không thể cài đặt ứng dụng hệ thống từ các kênh không chính thức</string>
     <string name="do_not_show_again">Không hiển thị lại</string>
@@ -279,7 +279,7 @@
     <string name="ettings_security_mode_tip_title1">Bảo vệ sự riêng tư của bạn</string>
     <string name="ettings_security_mode_tip_title2">Nhận biết và chặn các ứng dụng nguy hiểm</string>
     <string name="evening">Buổi chiều</string>
-    <string name="exit">Lối ra</string>
+    <string name="exit">Thoát</string>
     <string name="expand_button_title">Trình độ cao</string>
     <string name="experiment_continue">Tiếp tục</string>
     <string name="exposed_dropdown_menu_content_description">Hiển thị menu thả xuống</string>
@@ -382,7 +382,7 @@
     <string name="install_abi_error_des_market">Tải xuống phiên bản 32-bit của ứng dụng này từ GetApps</string>
     <string name="install_app_loading">Đang kiểm tra gói cài đặt…</string>
     <string name="install_apps_user_restriction_dlg_text">Người dùng này không được phép cài đặt ứng dụng</string>
-    <string name="install_completed_pure_open_tip_title">Bật Mi Protect để chặn các ứng dụng rủi ro và đảm bảo an ninh cho bạn.</string>
+    <string name="install_completed_pure_open_tip_title">Bật Bảo vệ Mi để chặn các ứng dụng rủi ro và đảm bảo an ninh cho bạn.</string>
     <string name="install_package_error">Ứng dụng này không tương thích với hệ thống của bạn</string>
     <string name="install_package_error_des">Liên hệ với nhà phát triển hoặc cài đặt phiên bản tương thích từ GetApps.</string>
     <string name="install_package_error_four">Cài đặt ứng dụng này có thể gây ra rủi ro bảo mật</string>
@@ -867,15 +867,15 @@
     <string name="pure_introduction_title3">Bảo mật thanh toán</string>
     <string name="pure_introduction_title4">Bảo vệ quyền riêng tư</string>
     <string name="pure_introduction_title5">Bảo vệ chống gian lận</string>
-    <string name="pure_mode_des">Mi Protect đảm bảo rằng mọi ứng dụng được cài đặt trên thiết bị của bạn đều vượt qua các bài kiểm tra bảo mật của Xiaomi.</string>
+    <string name="pure_mode_des">Bảo vệ Mi đảm bảo rằng mọi ứng dụng được cài đặt trên thiết bị của bạn đều vượt qua các bài kiểm tra bảo mật của Xiaomi.</string>
     <string name="pure_mode_install_completed_setting">&lt;u>Quản lý ứng dụng này&lt;/u></string>
     <string name="pure_mode_install_completed_tip1">· Ẩn số nhận dạng và ngăn chặn theo dõi</string>
     <string name="pure_mode_install_completed_tip2">· Lưu trữ thông tin của từng ứng dụng một cách độc lập</string>
     <string name="pure_mode_install_completed_tip3">· Ngăn chặn cài đặt ứng dụng sai lệch và bắt buộc</string>
     <string name="pure_mode_install_completed_tip4">· Ngăn chặn việc vô tình khởi chạy ứng dụng</string>
-    <string name="pure_mode_open_toast">Mi Protect đang bật</string>
+    <string name="pure_mode_open_toast">Bảo vệ Mi đang bật</string>
     <string name="pure_mode_tip_dialog_des">Cho phép nó hoàn tất cài đặt?</string>
-    <string name="pure_mode_tip_dialog_elderly_des">Để bảo vệ quyền riêng tư và bảo mật của bạn, Mi Protect đang chặn việc cài đặt ứng dụng từ các nguồn không xác định hoặc nguy hiểm.</string>
+    <string name="pure_mode_tip_dialog_elderly_des">Để bảo vệ quyền riêng tư và bảo mật của bạn, Bảo vệ Mi đang chặn việc cài đặt ứng dụng từ các nguồn không xác định hoặc nguy hiểm.</string>
     <string name="pure_mode_tip_dialog_elderly_set">Nếu bạn vẫn muốn cài đặt ứng dụng này, bạn có thể làm điều đó tại đây.</string>
     <string name="pure_mode_tip_dialog_elderly_set_click">đây</string>
     <string name="pure_mode_tip_dialog_title">%1$s đang cố cài đặt một ứng dụng</string>
@@ -886,7 +886,7 @@
     <string name="request_network_failed">Đã xảy ra lỗi mạng. Nhấn để thử lại.</string>
     <string name="request_network_please_wait">Đợi một chút…</string>
     <string name="resolve_suggestion_title">Gợi ý</string>
-    <string name="risk_app">Đặt ra rủi ro</string>
+    <string name="risk_app">Ứng dụng rủi ro</string>
     <string name="risk_app_default_description_text">Ứng dụng này có thể gây ra rủi ro bảo mật</string>
     <string name="risk_app_default_title_text">Rủi ro được phát hiện</string>
     <string name="risk_app_description">Chi tiết</string>
@@ -906,7 +906,7 @@
     <string name="risk_app_no_trust">Không đáng tin cậy</string>
     <string name="risk_app_prohibit_download">Thêm vào danh sách chặn</string>
     <string name="risk_app_trust">Ứng dụng rủi ro</string>
-    <string name="risk_app_trust_and_exit">Lối ra</string>
+    <string name="risk_app_trust_and_exit">Thoát</string>
     <string name="risk_app_trust_download">Ủy quyền tải xuống</string>
     <string name="risk_app_trust_forbiden">Bị chặn</string>
     <string name="risk_app_trust_once">Cho phép một lần</string>
@@ -919,15 +919,15 @@
     <string name="risk_install_no_open">Tắt</string>
     <string name="risk_verification">Xác minh rủi ro</string>
     <string name="risk_verification_des">Rủi ro đã được phát hiện với ứng dụng này. Trước tiên, hãy tiến hành xác minh rủi ro để vẫn cài đặt hoặc hủy cài đặt.</string>
-    <string name="safe_guard_title_text">Hãy bật Mi Protect để đảm bảo an toàn và yên tâm cho bạn.</string>
+    <string name="safe_guard_title_text">Hãy bật Bảo vệ Mi để đảm bảo an toàn và yên tâm cho bạn.</string>
     <string name="safe_install_mode_settings_old">Chế độ bảo mật</string>
     <string name="safe_mode">Bảo vệ Mi</string>
     <string name="safe_mode_already_authorize">Cho phép</string>
     <string name="safe_mode_authorize_once_install">Cho phép một lần</string>
-    <string name="safe_mode_in_service">Mi Protect đang bật</string>
+    <string name="safe_mode_in_service">Bảo vệ Mi đang bật</string>
     <string name="safe_mode_introduce_close_tip">Chú ý</string>
-    <string name="safe_mode_introduce_close_tip_des">Vì quyền riêng tư và bảo mật của bạn, chúng tôi khuyên bạn nên bật Mi Protect.</string>
-    <string name="safe_mode_tip_title_off_msg">Mi Protect đang tắt</string>
+    <string name="safe_mode_introduce_close_tip_des">Để đảm bảo quyền riêng tư và bảo mật của bạn, chúng tôi khuyên bạn nên bật Bảo vệ Mi.</string>
+    <string name="safe_mode_tip_title_off_msg">Bảo vệ Mi đang tắt</string>
     <string name="safe_mode_tip_title_on_msg">Bảo vệ Mi</string>
     <string name="safe_mode_title_text">Bảo vệ Mi</string>
     <string name="safe_version_install">Phiên bản an toàn</string>
@@ -936,43 +936,43 @@
     <string name="saturday_shortest">Đã ngồi</string>
     <string name="search_menu_title">Tìm kiếm</string>
     <string name="second_recomment_ad_title">Những người cài đặt &lt;font color=#0BAE73>%1$s&lt;/font> cũng thích</string>
-    <string name="secure_mode_app_install_verify">Cấp phép cho các ứng dụng chưa được xác minh</string>
-    <string name="secure_mode_authority_verification_type">Phương thức xác minh</string>
+    <string name="secure_mode_app_install_verify">Cho phép các ứng dụng chưa được xác minh</string>
+    <string name="secure_mode_authority_verification_type">Phương pháp xác minh</string>
     <string name="secure_mode_new_function">Các tính năng mới</string>
     <string name="secure_mode_new_function_1">Che giấu ID thiết bị và ngăn chặn theo dõi</string>
     <string name="secure_mode_new_function_2">Lưu trữ thông tin của từng ứng dụng một cách độc lập</string>
     <string name="secure_mode_new_function_3">Ngăn chặn cài đặt ứng dụng sai lệch và bắt buộc</string>
     <string name="secure_mode_new_function_4">Ngăn chặn việc vô tình khởi chạy ứng dụng</string>
     <string name="secure_mode_new_title">Bảo vệ toàn diện chống lại các ứng dụng chưa được xem xét</string>
-    <string name="secure_mode_open_app_verify_des">Cho phép cài đặt cho các ứng dụng chưa được GetApps xác minh</string>
+    <string name="secure_mode_open_app_verify_des">Cho phép cài đặt các ứng dụng chưa được GetApps xác minh</string>
     <string name="secure_mode_security_verify">Ủy quyền bảo mật</string>
     <string name="secure_verify_close_tip_des">Nếu bạn tắt tính năng này, thiết bị của bạn sẽ không thực hiện kiểm tra bảo mật trên ứng dụng và tất cả ứng dụng có thể được tải xuống mà không được phép. Xác minh danh tính của bạn để có thể tắt tính năng này.</string>
     <string name="secure_verify_close_title">Tắt xác minh bảo mật</string>
     <string name="security_auth">Xác minh danh tính của bạn</string>
-    <string name="security_mode_close_feedback">Cảm ơn bạn đã sử dụng Mi Protect</string>
-    <string name="security_mode_close_tips_service_list_title">Mi Protect giúp bạn:</string>
-    <string name="security_mode_feedback_commit">Nộp</string>
+    <string name="security_mode_close_feedback">Cảm ơn bạn đã sử dụng Bảo vệ Mi</string>
+    <string name="security_mode_close_tips_service_list_title">Bảo vệ Mi giúp bạn:</string>
+    <string name="security_mode_feedback_commit">Gửi</string>
     <string name="security_mode_feedback_input_count">%1$s/50</string>
     <string name="security_mode_feedback_multiple_choice">(Chọn tất cả những gì áp dụng)</string>
-    <string name="security_mode_feedback_reason">Tại sao bạn tắt Mi Protect?</string>
+    <string name="security_mode_feedback_reason">Tại sao bạn tắt Bảo vệ Mi?</string>
     <string name="security_mode_feedback_reason_input_hint">Hãy cho chúng tôi biết bạn nghĩ gì</string>
     <string name="security_mode_feedback_reason_install">Tôi không thể cài đặt ứng dụng khi nó đang bật</string>
     <string name="security_mode_feedback_reason_other">Khác</string>
     <string name="security_mode_feedback_submit_toast">Cảm ơn phản hồi của bạn</string>
-    <string name="security_mode_feedback_tips">Hãy cho chúng tôi biết cách chúng tôi có thể cải thiện dịch vụ của mình</string>
+    <string name="security_mode_feedback_tips">Hãy cho chúng tôi biết làm thế nào chúng tôi có thể cải thiện dịch vụ của mình</string>
     <string name="security_mode_guide_about_security_mode">Tìm hiểu thêm</string>
-    <string name="security_mode_guide_about_security_mode_2">Mi Protect là gì?</string>
+    <string name="security_mode_guide_about_security_mode_2">Bảo vệ Mi là gì?</string>
     <string name="security_mode_guide_do_not_show_again">Không hiển thị lại</string>
-    <string name="security_mode_introduce">Tính năng của Mi Protect</string>
-    <string name="security_mode_introduce_setting">Cài đặt Mi Protect</string>
+    <string name="security_mode_introduce">Tính năng của Bảo vệ Mi</string>
+    <string name="security_mode_introduce_setting">Cài đặt Bảo vệ Mi</string>
     <string name="security_mode_off_suggestion_msg">Khuyến khích</string>
     <string name="security_mode_on_suggestion_msg">Bật</string>
     <string name="security_mode_open_guide_elder_action_button">Bật</string>
     <string name="security_mode_open_guide_elder_msg">Bảo vệ quyền riêng tư và bảo mật trực tuyến của bạn</string>
-    <string name="security_mode_open_guide_elder_title">Bật tính năng bảo vệ người cao tuổi của Mi Protect</string>
+    <string name="security_mode_open_guide_elder_title">Bật tính năng bảo vệ người cao tuổi của Bảo vệ Mi</string>
     <string name="security_mode_open_notification_action_button">Chi tiết</string>
     <string name="security_mode_open_notification_msg">Thiết bị của bạn được bảo vệ</string>
-    <string name="security_mode_open_notification_title">Mi Protect đang bật</string>
+    <string name="security_mode_open_notification_title">Bảo vệ Mi đang bật</string>
     <string name="security_mode_renamed">Chế độ bảo mật hiện đã có</string>
     <string name="security_mode_renamed_ok">Hiểu rồi</string>
     <string name="send">Gửi</string>
@@ -982,21 +982,21 @@
     <string name="service_mode_advantage_app_error_install_tip">"Đồng ý
 để cài đặt các ứng dụng khác"</string>
     <string name="service_mode_advantage_app_error_install_title">Ngăn chặn cài đặt không mong muốn</string>
-    <string name="service_mode_advantage_app_security_detection_subtitle">Mi Protect quét các ứng dụng để tìm vi-rút và các vấn đề bảo mật trong quá trình cài đặt.</string>
+    <string name="service_mode_advantage_app_security_detection_subtitle">Bảo vệ Mi quét các ứng dụng để tìm vi-rút và các vấn đề bảo mật trong quá trình cài đặt.</string>
     <string name="service_mode_advantage_app_security_detection_tip">"Biết khi nào ứng dụng
 được an toàn"</string>
     <string name="service_mode_advantage_app_security_detection_title">Kiểm tra bảo mật của chúng tôi</string>
     <string name="service_mode_advantage_bottom_tip">Bảo vệ Mi</string>
     <string name="service_mode_advantage_icon_dark_desc">Các ứng dụng đã tải xuống không phải lúc nào cũng an toàn.&lt;br>Chúng có thể làm lộ dữ liệu riêng tư của bạn.&lt;br>Rất nhiều ứng dụng được dùng để lừa đảo và lừa đảo.&lt;br>&lt;font color=#569a77>Mi Protext&lt;/font> đã có mặt để giải quyết những vấn đề này.</string>
     <string name="service_mode_advantage_icon_desc">Các ứng dụng đã tải xuống không phải lúc nào cũng an toàn.&lt;br>Chúng có thể làm lộ dữ liệu riêng tư của bạn.&lt;br>Rất nhiều ứng dụng được dùng để lừa đảo và lừa đảo.&lt;br>&lt;font color=#52E0A6>Mi Protext&lt;/font> đã có mặt để giải quyết những vấn đề này.</string>
-    <string name="service_mode_advantage_pay_protection_subtitle">Mi Protect kiểm tra môi trường thanh toán để phát hiện mọi rủi ro có thể xảy ra nhằm đảm bảo an toàn cho giao dịch của bạn.</string>
+    <string name="service_mode_advantage_pay_protection_subtitle">Bảo vệ Mi kiểm tra môi trường thanh toán để phát hiện mọi rủi ro có thể xảy ra nhằm đảm bảo an toàn cho giao dịch của bạn.</string>
     <string name="service_mode_advantage_pay_protection_tip">Bảo vệ tài chính của bạn</string>
     <string name="service_mode_advantage_pay_protection_title">Bảo vệ môi trường thanh toán</string>
     <string name="service_mode_advantage_risk_app_download_subtitle">Các ứng dụng rủi ro sẽ bị phát hiện khi bạn tải chúng xuống Mi Browser.</string>
     <string name="service_mode_advantage_risk_app_download_tip">"\u0009Phát hiện rủi ro
 trong khi tải xuống ứng dụng"</string>
-    <string name="service_mode_advantage_risk_app_download_title">Mi Protect cung cấp tải xuống an toàn</string>
-    <string name="service_mode_advantage_risk_app_forbidden_subtitle">Theo mặc định, Mi Protect không cho phép các ứng dụng rủi ro cài đặt bất kỳ thứ gì khác trên thiết bị của bạn.</string>
+    <string name="service_mode_advantage_risk_app_download_title">Bảo vệ Mi cung cấp tải xuống an toàn</string>
+    <string name="service_mode_advantage_risk_app_forbidden_subtitle">Theo mặc định, Bảo vệ Mi không cho phép các ứng dụng rủi ro cài đặt bất kỳ thứ gì khác trên thiết bị của bạn.</string>
     <string name="service_mode_advantage_risk_app_forbidden_tip">"Tránh xa
 rủi ro có thể xảy ra"</string>
     <string name="service_mode_advantage_risk_app_forbidden_title">Không cho phép các ứng dụng nguy hiểm cài đặt bất cứ thứ gì khác</string>
@@ -1004,13 +1004,13 @@ rủi ro có thể xảy ra"</string>
     <string name="service_mode_advantage_risk_app_remind_tip">"Tìm hiểu về
 hoạt động đáng ngờ"</string>
     <string name="service_mode_advantage_risk_app_remind_title">Giữ thiết bị của bạn an toàn khi sử dụng ứng dụng</string>
-    <string name="service_mode_advantage_risk_app_safe_subtitle">Mi Protect sẽ thông báo cho bạn về các ứng dụng đến từ các nguồn không đáng tin cậy.</string>
+    <string name="service_mode_advantage_risk_app_safe_subtitle">Bảo vệ Mi sẽ thông báo cho bạn về các ứng dụng đến từ các nguồn không đáng tin cậy.</string>
     <string name="service_mode_advantage_risk_app_safe_tip">"Biết ứng dụng ở đâu
 đến từ"</string>
     <string name="service_mode_advantage_risk_app_safe_title">Cảnh báo nguồn ứng dụng</string>
-    <string name="service_mode_advantage_start">Bật Mi Protect</string>
-    <string name="service_mode_advantage_subtitle">&lt;font color=#52E0A6>Mi Protect&lt;/font>&lt;br> hoạt động như thế nào?</string>
-    <string name="service_mode_advantage_telecom_fraud_protection_subtitle">Mi Protect phát hiện, gắn nhãn và chặn các hành vi gian lận có thể xảy ra.</string>
+    <string name="service_mode_advantage_start">Bật Bảo vệ Mi</string>
+    <string name="service_mode_advantage_subtitle">&lt;font color=#52E0A6>Bảo vệ Mi&lt;/font>&lt;br> hoạt động như thế nào?</string>
+    <string name="service_mode_advantage_telecom_fraud_protection_subtitle">Bảo vệ Mi phát hiện, gắn nhãn và chặn các hành vi gian lận có thể xảy ra.</string>
     <string name="service_mode_advantage_telecom_fraud_protection_tip">Tránh xa những trò lừa đảo</string>
     <string name="service_mode_advantage_telecom_fraud_protection_title">Cơ chế chống gian lận</string>
     <string name="service_mode_advantage_title">Sử dụng Mi Protect</string>
@@ -1031,7 +1031,7 @@ hoạt động đáng ngờ"</string>
     <string name="service_mode_telecom_fraud_protection_summary">Nhận biết và chặn các cuộc gọi và tin nhắn lừa đảo cũng như ngăn chặn việc chuyển tiền gian lận</string>
     <string name="settings">Cài đặt</string>
     <string name="settings_security_mode_recent_install_app">Đã cài đặt gần đây: %1$s</string>
-    <string name="settings_security_mode_service_list_title_off_msg">Hãy bật Mi Protect để tận hưởng các tính năng sau:</string>
+    <string name="settings_security_mode_service_list_title_off_msg">Hãy bật Bảo vệ Mi để tận hưởng các tính năng sau:</string>
     <string name="settings_security_mode_service_list_title_on_msg">Chế độ bảo mật cung cấp các tính năng sau</string>
     <string name="settings_security_mode_service_msg_0">Các biện pháp bảo vệ quyền riêng tư và chống gian lận mới</string>
     <string name="settings_security_mode_service_msg_1">Kiểm tra ứng dụng từ các nguồn không xác định trước khi cài đặt</string>
@@ -1049,7 +1049,7 @@ hoạt động đáng ngờ"</string>
     <string name="settings_security_mode_service_title_3">Bảo vệ quyền riêng tư</string>
     <string name="settings_security_mode_service_title_4">Bảo mật thanh toán</string>
     <string name="settings_security_mode_status_off_msg">Tắt</string>
-    <string name="settings_security_mode_status_on_msg">Mi Protect đang bật</string>
+    <string name="settings_security_mode_status_on_msg">Bảo vệ Mi đang bật</string>
     <string name="settings_security_mode_title_off_msg">Bảo vệ Mi</string>
     <string name="size_byte">B</string>
     <string name="size_giga_byte">GB</string>
@@ -1183,8 +1183,8 @@ hoạt động đáng ngờ"</string>
     <string name="verify_and_install">Cài đặt</string>
     <string name="verify_failed">xác minh không hoàn thành</string>
     <string name="verify_to_sure_close">Tắt</string>
-    <string name="virus_safe_install_mode_security_tips">Nếu tin tưởng ứng dụng này, bạn có thể cho phép cài đặt ứng dụng này trong Cài đặt > Ứng dụng > Mi Protect.</string>
-    <string name="virus_safe_install_mode_security_tips_pi">Nếu bạn tin tưởng ứng dụng này, hãy nhấn vào biểu tượng Cài đặt và chọn \"Mi Protect\" để cho phép cài đặt ứng dụng.</string>
+    <string name="virus_safe_install_mode_security_tips">Nếu tin tưởng ứng dụng này, bạn có thể cho phép cài đặt ứng dụng này trong Cài đặt > Ứng dụng > Bảo vệ Mi.</string>
+    <string name="virus_safe_install_mode_security_tips_pi">Nếu bạn tin tưởng ứng dụng này, hãy nhấn vào biểu tượng Cài đặt và chọn \"Bảo vệ Mi\" để cho phép cài đặt ứng dụng.</string>
     <string name="virus_scanning">Đang kiểm tra…</string>
     <string name="virus_warning_title">Virus được phát hiện</string>
     <string name="wait_install">Chưa cài đặt</string>
@@ -1194,8 +1194,8 @@ hoạt động đáng ngờ"</string>
     <string name="wednesday">Thứ Tư</string>
     <string name="wednesday_short">Thứ Tư</string>
     <string name="wednesday_shortest">Thứ Tư</string>
-    <string name="welcome_to_security_mody">Chào mừng đến với Mi Protect</string>
-    <string name="what_is_security_mode">Mi Protect là gì?</string>
+    <string name="welcome_to_security_mody">Chào mừng đến với Bảo vệ Mi</string>
+    <string name="what_is_security_mode">Bảo vệ Mi là gì?</string>
     <string name="xiaomi_account_risk">Mật khẩu tài khoản Mi</string>
     <string name="xiaomi_market_sdk_update_dialog_cancel">Không phải bây giờ</string>
     <string name="xiaomi_market_sdk_update_dialog_ok">Cập nhật</string>
@@ -1480,4 +1480,31 @@ Ngoài ra, bạn có thể tắt Chế độ đơn giản và thử lại."</str
     <string name="wear_not_allowed_dlg_text">Hành động Cài đặt/gỡ bỏ không hỗ trợ trên Đồng hồ.</string>
     <string name="xiaomi_account_verify">Đăng nhập vào tài khoản Mi của bạn để có thể tiếp tục cài đặt.</string>
 	<string name="to_be_installed">Tiếp tục cài đặt</string>
+	<string name="full_safe_enhance_mode_summary">Chỉ cài đặt ứng dụng từ GetApps</string>
+    <string name="full_safe_install_risk_source_dialog_safe_title_des">Cài đặt ứng dụng từ nguồn này có thể gây hại cho hệ thống hoặc làm hỏng thiết bị của bạn. Cài đặt ứng dụng này từ các nguồn đáng tin cậy khác.</string>
+    <string name="full_safe_install_source_dialog_safe_title_des">Việc cài đặt ứng dụng từ nguồn này có thể gây ra rủi ro bảo mật cho thiết bị và thông tin cá nhân của bạn</string>
+    <string name="full_safe_protect_guide_message">"Khi cài đặt ứng dụng thông qua trình duyệt và các nguồn không xác định khác, bạn sẽ nhận được cảnh báo bảo mật để ngăn chặn việc cài đặt nhầm các ứng dụng nguy hiểm"</string>
+    <string name="full_safe_protect_title">Cài đặt được bảo vệ</string>
+	<string name="sure_close_enhance_safe_guard">Tắt chế độ bảo vệ nâng cao ngay bây giờ?</string>
+    <string name="sure_close_enhance_safe_guard_des">Để bảo vệ tính bảo mật cho điện thoại di động của bạn, tính năng bảo vệ nâng cao có thể lọc ra các ứng dụng chưa vượt qua quá trình kiểm tra bảo mật của Xiaomi và bảo vệ mọi cài đặt bạn thực hiện！</string>
+	<string name="let_me_think_again">Tiếp tục</string>
+	<string name="enhance_safe_mode">Bảo vệ nâng cao</string>
+	<string name="enhance_safe_mode_title">Bảo vệ nâng cao</string>
+	<string name="install_hint_enhanced_mode_hint">Bảo vệ nâng cao</string>
+	<string name="default_reason_list1">Không thể cài đặt ứng dụng từ bên ngoài cửa hàng ứng dụng</string>
+    <string name="default_reason_list2">Không có sự khác biệt cho dù nó có được bật hay không.</string>
+    <string name="default_reason_list3">Mỗi lần cài đặt đều phải nhập mật khẩu, phiền phức quá.</string>
+    <string name="default_reason_list4">Không thể tải xuống và cài đặt các ứng dụng cần thiết</string>
+    <string name="default_reason_list5">Ủy quyền một lần không thành công hoặc không thành công</string>
+	<string name="new_unregistered_dialog_comment">"Nếu bạn đã gửi thông tin bắt buộc cho cơ quan chức năng với tư cách là nhà phát triển, bạn có thể %1$s."</string>
+    <string name="new_unregistered_dialog_comment_clickable">Nộp đơn kháng cáo</string>
+    <string name="new_unregistered_dialog_content">"Ứng dụng này có thể không được hỗ trợ trong khu vực hiện tại của bạn hoặc không được thiết kế để phân phối. Thiếu thông tin đăng ký ICP tương ứng. %1$s."</string>
+    <string name="new_unregistered_dialog_content_clickable">Tìm hiểu thêm về chính sách đăng ký</string>
+    <string name="new_unregistered_dialog_title">"Không tìm thấy thông tin đăng ký ICP"</string>
+	<string name="install_hint_risk_found">Phát hiện rủi ro</string>
+	<string name="unrecorded_risk_app">Phát hiện những ứng dụng nguy hiểm</string>
+	<string name="install_hint_risk_found_description">Có rủi ro cao khi cài đặt ứng dụng này, vui lòng cài đặt nó một cách thận trọng！</string>
+	<string name="install_hint_risk_detail">Chi tiết rủi ro</string>
+	<string name="install_warning_dialog_unregistered3_desc">Ứng dụng này chưa được đăng ký theo yêu cầu chính sách. Nếu lợi ích của bạn bị xâm phạm, bạn có thể không liên hệ được với nhà phát triển ứng dụng này. Vui lòng thận trọng khi cài đặt! Hiểu chính sách nộp hồ sơ</string>
+	<string name="unrecorded_app_dialog_tips_help">"Nếu bạn tin tưởng nguồn này, hãy chạm vào \"︙\" và chọn \"Cho phép một lần\" để cài đặt. "</string>
 </resources>
