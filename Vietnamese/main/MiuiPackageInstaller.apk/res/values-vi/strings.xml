@@ -207,11 +207,6 @@
     <string name="date_picker_lunar">Lịch truyền thống Trung Quốc</string>
     <string name="date_time_picker_dialog_title">Đặt ngày và giờ</string>
     <string name="default_net_loading">Đợi một chút…</string>
-    <string name="default_reason_list1">Tôi không thể tải xuống ứng dụng từ các nguồn khác ngoài GetApps</string>
-    <string name="default_reason_list2">Tôi chưa nhận thấy bất kỳ lợi ích nào từ việc sử dụng nó</string>
-    <string name="default_reason_list3">Tôi không thích nhập mật khẩu mỗi lần tôi muốn tải xuống ứng dụng</string>
-    <string name="default_reason_list4">Tôi không thể tải xuống ứng dụng tôi muốn sử dụng</string>
-    <string name="default_reason_list5">Tôi không thể chọn \"Cho phép một lần\" để tải xuống ứng dụng</string>
     <string name="detect_risk">Rủi ro được phát hiện</string>
     <string name="dev_com_appname_input">Nhập vào đây</string>
     <string name="dev_com_appname_text">Tên ứng dụng</string>
