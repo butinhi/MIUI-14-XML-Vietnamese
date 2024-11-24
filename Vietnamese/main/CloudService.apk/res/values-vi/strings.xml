@@ -1502,4 +1502,8 @@ Thông tin vị trí có thể không được báo cáo khi kết nối mạng 
 	<string name="phone_guarantee_service_description" formatted="false">Bạn có thể mua bảo vệ khỏi hư hỏng màn hình và tai nạn trong vòng %d ngày kể từ khi kích hoạt. Có thể mua bảo hành mở rộng trong vòng %d ngày kể từ khi kích hoạt.</string>
     <string name="phone_guarantee_service_name">Bảo hành thiết bị</string>
 	<string name="agreement_and_privacy_description">"Đọc và đồng ý với &lt;a href=%1$s>&lt;u>chính sách bảo mật&lt;/u>&lt;/a> và &lt;a href=%2$s>&lt;u>thỏa thuận của người dùng&lt;/u>&lt;/a> của Xiaomi Cloud trước khi bạn tiếp tục."</string>
+    <string name="request_os_permissions_dialog_message">Xiaomi Cloud cần có quyền truy cập vào các mục được lưu trữ trên thiết bị của bạn để có thể xác định các mục chưa đồng bộ và số lượng của chúng. Cấp quyền này ngay bây giờ?</string>
+    <string name="request_os_permissions_dialog_neg_button">"Không đồng ý"</string>
+    <string name="request_os_permissions_dialog_pos_button">Đồng ý</string>
+    <string name="request_os_permissions_dialog_title">Quyền được yêu cầu</string>
 </resources>
