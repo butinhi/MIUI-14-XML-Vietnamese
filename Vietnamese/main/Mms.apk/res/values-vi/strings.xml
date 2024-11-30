@@ -1677,4 +1677,6 @@ Tắt Chế độ máy bay trước."</string>
     <string name="copy_message_success">Sao chép thành công</string>
 	<string name="pref_feedback_title">Phản hồi</string>
 	<string name="remember_my_choice">Nhớ lựa chọn của tôi</string>
+	<string name="mx_dspt_listview_translation_for_pad">"Gửi tin nhắn đến các thiết bị Xiaomi khác mà không phải trả phí khi bạn kết nối Internet"</string>
+	<string name="mx_dspt_translation_for_pad">"Gửi tin nhắn đến các thiết bị Xiaomi khác mà không phải trả phí khi bạn kết nối Internet"</string>	
 </resources>
