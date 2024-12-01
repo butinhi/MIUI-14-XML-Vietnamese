@@ -1268,4 +1268,9 @@ Nếu bạn không cập nhật, ứng dụng kép có thể sẽ không hoạt 
     <string name="solar_term_winter_solstice">Đông Chí</string>
     <string name="space_created_success">Đã tạo Không gian thứ hai thành công</string>
     <string name="support_desc">Dịch vụ bảo mật được cung cấp bởi Spaces Mobile</string>
+	<string name="bubble_app_empty_page">"Không tìm thấy ứng dụng nào hỗ trợ bong bóng hội thoại trên thiết bị này"</string>
+    <string name="bubble_app_manage">Quản lý bong bóng hội thoại</string>
+    <string name="bubble_notification">Bong bóng hội thoại</string>
+    <string name="bubble_notification_switch">Hiển thị bong bóng hội thoại</string>
+    <string name="bubble_notification_switch_desc">Khi ứng dụng nhắn tin trong cửa sổ nổi bị ẩn ở rìa màn hình, hãy hiển thị tin nhắn đến trong bong bóng</string>
 </resources>
