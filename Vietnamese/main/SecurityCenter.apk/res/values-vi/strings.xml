@@ -7526,4 +7526,5 @@ Nhấn và giữ chỉ báo để di chuyển cửa sổ xung quanh."</string>
 	<string name="app_lock_pwd">Nhập mật khẩu để mở khóa</string>
     <string name="app_lock_pwd_forget">Quên mật khẩu</string>
     <string name="app_lock_pwd_or_finger">Mở khóa bằng mật khẩu hoặc vân tay</string>
+	<string name="pc_smart_charge_button_summary_new">Để kéo dài tuổi thọ pin, hệ thống sẽ tìm hiểu cách bạn sạc thiết bị và dừng sạc khi mức pin đạt %1$s trong tình huống cụ thể</string>
 </resources>
