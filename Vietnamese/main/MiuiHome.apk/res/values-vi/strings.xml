@@ -1260,4 +1260,6 @@ Tăng cường bảo mật."</string>
     <string name="work_mode_off_text">Ứng dụng công việc đã tạm dừng</string>
     <string name="work_mode_toggle_off">Tắt ứng dụng công việc</string>
     <string name="work_mode_toggle_on">Bật ứng dụng công việc</string>
+	<string name="navigation_guide_circle_search_summary">Nhấn và giữ chỉ báo toàn màn hình để sử dụng Khoanh tròn để tìm kiếm</string>
+    <string name="navigation_guide_circle_search_title">Khoanh tròn để tìm kiếm</string>
 </resources>
