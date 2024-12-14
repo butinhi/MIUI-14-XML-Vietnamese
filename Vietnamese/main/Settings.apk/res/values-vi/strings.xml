@@ -14839,4 +14839,6 @@ Thao tác xóa phương thức khóa sẽ xóa mẫu vân tay lưu trên thiết
 	<string name="full_screen_reminder">Cảnh báo</string>
 	<string name="mild_remind">Thông báo</string>
 	<string name="service_support">Hỗ trợ</string>
+	<string name="pref_volume_launch_camera_and_photo_when_lock_screen_summary">Khi màn hình bị khóa, hãy nhấn đúp vào Giảm âm lượng để mở Máy ảnh và chụp ảnh</string>
+    <string name="pref_volume_launch_camera_when_lock_screen_summary">Khi màn hình bị khóa, hãy nhấn đúp vào Giảm âm lượng để mở Máy ảnh</string>
 </resources>
