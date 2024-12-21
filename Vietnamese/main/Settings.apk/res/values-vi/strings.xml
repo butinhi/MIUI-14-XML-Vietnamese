@@ -5285,12 +5285,12 @@ Bạn có thể thay đổi điều này sau đó từ Cài đặt > Ứng dụn
     <string name="accessibility_screen_magnification_navbar_summary">"Khi tính năng phóng đại được bật, sử dụng nút Trợ năng ở cuối màn hình để phóng đại nhanh.
 
 "<b>Để thu phóng</b>", nhấn vào nút Trợ năng, sau đó nhấn bất kỳ chỗ nào trên màn hình.
-"<li><ul>"Kéo 2 hoặc nhiều ngón tay để cuộn
-"<li>Chụm 2 hoặc nhiều ngón tay để điều chỉnh mức thu phóng</li></ul></li>"
+"<ul><li>Kéo 2 hoặc nhiều ngón tay để cuộn</li>"
+"<li>Chụm 2 hoặc nhiều ngón tay để điều chỉnh mức thu phóng</li></ul>"
 
 "<b>Để thu phóng tạm thời</b>", nhấn vào nút Trợ năng, sau đó chạm và giữ bất kỳ chỗ nào trên màn hình.
-"<li><ul>"Kéo để di chuyển quanh màn hình
-"<li>Nhấc ngón tay để thu nhỏ</li></ul></li>"
+"<ul><li>Kéo để di chuyển quanh màn hình</li>"
+"<li>Nhấc ngón tay để thu nhỏ</li></ul>"
 
 Bạn không thể phóng to trên bàn phím hoặc thanh điều hướng."</string>
     <string name="accessibility_screen_magnification_navbar_title">Phóng đại bằng nút</string>
