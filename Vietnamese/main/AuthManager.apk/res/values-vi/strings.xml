@@ -871,4 +871,6 @@ Bạn cần phải cài đặt phiên bản OS của nhà phát triển để tr
     <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
     <string name="time_picker_label_minute">Phút</string>
 	<string name="permdesc_read_note">Cho phép %1$s truy cập vào ghi chú?</string>
+	<string name="HIPS_Perm_Intl_group_name_read_note">Ghi chú</string>
+    <string name="HIPS_Perm_Intl_group_name_read_record">Ghi âm</string>
 </resources>

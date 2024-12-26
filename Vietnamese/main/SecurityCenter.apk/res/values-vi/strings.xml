@@ -1296,7 +1296,7 @@ Hoạt động này làm giảm tuổi thọ pin."</string>
     <string name="card_main_optimize_manage_title">Tăng tốc</string>
     <string name="card_main_optimize_manage_summary">Xóa bộ nhớ đệm để tăng tốc thiết bị</string>
     <string name="card_main_optimize_manage_action">Tăng tốc ngay</string>
-    <string name="card_main_private_space_title">K.gian thứ hai</string>
+    <string name="card_main_private_space_title">Không gian thứ hai</string>
     <string name="card_main_private_space_summary">Sử dụng Không gian thứ hai giống như có hai thiết bị</string>
     <string name="card_main_private_space_action">Tạo</string>
     <string name="card_main_xspace_title">Ứng dụng kép</string>
