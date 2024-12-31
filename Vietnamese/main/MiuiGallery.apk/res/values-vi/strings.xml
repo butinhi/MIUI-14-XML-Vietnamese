@@ -4083,4 +4083,9 @@ Những ảnh chụp đẹp nhất được chọn tự động. Bạn có thể
     <string name="journey_time_all">Tất cả</string>
     <string name="featured_time_empty_des">Ký ức sẽ được sắp xếp khi thiết bị đang sạc và màn hình tắt</string>
     <string name="featured_time_empty_title">Chưa có ký ức nào ở đây</string>
+	<string name="featured_page_label">Bộ sưu tập</string>
+	<string name="picker_exit_dialog_cancel_button">Hủy</string>
+    <string name="picker_exit_dialog_confirm_button">Tiếp tục</string>
+    <string name="picker_exit_dialog_message">Tất cả các thay đổi chưa lưu sẽ bị mất nếu bạn tiếp tục. Vẫn tiếp tục?</string>
+    <string name="picker_exit_dialog_title">Hủy thay đổi</string>
 </resources>

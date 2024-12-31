@@ -491,4 +491,8 @@
     <plurals name="videos_count">
         <item quantity="other">%d video</item>
     </plurals>
+	    <plurals name="universal_pick_bottom_bar_selected_content_format">
+        <item quantity="other">Hiển thị %d mục đã chọn</item>
+        <item quantity="one">Hiển thị %d mục đã chọn</item>
+    </plurals>
 </resources>
