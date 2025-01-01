@@ -14841,4 +14841,8 @@ Thao tác xóa phương thức khóa sẽ xóa mẫu vân tay lưu trên thiết
 	<string name="service_support">Hỗ trợ</string>
 	<string name="pref_volume_launch_camera_and_photo_when_lock_screen_summary">Khi màn hình bị khóa, hãy nhấn đúp vào Giảm âm lượng để mở Máy ảnh và chụp ảnh</string>
     <string name="pref_volume_launch_camera_when_lock_screen_summary">Khi màn hình bị khóa, hãy nhấn đúp vào Giảm âm lượng để mở Máy ảnh</string>
+	<string name="credman_app_list_preference_none">Không chọn</string>
+    <string name="credman_autofill_confirmation_message_new_ui">"&lt;b>Thay đổi dịch vụ ưa thích của bạn thành &lt;xliff:g id=app_name example=Provider>%1$s&lt;/xliff:g>?&lt;/b> &lt;br/> &lt;br/> Mật khẩu mới, mã khóa và thông tin khác sẽ được lưu ở đây từ bây giờ. &lt;xliff:g id=app_name example=Provider>%1$s&lt;/xliff:g> có thể sử dụng những gì trên màn hình của bạn để xác định những gì có thể được tự động điền"</string>
+    <string name="credman_button_change">Thay đổi</string>
+    <string name="credman_button_open">Mở</string>
 </resources>

@@ -879,4 +879,6 @@ Chạm vào màn hình để thêm thủ công hoặc định vị lại thành 
     <string name="status_bar_notification_info_overflow">999+</string>
     <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
     <string name="time_picker_label_minute">Phút</string>
+    <string name="background_location_dialog_open_button">Cài đặt</string>
+    <string name="background_location_dialog_title">Cần có quyền</string>
 </resources>
