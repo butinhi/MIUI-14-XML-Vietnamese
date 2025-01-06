@@ -3020,4 +3020,7 @@ Vui lòng gửi mã này cho nhân viên kỹ thuật."</string>
     <string name="pa_travel_preference_summary_cpbind">Ghép nối tài khoản dịch vụ để có dịch vụ thông minh hơn, chính xác hơn</string>
     <string name="pa_travel_preference_summary_refuse_permission">Rút lại sự đồng ý của bạn đối với Chính sách bảo mật %1$s liên quan đến Trợ lý du lịch. Lịch trình tàu sẽ không còn được làm mới kịp thời nữa.</string>
     <string name="pa_travel_preference_summary_reminder">Nhận lời nhắc trong App vault cho tàu hỏa và chuyến bay</string>
+	<string name="pa_travel_preference_title_reminder">Nhắc nhở chuyến đi</string>
+	<string name="pa_travel_google_store_open">Mở CH Google Play để truy cập các ứng dụng không có trên GetApps.</string>
+    <string name="pa_travel_google_store_update">Cập nhật CH Google Play để truy cập các ứng dụng không có trên GetApps.</string>
 </resources>
