@@ -4090,4 +4090,9 @@ Những ảnh chụp đẹp nhất được chọn tự động. Bạn có thể
     <string name="picker_exit_dialog_title">Hủy thay đổi</string>
     <string name="map_privacy_dialog_content_new"><Data>Dịch vụ này hiển thị ảnh và video được sắp xếp theo vị trí, tạo album chuyến đi và cho phép bạn tìm kiếm các mục theo vị trí. Để cung cấp cho bạn các dịch vụ trên, chúng tôi sử dụng Baidu Maps Open Platform SDK. Đọc và đồng ý với &lt;a href=\"%1$s\">Tuyên bố chia sẻ dữ liệu Bản đồ thư viện của bên thứ ba&lt;/a> trước khi sử dụng dịch vụ này.</Data></string>
 	<string name="ai_cta_refuse_btn">Không, cảm ơn</string>
+	<string name="ai_process_grogress_tip">Phân tích các mục trong Thư viện %1$s </string>
+    <string name="ai_process_grogress_tip_search">Phân tích hình ảnh Thư viện %1$s </string>
+    <string name="ai_progress_grogress_tip_guide">"Thiết bị của bạn sẽ phân tích các mục nhanh hơn khi đang sạc và màn hình tắt"</string>
+	<string name="featured_customize">Tùy chỉnh</string>
+	<string name="revert">Đặt lại</string>
 </resources>

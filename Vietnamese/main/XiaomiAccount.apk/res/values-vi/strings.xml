@@ -1152,4 +1152,7 @@ Hãy chắc chắn bạn nhớ tất cả câu trả lời."</string>
     <string name="user_agreement_wlan_permission_title_china">Bật và tắt Wi-Fi</string>
 	<string name="phone_ticket_login">Đăng nhập bằng mã xác minh</string>
 	<string name="third_party_login">Tài khoản bên thứ ba</string>
+	<string name="cloud_service_space_used">Đã dùng</string>
+	<string name="family_service">Dịch vụ gia đình</string>
+    <string name="family_service_not_open">Mời thành viên</string>
 </resources>
