@@ -1506,4 +1506,6 @@ Thông tin vị trí có thể không được báo cáo khi kết nối mạng 
     <string name="request_os_permissions_dialog_neg_button">"Không đồng ý"</string>
     <string name="request_os_permissions_dialog_pos_button">Đồng ý</string>
     <string name="request_os_permissions_dialog_title">Quyền được yêu cầu</string>
+    <string name="find_device_permissions_header_without_offline_find">"Với Tìm thiết bị, bạn có thể định vị, theo dõi và khóa thiết bị khi bị mất. Ứng dụng này yêu cầu các quyền sau để hoạt động bình thường:"</string>
+    <string name="find_device_status_summary_without_offline_find">Bật để định vị và theo dõi thiết bị của bạn hoặc xóa dữ liệu từ xa</string>
 </resources>
