@@ -12440,7 +12440,7 @@ Tính năng này chỉ hoạt động khi điều hướng hệ thống được
     <string name="standard_limit">Giới hạn tiêu chuẩn</string>
     <string name="no_background_processes">Không có quá trình nền</string>
     <string name="asst_importance_reset_title">Đặt lại tầm quan trọng của thông báo</string>
-    <string name="tare_title">ĐẨY LÙI</string>
+    <string name="tare_title">ĐẢO NGƯỢC</string>
     <string name="tare_alarmmanager">Trình quản lý báo động</string>
     <string name="tare_jobscheduler">Lịch trình công việc</string>
     <string name="tare_revert">Đặt về Cài đặt mặc định</string>
@@ -14476,7 +14476,7 @@ Trước khi sử dụng dịch vụ, đọc và đồng ý với %s của chún
     <string name="tare_rewards_instantaneous">Số phần thưởng cho mỗi sự kiện</string>
     <string name="tare_rewards_max">Số phần thưởng tối đa mỗi ngày</string>
     <string name="tare_rewards_ongoing">Phần thưởng cho mỗi giây thời lượng sự kiện</string>
-    <string name="tare_settings">Cài đặt TARE</string>
+    <string name="tare_settings">Cài đặt ĐẢO NGƯỢC</string>
     <string name="tare_settings_reverted_toast">Đã khôi phục về Chế độ cài đặt mặc định.</string>
     <string name="tare_top_activity">Hoạt động hàng đầu</string>
     <string name="tare_widget_interaction">Tiện ích đã tương tác</string>
@@ -14846,4 +14846,6 @@ Thao tác xóa phương thức khóa sẽ xóa mẫu vân tay lưu trên thiết
     <string name="credman_button_change">Thay đổi</string>
     <string name="credman_button_open">Mở</string>
 	<string name="allow_update_system_app">Cho phép cập nhật ứng dụng hệ thống</string>
+	<string name="adaptive_sampling_rate">Tương thích (Mặc định)</string>
+	<string name="use_system_preference_not_default">Sử dụng lựa chọn hệ thống</string>
 </resources>
