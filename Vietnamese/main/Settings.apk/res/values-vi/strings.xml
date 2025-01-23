@@ -14845,4 +14845,5 @@ Thao tác xóa phương thức khóa sẽ xóa mẫu vân tay lưu trên thiết
     <string name="credman_autofill_confirmation_message_new_ui">"&lt;b>Thay đổi dịch vụ ưa thích của bạn thành &lt;xliff:g id=app_name example=Provider>%1$s&lt;/xliff:g>?&lt;/b> &lt;br/> &lt;br/> Mật khẩu mới, mã khóa và thông tin khác sẽ được lưu ở đây từ bây giờ. &lt;xliff:g id=app_name example=Provider>%1$s&lt;/xliff:g> có thể sử dụng những gì trên màn hình của bạn để xác định những gì có thể được tự động điền"</string>
     <string name="credman_button_change">Thay đổi</string>
     <string name="credman_button_open">Mở</string>
+	<string name="allow_update_system_app">Cho phép cập nhật ứng dụng hệ thống</string>
 </resources>
