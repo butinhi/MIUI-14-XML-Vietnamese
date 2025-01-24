@@ -1968,4 +1968,7 @@ thẻ tiếp theo"</string>
 	<string name="cancel_service">Hủy dịch vụ</string>
     <string name="cancel_service_running">Hủy dịch vụ…</string>
     <string name="cancel_service_summary">"Nếu tiếp tục, bạn sẽ hủy dịch vụ Tạp chí màn hình khoá. Thông tin cá nhân đã được thu thập và lưu giữ sẽ bị xóa trong khoảng thời gian cụ thể theo luật và quy định hiện hành trừ khi có yêu cầu khác. Vẫn hủy dịch vụ?"</string>
+    <string name="sst_my_wallpaper_desc">Xem hình nền từ Tạp chí màn hình khoá</string>
+    <string name="sst_my_wallpaper_title">Hình nền của tôi</string>
+    <string name="sst_no_wallpaper">Chưa có gì ở đây</string>
 </resources>
