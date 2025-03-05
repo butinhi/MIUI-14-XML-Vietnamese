@@ -668,4 +668,8 @@
         <item quantity="other">Thay đổi sẽ được áp dụng sau %d giây</item>
         <item quantity="one">Thay đổi sẽ được áp dụng sau %d giây</item>
     </plurals>
+	    <plurals name="screen_timeout_summary_second">
+        <item quantity="other">Sau %d giây không hoạt động</item>
+        <item quantity="one">Sau %d giây không hoạt động</item>
+    </plurals>
 </resources>
