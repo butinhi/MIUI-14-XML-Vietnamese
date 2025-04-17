@@ -2299,4 +2299,8 @@ Bạn có thể rút lại chấp thuận của mình đối với Chính sách 
     <string name="kg_effects_tip_not_support_third_party_wallpaper_service">"Hình nền của bên thứ ba không hỗ trợ hiệu ứng"</string>
     <string name="kg_effects_tip_title">Độ sâu trường ảnh và bộ lọc</string>
     <string name="kg_enable_blur">Hiệu ứng mờ</string>
+	<string name="loop_video_wallpaper">Vòng lặp hình nền động</string>
+	<string name="to_lock_screen">Đặt làm màn hình khóa</string>
+    <string name="to_the_desktop">Đặt làm màn hình chính</string>
+	<string name="apply_at_the_same_time">Đặt cả hai</string>
 </resources>
