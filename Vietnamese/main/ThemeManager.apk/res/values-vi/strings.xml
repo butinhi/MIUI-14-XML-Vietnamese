@@ -2303,4 +2303,7 @@ Bạn có thể rút lại chấp thuận của mình đối với Chính sách 
 	<string name="to_lock_screen">Đặt làm màn hình khóa</string>
     <string name="to_the_desktop">Đặt làm màn hình chính</string>
 	<string name="apply_at_the_same_time">Đặt cả hai</string>
+	<string name="ai_recorded_information">Thông tin đăng ký</string>
+    <string name="ai_recorded_name1">Thuật toán mô hình lớn tạo video Xiaomi-1</string>
+    <string name="ai_recorded_number1">Đăng ký số 110108916280901240061</string>
 </resources>
