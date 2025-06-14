@@ -14848,4 +14848,6 @@ Thao tác xóa phương thức khóa sẽ xóa mẫu vân tay lưu trên thiết
 	<string name="allow_update_system_app">Cho phép cập nhật ứng dụng hệ thống</string>
 	<string name="adaptive_sampling_rate">Tương thích (Mặc định)</string>
 	<string name="use_system_preference_not_default">Sử dụng lựa chọn hệ thống</string>
+	<string name="lock_screen_shortcuts_subtitle">Chỉ có hiệu lực khi sử dụng chủ đề \"Mặc định\" hoặc \"Không giới hạn\"</string>
+    <string name="lock_screen_shortcuts_title">Tùy chỉnh phím tắt</string>
 </resources>
