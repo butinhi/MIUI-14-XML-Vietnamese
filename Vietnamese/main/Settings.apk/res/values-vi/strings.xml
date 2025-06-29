@@ -14912,21 +14912,21 @@ Thao tác xóa phương thức khóa sẽ xóa mẫu vân tay lưu trên thiết
     <string name="allow_ongoing_summary">Cho phép thông báo chỉ có thể xóa thủ công</string>
     <string name="android_ringtone_silent">Không</string>
     <string name="android_ringtone_unknown">Nhạc chuông không xác định</string>
-    <string name="aon_gesture_double_press_diagram_summary">Đặt tay của bạn cách camera %d–%d cm với các ngón tay hướng lên, sau đó tạm dừng. Khi biểu tượng bàn tay xuất hiện, hãy thực hiện động tác nhấn đúp để phát hoặc tạm dừng phương tiện.</string>
+    <string name=<string formatted="false" name="aon_gesture_double_press_diagram_summary">Đặt tay của bạn cách camera %d–%d cm với các ngón tay hướng lên, sau đó tạm dừng. Khi biểu tượng bàn tay xuất hiện, hãy thực hiện động tác nhấn đúp để phát hoặc tạm dừng phương tiện.</string>
     <string name="aon_gesture_double_press_diagram_title">Thực hiện hành động bấm đúp trước màn hình</string>
-    <string name="aon_gesture_down_waving_diagram_summary">Đặt tay của bạn cách camera %d–%d cm với các ngón tay hướng lên, sau đó tạm dừng. Khi biểu tượng bàn tay xuất hiện, hãy vẫy tay xuống dưới.</string>
+    <string name=<string formatted="false" name="aon_gesture_down_waving_diagram_summary">Đặt tay của bạn cách camera %d–%d cm với các ngón tay hướng lên, sau đó tạm dừng. Khi biểu tượng bàn tay xuất hiện, hãy vẫy tay xuống dưới.</string>
     <string name="aon_gesture_down_waving_diagram_title">Vẫy xuống trước màn hình</string>
     <string name="aon_gesture_learn_double_press_title">Tìm hiểu cử chỉ "Hành động bấm đúp"</string>
     <string name="aon_gesture_learn_left_right_waving_title">Tìm hiểu cử chỉ "Vẫy theo chiều ngang"</string>
     <string name="aon_gesture_learn_up_down_waving_title">Tìm hiểu cử chỉ "Vẫy theo chiều dọc"</string>
     <string name="aon_gesture_learning_dialog_title">Tìm hiểu cử chỉ ngay?</string>
     <string name="aon_gesture_learning_toast">Bạn luôn có thể tìm hiểu cử chỉ ở đây sau</string>
-    <string name="aon_gesture_left_waving_diagram_summary">Đặt tay của bạn cách camera %d–%d cm với các ngón tay hướng sang phải, sau đó tạm dừng. Khi biểu tượng bàn tay xuất hiện, hãy vẫy tay sang trái.</string>
+    <string name=formatted="false" name="aon_gesture_left_waving_diagram_summary">Đặt tay của bạn cách camera %d–%d cm với các ngón tay hướng sang phải, sau đó tạm dừng. Khi biểu tượng bàn tay xuất hiện, hãy vẫy tay sang trái.</string>
     <string name="aon_gesture_left_waving_diagram_title">Vẫy sang trái trước màn hình</string>
-    <string name="aon_gesture_right_waving_diagram_summary">Đặt tay của bạn cách camera %d–%d cm với các ngón tay hướng sang trái, sau đó tạm dừng. Khi biểu tượng bàn tay xuất hiện, hãy vẫy tay sang phải.</string>
+    <string name=formatted="false" name="aon_gesture_right_waving_diagram_summary">Đặt tay của bạn cách camera %d–%d cm với các ngón tay hướng sang trái, sau đó tạm dừng. Khi biểu tượng bàn tay xuất hiện, hãy vẫy tay sang phải.</string>
     <string name="aon_gesture_right_waving_diagram_title">Vẫy sang phải trước màn hình</string>
     <string name="aon_gesture_status_not_open">Tắt</string>
-    <string name="aon_gesture_up_waving_diagram_summary">Đặt tay của bạn cách camera %d–%d cm với các ngón tay hướng xuống, sau đó tạm dừng. Khi biểu tượng bàn tay xuất hiện, hãy vẫy tay lên trên.</string>
+    <string name=formatted="false" name="aon_gesture_up_waving_diagram_summary">Đặt tay của bạn cách camera %d–%d cm với các ngón tay hướng xuống, sau đó tạm dừng. Khi biểu tượng bàn tay xuất hiện, hãy vẫy tay lên trên.</string>
     <string name="aon_gesture_up_waving_diagram_title">Vẫy lên trước màn hình</string>
     <string name="aon_scanner_default_payment_method_title">Phương thức thanh toán mặc định</string>
     <string name="aon_scanner_dialog_message">Khi bạn bật Quét nhanh, mã QR bạn quét sẽ được chia sẻ với Mi AI Scanner. Đảm bảo bạn hiểu và đồng ý với điều này trước khi tiếp tục. Mã QR bạn quét sẽ không được lưu trữ cục bộ hoặc tải lên đám mây. Lưu ý rằng việc sử dụng tính năng này có thể làm tăng nhẹ mức tiêu thụ điện năng tổng thể.</string>
@@ -14941,7 +14941,7 @@ Thao tác xóa phương thức khóa sẽ xóa mẫu vân tay lưu trên thiết
     <string name="aon_scanner_settings">Quét nhanh</string>
     <string name="aon_scanner_status_close">Tắt</string>
     <string name="aon_scanner_status_open">Bật</string>
-    <string name="aon_scanner_summary">Khi ở Màn hình chính, hướng thiết bị của bạn vào mã QR trong phạm vi %d cm cho đến khi nhắc nhở xuất hiện và giữ trong %d giây để quét</string>
+    <string formatted="false" name="aon_scanner_summary">Khi ở Màn hình chính, hướng thiết bị của bạn vào mã QR trong phạm vi %d cm cho đến khi nhắc nhở xuất hiện và giữ trong %d giây để quét</string>
     <string name="apn_add">Thêm điểm truy cập</string>
     <string name="app_aspect_ratio_footer">Ứng dụng sẽ khởi động lại khi bạn thay đổi tỷ lệ khung hình. Bạn có thể bị mất những thay đổi chưa lưu. Có thể một số ứng dụng chưa được tối ưu hoá cho một số tỷ lệ khung hình nhất định.</string>
     <string name="app_install_details_different_initiating_package_summary">Ứng dụng được cài đặt bằng %1$s (qua %2$s)</string>
@@ -15168,11 +15168,11 @@ Các ứng dụng và dịch vụ vẫn có thể quét tìm những thiết b�
     <string name="bt_connect_help_car_first">%d. Mở cài đặt Bluetooth trong hệ thống ô tô và đặt Bluetooth ở chế độ hiển thị với thiết bị khác.</string>
     <string name="bt_connect_help_car_second">%d. Bật Bluetooth trên điện thoại hoặc máy tính bảng, tìm hệ thống của ô tô, sau đó ghép nối.</string>
     <string name="bt_connect_help_device">Điện thoại, máy tính bảng và máy tính</string>
-    <string name="bt_connect_help_device_first">%d. Đảm bảo Bluetooth được bật cho thiết bị bạn muốn kết nối và thiết bị đó không cách xa hơn %d mét.</string>
+    <string formatted="false" name="bt_connect_help_device_first">%d. Đảm bảo Bluetooth được bật cho thiết bị bạn muốn kết nối và thiết bị đó không cách xa hơn %d mét.</string>
     <string name="bt_connect_help_device_second">%d. Thiết bị iOS hiện không hỗ trợ liên thông với các thiết bị khác.</string>
     <string name="bt_connect_help_device_third">%d. Khi kết nối với máy tính, bạn có thể cần cài đặt trình điều khiển Bluetooth.</string>
     <string name="bt_connect_help_earphone">Tai nghe và loa</string>
-    <string name="bt_connect_help_earphone_first">%d. Đảm bảo rằng loa hoặc tai nghe của bạn được sạc đầy, không kết nối với thiết bị khác qua Bluetooth và không cách xa hơn %d mét.</string>
+    <string formatted="false" name="bt_connect_help_earphone_first">%d. Đảm bảo rằng loa hoặc tai nghe của bạn được sạc đầy, không kết nối với thiết bị khác qua Bluetooth và không cách xa hơn %d mét.</string>
     <string name="bt_connect_help_wear_first">%d. Đảm bảo thiết bị đeo của bạn chưa được kết nối với thiết bị khác qua Bluetooth.</string>
     <string name="bt_connect_help_wear_second">%d. Tải xuống và cài đặt ứng dụng dành riêng cho thiết bị đeo của bạn.</string>
     <string name="bt_connect_help_wear_third">%d. Mở ứng dụng và thực hiện theo hướng dẫn để thêm thiết bị đeo.</string>
@@ -16025,4 +16025,5 @@ Wallet, ứng dụng thanh toán và các ứng dụng khác yêu cầu xác th�
     <string name="zen_modes_list_title">Chế độ ưu tiên</string>
     <string name="zone_info_exemplar_location_and_offset">%1$s (%2$s)</string>
     <string name="zone_info_offset_and_name">%2$s (%1$s)</string>
+	<string formatted="false" name="tofgesture_description_summary">Khi thiết bị ở chế độ ngang, hãy đưa tay cách máy ảnh %d đến %d cm và thực hiện cử chỉ sau khi biểu tượng bàn tay xuất hiện ở đầu màn hình.</string>
 </resources>
