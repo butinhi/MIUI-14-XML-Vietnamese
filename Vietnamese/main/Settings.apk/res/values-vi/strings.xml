@@ -15152,7 +15152,6 @@ Thao tác xóa phương thức khóa sẽ xóa mẫu vân tay lưu trên thiết
 
 Các ứng dụng và dịch vụ vẫn có thể quét tìm những thiết bị ở gần bất cứ lúc nào, ngay cả khi Bluetooth đang tắt. Chế độ này có thể được dùng cho một số mục đích, chẳng hạn như để cải thiện các tính năng và dịch vụ dựa trên vị trí. Bạn có thể thay đổi tuỳ chọn này trong phần cài đặt quét tìm thiết bị Bluetooth.</string>
     <string name="bluetooth_talkback_hearing_aids">Thiết bị trợ thính</string>
-    <string name="bootloader_unlock_webhome">https://unlock.update.miui.com</string>
     <string name="bottomsheet_action_collapse">Thu gọn trang tính dưới cùng</string>
     <string name="bottomsheet_action_expand">Mở rộng trang tính dưới cùng</string>
     <string name="bottomsheet_drag_handle_clicked">Tay cầm kéo được chạm đúp</string>
@@ -15270,12 +15269,10 @@ Nếu quyền này bật, ứng dụng sẽ xuất hiện dưới dạng lựa c
     <string name="desc_system_locale_addition">Thao tác này cho phép các ứng dụng và trang web biết rằng bạn cũng ưu tiên ngôn ngữ này.</string>
     <string name="dev_settings_available_to_admin_only_warning">Chỉ người dùng quản trị mới dùng được các chế độ cài đặt dành cho nhà phát triển.</string>
     <string name="device_diagnostics_title">Chẩn đoán thiết bị</string>
-    <string name="digital_clock_dot">:</string>
     <string name="disable_game_default_frame_rate_summary">Tắt tuỳ chọn giới hạn tốc độ khung hình tối đa cho trò chơi ở %1$d Hz.</string>
     <string name="disable_game_default_frame_rate_title">Tắt tốc độ khung hình mặc định cho trò chơi</string>
     <string name="disable_screen_share_protections_for_apps_and_notifications">Tắt tính năng bảo vệ khi chia sẻ màn hình</string>
     <string name="disable_screen_share_protections_for_apps_and_notifications_summary">Tắt các biện pháp bảo vệ hệ thống đối với nội dung ứng dụng nhạy cảm trong các phiên chia sẻ màn hình sắp tới</string>
-    <string name="dndm_auto_time_setting_summary">%1$s-%2$s</string>
     <string name="edit_user_info_message">Bất kỳ ai dùng thiết bị này đều sẽ nhìn thấy tên và hình ảnh bạn chọn.</string>
     <string name="enable_16k_pages">Khởi động với kích thước trang 16KB</string>
     <string name="enable_16k_pages_summary">Khởi động thiết bị bằng nhân hỗ trợ trang 16 KB</string>
@@ -15377,7 +15374,6 @@ Xiaomi không ngừng nỗ lực phát triển tạo ra những sản phẩm tuy
     <string name="last_time_used_never">không bao giờ</string>
     <string name="leave_lockscreen_summary">Thiết bị sẽ khóa khi bạn rời khỏi màn hình</string>
     <string name="left_hearing_aid">Trợ thính bên trái</string>
-    <string name="link_speed">%1$d Mb/giây</string>
     <string name="live_caption_disabled">Đang tắt</string>
     <string name="live_caption_enabled">Đang bật</string>
     <string name="location_settings_tooltip_text_for_chrome">Để thay đổi, hãy chuyển đến phần Cài đặt ChromeOS > Quyền riêng tư và bảo mật > Chế độ kiểm soát quyền riêng tư > Quyền truy cập thông tin vị trí</string>
@@ -15466,7 +15462,6 @@ Xiaomi không ngừng nỗ lực phát triển tạo ra những sản phẩm tuy
     <string name="media_transfer_external_device_name">Thiết bị bên ngoài</string>
     <string name="media_transfer_this_device_name_tablet">Máy tính bảng này</string>
     <string name="meid_primary">MEID (chính)</string>
-    <string name="memory_use_running_format">%1$s / %2$s</string>
     <string name="miheadset_adaptive_sampling_rate">Thích ứng</string>
     <string name="mild_reminder">Thông báo</string>
     <string name="miui_user_add_user_message">Bạn có thể thêm hồ sơ người dùng để chia sẻ thiết bị này với người khác. Họ sẽ phải thiết lập hồ sơ của mình sau khi bạn tạo.
@@ -15535,7 +15530,6 @@ Bất kỳ người dùng nào cũng có thể cấp quyền thay mặt cho tấ
     <string name="network_type">Loại mạng</string>
     <string name="network_type_unspecified">Không xác định</string>
     <string name="neuter">Vô tính</string>
-    <string name="nfc_payment_app_and_desc">%1$s - %2$s</string>
     <string name="no_device_lock_action_label">Đặt phương thức khoá màn hình</string>
     <string name="no_device_lock_cancel">Huỷ</string>
     <string name="no_device_lock_summary">Để dùng Không gian riêng tư, hãy thiết lập một phương thức khoá màn hình trên thiết bị này</string>
@@ -15577,7 +15571,6 @@ Bất kỳ người dùng nào cũng có thể cấp quyền thay mặt cho tấ
     <string name="pointer_fill_style_green_button">Đổi màu nền con trỏ thành xanh lục</string>
     <string name="pointer_fill_style_pink_button">Đổi màu nền con trỏ thành màu hồng</string>
     <string name="pointer_fill_style_yellow_button">Đổi màu nền con trỏ thành màu vàng</string>
-    <string name="power_charging">%1$s - %2$s</string>
     <string name="power_charging_duration_v2">%1$s – Đến %2$s pin sẽ đầy</string>
     <string name="power_charging_on_hold_settings_home_page">%1$s – Đang tạm ngưng sạc để bảo vệ pin</string>
     <string name="power_consumption_footer_summary">Thời gian chờ khoá màn hình dài hơn sẽ tốn nhiều pin hơn.</string>
@@ -15585,7 +15578,6 @@ Bất kỳ người dùng nào cũng có thể cấp quyền thay mặt cho tấ
     <string name="power_incompatible_charging_settings_home_page">%1$s – Hãy kiểm tra phụ kiện sạc</string>
     <string name="power_remaining_charging_duration_only_v2">Đến %1$s pin sẽ đầy</string>
     <string name="power_remaining_fast_charging_duration_only_v2">Đến %1$s pin sẽ đầy</string>
-    <string name="power_remaining_settings_home_page">%1$s - %2$s</string>
     <string name="power_usage_detail_background_time">Thời gian chạy ở chế độ nền</string>
     <string name="power_usage_detail_screen_time">Thời gian sử dụng thiết bị</string>
     <string name="power_usage_time_less_than_one_minute">Chưa đến 1 phút</string>
@@ -15700,7 +15692,6 @@ Việc bạn dùng một tài khoản chuyên dụng sẽ giúp ngăn không cho
     <string name="private_space_unlocked">Đã mở khoá không gian riêng tư</string>
     <string name="private_space_use_screenlock_label">Dùng phương thức khoá màn hình</string>
     <string name="private_space_wait_screen_title">Vui lòng chờ trong giây lát…</string>
-    <string name="process_kernel_label">Hệ điều hành Android</string>
     <string name="product_page_name_des_super_ai">Trợ lý cá nhân thông minh của bạn</string>
     <string name="product_page_name_super_ai">Xiaomi Hyper XiaoAi</string>
     <string name="progress_16k_ota_title">Đang áp dụng thay đổi</string>
@@ -15743,7 +15734,6 @@ Có thể mất một chút thời gian để các thay đổi đối với tài
     <string name="search_otg_button">tai nghe;earbuds;earbud;buds</string>
     <string name="search_otg_settings">tai nghe;earbuds;earbud;buds</string>
     <string name="search_system_personalize_title">trình chiếu hình nền;lời chào buổi sáng;Khóa tạp chí;phong cách chủ đề;chủ đề;cài đặt chủ đề;hình nền Màn hình khóa;Hình nền màn hình chính;hình nền trong suốt;Màn hình chính và hình nền;Hình nền Xiaomi;trong suốt hình nền;hình nền của tôi;hình nền trực tuyến;nhạc chuông;nhạc chuông điện thoại;nhạc chuông tin nhắn;nhạc chuông cuộc gọi;cài đặt nhạc chuông;nhạc chuông báo thức;hình nền cuộn;hình nền trình chiếu;hình nền trình chiếu ảnh;trình chiếu Khóa tạp chí;chủ đề trực tuyến;âm thanh sạc;hoạt ảnh sạc;hiệu ứng vân tay;phong cách vân tay;hoạt ảnh mở khóa;chủ đề;cá nhân;cá nhân;hình nền;biểu tượng;hình nền động;hiệu ứng Màn hình khóa;biểu tượng nhỏ;chế độ đọc;anime;chủ đề chính thức;chủ đề đã chọn;hình nền đã chọn;làm đẹp;hình nền yêu thích;hình nền video;nhạc chuông tùy chỉnh;nhạc chuông;âm thanh cảnh báo;âm thanh thông báo;cảnh báo tin nhắn;pin cầu vồng;hình nền phổ biến;hình nền màu đơn;Màn hình khóa động;hiệu ứng sạc;Màn hình khóa đa chức năng;con quay hồi chuyển;biểu tượng tròn;biểu tượng tuyến tính;Màn hình khóa nhạc;hiệu ứng Màn hình chính;biểu tượng động;biểu tượng vẽ tay;Màn hình chính tự do;hoạt ảnh Màn hình khóa;hoạt ảnh khởi động;chủ đề trong suốt;Màn hình khóa trình chiếu</string>
-    <string name="security_encryption_attention_symbol">•</string>
     <string name="security_settings_face_remove_dialog_details_fingerprint">Mẫu khuôn mặt của bạn sẽ được xoá vĩnh viễn một cách bảo mật.
 
 Sau khi xoá, bạn cần nhập vân tay, mã PIN, hình mở khoá hoặc mật khẩu để mở khoá điện thoại hoặc để xác thực trong các ứng dụng.</string>
@@ -15834,7 +15824,6 @@ Mỗi lần, bạn chỉ có thể thiết lập một đồng hồ. Nếu muố
     <string name="sim_onboarding_setup">Bắt đầu</string>
     <string name="size_compat">Căn giữa</string>
     <string name="size_fullscreen">Toàn màn hình</string>
-    <string name="size_suffix">%1$s%2$s</string>
     <string name="sleep_on_fold_summary">Màn hình ngoài sẽ tắt và khoá khi bạn gập thiết bị</string>
     <string name="sleep_on_fold_title">Không bao giờ</string>
     <string name="slow_keys">Phím chậm</string>
@@ -15849,11 +15838,9 @@ Mỗi lần, bạn chỉ có thể thiết lập một đồng hồ. Nếu muố
     <string name="state_empty">Trống</string>
     <string name="state_off">Đang tắt</string>
     <string name="state_on">Đang bật</string>
-    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="status_bar_setting_camera_title">Camera</string>
     <string name="status_bar_setting_car_title">Xe cộ</string>
     <string name="status_bar_setting_glasses_title">Mắt kính</string>
-    <string name="status_bar_settings_carrier_sim">SIM %1$s: </string>
     <string name="status_bar_settings_connected_devices">Thiết bị đã kết nối</string>
     <string name="status_bar_settings_system_state">Hệ thống</string>
     <string name="status_imei">Số IMEI</string>
@@ -15873,7 +15860,6 @@ Mỗi lần, bạn chỉ có thể thiết lập một đồng hồ. Nếu muố
     <string name="storage_temporary_files">Các tệp hệ thống tạm thời</string>
     <string name="stylus_default_notes_summary_work">%s (Hồ sơ công việc)</string>
     <string name="summary_add_satellite_setting">Thêm tính năng nhắn tin qua vệ tinh</string>
-    <string name="summary_range_symbol_combination">%1$s - %2$s</string>
     <string name="summary_satellite_connection_guide">Điện thoại của bạn sẽ tự động kết nối với vệ tinh. Để có kết nối chất lượng tốt nhất, hãy tìm đến nơi có thể nhìn rõ bầu trời.</string>
     <string name="summary_supported_service">Bạn có thể gửi tin nhắn văn bản cho bất cứ ai, gồm cả các dịch vụ khẩn cấp. Điện thoại của bạn sẽ kết nối lại với mạng di động khi có mạng.</string>
     <string name="super_voice_assist">Super Mi AI</string>
@@ -15961,7 +15947,6 @@ Wallet, ứng dụng thanh toán và các ứng dụng khác yêu cầu xác th�
     <string name="user_grant_admin_button">Đặt làm quản trị viên</string>
     <string name="user_selected_keyboard_layout_label">Người dùng đã chọn: %s</string>
     <string name="voice_assist_summary">Trợ lý thông minh cá nhân của bạn</string>
-    <string name="voice_assist_volume_option_title">@string/voice_assist</string>
     <string name="volume_content_description_silent_mode">Đã tắt tiếng %1$s</string>
     <string name="vpn_build_about">Giới thiệu</string>
     <string name="vpn_build_version">Phiên bản %1$s</string>
@@ -16023,7 +16008,5 @@ Wallet, ứng dụng thanh toán và các ứng dụng khác yêu cầu xác th�
     <string name="zen_mode_summary2_default">Sẽ không nhắc nhở khi có cuộc gọi đến và thông báo</string>
     <string name="zen_mode_summary2_tablet">Sẽ không nhắc nhở khi có thông báo</string>
     <string name="zen_modes_list_title">Chế độ ưu tiên</string>
-    <string name="zone_info_exemplar_location_and_offset">%1$s (%2$s)</string>
-    <string name="zone_info_offset_and_name">%2$s (%1$s)</string>
 	<string formatted="false" name="tofgesture_description_summary">Khi thiết bị ở chế độ ngang, hãy đưa tay cách máy ảnh %d đến %d cm và thực hiện cử chỉ sau khi biểu tượng bàn tay xuất hiện ở đầu màn hình.</string>
 </resources>
