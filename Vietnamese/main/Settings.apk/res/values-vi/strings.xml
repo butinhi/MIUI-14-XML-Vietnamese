@@ -14912,21 +14912,21 @@ Thao tác xóa phương thức khóa sẽ xóa mẫu vân tay lưu trên thiết
     <string name="allow_ongoing_summary">Cho phép thông báo chỉ có thể xóa thủ công</string>
     <string name="android_ringtone_silent">Không</string>
     <string name="android_ringtone_unknown">Nhạc chuông không xác định</string>
-    <string name=<string formatted="false" name="aon_gesture_double_press_diagram_summary">Đặt tay của bạn cách camera %d–%d cm với các ngón tay hướng lên, sau đó tạm dừng. Khi biểu tượng bàn tay xuất hiện, hãy thực hiện động tác nhấn đúp để phát hoặc tạm dừng phương tiện.</string>
+    <string formatted="false" name="aon_gesture_double_press_diagram_summary">Đặt tay của bạn cách camera %d–%d cm với các ngón tay hướng lên, sau đó tạm dừng. Khi biểu tượng bàn tay xuất hiện, hãy thực hiện động tác nhấn đúp để phát hoặc tạm dừng phương tiện.</string>
     <string name="aon_gesture_double_press_diagram_title">Thực hiện hành động bấm đúp trước màn hình</string>
-    <string name=<string formatted="false" name="aon_gesture_down_waving_diagram_summary">Đặt tay của bạn cách camera %d–%d cm với các ngón tay hướng lên, sau đó tạm dừng. Khi biểu tượng bàn tay xuất hiện, hãy vẫy tay xuống dưới.</string>
+    <string formatted="false" name="aon_gesture_down_waving_diagram_summary">Đặt tay của bạn cách camera %d–%d cm với các ngón tay hướng lên, sau đó tạm dừng. Khi biểu tượng bàn tay xuất hiện, hãy vẫy tay xuống dưới.</string>
     <string name="aon_gesture_down_waving_diagram_title">Vẫy xuống trước màn hình</string>
     <string name="aon_gesture_learn_double_press_title">Tìm hiểu cử chỉ "Hành động bấm đúp"</string>
     <string name="aon_gesture_learn_left_right_waving_title">Tìm hiểu cử chỉ "Vẫy theo chiều ngang"</string>
     <string name="aon_gesture_learn_up_down_waving_title">Tìm hiểu cử chỉ "Vẫy theo chiều dọc"</string>
     <string name="aon_gesture_learning_dialog_title">Tìm hiểu cử chỉ ngay?</string>
     <string name="aon_gesture_learning_toast">Bạn luôn có thể tìm hiểu cử chỉ ở đây sau</string>
-    <string name=formatted="false" name="aon_gesture_left_waving_diagram_summary">Đặt tay của bạn cách camera %d–%d cm với các ngón tay hướng sang phải, sau đó tạm dừng. Khi biểu tượng bàn tay xuất hiện, hãy vẫy tay sang trái.</string>
+    <string formatted="false" name="aon_gesture_left_waving_diagram_summary">Đặt tay của bạn cách camera %d–%d cm với các ngón tay hướng sang phải, sau đó tạm dừng. Khi biểu tượng bàn tay xuất hiện, hãy vẫy tay sang trái.</string>
     <string name="aon_gesture_left_waving_diagram_title">Vẫy sang trái trước màn hình</string>
-    <string name=formatted="false" name="aon_gesture_right_waving_diagram_summary">Đặt tay của bạn cách camera %d–%d cm với các ngón tay hướng sang trái, sau đó tạm dừng. Khi biểu tượng bàn tay xuất hiện, hãy vẫy tay sang phải.</string>
+    <string formatted="false" name="aon_gesture_right_waving_diagram_summary">Đặt tay của bạn cách camera %d–%d cm với các ngón tay hướng sang trái, sau đó tạm dừng. Khi biểu tượng bàn tay xuất hiện, hãy vẫy tay sang phải.</string>
     <string name="aon_gesture_right_waving_diagram_title">Vẫy sang phải trước màn hình</string>
     <string name="aon_gesture_status_not_open">Tắt</string>
-    <string name=formatted="false" name="aon_gesture_up_waving_diagram_summary">Đặt tay của bạn cách camera %d–%d cm với các ngón tay hướng xuống, sau đó tạm dừng. Khi biểu tượng bàn tay xuất hiện, hãy vẫy tay lên trên.</string>
+    <string formatted="false" name="aon_gesture_up_waving_diagram_summary">Đặt tay của bạn cách camera %d–%d cm với các ngón tay hướng xuống, sau đó tạm dừng. Khi biểu tượng bàn tay xuất hiện, hãy vẫy tay lên trên.</string>
     <string name="aon_gesture_up_waving_diagram_title">Vẫy lên trước màn hình</string>
     <string name="aon_scanner_default_payment_method_title">Phương thức thanh toán mặc định</string>
     <string name="aon_scanner_dialog_message">Khi bạn bật Quét nhanh, mã QR bạn quét sẽ được chia sẻ với Mi AI Scanner. Đảm bảo bạn hiểu và đồng ý với điều này trước khi tiếp tục. Mã QR bạn quét sẽ không được lưu trữ cục bộ hoặc tải lên đám mây. Lưu ý rằng việc sử dụng tính năng này có thể làm tăng nhẹ mức tiêu thụ điện năng tổng thể.</string>
