@@ -1352,7 +1352,7 @@ và đăng nhập vào Tài khoản Xiaomi của bạn"</string>
     <string name="camera_picker_title">Camera đa thiết bị</string>
     <string name="camera_title">Searching for available devices…</string>
     <string name="cancel">Cancel</string>
-    <string name="car_camera_unavailable_dialog_message">The vehicle is in Low power or Privacy mode. Can't use front view camera now.</string>
+    <string name="car_camera_unavailable_dialog_message">Xe đang ở chế độ Công suất thấp hoặc Riêng tư. Không thể sử dụng camera quan sát phía trước ngay bây giờ.</string>
     <string name="car_camera_unavailable_dialog_positive_button">Tôi biết</string>
     <string name="car_camera_unavailable_dialog_title">Camera trước của EV bận</string>
     <string name="car_device_camera_name">Camera trước %1$s</string>
@@ -1376,7 +1376,6 @@ và đăng nhập vào Tài khoản Xiaomi của bạn"</string>
     <string name="cast_forward">Tua đi</string>
     <string name="cast_forward_10">Tua đi 10 giây</string>
     <string name="cast_forward_30">Tua đi 30 giây</string>
-    <string name="cast_intro_overlay_button_text">@android:string/ok</string>
     <string name="cast_live_label">TRỰC TIẾP</string>
     <string name="cast_mute">Tắt tiếng</string>
     <string name="cast_notification_connected_message">Đã kết nối với %1$s</string>
@@ -1452,15 +1451,15 @@ và đăng nhập vào Tài khoản Xiaomi của bạn"</string>
 %2$d. Khi thiết bị bạn đang chiếu đến không phải là Xiaomi TV, hãy đảm bảo TV hỗ trợ Miracast và tính năng này được bật. Tính năng này có thể có tên khác trên một số mẫu TV, chẳng hạn như Hiển thị không dây, Phản chiếu màn hình hoặc Đa màn hình.</string>
     <string name="help_page_setp_1st_02_international">%1$d. Một số thương hiệu TV có thể bật Miracast tự động.</string>
     <string name="help_page_step_1st_01_international">%1$d. Bật Miracast trên Xiaomi TV.</string>
-    <string name="i_see">Got it</string>
-    <string name="image_transfer_failed">Couldn't transfer image</string>
-    <string name="install">Install</string>
+    <string name="i_see">Hiểu rồi</string>
+    <string name="image_transfer_failed">Không thể chuyển hình ảnh</string>
+    <string name="install">Cài đặt</string>
     <string name="local_device_camera">Thiết bị này</string>
     <string name="local_hotspot_opening">Tắt điểm phát sóng của thiết bị này rồi thử lại</string>
     <string name="media_notification_channel_name">Truyền</string>
-    <string name="message_connection_interrupted">Make sure your computer and tablet are within connection range and have Bluetooth and WLAN turned on. To continue, start the task on your computer again.</string>
-    <string name="message_install">Install Mi Canvas to be able to sketch across devices.</string>
-    <string name="message_update">Update Mi Canvas to be able to sketch across devices.</string>
+    <string name="message_connection_interrupted">Đảm bảo máy tính và máy tính bảng của bạn nằm trong phạm vi kết nối và đã bật Bluetooth và Wi-Fi. Để tiếp tục, hãy bắt đầu lại tác vụ trên máy tính của bạn.</string>
+    <string name="message_install">Cài đặt Mi Canvas để có thể phác thảo trên nhiều thiết bị.</string>
+    <string name="message_update">Cập nhật Mi Canvas để có thể phác thảo trên nhiều thiết bị.</string>
     <string name="mihome_camera_device_during_calll">Camera đã được sử dụng cho cuộc gọi</string>
     <string name="mihome_camera_device_not_available">Không thể kết nối thêm thiết bị</string>
     <string name="mihome_camera_device_offline">Không thể kết nối. Camera đang ngoại tuyến.</string>
@@ -1487,7 +1486,6 @@ và đăng nhập vào Tài khoản Xiaomi của bạn"</string>
     <string name="picker_view_description">Camera đa thiết bị. Bạn có thể chạm vào bên trong thẻ để chọn camera trên các thiết bị lân cận.</string>
     <string name="picker_view_outside_description">Chạm để đóng thẻ này.</string>
     <string name="remote_hotspot_opening">Tắt điểm phát sóng của thiết bị khác rồi thử lại</string>
-    <string name="required_permissions">android.permission.ACCESS_FINE_LOCATION;android.permission.ACCESS_COARSE_LOCATION;android.permission.ACCESS_BACKGROUND_LOCATION;android.permission.READ_PHONE_STATE;android.permission.READ_EXTERNAL_STORAGE;android.permission.RECORD_AUDIO;</string>
     <string name="screen_projection_characteristics_hang_up_summary_pad">Tắt màn hình khi chiếu để giảm mức tiêu thụ điện năng và tình trạng quá nhiệt</string>
     <string name="screen_projection_characteristics_small_window_summary_pad">Hiển thị ứng dụng bạn đang chiếu dưới dạng cửa sổ nổi và sử dụng các ứng dụng khác trên máy tính bảng bình thường</string>
     <string name="sever_stream_beauty">Làm đẹp</string>
@@ -1525,10 +1523,10 @@ và đăng nhập vào Tài khoản Xiaomi của bạn"</string>
     <string name="temperature_warning_dialog_message">Thiết bị này quá nóng. Chờ thiết bị nguội trước khi chia sẻ dữ liệu truyền tải camera.</string>
     <string name="temperature_warning_dialog_positive_button">Tôi biết</string>
     <string name="temperature_warning_dialog_title">Không thể sử dụng camera đa thiết bị</string>
-    <string name="title_connection_interrupted">Connection interrupted</string>
-    <string name="title_install">Install Mi Canvas</string>
-    <string name="title_update">Update Mi Canvas</string>
+    <string name="title_connection_interrupted">Kết nối bị gián đoạn</string>
+    <string name="title_install">Cài đặt Mi Canvas</string>
+    <string name="title_update">Cập nhật Canvas của tôi</string>
     <string name="unlock_screen_to_authorize_camera_car">%s đang truy cập camera của thiết bị này</string>
-    <string name="update">Update</string>
+    <string name="update">Cập nhật</string>
     <string name="using_camera_of_device_description">Đang sử dụng camera của %1$s.</string>
 </resources>
