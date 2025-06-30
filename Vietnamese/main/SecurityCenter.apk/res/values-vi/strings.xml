@@ -7898,7 +7898,7 @@ Tiết kiệm pin tối ưu</string>
     <string name="power_center_list_item_battery_health_model_volume">%s mAh</string>
     <string name="power_center_list_item_battery_status_capacity">mAh</string>
     <string name="power_center_list_item_battery_status_temperature">℃</string>
-    <string name="power_optimize_power_save_extend_time_new">Kéo dài khoảng %1s %2s</string>
+    <string formatted="false" name="power_optimize_power_save_extend_time_new">Kéo dài khoảng %1s %2s</string>
     <string name="pref_operator_setting">%1$s%2$s</string>
     <string name="privacy_privacy_title">Chính sách Riêng tư</string>
     <string name="privacy_user_notice_title">Thông báo người dùng</string>

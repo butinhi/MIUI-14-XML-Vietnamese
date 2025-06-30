@@ -1157,12 +1157,9 @@
     <string name="fmt_timezone">z</string>
     <string name="focus_records_image_description">Chia sẻ</string>
     <string name="follow_apps_settings">Dựa trên cài đặt ứng dụng</string>
-    <string name="footer_global_fps">
-%1$d. Khi bạn bật Chế độ Hiệu suất, tốc độ làm mới sẽ được chuyển sang mức tối đa của hệ thống là %2$d Hz. Cài đặt ứng dụng tốc độ làm mới cao sẽ tạm thời không khả dụng.</string>
-    <string name="footer_global_fps_new">
-%1$d. %2$s tăng tốc độ làm mới hệ thống tối đa %3$d Hz. Cài đặt ứng dụng tốc độ làm mới cao sẽ tạm thời không khả dụng.</string>
-    <string name="footer_max_fps">
-%d. Tốc độ làm mới có thể được điều chỉnh lên đến %s Hz đối với các ứng dụng và game được hỗ trợ.</string>
+    <string name="footer_global_fps">%1$d. Khi bạn bật Chế độ Hiệu suất, tốc độ làm mới sẽ được chuyển sang mức tối đa của hệ thống là %2$d Hz. Cài đặt ứng dụng tốc độ làm mới cao sẽ tạm thời không khả dụng.</string>
+    <string name="footer_global_fps_new">%1$d. %2$s tăng tốc độ làm mới hệ thống tối đa %3$d Hz. Cài đặt ứng dụng tốc độ làm mới cao sẽ tạm thời không khả dụng.</string>
+    <string name="footer_max_fps">%d. Tốc độ làm mới có thể được điều chỉnh lên đến %s Hz đối với các ứng dụng và game được hỗ trợ.</string>
     <string name="force_rest_time">Thời lượng nghỉ ngơi</string>
     <string name="forced_rest_notify_content">%1$s %2$s</string>
     <string name="format_app_usage_statistics">Sử dụng ứng dụng vào %s</string>

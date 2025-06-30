@@ -1041,7 +1041,7 @@ Bạn có thể tắt cập nhật tự động trong GetApps > Cài đặt > T�
     <string name="miuix_stretchablewidget_collapsed">Thu gọn</string>
     <string name="miuix_stretchablewidget_expanded">Mở rộng</string>
     <string name="other_settings_minor_mode">Chế độ trẻ em</string>
-    <string name="other_settings_minor_mode_summary"><Data>Help minors develop healthy device usage habits. When Child mode is on, a feature shortcut will be added in Settings and on the Home screen. By turning on this feature, you're agreeing to the &lt;a href=%1$s>Child Mode Privacy Policy&lt;/a >.</Data></string>
+    <string name="other_settings_minor_mode_summary"><Data>Giúp trẻ vị thành niên phát triển thói quen sử dụng thiết bị lành mạnh. Khi chế độ Trẻ em được bật, một phím tắt tính năng sẽ được thêm vào Cài đặt và trên Màn hình chính. Bằng cách bật tính năng này, bạn đồng ý với &lt;a href=%1$s>Chính sách bảo mật chế độ trẻ em&lt;/a >.</Data></string>
     <string name="permission_get_audio_and_video_summary_settings">Để thiết lập ảnh hồ sơ và xem trước nhạc chuông (bao gồm Cài đặt)</string>
     <string name="permission_reminder_mode_summary_settings">Để chọn loại nhắc nhở cuộc gọi đến</string>
     <string name="prompt_fingerprint">Đã bật bảo vệ dữ liệu nâng cao cho tài khoản của bạn. Đặt khóa màn hình cho thiết bị này.</string>
