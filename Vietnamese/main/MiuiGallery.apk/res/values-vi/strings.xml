@@ -3069,8 +3069,8 @@ Phiên dịch có thể mất một lúc khi bạn sử dụng tính năng này 
     <string name="cloud_action_view">Xem</string>
     <string name="screen_talkback_eraser">Tẩy</string>
     <string name="photo_video_count">%1$s và %2$s</string>
-    <string name="screen_talkback_large">butinhi</string>
-    <string name="screen_talkback_medium">Giữa</string>
+    <string name="screen_talkback_large">Cực lớn</string>
+    <string name="screen_talkback_medium">Trung bình</string>
     <string name="screen_talkback_a_little_small">Nhỏ</string>
     <string name="grant_permission_go_and_set_3">Cài đặt</string>
     <string name="grant_permission_unlock_and_set_2">Mở khóa</string>

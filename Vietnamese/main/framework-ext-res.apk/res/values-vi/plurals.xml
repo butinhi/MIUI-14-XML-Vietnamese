@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <resources>
     <plurals name="battery_authentic_failed_message">
-        <item quantity="other">Có vẻ như pin đã bị ngắt kết nối. Thiết bị của bạn sẽ tắt nguồn trong vòng %d giây. Liên hệ với bộ phận hỗ trợ khách hàng để giải quyết vấn đề này.</item>
+        <item quantity="other">Dường như pin đã bị ngắt kết nối. Thiết bị của bạn sẽ tắt nguồn trong vòng %d giây. Liên hệ với bộ phận hỗ trợ khách hàng để giải quyết vấn đề này.</item>
         <item quantity="one">Có vẻ như pin đã bị ngắt kết nối. Thiết bị của bạn sẽ tắt nguồn trong vòng %d giây. Liên hệ với bộ phận hỗ trợ khách hàng để giải quyết vấn đề này.</item>
     </plurals>
     <plurals name="file_type_detail_count">
