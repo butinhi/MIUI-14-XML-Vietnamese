@@ -7,5 +7,4 @@
 
 # Credits
     [ingbrzy] - Builder of MultiRom, Bug reports.
-    [butinhi] - The Vietnamese language translator for MIUI & HyperOS
-    [Belmont] - Leader of the Vietnamese translation team for MIUI
+    [Ken Hao] - The Vietnamese language translator for MIUI & HyperOS
