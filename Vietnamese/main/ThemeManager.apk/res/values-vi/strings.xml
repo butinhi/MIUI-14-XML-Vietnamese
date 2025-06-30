@@ -2721,8 +2721,8 @@ Chúng tôi sẽ chia sẻ nhiều hơn khi bạn kết nối mạng trở lại
     <string name="text_free_trial">Thử miễn phí</string>
     <string name="text_local_push_check">Xem</string>
     <string formatted="false" name="text_pay_monthly">Bắt đầu từ %s, tự động gia hạn với %s/tháng cho đến khi bị hủy</string>
-    <string name="text_pay_weekly">Bắt đầu từ %s, tự động gia hạn với %s/tuần cho đến khi bị hủy</string>
-    <string name="text_pay_yearly">Bắt đầu từ %s, tự động gia hạn với %s/năm cho đến khi bị hủy</string>
+    <string formatted="false" name="text_pay_weekly">Bắt đầu từ %s, tự động gia hạn với %s/tuần cho đến khi bị hủy</string>
+    <string formatted="false" name="text_pay_yearly">Bắt đầu từ %s, tự động gia hạn với %s/năm cho đến khi bị hủy</string>
     <string name="text_start_time_format">dd/MM</string>
     <string name="text_status_apply_now">Áp dụng</string>
     <string name="text_status_be_subscribing">Đã đăng ký</string>
