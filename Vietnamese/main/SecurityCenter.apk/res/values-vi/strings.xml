@@ -7640,9 +7640,6 @@ Nhấn và giữ chỉ báo để di chuyển cửa sổ xung quanh."</string>
     <string name="device_oaid">Quản lý ID ảo</string>
     <string name="device_oaid_desc">Thay vì nhận dạng duy nhất, hệ thống sẽ cung cấp ID ảo (OAID) để cài đặt ứng dụng. Điều này ngăn ứng dụng theo dõi hành vi và sở thích của bạn và bảo vệ quyền riêng tư.</string>
     <string name="device_oaid_title">ID ảo</string>
-    <string name="ellipsis">…</string>
-    <string name="exo_track_bitrate">%1$.2f Mb/giây</string>
-    <string name="exo_track_resolution">%1$d × %2$d</string>
     <string name="face_unlock">Mở khóa bằng dữ liệu khuôn mặt</string>
     <string name="fallback_menu_item_copy_link">Sao chép đường liên kết</string>
     <string name="fallback_menu_item_open_in_browser">Mở trong trình duyệt</string>
@@ -7785,8 +7782,6 @@ Nhấn và giữ chỉ báo để di chuyển cửa sổ xung quanh."</string>
     <string name="main_declaration_dialog_msg">Giá trị số dư hiển thị trong tính năng này không thể được sử dụng làm bằng chứng khi đàm phán với nhà cung cấp. Dữ liệu di động và số liệu thống kê sử dụng thoại do nhà cung cấp của bạn cung cấp sẽ được ưu tiên.</string>
     <string name="manage_notification_access_title">Đọc, trả lời và kiểm soát thông báo</string>
     <string name="mark_call_intercept_threshold_dialog_message">*Nếu một số bị báo cáo là lừa đảo hoặc spam bởi một số người dùng vượt quá ngưỡng bạn đặt, cuộc gọi sẽ bị chặn. Nếu ngưỡng được đặt quá thấp, các cuộc gọi không phải spam có thể bị chặn nhầm.</string>
-    <string name="menu_text_networkassistants_data">%1$s%2$s</string>
-    <string name="menu_text_power_percent_title">%s</string>
     <string name="miuix_accessibility_title">Tiêu đề</string>
     <string name="miuix_appcompat_accessibility_collapse_state">Thu gọn</string>
     <string name="miuix_appcompat_accessibility_expand_state">Mở rộng</string>
@@ -7893,16 +7888,9 @@ Tiết kiệm pin tối ưu</string>
     <string name="phone_manage_content_description_remove">Xóa</string>
     <string name="phone_manage_edit_cancel">Hủy</string>
     <string name="phone_manage_edit_confirm">Lưu thay đổi</string>
-    <string name="power_center_list_item_battery_health_model_temperature">%d ℃</string>
-    <string name="power_center_list_item_battery_health_model_voltage">%s V</string>
-    <string name="power_center_list_item_battery_health_model_volume">%s mAh</string>
-    <string name="power_center_list_item_battery_status_capacity">mAh</string>
-    <string name="power_center_list_item_battery_status_temperature">℃</string>
     <string formatted="false" name="power_optimize_power_save_extend_time_new">Kéo dài khoảng %1s %2s</string>
-    <string name="pref_operator_setting">%1$s%2$s</string>
     <string name="privacy_privacy_title">Chính sách Riêng tư</string>
     <string name="privacy_user_notice_title">Thông báo người dùng</string>
-    <string name="process_kernel_label">Android</string>
     <string name="repeat_prompts">Chậm lại! Không gửi nhiều yêu cầu liên tiếp.</string>
     <string name="restore_device_id_content">Kiến nghị cá nhân sẽ được đặt lại</string>
     <string name="restore_device_id_title">Đặt lại ID thiết bị</string>

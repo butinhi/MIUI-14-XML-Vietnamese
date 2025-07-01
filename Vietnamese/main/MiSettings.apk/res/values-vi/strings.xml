@@ -1337,8 +1337,6 @@
     <string name="msc_mix_unlock_password_summary">Có thể kết hợp các ký tự khác nhau</string>
     <string name="msc_mix_unlock_password_title">Mật khẩu</string>
     <string name="msc_mixed_need_to_confirm">Nhập lại để xác nhận</string>
-    <string name="msc_mixed_password_confirmed_header_confirm">@string/msc_numeric_password_confirmed_header_confirm</string>
-    <string name="msc_mixed_password_confirmed_header_continue">@string/msc_numeric_password_confirmed_header_continue</string>
     <string name="msc_mixed_password_recording_intro_header">Nhập %1$s–%2$s ký tự</string>
     <string name="msc_mixed_pattern_entered_header">Đặt mật khẩu thành công</string>
     <string name="msc_modify_password">Đổi mật khẩu</string>
@@ -1447,8 +1445,6 @@
     <string name="pcl_install_app_message">%s đang cố gắng cài đặt một ứng dụng</string>
     <string name="pcl_login_and_add_account">Thêm</string>
     <string name="pcl_mixed_need_to_confirm">Nhập lại để xác nhận</string>
-    <string name="pcl_mixed_password_confirmed_header_confirm">@string/pcl_numeric_password_confirmed_header_confirm</string>
-    <string name="pcl_mixed_password_confirmed_header_continue">@string/pcl_numeric_password_confirmed_header_continue</string>
     <string name="pcl_mixed_pattern_entered_header">Đặt mật khẩu thành công</string>
     <string name="pcl_mixed_recording_intro_header">Nhập %1$s–%2$s ký tự</string>
     <string name="pcl_mixtype_hidepwd_icon">Ẩn</string>
@@ -1485,12 +1481,7 @@
     <string name="pcl_privacy_policy_revoke_button">Rút lại</string>
     <string name="pcl_privacy_policy_revoke_message">Nếu bạn rút lại chấp thuận đối với Chính sách Riêng tư của %1$s, điều này sẽ được coi là từ chối các dịch vụ của %2$s.
 Rút lại chấp thuận ngay?</string>
-    <string name="pcl_provision_app_control_start_title">@string/pcl_app_control_start_title</string>
     <string name="pcl_provision_bind_email_title">Thêm email vào Kiểm soát phụ huynh</string>
-    <string name="pcl_provision_control_apps_title">@string/pcl_control_apps_title</string>
-    <string name="pcl_provision_next">@string/pcl_set_password_next</string>
-    <string name="pcl_provision_set_pwd_title">@string/pcl_set_pwd_title</string>
-    <string name="pcl_provision_start">@string/pcl_guide_open_control</string>
     <string name="pcl_provision_start_desc">Chào mừng sử dụng Kiểm soát phụ huynh! Ứng dụng này có thể giúp bạn quản lý và giám sát việc sử dụng thiết bị của con bạn cũng như đảm bảo con bạn sử dụng thiết bị một cách an toàn và có trách nhiệm.</string>
     <string name="pcl_provision_system_permission_declare_double_link"><Data>Đọc và đồng ý với &lt;a href="%1$s">Thỏa thuận Người dùng&lt;/a> và &lt;a href="%2$s">Chính sách Riêng tư&lt;/a> của chúng tôi trước khi bạn tiếp tục.</Data></string>
     <string name="pcl_recording_inprogress">Thả ngón tay khi hoàn tất</string>

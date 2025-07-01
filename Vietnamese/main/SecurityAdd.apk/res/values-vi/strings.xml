@@ -814,7 +814,6 @@ An toàn và bảo mật"</string>
     <string name="call_notification_ongoing_text">Cuộc gọi đang thực hiện</string>
     <string name="call_notification_screening_text">Đang sàng lọc cuộc gọi đến</string>
     <string name="common_google_play_services_unknown_issue">%1$s đang gặp sự cố với các dịch vụ của Google Play. Hãy thử lại.</string>
-    <string name="empty"> </string>
     <string name="ew_detail_receive_distance_message1">%s km</string>
     <string name="ew_detail_receive_location_message">%2$s°N %1$s°E</string>
     <string name="ew_detail_receive_warn_time_message">%s giây</string>
@@ -898,7 +897,6 @@ An toàn và bảo mật"</string>
     <string name="power_main_battery_last_hour_minute_screen_on">Thời gian sử dụng còn lại %1$s %2$s</string>
     <string name="retry_action">Thử lại</string>
     <string name="size_suffix">%1$s%2$s</string>
-    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
     <string name="super_power_satellite_endurance_time">Có thể thực hiện cuộc gọi vệ tinh cho ≈%1$s %2$s</string>
     <string name="superpower_dialog_button_ok">OK</string>

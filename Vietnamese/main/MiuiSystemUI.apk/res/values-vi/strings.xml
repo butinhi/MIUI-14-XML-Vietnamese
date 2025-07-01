@@ -4435,7 +4435,6 @@ dd/MM/yyyy</string>
 M</string>
     <string name="miui_screen_rotation_freeze_portrait_message">Khóa hướng màn hình trong chế độ nằm dọc</string>
     <string name="miuix_appcompat_edit">Sửa</string>
-    <string name="monitoring_description_vpn_settings_separator"> </string>
     <string name="mtrl_picker_announce_current_range_selection">Ngày bắt đầu được chọn: %1$s – Ngày kết thúc được chọn: %2$s</string>
     <string name="mtrl_picker_announce_current_selection">Lựa chọn hiện tại: %1$s</string>
     <string name="mtrl_picker_announce_current_selection_none">không có</string>
@@ -4481,7 +4480,6 @@ M</string>
     <string name="performance">Hiệu suất</string>
     <string name="physical_keyboard_title">Bàn phím thực</string>
     <string name="popup_on_dismiss_cta_tile_text">Nhấn và giữ để tuỳ chỉnh tiện ích</string>
-    <string name="power_charging">%1$s - %2$s</string>
     <string name="power_charging_duration_v2">%1$s – Đến %2$s pin sẽ đầy</string>
     <string name="power_charging_future_paused">%1$s – Đang sạc</string>
     <string name="power_charging_limited">%1$s – Quá trình sạc được tối ưu hoá</string>
@@ -4508,7 +4506,6 @@ M</string>
     <string name="privacy_dialog_recent_app_usage_2">%1$s (%2$s • %3$s) đã dùng gần đây</string>
     <string name="privacy_dialog_recent_call_usage">Đã dùng gần đây trong cuộc gọi điện thoại</string>
     <string name="privacy_dialog_summary">Hoạt động sử dụng gần đây của ứng dụng</string>
-    <string name="process_kernel_label">Hệ điều hành Android</string>
     <string name="qs_record_issue_bug_report">Báo cáo lỗi</string>
     <string name="qs_record_issue_dropdown_header">Bạn gặp loại vấn đề gì khi dùng thiết bị?</string>
     <string name="qs_record_issue_dropdown_prompt">Chọn loại vấn đề</string>
@@ -4579,8 +4576,6 @@ M</string>
     <string name="state_empty">Trống</string>
     <string name="state_off">Đang tắt</string>
     <string name="state_on">Đang bật</string>
-    <string name="status_bar_clock_date_weekday_format_12_brief">@string/status_bar_clock_date_format_12</string>
-    <string name="status_bar_clock_date_weekday_format_brief">@string/status_bar_clock_date_format</string>
     <string name="status_bar_next_alarm">Báo thức sẽ kêu lúc %1$s</string>
     <string name="status_bar_notification_info_overflow">999+</string>
     <string name="stream_alarm_unavailable">Bị tắt vì đang bật chế độ Không làm phiền</string>

@@ -1370,7 +1370,6 @@ Tăng cường bảo mật."</string>
     <string name="service_delivery_carousel_page_down_talkback">Trượt xuống để chuyển đổi. Tiện ích hiện tại: %1$s</string>
     <string name="service_delivery_carousel_page_up_talkback">Trượt lên để chuyển đổi. Tiện ích hiện tại: %1$s</string>
     <string name="shortcut_menu_add_widget">Thêm tiện ích</string>
-    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="system_shortcuts_dislike">Tôi không thích điều này</string>
     <string name="system_shortcuts_size_adapt">Điều chỉnh kích thước</string>
     <string name="talkback_systemaction_item_cts">Khoanh tròn để tìm kiếm</string>

@@ -1771,7 +1771,6 @@ Xin chú ý rằng chức năng nhắn tin qua internet hiện đã bị tạm d
     <string name="fallback_menu_item_share_link">Chia sẻ liên kết</string>
     <string name="fare">Giá vé</string>
     <string name="fcm_fallback_notification_channel_label">Khác</string>
-    <string name="flatshow_page_no">%1$d</string>
     <string name="flight">Chuyến bay</string>
     <string name="fmt_date_long_month">MMMM</string>
     <string name="fmt_date_numeric_month">M</string>
@@ -1853,7 +1852,6 @@ Xin chú ý rằng chức năng nhắn tin qua internet hiện đã bị tạm d
     <string name="recommend_tip_smart">Bảo vệ riêng tư. Nhận dạng thông minh.</string>
     <string name="seats">Số ghế</string>
     <string name="select_duration_time_other">Khác</string>
-    <string name="send_to_index_contact">%1$s/%2$s</string>
     <string name="setting_default_guide_btn_go_set">Đặt</string>
     <string name="setting_internet_message">Tin nhắn internet miễn phí</string>
     <string name="setting_internet_message_on_simIndex">Tin nhắn internet miễn phí (SIM %d)</string>

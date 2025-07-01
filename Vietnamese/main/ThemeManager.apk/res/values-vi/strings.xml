@@ -2409,8 +2409,6 @@ Bạn có thể rút lại chấp thuận của mình đối với Chính sách 
     <string name="dropdown_menu">Trình đơn thả xuống</string>
     <string name="enter_email_address_tips">Nhập địa chỉ email</string>
     <string name="error_a11y_label">Lỗi: không hợp lệ</string>
-    <string name="exo_track_bitrate">%1$.2f Mb/giây</string>
-    <string name="exo_track_resolution">%1$d × %2$d</string>
     <string name="find_new_version">Đã tìm thấy phiên bản mới của %s. Vui lòng cập nhật.</string>
     <string name="flip_wallpaper_preview_revert">Thay đổi hướng màn hình</string>
     <string name="fold_sensor_video_wallpaper_group">Hình nền động màn hình gập</string>
@@ -2682,7 +2680,6 @@ Chúng tôi sẽ chia sẻ nhiều hơn khi bạn kết nối mạng trở lại
     <string name="renewal_of_a_contract_yearly">Gia hạn với %s/năm</string>
     <string name="resource_component_widget">Tiện ích</string>
     <string name="resource_currently_applied">Đã áp dụng</string>
-    <string name="resource_price_format">(%1$s)</string>
     <string name="resource_re_choose">Chọn</string>
     <string name="resource_widget_add">Thêm</string>
     <string name="resource_widget_add_successful">Thêm thành công</string>
@@ -2704,7 +2701,6 @@ Chúng tôi sẽ chia sẻ nhiều hơn khi bạn kết nối mạng trở lại
     <string name="show_reward_video_unavailable">Không thể tải quảng cáo. Chờ một hoặc hai phút và thử lại.</string>
     <string name="show_reward_video_unlock">Mở khóa chủ đề thành công</string>
     <string name="side_sheet_accessibility_pane_title">Trang bên</string>
-    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="submission_successfully">Gửi thành công</string>
     <string name="subscription_service_shutdown_tip">Hình nền đã đăng ký không còn hiển thị do bạn đang sử dụng dịch vụ khác. Bạn có thể áp dụng lại hình nền đã đăng ký.</string>
     <string name="successfully_applied_wallpaper_tip">Áp dụng hình nền thành công</string>
@@ -2736,7 +2732,6 @@ Chúng tôi sẽ chia sẻ nhiều hơn khi bạn kết nối mạng trở lại
     <string name="text_when_cancel_the_trial_tip">Nếu bạn hủy dùng thử này, hình nền này sẽ bị xóa khỏi thiết bị của bạn.</string>
     <string name="text_when_unsubscribe_tip">Nếu bạn hủy đăng ký này, hình nền này sẽ bị xóa khỏi thiết bị của bạn.</string>
     <string name="the_wallpaper_does_not_support_graffiti_text">Hình nền này không hỗ trợ doodle</string>
-    <string name="theme_name">%1$s</string>
     <string name="theme_resource_widget_delete">Không đủ dung lượng trên Màn hình chính</string>
     <string name="theme_resource_widget_removed">Tiện ích này không tồn tại</string>
     <string name="third_party_dialog_open_title">Bật Tạp chí màn hình khoá</string>

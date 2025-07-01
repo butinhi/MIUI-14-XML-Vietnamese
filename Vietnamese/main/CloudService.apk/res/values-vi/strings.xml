@@ -1643,8 +1643,6 @@ Thông tin vị trí có thể không được báo cáo khi kết nối mạng 
     <string name="e2ee_tip_lockscreen_open_title">Bật khóa màn hình</string>
     <string name="error_reset_retry_exceed_limit_with_retry">Quá nhiều lần thử không thành công. Hãy thử lại sau %s.</string>
     <string name="error_retry_exceed_limit_with_retry">Quá nhiều lần thử không thành công. Hãy thử lại sau %s.</string>
-    <string name="find_device_dspt_provision_2">i.mi.com</string>
-    <string name="find_device_dspt_provision_2_int">www.mi.com/micloud</string>
     <string name="find_permission_phone_sim_info_summary">Để truy cập vị trí qua SMS khi không kết nối mạng</string>
     <string name="find_permission_phone_sim_info_title">Truy cập thông tin thiết bị</string>
     <string name="fmt_date_long_month">MMMM</string>
