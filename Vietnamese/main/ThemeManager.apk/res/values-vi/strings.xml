@@ -2884,4 +2884,7 @@ Chúng tôi sẽ chia sẻ nhiều hơn khi bạn kết nối mạng trở lại
     <string name="wallpaper_effect_disable_of_depth_video_toast">Không thể thiết lập hiệu ứng cho Màn hình chính khi hiệu ứng chiều sâu video được bật cho Màn hình khóa</string>
     <string name="wallpaper_restore_defalut_push">Đã khôi phục về mặc định</string>
     <string name="wallpaper_set_as_lockscreen_personal_wallpaper_carousel">Thêm vào ảnh đã chọn của bạn trong Tạp chí màn hình khoá</string>
+    <string name="ai_dialog_support_type_confirm">Hãy thử ngay</string>
+    <string name="ai_dialog_support_type_content">Bây giờ bạn có thể tạo hình nền động với ảnh người hoặc động vật và hình ảnh anime.</string>
+    <string name="ai_dialog_support_type_title">Kiểu hình ảnh mới</string>
 </resources>
