@@ -672,4 +672,8 @@
         <item quantity="other">Sau %d giây không hoạt động</item>
         <item quantity="one">Sau %d giây không hoạt động</item>
     </plurals>
+	    <plurals name="screen_timeout_summary_minute">
+        <item quantity="one">Sau %d phút không hoạt động</item>
+        <item quantity="other">Sau %d phút không hoạt động</item>
+    </plurals>
 </resources>
