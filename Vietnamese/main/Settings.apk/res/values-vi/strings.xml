@@ -16009,4 +16009,20 @@ Wallet, ứng dụng thanh toán và các ứng dụng khác yêu cầu xác th�
     <string name="zen_mode_summary2_tablet">Sẽ không nhắc nhở khi có thông báo</string>
     <string name="zen_modes_list_title">Chế độ ưu tiên</string>
 	<string formatted="false" name="tofgesture_description_summary">Khi thiết bị ở chế độ ngang, hãy đưa tay cách máy ảnh %d đến %d cm và thực hiện cử chỉ sau khi biểu tượng bàn tay xuất hiện ở đầu màn hình.</string>
+	<string name="privacy_password_setup_again">Xác nhận mã PIN</string>
+    <string name="privacy_password_setup_confirm">Xác nhận</string>
+    <string name="privacy_password_setup_hint">Nhập mã PIN</string>
+    <string name="privacy_password_setup_next">Tiếp</string>
+    <string name="privacy_password_setup_not_match">"Mã PIN không khớp. Hãy thử lại."</string>
+    <string name="privacy_password_setup_process">Đặt mật khẩu bảo vệ quyền riêng tư</string>
+    <string name="privacy_password_title_summary">Kiểm soát loại mật khẩu được sử dụng cho các tính năng riêng tư</string>
+	<string name="privacy_password_enter_digital_password">Nhập mã PIN gồm %d chữ số của bạn</string>
+    <string name="privacy_password_custom_password">Mã PIN tùy chỉnh</string>
+    <string name="privacy_password_digital_password">Mã PIN gồm %d chữ số</string>
+    <string name="privacy_password_enter_custom_password">Nhập mã PIN từ %1$d–%2$d chữ số</string>
+    <string name="privacy_password_enter_graphic_password">Vẽ mẫu của bạn</string>
+    <string name="privacy_password_enter_hybrid_password">Nhập mật khẩu từ %1$d–%2$d ký tự</string>
+    <string name="privacy_password_graphic_password">Mẫu</string>
+    <string name="privacy_password_hybrid_password">Mật khẩu</string>
+	<string name="smart_clipboard_title">Phím tắt bảng tạm</string>
 </resources>

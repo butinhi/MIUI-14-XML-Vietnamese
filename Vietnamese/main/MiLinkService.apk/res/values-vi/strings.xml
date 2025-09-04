@@ -1529,4 +1529,23 @@ và đăng nhập vào Tài khoản Xiaomi của bạn"</string>
     <string name="unlock_screen_to_authorize_camera_car">%s đang truy cập camera của thiết bị này</string>
     <string name="update">Cập nhật</string>
     <string name="using_camera_of_device_description">Đang sử dụng camera của %1$s.</string>
+	<string name="connect_settings_summary_global_v2">Tự động phát hiện các thiết bị gần đó đã đăng nhập vào Tài khoản Xiaomi của bạn và kết nối chúng với nhau để thực hiện nhiều tác vụ trên nhiều thiết bị. Bật Wi-Fi và Bluetooth trước khi sử dụng.</string>
+	<string name="connect_settings_summary_v2_china"><Data>Tự động phát hiện các thiết bị gần đó đã đăng nhập vào Tài khoản Xiaomi của bạn và kết nối chúng với nhau để thực hiện nhiều tác vụ khác nhau trên nhiều thiết bị. &lt;br&gt;Bật Wi-Fi và Bluetooth trước khi sử dụng. &lt;a href=%1$s&gt;Tìm hiểu thêm&lt;/a&gt;</Data></string>
+	<string name="circulate_card_tv_screen">Chiếu</string>
+	<string name="connect_settings_screen_cast">Chiếu</string>
+	<string name="privacy_setting_content">Không hiển thị thông báo nổi và cuộc gọi đến</string>
+	<string name="connect_settings_summary_relay_app_v2">Tiếp tục nhiệm vụ cùng ứng dụng trên thiết bị khác</string>
+	<string name="connect_settings_summary_corp_network">Sử dụng mạng điện thoại của bạn trên máy tính bảng hoặc máy tính</string>
+	<string name="camera_new_title">Camera đa thiết bị</string>
+	<string name="connect_settings_share_camera">Camera đa thiết bị</string>
+	<string name="inter_connect_setting_unavailable_dialog_title">Camera đa thiết bị</string>
+	<string name="wifi_disabled_dialog_title">Camera đa thiết bị</string>
+	<string name="connect_settings_general_summary_relay_app">Sử dụng cùng một ứng dụng trên các thiết bị đã đăng nhập vào Tài khoản Xiaomi của bạn. Hỗ trợ cho điện thoại, máy tính bảng và máy tính.</string>
+	<string name="connect_settings_general_summary_share_notification_phone">Hiển thị thông báo quan trọng trên điện thoại trên TV, máy tính bảng và máy tính gần đó đã đăng nhập vào Tài khoản Xiaomi của bạn.
+Hoạt động với các ứng dụng giao đồ ăn và gọi xe trên TV, cũng như cảnh báo pin yếu trên máy tính bảng và máy tính.</string>
+    <string name="connect_settings_share_notification_mi_device">Hiển thị thông báo từ thiết bị này trên các thiết bị Xiaomi</string>
+    <string name="connect_settings_share_notification_more_feature">Nhiều tính năng hơn</string>
+	<string name="connect_settings_general_summary_corp_phone_phone">Trả lời cuộc gọi trên máy tính bảng hoặc máy tính gần đó đã đăng nhập vào Tài khoản Xiaomi của bạn</string>
+	<string name="connect_settings_general_summary_share_clipboard">Sao chép văn bản, hình ảnh hoặc tệp trên thiết bị và dán chúng vào một thiết bị khác ở gần (điện thoại, máy tính bảng, máy tính hoặc xe) đã đăng nhập vào Tài khoản Xiaomi của bạn</string>
+	<string name="connect_settings_general_summary_share_camera">Sử dụng camera của điện thoại để điều chỉnh góc chụp trong khi gọi video hoặc phát trực tiếp trên máy tính bảng và máy tính gần đó đã đăng nhập vào Tài khoản Xiaomi của bạn</string>
 </resources>

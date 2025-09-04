@@ -7974,4 +7974,5 @@ Tính năng này sẽ không hoạt động khi Tết kiệm pin hoặc Tiết k
     <string name="whitelist_prefix_add_hint_international">Cho phép cuộc gọi bắt đầu bằng một số cụ thể</string>
     <string name="wireless_charging_no_reverser_charge_message">Không thể sử dụng sạc ngược khi bộ sạc được kết nối.</string>
     <string name="wireless_charging_no_reverser_charge_title">Ngắt kết nối bộ sạc</string>
+	<string name="medical_sp_text_not_add">Chưa thêm</string>
 </resources>

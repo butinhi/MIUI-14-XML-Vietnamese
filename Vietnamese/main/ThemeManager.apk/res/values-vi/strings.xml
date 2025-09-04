@@ -2596,7 +2596,7 @@ Bạn có thể rút lại chấp thuận của mình đối với Chính sách 
     <string name="kg_template_title_classic_phone">Cảnh quan</string>
     <string name="kg_template_title_eastern_art">Thẩm mỹ phương Đông</string>
     <string name="kg_template_title_magazine">Tạp chí</string>
-    <string name="kg_template_title_magazine_phone">Người</string>
+    <string name="kg_template_title_magazine_phone">Chủ thể</string>
     <string name="kg_template_title_mine">Màn hình khóa</string>
     <string name="kg_template_title_rhombus">Hình thoi</string>
     <string name="kg_time_language_string">Chữ số</string>
@@ -2887,4 +2887,11 @@ Chúng tôi sẽ chia sẻ nhiều hơn khi bạn kết nối mạng trở lại
     <string name="ai_dialog_support_type_confirm">Hãy thử ngay</string>
     <string name="ai_dialog_support_type_content">Bây giờ bạn có thể tạo hình nền động với ảnh người hoặc động vật và hình ảnh anime.</string>
     <string name="ai_dialog_support_type_title">Kiểu hình ảnh mới</string>
+	<string name="kg_settings_template_loading">Vui lòng chờ…</string>
+	<string name="kg_settings_customize">Tùy chỉnh</string>
+	<string name="kg_settings_template_add_new_match">Thêm đặt mới</string>
+	<string name="kg_settings_template_new_match">Đặt mới</string>
+	<string name="kg_settings_template_using">Đã áp dụng</string>
+	<string name="kg_settings_apply">Áp dụng</string>
+	
 </resources>
