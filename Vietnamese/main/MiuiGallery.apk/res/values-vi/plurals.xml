@@ -495,4 +495,8 @@
         <item quantity="other">Hiển thị %d mục đã chọn</item>
         <item quantity="one">Hiển thị %d mục đã chọn</item>
     </plurals>
+	    <plurals name="delete_media_dialog_local">
+        <item quantity="one">Xóa %d mục đã chọn? Bạn có thể vào mục "Mục đã xóa gần đây" để khôi phục hoặc xóa vĩnh viễn chúng.</item>
+        <item quantity="other">Xóa %d mục đã chọn? Bạn có thể vào mục "Mục đã xóa gần đây" để khôi phục hoặc xóa vĩnh viễn chúng.</item>
+    </plurals>
 </resources>

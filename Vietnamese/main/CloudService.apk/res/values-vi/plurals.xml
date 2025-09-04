@@ -151,4 +151,20 @@
 	<plurals name="miuix_appcompat_items_selected">
 		<item quantity="other">%d mục đã chọn</item>
 	</plurals>
+	    <plurals name="micloud_preference_record_detail">
+        <item quantity="one">%s mục</item>
+        <item quantity="other">%s mục</item>
+    </plurals>
+	    <plurals name="micloud_preference_items_count">
+        <item quantity="one">%s mục</item>
+        <item quantity="other">%s mục</item>
+    </plurals>
+	    <plurals name="micloud_preference_premium_restore_deleted_1">
+        <item quantity="one">Người dùng không có tư cách thành viên có thể khôi phục các mục đã xóa trong vòng %d ngày</item>
+        <item quantity="other">Người dùng không có tư cách thành viên có thể khôi phục các mục đã xóa trong vòng %d ngày</item>
+    </plurals>
+	    <plurals name="micloud_preference_recover_summary">
+        <item quantity="one">Người dùng không có tư cách thành viên có thể khôi phục danh bạ về bất kỳ phiên bản nào đã lưu trong vòng %d ngày</item>
+        <item quantity="other">Người dùng không có tư cách thành viên có thể khôi phục danh bạ về bất kỳ phiên bản nào đã lưu trong vòng %d ngày</item>
+    </plurals>
 </resources>

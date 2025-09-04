@@ -4095,4 +4095,10 @@ Những ảnh chụp đẹp nhất được chọn tự động. Bạn có thể
     <string name="ai_progress_grogress_tip_guide">"Thiết bị của bạn sẽ phân tích các mục nhanh hơn khi đang sạc và màn hình tắt"</string>
 	<string name="featured_customize">Tùy chỉnh</string>
 	<string name="revert">Đặt lại</string>
+	<string name="album_already_forced_common">Đã ghim</string>
+	<string name="gallery_common">Đã ghim</string>
+	<string name="gallery_pinned">Đã ghim</string>
+	<string name="home_page_custom_second">Sắp xếp lại các mục hoặc ẩn nội dung</string>
+	<string name="delete_media_dialog_cloud">Các mục đã chọn sẽ bị xóa khỏi đám mây và tất cả các thiết bị đã đồng bộ. Bạn có thể vào mục "Mục đã xóa gần đây" để khôi phục hoặc xóa vĩnh viễn..</string>
+	<string name="first_delete_media_dialog_cloud">Các mục đã chọn sẽ bị xóa khỏi đám mây và tất cả các thiết bị đã đồng bộ hóa, đồng thời được chuyển đến mục "Mục đã xóa gần đây". Chúng sẽ bị xóa vĩnh viễn sau %d ngày, trừ khi bạn có gói lưu trữ đám mây. Bạn có thể vào mục "Mục đã xóa gần đây" để khôi phục hoặc xóa vĩnh viễn..</string>
 </resources>

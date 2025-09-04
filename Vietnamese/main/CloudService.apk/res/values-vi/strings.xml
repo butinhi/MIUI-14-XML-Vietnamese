@@ -1867,4 +1867,29 @@ Thông tin vị trí có thể không được báo cáo khi kết nối mạng 
     <string name="web_view_reload_description_text">Không thể kết nối mạng.
 Kiểm tra cài đặt mạng và thử lại.</string>
     <string name="wipe_data_dialog_msg_separator">, </string>
+	<string name="micloud_preference_syncitem_title">Đồng bộ đám mây</string>
+	<string name="micloud_label_name_cloud_sync">Đồng bộ đám mây</string>
+	<string name="micloud_preference_view_all">Xem tất cả</string>
+	<string name="micloud_label_name_contacts">Liên hệ</string>
+	<string name="micloud_preference_store_contacts">Lưu trữ danh bạ của bạn trên Xiaomi Cloud để có thể xem và chia sẻ chúng trên tất cả các thiết bị của bạn và i.mi.com</string>
+	<string name="micloud_preference_store_contacts_1">Lưu trữ danh bạ của bạn trên Xiaomi Cloud để có thể xem và chỉnh sửa chúng trên tất cả các thiết bị của bạn và i.mi.com</string>
+	<string name="micloud_preference_sync_this_device">Đồng bộ hóa thiết bị này với đám mây</string>
+	<string name="micloud_preference_sync_settings_title">Cài đặt đồng bộ</string>
+	<string name="micloud_preference_sync_avatar_delay">Khi tính năng này được bật, ảnh hồ sơ có thể được đồng bộ hóa với độ trễ</string>
+    <string name="micloud_preference_sync_data_saving">Tiết kiệm dữ liệu di động nhưng có thể trì hoãn quá trình đồng bộ hóa</string>
+    <string name="micloud_preference_sync_failed">Không thể đồng bộ hóa. Nhấn vào nút để xem chi tiết.</string>
+	<string name="micloud_preference_manage_cloud_data">Quản lý dữ liệu đám mây</string>
+	<string name="micloud_preference_view_synced_contacts">Xem danh bạ đã đồng bộ</string>
+    <string name="micloud_preference_view_synced_sms">Xem tin nhắn đã đồng bộ</string>
+	<string name="micloud_preference_restore_contacts">Khôi phục danh bạ</string>
+	<string name="micloud_preference_idle_sync">Đồng bộ khi nhàn rỗi</string>
+    <string name="micloud_preference_idle_sync_desc">Chỉ đồng bộ khi màn hình tắt và thiết bị đang sạc</string>
+	<string name="micloud_preference_cloud_enabled">Bật</string>
+	<string name="micloud_preference_cloud_disabled">Tắt</string>
+	<string name="micloud_label_name_browser">Trình duyệt</string>
+    <string name="micloud_label_name_call_logs">Lịch sử cuộc gọi</string>
+    <string name="micloud_label_name_notes">Ghi chú</string>
+    <string name="micloud_label_name_password_manager">Quản lý mật khẩu</string>
+    <string name="micloud_label_name_recorder">Ghi âm</string>
+    <string name="micloud_label_name_sms">Tin nhắn</string>
 </resources>
