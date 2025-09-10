@@ -1630,7 +1630,7 @@ Hãy xem xét sử dụng ^1 nhanh hơn để đạt được hiệu suất tố
     <string name="network_reset_not_available">Đặt lại mạng không khả dụng cho người dùng này</string>
     <string name="reset_network_complete_toast">Cài đặt mạng đã được đặt lại</string>
     <string name="device_reset_title">Đặt lại thiết bị</string>
-    <string name="master_clear_title">Đặt lại về dữ liệu gốc</string>
+    <string name="master_clear_title">Xóa toàn bộ dữ liệu (khôi phục cài đặt gốc)</string>
     <string name="master_clear_desc">Tác vụ này sẽ xóa tất cả dữ liệu từ <b>bộ nhớ trong</b>" của điện thoại, bao gồm:
 
 "<li>Tài khoản Google của bạn</li>"
@@ -9882,7 +9882,7 @@ Phương thức này cho phép bạn lưu cài đặt hệ thống, tài khoản
     <string name="acount_data">Tài khoản</string>
     <string name="how_encrypt_title">3. Làm cách nào để mã hóa sao lưu?</string>
     <string name="backup_difference_title">4. Sao lưu trên máy khác gì với sao lưu đám mây?</string>
-    <string name="privacy_settings_new">Sao lưu, khôi phục, hoặc đặt lại</string>
+    <string name="privacy_settings_new">Sao lưu và khôi phục</string>
     <string name="wifi_assist">Trợ lý Wi-Fi</string>
     <string name="backup_restore_data_content">"Sao lưu của bạn có thể chứa liên hệ, tin nhắn (SMS và MMS), lịch sử cuộc gọi, sự kiện lịch, ảnh, tệp âm thanh, video, tài liệu, ứng dụng, dữ liệu ứng dụng và bố cục Màn hình chính.
 "</string>
@@ -9897,7 +9897,7 @@ Phương thức này cho phép bạn lưu cài đặt hệ thống, tài khoản
     <string name="how_backup_title">1. Làm cách nào để sao lưu?</string>
     <string name="clear_all_data">Xóa tất cả dữ liệu</string>
     <string name="local_backup_section_summary_new">Sao lưu tài khoản, dữ liệu ứng dụng, cài đặt hệ thống, và nhiều hơn nữa</string>
-    <string name="master_clear_title_new">Xóa tất cả dữ liệu (khôi phục cài đặt gốc)</string>
+    <string name="master_clear_title_new">Khôi phục cài đặt gốc</string>
     <string name="cloud_restore_section_title_new">Trong Xiaomi Cloud</string>
     <string name="wifi_link_turbo_recommendation">Ứng dụng đề xuất</string>
     <string name="wifi_link_turbo_recommendation_summary">Nhận đề xuất dựa trên thống kê sử dụng của bạn</string>
