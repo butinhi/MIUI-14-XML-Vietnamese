@@ -3706,4 +3706,6 @@ Bất cứ người dùng nào cũng có thể cập nhật ứng dụng cho ng�
 	<string name="n28_summary">Sử dụng dải tần 803 MHz</string>
 	<string name="call_notification_incoming_text">Cuộc gọi đến</string>
 	<string name="enable_esim_summary">Tắt SIM %s sau khi bật</string>
+	<string name="voice_link_switch_summary">Sử dụng SIM dữ liệu để hỗ trợ kết nối cuộc gọi khi không kết nối internet</string>
+    <string name="voice_link_switch_title">Gọi điện hỗ trợ dữ liệu</string>
 </resources>
