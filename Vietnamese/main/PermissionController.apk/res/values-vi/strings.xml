@@ -320,8 +320,6 @@
     <string name="car_default_app_selected_with_info">Đã chọn - %1$s</string>
     <string name="car_permission_selected">Đã chọn</string>
     <string name="car_ui_alert_dialog_default_button">Đóng</string>
-    <string name="car_ui_dialog_preference_negative">@android:string/cancel</string>
-    <string name="car_ui_dialog_preference_positive">@android:string/ok</string>
     <string name="car_ui_ellipsis">…</string>
     <string name="car_ui_ime_wide_screen_system_property_name">ro.build.automotive.ime.wide_screen.enabled</string>
     <string name="car_ui_installer_process_name"></string>
