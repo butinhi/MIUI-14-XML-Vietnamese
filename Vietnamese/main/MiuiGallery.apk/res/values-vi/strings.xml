@@ -4100,5 +4100,9 @@ Những ảnh chụp đẹp nhất được chọn tự động. Bạn có thể
 	<string name="gallery_pinned">Đã ghim</string>
 	<string name="home_page_custom_second">Sắp xếp lại các mục hoặc ẩn nội dung</string>
 	<string name="delete_media_dialog_cloud">Các mục đã chọn sẽ bị xóa khỏi đám mây và tất cả các thiết bị đã đồng bộ. Bạn có thể vào mục "Mục đã xóa gần đây" để khôi phục hoặc xóa vĩnh viễn..</string>
-	<string name="first_delete_media_dialog_cloud">Các mục đã chọn sẽ bị xóa khỏi đám mây và tất cả các thiết bị đã đồng bộ hóa, đồng thời được chuyển đến mục "Mục đã xóa gần đây". Chúng sẽ bị xóa vĩnh viễn sau %d ngày, trừ khi bạn có gói lưu trữ đám mây. Bạn có thể vào mục "Mục đã xóa gần đây" để khôi phục hoặc xóa vĩnh viễn..</string>
+	<string name="first_delete_media_dialog_cloud">Các mục đã chọn sẽ bị xóa khỏi đám mây và tất cả các thiết bị đã đồng bộ hóa, đồng thời được chuyển đến mục "Mục đã xóa gần đây". Chúng sẽ bị xóa vĩnh viễn sau %d ngày, trừ khi bạn có gói lưu trữ đám mây. Bạn có thể vào mục "Mục đã xóa gần đây" để khôi phục hoặc xóa vĩnh viễn.</string>
+	<string name="pinned_introduction_content">\"Ghim\" mặc định bao gồm tất cả ảnh, ảnh chụp bằng máy ảnh và ảnh chụp màn hình. Bạn cũng có thể thêm các album khác để truy cập nhanh..</string>
+    <string name="pinned_introduction_negative_button">Hiểu rồi</string>
+    <string name="pinned_introduction_positive_button">Xem</string>
+    <string name="pinned_introduction_title">Các mục đã ghim trong bộ sưu tập của bạn</string>
 </resources>
