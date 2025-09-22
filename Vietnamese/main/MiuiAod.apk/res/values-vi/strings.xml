@@ -478,7 +478,7 @@ dd/M"</string>
     <string name="temporary_style_summary">Đề xuất</string>
     <string name="ambient_display_screen_title">Màn hình luôn bật</string>
     <string name="off">Tắt</string>
-    <string name="ambient_display_screen_title_sp">Màn hình Ambient</string>
+    <string name="ambient_display_screen_title_sp">Màn hình luôn bật</string>
     <string name="on">Bật</string>
     <string name="step_to_image_community">Tìm nhiều hơn trong Cộng đồng Mi</string>
     <string name="aod_dual_clock_date_12">hh:mm dd/MM aa</string>

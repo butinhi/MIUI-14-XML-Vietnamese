@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8' ?>
+<resources>
+  <string name="date_and_time">%d-%m-%Y %H:%M:%S</string>
+  <string name="date_time">%1$s %2$s</string>
+  <string name="month_day_year">Ngày %d tháng %-m năm %Y</string>
+  <string name="time_of_day">%H:%M:%S</string>
+</resources>

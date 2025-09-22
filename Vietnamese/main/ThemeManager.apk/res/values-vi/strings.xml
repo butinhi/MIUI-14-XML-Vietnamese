@@ -2893,5 +2893,6 @@ Chúng tôi sẽ chia sẻ nhiều hơn khi bạn kết nối mạng trở lại
 	<string name="kg_settings_template_new_match">Đặt mới</string>
 	<string name="kg_settings_template_using">Đã áp dụng</string>
 	<string name="kg_settings_apply">Áp dụng</string>
-	
+	<string name="kg_delete_this_collocation">Xóa bộ này?</string>
+    <string name="kg_delete_this_collocation_desc">Cài đặt Màn hình khóa và Màn hình chính của bộ này sẽ bị xóa. Xóa bộ ngay bây giờ?</string>
 </resources>
