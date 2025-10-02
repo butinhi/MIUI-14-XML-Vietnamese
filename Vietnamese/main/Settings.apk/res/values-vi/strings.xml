@@ -16025,4 +16025,9 @@ Wallet, ứng dụng thanh toán và các ứng dụng khác yêu cầu xác th�
     <string name="privacy_password_graphic_password">Mẫu</string>
     <string name="privacy_password_hybrid_password">Mật khẩu</string>
 	<string name="smart_clipboard_title">Phím tắt bảng tạm</string>
+	<string name="zone_auto_title_summary">Tự động thiết lập dựa trên mạng di động gần bạn</string>
+	<string name="time_zone_change_notifications_toggle_summary">Nhận thông báo khi múi giờ của bạn được tự động cập nhật</string>
+	<string name="time_notifications_title">Thông báo</string>
+	<string name="time_zone_change_notifications_toggle_title">Thay đổi múi giờ</string>
+	<string name="date_time_auto_summary">Tự động thiết lập bằng mạng và tín hiệu không dây của bạn</string>
 </resources>
