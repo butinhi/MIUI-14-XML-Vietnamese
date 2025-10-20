@@ -1012,9 +1012,9 @@ Kích thước cập nhật Delta: %2$s"</string>
     <string name="fmt_date_long_month_day">d MMMM</string>
     <string name="ota_recovery_theme_notity_content">"Bạn có thể quay lại chủ đề bạn sử dụng trước khi cập nhật"</string>
     <string name="transparent_wallpaper_auto_start_pref_summary">Tiếp tục sử dụng hình nền trong suốt sau khi khởi động lại thiết bị</string>
-    <string name="apply_success_not_support_aod">"Không thể kết hợp màn hình Luôn bật với các chủ đề trên thiết bị này. Phần còn lại của các thành phần của chủ đề này đã được áp dụng thành công."</string>
+    <string name="apply_success_not_support_Màn hình luôn bật">"Không thể kết hợp màn hình Luôn bật với các chủ đề trên thiết bị này. Phần còn lại của các thành phần của chủ đề này đã được áp dụng thành công."</string>
     <string name="wallpaper_download_incall_show">Tải xuống video</string>
-    <string name="show_mamual_hide_aod">Hiển thị các mục ẩn thủ công</string>
+    <string name="show_mamual_hide_Màn hình luôn bật">Hiển thị các mục ẩn thủ công</string>
     <string name="support_theme_store_des">Chủ đề tốt luôn được tạo ra bởi các nhà thiết kế tài năng. Ứng dụng của chúng tôi chứa một lượng nhỏ quảng cáo cho phép chúng tôi hỗ trợ công việc của họ.</string>
     <string name="de_mix_dialog_title">Tạo chủ đề của bạn</string>
     <string name="community_cta_dialog_des">Chủ đề này chứa lối tắt đồng hồ hiển thị ID tài khoản Mi và trạng thái Cộng đồng Mi của bạn. Bạn có thể tắt tính năng này bằng cách chuyển sang một chủ đề khác hoặc xóa tiện ích Đồng hồ.</string>
@@ -1023,17 +1023,17 @@ Kích thước cập nhật Delta: %2$s"</string>
     <string name="show_free_miwallpaper">Hiển thị hiệu ứng Màn hình chính miễn phí</string>
     <string name="system_cta_runtime_perm_desc_get_accounts">Để truy cập IMEI và cung cấp dịch vụ tải xuống</string>
     <string name="de_apply_icons_and_wallpaper">Biểu tượng ứng dụng và hình nền</string>
-    <string name="enable_aod_list">Bật Màn hình luôn bật</string>
-    <string name="system_aod_dialog_positive_button">Cài đặt</string>
+    <string name="enable_Màn hình luôn bật_list">Bật Màn hình luôn bật</string>
+    <string name="system_Màn hình luôn bật_dialog_positive_button">Cài đặt</string>
     <string name="fmt_date_short_month_day">d MMM</string>
     <string name="resource_incall_show_download">Tải xuống video</string>
     <string name="de_mix_mode_icon_desc">Biểu tượng ứng dụng</string>
     <string name="lockscreen_desk_wallpaper">Hình nền Màn hình chính và Màn hình khóa</string>
-    <string name="has_mamual_hide_aod">Mục này đã được ẩn</string>
+    <string name="has_mamual_hide_Màn hình luôn bật">Mục này đã được ẩn</string>
     <string name="de_mix_mode_lockscreen_desc">Hình nền và đồng hồ</string>
     <string name="theme_share_app_name">Chủ đề Mi</string>
     <string name="hide_free_icons">"Không hiển thị biểu tượng miễn phí"</string>
-    <string name="hide_free_aod">"Không hiển thị chủ đề miễn phí"</string>
+    <string name="hide_free_Màn hình luôn bật">"Không hiển thị chủ đề miễn phí"</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshing">Đang làm mới…</string>
     <string name="no_network_desc">"Không thể kết nối mạng"</string>
     <string name="de_no_more_recommendations">"Đó là tất cả."</string>
@@ -1048,8 +1048,8 @@ Kích thước cập nhật Delta: %2$s"</string>
     <string name="morning">SA</string>
     <string name="de_mix_mode_desktop">Màn hình chính</string>
     <string name="theme_wallpaper">Danh mục hình nền</string>
-    <string name="system_aod_dialog_title">Màn hình luôn bật đã tắt</string>
-    <string name="apply_success_not_enable_aod">Bật Màn hình luôn bật trong Cài đặt trước</string>
+    <string name="system_Màn hình luôn bật_dialog_title">Màn hình luôn bật đã tắt</string>
+    <string name="apply_success_not_enable_Màn hình luôn bật">Bật Màn hình luôn bật trong Cài đặt trước</string>
     <string name="support_theme_store_title">Hỗ trợ các nhà thiết kế của chúng tôi</string>
     <string name="search_price_no_limit">Không hạn chế</string>
     <string name="resource_exchange_device_not_support">"Mục này không hỗ trợ trên thiết bị của bạn"</string>
@@ -1092,7 +1092,7 @@ Kích thước cập nhật Delta: %2$s"</string>
     <string name="theme_not_include_module_desc">"Củ đề này không chứa những mục sau: %s"</string>
     <string name="de_font_exchange_success">Thanh toán thành công</string>
     <string name="de_mix_mode_lockscreen">Màn hình khóa</string>
-    <string name="theme_component_title_aod">MH luôn bật</string>
+    <string name="theme_component_title_Màn hình luôn bật">Màn hình luôn bật</string>
     <string name="search_sort_synthesize">Chung</string>
     <string name="no_network_please_retry">Kiểm tra cài đặt mạng của bạn và thử lại</string>
     <string name="de_apply_icons">Biểu tượng ứng dụng</string>
@@ -1111,8 +1111,8 @@ Chạm vào đây để đăng nhập."</string>
     <string name="search_price_free">Miễn phí</string>
     <string name="de_icon_text_share">Chia sẻ</string>
     <string name="show_mamual_hide_icons">Hiển thị biểu tượng ẩn thủ công</string>
-    <string name="show_free_aod">Hiển thị chủ đề miễn phí</string>
-    <string name="system_aod_dialog_message">Bật Màn hình luôn bật trong Cài đặt trước.</string>
+    <string name="show_free_Màn hình luôn bật">Hiển thị chủ đề miễn phí</string>
+    <string name="system_Màn hình luôn bật_dialog_message">Bật Màn hình luôn bật trong Cài đặt trước.</string>
     <string name="miuix_sbl_tracking_progress_labe_up_nodata">"Đó là tất cả"</string>
     <string name="hide_mamual_hide_icons">"Không hiển thị biểu tượng ẩn thủ công"</string>
     <string name="first_page_recommend">Đề xuất</string>
@@ -1124,7 +1124,7 @@ Chạm vào đây để đăng nhập."</string>
     <string name="miuix_sbl_tracking_progress_labe_release_to_refresh">Thả ra để làm mới</string>
     <string name="fmt_date_short_year_month_day">d MMM, yyyy</string>
     <string name="de_component_author">Tác giả</string>
-    <string name="hide_mamual_hide_aod">"Không hiển thị các mục ẩn thủ công"</string>
+    <string name="hide_mamual_hide_Màn hình luôn bật">"Không hiển thị các mục ẩn thủ công"</string>
     <string name="ten_thousand_unit">Vạn</string>
     <string name="mine_tab_title_like">Thích</string>
     <string name="system_cta_main_purpose">Quản lý, sử dụng các chủ đề trực tuyến và ngoại tuyến, hình nền, nhạc chuông, phông chứ, và video nền</string>
@@ -1136,14 +1136,14 @@ Chạm vào đây để đăng nhập."</string>
     <string name="search_price_charge">Đã thanh toán</string>
     <string name="midnight">SA</string>
     <string name="system_cta_all_purpose">Chào mừng tới Chủ đề! Bạn có thể sử dụng ứng dụng này để quản lý chủ đề của bạn, hình nền, nhạc chuông và phông chữ.</string>
-    <string name="apply_not_support_aod">"Màn hình luôn bật không hỗ trợ trên thiết bị này"</string>
+    <string name="apply_not_support_Màn hình luôn bật">"Màn hình luôn bật không hỗ trợ trên thiết bị này"</string>
     <string name="theme_community">Cộng đồng</string>
     <string name="update_flag">Cập nhật</string>
     <string name="de_author_following">Đã theo dõi</string>
     <string name="not_support_incall_show">"Hình nền này không hoạt động với video hồ sơ"</string>
     <string name="de_more_info">Thêm</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshed">Đã làm mới</string>
-    <string name="de_mix_mode_aod_desc">Tùy chỉnh hình nền và định dạng đồng hồ</string>
+    <string name="de_mix_mode_Màn hình luôn bật_desc">Tùy chỉnh hình nền và định dạng đồng hồ</string>
     <string name="has_mamual_hide_icons">Biểu tượng ẩn</string>
     <string name="theme_preview">Xem trước chủ đề</string>
     <string name="afternoon">CH</string>
@@ -1153,13 +1153,13 @@ Chạm vào đây để đăng nhập."</string>
     <string name="dialog_show_never">"Không hiển thị lại."</string>
     <string name="recommend_trigger_summary">Bật để nhận đề xuất dựa trên cài đặt của bạn</string>
     <string name="de_more_resource">Vuốt để xem thêm</string>
-    <string name="de_mix_mode_aod">Màn hình luôn bật</string>
+    <string name="de_mix_mode_Màn hình luôn bật">Màn hình luôn bật</string>
     <string name="apply_not_support_in_second_space">"Không thể áp dụng mục này trong Không gian thứ hai"</string>
     <string name="de_mix_mode_global_desc">Bảng thông báo, Điện thoại, Tin nhắn, v.v.</string>
-    <string name="de_component_aod_author">Người tạo</string>
+    <string name="de_component_Màn hình luôn bật_author">Người tạo</string>
     <string name="show_mamual_hide_miwallpaper">Hiển thị hiệu ứng Màn hình chính đã ẩn</string>
     <string name="order_list">Lịch sử đặt hàng</string>
-    <string name="apply_not_support_maml_aod">"Không thể kết hợp Màn hình luôn bật với chủ đề trên thiết bị này"</string>
+    <string name="apply_not_support_maml_Màn hình luôn bật">"Không thể kết hợp Màn hình luôn bật với chủ đề trên thiết bị này"</string>
     <string name="de_mix">Tạo</string>
     <string name="chinese_day_20">20</string>
     <string name="month_november_short">Tháng 11</string>
@@ -1515,7 +1515,7 @@ dd/MM"</string>
     <string name="personalize_call_ringtone_title">Nhạc chuông</string>
     <string name="personalize_wallpaper_title">Hình nền</string>
     <string name="personalize_charge_style_title">Đang sạc</string>
-    <string name="de_mix_mode_superwallpaper_without_aod_desc">Màn hình khóa và màn hình chính</string>
+    <string name="de_mix_mode_superwallpaper_without_Màn hình luôn bật_desc">Màn hình khóa và màn hình chính</string>
     <string name="personalize_third_font">Phông chữ</string>
     <string name="resource_status_error">"Có lỗi xảy ra. Hiện không thể xem hình nền này."</string>
     <string name="wallpaper_setting_library">Thư viện</string>
@@ -1540,7 +1540,7 @@ Bạn sẽ thấy ảnh mới mỗi giờ."</string>
     <string name="de_super_wp_dialog_tip_title">Siêu hình nền</string>
     <string name="de_super_wp_land_position_default_des">Điểm hạ cánh</string>
     <string name="de_super_wp_dialog_tip_content">Siêu hình nền được áp dụng đồng thời cho Màn hình khóa, Màn hình chính và các thành phần liên quan khác.</string>
-    <string name="de_mix_mode_superwallpaper_with_aod_desc">Màn hình luôn bật, Màn hình khóa và Màn hình chính</string>
+    <string name="de_mix_mode_superwallpaper_with_Màn hình luôn bật_desc">Màn hình luôn bật, Màn hình khóa và Màn hình chính</string>
     <string name="personalize_wallpaper_sub_title">Siêu hình nền và hình ảnh nổi bật</string>
     <string name="boot_audio_dialog_cancel">Hủy</string>
     <string name="boot_audio_dialog_title">Chú ý</string>
@@ -1824,7 +1824,7 @@ Tất cả các mục cá nhân hóa hiện đang được sử dụng trên thi
     <string name="advanced_customize_mode">Tùy chỉnh nâng cao</string>
     <string name="alarm_sound">Báo thức</string>
     <string name="all_wallpapers">Tất cả hình nền</string>
-    <string name="aod_screen">Always-on display</string>
+    <string name="Màn hình luôn bật_screen">Always-on display</string>
     <string name="app_description_content">Chủ đề là ứng dụng hệ thống. Ứng dụng cung cấp hình nền và nhiều tùy chọn cá nhân. Bạn sẽ vẫn có thể sử dụng Chủ đề qua Cài đặt sau khi xóa lối tắt Màn hình chính.</string>
     <string name="app_description_title">Xóa \"Chủ đề\" khỏi Màn hình chính?</string>
     <string name="applied_success_contine">Tiếp tục duyệt</string>
@@ -1840,7 +1840,7 @@ Tất cả các mục cá nhân hóa hiện đang được sử dụng trên thi
     <string name="apply_wallpaper_notice_content">Chủ đề hiện được áp dụng chứa mô-đun Màn hình khóa tùy chỉnh có thể ngăn bạn thực hiện các điều chỉnh liên quan đến Màn hình khóa.</string>
     <string name="apply_wallpaper_notice_lockscreen">Chủ đề hiện tại chứa Màn hình khóa tùy chỉnh. Chúng tôi sẽ thay thế bằng Màn hình khóa mặc định nếu bạn áp dụng hình nền này. Vẫn áp dụng?</string>
     <string name="apply_wallpaper_notice_still_apply">Áp dụng</string>
-    <string name="apply_wallpaper_warning_use_aod_and_super_wallpaper">Bạn hiện đang sử dụng Siêu hình nền. Nếu bạn chọn hình nền mới, hình nền đó sẽ được áp dụng cho cả Màn hình chính và Màn hình khóa, đồng thời Always-on display sẽ được khôi phục về cài đặt trước. Áp dụng ngay?</string>
+    <string name="apply_wallpaper_warning_use_Màn hình luôn bật_and_super_wallpaper">Bạn hiện đang sử dụng Siêu hình nền. Nếu bạn chọn hình nền mới, hình nền đó sẽ được áp dụng cho cả Màn hình chính và Màn hình khóa, đồng thời Always-on display sẽ được khôi phục về cài đặt trước. Áp dụng ngay?</string>
     <string name="apply_wallpaper_warning_use_super_wallpaper">Bạn hiện đang sử dụng Siêu hình nền. Nếu bạn chọn hình nền mới, hình nền đó sẽ được áp dụng cho cả Màn hình chính và Màn hình khóa. Áp dụng ngay?</string>
     <string name="aqi_format">AQI %s</string>
     <string name="aqi_format_desc">Chỉ số chất lượng không khí: %s</string>
@@ -2241,7 +2241,7 @@ Bạn có thể rút lại chấp thuận của mình đối với Chính sách 
     <string name="ai_generating_wallpaper">Tạo hình nền…</string>
     <string name="ai_inquire_apply_wallpaper">Áp dụng hình nền này?</string>
     <string name="ai_moving_your_wallpaper">Xem cách AI có thể làm cho hình nền của bạn trở nên sống động</string>
-    <string name="personalize_aod_notify_style_title">Hiển thị thông báo</string>
+    <string name="personalize_Màn hình luôn bật_notify_style_title">Hiển thị thông báo</string>
     <string name="ai_read_the_privacy_policy">&lt;Data>Đọc và đồng ý với &lt;a href=\"%1$s\">Thỏa thuận người dùng&lt;/a> và &lt;a href=\"%2$s\">Chính sách bảo mật&lt;/a> của chúng tôi trước khi bạn tiếp tục.&lt;/Data></string>
     <string name="ai_read_the_privacy_policy_pad">&lt;Data>Đọc và đồng ý với &lt;a href=\"%1$s\">Thỏa thuận người dùng&lt;/a> và &lt;a href=\"%2$s\">Chính sách bảo mật hình nền và cá nhân hóa&lt;/a> của chúng tôi trước khi bạn tiếp tục.&lt;/Data></string>
     <string name="ai_select_again">Chọn</string>
@@ -2342,7 +2342,7 @@ Bạn có thể rút lại chấp thuận của mình đối với Chính sách 
     <string name="ai_waiting_in_line_please_wait">Máy chủ đang bận. Điều này có thể mất một phút.</string>
     <string name="ai_wallpaper_account_exception">Dường như tài khoản của bạn có vấn đề. Thử lại sau hoặc chuyển đổi tài khoản.</string>
     <string name="ai_wallpaper_cancel">Hủy</string>
-    <string name="apply_wallpaper_warning_use_aod_and_linked_wallpaper">Bạn đang sử dụng một bộ hình nền. Nếu bạn áp dụng chủ đề mới, cả hình nền Màn hình khóa và Màn hình chính sẽ được thay thế và Luôn luôn hiển thị sẽ được khôi phục về kiểu trước đó. Vẫn áp dụng?</string>
+    <string name="apply_wallpaper_warning_use_Màn hình luôn bật_and_linked_wallpaper">Bạn đang sử dụng một bộ hình nền. Nếu bạn áp dụng chủ đề mới, cả hình nền Màn hình khóa và Màn hình chính sẽ được thay thế và Luôn luôn hiển thị sẽ được khôi phục về kiểu trước đó. Vẫn áp dụng?</string>
     <string name="apply_wallpaper_warning_use_linked_wallpaper">Bạn đang sử dụng một bộ hình nền. Nếu bạn áp dụng chủ đề mới, cả hình nền Màn hình khóa và Màn hình chính sẽ được thay thế. Vẫn áp dụng?</string>
     <string name="automatic_renewal_monthly">Tự động gia hạn với %s/tháng</string>
     <string name="automatic_renewal_weekly">Tự động gia hạn với %s/tuần</string>
@@ -2437,13 +2437,13 @@ Bạn có thể rút lại chấp thuận của mình đối với Chính sách 
     <string name="install_succ">Cài đặt thành công</string>
     <string name="installing">Đang cài đặt…</string>
     <string name="kg_activity_label">Sửa Màn hình khóa</string>
-    <string name="kg_aod_settings_depth_video_toast">Chỉ hỗ trợ Luôn luôn hiển thị tùy chỉnh khi sử dụng hiệu ứng chiều sâu</string>
+    <string name="kg_Màn hình luôn bật_settings_depth_video_toast">Chỉ hỗ trợ Luôn luôn hiển thị tùy chỉnh khi sử dụng hiệu ứng chiều sâu</string>
     <string name="kg_apply">Áp dụng</string>
     <string name="kg_apply_to_all_alert_dialog_negative_text">Chỉ Màn hình khóa</string>
     <string name="kg_apply_to_all_alert_dialog_positive_text">Áp dụng cho cả hai</string>
-    <string name="kg_apply_to_aod_alert_dialog_negative_text">Không, cảm ơn</string>
-    <string name="kg_apply_to_aod_alert_dialog_positive_text">Bật</string>
-    <string name="kg_apply_to_aod_alert_dialog_title">Cũng bật Luôn luôn hiển thị?</string>
+    <string name="kg_apply_to_Màn hình luôn bật_alert_dialog_negative_text">Không, cảm ơn</string>
+    <string name="kg_apply_to_Màn hình luôn bật_alert_dialog_positive_text">Bật</string>
+    <string name="kg_apply_to_Màn hình luôn bật_alert_dialog_title">Cũng bật Luôn luôn hiển thị?</string>
     <string name="kg_applying">Đang áp dụng…</string>
     <string name="kg_cancel">Thoát</string>
     <string name="kg_capsule_button_text_finish">Hoàn tất</string>
@@ -2507,7 +2507,7 @@ Bạn có thể rút lại chấp thuận của mình đối với Chính sách 
     <string name="kg_depth_produce_video_detail_failed">Hiệu ứng chiều sâu chỉ có thể sử dụng cho người, chó và mèo</string>
     <string name="kg_depth_produce_video_failed">Không thể áp dụng hiệu ứng độ sâu</string>
     <string name="kg_depth_produce_video_progress_dialog_label">AI đang xử lý hiệu ứng chiều sâu của video…</string>
-    <string name="kg_depth_video_apply_aod_close_toast">Hiệu ứng chiều sâu video đã bật. Luôn luôn hiển thị toàn màn hình đã tắt.</string>
+    <string name="kg_depth_video_apply_Màn hình luôn bật_close_toast">Hiệu ứng chiều sâu video đã bật. Luôn luôn hiển thị toàn màn hình đã tắt.</string>
     <string name="kg_dialog_apply_linkage_video_wallpaper_confirm_title">Áp dụng chủ đề</string>
     <string name="kg_dialog_apply_linkage_video_wallpaper_negative_button">Hủy</string>
     <string name="kg_dialog_apply_linkage_video_wallpaper_positive_button">Áp dụng</string>
@@ -2895,4 +2895,7 @@ Chúng tôi sẽ chia sẻ nhiều hơn khi bạn kết nối mạng trở lại
 	<string name="kg_settings_apply">Áp dụng</string>
 	<string name="kg_delete_this_collocation">Xóa bộ này?</string>
     <string name="kg_delete_this_collocation_desc">Cài đặt Màn hình khóa và Màn hình chính của bộ này sẽ bị xóa. Xóa bộ ngay bây giờ?</string>
+	<string name="personalize_Màn hình luôn bật_title">Màn hình luôn bật</string>
+	<string name="theme_component_Màn hình luôn bật">Màn hình luôn bật</string>
+	<string name="wallpaper_setting_Màn hình luôn bật_wallpaper_banner_button_text">Màn hình luôn bật</string>
 </resources>

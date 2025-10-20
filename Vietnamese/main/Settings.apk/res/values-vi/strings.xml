@@ -7220,7 +7220,7 @@ Nếu điều này tiếp diễn, bạn có thể phải gỡ bỏ ứng dụng 
     <string name="gesture_prevent_ringing_screen_title">Ngăn đổ chuông</string>
     <string name="gesture_prevent_ringing_sound_title">Lối tắt để ngăn đổ chuông</string>
     <string name="gesture_prevent_ringing_title">Nhấn nút Nguồn &amp; Tăng âm lượng cùng lúc</string>
-    <string name="keywords_ambient_display_screen">Màn hình Ambient, Hiển thị màn hình khóa</string>
+    <string name="keywords_ambient_display_screen">Màn hình luôn bật, Hiển thị màn hình khóa</string>
     <string name="keywords_android_version">mức bản vá bảo mật android, phiên bản baseband, phiên bản kernel</string>
     <string name="keywords_assist_gesture_launch">cử chỉ</string>
     <string name="keywords_assist_input">mặc định, trợ lý</string>
@@ -7698,7 +7698,7 @@ Cập nhật cài đặt thành:
     <string name="zone_menu_by_region">Chọn theo vùng</string>
     <string name="zone_time_type_dst">Giờ mùa hè</string>
     <string name="zone_time_type_standard">Giờ tiêu chuẩn</string>
-    <string name="ambient_display_screen_title">Màn hình Ambient</string>
+    <string name="ambient_display_screen_title">Màn hình luôn bật</string>
     <string name="long_press_power_key_half_of_second">Bấm và giữ phím nguồn trong 0.5 giây để bật Trợ lý Google</string>
     <string name="mi_pay_indonesia">Tài khoản Mi Pay</string>
     <string name="notification_log_details_package">Gói</string>
@@ -7969,7 +7969,7 @@ Bạn có thể biến thiết bị Android của mình thành một điểm tru
     <string name="card_main_hbassistant_title">Phong bì đỏ, gói đỏ; Tiền</string>
     <string name="loading">Chỉ vài giây…</string>
     <string name="auto_dual_clock_aod_summary">Hiển thị Đồng hồ kép khi thời gian hiện tại khác thời gian trên đồng hồ thứ hai</string>
-    <string name="dual_clock_aod_open_message">Đồng hồ kép sẽ hiện trên Màn hình khóa, Màn hình chính và Màn hình Ambient.</string>
+    <string name="dual_clock_aod_open_message">Đồng hồ kép sẽ hiện trên Màn hình khóa, Màn hình chính và Màn hình luôn bật.</string>
     <string name="gxzw_enroll_again">Nhấc ngón tay lên và nhấn vào cảm biến vân tay lần nữa</string>
     <string name="layout_exhuge_font_take_effect_tips">Cỡ chữ XXL chỉ hoạt động trong Điện thoại, Tin nhắn và Liên hệ</string>
     <string name="layout_exhuge_font_tips">Nhiều tùy chọn khả dụng trong %1$s</string>
@@ -8051,7 +8051,7 @@ Bạn có thể biến thiết bị Android của mình thành một điểm tru
     <string name="choose_unlock_fingerprint_msg">Đặt khóa màn hình trước khi thêm vân tay.</string>
     <string name="miui_lab_gesture_desc">Sử dụng cử chỉ thay vì phím điều hướng</string>
     <string name="miui_lab_gesture_title">Cử chỉ Toàn màn hình</string>
-    <string name="search_ambient_display_screen_title">Màn hình Ambient</string>
+    <string name="search_ambient_display_screen_title">Màn hình luôn bật</string>
     <string name="search_doze_always_on_title">Luôn bật</string>
     <string name="usage_state_date">d MMM</string>
     <string name="fingerprint_wakeup_title">Chạm cảm biến vân tay để đánh thức</string>
@@ -8174,9 +8174,9 @@ Bật tính năng này và chạm vào nút Trợ năng ở cuối màn hình đ
     <string name="miui_lab_home_feed_desc">Sáng kiến. Câu chuyện hấp dẫn.</string>
     <string name="miui_lab_home_feed_title">Trung tâm Phương tiện</string>
     <string name="support_gesture_title">Mẫu 3D</string>
-    <string name="aod_and_lock_screen_settings_title">Màn hình Ambient &amp; Màn hình khóa</string>
-    <string name="aod_settings_category_name">Màn hình Ambient</string>
-    <string name="aod_settings_title">Màn hình Ambient</string>
+    <string name="aod_and_lock_screen_settings_title">Màn hình luôn bật &amp; Màn hình khóa</string>
+    <string name="aod_settings_category_name">Màn hình luôn bật</string>
+    <string name="aod_settings_title">Màn hình luôn bật</string>
     <string name="applications_settings_title">Ứng dụng</string>
     <string name="feedback_settings">Dịch vụ &amp; phản hồi</string>
     <string name="full_screen_display">Chế độ toàn màn hình</string>
@@ -9709,7 +9709,7 @@ Cho phép tất cả các ứng dụng muốn quét?"</string>
     <string name="notification_remind">Thông báo</string>
     <string name="aod_notification_style_screen_on">Sáng màn hình</string>
     <string name="input_method_bottom_open">Bật</string>
-    <string name="aod_name_wanxiang">Màn hình Ambient</string>
+    <string name="aod_name_wanxiang">Màn hình luôn bật</string>
     <string name="aod_style_description">Hiển thị đồng hồ, ngày, giờ, thông báo và các mục khác khi màn hình tắt</string>
     <string name="aod_notification_style_none">Không làm gì</string>
     <string name="title_layout_current2_weight">Kích cỡ &amp; độ đậm phông chữ</string>
@@ -10178,7 +10178,7 @@ Nếu bạn không đồng ý cấp các quyền đó, bạn sẽ không thể s
     <string name="face_unlock">Mở khóa khuôn mặt</string>
     <string name="current_password">Khóa màn hình hiện tại</string>
     <string name="structure_face_data_introduction_msg">Dữ liệu khuôn mặt 3D cho phép bạn mở khóa thiết bị và xác minh danh tính của bạn. Bạn cần đặt mật khẩu trước khi sử dụng tính năng này.</string>
-    <string name="control_panel_switch_side">Đổi bên Trung tâm Điều khiển</string>
+    <string name="control_panel_switch_side">Đổi bên Trung tâm điều khiển</string>
     <string name="bluetooth_paired">Đã lưu</string>
     <string name="reset_remove_data_hint">Các mục liệt kê bên trên sẽ bị xóa vĩnh viễn. Sao lưu tất cả các mục quan trọng vào máy tính hoặc Xiaomi Cloud trước khi bạn tiếp tục.</string>
     <string name="reset_confirm_directory">"Ghi chú: Trước khi khôi phục các mục, kiểm tra thư mục \"MIUI-Backup-AllBackup\" đã tồn tại trên thiết bị hay chưa. Nếu chưa, hãy tạo nó."</string>
@@ -10191,7 +10191,7 @@ Nếu bạn không đồng ý cấp các quyền đó, bạn sẽ không thể s
     <string name="charge_animation_style_title">Hiệu ứng sạc</string>
     <string name="mi_pay_summary_without_nfc">Thanh toán Mi</string>
     <string name="error_apn_not_allowed">"APN này không được cho phép trên thiết bị này. Thử cái khác."</string>
-    <string name="control_center">TT Điều khiển</string>
+    <string name="control_center">Trung tâm điều khiển</string>
     <string name="input_method_quick_cloud_tips">Loại thông báo</string>
     <string name="wifi_assistant_auto_confirm_data_help">Bạn có thể tắt tính năng này trong Cài đặt > Wi-Fi > Trợ lý Wi-Fi.</string>
     <string name="launch_ai_shortcut">Lối tắt Mi AI</string>
@@ -10863,7 +10863,7 @@ Chức năng này chỉ nhận được địa chỉ MAC Wi-Fi của bạn để
     <string name="bt_absVolume_open_dialog_title">Chú ý</string>
     <string name="launch_notification_center">Thanh thông báo</string>
     <string name="launch_calculator">Máy tính</string>
-    <string name="launch_control_center">TT Điều khiển</string>
+    <string name="launch_control_center">Trung tâm điều khiển</string>
     <string name="launch_wechat_scanner">Quét WeChat</string>
     <string name="mute">Chế độ im lặng</string>
     <string name="bt_absVolume_summary">Giữ âm lượng của thiết bị Bluetooth và điện thoại phù hợp nghiêm ngặt</string>
@@ -12223,7 +12223,7 @@ Có người dùng khác trên thiết bị này.
     <string name="ap_connect_failed">Không thể kết nối</string>
     <string name="bt_plugin_set_net_dialog_message">Kiểm tra cài đặt mạng và thử lại.</string>
     <string name="bt_plugin_current_version">Phiên bản hiện tại</string>
-    <string name="ks_launch_control_center">TT Điều khiển</string>
+    <string name="ks_launch_control_center">Trung tâm điều khiển</string>
     <string name="inputdebuglog_select_level_show">Cấp %d</string>
     <string name="vonr_switch_title">Sủ dụng VoNR</string>
     <string name="string_always">Luôn luôn</string>

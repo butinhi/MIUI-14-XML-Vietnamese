@@ -1833,4 +1833,12 @@ Ghi chú: Chỉ cho phiên bản Ubuntu 8.04!"</item>
         <item>Nhà thông minh</item>
         <item>Không</item>
     </string-array>
+	<string-array name="nfc_notification_mode_summaries">
+        <item>Thẻ thanh toán, truy cập và nhà thông minh</item>
+        <item>Ghép nối Bluetooth, kết nối không dây và thẻ nhà thông minh</item>
+    </string-array>
+    <string-array name="nfc_notification_mode_titles">
+        <item>Tất cả thẻ</item>
+        <item>Thẻ được hệ thống nhận dạng</item>
+    </string-array>
 </resources>

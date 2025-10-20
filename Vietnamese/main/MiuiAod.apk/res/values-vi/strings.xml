@@ -851,11 +851,11 @@ mm"</string>
     <string name="default_clock_style">Quay số không xác định</string>
     <string name="error_a11y_label">Lỗi: không hợp lệ</string>
     <string name="full_aod_not_support_reason_depth_video">Không thể thiết lập cùng kiểu với Màn hình khóa khi sử dụng hiệu ứng chiều sâu video</string>
-    <string name="full_aod_not_support_reason_super_wallpaper">Always-on display với Siêu hình nền không thể nhất quán với Màn hình khóa</string>
-    <string name="full_aod_not_support_reason_template">Always-on display với doodle không thể nhất quán với Màn hình khóa</string>
-    <string name="full_aod_not_support_reason_third_theme">Always-on display với chủ đề bên thứ ba không thể nhất quán với Màn hình khóa</string>
-    <string name="full_aod_not_support_reason_third_wallpaper">Always-on display với hình nền bên thứ ba không thể nhất quán với Màn hình khóa</string>
-    <string name="full_aod_not_support_toast_notification">Chủ đề Always-on display hiện tại không hỗ trợ sử dụng hiệu ứng thông báo</string>
+    <string name="full_aod_not_support_reason_super_wallpaper">Màn hình luôn bật với Siêu hình nền không thể nhất quán với Màn hình khóa</string>
+    <string name="full_aod_not_support_reason_template">Màn hình luôn bật với doodle không thể nhất quán với Màn hình khóa</string>
+    <string name="full_aod_not_support_reason_third_theme">Màn hình luôn bật với chủ đề bên thứ ba không thể nhất quán với Màn hình khóa</string>
+    <string name="full_aod_not_support_reason_third_wallpaper">Màn hình luôn bật với hình nền bên thứ ba không thể nhất quán với Màn hình khóa</string>
+    <string name="full_aod_not_support_toast_notification">Chủ đề Màn hình luôn bật hiện tại không hỗ trợ sử dụng hiệu ứng thông báo</string>
     <string name="keyguard_shortcut_empty">Không</string>
     <string name="keyguard_shortcut_open_failed">Không thể khởi chạy ứng dụng. Thử lại.</string>
     <string name="keyguard_shortcut_slide_enter">Trượt để mở</string>
