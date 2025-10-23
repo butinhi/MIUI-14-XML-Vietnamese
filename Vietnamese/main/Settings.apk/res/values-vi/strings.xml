@@ -16030,4 +16030,6 @@ Wallet, ứng dụng thanh toán và các ứng dụng khác yêu cầu xác th�
 	<string name="time_notifications_title">Thông báo</string>
 	<string name="time_zone_change_notifications_toggle_title">Thay đổi múi giờ</string>
 	<string name="date_time_auto_summary">Tự động thiết lập bằng mạng và tín hiệu không dây của bạn</string>
+	<string name="gxzw_anim_switch">Hoạt ảnh vân tay</string>
+	<string name="gxzw_anim_category_mini">Tối giản</string>
 </resources>
