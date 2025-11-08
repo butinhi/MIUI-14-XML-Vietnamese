@@ -2898,4 +2898,7 @@ Chúng tôi sẽ chia sẻ nhiều hơn khi bạn kết nối mạng trở lại
 	<string name="personalize_aod_title">Màn hình luôn bật</string>
 	<string name="theme_component_aod">Màn hình luôn bật</string>
 	<string name="wallpaper_setting_aod_wallpaper_banner_button_text">Màn hình luôn bật</string>
+	<string name="carousel_wallpaper">Xáo trộn hình nền</string>
+	<string name="carousel_wallpaper_dlg_apply_home_btn">Chỉ màn hình chính</string>
+	<string name="carousel_wallpaper_dlg_apply_lock_btn">Áp dụng bộ hình nền này cho cả màn hình khóa?</string>
 </resources>

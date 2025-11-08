@@ -37,7 +37,7 @@
     <string name="whatsapp_delete_done">Hoàn tất</string>
     <string name="whatsapp_file_show_order">Hôm nay</string>
     <string name="whatsapp_function_summery">Xóa tập tin đính kèm WhatsApp</string>
-    <string name="whatsapp_function_title">Trình dọn dẹp WhatsApp</string>
+    <string name="whatsapp_function_title">Dọn dẹp WhatsApp</string>
     <string name="whatsapp_group_audio">Tập tin âm thanh</string>
     <string name="whatsapp_group_document">Tài liệu</string>
     <string name="whatsapp_group_gif">GIF</string>
@@ -45,7 +45,7 @@
     <string name="whatsapp_group_video">Video</string>
     <string name="whatsapp_group_voice">Tin nhắn thoại</string>
     <string name="whatsapp_group_wallpaper">Hình nền</string>
-    <string name="whatsapp_title">Trình dọn dẹp WhatsApp</string>
+    <string name="whatsapp_title">Dọn dẹp WhatsApp</string>
     <string name="whatsapp_type_document_recv">Tập tin đã nhận</string>
     <string name="whatsapp_type_document_send">Tập tin đã gửi</string>
     <string name="whatsapp_type_image_recv">Ảnh đã nhận</string>
@@ -68,7 +68,7 @@
     <string name="terabyteShort">TB</string>
     <string name="petabyteShort">PB</string>
     <string name="update_date_format">dd/MM/yyyy</string>
-    <string name="activity_title_garbage_cleanup">Trình dọn dẹp</string>
+    <string name="activity_title_garbage_cleanup">Dọn dẹp</string>
     <string name="activity_title_scanfinish">Quét hoàn tất</string>
     <string name="empty_title_photos">Không tìm thấy ảnh</string>
     <string name="empty_title_garbage_cache">Không còn rác để dọn dẹp</string>
@@ -121,7 +121,7 @@
     <string name="pref_title_clean_alert">Nhắc nhở dọn dẹp</string>
     <string name="pref_summary_auto_clean_and_alert">Lên lịch trình dọn dẹp tự động</string>
     <string name="pref_category_title_other_clean_settings">Cài đặt bổ sung</string>
-    <string name="pref_summary_garbage_process_mode">Thiết lập thông báo khi chạy trình dọn dẹp</string>
+    <string name="pref_summary_garbage_process_mode">Thiết lập thông báo khi chạy Dọn dẹp</string>
     <string name="pref_summary_garbage_auto_clean_content">Chọn mục để dọn dẹp tự động</string>
     <string name="pref_content_cleanup_white_list_none">Không</string>
     <string name="pref_title_open_optimizer_cloud_scan">Tải lên tên tập tin</string>
@@ -175,7 +175,7 @@
     <string name="auto_clean_switch_off">Tắt</string>
     <string name="msg_cleanup_db_update_checking">Đang kiểm tra cập nhật…</string>
     <string name="msg_update_error_code_success">Hoàn tất</string>
-    <string name="msg_update_error_code_no_newer_db">Trình dọn dẹp đã được cập nhật</string>
+    <string name="msg_update_error_code_no_newer_db">Dọn dẹp đã được cập nhật</string>
     <string name="msg_update_error_code_already_running">Đang cập nhật…</string>
     <string name="msg_update_error_code_network_error">Không thể kết nối mạng</string>
     <string name="msg_update_error_code_unknown_error">Lỗi không xác định</string>
@@ -197,7 +197,7 @@
     <string name="hints_finish_quick_cleanup">Hoàn tất</string>
     <string name="hints_finish_quick_cleanup_title">Dọn dẹp %s rác</string>
     <string name="dialog_title_load_cleanup_engine_error">Lỗi</string>
-    <string name="dialog_msg_load_cleanup_engine_error">Trình dọn dẹp bị lỗi.</string>
+    <string name="dialog_msg_load_cleanup_engine_error">Dọn dẹp bị lỗi.</string>
     <string name="dialog_title_add_white_list_error">Chú ý</string>
     <string name="dialog_msg_add_white_list_error">Không thể thêm tập tin này vào danh sách ngoại lệ</string>
     <string name="dialog_ok_add_white_list_error">Tôi biết</string>
@@ -380,7 +380,7 @@
     <string name="set_immediately">Thiết lập</string>
     <string name="title_of_network_speed_set">Hiển thị tốc độ mạng trên thanh trạng thái</string>
     <string name="tips_of_network_speed_set">Xem tốc độ mạng trên thanh trạng thái</string>
-    <string name="title_of_garbage_data_set">Cập nhật cơ sở dữ liệu Trình dọn dẹp</string>
+    <string name="title_of_garbage_data_set">Cập nhật cơ sở dữ liệu Dọn dẹp</string>
     <string name="tips_of_garbage_data_set">Cập nhật cơ sở dữ liệu để tìm thêm rác trên thiết bị của bạn</string>
     <string name="title_of_cloud_service">Dịch vụ Xiaomi Cloud</string>
     <string name="tips_of_cloud_service">Đăng nhập bằng Tài khoản Mi để sử dụng các dịch vụ Mi khác</string>
@@ -435,7 +435,7 @@
     <string name="dialog_title_stop_scan">Dừng quét</string>
     <string name="dialog_msg_stop_scan">Dừng quét?</string>
     <string name="dialog_title_esc_cleanmaster">Thoát dọn dẹp</string>
-    <string name="dialog_msg_esc_cleanmaster">Dừng quét và thoát Trình dọn dẹp?</string>
+    <string name="dialog_msg_esc_cleanmaster">Dừng quét và thoát Dọn dẹp?</string>
     <string name="pref_category_title_engine_settings">Cài đặt định dạng quét</string>
     <string name="pref_title_choose_engine">Nhận dạng</string>
     <string name="recommend_the_following">Làm theo bước sau để xem thêm nhiều nội dung thú vị</string>
@@ -466,8 +466,8 @@
     <string name="buy_a_new_phone">Thêm dung lượng lưu trữ</string>
     <string name="file">Tập tin</string>
     <string name="output_videos">Xuất video</string>
-    <string name="wechat_clean">Trình dọn dẹp WeChat</string>
-    <string name="qq_clean">Trình dọn dẹp QQ</string>
+    <string name="wechat_clean">Dọn dẹp WeChat</string>
+    <string name="qq_clean">Dọn dẹp QQ</string>
     <string name="wechat_qq_normal_files">Rác</string>
     <string name="wechat_cache_files">Bộ nhớ đệm WeChat</string>
     <string name="qq_cache_files">Bộ nhớ đệm QQ</string>
@@ -520,8 +520,8 @@
     <string name="resutl_function_qq_clean_summary">Bạn có thể xóa &lt;font color=#ff0000 >%1$s&lt;/font> bộ nhớ đệm được tạo bởi QQ</string>
     <string name="engine_tm">Tencent</string>
     <string name="engine_cm">Clean Master</string>
-    <string name="app_description_title">Giới thiệu Trình dọn dẹp</string>
-    <string name="app_description_content">Trình dọn dẹp tìm rác trên thiết bị và giải phóng dung lượng. Chắc chắn rằng bạn không cần những tính năng này trước khi gỡ bỏ ứng dụng.</string>
+    <string name="app_description_title">Giới thiệu Dọn dẹp</string>
+    <string name="app_description_content">Dọn dẹp tìm rác trên thiết bị và giải phóng dung lượng. Chắc chắn rằng bạn không cần những tính năng này trước khi gỡ bỏ ứng dụng.</string>
     <string name="engine_init">Đang khởi tạo...</string>
     <string name="unlike">Không, cảm ơn</string>
     <string name="wechat_qq_celan_tab_video">Video</string>
@@ -1002,7 +1002,7 @@
     <string name="powerful_acceleration_before">Trước</string>
     <string name="powerful_acceleration_after">Sau</string>
     <string name="rs_clean_size_storage_title">Lưu trữ</string>
-    <string name="video_clean_qq_clean_title">Trình dọn dẹp QQ</string>
+    <string name="video_clean_qq_clean_title">Dọn dẹp QQ</string>
     <string name="video_clean_remind_settings_title">Nhắc nhở dọn dẹp</string>
     <string name="powerful_acceleration_item_button">Bật</string>
     <string name="video_clean_notification_title">Giải phóng %s</string>

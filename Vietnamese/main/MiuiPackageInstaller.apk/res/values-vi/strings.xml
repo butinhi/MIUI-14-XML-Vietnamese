@@ -461,7 +461,7 @@
     <string name="miui_failed_solution_1">Gỡ cài đặt phiên bản hiện tại của ứng dụng này và cài đặt lại ứng dụng.</string>
     <string name="miui_failed_solution_2">Gói cài đặt có thể bị hỏng. Tải lại ứng dụng.</string>
     <string name="miui_failed_solution_3">Hãy thử lưu gói cài đặt vào một vị trí khác.</string>
-    <string name="miui_failed_solution_4">Giải phóng bộ nhớ trong Bảo mật > Trình dọn dẹp và thử lại.</string>
+    <string name="miui_failed_solution_4">Giải phóng bộ nhớ trong Bảo mật > Dọn dẹp và thử lại.</string>
     <string name="miui_failed_solution_5">Hãy thử sử dụng gói cài đặt tương thích.</string>
     <string name="miui_failed_solution_6">Xóa phiên bản đã cài đặt và thử cài đặt lại.</string>
     <string name="miui_failed_solution_7">Tải xuống phiên bản mới nhất của ứng dụng này trong GetApps.</string>
@@ -1502,4 +1502,7 @@ Ngoài ra, bạn có thể tắt Chế độ đơn giản và thử lại."</str
 	<string name="install_hint_risk_detail">Chi tiết rủi ro</string>
 	<string name="install_warning_dialog_unregistered3_desc">Ứng dụng này chưa được đăng ký theo yêu cầu chính sách. Nếu lợi ích của bạn bị xâm phạm, bạn có thể không liên hệ được với nhà phát triển ứng dụng này. Vui lòng thận trọng khi cài đặt! Hiểu chính sách nộp hồ sơ</string>
 	<string name="unrecorded_app_dialog_tips_help">"Nếu bạn tin tưởng nguồn này, hãy chạm vào \"︙\" và chọn \"Cho phép một lần\" để cài đặt. "</string>
+	<string name="ecm_hint_content">Hệ thống đã chặn ứng dụng này sử dụng các quyền nhạy cảm. Một số tính năng có thể không khả dụng.</string>
+	<string name="ecm_hint_jump_text">Cho phép ứng dụng sử dụng các quyền</string>
+	<string name="ecm_hint_title">Quyền truy cập bị từ chối</string>
 </resources>

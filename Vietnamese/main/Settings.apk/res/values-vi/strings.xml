@@ -10937,7 +10937,7 @@ Chức năng này chỉ nhận được địa chỉ MAC Wi-Fi của bạn để
     <string name="dpp_qrcode_generator_summary">Quét mã QR này với thiết bị hỗ trợ Easy Connect</string>
     <string name="wifi_wakeup_location_summary">Bật dịch vụ vị trí để có thể sử dụng tính năng này.</string>
     <string name="legacy_control_center_desc">Kéo thanh trạng thái xuống để xem các nút chuyển đổi và thông báo</string>
-    <string name="lock_screen_action">Các mục hiển thị trong màn hình khóa sau khi kéo xuống</string>
+    <string name="lock_screen_action">Các mục hiển thị trên Màn hình khóa khi vuốt xuống</string>
     <string name="wifi_wakeup_title">Bật tính năng bổ sung</string>
     <string name="notification_control_center">Thông báo &amp; Trung tâm điều khiển</string>
     <string name="wifi_wakeup_scan_summary">Cho phép các ứng dụng và dịch vụ tìm kiếm các mạng Wi-Fi để có thể tự động bật Wi-Fi. Bật tính năng này sẽ cho phép thiết bị của bạn tự động kết nối tới mạng đã lưu gần đó.</string>

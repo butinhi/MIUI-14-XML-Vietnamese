@@ -892,9 +892,9 @@ Hoạt động này làm giảm tuổi thọ pin."</string>
     <string name="resource_securitycenter">Bảo mật</string>
     <string name="keywords_securitycenter">Bảo mật;Kiểm tra;Quét</string>
     <string name="path_securitycenter">Ứng dụng hệ thống/Bảo mật</string>
-    <string name="resource_cleanmaster">Trình dọn dẹp</string>
-    <string name="keywords_cleanmaster">Rác;Xóa;Tốc độ;Bộ nhớ;Bộ nhớ đệm;Xóa lưu trữ;xóa rác;rác;giải phóng;giải phóng bộ nhớ;giải phóng dung lượng;xóa;dọn dẹp sâu;trình dọn dẹp</string>
-    <string name="path_cleanmaster">Ứng dụng hệ thống/Bảo mật/Trình dọn dẹp</string>
+    <string name="resource_cleanmaster">Dọn dẹp</string>
+    <string name="keywords_cleanmaster">Rác;Xóa;Tốc độ;Bộ nhớ;Bộ nhớ đệm;Xóa lưu trữ;xóa rác;rác;giải phóng;giải phóng bộ nhớ;giải phóng dung lượng;xóa;dọn dẹp sâu;dọn dẹp</string>
+    <string name="path_cleanmaster">Ứng dụng hệ thống/Bảo mật/Dọn dẹp</string>
     <string name="resource_antivirus">Quét virus</string>
     <string name="keywords_antivirus">Virus;Nguy cơ;Diệt virus;Quét;Kiểm tra bảo mật thanh toán;bảo mật thanh toán;an toàn thanh toán,bảo vệ thanh toán;đã bảo vệ thanh toán;khu an toàn;khu thanh toán an toàn</string>
     <string name="path_antivirus">Ứng dụng hệ thống/Bảo mật/Quét virus</string>
@@ -946,7 +946,7 @@ Hoạt động này làm giảm tuổi thọ pin."</string>
     <string name="menu_text_networkassistants_danger">Vượt quá %s</string>
     <string name="menu_text_antispam">Danh sách chặn</string>
     <string name="menu_text_license_manager">Quyền</string>
-    <string name="menu_text_garbage_cleanup">Trình dọn dẹp</string>
+    <string name="menu_text_garbage_cleanup">Dọn dẹp</string>
     <string name="menu_text_power_manager">Pin</string>
     <string name="menu_text_power_percent_title_default">Pin</string>
     <string name="last_check_canceled">Quét trước đó đã bị hủy bỏ</string>
@@ -961,7 +961,7 @@ Hoạt động này làm giảm tuổi thọ pin."</string>
     <string name="activity_title_antispam">Danh sách chặn</string>
     <string name="activity_title_license_manager">Quyền</string>
     <string name="activity_title_power_manager">Tối ưu pin</string>
-    <string name="activity_title_garbage_cleanup">Trình dọn dẹp</string>
+    <string name="activity_title_garbage_cleanup">Dọn dẹp</string>
     <string name="memory_check_content">Đã giải phóng %s</string>
     <string name="memory_clear_unused">Xóa bộ nhớ đệm (%s)</string>
     <string name="activity_title_virus">Virus</string>
@@ -1164,8 +1164,8 @@ Hoạt động này làm giảm tuổi thọ pin."</string>
     <string name="toast_flow_notification">Đã bật thông báo sử dụng dữ liệu</string>
     <string name="toast_auto_traffic_correct">Sử dụng dữ liệu đã được điều chỉnh tự động</string>
     <string name="toast_show_notification">Đã ghim trên thanh thông báo</string>
-    <string name="toast_cleaner_cloudscan">Trình dọn dẹp sẽ sử dụng nhận dạng trực tuyến</string>
-    <string name="toast_garbage_lib">Đã bật tự động cập nhật cho Trình dọn dẹp</string>
+    <string name="toast_cleaner_cloudscan">Dọn dẹp sẽ sử dụng nhận dạng trực tuyến</string>
+    <string name="toast_garbage_lib">Đã bật tự động cập nhật cho Dọn dẹp</string>
     <string name="title_app_lock_disable">Khóa ứng dụng</string>
     <string name="summary_app_lock_disable">Bảo vệ dữ liệu bằng Khóa ứng dụng</string>
     <string name="info_and_call">Cuộc gọi và tin nhắn</string>
@@ -1288,7 +1288,7 @@ Hoạt động này làm giảm tuổi thọ pin."</string>
     <string name="card_main_netcheck_action">Kiểm tra</string>
     <string name="card_main_hbassistant_title">Cập nhật</string>
     <string name="card_main_hbassistant_summary">Sử dụng công cụ này để chụp lì xì nhanh hơn</string>
-    <string name="card_main_deepclean_qq_title">Trình dọn dẹp QQ</string>
+    <string name="card_main_deepclean_qq_title">Dọn dẹp QQ</string>
     <string name="action_button_text_100">Tối ưu</string>
     <string name="action_button_text_80_100">Tối ưu</string>
     <string name="action_button_text_60_80">Sửa</string>
@@ -4542,7 +4542,7 @@ Bật một trong các tính năng sẽ tắt tính năng còn lại."</string>
     <string name="pc_fast_charge_notifi_action_text_off">Dừng</string>
     <string name="privacy_apps_add">Thêm</string>
     <string name="task_summary_open_nfc">Bật NFC</string>
-    <string name="summary_condition_scan_rubbish">Trình dọn dẹp</string>
+    <string name="summary_condition_scan_rubbish">Dọn dẹp</string>
     <string name="privacy_permission_relate">Quản lý Quyền</string>
     <string name="title_result_twinkle">Chế độ chống nháy</string>
     <string name="title_result_dial_tone">Âm bàn phím quay số</string>
@@ -5528,7 +5528,7 @@ Cấp quyền cho ứng dụng nhưng trả lại thông tin trống để bảo
     <string name="card_click_type_open_or_download">Mở/Tải xuống ở góc dưới bên phải</string>
     <string name="card_click_type_other">Các khu vực khác</string>
     <string name="card_main_video_manage_title">Quản lý video</string>
-    <string name="card_main_whatsappclean_title">Trình dọn dẹp WhatsApp</string>
+    <string name="card_main_whatsappclean_title">Dọn dẹp WhatsApp</string>
     <string name="chainstart_desc_for_exemption">Ứng dụng chưa được đánh giá \"%1$s\" đang mở \"%2$s\". Hãy cẩn thận khi thực hiện thanh toán.</string>
     <string name="character_counter_pattern">%1$d/ %2$d</string>
     <string name="charge_high_temp_warning_dialog_text">Có vẻ như cổng sạc hiện đã quá nóng. Ngắt kết nối bộ sạc và để cổng nguội trước khi bạn bắt đầu sạc lại.</string>
@@ -5598,7 +5598,7 @@ Cấp quyền cho ứng dụng nhưng trả lại thông tin trống để bảo
     <string name="phone_manage">Tiện ích</string>
     <string name="phone_manage_app_manager_summary">Quản lý ứng dụng trên thiết bị</string>
     <string name="phone_manage_clean_summary">Giải phóng bộ nhớ lưu trữ</string>
-    <string name="phone_manage_clean_title">Trình dọn dẹp</string>
+    <string name="phone_manage_clean_title">Dọn dẹp</string>
     <string name="phone_manage_electric_summary">Tối ưu thiết bị của bạn để Tiết kiệm pin</string>
     <string name="phone_manage_electric_title">Pin</string>
     <string name="custom_define_permission_desc_android.permission.group.SENSORS">Để phát hiện sóng địa chấn để theo dõi động đất</string>
@@ -6161,7 +6161,7 @@ Thiết bị của bạn bây giờ nhanh hơn %s."</string>
     <string name="search_menu_title">Tìm kiếm</string>
     <string name="search_result_text">Không tìm thấy bất kỳ ứng dụng nào</string>
     <string name="secondart_setting_title">Cài đặt lời nhắc lì xì</string>
-    <string name="section_clear_acc_item_title">%s. Nếu vẫn không đủ dung lượng, hãy sử dụng Trình dọn dẹp.</string>
+    <string name="section_clear_acc_item_title">%s. Nếu vẫn không đủ dung lượng, hãy sử dụng Dọn dẹp.</string>
     <string name="section_security_defend_item_title">Bảo vệ dữ liệu bằng Khóa ứng dụng</string>
     <string name="section_system_item_fixed">Đã sửa</string>
     <string name="section_title_clear_acc">Xóa bộ nhớ đệm</string>

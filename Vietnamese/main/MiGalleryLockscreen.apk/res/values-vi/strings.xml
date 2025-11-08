@@ -2138,4 +2138,7 @@ thẻ tiếp theo"</string>
     <string name="lws_wallpaper_range_title">Danh mục hình ảnh</string>
     <string name="lws_wallpaper_recommend_title">"Lựa chọn của biên tập viên"</string>
     <string name="lws_wallpaper_switch_interval_title">Tần suất xáo trộn</string>
+	<string name="cw_wallpaper_empty_dlg_content2">"Bạn chưa thêm hình ảnh nào được chọn. Tạp chí màn hình khoá sẽ hiển thị các hình nền được đề xuất thay thế."</string>
+	<string name="cw_wallpaper_empty_dlg_title2">Chưa có hình ảnh nào được thêm</string>
+	<string name="recommend_wallpaper_fragment_online_wallpaper_title">Hình nền trực tuyến</string>
 </resources>

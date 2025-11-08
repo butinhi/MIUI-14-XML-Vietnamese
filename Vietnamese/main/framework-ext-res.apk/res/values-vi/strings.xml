@@ -432,7 +432,7 @@
     <string name="citylight">Ánh sàng thành thị</string>
     <string name="incomingmessage">Âm báo đã nhận SMS</string>
     <string name="bottle">Mở nắp chai</string>
-    <string name="wallpaper_group_sgn_mountain_title">Núi Siguniang</string>
+    <string name="wallpaper_group_sgn_mountain_title">Núi Tứ Nữ</string>
     <string name="moment">Khoảnh khắc</string>
     <string name="windchime">Chuông gió</string>
     <string name="bubble">Bong bóng</string>
@@ -553,9 +553,9 @@
     <string name="wallpaper_group_light_cycles_title">Vòng tròn neon</string>
     <string name="wallpaper_group_macaron_title">Sỏi</string>
     <string name="wallpaper_group_molten_glass_title">Thủy tinh nóng chảy</string>
-    <string name="wallpaper_group_petros_koublis_title">Giấc mơ</string>
-    <string name="wallpaper_group_shadow_geometry_title">Bóng hình</string>
-    <string name="wallpaper_overlapping_space_title">Hình dạng và ảo ảnh</string>
+    <string name="wallpaper_group_petros_koublis_title">Mộng mơ</string>
+	<string name="wallpaper_group_shadow_geometry_title">Hình học của bóng tối</string>
+	<string name="wallpaper_overlapping_space_title">Hình khối và bóng tối</string>
     <string name="wallpaper_softlight_title">Ánh sáng dịu nhẹ</string>
     <string name="Redmi_Pad_Pro">Redmi Pad Pro</string>
     <string name="Redmi_Pad_Pro_5G">Redmi Pad Pro 5G</string>
@@ -704,7 +704,7 @@
     <string name="split_screen_recommend_tip">Chia màn hình</string>
     <string name="start_activity_tip">Tiếp tục trên màn hình bên trong</string>
     <string name="status_bar_toggle_nfc">NFC</string>
-    <string name="super_wallpaper_list_label">Siêu hình nền</string>
+	<string name="super_wallpaper_list_label">Hình nền siêu thực</string>
     <string name="swipe_up_to_continue_using">Trượt lên để tiếp tục</string>
     <string name="toast_camera_satellite_mutually_exclusive">Không thể sử dụng máy ảnh khi đang sử dụng liên lạc qua vệ tinh</string>
     <string name="toast_mic_muted">Micro đã tắt</string>
@@ -754,4 +754,16 @@
     <string name="xiaomi_poco_f1">POCO F1</string>
     <string name="zte">ZTE</string>
     <string name="zte_phone">ZTE</string>
+	<string name="wallpaper_and_signature_title">Hình nền và chữ ký</string>
+	<string name="wallpaper_bright_title">Rực rỡ</string>
+	<string name="wallpaper_group_ai_zone_title">Hình nền AI</string>
+	<string name="wallpaper_group_big_numbers_title">Số lớn</string>
+	<string name="wallpaper_group_blossom_title">Khai nở</string>
+	<string name="wallpaper_group_creative_time_title">Đồng hồ sáng tạo</string>
+	<string name="wallpaper_group_curves_title">Đường cong</string>
+	<string name="wallpaper_group_nature_title">Thiên nhiên</string>
+	<string name="wallpaper_group_pets_title">Thú cưng</string>
+	<string name="wallpaper_group_system_wallpaper_title">Hình nền hệ thống</string>
+	<string name="wallpaper_group_time_watch_title">Đồng hồ</string>
+	<string name="wallpaper_manying_title">Bóng tối</string>
 </resources>

@@ -204,7 +204,7 @@
     <string name="choose_city">Chọn thành phố</string>
     <string name="choose_upload">Chọn tập tin để tải lên</string>
     <string name="city_name_spell">Nhập thành phố</string>
-    <string name="cleanup_garbage">Trình dọn dẹp</string>
+    <string name="cleanup_garbage">Dọn dẹp</string>
     <string name="cleanup_memory">Xóa bộ nhớ đệm</string>
     <string name="cleanup_power">Dọn dẹp sâu</string>
     <string name="clear">Dọn dẹp</string>
