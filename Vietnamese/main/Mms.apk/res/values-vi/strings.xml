@@ -1876,4 +1876,6 @@ Xin chú ý rằng chức năng nhắn tin qua internet hiện đã bị tạm d
     <string name="unsticked">Hủy ghim thành công</string>
     <string name="wrong_mms_version_msg">Cài đặt phiên bản Tin nhắn tương thích với thiết bị và hệ thống của bạn.</string>
     <string name="wrong_mms_version_title">Lỗi phiên bản</string>
+	<string name="confirm_dialog_title_make_as_read">Đánh dấu là đã đọc</string>
+	<string name="make_as_read_tips">Đánh dấu tất cả thông báo là đã đọc?</string>
 </resources>
