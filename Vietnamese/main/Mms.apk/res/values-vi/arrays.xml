@@ -23,11 +23,6 @@
         <item>Tối đa</item>
         <item>2 ngày</item>
     </string-array>
-    <string-array name="entries_pref_key_voice_report">
-        <item>@string/voice_report_wiredon</item>
-        <item>@string/voice_report_anytime</item>
-        <item>@string/voice_report_off</item>
-    </string-array>
     <string-array name="entries_sms_validity_period">
         <item>Chưa đặt</item>
         <item>1 giờ</item>

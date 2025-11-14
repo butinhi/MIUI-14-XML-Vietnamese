@@ -347,7 +347,6 @@ Xin chú ý rằng chức năng nhắn tin qua internet hiện đã bị tạm d
     <string name="feature_mx_summary"><b>Tin nhắn Mi cho phép bạn gửi tin nhắn cho những người dùng Tin nhắn Mi khác qua internet mà không phải trả phí</b>. Một tin nhắn SMS có thể được yêu cầu gửi đi để kích hoạt dịch vụ này. Nhà cung cấp dịch vụ sẽ tính phí tin nhắn này. Đọc và đồng ý với <font color="#B3000000"><a href="http://url1">Thỏa thuận Người dùng</a></font> và <font color="#B3000000"><a href="http://url2">Chính sách Riêng tư</a></font> của chúng tôi trước khi sử dụng tính năng này.</string>
     <string name="feature_smart_sms">Tin nhắn Thông minh</string>
     <string name="feature_smart_sms_summary"><b>Tin nhắn Thông minh cung cấp nhận dạng ID Người gửi và menu thông minh</b>. Tin nhắn thông minh được cung cấp một phần bởi Yulore. Đọc và đồng ý với <font color="#B3000000"><a href="http://url3">Chính sách Riêng tư</a></font> của Yolore trước khi sử dụng tính năng này.</string>
-    <string name="flatshow_page_no">%1$d</string>
     <string name="flight">Chuyến bay</string>
     <string name="fmt_chinese_date">N月e</string>
     <string name="fmt_date">D</string>
@@ -1041,7 +1040,6 @@ Kiểm tra với chatbot được đề xuất."</string>
     <string name="send_rms_editor_hints_omit">Tin nhắn Mi</string>
     <string name="send_sms">Gửi tin nhắn</string>
     <string name="send_to">Tới:</string>
-    <string name="send_to_index_contact">%1$s/%2$s</string>
     <string name="sent_label">"Đã gửi: "</string>
     <string name="service_message_not_found">Thông báo hết hạn hoặc không sẵn dùng.</string>
     <string name="service_network_problem">Không thể gửi do có vấn đề về mạng</string>
