@@ -321,7 +321,7 @@
     <string name="resource_select_notification_audio_confirm">Chọn âm báo thức này?</string>
     <string name="resource_select_ringtone_audio_confirm">Chọn nhạc chuông này?</string>
     <string name="resource_select_ringtone_confirm">Chọn nhạc chuông này?</string>
-    <string name="resource_selected">Đặc sắc</string>
+    <string name="resource_selected">Nổi bật</string>
     <string name="resource_send">Gửi</string>
     <string name="resource_server_alert_dialog_title">Chúng tôi sẽ quay lại ngay…</string>
     <string name="resource_server_out_of_service">Xin lỗi, hiện tại không thế kết nối đến máy chủ.</string>
@@ -337,7 +337,7 @@
     <string name="resource_title_local">Trên máy</string>
     <string name="resource_title_rank">Hàng đầu</string>
     <string name="resource_title_select_ringtone">Chọn nhạc chuông</string>
-    <string name="resource_title_subject">Đặc sắc</string>
+    <string name="resource_title_subject">Nổi bật</string>
     <string name="resource_trial_15_days_end_title">Đã hết hạn dùng thử 15 ngày</string>
     <string name="resource_trial_15_days_immediately">Dùng thử 15 ngày ngay</string>
     <string name="resource_trial_days">(dùng thử: %1$d ngày)</string>
@@ -1854,7 +1854,7 @@ Tất cả các mục cá nhân hóa hiện đang được sử dụng trên thi
     <string name="back_to_none">Không đặt làm nhạc chuông</string>
     <string name="beep">Âm thanh thông báo</string>
     <string name="carefully_chosen_wallpaper">Lựa chọn của biên tập viên</string>
-    <string name="channel_featured_page">Đặc sắc</string>
+    <string name="channel_featured_page">Nổi bật</string>
     <string name="choose_pay_method">Chọn phương thức thanh toán</string>
     <string name="classic_calendar_day_of_week_format">EE</string>
     <string name="classic_calendar_month_of_year_format">MMM</string>
@@ -2900,4 +2900,6 @@ Chúng tôi sẽ chia sẻ nhiều hơn khi bạn kết nối mạng trở lại
 	<string name="carousel_wallpaper">Xáo trộn hình nền</string>
 	<string name="carousel_wallpaper_dlg_apply_home_btn">Chỉ màn hình chính</string>
 	<string name="carousel_wallpaper_dlg_apply_lock_btn">Áp dụng bộ hình nền này cho cả màn hình khóa?</string>
+	<string name="ai_wallpaper_local_title">Hình nền của tôi</string>
+	<string name="ai_wallpaper_featured_title">Nổi bật</string>
 </resources>
