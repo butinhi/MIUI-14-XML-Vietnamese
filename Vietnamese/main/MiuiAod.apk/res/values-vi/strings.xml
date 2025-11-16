@@ -1080,5 +1080,6 @@ M</string>
     <string name="smart_style_summary_outer">Khi ai đó nhìn vào màn hình ngoài</string>
     <string name="talkback_invert_color">Đảo màu</string>
     <string name="tiny_accessibility_kg_battery_level">Pin</string>
-    <string name="tiny_camera_content_description">Camera</string>
+    <string name="tiny_camera_content_description">Máy ảnh</string>
+	<string name="kg_function_wallpaper_pinch_to_zoom">Thu phóng và di chuyển bằng hai ngón tay</string>
 </resources>
