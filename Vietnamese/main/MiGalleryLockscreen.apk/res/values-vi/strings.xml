@@ -2141,4 +2141,10 @@ thẻ tiếp theo"</string>
 	<string name="cw_wallpaper_empty_dlg_content2">"Bạn chưa thêm hình ảnh nào được chọn. Tạp chí màn hình khoá sẽ hiển thị các hình nền được đề xuất thay thế."</string>
 	<string name="cw_wallpaper_empty_dlg_title2">Chưa có hình ảnh nào được thêm</string>
 	<string name="recommend_wallpaper_fragment_online_wallpaper_title">Hình nền trực tuyến</string>
+	<string name="sst_lock_screen_carousel">Trình chiếu</string>
+	<string name="passport_open_settings">Cài đặt</string>
+	<string name="sst_carousel_setting">Cài đặt</string>
+	<string name="sst_mobile_data_only_new">Tải ảnh qua dữ liệu di động</string>
+	<string name="sst_morning_greeting">Lời chào buổi sáng</string>
+	<string name="sst_morning_greeting_history_picture">Lịch sử lời chào buổi sáng</string>
 </resources>
