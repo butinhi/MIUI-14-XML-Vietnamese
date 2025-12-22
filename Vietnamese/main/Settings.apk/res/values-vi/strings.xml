@@ -10944,7 +10944,7 @@ Chức năng này chỉ nhận được địa chỉ MAC Wi-Fi của bạn để
     <string name="modern_control_center_desc">Kéo thanh trạng thái xuống từ bên trái để xem thông báo. Kéo thanh trạng thái xuống từ bên phải để mở Trung tâm điều khiển.</string>
     <string name="usb_use_photo_transfers_miui12_5">Truyền ảnh</string>
     <string name="control_center_style_summary">"Chọn cách bạn muốn hiển thị các nút chuyển đổi và thông báo"</string>
-    <string name="allow_all_rotations_title">Cho phép tất cả hành động xoay</string>
+    <string name="allow_all_rotations_title">Cho phép xoay theo mọi hướng</string>
     <string name="requires_modern_control_center">Hoạt động với phiên bản mới của Trung tâm điều khiển</string>
     <string name="zen_mode_more_actions">Thêm tùy chọn Không làm phiền</string>
     <string name="silent_mode_enable_media">Phát phương tiện</string>
@@ -11015,7 +11015,7 @@ Chức năng này chỉ nhận được địa chỉ MAC Wi-Fi của bạn để
     <string name="miheadset_game_mode">Chế độ Trò chơi</string>
     <string name="bt_audio_share_property">Chia sẻ</string>
     <string name="screen_enhance_engine_title">Công cụ hình ảnh AI</string>
-    <string name="miheadset_formal">Đứng</string>
+    <string name="miheadset_formal">Tiêu chuẩn</string>
     <string name="screen_enhance_engine_ai_open">Tăng cường hình ảnh</string>
     <string name="miheadset_in_ear_check">Phát hiện tai</string>
     <string name="miheadset_call_assist">Gọi AI</string>
@@ -16032,4 +16032,25 @@ Wallet, ứng dụng thanh toán và các ứng dụng khác yêu cầu xác th�
 	<string name="date_time_auto_summary">Tự động thiết lập bằng mạng và tín hiệu không dây của bạn</string>
 	<string name="gxzw_anim_switch">Hoạt ảnh vân tay</string>
 	<string name="gxzw_anim_category_mini">Tối giản</string>
+	<string name="blue_light_filter">Bộ lọc ánh sáng xanh</string>
+	<string name="paper_colors_active_apps">Phạm vi ứng dụng</string>
+	<string name="color_mode_all_apps">Tất cả ứng dụng</string>
+	<string name="active_all_apps_summary">Sử dụng tính năng bảo vệ mắt trên tất cả ứng dụng, mọi lúc</string>
+	<string name="active_read_apps_summary">Chỉ sử dụng tính năng bảo vệ mắt trên các ứng dụng sách và đọc</string>
+	<string name="color_mode_read_apps">Chỉ ứng dụng đọc sách</string>
+	<string name="eyes_protect_certification">Công nghệ và chứng nhận</string>
+    <string name="eyes_protect_certification_summary_1">Chứng nhận thân thiện với sức khỏe thị giác S++</string>
+    <string name="eyes_protect_certification_summary_2">Được chứng nhận Ánh sáng xanh thấp (Giải pháp phần cứng), Thân thiện với nhịp sinh học và Không nhấp nháy</string>
+    <string name="eyes_protect_certification_summary_3">Công nghệ phân cực tròn giúp ánh sáng khuếch tán đều, mang lại trải nghiệm thị giác tự nhiên hơn</string>
+    <string name="eyes_protect_certification_summary_4">Công nghệ làm mờ DC toàn dải độ sáng giúp giảm căng thẳng cho dây thần kinh thị giác bằng cách loại bỏ hiện tượng nhấp nháy khi chuyển đổi giữa các cảnh sáng và tối</string>
+    <string name="eyes_protect_certification_title_1">Trung tâm Chứng nhận Chất lượng Trung Quốc</string>
+    <string name="eyes_protect_certification_title_2">Bộ ba chứng nhận Bảo vệ mắt TÜV Rheinland</string>
+    <string name="eyes_protect_certification_title_3">Phân cực tròn tự nhiên hơn</string>
+    <string name="eyes_protect_certification_title_4">Làm mờ DC không nhấp nháy</string>
+	<string name="standard_mode">Tiêu chuẩn</string>
+	<string name="external_display_standard_rotation">Tiêu chuẩn</string>
+    <string name="blue_light_filter_tip">"Ánh sáng xanh không thể được loại bỏ hoàn toàn. Bạn cũng có thể áp dụng quy tắc %1$d–%2$d–%3$d để bảo vệ thị lực của mình.."</string>
+    <string name="blue_light_reduce">Giảm ánh sáng xanh khoảng ≈%s</string>
+	<string name="blue_light_reduce_tip">"Biểu đồ quang phổ là hình minh họa sơ đồ phổ điểm trắng của màn hình. Mức giảm ánh sáng xanh có thể khác nhau tùy theo màn hình. Dải ánh sáng xanh có hại (hình chữ nhật màu xanh trong biểu đồ) tuân theo tiêu chuẩn phần cứng ánh sáng xanh thấp của TÜV Rheinland."</string>
+	<string name="protect_eyes_mode">Chế độ đọc sách</string>
 </resources>
