@@ -1409,10 +1409,8 @@ Một tin nhắn SMS ra ngoài được yêu cầu để kích hoạt Tin nhắn
     <string name="pref_title_system_mms_priority">Đặt làm mặc định</string>
     <string name="privacy_dialog_error_service">Đã xảy ra lỗi máy chủ. Vui lòng đợi một lát và thử lại.</string>
     <string name="privacy_dialog_text_policy_link">Chính sách quyền riêng tư</string>
-    <string name="privacy_dialog_tips_revoke">Nếu bạn tiếp tục, bạn sẽ thu hồi sự đồng ý với Chính sách quyền riêng tư của %s. Thông tin cá nhân đã được thu thập và lưu trữ sẽ bị xóa trong thời gian quy định theo luật pháp hiện hành trừ khi được yêu cầu khác. Vì %s cung cấp dịch vụ dựa trên việc thu thập thông tin cá nhân cần thiết, việc bạn thu hồi sự đồng ý sẽ được xem là từ chối sử dụng dịch vụ %s. Bạn có muốn thu hồi ngay không?</string>
-    <string name="privacy_dialog_tips_update">Chính sách quyền riêng tư của %s đã được cập nhật:
-%s
-Vui lòng đọc và đồng ý với phiên bản mới của Chính sách quyền riêng tư trước khi tiếp tục.</string>
+<string name="privacy_dialog_tips_revoke">Nếu bạn tiếp tục, bạn sẽ thu hồi sự đồng ý với Chính sách quyền riêng tư của %1$s. Thông tin cá nhân đã được thu thập và lưu trữ sẽ bị xóa trong thời gian quy định theo luật pháp hiện hành trừ khi được yêu cầu khác. Vì %2$s cung cấp dịch vụ dựa trên việc thu thập thông tin cá nhân cần thiết, việc bạn thu hồi sự đồng ý sẽ được xem là từ chối sử dụng dịch vụ %3$s. Bạn có muốn thu hồi ngay không?</string>
+    <string name="privacy_dialog_tips_update">Chính sách quyền riêng tư của %1$s đã được cập nhật: %2$s Vui lòng đọc và đồng ý với phiên bản mới của Chính sách quyền riêng tư trước khi tiếp tục.</string>
     <string name="privacy_dialog_title_update">Cập nhật Chính sách quyền riêng tư</string>
     <string name="privacy_policy_name_5g_mms">Tin nhắn 5G</string>
     <string name="privacy_policy_name_mms">Tin nhắn</string>
@@ -1442,7 +1440,7 @@ Vui lòng đọc và đồng ý với phiên bản mới của Chính sách quy�
     <string name="rcs_bw_menu_refresh">Làm mới</string>
     <string name="rcs_bw_menu_search">Tìm trong trang</string>
     <string name="rcs_bw_menu_share">Gửi cho liên hệ</string>
-    <string name="rcs_bw_network_error_desc">Lỗi mạng (%d,%s)</string>
+<string name="rcs_bw_network_error_desc">Lỗi mạng (%1$d,%2$s)</string>
     <string name="rcs_bw_network_error_title">Không thể mở trang</string>
     <string name="rcs_bw_open_file_failed">Không thể truy cập tệp</string>
     <string name="rcs_bw_permission_tip_audio">Yêu cầu quyền truy cập micro</string>
@@ -1616,9 +1614,13 @@ Hãy bật dữ liệu di động và mở lại trang này.</string>
     <string name="sub_sim_not_support_mms">Không thể gửi MMS bằng SIM phụ</string>
     <string name="suspected_fraud_tip">Có thể là lừa đảo</string>
     <string name="system_permission_declare_disagree">Hủy</string>
-    <string name="system_permission_declare_double_link">Vui lòng đọc và đồng ý với %1s và %2s trước khi sử dụng tính năng này.</string>
+<string name="system_permission_declare_double_link">
+Vui lòng đọc và đồng ý với %1$s và %2$s trước khi sử dụng tính năng này.
+</string>
     <string name="system_permission_declare_exit">Thoát</string>
-    <string name="system_permission_declare_main_purpose">Chào mừng đến với %1s! %2s</string>
+<string name="system_permission_declare_main_purpose">
+Chào mừng đến với %1$s! %2$s
+</string>
     <string name="system_permission_declare_mi_message">Chào mừng đến với Tin nhắn Mi!</string>
     <string name="system_permission_declare_no_say_no">Chúng tôi sẽ bảo vệ thông tin cá nhân của bạn theo các luật, quy định và chính sách quyền riêng tư liên quan.
 Nếu bạn không đồng ý cấp các quyền này hoặc chia sẻ/ tải lên thông tin cá nhân, bạn sẽ không thể sử dụng ứng dụng.</string>
