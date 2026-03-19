@@ -2147,4 +2147,6 @@ thẻ tiếp theo"</string>
 	<string name="sst_mobile_data_only_new">Tải ảnh qua dữ liệu di động</string>
 	<string name="sst_morning_greeting">Lời chào buổi sáng</string>
 	<string name="sst_morning_greeting_history_picture">Lịch sử lời chào buổi sáng</string>
+	<string name="sst_lockscreen_swipe_right">Vuốt sang phải từ màn hình khóa</string>
+    <string name="sst_lockscreen_swipe_right_desc">"Vuốt sang phải từ màn hình khóa khi màn hình sáng để xem thêm nội dung"</string>
 </resources>
