@@ -1841,4 +1841,12 @@ Ghi chú: Chỉ cho phiên bản Ubuntu 8.04!"</item>
         <item>Tất cả thẻ</item>
         <item>Thẻ được hệ thống nhận dạng</item>
     </string-array>
+		    <string-array name="bt_half_close_switch_list_entries">
+        <item>Ngắt kết nối tất cả</item>
+        <item>Cho phép dịch vụ hệ thống</item>
+    </string-array>
+    <string-array name="bt_half_close_switch_list_summary">
+        <item>Tất cả thiết bị và tính năng Bluetooth sẽ bị ngắt kết nối</item>
+        <item>Một số dịch vụ hệ thống sẽ tiếp tục sử dụng Bluetooth</item>
+    </string-array>
 </resources>
