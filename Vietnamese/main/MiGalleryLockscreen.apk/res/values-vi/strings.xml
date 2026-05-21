@@ -2149,4 +2149,8 @@ thẻ tiếp theo"</string>
 	<string name="sst_morning_greeting_history_picture">Lịch sử lời chào buổi sáng</string>
 	<string name="sst_lockscreen_swipe_right">Vuốt sang phải từ màn hình khóa</string>
     <string name="sst_lockscreen_swipe_right_desc">"Vuốt sang phải từ màn hình khóa khi màn hình sáng để xem thêm nội dung"</string>
+	<string name="sst_disable_dlg_cancel">Huỷ</string>
+    <string name="sst_disable_dlg_close">Tắt</string>
+    <string name="sst_disable_dlg_content">"Nếu tắt trình chiếu, bạn sẽ không còn thấy ảnh nổi bật trên Màn hình khóa nữa. Vẫn tắt?"</string>
+    <string name="sst_disable_dlg_title">Tắt trình chiếu?</string>
 </resources>
