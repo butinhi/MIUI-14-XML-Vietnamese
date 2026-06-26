@@ -2747,7 +2747,7 @@ Vui lòng gửi mã này cho nhân viên kỹ thuật."</string>
 	<string name="pa_smart_shortcut_widget_label">Gợi ý ứng dụng</string>
 	<string name="pa_picker_detail_edit_maml_net_unavailable">Không thể kết nối mạng. Kiểm tra cài đặt mạng và thử lại.</string>
 	<string name="pa_lite_setting_service_note">Ghi chú </string>
-	<string name="pa_picker_detail_bottom_bt_source_minus">Bật App vault</string>
+	<string name="pa_picker_detail_bottom_bt_source_minus">Kho tiện ích</string>
 	<string name="pa_express_settings_dialog_ok">Xóa</string>
 	<string name="pa_stock_widget_button_add_stock">Thêm</string>
 	<string name="pa_login_ok">Đăng nhập</string>
@@ -2762,7 +2762,7 @@ Vui lòng gửi mã này cho nhân viên kỹ thuật."</string>
 	<string name="pa_sports_match_league_title">Tất cả sự kiện</string>
 	<string name="pa_edit_every_week">Hàng tuần</string>
 	<string name="pa_stock_empty_follow_list">Chưa có mục nào ở đây</string>
-	<string name="pa_shortcut_accessibility_service">Bật App vault</string>
+	<string name="pa_shortcut_accessibility_service">Kho tiện ích</string>
 	<string name="pa_stock_not_found_related_items">Không tìm thấy kết quả</string>
 	<string name="pa_setting">Cài đặt</string>
 	<string name="pa_setting_bugreport">Phản hồi</string>
@@ -2822,7 +2822,7 @@ Vui lòng gửi mã này cho nhân viên kỹ thuật."</string>
 	<string name="pa_picker_detail_add_widget_success">Đã thêm thành công</string>
 	<string name="pa_recommend_card_image_text_null_des">Không có dữ liệu</string>
 	<string name="pa_picker_home_request_failed">Không thể kết nối mạng, hãy thử lại sau</string>
-	<string name="pa_app_label">Bật App vault</string>
+	<string name="pa_app_label">Kho tiện ích</string>
 	<string name="pa_edit_select_image">Định dạng</string>
 	<string name="pa_setting_privacy_category_perm">Quản lý Quyền</string>
 	<string name="pa_picker_detail_modify_maml">Sửa</string>
